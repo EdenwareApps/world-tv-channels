@@ -1,0 +1,40 @@
+{
+   "General": [
+      "AB TV",
+      "ATN Bangla",
+      "BTV World",
+      "Bangla Vision",
+      "Bijoy TV",
+      "Boishakhi TV",
+      "Channel B",
+      "Channel I",
+      "Nexus TV",
+      "RTV",
+      "SATV",
+      "Sangshad TV"
+   ],
+   "News": [
+      "ATN News",
+      "Channel 24",
+      "DBC News",
+      "Ekushey TV",
+      "Independent TV",
+      "Jamuna TV",
+      "News 24",
+      "Somoy News TV"
+   ],
+   "Local": [
+      "BTV Chittagong",
+      "Channel 9"
+   ],
+   "Entertainment": [
+      "Colosal TV",
+      "Nokshi TV"
+   ],
+   "Music": [
+      "Gaan Bangla"
+   ],
+   "Religious": [
+      "Peace TV Bangla"
+   ]
+}
