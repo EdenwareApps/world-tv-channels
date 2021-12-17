@@ -10,18 +10,6 @@
       "Televisa News Mexico"
    ],
    "Entertainment": [
-      "Canal Once TV IPN",
-      "TV Azteca 7",
-      "Tabasco Hoy TV"
-   ],
-   "Education & Culture": [
-      "MTC Mexico Travel Channel"
-   ],
-   "Religious": [
-      "María Visión Mexico",
-      "Monte Maria"
-   ],
-   "General": [
       "ADN 40",
       "Alcarria TV",
       "Canal 10",
@@ -29,6 +17,7 @@
       "Canal 44 Chihuahua",
       "Canal Mundo+",
       "Canal Once Internacional",
+      "Canal Once TV IPN",
       "Claro Sports",
       "CorTV",
       "Energía Musical TV",
@@ -60,6 +49,7 @@
       "SintesisTV",
       "Sipse TV Cancun",
       "TELE SISTEMA CANAL 9",
+      "TV Azteca 7",
       "TV Lobo",
       "TV Unam",
       "TVMAS",
@@ -68,6 +58,7 @@
       "TVP Culiacán",
       "TVP Los Mochis",
       "TVP Obregón",
+      "Tabasco Hoy TV",
       "TeleFormula",
       "Telefórmula",
       "Telemar Campeche",
@@ -78,6 +69,13 @@
       "UDG44 TV",
       "Uno TV",
       "adn40"
+   ],
+   "Education & Culture": [
+      "MTC Mexico Travel Channel"
+   ],
+   "Religious": [
+      "María Visión Mexico",
+      "Monte Maria"
    ],
    "Local": [
       "Azteca Uno",
@@ -103,10 +101,10 @@
       "Televisa Veracruz",
       "Televisa Zacatecas"
    ],
-   "Music": [
+   "Music Videos": [
       "Conecta TV"
    ],
-   "Movies": [
+   "Movies & Series": [
       "Moovimex"
    ]
 }

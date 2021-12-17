@@ -6,7 +6,20 @@
       "MESat",
       "The Kingdom Sat"
    ],
-   "General": [
+   "News": [
+      "Mekameleen TV",
+      "eXtra News"
+   ],
+   "Kids": [
+      "Koogi TV"
+   ],
+   "Comedy": [
+      "Nile TV Comedy"
+   ],
+   "Sports": [
+      "Nile TV Sport"
+   ],
+   "Entertainment": [
       "ATVSat",
       "Al Ghad",
       "Alrafidain",
@@ -16,6 +29,7 @@
       "MBC Masr 1",
       "MBC Masr 1 USA",
       "MBC Masr 2",
+      "Nile TV Family",
       "Noble TV",
       "Omg Channel TV",
       "Omg Series TV",
@@ -23,35 +37,15 @@
       "Ten TV",
       "Watan TV"
    ],
-   "News": [
-      "Mekameleen TV",
-      "eXtra News"
-   ],
-   "Kids": [
-      "Koogi TV"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Nile TV Cinema"
    ],
-   "Comedy": [
-      "Nile TV Comedy"
-   ],
-   "Culture": [
-      "Nile TV Culture"
-   ],
-   "Family": [
-      "Nile TV Family"
-   ],
-   "Education": [
-      "Nile TV Learning"
-   ],
-   "Lifestyle": [
+   "Education & Culture": [
+      "Nile TV Culture",
+      "Nile TV Learning",
       "Nile TV Life"
    ],
-   "Sports": [
-      "Nile TV Sport"
-   ],
-   "Music": [
+   "Music Videos": [
       "Nogoum FM TV"
    ]
 }

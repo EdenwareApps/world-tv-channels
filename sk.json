@@ -1,8 +1,12 @@
 {
-   "General": [
+   "Kids": [
+      "Duck TV"
+   ],
+   "Entertainment": [
       "BTV",
       "FashionTV Slovak&Czech",
       "JOJ",
+      "JOJ Family",
       "Kosice:dnes",
       "LocAll",
       "Nove Zamky",
@@ -27,11 +31,5 @@
       "TV WAU",
       "Televizia OSEM",
       "Wau TV"
-   ],
-   "Kids": [
-      "Duck TV"
-   ],
-   "Family": [
-      "JOJ Family"
    ]
 }

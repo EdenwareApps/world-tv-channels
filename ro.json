@@ -1,5 +1,23 @@
 {
-   "General": [
+   "News": [
+      "Aleph News",
+      "B1"
+   ],
+   "Religious": [
+      "Alfa Omega TV"
+   ],
+   "Sports": [
+      "AntenaSport"
+   ],
+   "Local": [
+      "Columna TV",
+      "Est TV",
+      "GTV"
+   ],
+   "Cooking": [
+      "Cook&Play"
+   ],
+   "Entertainment": [
       "7TV",
       "A7TV",
       "AgroTV",
@@ -15,6 +33,7 @@
       "EST TV",
       "H!t Music Channel Romania",
       "HD 365",
+      "Happy Channel",
       "Iasi TV Life",
       "Infinit TV",
       "Info HD",
@@ -62,27 +81,6 @@
       "TravelMix",
       "UTV",
       "VP TV"
-   ],
-   "News": [
-      "Aleph News",
-      "B1"
-   ],
-   "Religious": [
-      "Alfa Omega TV"
-   ],
-   "Sports": [
-      "AntenaSport"
-   ],
-   "Local": [
-      "Columna TV",
-      "Est TV",
-      "GTV"
-   ],
-   "Cooking": [
-      "Cook&Play"
-   ],
-   "Entertainment": [
-      "Happy Channel"
    ],
    "Music Videos": [
       "Kiss TV",

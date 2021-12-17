@@ -1,5 +1,26 @@
 {
-   "General": [
+   "Kids": [
+      "ABC Kids"
+   ],
+   "News": [
+      "ABC News",
+      "Australia Channel",
+      "Bloomberg TV Australia",
+      "Sky News Extra 1",
+      "Sky News Extra 2",
+      "Sky News Extra 3",
+      "ausbiz TV"
+   ],
+   "Shop": [
+      "Expo Channel"
+   ],
+   "Cooking": [
+      "SBS Food"
+   ],
+   "Sports": [
+      "Snowy Mountains Television"
+   ],
+   "Entertainment": [
       "10",
       "10 Bold",
       "10 Peach",
@@ -78,39 +99,14 @@
       "Smithsonian Channel",
       "Snowy Mountains TV",
       "TVSN",
+      "Time Line Australia",
       "Toon Goggles",
       "Travel XP",
       "VENN",
       "Zoo Moo",
       "澳大利亚天和电视"
    ],
-   "Kids": [
-      "ABC Kids"
-   ],
-   "News": [
-      "ABC News",
-      "Australia Channel",
-      "Sky News Extra 1",
-      "Sky News Extra 2",
-      "Sky News Extra 3"
-   ],
-   "Business": [
-      "Bloomberg TV Australia",
-      "ausbiz TV"
-   ],
-   "Shop": [
-      "Expo Channel"
-   ],
-   "Cooking": [
-      "SBS Food"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "SBS World Movies"
-   ],
-   "Sports": [
-      "Snowy Mountains Television"
-   ],
-   "Entertainment": [
-      "Time Line Australia"
    ]
 }

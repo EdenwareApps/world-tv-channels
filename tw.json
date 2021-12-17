@@ -1,16 +1,4 @@
 {
-   "General": [
-      "CTI TV Asia",
-      "FTV News",
-      "Indigenous TV",
-      "Legislative Yuan",
-      "原住民電視",
-      "大愛1",
-      "大愛2",
-      "大立電視",
-      "民視",
-      "民視第一"
-   ],
    "Religious": [
       "GOOD TV CH1 綜合台",
       "GOOD TV CH10 烤箱讀書會 短版",
@@ -55,9 +43,6 @@
       "GOOD TV CH9 愛+好醫生 短版",
       "唯心電視"
    ],
-   "Lifestyle": [
-      "GSTV Gorgeous Space TV"
-   ],
    "News": [
       "TVBS新聞",
       "中天新聞",
@@ -65,9 +50,7 @@
       "壹電視新聞台",
       "東森新聞",
       "東森財經新聞",
-      "民視台灣"
-   ],
-   "Legislative": [
+      "民視台灣",
       "立法院IVOD直播交通委員會",
       "立法院IVOD直播內政委員會",
       "立法院IVOD直播司法及法制委員會",
@@ -78,5 +61,20 @@
       "立法院IVOD直播經濟委員會",
       "立法院IVOD直播財政委員會",
       "立法院IVOD直播院會"
+   ],
+   "Entertainment": [
+      "CTI TV Asia",
+      "FTV News",
+      "Indigenous TV",
+      "Legislative Yuan",
+      "原住民電視",
+      "大愛1",
+      "大愛2",
+      "大立電視",
+      "民視",
+      "民視第一"
+   ],
+   "Education & Culture": [
+      "GSTV Gorgeous Space TV"
    ]
 }

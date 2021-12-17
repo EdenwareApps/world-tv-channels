@@ -1,5 +1,8 @@
 {
-   "General": [
+   "News": [
+      "Publika TV"
+   ],
+   "Entertainment": [
       "Acasa TV",
       "Bălţi TV",
       "Canal Regional",
@@ -9,8 +12,5 @@
       "TVR Moldova",
       "Vocea Basarabiei TV",
       "ТНТ Exclusiv TV"
-   ],
-   "News": [
-      "Publika TV"
    ]
 }

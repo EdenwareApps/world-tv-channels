@@ -1,5 +1,8 @@
 {
-   "General": [
+   "News": [
+      "N1 SLOVENSKA"
+   ],
+   "Entertainment": [
       "GTV",
       "MMC",
       "RTV MMC",
@@ -15,8 +18,5 @@
       "TV SLOVENIJA 3",
       "TVDX",
       "Veseljak TV"
-   ],
-   "News": [
-      "N1 SLOVENSKA"
    ]
 }

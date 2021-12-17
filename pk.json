@@ -12,7 +12,15 @@
    "Local": [
       "92 News UK"
    ],
-   "General": [
+   "Religious": [
+      "Madani Channel Bangla",
+      "Madani Channel Urdu",
+      "Peace TV Urdu"
+   ],
+   "Sports": [
+      "One Golf"
+   ],
+   "Entertainment": [
       "ARY Digital",
       "ARY News",
       "AVT Khyber",
@@ -27,13 +35,5 @@
       "PTV Sports",
       "PTV World",
       "Zindagi TV"
-   ],
-   "Religious": [
-      "Madani Channel Bangla",
-      "Madani Channel Urdu",
-      "Peace TV Urdu"
-   ],
-   "Sports": [
-      "One Golf"
    ]
 }

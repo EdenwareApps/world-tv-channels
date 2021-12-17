@@ -1,5 +1,31 @@
 {
-   "General": [
+   "Local": [
+      "BR6 TV",
+      "Feel Good TV",
+      "Ideaal TV",
+      "JenZ",
+      "LOE TV",
+      "LON TV",
+      "Lansingerland TV",
+      "ML5 TV",
+      "Omroep Centraal TV",
+      "Omroep Hulst TV",
+      "Omroep P&M TV",
+      "Omroep Tilburg TV",
+      "RTV Connect TV",
+      "RTV Purmerend",
+      "RTV Rijnstreek TV",
+      "Radio Aalsmeer TV",
+      "Regio8 TV",
+      "Regio90 TV",
+      "Samen1 TV",
+      "Siris TV",
+      "ZuidWest TV"
+   ],
+   "Shop": [
+      "Tommy Teleshopping"
+   ],
+   "Entertainment": [
       "BNR Nieuwsradio",
       "Breda Nu",
       "DNO Streek TV",
@@ -73,43 +99,16 @@
       "UStad",
       "Vechtdal TV",
       "WOS TV",
-      "XITE",
       "Xite",
       "ZO!34",
       "Zuid West TV",
       "rtvutrecht"
    ],
-   "Local": [
-      "BR6 TV",
-      "Feel Good TV",
-      "Ideaal TV",
-      "JenZ",
-      "LOE TV",
-      "LON TV",
-      "Lansingerland TV",
-      "ML5 TV",
-      "Omroep Centraal TV",
-      "Omroep Hulst TV",
-      "Omroep P&M TV",
-      "Omroep Tilburg TV",
-      "RTV Connect TV",
-      "RTV Purmerend",
-      "RTV Rijnstreek TV",
-      "Radio Aalsmeer TV",
-      "Regio8 TV",
-      "Regio90 TV",
-      "Samen1 TV",
-      "Siris TV",
-      "ZuidWest TV"
-   ],
-   "Music": [
+   "Music Videos": [
       "GO-RTV",
       "JENZ",
       "Qmusic",
       "Salto Brasa Music",
       "XITE"
-   ],
-   "Shop": [
-      "Tommy Teleshopping"
    ]
 }

@@ -1,5 +1,15 @@
 {
-   "General": [
+   "News": [
+      "RTU"
+   ],
+   "Religious": [
+      "TV Universal"
+   ],
+   "Local": [
+      "Visión Radio Televisión",
+      "Zaracay TV"
+   ],
+   "Entertainment": [
       "CanelaTV",
       "Ecotel",
       "Ecuador TV",
@@ -21,17 +31,7 @@
       "Unisión",
       "Wuan+"
    ],
-   "Education": [
+   "Education & Culture": [
       "EducaTV"
-   ],
-   "News": [
-      "RTU"
-   ],
-   "Religious": [
-      "TV Universal"
-   ],
-   "Local": [
-      "Visión Radio Televisión",
-      "Zaracay TV"
    ]
 }

@@ -1,5 +1,5 @@
 {
-   "General": [
+   "Entertainment": [
       "88 Stereo",
       "Anexión TV",
       "Antena Seis TV",
@@ -13,6 +13,7 @@
       "Colosal TV",
       "Extrema TV",
       "HBTV TicaVisión",
+      "Humor 24-7",
       "Quince UCR",
       "Repretel CDR-2 Central de Radios",
       "Retro TV Palmares",
@@ -23,15 +24,12 @@
       "Telered Television",
       "Teletica 7"
    ],
-   "Music": [
-      "Canal 38",
-      "Video Tour Channel"
-   ],
-   "Entertainment": [
-      "Humor 24-7"
-   ],
    "Local": [
       "NicoyaTV",
       "San Rafael en Linea"
+   ],
+   "Music Videos": [
+      "Canal 38",
+      "Video Tour Channel"
    ]
 }

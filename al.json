@@ -2,7 +2,19 @@
    "Music Videos": [
       "Supersonic TV"
    ],
-   "General": [
+   "News": [
+      "ABC News",
+      "Euronews Albania",
+      "News 24"
+   ],
+   "Kids": [
+      "Bang Bang",
+      "Çufo"
+   ],
+   "Religious": [
+      "Peace TV Albanian"
+   ],
+   "Entertainment": [
       "21 Mix",
       "21 Plus",
       "21 Popullore HD",
@@ -120,17 +132,5 @@
       "V Plus",
       "Zjarr Televizion",
       "dTV HD"
-   ],
-   "News": [
-      "ABC News",
-      "Euronews Albania",
-      "News 24"
-   ],
-   "Kids": [
-      "Bang Bang",
-      "Çufo"
-   ],
-   "Religious": [
-      "Peace TV Albanian"
    ]
 }

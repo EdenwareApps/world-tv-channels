@@ -1,18 +1,18 @@
 {
-   "General": [
+   "Religious": [
+      "Hosanna Vision"
+   ],
+   "Entertainment": [
       "Cabina RPC Radio",
       "Cabina Telemetro Radio",
       "RPC",
       "TVN",
       "Telemetro"
    ],
-   "Animation": [
+   "Kids": [
       "DreikoTv"
    ],
-   "Religious": [
-      "Hosanna Vision"
-   ],
-   "Music": [
+   "Music Videos": [
       "Oye TV"
    ]
 }

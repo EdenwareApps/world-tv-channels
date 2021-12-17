@@ -1,8 +1,5 @@
 {
-   "Child": [
-      "3 ABN KIDS"
-   ],
-   "General": [
+   "Entertainment": [
       "1-2-3 TV",
       "3Sat",
       "3sat",
@@ -15,6 +12,7 @@
       "Alex Berlin",
       "Anixe HD",
       "Antenne Vorarlberg",
+      "Arte Deutsch",
       "BLK Regional TV",
       "BLK TV",
       "BLK TV Hohenmölsen",
@@ -61,7 +59,6 @@
       "Filstalwelle",
       "Filstalwelle Göppingen",
       "Finest TV",
-      "Franken Fernsehen",
       "Franken Fernsehen",
       "Franken Fernsehen Nürnberg",
       "Friesischer Rundfunk Friedeburg",
@@ -251,20 +248,12 @@
       "tagesschau24",
       "teltOwkanal"
    ],
-   "Entertainment": [
-      "Arte Deutsch"
-   ],
    "News": [
       "CNN International Germany",
       "DW Deutsch",
       "DW Deutsch+",
       "Euronews Deutsch",
       "WELT"
-   ],
-   "Music": [
-      "Deluxe Lounge HD",
-      "Radio 21 TV",
-      "Radio Weser TV Bremen"
    ],
    "Religious": [
       "EWTN katholisches TV",
@@ -275,5 +264,13 @@
    ],
    "Sports": [
       "World of Freesports"
+   ],
+   "Kids": [
+      "3 ABN KIDS"
+   ],
+   "Music Videos": [
+      "Deluxe Lounge HD",
+      "Radio 21 TV",
+      "Radio Weser TV Bremen"
    ]
 }

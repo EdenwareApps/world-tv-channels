@@ -1,18 +1,4 @@
 {
-   "General": [
-      "AB TV",
-      "ATN Bangla",
-      "BTV World",
-      "Bangla Vision",
-      "Bijoy TV",
-      "Boishakhi TV",
-      "Channel B",
-      "Channel I",
-      "Nexus TV",
-      "RTV",
-      "SATV",
-      "Sangshad TV"
-   ],
    "News": [
       "ATN News",
       "Channel 24",
@@ -28,13 +14,25 @@
       "Channel 9"
    ],
    "Entertainment": [
+      "AB TV",
+      "ATN Bangla",
+      "BTV World",
+      "Bangla Vision",
+      "Bijoy TV",
+      "Boishakhi TV",
+      "Channel B",
+      "Channel I",
       "Colosal TV",
-      "Nokshi TV"
-   ],
-   "Music": [
-      "Gaan Bangla"
+      "Nexus TV",
+      "Nokshi TV",
+      "RTV",
+      "SATV",
+      "Sangshad TV"
    ],
    "Religious": [
       "Peace TV Bangla"
+   ],
+   "Music Videos": [
+      "Gaan Bangla"
    ]
 }

@@ -12,17 +12,7 @@
       "ZAD TV"
    ],
    "News": [
-      "Al Ekhbariya"
-   ],
-   "General": [
-      "AL HOKAIR Group TV",
-      "Al Khalij",
-      "Al Saudiya",
-      "Rotana Drama",
-      "Rotana+",
-      "SBC"
-   ],
-   "Business": [
+      "Al Ekhbariya",
       "Asharq"
    ],
    "Kids": [
@@ -39,21 +29,26 @@
       "SSC Action Waleed Extra",
       "SSC1 HD"
    ],
-   "Music": [
+   "Comedy": [
+      "Rotana Comedy"
+   ],
+   "Entertainment": [
+      "AL HOKAIR Group TV",
+      "Al Khalij",
+      "Al Saudiya",
+      "Rotana Drama",
+      "Rotana+",
+      "SBC"
+   ],
+   "Music Videos": [
       "MBC FM",
       "Panorama FM",
       "Rotana Khalijia"
    ],
-   "Movies": [
+   "Movies & Series": [
       "Rotana Cinema",
-      "Rotana Cinema",
-      "Rotana Cinema KSA"
-   ],
-   "Classic": [
+      "Rotana Cinema KSA",
       "Rotana Classic",
       "Thikrayat TV"
-   ],
-   "Comedy": [
-      "Rotana Comedy"
    ]
 }

@@ -1,5 +1,27 @@
 {
-   "General": [
+   "News": [
+      "100% News",
+      "24 Канал",
+      "Перший незалежний"
+   ],
+   "Travel": [
+      "BamBarBia TV",
+      "Travel Guide TV"
+   ],
+   "Religious": [
+      "CNL Европа"
+   ],
+   "Kids": [
+      "Lale"
+   ],
+   "Sports": [
+      "Sport 1",
+      "Футбол 1"
+   ],
+   "Local": [
+      "TV7+"
+   ],
+   "Entertainment": [
       "1 Krivoy Rog",
       "1 Odessa",
       "1+1 Спорт",
@@ -74,7 +96,6 @@
       "ВТВ",
       "Глас",
       "Гласс",
-      "Гласс",
       "Думская ТВ",
       "Здоровье",
       "ИРТ",
@@ -93,9 +114,7 @@
       "Одесса",
       "Орбіта ТВ",
       "Первый Городской",
-      "Первый Городской",
       "Первый Деловой",
-      "Первый городской",
       "Первый городской",
       "Перший Діловий",
       "Перший Західний",
@@ -120,35 +139,13 @@
       "Южная Волна ТВ",
       "ЯТБ"
    ],
-   "News": [
-      "100% News",
-      "24 Канал",
-      "Перший незалежний"
-   ],
-   "Travel": [
-      "BamBarBia TV",
-      "Travel Guide TV"
-   ],
-   "Religious": [
-      "CNL Европа"
-   ],
-   "Lifestyle": [
+   "Education & Culture": [
       "HDFashion & LifeStyle",
       "ID Fashion",
       "Odessa Fashion"
    ],
-   "Kids": [
-      "Lale"
-   ],
-   "Music": [
+   "Music Videos": [
       "M1",
       "M2"
-   ],
-   "Sports": [
-      "Sport 1",
-      "Футбол 1"
-   ],
-   "Local": [
-      "TV7+"
    ]
 }

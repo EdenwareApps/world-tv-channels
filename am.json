@@ -1,8 +1,6 @@
 {
    "Entertainment": [
-      "21TV"
-   ],
-   "General": [
+      "21TV",
       "ARTN TV",
       "ATV",
       "ATV Թավա TV",
@@ -16,17 +14,6 @@
       "Նոր Հայաստան",
       "Շանթ"
    ],
-   "Movies": [
-      "ATV Կինոման",
-      "ATV Ֆիլմզոն",
-      "Armenia Premium",
-      "Armenia Հայ Կինո"
-   ],
-   "Music": [
-      "ATV Հայ TV",
-      "Armenia Ջան TV",
-      "Fresh TV"
-   ],
    "Comedy": [
       "Armenia Քոմեդի"
    ],
@@ -38,5 +25,16 @@
    ],
    "Religious": [
       "Շողակաթ"
+   ],
+   "Movies & Series": [
+      "ATV Կինոման",
+      "ATV Ֆիլմզոն",
+      "Armenia Premium",
+      "Armenia Հայ Կինո"
+   ],
+   "Music Videos": [
+      "ATV Հայ TV",
+      "Armenia Ջան TV",
+      "Fresh TV"
    ]
 }

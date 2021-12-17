@@ -1,11 +1,9 @@
 {
    "Entertainment": [
-      "Island Luck TV"
-   ],
-   "Legislative": [
-      "The Parliamentary Channel"
-   ],
-   "General": [
+      "Island Luck TV",
       "ZNS TV"
+   ],
+   "News": [
+      "The Parliamentary Channel"
    ]
 }

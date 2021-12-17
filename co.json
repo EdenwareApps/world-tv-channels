@@ -1,17 +1,27 @@
 {
    "Entertainment": [
+      "Canal 2",
+      "Canal C",
+      "Canal Capital",
+      "Canal Caracol",
+      "Canal Institucional TV",
       "Canal RCN Novelas",
+      "Canal Visión Dorada",
+      "Enlace Televisión",
+      "Famili Channel",
+      "LATAM TV",
+      "Mi Gente TV",
+      "Señal Colombia",
+      "TDI Colombia",
       "TV Caracol",
+      "TVN Global",
       "Teleantioquia",
+      "Teleantioquia 2",
+      "Teleislas",
       "Telemedellin",
       "Telenord Canal 8",
+      "Television Celestial",
       "UNO PLAY"
-   ],
-   "Music": [
-      "Amordiscos",
-      "Canal Son TV",
-      "Melody Channel Colombia",
-      "Telemúsica TV"
    ],
    "Local": [
       "ATV",
@@ -26,36 +36,19 @@
       "Avivamiento TV",
       "TVGracia"
    ],
-   "General": [
-      "Canal 2",
-      "Canal C",
-      "Canal Capital",
-      "Canal Caracol",
-      "Canal Institucional TV",
-      "Canal Visión Dorada",
-      "Enlace Televisión",
-      "LATAM TV",
-      "Mi Gente TV",
-      "Señal Colombia",
-      "TDI Colombia",
-      "TVN Global",
-      "Teleantioquia",
-      "Teleantioquia 2",
-      "Teleislas",
-      "Television Celestial"
-   ],
-   "Series": [
-      "Chavo TV"
-   ],
-   "Movies": [
-      "Cinema+",
-      "MovieFe"
-   ],
-   "Family": [
-      "Famili Channel"
-   ],
    "News": [
       "NTN24",
       "Noticias Caracol"
+   ],
+   "Music Videos": [
+      "Amordiscos",
+      "Canal Son TV",
+      "Melody Channel Colombia",
+      "Telemúsica TV"
+   ],
+   "Movies & Series": [
+      "Chavo TV",
+      "Cinema+",
+      "MovieFe"
    ]
 }

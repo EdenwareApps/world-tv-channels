@@ -11,7 +11,42 @@
       "Islam Channel",
       "Loveworld TV"
    ],
-   "General": [
+   "News": [
+      "Arise News",
+      "CNN International UK",
+      "GB News",
+      "Iran International",
+      "RT UK",
+      "Sky News"
+   ],
+   "Local": [
+      "Sheffield Live TV"
+   ],
+   "Comedy": [
+      "Comedy Channel"
+   ],
+   "Shop": [
+      "Craft Store TV",
+      "Cruise1st TV",
+      "Gems TV",
+      "Ideal World TV"
+   ],
+   "Sports": [
+      "EDGESport",
+      "EDGEsport",
+      "FreeSports",
+      "Horse & Country TV",
+      "SKI TV",
+      "Ski TV",
+      "Sports Tonight",
+      "Sporty Stuff TV"
+   ],
+   "Kids": [
+      "IGN TV",
+      "Moonbug Kids",
+      "Nick Jr Too UK"
+   ],
+   "Entertainment": [
       "92 News UK",
       "ATN Bangla UK",
       "Action Movies",
@@ -90,14 +125,12 @@
       "Bloomberg EU Event",
       "Bloomberg+ 4K",
       "Brit Asia Live",
-      "Brit Asia Live",
       "CBBC",
       "CBBC HD",
       "CBeebies",
       "CBeebies HD",
       "CGTN",
       "CNN Int.",
-      "Channel S",
       "Channel S",
       "Chelsea TV",
       "Clubbing TV",
@@ -152,6 +185,7 @@
       "MTA 3",
       "MTA Africa",
       "Magic",
+      "Magna Vision",
       "Manoto",
       "Masters of Food",
       "Mav TV",
@@ -217,15 +251,7 @@
       "iON TV",
       "n TV"
    ],
-   "News": [
-      "Arise News",
-      "CNN International UK",
-      "GB News",
-      "Iran International",
-      "RT UK",
-      "Sky News"
-   ],
-   "Music": [
+   "Music Videos": [
       "Box Hits",
       "Qello Concerts by Stingray",
       "Qwest TV Classical",
@@ -234,43 +260,10 @@
       "The Box UK",
       "V2BEAT"
    ],
-   "Local": [
-      "Channel S",
-      "Sheffield Live TV"
-   ],
-   "Comedy": [
-      "Comedy Channel"
-   ],
-   "Shop": [
-      "Craft Store TV",
-      "Cruise1st TV",
-      "Gems TV",
-      "Ideal World TV"
-   ],
-   "Series": [
+   "Movies & Series": [
       "Dark Matter TV"
    ],
-   "Sports": [
-      "EDGESport",
-      "EDGEsport",
-      "FreeSports",
-      "SKI TV",
-      "Ski TV",
-      "Sports Tonight",
-      "Sporty Stuff TV"
-   ],
-   "Outdoor": [
-      "Horse & Country TV"
-   ],
-   "Kids": [
-      "IGN TV",
-      "Moonbug Kids",
-      "Nick Jr Too UK"
-   ],
-   "Lifestyle": [
+   "Education & Culture": [
       "Jewelery Maker"
-   ],
-   "Entertainment": [
-      "Magna Vision"
    ]
 }

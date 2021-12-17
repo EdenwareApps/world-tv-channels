@@ -4,7 +4,14 @@
       "Halab Today TV",
       "Syrian News Channel"
    ],
-   "General": [
+   "Religious": [
+      "Noor Al-Sham",
+      "Suboro TV"
+   ],
+   "Kids": [
+      "Spacetoon"
+   ],
+   "Entertainment": [
       "Lana TV",
       "Lana TV Plus",
       "Rojava TV",
@@ -16,20 +23,13 @@
       "Syria TV",
       "Ugarit TV"
    ],
-   "Religious": [
-      "Noor Al-Sham",
-      "Suboro TV"
-   ],
-   "Music": [
+   "Music Videos": [
       "Souryana Radio"
    ],
-   "Kids": [
-      "Spacetoon"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Syria Drama"
    ],
-   "Education": [
+   "Education & Culture": [
       "Syrian Education TV"
    ]
 }

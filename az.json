@@ -1,5 +1,16 @@
 {
-   "General": [
+   "News": [
+      "ARB 24",
+      "Azerbaijan News TV",
+      "CBC"
+   ],
+   "Kids": [
+      "ARB Günəş"
+   ],
+   "Sports": [
+      "İdman TV"
+   ],
+   "Entertainment": [
       "ARB",
       "Alvin Channel TV",
       "Az Star TV",
@@ -18,21 +29,10 @@
       "İctimai TV",
       "İnterAz"
    ],
-   "News": [
-      "ARB 24",
-      "Azerbaijan News TV",
-      "CBC"
-   ],
-   "Kids": [
-      "ARB Günəş"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "FTV"
    ],
-   "Sports": [
-      "İdman TV"
-   ],
-   "Culture": [
+   "Education & Culture": [
       "Mədəniyyət TV"
    ]
 }

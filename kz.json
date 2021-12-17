@@ -1,5 +1,9 @@
 {
-   "General": [
+   "News": [
+      "Atameken Business",
+      "Caspian News"
+   ],
+   "Entertainment": [
       "31 канал",
       "7 канал",
       "Asyl Arna",
@@ -14,13 +18,7 @@
       "СТВ",
       "Хабар 24"
    ],
-   "Business": [
-      "Atameken Business"
-   ],
-   "News": [
-      "Caspian News"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Ел Арна"
    ]
 }

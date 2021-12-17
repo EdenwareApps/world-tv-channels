@@ -1,20 +1,4 @@
 {
-   "Music": [
-      "Aghani Aghani",
-      "Arabica TV"
-   ],
-   "General": [
-      "Al Ittihad",
-      "Al Jadeed",
-      "Alhayat TV",
-      "Future TV",
-      "LBC",
-      "LBC International",
-      "NBN",
-      "OTV",
-      "Sawt El Mada",
-      "Tele Liban"
-   ],
    "News": [
       "Al Manar",
       "Al Mayadeen",
@@ -32,5 +16,21 @@
    ],
    "Kids": [
       "Taha TV"
+   ],
+   "Music Videos": [
+      "Aghani Aghani",
+      "Arabica TV"
+   ],
+   "Entertainment": [
+      "Al Ittihad",
+      "Al Jadeed",
+      "Alhayat TV",
+      "Future TV",
+      "LBC",
+      "LBC International",
+      "NBN",
+      "OTV",
+      "Sawt El Mada",
+      "Tele Liban"
    ]
 }

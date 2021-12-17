@@ -2,8 +2,10 @@
    "News": [
       "CBC News Highlights",
       "CBC News Network",
+      "CPAC",
       "CPAC English",
       "CTV News",
+      "Canal de l'Assemblée nationale",
       "Cheknews",
       "Global News British Columbia",
       "Global News Calgary",
@@ -19,7 +21,10 @@
       "Global News Saskatoon",
       "Global News Toronto",
       "Global News Winnipeg",
-      "Ici RDI"
+      "Ici RDI",
+      "Ontario Parliamentary Network",
+      "The Weather Network",
+      "The Weather Network Event"
    ],
    "Religious": [
       "Amazing Discoveries TV",
@@ -33,9 +38,39 @@
       "Salt + Light Television"
    ],
    "Education & Culture": [
+      "Canal Savoir",
       "Shifa TV"
    ],
-   "General": [
+   "Local": [
+      "CBC Calgary",
+      "CBC Charlottetown",
+      "CBC Edmonton",
+      "CBC Fredericton",
+      "CBC Halifax",
+      "CBC Montreal",
+      "CBC Ottawa",
+      "CBC Regina",
+      "CBC St Johns",
+      "CBC Toronto",
+      "CBC Vancouver",
+      "CBC Windsor",
+      "CBC Winnipeg",
+      "CBC Yellowknife",
+      "Jess TV",
+      "Montreal Greek TV",
+      "TV 16 Toronto",
+      "TVC9",
+      "Toronto 360 TV",
+      "Uvagut TV"
+   ],
+   "Sports": [
+      "Fight Network"
+   ],
+   "Kids": [
+      "Knowledge",
+      "TVOKids"
+   ],
+   "Entertainment": [
       "5AAB TV",
       "Adventure Sports Network",
       "All time",
@@ -155,7 +190,7 @@
       "World Poker Tour",
       "eScapes"
    ],
-   "Music": [
+   "Music Videos": [
       "404 Stingray Greatest Hits",
       "405 Stingray Hit List",
       "406 Stingray Classic Rock",
@@ -178,59 +213,14 @@
       "Stingray Holiday Hits",
       "Stingray Hot Country",
       "Stingray Karaoke",
-      "Stingray Karaoke",
-      "Stingray Karaoke",
       "Stingray Karoke",
-      "Stingray Naturescape",
       "Stingray Naturescape",
       "Stingray Qello",
       "Stingray Qello Concerts",
       "Stingray Soul Storm",
       "Stingray djazz"
    ],
-   "Legislative": [
-      "CPAC",
-      "Canal de l'Assemblée nationale",
-      "Ontario Parliamentary Network",
-      "Ontario Parliamentary Network"
-   ],
-   "Documentary": [
-      "Canal Savoir"
-   ],
-   "Local": [
-      "CBC Calgary",
-      "CBC Charlottetown",
-      "CBC Edmonton",
-      "CBC Fredericton",
-      "CBC Halifax",
-      "CBC Montreal",
-      "CBC Ottawa",
-      "CBC Regina",
-      "CBC St Johns",
-      "CBC Toronto",
-      "CBC Vancouver",
-      "CBC Windsor",
-      "CBC Winnipeg",
-      "CBC Yellowknife",
-      "Jess TV",
-      "Montreal Greek TV",
-      "TV 16 Toronto",
-      "TVC9",
-      "Toronto 360 TV",
-      "Uvagut TV"
-   ],
-   "Sports": [
-      "Fight Network"
-   ],
-   "Kids": [
-      "Knowledge",
-      "TVOKids"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "NETV Toronto"
-   ],
-   "Weather": [
-      "The Weather Network",
-      "The Weather Network Event"
    ]
 }

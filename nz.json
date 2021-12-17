@@ -1,9 +1,15 @@
 {
-   "Music": [
+   "Shop": [
+      "TVSN Shopping"
+   ],
+   "Kids": [
+      "Zoo Moo"
+   ],
+   "Music Videos": [
       "Breeze TV",
       "The Edge"
    ],
-   "General": [
+   "Entertainment": [
       "Firstlight",
       "Juice TV",
       "Kordia TV",
@@ -18,13 +24,7 @@
       "Three",
       "Wairarapa TV"
    ],
-   "Legislative": [
+   "News": [
       "Parliament TV"
-   ],
-   "Shop": [
-      "TVSN Shopping"
-   ],
-   "Kids": [
-      "Zoo Moo"
    ]
 }

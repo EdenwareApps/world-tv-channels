@@ -1,5 +1,25 @@
 {
-   "General": [
+   "Local": [
+      "BCI 24 News",
+      "Channel 9",
+      "Ena Channel",
+      "Epirus TV1",
+      "Irida TV",
+      "PLP",
+      "TV Creta"
+   ],
+   "News": [
+      "ERT News"
+   ],
+   "Sports": [
+      "ERT Sports",
+      "ERT Sports 2",
+      "ERT Sports 3"
+   ],
+   "Kids": [
+      "Kids TV"
+   ],
+   "Entertainment": [
       "34100 TV",
       "4E",
       "ANT1",
@@ -98,36 +118,16 @@
       "ΡΙΚ Sat",
       "Σύρος TV1"
    ],
-   "Movies": [
+   "Movies & Series": [
       "Alfa Dramas",
       "Groovy TV",
       "Wixlar"
    ],
-   "Music": [
+   "Music Videos": [
       "Baraza TV",
       "Magic TV",
       "NG",
       "Play TV",
       "Xalastra TV"
-   ],
-   "Local": [
-      "BCI 24 News",
-      "Channel 9",
-      "Ena Channel",
-      "Epirus TV1",
-      "Irida TV",
-      "PLP",
-      "TV Creta"
-   ],
-   "News": [
-      "ERT News"
-   ],
-   "Sports": [
-      "ERT Sports",
-      "ERT Sports 2",
-      "ERT Sports 3"
-   ],
-   "Kids": [
-      "Kids TV"
    ]
 }

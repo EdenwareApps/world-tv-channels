@@ -6,28 +6,6 @@
       "canalLUZ"
    ],
    "Entertainment": [
-      "Canal 26",
-      "LatinoKids",
-      "TangoTV",
-      "Telpin TV",
-      "Vorterix"
-   ],
-   "News": [
-      "24/7 Canal de Noticias",
-      "A24",
-      "Canal 26",
-      "Informacion Periodística",
-      "RT en Español",
-      "TN Argentina",
-      "VPItv",
-      "teleSUR"
-   ],
-   "Sports": [
-      "Claro Sports",
-      "DeporTV",
-      "DeporTV"
-   ],
-   "General": [
       "5RTv",
       "5TV",
       "Argentinísima Satelital",
@@ -56,6 +34,7 @@
       "Encuentro",
       "GenTV",
       "La Voz de Tucuman",
+      "LatinoKids",
       "Live Perú TV Streaming",
       "Magic Kids",
       "Medios Rioja",
@@ -70,26 +49,30 @@
       "T5 Satelital",
       "TV Pública",
       "TVG América",
+      "TangoTV",
       "Teleclásicos",
       "Telemax",
       "Telesol",
       "Telpin Canal 2",
       "Telpin TV",
       "Tierra Mía TV",
-      "VerTV"
+      "VerTV",
+      "Vorterix"
    ],
-   "Music": [
-      "A Son de Salsa",
-      "MusicTop",
-      "Planeta Multimedios"
+   "News": [
+      "24/7 Canal de Noticias",
+      "A24",
+      "Canal 26",
+      "Informacion Periodística",
+      "RT en Español",
+      "TN Argentina",
+      "VPItv",
+      "teleSUR"
    ],
-   "Outdoor": [
-      "AgrotendenciaTV"
-   ],
-   "Animation": [
-      "Anime Zone TV",
-      "Locomotion TV",
-      "Toonizaki"
+   "Sports": [
+      "AgrotendenciaTV",
+      "Claro Sports",
+      "DeporTV"
    ],
    "Local": [
       "AVC HD",
@@ -106,29 +89,33 @@
       "Telenord Corrientes"
    ],
    "Kids": [
+      "Anime Zone TV",
       "Boomerang Latinoamérica",
-      "Pakapaka"
-   ],
-   "Lifestyle": [
-      "CHIC Magazine"
+      "Locomotion TV",
+      "Pakapaka",
+      "Toonizaki"
    ],
    "Auto": [
       "El Garage TV"
-   ],
-   "Science": [
-      "Hiperconectados Televisión"
-   ],
-   "Education": [
-      "Platzi TV",
-      "TVU Universidad Nacional de La Plata"
-   ],
-   "Series": [
-      "SEO TV Novelas"
    ],
    "Comedy": [
       "SoloStandUp"
    ],
    "Cooking": [
       "Tastemade en Español"
+   ],
+   "Music Videos": [
+      "A Son de Salsa",
+      "MusicTop",
+      "Planeta Multimedios"
+   ],
+   "Education & Culture": [
+      "CHIC Magazine",
+      "Hiperconectados Televisión",
+      "Platzi TV",
+      "TVU Universidad Nacional de La Plata"
+   ],
+   "Movies & Series": [
+      "SEO TV Novelas"
    ]
 }

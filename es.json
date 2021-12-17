@@ -6,42 +6,6 @@
       "Tarotéame"
    ],
    "Entertainment": [
-      "A3 Latino",
-      "Antena3 Espanha",
-      "Aragon TV",
-      "Canal Extremadura",
-      "Canal Vasco",
-      "Cuatro",
-      "ETB Sat",
-      "LA SEXTA",
-      "La Voz 24h",
-      "SEVILHA TV"
-   ],
-   "Child": [
-      "Animes TV ES"
-   ],
-   "Education & Culture": [
-      "RTVE"
-   ],
-   "Sports": [
-      "Esport3",
-      "Real Madrid TV",
-      "Real Madrid TV",
-      "TV Sevilla FC",
-      "Trace Sport Stars"
-   ],
-   "News": [
-      "101TV Malaga",
-      "24 Horas",
-      "3/24",
-      "7 Noticias",
-      "7 TV Andalucía",
-      "DW Español",
-      "DW Español",
-      "DW Latino America",
-      "France 24 Español"
-   ],
-   "General": [
       "+24",
       "+tdp",
       "25 TV",
@@ -51,11 +15,14 @@
       "7 Murcia",
       "8 TV Cádiz",
       "9 la Loma TV",
+      "A3 Latino",
       "ATV Andorra",
       "Action Movies",
       "Alacanti TV",
       "Alacantí TV",
       "Alcarria TV",
+      "Antena3 Espanha",
+      "Aragon TV",
       "Aragón Radio",
       "Aragón TV",
       "Bailén TV",
@@ -90,6 +57,7 @@
       "Canal Sur Andalucía",
       "Canal Taronja Osona",
       "Canal Taronja Osona i Moianés",
+      "Canal Vasco",
       "Canalcosta TV",
       "Clan TVE",
       "Comedy Movies",
@@ -98,12 +66,14 @@
       "Cosmo TV",
       "Costa Noroeste TV",
       "CostadelSol TV",
+      "Cuatro",
       "Cuatro 4 TV Vall Uxa",
       "Cáceres Tevé",
       "Córdoba TV",
       "Diez TV",
       "Durangaldeko TV",
       "ETB Eventos 1",
+      "ETB Sat",
       "EiTB 1",
       "EiTB 2",
       "El 33",
@@ -133,6 +103,7 @@
       "Intercomarcal TV",
       "Islatel",
       "Junta Castilla y León",
+      "LA SEXTA",
       "LA7",
       "La 1",
       "La 1 Canarias",
@@ -152,6 +123,7 @@
       "La Mega Mundial",
       "La Moncloa",
       "La Urban TV",
+      "La Voz 24h",
       "LaOtra",
       "Lancelot TV",
       "Lebrija TV",
@@ -190,14 +162,15 @@
       "RTV Vida",
       "RTVC",
       "RTVCE",
-      "RTVE",
       "Radio Televisión Marbella",
       "Radio Televisión Melilla",
+      "Rakuten Family",
       "Rakuten Top Free 1",
       "Rakuten Top Free 2",
       "Rakuten Top Free 3",
       "Rakuten Top Free 6",
       "Rakuten Top Free 7",
+      "SEVILHA TV",
       "Sal Televisión",
       "Sevilla FC TV",
       "Solidaria TV",
@@ -259,6 +232,32 @@
       "tvA",
       "À Punt"
    ],
+   "Education & Culture": [
+      "La 2",
+      "RTVE"
+   ],
+   "Sports": [
+      "Esport3",
+      "Love Nature Español",
+      "Real Madrid TV",
+      "TV Sevilla FC",
+      "Trace Sport Stars"
+   ],
+   "News": [
+      "101TV Malaga",
+      "24 Horas",
+      "3/24",
+      "7 Noticias",
+      "7 TV Andalucía",
+      "Congreso de los Diputados 1",
+      "Congreso de los Diputados 2",
+      "Congreso de los Diputados 3",
+      "Congreso de los Diputados 4",
+      "Congreso de los Diputados 5",
+      "DW Español",
+      "DW Latino America",
+      "France 24 Español"
+   ],
    "Local": [
       "7 Televisión Región de Murcia",
       "Canal 25 TV",
@@ -278,30 +277,17 @@
       "Trebujena TV",
       "tvG2"
    ],
-   "Music": [
-      "101 Tele Antequera",
-      "Activa TV"
-   ],
-   "Legislative": [
-      "Congreso de los Diputados 1",
-      "Congreso de los Diputados 2",
-      "Congreso de los Diputados 3",
-      "Congreso de los Diputados 4",
-      "Congreso de los Diputados 5"
-   ],
-   "Documentary": [
-      "La 2"
-   ],
-   "Outdoor": [
-      "Love Nature Español"
-   ],
    "Travel": [
       "Radio Rutas del Perú"
    ],
-   "Movies": [
-      "Rakuten Drama"
+   "Kids": [
+      "Animes TV ES"
    ],
-   "Family": [
-      "Rakuten Family"
+   "Music Videos": [
+      "101 Tele Antequera",
+      "Activa TV"
+   ],
+   "Movies & Series": [
+      "Rakuten Drama"
    ]
 }

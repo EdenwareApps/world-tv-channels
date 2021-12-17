@@ -1,5 +1,10 @@
 {
-   "General": [
+   "Religious": [
+      "Radio Tele Amen FM",
+      "Radio Télé 4VEH",
+      "Radio Télé Pitit Manman Mari"
+   ],
+   "Entertainment": [
       "Haiti Viral News",
       "NETALKOLE TV",
       "Radio Tele Planet Compas",
@@ -9,10 +14,5 @@
       "Radio Télévision Hirondelle",
       "Tele Louange",
       "Télé Conscience Haïtienne"
-   ],
-   "Religious": [
-      "Radio Tele Amen FM",
-      "Radio Télé 4VEH",
-      "Radio Télé Pitit Manman Mari"
    ]
 }

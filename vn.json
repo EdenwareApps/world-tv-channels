@@ -1,5 +1,8 @@
 {
-   "General": [
+   "Kids": [
+      "Cartoon Network Vietnam"
+   ],
+   "Entertainment": [
       "BRT",
       "Bến Tre",
       "Channel V",
@@ -66,8 +69,5 @@
       "Vĩnh Long 2",
       "Đồng Nai 1",
       "Đồng Nai 2"
-   ],
-   "Kids": [
-      "Cartoon Network Vietnam"
    ]
 }

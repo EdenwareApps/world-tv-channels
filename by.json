@@ -4,7 +4,11 @@
       "Наше ТВ",
       "Радио Хит"
    ],
-   "Music": [
+   "News": [
+      "Беларусь 24",
+      "Беларусь 3"
+   ],
+   "Music Videos": [
       "Sluhay.by",
       "Sluhay.by Aillion",
       "Sluhay.by Among Your God",
@@ -20,11 +24,7 @@
       "Первый Музыкальный Канал",
       "Первый Музыкальный Канал Россия"
    ],
-   "News": [
-      "Беларусь 24",
-      "Беларусь 3"
-   ],
-   "General": [
+   "Entertainment": [
       "1Mus",
       "8 Kanal Vitebsk",
       "Belarus 24",

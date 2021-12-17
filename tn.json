@@ -1,18 +1,18 @@
 {
-   "General": [
-      "El Hiwar El Tounsi",
-      "Watania 1",
-      "Watania 2"
-   ],
-   "Music": [
-      "IFM TV",
-      "JAWHARA TV",
-      "Mosaïque FM"
-   ],
    "Local": [
       "Sahel TV"
    ],
    "Travel": [
       "Tunisie Immobilier TV"
+   ],
+   "Entertainment": [
+      "El Hiwar El Tounsi",
+      "Watania 1",
+      "Watania 2"
+   ],
+   "Music Videos": [
+      "IFM TV",
+      "JAWHARA TV",
+      "Mosaïque FM"
    ]
 }

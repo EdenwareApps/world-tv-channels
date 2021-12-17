@@ -1,5 +1,8 @@
 {
-   "General": [
+   "Sports": [
+      "Alfa Sport"
+   ],
+   "Entertainment": [
       "Ada TV",
       "BRT 1 HD",
       "BRT 2 HD",
@@ -14,10 +17,7 @@
       "TV 2020",
       "Vouli TV"
    ],
-   "Sports": [
-      "Alfa Sport"
-   ],
-   "Music": [
+   "Music Videos": [
       "Reload"
    ]
 }

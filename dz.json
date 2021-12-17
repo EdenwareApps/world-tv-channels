@@ -1,5 +1,11 @@
 {
-   "General": [
+   "Religious": [
+      "CNA"
+   ],
+   "News": [
+      "Echorouk News"
+   ],
+   "Entertainment": [
       "Al Anis TV",
       "Algérie TV3",
       "Algérie TV4",
@@ -21,11 +27,5 @@
       "Samira TV",
       "TV7 Elmaarifa",
       "TV8 Edhakira"
-   ],
-   "Religious": [
-      "CNA"
-   ],
-   "News": [
-      "Echorouk News"
    ]
 }

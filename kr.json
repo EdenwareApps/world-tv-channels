@@ -1,9 +1,5 @@
 {
    "Entertainment": [
-      "KBS World Latino",
-      "MBC Drama"
-   ],
-   "General": [
       "Arirang",
       "Arirang Radio",
       "BBS Buddhist Broadcasting",
@@ -26,9 +22,11 @@
       "KBS 1",
       "KBS LiveCam DokDo",
       "KBS World",
+      "KBS World Latino",
       "KBS2",
       "KCTV 광주 CH05",
       "MBC",
+      "MBC Drama",
       "MBC Yeosu",
       "MTN",
       "Mnet",
@@ -57,10 +55,10 @@
       "EBS KIDS",
       "EBS Kids"
    ],
-   "Science": [
-      "YTN SCIENCE"
-   ],
    "News": [
       "국악방송"
+   ],
+   "Education & Culture": [
+      "YTN SCIENCE"
    ]
 }

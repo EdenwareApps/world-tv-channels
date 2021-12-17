@@ -1,5 +1,8 @@
 {
-   "General": [
+   "Religious": [
+      "CGNTV Japan"
+   ],
+   "Entertainment": [
       "ABC",
       "BS 12",
       "BS Asahi",
@@ -8,6 +11,7 @@
       "BS TV Tokyo",
       "BS-TBS",
       "CGNTV",
+      "Disney Channel Japan",
       "Family Gekijo",
       "Fuji TV",
       "Fuji TV One",
@@ -36,16 +40,6 @@
       "TV Tokyo",
       "Weather Channel"
    ],
-   "Animation": [
-      "AT-X",
-      "Animax Japan"
-   ],
-   "Religious": [
-      "CGNTV Japan"
-   ],
-   "Entertainment": [
-      "Disney Channel Japan"
-   ],
    "Shop": [
       "GSTV",
       "QVC Japan",
@@ -67,9 +61,11 @@
    "News": [
       "NHK Chinese Vision",
       "NHK World Japan",
-      "NTV News24"
-   ],
-   "Weather": [
+      "NTV News24",
       "Weather News"
+   ],
+   "Kids": [
+      "AT-X",
+      "Animax Japan"
    ]
 }

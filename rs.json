@@ -1,5 +1,8 @@
 {
-   "General": [
+   "News": [
+      "N1 RS"
+   ],
+   "Entertainment": [
       "Kurir TV",
       "Marš TV",
       "RTV 1",
@@ -11,7 +14,7 @@
       "TV Hram",
       "TV Pi Canal Pirot"
    ],
-   "Music": [
+   "Music Videos": [
       "Muzzik AMVA 2020",
       "Muzzik Cafe&Club Serbia",
       "Muzzik HipHop Serbia",
@@ -24,8 +27,5 @@
       "Muzzik TV Serbia",
       "Muzzik Worldwide Serbia",
       "TV Duga Plus"
-   ],
-   "News": [
-      "N1 RS"
    ]
 }

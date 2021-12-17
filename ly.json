@@ -1,8 +1,4 @@
 {
-   "General": [
-      "Alwasat TV",
-      "Tanasuh"
-   ],
    "News": [
       "Jamahiria TV",
       "Libya 218",
@@ -10,5 +6,9 @@
       "Libya Al Ahrar TV",
       "Libya Al Hadath",
       "Libya Channel"
+   ],
+   "Entertainment": [
+      "Alwasat TV",
+      "Tanasuh"
    ]
 }

@@ -1,5 +1,16 @@
 {
-   "General": [
+   "Sports": [
+      "ATG"
+   ],
+   "News": [
+      "Di TV",
+      "Expressen TV",
+      "Miracle Channel"
+   ],
+   "Local": [
+      "Oppna Kanalen"
+   ],
+   "Entertainment": [
       "ATG Live",
       "Aftonbladet TV",
       "Dagens Industri TV",
@@ -14,16 +25,5 @@
       "TV4Nyheterna",
       "Västmanlands TV",
       "Västmanlands Television"
-   ],
-   "Sports": [
-      "ATG"
-   ],
-   "News": [
-      "Di TV",
-      "Expressen TV",
-      "Miracle Channel"
-   ],
-   "Local": [
-      "Oppna Kanalen"
    ]
 }

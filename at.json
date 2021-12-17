@@ -1,9 +1,14 @@
 {
-   "Music": [
+   "Sports": [
+      "ORF Sport+",
+      "Red Bull TV",
+      "Swamiji TV"
+   ],
+   "Music Videos": [
       "Antenne Vorarlberg",
       "Kronehit"
    ],
-   "General": [
+   "Entertainment": [
       "Action Movies - AT",
       "Comedy Movies - AT",
       "Der Serienkanal - AT",
@@ -36,12 +41,5 @@
       "W24 TV",
       "dorf tv",
       "oe24 TV"
-   ],
-   "Sports": [
-      "ORF Sport+",
-      "Red Bull TV"
-   ],
-   "Outdoor": [
-      "Swamiji TV"
    ]
 }

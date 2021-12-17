@@ -1,15 +1,5 @@
 {
    "Entertainment": [
-      "El Pinguino TV",
-      "EnerGeek",
-      "Zona Play TV"
-   ],
-   "News": [
-      "24 Horas",
-      "Meganoticias",
-      "T13"
-   ],
-   "General": [
       "AE Radio TV",
       "Arica TV",
       "Autonoma TV",
@@ -25,6 +15,8 @@
       "ChileVisión",
       "Contivisión",
       "EGM Channel",
+      "El Pinguino TV",
+      "EnerGeek",
       "Estación TV",
       "Eva Stream",
       "Evavisión Pachanga",
@@ -64,7 +56,14 @@
       "UTV San Clemente",
       "Universidad Autónoma Temuco",
       "VC Online",
-      "VTV Valle de Aconcagua"
+      "VTV Valle de Aconcagua",
+      "Zona Play TV"
+   ],
+   "News": [
+      "24 Horas",
+      "Meganoticias",
+      "T13",
+      "Tevex"
    ],
    "Local": [
       "Alternativa TV",
@@ -86,7 +85,6 @@
       "Décima TV",
       "EKIZ TV",
       "Elion Canal Digital",
-      "Estación TV",
       "Exprezión TV",
       "Geovisión",
       "Holvoet TV",
@@ -96,7 +94,6 @@
       "Puncón TV",
       "Radio América TV",
       "Santa María Televisión",
-      "TV Costa",
       "TV Elqui",
       "TV Osorno",
       "TV Quellón",
@@ -112,10 +109,6 @@
       "Ñuble RTV",
       "Ñublevisión"
    ],
-   "Culture": [
-      "ARABTV",
-      "Cultura Online"
-   ],
    "Religious": [
       "Canal ISB",
       "Gracia TV",
@@ -126,7 +119,17 @@
       "Vida TV",
       "Voz de Poder"
    ],
-   "Music": [
+   "Sports": [
+      "RedBull Batalla de Gallos",
+      "Teletrak",
+      "Turf Móvil"
+   ],
+   "Education & Culture": [
+      "ARABTV",
+      "Cultura Online",
+      "Wapp"
+   ],
+   "Music Videos": [
       "Carolina TV",
       "Interradio",
       "MIX 24/7 Conciertos",
@@ -139,18 +142,7 @@
       "Rewind TV",
       "Ruidos FM"
    ],
-   "Sports": [
-      "RedBull Batalla de Gallos",
-      "Teletrak",
-      "Turf Móvil"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Retro Plus 3"
-   ],
-   "Business": [
-      "Tevex"
-   ],
-   "Lifestyle": [
-      "Wapp"
    ]
 }

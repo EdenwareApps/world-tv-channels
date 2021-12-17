@@ -1,5 +1,8 @@
 {
-   "General": [
+   "Religious": [
+      "TBN Baltia"
+   ],
+   "Entertainment": [
       "ETV",
       "ETV 2",
       "ETV+",
@@ -7,8 +10,5 @@
       "Life TV",
       "Riigikogu",
       "Taevas TV 7"
-   ],
-   "Religious": [
-      "TBN Baltia"
    ]
 }

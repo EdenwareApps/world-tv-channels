@@ -1,5 +1,16 @@
 {
-   "General": [
+   "News": [
+      "CNN Philippines",
+      "DZRH News TV",
+      "PTV 4"
+   ],
+   "Religious": [
+      "Hope Channel Philippines"
+   ],
+   "Shop": [
+      "Shop TV"
+   ],
+   "Entertainment": [
       "CCTN 47",
       "CLTV 36",
       "DepEd TV",
@@ -11,16 +22,5 @@
       "Pilipinas HD",
       "SMNI",
       "Super Radyo DZBB"
-   ],
-   "News": [
-      "CNN Philippines",
-      "DZRH News TV",
-      "PTV 4"
-   ],
-   "Religious": [
-      "Hope Channel Philippines"
-   ],
-   "Shop": [
-      "Shop TV"
    ]
 }

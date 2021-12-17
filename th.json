@@ -1,5 +1,31 @@
 {
-   "General": [
+   "Local": [
+      "ASTV News 1"
+   ],
+   "Sports": [
+      "Golf Channel Thailand",
+      "NBA TV",
+      "Sky Net Sports",
+      "Sky Net Sports 1",
+      "Sky Net Sports 2",
+      "Sky Net Sports 3",
+      "Sky Net Sports 4",
+      "Sky Net Sports 5",
+      "Sky Net Sports 6",
+      "True Premier Football HD 1",
+      "True Premier Football HD 2",
+      "True Premier Football HD 3",
+      "True Premier Football HD 4",
+      "True Premier Football HD 5",
+      "True Sport 5",
+      "True Sport 7",
+      "True Sport HD 1",
+      "True Sport HD 2",
+      "True Sport HD 3",
+      "True Sport HD 4",
+      "True Tennis HD"
+   ],
+   "Entertainment": [
       "ALTV",
       "Channel 5",
       "Channel 7",
@@ -27,36 +53,10 @@
       "Thairath TV 32",
       "White Channel"
    ],
-   "Local": [
-      "ASTV News 1"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Fox Thai"
    ],
-   "Sports": [
-      "Golf Channel Thailand",
-      "NBA TV",
-      "Sky Net Sports",
-      "Sky Net Sports 1",
-      "Sky Net Sports 2",
-      "Sky Net Sports 3",
-      "Sky Net Sports 4",
-      "Sky Net Sports 5",
-      "Sky Net Sports 6",
-      "True Premier Football HD 1",
-      "True Premier Football HD 2",
-      "True Premier Football HD 3",
-      "True Premier Football HD 4",
-      "True Premier Football HD 5",
-      "True Sport 5",
-      "True Sport 7",
-      "True Sport HD 1",
-      "True Sport HD 2",
-      "True Sport HD 3",
-      "True Sport HD 4",
-      "True Tennis HD"
-   ],
-   "Documentary": [
+   "Education & Culture": [
       "H2",
       "History Asia"
    ]

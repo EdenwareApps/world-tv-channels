@@ -1,15 +1,8 @@
 {
    "Entertainment": [
-      "Bolivia TV"
-   ],
-   "Music": [
-      "Alegria TV"
-   ],
-   "General": [
       "ATB",
       "Bolivia TV",
       "Bolivia TV 7.2",
-      "MegaTV",
       "MegaTV",
       "RTP",
       "Red Advenir",
@@ -24,5 +17,8 @@
    ],
    "Kids": [
       "SEO TV Kids"
+   ],
+   "Music Videos": [
+      "Alegria TV"
    ]
 }

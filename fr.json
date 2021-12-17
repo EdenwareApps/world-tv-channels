@@ -1,41 +1,15 @@
 {
    "Entertainment": [
-      "ARTE Français",
-      "Arte",
-      "CSTAR",
-      "France 24",
-      "M6",
-      "M6 International",
-      "TF1",
-      "W9"
-   ],
-   "Local": [
-      "7ALimoges",
-      "Alsace 20",
-      "BFM Grand Lille",
-      "BFM Grand Littoral",
-      "BFM Lyon",
-      "BFM Paris",
-      "TV7 Colmar",
-      "TV78",
-      "TV8 Mont-Blanc",
-      "TVR",
-      "TébéSud",
-      "Wéo",
-      "Wéo",
-      "viàMoselleTV",
-      "viàOccitanie",
-      "viàVosges"
-   ],
-   "General": [
       "A2i Music",
       "A2i Religion",
       "A2i TV",
+      "ARTE Français",
       "Action Movies",
       "Alpe d'Huez",
       "Alpe d’Huez TV",
       "Amuse Animation",
       "Antenne Reunion",
+      "Arte",
       "Arte France",
       "Atelier des chefs",
       "BIP TV",
@@ -45,6 +19,7 @@
       "Bob l'éponge",
       "CATFISH TV",
       "CGTN France",
+      "CSTAR",
       "Caillou",
       "Central TV",
       "Classical Harmony",
@@ -63,6 +38,7 @@
       "Family Movies",
       "Femmes De Loi",
       "France 2",
+      "France 24",
       "France 3",
       "France 5",
       "France Inter",
@@ -78,10 +54,13 @@
       "KTO",
       "LEEEKO TV",
       "La Chaine Normande",
+      "La Chaîne normande",
       "Les Cordier",
       "Les Nouveaux Detectives",
       "Louis La Brocante",
       "Luxe TV",
+      "M6",
+      "M6 International",
       "MADE TV",
       "MDL",
       "MTV CLASSICS",
@@ -106,6 +85,7 @@
       "Spotlight",
       "Stormcast Novelas TV",
       "Supertoons TV",
+      "TF1",
       "TF1 Series Films",
       "TFX",
       "TMA",
@@ -118,15 +98,31 @@
       "The Pet Collective",
       "Tortues Ninja TV",
       "Trace Urban",
+      "W9",
       "WPT",
       "iCarly TV",
       "viaMirabelle",
       "viàMATÉLÉ"
    ],
-   "Business": [
-      "BFM Business"
+   "Local": [
+      "7ALimoges",
+      "Alsace 20",
+      "BFM Grand Lille",
+      "BFM Grand Littoral",
+      "BFM Lyon",
+      "BFM Paris",
+      "TV7 Colmar",
+      "TV78",
+      "TV8 Mont-Blanc",
+      "TVR",
+      "TébéSud",
+      "Wéo",
+      "viàMoselleTV",
+      "viàOccitanie",
+      "viàVosges"
    ],
    "News": [
+      "BFM Business",
       "BFMTV",
       "Cnews",
       "Euronews Français",
@@ -134,6 +130,8 @@
       "France 24 Français",
       "Franceinfo",
       "LCI",
+      "LCP",
+      "Public Sénat",
       "RT France"
    ],
    "Kids": [
@@ -142,11 +140,13 @@
       "Gulli",
       "Gulli Bil Arabi"
    ],
-   "Lifestyle": [
-      "Fashion TV",
-      "Fashion TV",
-      "Fashion TV",
-      "Fashion TV",
+   "Cooking": [
+      "Tastemade France"
+   ],
+   "Sports": [
+      "Trace Sport Stars"
+   ],
+   "Education & Culture": [
       "Fashion TV",
       "Fashion TV New York",
       "Fashion TV PG13",
@@ -158,24 +158,11 @@
       "Fashion TV UHD",
       "FashionTV Mumbai"
    ],
-   "Family": [
-      "La Chaîne normande"
-   ],
-   "Legislative": [
-      "LCP",
-      "Public Sénat"
-   ],
-   "Music": [
+   "Music Videos": [
       "MCM Top",
       "TZiK"
    ],
-   "Cooking": [
-      "Tastemade France"
-   ],
-   "Sports": [
-      "Trace Sport Stars"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "Wildside TV"
    ]
 }

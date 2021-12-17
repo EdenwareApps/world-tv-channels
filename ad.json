@@ -1,15 +1,13 @@
 {
-   "Business": [
-      "Bloomberg TV EMEA Live Event",
-      "Bloomberg TV Europe"
-   ],
    "News": [
+      "Bloomberg TV EMEA Live Event",
+      "Bloomberg TV Europe",
       "CNN International Europe"
    ],
    "Sports": [
       "MavTV Europe"
    ],
-   "General": [
+   "Entertainment": [
       "NTV Europe"
    ]
 }

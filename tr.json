@@ -1,5 +1,21 @@
 {
-   "General": [
+   "News": [
+      "Bloomberg HT",
+      "CNN Türk",
+      "TGRT Haber",
+      "TRT World"
+   ],
+   "Religious": [
+      "SAT-7 TÜRK",
+      "Thaqalayn TV"
+   ],
+   "Sports": [
+      "Sports TV"
+   ],
+   "Kids": [
+      "TRT Çocuk"
+   ],
+   "Entertainment": [
       "24 TV",
       "360 TV",
       "AA Live",
@@ -80,7 +96,6 @@
       "Haber 61",
       "Haber Global",
       "Haber61 TV",
-      "Haber61 TV",
       "Habertürk TV",
       "Hunat TV",
       "IBB TV",
@@ -132,7 +147,6 @@
       "MaviKaradeniz",
       "Med Müzik TV",
       "Medya Haber TV",
-      "Mercan TV",
       "Mercan TV",
       "Meteoroloji TV",
       "Milyon TV",
@@ -212,23 +226,5 @@
       "Üniversite TV",
       "ÜÜ TV Üsküdar Üniversitesi TV",
       "Şaban TV"
-   ],
-   "Business": [
-      "Bloomberg HT"
-   ],
-   "News": [
-      "CNN Türk",
-      "TGRT Haber",
-      "TRT World"
-   ],
-   "Religious": [
-      "SAT-7 TÜRK",
-      "Thaqalayn TV"
-   ],
-   "Sports": [
-      "Sports TV"
-   ],
-   "Kids": [
-      "TRT Çocuk"
    ]
 }

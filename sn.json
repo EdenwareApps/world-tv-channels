@@ -1,5 +1,8 @@
 {
-   "General": [
+   "Religious": [
+      "A2i Religion"
+   ],
+   "Entertainment": [
       "2STV",
       "7TV",
       "A2i Naja",
@@ -13,10 +16,7 @@
       "SenTV",
       "TFM"
    ],
-   "Music": [
+   "Music Videos": [
       "A2i Music"
-   ],
-   "Religious": [
-      "A2i Religion"
    ]
 }

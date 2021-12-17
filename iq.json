@@ -29,7 +29,10 @@
       "Rudaw TV",
       "iNEWS"
    ],
-   "General": [
+   "Sports": [
+      "Iraqia Sport"
+   ],
+   "Entertainment": [
       "Al Iraqiya Al 3ama",
       "Al Rasheed",
       "Al Sharqiya",
@@ -54,11 +57,8 @@
       "WAAR TV",
       "Zagros"
    ],
-   "Music": [
+   "Music Videos": [
       "Dijlah Tarab",
       "KurdMax Music"
-   ],
-   "Sports": [
-      "Iraqia Sport"
    ]
 }

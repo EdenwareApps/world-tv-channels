@@ -1,17 +1,15 @@
 {
-   "Legislative": [
+   "News": [
       "Oireachtas TV",
       "Oireachtas TV Committee Room 1",
       "Oireachtas TV Committee Room 2",
       "Oireachtas TV Committee Room 3",
       "Oireachtas TV Committee Room 4",
       "Oireachtas TV Dáil Éireann",
-      "Oireachtas TV Seanad Éireann"
-   ],
-   "News": [
+      "Oireachtas TV Seanad Éireann",
       "RTÉ News"
    ],
-   "General": [
+   "Entertainment": [
       "RTE News Now",
       "TG4 IE"
    ]

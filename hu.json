@@ -1,11 +1,14 @@
 {
-   "Music": [
+   "Religious": [
+      "Bonum TV"
+   ],
+   "Music Videos": [
       "1Mus",
       "1Music Channel Hungary",
       "H!T Music Channel",
       "MUSIC +"
    ],
-   "General": [
+   "Entertainment": [
       "1Music Hungary",
       "ATV",
       "Apostol TV",
@@ -34,8 +37,5 @@
       "Tisza TV",
       "VTV Füzesabony",
       "Ózdi Városi TV"
-   ],
-   "Religious": [
-      "Bonum TV"
    ]
 }

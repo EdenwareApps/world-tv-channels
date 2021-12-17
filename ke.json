@@ -1,5 +1,8 @@
 {
-   "General": [
+   "News": [
+      "KTN News"
+   ],
+   "Entertainment": [
       "Citizen TV",
       "Ebru TV",
       "GBS TV",
@@ -12,8 +15,5 @@
       "Switch TV",
       "TV47",
       "UTV"
-   ],
-   "News": [
-      "KTN News"
    ]
 }

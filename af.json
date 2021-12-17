@@ -1,14 +1,22 @@
 {
-   "Movies": [
+   "News": [
+      "ATN News",
+      "Bloomberg TV Asia",
+      "Bloomberg TV Asia Live Event"
+   ],
+   "Religious": [
+      "Noor TV"
+   ],
+   "Movies & Series": [
       "&Pictures",
       "&TV HD",
       "&privé HD",
       "Thrill"
    ],
-   "Music": [
+   "Music Videos": [
       "11 TV"
    ],
-   "General": [
+   "Entertainment": [
       "ATN Europe",
       "ATN National",
       "ATN USA",
@@ -54,15 +62,5 @@
       "Tuti",
       "VOA Persian",
       "WATAN-E-MAA"
-   ],
-   "News": [
-      "ATN News"
-   ],
-   "Business": [
-      "Bloomberg TV Asia",
-      "Bloomberg TV Asia Live Event"
-   ],
-   "Religious": [
-      "Noor TV"
    ]
 }

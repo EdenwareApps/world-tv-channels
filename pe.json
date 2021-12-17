@@ -1,22 +1,4 @@
 {
-   "General": [
-      "ABTelevision",
-      "ATV",
-      "BHTV",
-      "Bella Asuncion TV",
-      "Best Cable Perú",
-      "Latina",
-      "NacionalTV",
-      "Onda Digital",
-      "Panamericana TV",
-      "TV Cosmos",
-      "TV Palmeras",
-      "TV Perú",
-      "UCI",
-      "USIL TV",
-      "Uchu TV",
-      "Willax"
-   ],
    "Local": [
       "ATM Televisión",
       "Andes Televisión",
@@ -66,8 +48,6 @@
       "MTV Más",
       "Master TV",
       "MaticesTV",
-      "Mega TV",
-      "Mega TV",
       "Mega TV",
       "Millenium 109 FM",
       "Millenium 49 TV",
@@ -122,10 +102,6 @@
       "TVenLinea",
       "Tele2000",
       "Telesur",
-      "Telesur",
-      "Telesur",
-      "Telesur",
-      "Telesur",
       "Televisión Tarapoto",
       "Top FM TV",
       "Tropical TV",
@@ -137,25 +113,64 @@
       "Vía Altomayo",
       "Vía Televisión",
       "Wtv",
-      "Wtv",
       "X TV"
    ],
    "News": [
       "ATV+ Noticias",
       "CanalB",
+      "Congreso TV",
       "Exitosa TV",
       "Gaceta Ucayalina",
       "Identidad TV",
+      "JNE TV",
       "La Abeja",
       "La República TV",
       "PBO Digital",
+      "PymeTV",
       "RSelvaTV",
       "RTV Total",
       "TV Noticias 7.3",
       "TV Perú Noticias",
       "Visión Noticias Perú"
    ],
-   "Music": [
+   "Sports": [
+      "Best Cable Sports Perú",
+      "Contacto Deportivo",
+      "Monterrico TV",
+      "Ovacion TV"
+   ],
+   "Religious": [
+      "JN19",
+      "La Luz TV",
+      "Nazarenas TV",
+      "Pax TV",
+      "Radio Victoria 780 AM",
+      "Radio y Tv Filadelfia",
+      "Virgen de Natividad de Paruro"
+   ],
+   "Entertainment": [
+      "ABTelevision",
+      "ATV",
+      "BHTV",
+      "Bella Asuncion TV",
+      "Best Cable Perú",
+      "CANAL IPE",
+      "Chicos IPe",
+      "Kora TV",
+      "Latina",
+      "NacionalTV",
+      "Onda Digital",
+      "Panamericana TV",
+      "TV Cosmos",
+      "TV Palmeras",
+      "TV Perú",
+      "Tvfaces Online",
+      "UCI",
+      "USIL TV",
+      "Uchu TV",
+      "Willax"
+   ],
+   "Music Videos": [
       "Best Cable Music",
       "Best Cable Más Cumbia",
       "CVM TV Digital",
@@ -176,46 +191,14 @@
       "Turbo Mix Radio TV",
       "Visión TV Musica"
    ],
-   "Sports": [
-      "Best Cable Sports Perú",
-      "Contacto Deportivo",
-      "Monterrico TV",
-      "Ovacion TV"
-   ],
-   "Family": [
-      "CANAL IPE",
-      "Chicos IPe"
-   ],
-   "Legislative": [
-      "Congreso TV",
-      "JNE TV"
-   ],
-   "Culture": [
+   "Education & Culture": [
       "Cultura 24",
+      "MINEDU IPTV 1",
+      "MINEDU IPTV 2",
       "Salgalú TV",
       "USMPTV"
    ],
-   "Religious": [
-      "JN19",
-      "La Luz TV",
-      "Nazarenas TV",
-      "Pax TV",
-      "Radio Victoria 780 AM",
-      "Radio y Tv Filadelfia",
-      "Virgen de Natividad de Paruro"
-   ],
-   "Entertainment": [
-      "Kora TV",
-      "Tvfaces Online"
-   ],
-   "Education": [
-      "MINEDU IPTV 1",
-      "MINEDU IPTV 2"
-   ],
-   "Business": [
-      "PymeTV"
-   ],
-   "Movies": [
+   "Movies & Series": [
       "TelSatel Cine TV"
    ]
 }

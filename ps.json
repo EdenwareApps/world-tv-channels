@@ -1,5 +1,11 @@
 {
-   "General": [
+   "Religious": [
+      "Al Aqsa Channel"
+   ],
+   "News": [
+      "Palestine Today"
+   ],
+   "Entertainment": [
       "7ala TV",
       "Ajyal TV",
       "Alfajer TV 2",
@@ -18,14 +24,8 @@
       "Wattan TV",
       "palestiniantv"
    ],
-   "Religious": [
-      "Al Aqsa Channel"
-   ],
-   "Music": [
+   "Music Videos": [
       "Falastini",
       "Marah FM"
-   ],
-   "News": [
-      "Palestine Today"
    ]
 }

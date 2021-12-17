@@ -3,38 +3,9 @@
       "BeritaSatu",
       "BeritaSatu English",
       "BeritaSatu World",
+      "CNBC Indonesia",
       "CNN Indonesia",
       "Metro TV",
-      "iNews"
-   ],
-   "Business": [
-      "CNBC Indonesia"
-   ],
-   "General": [
-      "GTV",
-      "Hits",
-      "Indonesia Channel",
-      "MNCTV",
-      "One TV",
-      "RCTI",
-      "RRI Net",
-      "SCTV",
-      "TVKU",
-      "TVRI",
-      "TVRI 4",
-      "TVRI Kanal 3",
-      "TVRI Nasional",
-      "Trans TV",
-      "Trans7"
-   ],
-   "Movies": [
-      "Hits Movies"
-   ],
-   "Religious": [
-      "I AM CHANNEL",
-      "Reformed 21"
-   ],
-   "Legislative": [
       "TVR Parlemen",
       "TVR Parlemen BAKN",
       "TVR Parlemen BKSAP",
@@ -51,7 +22,12 @@
       "TVR Parlemen Komisi VII",
       "TVR Parlemen Komisi VIII",
       "TVR Parlemen Komisi X",
-      "TVR Parlemen Komisi XI"
+      "TVR Parlemen Komisi XI",
+      "iNews"
+   ],
+   "Religious": [
+      "I AM CHANNEL",
+      "Reformed 21"
    ],
    "Local": [
       "TVRI Aceh",
@@ -86,5 +62,25 @@
    ],
    "Sports": [
       "TVRI Sport HD"
+   ],
+   "Entertainment": [
+      "GTV",
+      "Hits",
+      "Indonesia Channel",
+      "MNCTV",
+      "One TV",
+      "RCTI",
+      "RRI Net",
+      "SCTV",
+      "TVKU",
+      "TVRI",
+      "TVRI 4",
+      "TVRI Kanal 3",
+      "TVRI Nasional",
+      "Trans TV",
+      "Trans7"
+   ],
+   "Movies & Series": [
+      "Hits Movies"
    ]
 }

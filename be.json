@@ -1,5 +1,12 @@
 {
-   "General": [
+   "Local": [
+      "Canal Zoom",
+      "TVL"
+   ],
+   "News": [
+      "LN24"
+   ],
+   "Entertainment": [
       "A T V",
       "ATV",
       "BEL RTL",
@@ -29,17 +36,10 @@
       "TVO",
       "XITE BE"
    ],
-   "Local": [
-      "Canal Zoom",
-      "TVL"
-   ],
-   "Music": [
+   "Music Videos": [
       "City Music TV",
       "Q-Music",
       "Radio Contact",
       "Radio PROS"
-   ],
-   "News": [
-      "LN24"
    ]
 }

@@ -1,12 +1,6 @@
 {
    "Entertainment": [
-      "Canal Luz"
-   ],
-   "News": [
-      "TV Telesur, telesur",
-      "TeleSUR English"
-   ],
-   "General": [
+      "Canal Luz",
       "Canal Nubeh TV",
       "Canal i",
       "Globovision",
@@ -20,6 +14,10 @@
       "Ve Plus",
       "Venevision",
       "Vepaco TV"
+   ],
+   "News": [
+      "TV Telesur, telesur",
+      "TeleSUR English"
    ],
    "Music Videos": [
       "Italianissimo",

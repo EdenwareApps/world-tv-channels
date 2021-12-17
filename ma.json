@@ -1,5 +1,14 @@
 {
-   "General": [
+   "Sports": [
+      "Arryadia"
+   ],
+   "News": [
+      "M24 TV",
+      "Medi 1 TV Afrique",
+      "Medi 1 TV Arabic",
+      "Medi 1 TV Maghreb"
+   ],
+   "Entertainment": [
       "2M Monde",
       "Al Aoula",
       "Al Aoula Laayoune",
@@ -10,14 +19,5 @@
       "Maghreb Arabe Press",
       "Tamazight",
       "Télé Maroc"
-   ],
-   "Sports": [
-      "Arryadia"
-   ],
-   "News": [
-      "M24 TV",
-      "Medi 1 TV Afrique",
-      "Medi 1 TV Arabic",
-      "Medi 1 TV Maghreb"
    ]
 }

@@ -1,5 +1,11 @@
 {
-   "General": [
+   "Kids": [
+      "Enki Benki"
+   ],
+   "News": [
+      "Palitra News"
+   ],
+   "Entertainment": [
       "1 TV",
       "1TV",
       "2 TV",
@@ -8,13 +14,7 @@
       "Mtavari Arkhi",
       "Rioni TV"
    ],
-   "Kids": [
-      "Enki Benki"
-   ],
-   "Music": [
+   "Music Videos": [
       "MusicBox Georgia"
-   ],
-   "News": [
-      "Palitra News"
    ]
 }

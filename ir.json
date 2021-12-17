@@ -1,32 +1,18 @@
 {
    "Entertainment": [
-      "1TvPersian",
-      "4U TV",
-      "AFN TV",
-      "Ecran TV",
-      "GEM Nature",
-      "GEM River",
-      "ITC TV",
-      "ITN",
-      "Manoto TV",
-      "Negah TV",
-      "Omide Iran",
-      "Payam Javan TV",
-      "Persiana Game & Tech",
-      "SNN TV",
-      "Tin TV",
-      "YourTime TV"
-   ],
-   "General": [
       "11 TV",
+      "1TvPersian",
       "4 KURD",
       "4 TURK BILLBOARD",
       "4 TURK MUSIC",
+      "4U TV",
       "ABADAN",
       "AFLAK",
+      "AFN TV",
       "AFTAB",
       "ALBORZ",
       "AMOOZESH",
+      "AVA Family",
       "Al Kawthar TV",
       "Al Zahra TV",
       "Ayeneh TV",
@@ -37,8 +23,11 @@
       "Dena",
       "ESFAHAN",
       "ESHRAGH",
+      "Ecran TV",
       "FARS",
+      "GEM Nature",
       "GEM Property",
+      "GEM River",
       "GOLESTAN",
       "HAMEDAN",
       "HAMOON",
@@ -51,6 +40,8 @@
       "INTV Simaye Azadi",
       "IRANKALA",
       "IRINN",
+      "ITC TV",
+      "ITN",
       "Iran Beauty",
       "Irane Farda",
       "Iranintl.Radio",
@@ -69,13 +60,16 @@
       "MBC Persia",
       "MOSTANAD",
       "Maah TV",
+      "Manoto TV",
       "NAMAYESH",
       "NASIM",
+      "Negah TV",
       "Nojoum TV",
       "Noor",
       "OFOGH",
       "OMID",
       "OXIR TV",
+      "Omide Iran",
       "PBC Tapesh TV",
       "PERSIANA + HD",
       "PERSIANA BILLBOARD",
@@ -95,6 +89,8 @@
       "POUYA",
       "Parnian TV",
       "Pars TV",
+      "Payam Javan TV",
+      "Persiana Game & Tech",
       "QAZVIN",
       "QURAN",
       "Radio Farda",
@@ -108,6 +104,7 @@
       "SEMNAN",
       "SEPEHR",
       "SHOMA",
+      "SNN TV",
       "Sahar",
       "Sharo",
       "Solh TV",
@@ -118,6 +115,7 @@
       "TV3",
       "TV4",
       "TV5",
+      "Tin TV",
       "VARZESH",
       "VARZESH TV FARSI",
       "VOX1",
@@ -126,11 +124,13 @@
       "VOX2 TVG",
       "Varzesh",
       "YAZD",
+      "YourTime TV",
       "iFILM"
    ],
    "News": [
       "Al Alam",
       "BBC Persian",
+      "Channel 1",
       "HispanTV",
       "Iran International",
       "Mihan TV",
@@ -143,7 +143,6 @@
       "Icnet TV",
       "Imam Hussein TV",
       "Kalemeh TV",
-      "Kalemeh TV",
       "Marjaeyat",
       "Mohabat TV",
       "Nour",
@@ -151,36 +150,23 @@
       "SAT-7 PARS",
       "Salam TV"
    ],
-   "Family": [
-      "AVA Family"
+   "Sports": [
+      "GEM Fit",
+      "Persiana Varzesh",
+      "Poker TV"
    ],
-   "Series": [
-      "AVA Series"
+   "Cooking": [
+      "GEM Food"
    ],
-   "Music": [
-      "Avang TV",
-      "Caltex TV",
-      "Diyar TV",
-      "EBC1 TV",
-      "GEM 24b",
-      "GEM AZ",
-      "GEM Arabia",
-      "GEM Latino",
-      "GEM Mifa",
-      "High Vision",
-      "NAVAHANG",
-      "PMC",
-      "PMC Royale",
-      "Persiana Billboard",
-      "Persiana Music",
-      "Persiana Nostalgia",
-      "Persiana Sonati",
-      "T2 TV"
+   "Shop": [
+      "Persian Bazar"
    ],
-   "Legislative": [
-      "Channel 1"
+   "Kids": [
+      "Persiana Junior",
+      "Toonix"
    ],
-   "Movies": [
+   "Movies & Series": [
+      "AVA Series",
       "Faraz TV",
       "GEM Academy",
       "GEM Comedy",
@@ -208,25 +194,28 @@
       "iFILM English",
       "iFILM Persian 2"
    ],
-   "Sports": [
-      "GEM Fit",
-      "Persiana Varzesh",
-      "Poker TV"
+   "Music Videos": [
+      "Avang TV",
+      "Caltex TV",
+      "Diyar TV",
+      "EBC1 TV",
+      "GEM 24b",
+      "GEM AZ",
+      "GEM Arabia",
+      "GEM Latino",
+      "GEM Mifa",
+      "High Vision",
+      "NAVAHANG",
+      "PMC",
+      "PMC Royale",
+      "Persiana Billboard",
+      "Persiana Music",
+      "Persiana Nostalgia",
+      "Persiana Sonati",
+      "T2 TV"
    ],
-   "Cooking": [
-      "GEM Food"
-   ],
-   "Documentary": [
+   "Education & Culture": [
       "GEM Modern Economy",
       "Persiana Documentary"
-   ],
-   "Shop": [
-      "Persian Bazar"
-   ],
-   "Animation": [
-      "Persiana Junior"
-   ],
-   "Kids": [
-      "Toonix"
    ]
 }
