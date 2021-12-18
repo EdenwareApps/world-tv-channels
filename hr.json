@@ -11,8 +11,10 @@
       "MAXtv Promo Kanal",
       "OTV",
       "RTL",
-      "Radio Televizija Banovina",
       "TV Jadran",
       "TV Nova"
+   ],
+   "Radios": [
+      "Radio Televizija Banovina"
    ]
 }

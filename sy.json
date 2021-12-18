@@ -17,19 +17,20 @@
       "Rojava TV",
       "Ronahî TV",
       "Sama TV",
-      "Sham FM",
       "Sham IPTV",
       "Syria Satellite Channel",
       "Syria TV",
       "Ugarit TV"
    ],
-   "Music Videos": [
-      "Souryana Radio"
-   ],
+   "Music Videos": [],
    "Movies & Series": [
       "Syria Drama"
    ],
    "Education & Culture": [
       "Syrian Education TV"
+   ],
+   "Radios": [
+      "Sham FM",
+      "Souryana Radio"
    ]
 }

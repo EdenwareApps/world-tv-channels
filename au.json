@@ -4,15 +4,24 @@
    ],
    "News": [
       "ABC News",
+      "ABC News Australia",
       "Australia Channel",
+      "Bloomberg Australia",
       "Bloomberg TV Australia",
+      "EURONEWS",
+      "Fox Sports News",
+      "Sky News Australia",
+      "Sky News Australia Extra 1",
+      "Sky News Australia Extra 2",
+      "Sky News Australia Extra 3",
       "Sky News Extra 1",
       "Sky News Extra 2",
       "Sky News Extra 3",
       "ausbiz TV"
    ],
    "Shop": [
-      "Expo Channel"
+      "Expo Channel",
+      "Open Shop"
    ],
    "Cooking": [
       "SBS Food"
@@ -42,26 +51,21 @@
       "ABC ME",
       "ABC Me",
       "ABC Melbourne AU",
-      "ABC News Australia",
       "ABC Perth AU",
       "ABC Sydney AU",
       "ABC TV",
       "ABC TV Plus",
       "ACCTV",
-      "Action Hollywood Movies",
       "Aflam Mohtrama",
       "Aus Biz TV",
       "Aus Tamil",
       "Ausbiz TV",
-      "Bloomberg Australia",
       "Bounty Plus",
       "C31 Melbourne",
       "Channel 44",
       "DUST",
       "Dry Bar Comedy",
-      "EURONEWS",
       "Filmstream",
-      "Fox Sports News",
       "Fuel TV",
       "Gusto TV",
       "Horse and Country",
@@ -76,7 +80,6 @@
       "MIS Televizija",
       "NITV",
       "Nine",
-      "Open Shop",
       "Outdoor Channel",
       "Pulse TV",
       "QUEST TV Classical",
@@ -89,10 +92,6 @@
       "SBS TV",
       "SBS Viceland",
       "Seven",
-      "Sky News Australia",
-      "Sky News Australia Extra 1",
-      "Sky News Australia Extra 2",
-      "Sky News Australia Extra 3",
       "Sky Racing 1",
       "Sky Racing 2",
       "Sky Thoroughbred Central",
@@ -107,6 +106,7 @@
       "澳大利亚天和电视"
    ],
    "Movies & Series": [
+      "Action Hollywood Movies",
       "SBS World Movies"
    ]
 }

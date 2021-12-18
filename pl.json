@@ -3,7 +3,6 @@
       "4FUN TV",
       "Echo24",
       "Ezo TV",
-      "Radio Czworka",
       "Sfera TV",
       "TV K Kujawy",
       "TV Kujawy",
@@ -40,5 +39,8 @@
    ],
    "Education & Culture": [
       "BBC Lifestyle"
+   ],
+   "Radios": [
+      "Radio Czworka"
    ]
 }

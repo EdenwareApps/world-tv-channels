@@ -11,7 +11,6 @@
       "Argentinísima Satelital",
       "CANAL TDC",
       "CANAL.9 MULTIVISION",
-      "CINE.AR",
       "CN3 Pinamar",
       "Canal 10 Mar del Plata",
       "Canal 11 La Rioja",
@@ -29,7 +28,7 @@
       "Canal 9 Televida",
       "Chacra TV",
       "Cinco TV",
-      "El Trece HD",
+      "El Trece",
       "ElOnce",
       "Encuentro",
       "GenTV",
@@ -43,7 +42,6 @@
       "Power TV",
       "Quatro TV",
       "RTN",
-      "Radio TV Neuquen",
       "SEO TV",
       "Santa María TV",
       "T5 Satelital",
@@ -75,7 +73,7 @@
       "DeporTV"
    ],
    "Local": [
-      "AVC HD",
+      "AVC",
       "Canal 10 Rio Negro",
       "Canal C",
       "Canal Provincial",
@@ -116,6 +114,10 @@
       "TVU Universidad Nacional de La Plata"
    ],
    "Movies & Series": [
+      "CINE.AR",
       "SEO TV Novelas"
+   ],
+   "Radios": [
+      "Radio TV Neuquen"
    ]
 }

@@ -44,7 +44,6 @@
       "ITN",
       "Iran Beauty",
       "Irane Farda",
-      "Iranintl.Radio",
       "JAHANBIN",
       "KERMAN",
       "KERMANSHAH",
@@ -73,7 +72,6 @@
       "PBC Tapesh TV",
       "PERSIANA + HD",
       "PERSIANA BILLBOARD",
-      "PERSIANA CINEMA",
       "PERSIANA CLASSIC",
       "PERSIANA COMEDY",
       "PERSIANA DOCUMENTARY",
@@ -93,9 +91,6 @@
       "Persiana Game & Tech",
       "QAZVIN",
       "QURAN",
-      "Radio Farda",
-      "Radio Javan",
-      "Radio Yar",
       "Rangarang TV",
       "SABALAN",
       "SAHAND",
@@ -175,6 +170,7 @@
       "GEM Series",
       "GEM Tv",
       "Khatereh TV",
+      "PERSIANA CINEMA",
       "Parsiland",
       "Persian Film",
       "Persiana Cinema",
@@ -217,5 +213,11 @@
    "Education & Culture": [
       "GEM Modern Economy",
       "Persiana Documentary"
+   ],
+   "Radios": [
+      "Iranintl.Radio",
+      "Radio Farda",
+      "Radio Javan",
+      "Radio Yar"
    ]
 }

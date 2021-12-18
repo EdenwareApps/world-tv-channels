@@ -1,7 +1,6 @@
 {
    "Entertainment": [
       "Arirang",
-      "Arirang Radio",
       "BBS Buddhist Broadcasting",
       "CBS",
       "CBS TV",
@@ -60,5 +59,8 @@
    ],
    "Education & Culture": [
       "YTN SCIENCE"
+   ],
+   "Radios": [
+      "Arirang Radio"
    ]
 }

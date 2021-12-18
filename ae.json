@@ -37,7 +37,6 @@
       "Al Sharqiya Min Kabla",
       "Al Wousta TV",
       "Alhiwar TV",
-      "Bee Movies",
       "Bee Theater",
       "Dubai One",
       "Dubai Racing",
@@ -76,7 +75,6 @@
       "Peace TV English",
       "SAT-7 ARABIC",
       "Sharjah 2",
-      "Sharjah Radio Quran",
       "Sharjah TV",
       "Towheed TV"
    ],
@@ -86,6 +84,7 @@
    ],
    "Movies & Series": [
       "AXN East Asia",
+      "Bee Movies",
       "Dubai Zaman",
       "Fox Movies Asia",
       "MBC Action",
@@ -96,5 +95,8 @@
    ],
    "Music Videos": [
       "Wanasah"
+   ],
+   "Radios": [
+      "Sharjah Radio Quran"
    ]
 }

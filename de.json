@@ -6,9 +6,6 @@
       "ARD-alpha",
       "ARTE",
       "ARTI TV",
-      "Action Movies AT",
-      "Action Movies CH",
-      "Action Movies DE",
       "Alex Berlin",
       "Anixe HD",
       "Antenne Vorarlberg",
@@ -24,15 +21,10 @@
       "Bibel TV",
       "Bibel TV Impuls",
       "Bibel TV Musik",
-      "Bloomberg TV",
       "CIRA TV",
-      "CNN International",
       "Campus TV Magdeburg",
       "Campus-TV-Magdeburg+",
       "Chemnitz Fernsehen",
-      "Comedy Movies AT",
-      "Comedy Movies CH",
-      "Comedy Movies DE",
       "DASDING 90.8",
       "Das Erste",
       "Das Erste HD",
@@ -48,7 +40,6 @@
       "Drama DE",
       "Dresden Fernsehen",
       "EOTV Germany",
-      "EURONEWS",
       "Elbekanal",
       "Elbekanal Schönebeck",
       "Erz-TV Stollberg",
@@ -172,8 +163,6 @@
       "RTL West",
       "RTL+",
       "RWE Erfurt",
-      "Radio 21 Hannover",
-      "Radio Bremen TV HD",
       "Ran 1",
       "Ran1 Dessau-Roßlau",
       "Regio TV Bodensee",
@@ -186,17 +175,14 @@
       "Rockland TV",
       "Rockland TV - Mainz",
       "SR Fernsehen",
-      "SWR 3 Visual Radio",
       "SWR BW",
       "Saarland Fernsehen 1",
       "Saarland Fernsehen 2",
       "Santhora Short Film",
       "Seenluft24",
       "ServusTV HD",
-      "Sky Sport News HD",
       "Sofy TV",
       "Sonnenklar.TV",
-      "Sonus FM Alemania",
       "Spotlight AT",
       "Spotlight CH",
       "Spotlight DE",
@@ -249,10 +235,14 @@
       "teltOwkanal"
    ],
    "News": [
+      "Bloomberg TV",
+      "CNN International",
       "CNN International Germany",
       "DW Deutsch",
       "DW Deutsch+",
+      "EURONEWS",
       "Euronews Deutsch",
+      "Sky Sport News HD",
       "WELT"
    ],
    "Religious": [
@@ -269,8 +259,22 @@
       "3 ABN KIDS"
    ],
    "Music Videos": [
-      "Deluxe Lounge HD",
+      "Deluxe Lounge HD"
+   ],
+   "Radios": [
+      "Radio 21 Hannover",
       "Radio 21 TV",
-      "Radio Weser TV Bremen"
+      "Radio Bremen TV HD",
+      "Radio Weser TV Bremen",
+      "SWR 3 Visual Radio",
+      "Sonus FM Alemania"
+   ],
+   "Movies & Series": [
+      "Action Movies AT",
+      "Action Movies CH",
+      "Action Movies DE",
+      "Comedy Movies AT",
+      "Comedy Movies CH",
+      "Comedy Movies DE"
    ]
 }

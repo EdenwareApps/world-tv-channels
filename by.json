@@ -11,7 +11,6 @@
    "Music Videos": [
       "Sluhay.by",
       "Sluhay.by Aillion",
-      "Sluhay.by Among Your God",
       "Sluhay.by Christ",
       "Sluhay.by EDM",
       "Sluhay.by Lenadi",
@@ -36,13 +35,17 @@
       "Pervyy Muzykal'nyy 2 BY",
       "Pervyy Muzykal'nyy BY",
       "Pervyy Muzykal'nyy RU BY",
-      "Pervyy Muzykal'nyy RU BY HD",
       "Planeta RTR",
-      "Radio HIT Orsk",
       "Vitebsk Telekanal",
       "БелРос",
       "Беларусь 4",
       "Белсат ТВ",
       "СТВ"
+   ],
+   "Radios": [
+      "Radio HIT Orsk"
+   ],
+   "Religious": [
+      "Sluhay.by Among Your God"
    ]
 }

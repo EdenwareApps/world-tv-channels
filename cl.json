@@ -1,6 +1,5 @@
 {
    "Entertainment": [
-      "AE Radio TV",
       "Arica TV",
       "Autonoma TV",
       "Camara de Diputados",
@@ -31,14 +30,7 @@
       "Pauta",
       "Pintana TV",
       "Planetatv Kids",
-      "Planetatv Movie",
       "Planetatv Music",
-      "Radio El Sembrador",
-      "Radio La Sabrosura",
-      "Radio Maxima 94.9 FM SB",
-      "Radio Rancagua FM",
-      "Radio Ritmo FM",
-      "Radio Zeta TV",
       "RealPro Online",
       "Rocco TV",
       "Sello de Raza",
@@ -92,7 +84,6 @@
       "La Granja TV",
       "La Popular TV",
       "Puncón TV",
-      "Radio América TV",
       "Santa María Televisión",
       "TV Elqui",
       "TV Osorno",
@@ -112,7 +103,6 @@
    "Religious": [
       "Canal ISB",
       "Gracia TV",
-      "Radio Uniem",
       "Restaurando Vidas Internacional",
       "TNE",
       "Unidad Evangelica TV",
@@ -131,18 +121,30 @@
    ],
    "Music Videos": [
       "Carolina TV",
-      "Interradio",
       "MIX 24/7 Conciertos",
       "Mundo de la Música",
-      "Onda Radio",
       "Portalfoxmix",
       "RCK TV",
       "Retro Plus",
       "Retro Plus 2",
-      "Rewind TV",
-      "Ruidos FM"
+      "Rewind TV"
    ],
    "Movies & Series": [
+      "Planetatv Movie",
       "Retro Plus 3"
+   ],
+   "Radios": [
+      "AE Radio TV",
+      "Interradio",
+      "Onda Radio",
+      "Radio América TV",
+      "Radio El Sembrador",
+      "Radio La Sabrosura",
+      "Radio Maxima 94.9 FM SB",
+      "Radio Rancagua FM",
+      "Radio Ritmo FM",
+      "Radio Uniem",
+      "Radio Zeta TV",
+      "Ruidos FM"
    ]
 }

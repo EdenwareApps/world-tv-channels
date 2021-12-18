@@ -52,7 +52,6 @@
       "PTP Phú Yên",
       "QRT",
       "Quốc Hội",
-      "SkyShop",
       "Supreme Master TV",
       "Tea TV",
       "Tien Giang",
@@ -69,5 +68,8 @@
       "Vĩnh Long 2",
       "Đồng Nai 1",
       "Đồng Nai 2"
+   ],
+   "Shop": [
+      "SkyShop"
    ]
 }

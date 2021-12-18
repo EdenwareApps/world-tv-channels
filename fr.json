@@ -1,10 +1,8 @@
 {
    "Entertainment": [
       "A2i Music",
-      "A2i Religion",
       "A2i TV",
       "ARTE Français",
-      "Action Movies",
       "Alpe d'Huez",
       "Alpe d’Huez TV",
       "Amuse Animation",
@@ -15,7 +13,6 @@
       "BIP TV",
       "Big Names",
       "Bip TV",
-      "Bloomberg TV+",
       "Bob l'éponge",
       "CATFISH TV",
       "CGTN France",
@@ -24,18 +21,14 @@
       "Central TV",
       "Classical Harmony",
       "Clubbing TV",
-      "Comedy Movies",
       "D5TV",
       "DBM",
       "DBM TV",
       "Dieu TV",
       "Dora TV",
       "Dossiers FBI",
-      "Drama Movies",
       "EMCI TV",
-      "Euronews",
       "FailArmy",
-      "Family Movies",
       "Femmes De Loi",
       "France 2",
       "France 24",
@@ -47,7 +40,6 @@
       "Fuel TV",
       "Gaming TV",
       "Generations TV",
-      "Holygod TV",
       "Humanity",
       "IGN",
       "ILTV",
@@ -65,7 +57,6 @@
       "MDL",
       "MTV CLASSICS",
       "Moods",
-      "Movies Central",
       "My Surf TV",
       "MyComedy",
       "Nancy Web TV",
@@ -79,7 +70,6 @@
       "Qwest Jazz and Beyond",
       "Qwest TV MIX",
       "RMC",
-      "Radio Contact",
       "Sofy TV",
       "Sport en France",
       "Spotlight",
@@ -124,7 +114,9 @@
    "News": [
       "BFM Business",
       "BFMTV",
+      "Bloomberg TV+",
       "Cnews",
+      "Euronews",
       "Euronews Français",
       "France 24 English",
       "France 24 Français",
@@ -163,6 +155,18 @@
       "TZiK"
    ],
    "Movies & Series": [
+      "Action Movies",
+      "Comedy Movies",
+      "Drama Movies",
+      "Family Movies",
+      "Movies Central",
       "Wildside TV"
+   ],
+   "Radios": [
+      "Radio Contact"
+   ],
+   "Religious": [
+      "A2i Religion",
+      "Holygod TV"
    ]
 }

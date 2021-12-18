@@ -17,13 +17,11 @@
       "9 la Loma TV",
       "A3 Latino",
       "ATV Andorra",
-      "Action Movies",
       "Alacanti TV",
       "Alacantí TV",
       "Alcarria TV",
       "Antena3 Espanha",
       "Aragon TV",
-      "Aragón Radio",
       "Aragón TV",
       "Bailén TV",
       "Beteve",
@@ -60,7 +58,6 @@
       "Canal Vasco",
       "Canalcosta TV",
       "Clan TVE",
-      "Comedy Movies",
       "Condavision",
       "Condavisión",
       "Cosmo TV",
@@ -83,9 +80,7 @@
       "EsAsturiasTV",
       "Esport 3",
       "Estepona TV",
-      "Euronews",
       "EuropaPress TV",
-      "Family Movies",
       "Fibracat TV",
       "Fibwi",
       "Fion TV",
@@ -152,8 +147,6 @@
       "Onda Valencia",
       "OndaMezquita 7 TV",
       "People are Awesome",
-      "PequeRadio TV",
-      "Pequeradio",
       "Planeta Kids",
       "Popular TV Cantabria",
       "Popular TV Murcia",
@@ -162,8 +155,6 @@
       "RTV Vida",
       "RTVC",
       "RTVCE",
-      "Radio Televisión Marbella",
-      "Radio Televisión Melilla",
       "Rakuten Family",
       "Rakuten Top Free 1",
       "Rakuten Top Free 2",
@@ -256,6 +247,7 @@
       "Congreso de los Diputados 5",
       "DW Español",
       "DW Latino America",
+      "Euronews",
       "France 24 Español"
    ],
    "Local": [
@@ -277,9 +269,7 @@
       "Trebujena TV",
       "tvG2"
    ],
-   "Travel": [
-      "Radio Rutas del Perú"
-   ],
+   "Travel": [],
    "Kids": [
       "Animes TV ES"
    ],
@@ -288,6 +278,17 @@
       "Activa TV"
    ],
    "Movies & Series": [
+      "Action Movies",
+      "Comedy Movies",
+      "Family Movies",
       "Rakuten Drama"
+   ],
+   "Radios": [
+      "Aragón Radio",
+      "PequeRadio TV",
+      "Pequeradio",
+      "Radio Rutas del Perú",
+      "Radio Televisión Marbella",
+      "Radio Televisión Melilla"
    ]
 }

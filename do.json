@@ -8,7 +8,6 @@
       "Canal 56",
       "Canal Amé 47",
       "Carivision",
-      "Cinevision Canal 19",
       "Comunion TV",
       "DAN TV",
       "Digital Vision",
@@ -63,7 +62,12 @@
       "Chinola TV"
    ],
    "Music Videos": [
-      "Hits 360 TV",
+      "Hits 360 TV"
+   ],
+   "Radios": [
       "Radio105 full"
+   ],
+   "Movies & Series": [
+      "Cinevision Canal 19"
    ]
 }

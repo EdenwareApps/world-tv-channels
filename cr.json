@@ -15,7 +15,6 @@
       "HBTV TicaVisión",
       "Humor 24-7",
       "Quince UCR",
-      "Repretel CDR-2 Central de Radios",
       "Retro TV Palmares",
       "STV El Camal Familiar",
       "TV Sur Canal 9",
@@ -31,5 +30,8 @@
    "Music Videos": [
       "Canal 38",
       "Video Tour Channel"
+   ],
+   "Radios": [
+      "Repretel CDR-2 Central de Radios"
    ]
 }

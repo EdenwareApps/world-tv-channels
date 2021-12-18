@@ -3,8 +3,6 @@
       "Hosanna Vision"
    ],
    "Entertainment": [
-      "Cabina RPC Radio",
-      "Cabina Telemetro Radio",
       "RPC",
       "TVN",
       "Telemetro"
@@ -14,5 +12,9 @@
    ],
    "Music Videos": [
       "Oye TV"
+   ],
+   "Radios": [
+      "Cabina RPC Radio",
+      "Cabina Telemetro Radio"
    ]
 }

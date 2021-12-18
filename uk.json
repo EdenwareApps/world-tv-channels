@@ -12,12 +12,18 @@
       "Loveworld TV"
    ],
    "News": [
+      "92 News UK",
       "Arise News",
-      "CNN International UK",
+      "Bloomberg EU",
+      "Bloomberg EU Event",
+      "Bloomberg+ 4K",
+      "CNN International",
+      "Euronews",
       "GB News",
       "Iran International",
       "RT UK",
-      "Sky News"
+      "Sky News",
+      "Sky News Extra"
    ],
    "Local": [
       "Sheffield Live TV"
@@ -47,9 +53,7 @@
       "Nick Jr Too UK"
    ],
    "Entertainment": [
-      "92 News UK",
       "ATN Bangla UK",
-      "Action Movies",
       "Ahwazna",
       "All Drama",
       "Anand TV",
@@ -57,7 +61,6 @@
       "BBC Alba",
       "BBC Earth",
       "BBC Four",
-      "BBC Four HD",
       "BBC One Cambridge",
       "BBC One Channel Islands",
       "BBC One East",
@@ -68,15 +71,12 @@
       "BBC One North East",
       "BBC One North West",
       "BBC One Northern Ireland",
-      "BBC One Northern Ireland HD",
       "BBC One Oxford",
       "BBC One Scotland",
-      "BBC One Scotland HD",
       "BBC One South",
       "BBC One South East",
       "BBC One South West",
       "BBC One Wales",
-      "BBC One Wales HD",
       "BBC One West",
       "BBC One West Midlands",
       "BBC One Yorks",
@@ -121,30 +121,23 @@
       "BT Sport 2",
       "Beano TV",
       "Big Names",
-      "Bloomberg EU",
-      "Bloomberg EU Event",
-      "Bloomberg+ 4K",
       "Brit Asia Live",
       "CBBC",
       "CBBC HD",
       "CBeebies",
       "CBeebies HD",
       "CGTN",
-      "CNN Int.",
       "Channel S",
       "Chelsea TV",
       "Clubbing TV",
-      "Comedy Movies",
       "Crime TV",
       "Discover.Film",
       "Diy Daily",
       "Drama",
       "Dust",
       "Edge Sport",
-      "Euronews",
       "FTF For the fans",
       "Failarmy",
-      "Family Movies",
       "Fashion TV",
       "Filmon 360",
       "Filmstream",
@@ -171,7 +164,6 @@
       "Kid Gamer TV",
       "Kidoodle TV",
       "Kiss",
-      "Kool London Radio",
       "La Muscle TV",
       "Latest TV",
       "Luxe TV",
@@ -189,7 +181,6 @@
       "Manoto",
       "Masters of Food",
       "Mav TV",
-      "Movies Central",
       "My5 Documentaries",
       "My5 GP's",
       "Noor TV",
@@ -215,10 +206,8 @@
       "S4C",
       "Sangat Television",
       "Screamfest",
-      "Sheffield Live 93.2 FM",
       "Sky 1 Racing",
       "Sky 2 Racing",
-      "Sky News Extra",
       "Sofy TV",
       "Sonlife UK",
       "Spark Tv",
@@ -261,9 +250,17 @@
       "V2BEAT"
    ],
    "Movies & Series": [
-      "Dark Matter TV"
+      "Action Movies",
+      "Comedy Movies",
+      "Dark Matter TV",
+      "Family Movies",
+      "Movies Central"
    ],
    "Education & Culture": [
       "Jewelery Maker"
+   ],
+   "Radios": [
+      "Kool London Radio",
+      "Sheffield Live 93.2 FM"
    ]
 }

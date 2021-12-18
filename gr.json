@@ -1,6 +1,5 @@
 {
    "Local": [
-      "BCI 24 News",
       "Channel 9",
       "Ena Channel",
       "Epirus TV1",
@@ -9,6 +8,7 @@
       "TV Creta"
    ],
    "News": [
+      "BCI 24 News",
       "ERT News"
    ],
    "Sports": [
@@ -65,13 +65,11 @@
       "Kontra Channel",
       "Krete TV",
       "MGR TV",
-      "MY RADIO TV",
       "Magic TV GR",
       "Maroussiotika TV",
       "Mesogeios TV",
       "Messinia TV",
       "NETMAX TV",
-      "NG RADIO",
       "NRG 91",
       "NRG TV",
       "NS TV",
@@ -82,7 +80,6 @@
       "PANIK TV",
       "Pella TV",
       "Pik Sat",
-      "Radio Epistrofi",
       "Reload Play",
       "Samiaki TV",
       "Sigma",
@@ -129,5 +126,10 @@
       "NG",
       "Play TV",
       "Xalastra TV"
+   ],
+   "Radios": [
+      "MY RADIO TV",
+      "NG RADIO",
+      "Radio Epistrofi"
    ]
 }

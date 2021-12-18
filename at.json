@@ -9,14 +9,11 @@
       "Kronehit"
    ],
    "Entertainment": [
-      "Action Movies - AT",
-      "Comedy Movies - AT",
       "Der Serienkanal - AT",
       "Dorf TV",
       "Drama - AT",
       "FS1 Salzburg",
       "Family - AT",
-      "Hitradio Ö3",
       "K-TV",
       "Krone.TV",
       "Ländle Tv",
@@ -41,5 +38,12 @@
       "W24 TV",
       "dorf tv",
       "oe24 TV"
+   ],
+   "Radios": [
+      "Hitradio Ö3"
+   ],
+   "Movies & Series": [
+      "Action Movies - AT",
+      "Comedy Movies - AT"
    ]
 }

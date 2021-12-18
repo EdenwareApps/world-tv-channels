@@ -10,7 +10,6 @@
       "A T V",
       "ATV",
       "BEL RTL",
-      "BEL Radio PROS",
       "BX1",
       "Bel RTL",
       "Canal C",
@@ -21,7 +20,6 @@
       "EbS Live",
       "EbS+ Live",
       "Een",
-      "Fun Radio",
       "Ketnet",
       "Ketnet Junior",
       "MNM",
@@ -31,15 +29,19 @@
       "ROB TV",
       "RTL TVI",
       "RTL-TVi",
-      "Radio Pros",
       "TV Oost",
       "TVO",
       "XITE BE"
    ],
    "Music Videos": [
       "City Music TV",
-      "Q-Music",
+      "Q-Music"
+   ],
+   "Radios": [
+      "BEL Radio PROS",
+      "Fun Radio",
       "Radio Contact",
-      "Radio PROS"
+      "Radio PROS",
+      "Radio Pros"
    ]
 }

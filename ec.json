@@ -6,15 +6,12 @@
       "TV Universal"
    ],
    "Local": [
-      "Visión Radio Televisión",
       "Zaracay TV"
    ],
    "Entertainment": [
       "CanelaTV",
       "Ecotel",
       "Ecuador TV",
-      "El Sol Radio y Television",
-      "Elite Radio Televisión",
       "Hechos Ecuador",
       "Latacunga TV",
       "Loreto TV",
@@ -24,7 +21,6 @@
       "Princesa Estéreo TV",
       "Puruwa TV",
       "RTS",
-      "Radio Impacto 2",
       "Teleamazonas",
       "Telerama",
       "UCSG",
@@ -33,5 +29,11 @@
    ],
    "Education & Culture": [
       "EducaTV"
+   ],
+   "Radios": [
+      "El Sol Radio y Television",
+      "Elite Radio Televisión",
+      "Radio Impacto 2",
+      "Visión Radio Televisión"
    ]
 }

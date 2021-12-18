@@ -17,15 +17,17 @@
       "Nablus TV",
       "Palestine Mubasher",
       "Palestine Satellite Channel",
-      "Radio Albalad TV",
       "Rajeen TV",
-      "Shabab FM",
       "Watar TV",
       "Wattan TV",
       "palestiniantv"
    ],
    "Music Videos": [
-      "Falastini",
-      "Marah FM"
+      "Falastini"
+   ],
+   "Radios": [
+      "Marah FM",
+      "Radio Albalad TV",
+      "Shabab FM"
    ]
 }

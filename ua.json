@@ -65,7 +65,6 @@
       "Perviy Gorodskoy Odessa",
       "Pravda TYT",
       "Pryamyi",
-      "Radio Suite",
       "Renome",
       "Reportior Odessa",
       "Rudana",
@@ -147,5 +146,8 @@
    "Music Videos": [
       "M1",
       "M2"
+   ],
+   "Radios": [
+      "Radio Suite"
    ]
 }

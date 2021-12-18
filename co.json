@@ -25,7 +25,6 @@
    ],
    "Local": [
       "ATV",
-      "Buenísima Radio TV",
       "Cali TV",
       "Canal Dos",
       "Suram TV",
@@ -50,5 +49,8 @@
       "Chavo TV",
       "Cinema+",
       "MovieFe"
+   ],
+   "Radios": [
+      "Buenísima Radio TV"
    ]
 }

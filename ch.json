@@ -1,10 +1,8 @@
 {
    "Entertainment": [
-      "Action Movies - CH",
       "Canal 9",
       "Canal Alpha Jura",
       "Canal Alpha Neuchatel",
-      "Comedy Movies - CH",
       "Couleur 3",
       "Cribs Maisons De Star",
       "Der Serienkanal - CH",
@@ -23,10 +21,6 @@
       "QS24",
       "RTL Tëlee Lëtzebuerg",
       "RTS Couleur 3",
-      "Radio 3i",
-      "Radio Argovia 90.3 FM Aarau",
-      "Radio Pilatus",
-      "Radio Pilatus TV",
       "Rouge TV",
       "SWISS Sport TV 24 7",
       "Schweiz 5",
@@ -35,7 +29,6 @@
       "TVO",
       "Tele 1",
       "Tele M1",
-      "Tele M1 HD",
       "TeleBarn",
       "TeleBielingue",
       "TeleTicino",
@@ -50,5 +43,15 @@
    ],
    "Sports": [
       "Motorvision TV"
+   ],
+   "Radios": [
+      "Radio 3i",
+      "Radio Argovia 90.3 FM Aarau",
+      "Radio Pilatus",
+      "Radio Pilatus TV"
+   ],
+   "Movies & Series": [
+      "Action Movies - CH",
+      "Comedy Movies - CH"
    ]
 }

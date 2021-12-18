@@ -10,7 +10,6 @@
       "RTP África",
       "RTP1",
       "RTP2",
-      "Radio Clube TV",
       "SIC",
       "SIC Internacional",
       "SIC Radical",
@@ -65,5 +64,8 @@
    ],
    "Music Videos": [
       "Kuriakos Music"
+   ],
+   "Radios": [
+      "Radio Clube TV"
    ]
 }

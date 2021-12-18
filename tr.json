@@ -60,7 +60,6 @@
       "Cekmeköy TV",
       "Cem TV",
       "Ciftci Tv",
-      "Cine5 TV",
       "DHA",
       "DIM TV",
       "DRT TV",
@@ -150,7 +149,6 @@
       "Mercan TV",
       "Meteoroloji TV",
       "Milyon TV",
-      "Misk FM",
       "NTV",
       "Natural TV",
       "ON Medya Haber",
@@ -226,5 +224,11 @@
       "Üniversite TV",
       "ÜÜ TV Üsküdar Üniversitesi TV",
       "Şaban TV"
+   ],
+   "Radios": [
+      "Misk FM"
+   ],
+   "Movies & Series": [
+      "Cine5 TV"
    ]
 }

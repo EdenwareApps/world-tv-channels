@@ -25,7 +25,6 @@
       "Governo do México",
       "Hipodromo de las Americas",
       "Icrtv Colima",
-      "Imagen Radio",
       "Imagen TV",
       "Jalisco TV",
       "La Octava TV",
@@ -106,5 +105,8 @@
    ],
    "Movies & Series": [
       "Moovimex"
+   ],
+   "Radios": [
+      "Imagen Radio"
    ]
 }

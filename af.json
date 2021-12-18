@@ -9,8 +9,8 @@
    ],
    "Movies & Series": [
       "&Pictures",
-      "&TV HD",
-      "&privé HD",
+      "&TV",
+      "&privé",
       "Thrill"
    ],
    "Music Videos": [
@@ -50,8 +50,6 @@
       "Payame Afghan",
       "Payvand TV",
       "Persian Bazar",
-      "Radio Farda TV",
-      "Radio Javan TV",
       "Shabakeh 7",
       "Shamshad",
       "Simaye Azadi",
@@ -62,5 +60,9 @@
       "Tuti",
       "VOA Persian",
       "WATAN-E-MAA"
+   ],
+   "Radios": [
+      "Radio Farda TV",
+      "Radio Javan TV"
    ]
 }

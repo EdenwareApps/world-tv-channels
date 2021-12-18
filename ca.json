@@ -1,5 +1,6 @@
 {
    "News": [
+      "CBC News",
       "CBC News Highlights",
       "CBC News Network",
       "CPAC",
@@ -76,7 +77,6 @@
       "All time",
       "Asylum",
       "BBC Toronto Gaunda Punjab",
-      "CBC News",
       "CCTV",
       "CNTV",
       "CP24",
@@ -99,7 +99,6 @@
       "Eawaz TV",
       "FTF",
       "Filmrise True Crime",
-      "Filmrise free movies",
       "Football daily",
       "Francophonie 24",
       "Fuel TV",
@@ -134,9 +133,8 @@
       "Hard Knocks",
       "HollyWire",
       "ICI Montreal",
-      "ICI RDI HD",
-      "ICI Tele HD",
-      "Ici Radio-Canada Télé",
+      "ICI RDI",
+      "ICI Tele",
       "Insight TV",
       "Inwonder",
       "Kidoodle TV",
@@ -178,7 +176,6 @@
       "Tele-V",
       "The Channel TV",
       "The Design Network",
-      "The Shopping Channel",
       "Toronto 360",
       "Télé Culturelle Médias",
       "Télé-Mag Québec",
@@ -198,15 +195,11 @@
       "408 Stingray Pop Adult",
       "409 Stingray Urban Beat",
       "410 Stingray Hot Country",
-      "411 Stingray Flashback 70s",
-      "412 Stingray Everything 80s",
       "413 Stingray Today's Latin Pop",
       "Azstar TV",
       "Stingray Ambience",
       "Stingray Classic Rock",
       "Stingray Classica",
-      "Stingray Everything 80s",
-      "Stingray Flashback 70s",
       "Stingray Greatest Hits",
       "Stingray Hit List",
       "Stingray Hitlist",
@@ -221,6 +214,17 @@
       "Stingray djazz"
    ],
    "Movies & Series": [
+      "Filmrise free movies",
       "NETV Toronto"
+   ],
+   "Radios": [
+      "411 Stingray Flashback 70s",
+      "412 Stingray Everything 80s",
+      "Ici Radio-Canada Télé",
+      "Stingray Everything 80s",
+      "Stingray Flashback 70s"
+   ],
+   "Shop": [
+      "The Shopping Channel"
    ]
 }

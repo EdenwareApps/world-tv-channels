@@ -50,14 +50,12 @@
       "Nova TV Brasov",
       "Prima TV",
       "Pro 2",
-      "Pro Cinema",
       "Pro Gold",
       "Pro TV",
       "Pro TV International",
       "Pro X",
       "Profit",
       "Profit.ro",
-      "Realitatea FM",
       "Realitatea TV",
       "Sangeorz TV",
       "Somax TV",
@@ -91,5 +89,11 @@
    ],
    "Travel": [
       "Travel Mix"
+   ],
+   "Radios": [
+      "Realitatea FM"
+   ],
+   "Movies & Series": [
+      "Pro Cinema"
    ]
 }

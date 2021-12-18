@@ -41,8 +41,6 @@
       "SBC"
    ],
    "Music Videos": [
-      "MBC FM",
-      "Panorama FM",
       "Rotana Khalijia"
    ],
    "Movies & Series": [
@@ -50,5 +48,9 @@
       "Rotana Cinema KSA",
       "Rotana Classic",
       "Thikrayat TV"
+   ],
+   "Radios": [
+      "MBC FM",
+      "Panorama FM"
    ]
 }

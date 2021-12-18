@@ -1,9 +1,5 @@
 {
-   "Religious": [
-      "Radio Yaqeen Jordan: City View",
-      "Radio Yaqeen Jordan: Control Studio",
-      "Radio Yaqeen Jordan: Studio"
-   ],
+   "Religious": [],
    "Kids": [
       "Toyor Al-Jannah"
    ],
@@ -14,16 +10,21 @@
       "Roya TV"
    ],
    "Music Videos": [
+      "Nojoum TV",
+      "Rotana Tarab Jordan: City View",
+      "Rotana Tarab Jordan: Control Studio"
+   ],
+   "Radios": [
       "Jawhara FM",
       "Melody FM Jordan",
-      "Nojoum TV",
       "Radio Fann Jordan: City View",
       "Radio Fann Jordan: Control Studio",
       "Radio Fann Jordan: Studio",
+      "Radio Yaqeen Jordan: City View",
+      "Radio Yaqeen Jordan: Control Studio",
+      "Radio Yaqeen Jordan: Studio",
       "Rotana Radio Jordan: City View",
       "Rotana Radio Jordan: Control Studio",
-      "Rotana Radio Jordan: Studio",
-      "Rotana Tarab Jordan: City View",
-      "Rotana Tarab Jordan: Control Studio"
+      "Rotana Radio Jordan: Studio"
    ]
 }

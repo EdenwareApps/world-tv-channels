@@ -24,7 +24,6 @@
       "Lenca Television",
       "MetroTV",
       "Mi Viña Channel",
-      "Radio Ideal 104.7 FM",
       "Roatán Hable Claro",
       "Sercano TV",
       "TEN Canal 10",
@@ -34,5 +33,8 @@
       "Television Comayagua Canal 40",
       "UNAH UTV",
       "Waldivisión Internacional"
+   ],
+   "Radios": [
+      "Radio Ideal 104.7 FM"
    ]
 }

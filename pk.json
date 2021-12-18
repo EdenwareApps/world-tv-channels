@@ -1,17 +1,18 @@
 {
    "News": [
       "92 News",
+      "92 News UK",
+      "ARY News",
       "Dunya News",
       "Express News Pakistan",
       "Geo News",
+      "Khyber News",
       "Khyber News TV",
       "Lahore News",
       "PTV News",
       "Such TV"
    ],
-   "Local": [
-      "92 News UK"
-   ],
+   "Local": [],
    "Religious": [
       "Madani Channel Bangla",
       "Madani Channel Urdu",
@@ -22,13 +23,11 @@
    ],
    "Entertainment": [
       "ARY Digital",
-      "ARY News",
       "AVT Khyber",
       "Avt Khyber",
       "Kay2 TV",
       "Khyber Middle East",
       "Khyber Middle East TV",
-      "Khyber News",
       "Minhaj TV",
       "Noor TV",
       "PTV Home",
