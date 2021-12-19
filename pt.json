@@ -8,8 +8,8 @@
       "RTP Madeira",
       "RTP Memória",
       "RTP África",
-      "RTP1",
-      "RTP2",
+      "RTP1, rtp1 | rtp 1",
+      "RTP2, rtp2 | rtp 2",
       "SIC",
       "SIC Internacional",
       "SIC Radical",
@@ -23,10 +23,8 @@
       "Canal Parlamento",
       "Euronews PT",
       "RTP Noticias",
-      "RTP3",
-      "SIC Noticias",
+      "RTP3, rtp3 | rtp 3",
       "SIC Notícias",
-      "STV Noticias",
       "TVI",
       "TVI24"
    ],
@@ -48,16 +46,14 @@
       "Kuriakos TV",
       "Sobrenatural TV",
       "TV Fátima",
-      "TV MANA",
       "TV MANA MAPUTO",
-      "TV MANA-1 PORTUGAL",
       "TV Maná 1",
       "TV Maná 2",
       "TV Maná Córdoba"
    ],
    "Kids": [
       "Kuriakos Kids",
-      "SIC K PT"
+      "SIC K"
    ],
    "Movies & Series": [
       "Kuriakos Cine"
