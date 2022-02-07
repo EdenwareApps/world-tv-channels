@@ -1,4 +1,4 @@
-# world-tv-channels
+# World TV Channels
 JSON list of TV stations names and categories from around the world.
 
 # Syntax
