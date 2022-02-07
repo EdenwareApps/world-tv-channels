@@ -30,6 +30,8 @@ CoolTV, cooltv | cool tv
 ```
 If channel name can be written differently on iptv lists.
 
+Category names always in English.
+
 Example usages can be found [here](https://github.com/efoxbr/world-tv-channels/blob/main/br.json).
 
 
