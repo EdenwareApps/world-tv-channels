@@ -2,7 +2,9 @@
 JSON list of TV stations names and categories from around the world.
 
 # Syntax
+```
 Channel name (without commas), optional keywords
+```
 
 Optional keywords are used to find the channel in a IPTV M3U list. Supports negate (-keyword) and "OR" scheme (group #1 of keywords | group #2 of keywords).
 
@@ -32,4 +34,4 @@ Example usages can be found [here](https://github.com/efoxbr/world-tv-channels/b
 
 
 # Contribute
-Feel free to send PRs, questions and suggestions. This list is primarily built for the efoxbr/megacubo project.
+Feel free to send PRs, questions and suggestions. This list is primarily built for the [Megacubo](https://github.com/efoxbr/megacubo) project.
