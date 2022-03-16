@@ -99,23 +99,10 @@
       "Islatel",
       "Junta Castilla y León",
       "La 1, la 1 | la primera",
-      "La 1 Canarias, la 1 canarias | la primera canarias",
-      "La 1 Catalunya, la 1 catalunya | la primera catalunya",
-      "La 2, la 2 | la segunda",      
-      "La 6, la 6 | la sexta",
+      "La 6, la 6 | la sexta",     
+      "La 6 Energy, la 6 energy | la sexta energy",
       "La 7, la 7 | la septima",
       "La 8 Avila, la 8 | la oitava",
-      "La 8 Avila, la 8 avila | la oitava avila",
-      "La 8 Bierzo, la 8 bierzo | la oitava bierzo",
-      "La 8 Burgos, la 8 burgos | la oitava burgos",
-      "La 8 Leon, la 8 leon | la oitava leon",
-      "La 8 Mediterráneo, la 8 mediterraneo | la oitava mediterraneo",
-      "La 8 Palencia, la 8 palencia | la oitava palencia",
-      "La 8 Salamanca, la 8 salamanca | la oitava salamanca",
-      "La 8 Segovia, la 8 segovia | la oitava segovia",
-      "La 8 Soria, la 8 soria | la oitava soria",
-      "La 8 Valladolid, la 8 valladolid | la oitava valladolid",
-      "La 8 Zamora, la 8 zamora | la oitava zamora",
       "La Mega Mundial",
       "La Moncloa",
       "La Urban TV",
@@ -189,7 +176,7 @@
       "TVG America, tvg america | galicia america | galega america | gallega america",
       "TVG Cultura, tvg cultura | galicia cultura | galega cultura | gallega cultura",
       "TVG Europa, tvg europa | galicia europa | galega europa | gallega europa",
-      "TVG Momentos G, tvg momentos g | galicia momentos g | galega momentos g | gallega momentos g",
+      "TVG Momento, tvg momentos | tvg momento | galicia momentos | galicia momento | galega momentos | galega momento | gallega momentos | gallega momento",
       "TVM Córdoba",
       "Taroteame TV",
       "Tarotvision",
@@ -225,7 +212,7 @@
       "À Punt"
    ],
    "Education & Culture": [
-      "La 2",
+      "La 2, la 2 | la segunda",
       "RTVE"
    ],
    "Sports": [
@@ -264,19 +251,18 @@
       "TVG Cultural",
       "TVG Evento 1",
       "TVG Evento 5",
-      "TVG Infantil",
-      "TVG Momento",
-      "TVG Musigal",
       "Trebujena TV",
       "tvG2"
    ],
    "Travel": [],
    "Kids": [
-      "Animes TV ES"
+      "Animes TV ES",      
+      "TVG Infantil"
    ],
    "Music Videos": [
       "101 Tele Antequera",
-      "Activa TV"
+      "Activa TV",
+      "TVG Musigal"
    ],
    "Movies & Series": [
       "Action Movies",
