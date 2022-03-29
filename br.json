@@ -80,6 +80,7 @@
       "Futura",
       "Governo do Estado da Bahia",
       "History,history -lab",
+      "History 2,history 2 -lab",
       "Nat Geo",
       "Nat Geo Wild",
       "Rede Minas",
@@ -343,6 +344,7 @@
    "Sports": [
       "All Sports",
       "Band Sports",
+      "Combate",
       "EI MAXX",
       "EI MAXX 2",
       "ESPN Brasil",
@@ -353,16 +355,16 @@
       "Fish TV",
       "NBA",
       "OFF",
-      "Premiere FC",
+      "Premiere FC, premiere | pfc",
       "Real Madrid TV",
       "SporTV",
       "SporTV 2",
       "SporTV 3",
-      "TNT Sports 2 Brasil",
-      "TNT Sports 3 Brasil",
-      "TNT Sports 4 Brasil",
-      "TNT Sports 5 Brasil",
-      "UFC Combate"
+      "TNT Sports",
+      "TNT Sports 2",
+      "TNT Sports 3",
+      "TNT Sports 4",
+      "TNT Sports 5"
    ],
    "Radios": [
       "98 Live",
