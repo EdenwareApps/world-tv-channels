@@ -20,7 +20,7 @@
       "Alacanti TV",
       "Alacantí TV",
       "Alcarria TV",
-      "Antena3 Espanha",
+      "Antena 3",
       "Aragon TV",
       "Aragón TV",
       "Bailén TV",
@@ -98,23 +98,11 @@
       "Intercomarcal TV",
       "Islatel",
       "Junta Castilla y León",
-      "LA SEXTA",
-      "LA7",
-      "La 1",
-      "La 1 Canarias",
-      "La 1 Catalunya",
-      "La 7",
-      "La 8 Avila",
-      "La 8 Bierzo",
-      "La 8 Burgos",
-      "La 8 Leon",
-      "La 8 Mediterráneo",
-      "La 8 Palencia",
-      "La 8 Salamanca",
-      "La 8 Segovia",
-      "La 8 Soria",
-      "La 8 Valladolid",
-      "La 8 Zamora",
+      "La 1, la 1 | la primera",
+      "La 6, la 6 | la sexta",     
+      "La 6 Energy, la 6 energy | la sexta energy",
+      "La 7, la 7 | la septima",
+      "La 8 Avila, la 8 | la oitava",
       "La Mega Mundial",
       "La Moncloa",
       "La Urban TV",
@@ -184,11 +172,11 @@
       "TVE Canal24",
       "TVE Canarias",
       "TVE Catalunya",
-      "TVG 2",
-      "TVG America",
-      "TVG Cultura",
-      "TVG Europa",
-      "TVG Momentos G",
+      "TVG 2, tvg 2 | galicia 2 | galega 2 | gallega 2",
+      "TVG America, tvg america | galicia america | galega america | gallega america",
+      "TVG Cultura, tvg cultura | galicia cultura | galega cultura | gallega cultura",
+      "TVG Europa, tvg europa | galicia europa | galega europa | gallega europa",
+      "TVG Momento, tvg momentos | tvg momento | galicia momentos | galicia momento | galega momentos | galega momento | gallega momentos | gallega momento",
       "TVM Córdoba",
       "Taroteame TV",
       "Tarotvision",
@@ -224,7 +212,7 @@
       "À Punt"
    ],
    "Education & Culture": [
-      "La 2",
+      "La 2, la 2 | la segunda",
       "RTVE"
    ],
    "Sports": [
@@ -263,19 +251,18 @@
       "TVG Cultural",
       "TVG Evento 1",
       "TVG Evento 5",
-      "TVG Infantil",
-      "TVG Momento",
-      "TVG Musigal",
       "Trebujena TV",
       "tvG2"
    ],
    "Travel": [],
    "Kids": [
-      "Animes TV ES"
+      "Animes TV ES",      
+      "TVG Infantil"
    ],
    "Music Videos": [
       "101 Tele Antequera",
-      "Activa TV"
+      "Activa TV",
+      "TVG Musigal"
    ],
    "Movies & Series": [
       "Action Movies",

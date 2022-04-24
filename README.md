@@ -30,7 +30,7 @@ CoolTV, cooltv | cool tv
 ```
 If channel name can be written differently on iptv lists.
 
-Category names always in English.
+Category names always in English, Megacubo will translate it.
 
 Example usages can be found [here](https://github.com/efoxbr/world-tv-channels/blob/main/br.json).
 
