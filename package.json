@@ -19,7 +19,8 @@
     "index.mjs",
     "index.cjs",
     "index.d.ts",
-    "channels/",
+    "channels/*.json",
+    "channels/README.md",
     "*.json"
   ],
   "keywords": [
@@ -41,14 +42,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EdenwareApps/tv-channels-by-country.git"
+    "url": "git+https://github.com/EdenwareApps/tv-channels-by-country.git"
   },
   "homepage": "https://github.com/EdenwareApps/tv-channels-by-country#readme",
   "bugs": {
     "url": "https://github.com/EdenwareApps/tv-channels-by-country/issues"
   },
   "devDependencies": {
-    "jexidb": "EdenwareApps/jexidb",
+    "jexidb": "github:EdenwareApps/jexidb",
     "rollup": "^4.57.1"
   }
 }

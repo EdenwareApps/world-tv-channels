@@ -1,5 +1,7 @@
 import { defineConfig } from 'rollup';
 
+const nodeBuiltins = ['fs', 'path', 'url', 'module'];
+
 export default defineConfig([
   {
     input: 'src/index.js',
@@ -7,6 +9,7 @@ export default defineConfig([
       file: 'index.mjs',
       format: 'es',
     },
+    external: nodeBuiltins,
   },
   {
     input: 'src/index.cjs.js',
@@ -14,5 +17,6 @@ export default defineConfig([
       file: 'index.cjs',
       format: 'cjs',
     },
+    external: nodeBuiltins,
   },
 ]);
