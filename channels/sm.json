@@ -1,0 +1,17 @@
+{
+  "Sports": [
+    {
+      "name": "San Marino RTV Sport",
+      "isFree": false,
+      "shortName": "SMRS",
+      "logo": "https://i.imgur.com/PGm944g.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "San Marino RTV",
+      "isFree": true,
+      "keywords": "san marino rtv -sport"
+    }
+  ]
+}

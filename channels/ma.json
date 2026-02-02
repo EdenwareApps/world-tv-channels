@@ -1,0 +1,220 @@
+{
+  "Sports": [
+    {
+      "name": "Arryadia",
+      "isFree": false,
+      "logo": "https://i.imgur.com/7OAd3rZ.png",
+      "priority": 8
+    },
+    {
+      "name": "Canal Atlas Fight",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalatlasfight.com/"
+    },
+    {
+      "name": "Cote & Sport 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wrzNL3NAViUKEzyxeyRE5lu5k4.jpg",
+      "website": "https://cotesport.mdjsjeux.ma/fr/"
+    },
+    {
+      "name": "Cote & Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wrzNL3NAViUKEzyxeyRE5lu5k4.jpg",
+      "website": "https://cotesport.mdjsjeux.ma/fr/"
+    },
+    {
+      "name": "Sorec TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sorec.ma/"
+    }
+  ],
+  "News": [
+    {
+      "name": "M24 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/J7GdM3L.png"
+    },
+    {
+      "name": "Medi 1 TV Afrique",
+      "isFree": true,
+      "keywords": "medi 1 tv afrique | medi1tv afrique",
+      "shortName": "M1TA",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 9
+    },
+    {
+      "name": "Medi 1 TV Arabic",
+      "isFree": true,
+      "keywords": "medi 1 tv arabic | medi1tv arabic",
+      "priority": 9
+    },
+    {
+      "name": "Medi 1 TV Maghreb",
+      "isFree": true,
+      "keywords": "medi 1 tv maghreb | medi1tv maghreb",
+      "shortName": "M1TM",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 9
+    },
+    {
+      "name": "Medi1TV Afrique",
+      "isFree": true,
+      "logo": "https://i.imgur.com/a20DHnj.png",
+      "website": "https://medi1tv.com/"
+    },
+    {
+      "name": "Medi1TV Arabic",
+      "isFree": true,
+      "logo": "https://i.imgur.com/a20DHnj.png",
+      "website": "https://medi1tv.com/"
+    },
+    {
+      "name": "Medi1TV Maghreb",
+      "isFree": true,
+      "logo": "https://i.imgur.com/a20DHnj.png",
+      "website": "https://medi1tv.com/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "2M Monde",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MvpntzA.png",
+      "priority": 9
+    },
+    {
+      "name": "Al Aoula",
+      "isFree": true,
+      "keywords": "al aoula -laayoune",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 10
+    },
+    {
+      "name": "Al Aoula Laayoune",
+      "isFree": true,
+      "shortName": "AAL",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Al Maghribia",
+      "isFree": true
+    },
+    {
+      "name": "Arrabiaa",
+      "isFree": true
+    },
+    {
+      "name": "Assadissa",
+      "isFree": true
+    },
+    {
+      "name": "MBC 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WGjYmUv.png"
+    },
+    {
+      "name": "Maghreb Arabe Press",
+      "isFree": true,
+      "shortName": "MAP"
+    },
+    {
+      "name": "Tamazight",
+      "isFree": true
+    },
+    {
+      "name": "Télé Maroc",
+      "isFree": true
+    },
+    {
+      "name": "2M",
+      "isFree": true,
+      "keywords": "2m -mena -monde",
+      "website": "https://2m.ma/",
+      "priority": 10
+    },
+    {
+      "name": "2M MENA",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/2M_MONDE.png",
+      "website": "https://2m.ma/",
+      "priority": 9
+    },
+    {
+      "name": "Chada TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MOROCCO/CHADAFM.png",
+      "website": "https://chadatv.com/"
+    },
+    {
+      "name": "Chouf TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFqlr1vUzGJG7Fg3kjrXcnmNs2S.jpg",
+      "website": "https://chouftv.ma/"
+    },
+    {
+      "name": "Laayoune TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MOROCCO/laayoun.gif",
+      "website": "http://www.alaoula.ma/laayoune_tv.php?lang=fr"
+    },
+    {
+      "name": "L'Match",
+      "isFree": true,
+      "website": "https://www.loterie.ma/jouer-et-gagner/nouveaux-jeux/"
+    },
+    {
+      "name": "Sloog",
+      "isFree": true,
+      "website": "https://www.loterie.ma/presentation-sloog/"
+    },
+    {
+      "name": "Tamazight TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png",
+      "website": "http://www.tamazight-tv.ma/"
+    },
+    {
+      "name": "Tele Maroc",
+      "isFree": true,
+      "website": "https://www.telemaroc.tv/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Aflam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ART_AFLAM1.png",
+      "website": "http://www.aflamtv.ma/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Al Ons TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Athaqafia",
+      "isFree": true,
+      "website": "http://www.athaqafia.ma/"
+    },
+    {
+      "name": "Campus Maroc TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97L0aiVbc2SOJbbiPYY8vZzTVzA.jpg",
+      "website": "https://campustv.ma/"
+    },
+    {
+      "name": "StoryChannel TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZBV6xph.png",
+      "website": "https://storychannel.tv/"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Entertainment": [
+    {
+      "name": "Horn Cable TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/Somalia/HORNCABLE.png",
+      "priority": 4
+    },
+    {
+      "name": "Kalsan TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/KALSAN_TV.png"
+    },
+    {
+      "name": "Somali National TV",
+      "isFree": true,
+      "shortName": "SNT",
+      "logo": "https://go4.pw/SOMALIA/SOMALI_NATIONAL_TV.png"
+    },
+    {
+      "name": "Somali cable",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SOMALI_NATIONAL_TV.png"
+    },
+    {
+      "name": "Arlaadi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2tlFMXF.png",
+      "website": "https://arlaadimedia.com/"
+    },
+    {
+      "name": "Asal TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://asaltv.com/"
+    },
+    {
+      "name": "Banaadir TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://bra.gov.so/"
+    },
+    {
+      "name": "Bulsho TV",
+      "isFree": true,
+      "website": "https://bulshotv.net/"
+    },
+    {
+      "name": "Dalka TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/DTV_DALKA_TV.png"
+    },
+    {
+      "name": "Gobanimo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://5f36f55e11f20.site123.me/"
+    },
+    {
+      "name": "Hirshabelle TV",
+      "isFree": true
+    },
+    {
+      "name": "Iftiin TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jubbaland TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/jltv-1.png",
+      "website": "http://jubalandtv.net/"
+    },
+    {
+      "name": "KGS TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://kgstv.wordpress.com/"
+    },
+    {
+      "name": "Maan TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/MAAN TV.png"
+    },
+    {
+      "name": "Puntland TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/PL_TV.png",
+      "website": "https://www.puntlandtvradio.net/"
+    },
+    {
+      "name": "Saab TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SAAB_TV.png",
+      "website": "http://www.saabtv.com/"
+    },
+    {
+      "name": "Sahan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SBC TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SBC_TV.png",
+      "website": "https://allsbc.com/"
+    },
+    {
+      "name": "SNTV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SNTV_2.png",
+      "website": "https://sntv.so/"
+    },
+    {
+      "name": "SNTV Daljir",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SNTV_2.png",
+      "website": "https://sntv.so/"
+    },
+    {
+      "name": "Somaliland National TV",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "website": "http://www.slntv.tv/"
+    },
+    {
+      "name": "STV Somalia",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/stvv.png"
+    },
+    {
+      "name": "Voice of Somali TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
+      "website": "http://www.vossomali.net/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Codka Bariga Afrika",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://cbatv.net/"
+    },
+    {
+      "name": "Goobjoog TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://goobjoog.com/"
+    },
+    {
+      "name": "SMS TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://somalisms.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Rejo Sports",
+      "isFree": true
+    }
+  ]
+}

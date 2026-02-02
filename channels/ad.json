@@ -1,0 +1,49 @@
+{
+  "News": [
+    {
+      "name": "Bloomberg TV EMEA Live Event",
+      "isFree": true,
+      "shortName": "BTELE",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Bloomberg TV Europe",
+      "isFree": true,
+      "shortName": "BTE",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "CNN International Europe",
+      "isFree": true,
+      "shortName": "CIE",
+      "logo": "http://epg.one/img2/2270.png",
+      "priority": 10
+    }
+  ],
+  "Sports": [
+    {
+      "name": "MavTV Europe",
+      "isFree": false,
+      "logo": "http://epg.one/img2/2312.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "NTV Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png"
+    },
+    {
+      "name": "Andorra TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png",
+      "website": "https://www.andorradifusio.ad/"
+    },
+    {
+      "name": "Loria TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.loriatv.com/"
+    }
+  ]
+}

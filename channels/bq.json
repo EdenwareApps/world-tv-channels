@@ -1,0 +1,64 @@
+{
+  "News": [
+    {
+      "name": "Al Jazeera English HD",
+      "isFree": true,
+      "shortName": "AJEH",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 10
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Bonaire.tv",
+      "isFree": true,
+      "website": "https://bonaire.tv/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Dutch Caribbean TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "website": "https://www.dutchcaribbeantv.com/"
+    },
+    {
+      "name": "Energia TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/ENERGIA.png"
+    },
+    {
+      "name": "Nos TV Bonaire",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOzZv2tBX6SRExVCKnbBfV139C.jpg",
+      "website": "http://www.nostvbonaire.com/"
+    },
+    {
+      "name": "Tourist TV Bonaire",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg",
+      "website": "https://lamediabonaire.com/"
+    },
+    {
+      "name": "Voz Di Bonaire TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Zv8CxZX.png",
+      "website": "https://vozdibonaire.org/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Live99FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/U43UrQT.png"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "TV Universal Bonaire",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://universalbonaire.com/"
+    }
+  ]
+}

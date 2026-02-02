@@ -1,0 +1,914 @@
+{
+  "Entertainment": [
+    {
+      "name": "CroTV HD",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090402700319_25.png"
+    },
+    {
+      "name": "Elektrika TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/88ec4cfc3bf979a9ce7108394882ee68.png"
+    },
+    {
+      "name": "Nova",
+      "isFree": true,
+      "keywords": "nova -2 -action -cinema -gold",
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "priority": 10
+    },
+    {
+      "name": "Nova 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3c60da0d2489be6c21a8f931b3821284.png",
+      "priority": 9
+    },
+    {
+      "name": "Nova Action",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/fe7bfb2f01e1c03d49fa43cce72c1ca2.png",
+      "priority": 9
+    },
+    {
+      "name": "Nova Gold",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a4bf725c1f430d3585f666a4da16081a.png",
+      "priority": 9
+    },
+    {
+      "name": "Ocko",
+      "isFree": true,
+      "keywords": "ocko -expres -gold -star"
+    },
+    {
+      "name": "Ocko Expres",
+      "isFree": true
+    },
+    {
+      "name": "Ocko Gold",
+      "isFree": true
+    },
+    {
+      "name": "Ocko STAR",
+      "isFree": true
+    },
+    {
+      "name": "Polar TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
+    },
+    {
+      "name": "Praha TV",
+      "isFree": true,
+      "logo": "https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png"
+    },
+    {
+      "name": "Prima Cool",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "priority": 9
+    },
+    {
+      "name": "Prima Love",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "priority": 9
+    },
+    {
+      "name": "RTM plus",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/50d00eed57184874942339ec11e140b4.png"
+    },
+    {
+      "name": "Slagr",
+      "isFree": true,
+      "keywords": "slagr -tv"
+    },
+    {
+      "name": "TV NOE",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b20a51e9e2570fece8ce33c567e259ba.png"
+    },
+    {
+      "name": "TV Natura",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Vychodoceska TV",
+      "isFree": true
+    },
+    {
+      "name": "Východočeská TV",
+      "isFree": true
+    },
+    {
+      "name": "Šlágr 2",
+      "isFree": true
+    },
+    {
+      "name": "A11",
+      "isFree": true,
+      "website": "https://tv.a11.cz/"
+    },
+    {
+      "name": "Barrandov Krimi",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/TV BARRANDOV HD.png",
+      "website": "https://www.barrandov.tv/",
+      "priority": 9
+    },
+    {
+      "name": "C8",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/C8.png"
+    },
+    {
+      "name": "CMS TV",
+      "isFree": true,
+      "logo": "https://i.iheart.com/v3/re/new_assets/622ae6a22c11ab8ba9319c7c",
+      "website": "https://www.cmstv.cz/"
+    },
+    {
+      "name": "CS Mystery",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/CS_film.png",
+      "website": "https://kinosvet.tv/"
+    },
+    {
+      "name": "CT1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/512px-%C4%8CT1_logo_2012.svg.png",
+      "website": "http://www.ceskatelevize.cz/vysilani/",
+      "priority": 10
+    },
+    {
+      "name": "CT3",
+      "isFree": true,
+      "website": "https://www.ceskatelevize.cz/porady/ct3/"
+    },
+    {
+      "name": "DATEL",
+      "isFree": true,
+      "website": "https://www.dacice.cz/aplikace-media/dacicka-televize/"
+    },
+    {
+      "name": "DTX",
+      "isFree": true
+    },
+    {
+      "name": "Euro Girls on Girls",
+      "isFree": null,
+      "website": "https://www.ddf-models.com/site/euro-girls-on-girls/"
+    },
+    {
+      "name": "EXTANSY TV 4K",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://leotvmedia.cz/"
+    },
+    {
+      "name": "EXTASY TV",
+      "isFree": null,
+      "logo": "http://epg.one/img2/2780.png",
+      "website": "https://extasy.tv/"
+    },
+    {
+      "name": "Hobby TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJBN4wBSa9ZZUmyw75R8UzT3c9.jpg",
+      "website": "https://tvhobby.cz/"
+    },
+    {
+      "name": "JC1",
+      "isFree": true,
+      "website": "https://jc1.cz/"
+    },
+    {
+      "name": "JHTV",
+      "isFree": true,
+      "website": "http://www.jhtv.cz"
+    },
+    {
+      "name": "Jihoceska televize",
+      "isFree": true,
+      "website": "https://www.jihoceskatelevize.cz/"
+    },
+    {
+      "name": "KLADNo.1 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Krusna TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://krusna.tv/"
+    },
+    {
+      "name": "Kuryr TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kuryr.tv/"
+    },
+    {
+      "name": "LEO TV",
+      "isFree": null,
+      "keywords": "leo tv -gold",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg",
+      "website": "https://leotv.cz/"
+    },
+    {
+      "name": "LEO TV GOLD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg",
+      "website": "https://leotvgold.cz/"
+    },
+    {
+      "name": "LTV Plus",
+      "isFree": true,
+      "website": "https://www.ltv-plus.cz/"
+    },
+    {
+      "name": "Mnam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/MNAM_TV.png",
+      "website": "https://imnam.cz/"
+    },
+    {
+      "name": "Mnau TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/deVHJKS.png",
+      "website": "https://imnau.cz/"
+    },
+    {
+      "name": "Nova Fun",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://tv.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova International",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://tv.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova Lady",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "priority": 9
+    },
+    {
+      "name": "Nova Sport 5",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.mujtvprogram.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova Sport 6",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.mujtvprogram.cz/",
+      "priority": 9
+    },
+    {
+      "name": "OIK TV",
+      "isFree": true,
+      "website": "http://www.oiktv.cz/"
+    },
+    {
+      "name": "OK TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "website": "https://www.oktv.cz/"
+    },
+    {
+      "name": "Plzen TV",
+      "isFree": true,
+      "website": "https://tv.plzen.cz/"
+    },
+    {
+      "name": "Polar2",
+      "isFree": true,
+      "website": "https://polar.cz/polar2"
+    },
+    {
+      "name": "Prima",
+      "isFree": true,
+      "keywords": "prima -cool -krimi -love -max -plus -show -star -zoom",
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "http://www.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Prima Krimi",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "https://krimi.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Prima Max",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "http://max.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Prima Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "http://www.iprima.cz/prima-plus",
+      "priority": 9
+    },
+    {
+      "name": "Prima Show",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "https://show.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Prima Star",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "https://star.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Prima Zoom",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "http://zoom.iprima.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Rebel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KMltQ5N.png",
+      "website": "https://www.tvrebel.cz/"
+    },
+    {
+      "name": "regionalnitelevize.cz",
+      "isFree": true,
+      "website": "https://www.regionalnitelevize.cz/",
+      "priority": 4
+    },
+    {
+      "name": "Relax",
+      "isFree": true,
+      "logo": "https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png",
+      "website": "https://televizerelax.cz/"
+    },
+    {
+      "name": "RTM+",
+      "isFree": true,
+      "website": "http://www.rtmplus.cz/"
+    },
+    {
+      "name": "Sex With Muslims",
+      "isFree": null,
+      "website": "https://www.sexwithmuslims.com/"
+    },
+    {
+      "name": "Spektrum Home",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_spektrumhome.png",
+      "website": "https://spektrumhome.cz/"
+    },
+    {
+      "name": "Televize FILMpro",
+      "isFree": true,
+      "website": "http://www.filmpro.cz/"
+    },
+    {
+      "name": "Televize Prerov",
+      "isFree": true,
+      "website": "https://tvprerov.cz/"
+    },
+    {
+      "name": "Televize Seznam",
+      "isFree": true,
+      "website": "https://www.televizeseznam.cz/"
+    },
+    {
+      "name": "TIK Bohumin",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/latinoTV.png",
+      "website": "https://tik.tvmarko.cz/"
+    },
+    {
+      "name": "TV Barrandov",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.barrandov.tv/",
+      "priority": 9
+    },
+    {
+      "name": "TV Beskyd",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvbeskyd.cz/"
+    },
+    {
+      "name": "TV Brno 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvbrno1.cz/"
+    },
+    {
+      "name": "TV DAKR",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.dakr-tv.cz/"
+    },
+    {
+      "name": "TVMohelnice",
+      "isFree": true,
+      "website": "http://mohelnickatelevize.cz/"
+    },
+    {
+      "name": "TV Morava",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvmorava.cz/"
+    },
+    {
+      "name": "TV Noe+",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvnoe.cz/live-noeplus"
+    },
+    {
+      "name": "TV Nova",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "TV Paprika",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvpaprika.cz/"
+    },
+    {
+      "name": "TVS",
+      "isFree": true,
+      "website": "https://itvs24.cz/"
+    },
+    {
+      "name": "Up Network",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png",
+      "website": "https://www.up.network/"
+    },
+    {
+      "name": "UTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png",
+      "website": "https://www.televizeutv.cz/"
+    },
+    {
+      "name": "V1",
+      "isFree": true,
+      "website": "https://www.televizev1.cz/"
+    },
+    {
+      "name": "V24tv",
+      "isFree": true,
+      "website": "https://www.v24tv.cz/"
+    },
+    {
+      "name": "Yachting TV",
+      "isFree": true,
+      "logo": "https://media.unreel.me/prod/rewardedtv/logo/1c6e6b2b-229d-4c75-a1b3-2ec0c130caba",
+      "website": "https://yachtingtv.tv/"
+    },
+    {
+      "name": "ZAK",
+      "isFree": true,
+      "website": "https://www.zaktv.cz/"
+    },
+    {
+      "name": "TV Noe",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b20a51e9e2570fece8ce33c567e259ba.png",
+      "website": "https://www.tvnoe.cz/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "FashionTV Czech&Slovak",
+      "isFree": true,
+      "shortName": "FC"
+    },
+    {
+      "name": "CS History",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/CS_film.png",
+      "website": "https://wartv.cz/"
+    },
+    {
+      "name": "CT2",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/512px-%C4%8CT2_logo_2012.svg.png",
+      "website": "http://www.ceskatelevize.cz/",
+      "priority": 10
+    },
+    {
+      "name": "CT art",
+      "isFree": true,
+      "website": "http://www.ceskatelevize.cz/art/"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "http://www.history.com/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://www.natgeotv.com/cz",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/cz/",
+      "priority": 9
+    },
+    {
+      "name": "Spektrum",
+      "isFree": true,
+      "keywords": "spektrum -home",
+      "logo": "https://go4.pw/HUNGARIAN/_spektrumhome.png",
+      "website": "https://www.tvspektrum.cz/"
+    },
+    {
+      "name": "Viasat Explore",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "website": "https://viasatexplore.cz/"
+    },
+    {
+      "name": "Viasat History",
+      "isFree": true,
+      "website": "https://viasathistory.cz/"
+    },
+    {
+      "name": "Viasat Nature",
+      "isFree": true,
+      "website": "https://viasatnature.cz/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Retro Music TV",
+      "isFree": true
+    },
+    {
+      "name": "Retro Music Television",
+      "isFree": true,
+      "shortName": "RMT",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Slagr TV",
+      "isFree": true
+    },
+    {
+      "name": "Óčko",
+      "isFree": true,
+      "keywords": "ocko -expres -gold"
+    },
+    {
+      "name": "Óčko Expres",
+      "isFree": true
+    },
+    {
+      "name": "Óčko Gold",
+      "isFree": true
+    },
+    {
+      "name": "Lounge TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.loungetv.cz/"
+    },
+    {
+      "name": "Ocko Black",
+      "isFree": true,
+      "website": "https://ocko.tv/"
+    },
+    {
+      "name": "Ocko Star",
+      "isFree": true,
+      "website": "https://ocko.tv/"
+    },
+    {
+      "name": "Slager Muzika",
+      "isFree": true,
+      "website": "https://slagrtv.cz/"
+    },
+    {
+      "name": "Slager Original",
+      "isFree": true,
+      "website": "https://slagrtv.cz/"
+    },
+    {
+      "name": "Slager Premium",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/SLAGER MUZIKA.png",
+      "website": "https://slagrtv.cz/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Nova Cinema",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/f8a8cddf30141d2e71125779d6530b2e.png",
+      "priority": 9
+    },
+    {
+      "name": "CS Film",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/CS_film.png",
+      "website": "https://csfilm.joj.cz/"
+    },
+    {
+      "name": "CS Horror",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/CS_film.png",
+      "website": "https://hororfilm.tv/"
+    },
+    {
+      "name": "Film Europe",
+      "isFree": true,
+      "keywords": "film europe -+",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "https://filmeurope.cz/cs/tv"
+    },
+    {
+      "name": "Film Europe +",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "https://filmeurope.cz/cs/tv"
+    },
+    {
+      "name": "Film+",
+      "isFree": true,
+      "website": "https://www.filmplustv.cz/"
+    },
+    {
+      "name": "Kino Barrandov",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
+      "website": "https://www.barrandov.tv/kino.html",
+      "priority": 9
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "https://www.paramountnetwork.cz/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "ABC TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nVmIeTD.png",
+      "website": "https://abctv.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Klenot TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.klenottv.cz/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Canal+ Sport 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Q3WjH1Q.png",
+      "website": "https://www.canalplussport.cz/"
+    },
+    {
+      "name": "Canal+ Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
+      "website": "https://www.canalplussport.cz/"
+    },
+    {
+      "name": "CT Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.ceskatelevize.cz/sport/"
+    },
+    {
+      "name": "Golf Channel",
+      "isFree": true,
+      "website": "http://www.golfchannel.cz/"
+    },
+    {
+      "name": "Nova Sport 1",
+      "isFree": true,
+      "website": "https://sport.tn.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova Sport 2",
+      "isFree": true,
+      "website": "https://sport.tn.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova Sport 3",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://sport.tn.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "Nova Sport 4",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://sport.tn.nova.cz/",
+      "priority": 9
+    },
+    {
+      "name": "O2 TV Fotbal",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport",
+      "isFree": true,
+      "keywords": "o2 tv sport -2 -3 -4 -5 -6",
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport 2",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport 3",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport 4",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport 5",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Sport 6",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "O2 TV Tenis",
+      "isFree": true,
+      "website": "https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/"
+    },
+    {
+      "name": "Sport1",
+      "isFree": true,
+      "website": "http://www.sport1tv.cz/"
+    },
+    {
+      "name": "Sport2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMA Sport2 HD.png",
+      "website": "http://www.sport1tv.cz/"
+    },
+    {
+      "name": "Sport3",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMA Sport3 HD.png",
+      "website": "http://www.sport1tv.cz/"
+    },
+    {
+      "name": "Sport 5",
+      "isFree": true,
+      "website": "https://sport5.cz/"
+    },
+    {
+      "name": "Sporty TV",
+      "isFree": true,
+      "website": "https://www.sportytv.cz/"
+    }
+  ],
+  "News": [
+    {
+      "name": "CNN Prima News",
+      "isFree": true,
+      "website": "https://cnn.iprima.cz/",
+      "priority": 10
+    },
+    {
+      "name": "CT24",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/512px-%C4%8CT24_logo.png",
+      "website": "https://ct24.ceskatelevize.cz/",
+      "priority": 10
+    },
+    {
+      "name": "Current Time TV",
+      "isFree": true,
+      "website": "https://www.currenttime.tv/"
+    },
+    {
+      "name": "Info TV Brno a Jizni Morava",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://infotvbrno.cz/"
+    },
+    {
+      "name": "TN Live",
+      "isFree": true,
+      "website": "https://tn.nova.cz/tnlive"
+    },
+    {
+      "name": "V.O.X. TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.voxtv.cz/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "CT Decko",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "http://decko.cz/"
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "logo": "http://i.imgur.com/ETxffjm.png",
+      "website": "http://www.disney.cz/DisneyChannel",
+      "priority": 10
+    },
+    {
+      "name": "Disney Junior",
+      "isFree": true,
+      "logo": "http://i.imgur.com/H9AY5z4.png",
+      "website": "http://www.disney.cz/disney-junior",
+      "priority": 9
+    },
+    {
+      "name": "Minimax CEE",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/MINIMAX.png",
+      "website": "http://www.minimaxcz.tv/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nickelodeon.cz/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "http://www.nickelodeon.cz/"
+    },
+    {
+      "name": "Nicktoons",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
+      "website": "https://www.nicktoons.cz/"
+    },
+    {
+      "name": "TeenNick",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
+      "website": "http://www.nickelodeon.cz/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Hope Channel Ceska",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "https://www.hopetv.cz/"
+    }
+  ]
+}

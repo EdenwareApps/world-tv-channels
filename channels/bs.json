@@ -1,0 +1,99 @@
+{
+  "Entertainment": [
+    {
+      "name": "Island Luck TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/P0gDN5n.png"
+    },
+    {
+      "name": "ZNS TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_ZNS TV.png"
+    },
+    {
+      "name": "JCN Channel 14",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://jonesbahamas.com/"
+    },
+    {
+      "name": "ZNS-TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/h6nC8fe.png",
+      "website": "https://znsbahamas.com/zns-t-v/"
+    }
+  ],
+  "News": [
+    {
+      "name": "The Parliamentary Channel",
+      "isFree": true,
+      "shortName": "TPC",
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "Cala Weather",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CALABASH.png",
+      "website": "https://www.calaweather.com/"
+    },
+    {
+      "name": "GO242",
+      "isFree": true,
+      "website": "https://ournews.bs/go242/"
+    },
+    {
+      "name": "Guardian Talk Radio",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJTrZqmFm8G8ImiETQymxTmpgYm.jpg",
+      "website": "https://guardiantalkradio.com/"
+    },
+    {
+      "name": "Our TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/34c6fcfb5403a8a5b6ce964c8bbc1c19.png",
+      "website": "https://ournews.bs/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "BCN TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZKAnehs.png",
+      "website": "https://bcntv.net/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cala Action",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CALABASH.png",
+      "website": "https://www.calaaction.com/"
+    },
+    {
+      "name": "Cala Classics",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CALABASH.png",
+      "website": "https://www.calaclassics.com/"
+    },
+    {
+      "name": "Cala Westerns",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CALABASH.png",
+      "website": "https://www.calawesterns.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "HOT 91.7 FM",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.hot917fm.com/"
+    },
+    {
+      "name": "VIBES 93.1 FM",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/afrobeat-hand-lettering-.png",
+      "website": "https://vibes931fm.com/"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "Religious": [
+    {
+      "name": "CNA",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png"
+    },
+    {
+      "name": "TV5",
+      "isFree": true,
+      "website": "http://entv.dz/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Echorouk News",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png",
+      "priority": 9
+    },
+    {
+      "name": "AL24 News",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/alg-24.png",
+      "website": "https://al24news.com/"
+    },
+    {
+      "name": "Alaqaria TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alaqariatv.com/"
+    },
+    {
+      "name": "Aures TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aurestv.net/"
+    },
+    {
+      "name": "Dz News TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/ALGERIA.png",
+      "website": "https://dznews.dz/"
+    },
+    {
+      "name": "Elikhbaria TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://elikhbaria.dz/"
+    },
+    {
+      "name": "Eliktisadia El Oula TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/ELIKTISADIA_EL_OULA.png",
+      "website": "https://www.eliktisadiaeloula.dz/"
+    },
+    {
+      "name": "Setif News",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://sawtsetif.dz/"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "website": "http://entv.dz/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Al Anis TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Algérie TV3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jtSapoUUDUW2DZJECL5SqFttHV.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Algérie TV4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jtSapoUUDUW2DZJECL5SqFttHV.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Algérie TV5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jtSapoUUDUW2DZJECL5SqFttHV.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Algérie TV6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jtSapoUUDUW2DZJECL5SqFttHV.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Bahia TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/record.png"
+    },
+    {
+      "name": "Beur TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b67lCN8bDcxx5jnssvEzPwK12GB.jpg"
+    },
+    {
+      "name": "Canal Algérie",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "ENTV",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "Echorouk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bAcsCeP.png",
+      "priority": 9
+    },
+    {
+      "name": "El Bilad",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Djazair N1",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Djazairia One",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Fadjr TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Hayat TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Heddaf TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Ennahar TV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Lina TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yL2YJkJRWLWbadhM6EOFvnO1op7.jpg"
+    },
+    {
+      "name": "Samira TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/SAMIRATV-1.png"
+    },
+    {
+      "name": "TV7 Elmaarifa",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png"
+    },
+    {
+      "name": "TV8 Edhakira",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png"
+    },
+    {
+      "name": "Alsir TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alsirtv.live/"
+    },
+    {
+      "name": "Chebab TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://chebabtv.dz/"
+    },
+    {
+      "name": "El Adjwaa TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Bilad TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.elbilad.net/"
+    },
+    {
+      "name": "El Fadjer TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.elfadjr.dz.tv/"
+    },
+    {
+      "name": "El Hidhab TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elhidhabtv.dz/"
+    },
+    {
+      "name": "Elwatania TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MAURITANIA/ELWATANIA77.png",
+      "website": "https://elwataniatv.dz/"
+    },
+    {
+      "name": "Essalam TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fairs TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jeel DZ TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/ALGERIA.png",
+      "website": "https://jeel.dz/tv/"
+    },
+    {
+      "name": "One TV",
+      "isFree": true
+    },
+    {
+      "name": "TV1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",
+      "website": "https://www.entv.dz/"
+    },
+    {
+      "name": "TV2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VEb631f.png",
+      "website": "https://www.entv.dz/"
+    },
+    {
+      "name": "TV4",
+      "isFree": true,
+      "website": "http://entv.dz/"
+    },
+    {
+      "name": "TV6",
+      "isFree": true,
+      "website": "http://entv.dz/"
+    },
+    {
+      "name": "TV9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://www.entv.dz/"
+    },
+    {
+      "name": "ZAHRA TV",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/ALZAHRA.png",
+      "website": "https://www.zahratv.net/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "4Kids TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/507piHp.png",
+      "website": "https://4kids-tv.com/"
+    },
+    {
+      "name": "Amou Yazid TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/AMOU%20YAZID%20TOFOLA%20TV.png",
+      "website": "http://tv.amouyazid.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Dzair Tube TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/DZAIR_3.png",
+      "website": "https://dzair-tube.dz/"
+    },
+    {
+      "name": "El-Heddaf TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.elheddaf.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Sahra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sahranews.dz/"
+    },
+    {
+      "name": "TV7",
+      "isFree": true,
+      "keywords": "tv7 -elmaarifa",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png",
+      "website": "https://www.entv.dz/"
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "keywords": "tv8 -edhakira",
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "http://entv.dz/"
+    },
+    {
+      "name": "WebTV Universite de Bejaia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLBwn2Z.png",
+      "website": "https://webtv.univ-bejaia.dz/"
+    }
+  ]
+}

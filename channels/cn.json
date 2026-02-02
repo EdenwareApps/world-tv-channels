@@ -1,0 +1,7449 @@
+{
+  "Entertainment": [
+    {
+      "name": "Aniu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/544f4f3894cbda98820ffc916dbeb719.png"
+    },
+    {
+      "name": "Bao Ying",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9c0a409ceb3471c99a1ea73bf46d26b6.png"
+    },
+    {
+      "name": "BesTV超级",
+      "isFree": true
+    },
+    {
+      "name": "Blue 美剧",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
+    },
+    {
+      "name": "CCTV+ 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "priority": 9
+    },
+    {
+      "name": "CCTV+ 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-11戏曲",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-12社会与法制",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-17农业农村",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-1综合",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-2财经",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-3综艺",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": true,
+      "website": "https://www.cctv.com",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4中文国际",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-5+体育赛事",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-7国防军事",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-8电视剧",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-女性时尚",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-老故事",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CETV1",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png"
+    },
+    {
+      "name": "CETV2",
+      "isFree": true
+    },
+    {
+      "name": "CGNTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/420f79197581b740dbca0d0f17a5076f.png"
+    },
+    {
+      "name": "CGTN Français",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg",
+      "priority": 9
+    },
+    {
+      "name": "CGTN纪录",
+      "isFree": true,
+      "logo": "https://tb.zbds.top/logo/CGTN纪录.png",
+      "priority": 9
+    },
+    {
+      "name": "CHC动作电影",
+      "isFree": true,
+      "logo": "https://tb.zbds.top/logo/CHC动作电影.png"
+    },
+    {
+      "name": "CNC中文",
+      "isFree": true
+    },
+    {
+      "name": "CNC英语",
+      "isFree": true
+    },
+    {
+      "name": "Hebei Jinzhou",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/32b9437f13620359b8b6dc35a5b830a4.png"
+    },
+    {
+      "name": "Hong Kong Open TV",
+      "isFree": true,
+      "shortName": "HKOT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iq3jIltYvTkedLSEGJ0eBR5fSa.jpg"
+    },
+    {
+      "name": "Huanghua",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ad3a8f8f5f2920e31eecd1a98c0e2399.png"
+    },
+    {
+      "name": "Hunan City",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png"
+    },
+    {
+      "name": "Hunan TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bcf4fc82f1813763f49b7f39beb9fbfc.png",
+      "website": "https://www.hunantv.com"
+    },
+    {
+      "name": "Huoshan Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Jinju",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c98a917d6f198ffc1b41d106de100349.png"
+    },
+    {
+      "name": "Jixian Channel 1",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Jixian Channel 2",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Linyi Public Channel",
+      "isFree": true,
+      "shortName": "LPC",
+      "logo": "https://images.iptvmate.net/tvglogo/44bed07c8abcb9decd73fb1d26fd3265.png"
+    },
+    {
+      "name": "Lu Quan 1",
+      "isFree": true
+    },
+    {
+      "name": "Lu Quan 2",
+      "isFree": true
+    },
+    {
+      "name": "Max Financial Media",
+      "isFree": true,
+      "shortName": "MFM",
+      "logo": "https://images.iptvmate.net/tvglogo/8648f46d893649d008e1584cf08e9f58.png"
+    },
+    {
+      "name": "NewTV中国功夫",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV中国功夫.png"
+    },
+    {
+      "name": "NewTV军事评论",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV军事评论.png"
+    },
+    {
+      "name": "NewTV军旅剧场",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV军旅剧场.png"
+    },
+    {
+      "name": "NewTV农业致富",
+      "isFree": true
+    },
+    {
+      "name": "NewTV动画王国",
+      "isFree": true
+    },
+    {
+      "name": "NewTV古装剧场",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV古装剧场.png"
+    },
+    {
+      "name": "NewTV完美遊戲",
+      "isFree": true
+    },
+    {
+      "name": "NewTV家庭剧场",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV家庭剧场.png"
+    },
+    {
+      "name": "NewTV怡伴健康",
+      "isFree": true
+    },
+    {
+      "name": "NewTV搏击",
+      "isFree": true
+    },
+    {
+      "name": "NewTV明星大片",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV明星大片.png"
+    },
+    {
+      "name": "NewTV武搏世界",
+      "isFree": true
+    },
+    {
+      "name": "NewTV潮妈辣婆",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png"
+    },
+    {
+      "name": "NewTV炫舞未来",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV炫舞未来.png"
+    },
+    {
+      "name": "NewTV爱情喜剧",
+      "isFree": true
+    },
+    {
+      "name": "NewTV精品体育",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV精品体育.png"
+    },
+    {
+      "name": "NewTV精品大剧",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV精品大剧.png"
+    },
+    {
+      "name": "NewTV精品纪录",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV精品纪录.png"
+    },
+    {
+      "name": "NewTV精品電影",
+      "isFree": true
+    },
+    {
+      "name": "NewTV超级体育",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV超级体育.png"
+    },
+    {
+      "name": "NewTV超级电影",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV超级电影.png"
+    },
+    {
+      "name": "NewTV超级电视剧",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV超级电视剧.png"
+    },
+    {
+      "name": "NewTV超级综艺",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV超级综艺.png"
+    },
+    {
+      "name": "NewTV金牌综艺",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/NEWTV金牌综艺.png"
+    },
+    {
+      "name": "Ninghua TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/11484d1ad517d5d71bf02e18486901f1.png"
+    },
+    {
+      "name": "Phoenix Chinese Channel",
+      "isFree": true,
+      "shortName": "PCC",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg"
+    },
+    {
+      "name": "RTHK TV 32",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c0a8abc41c215823af4784f841726f04.png"
+    },
+    {
+      "name": "SDETV",
+      "isFree": true
+    },
+    {
+      "name": "Sanming Public Channel 1",
+      "isFree": true,
+      "shortName": "SPC1",
+      "logo": "https://images.iptvmate.net/tvglogo/a896be031915affb52f9dc2ddea44127.png"
+    },
+    {
+      "name": "Sanming Public Channel 2",
+      "isFree": true,
+      "shortName": "SPC2",
+      "logo": "https://images.iptvmate.net/tvglogo/72752803715d4a6fd6ad572c6fb1c86e.png"
+    },
+    {
+      "name": "Shao Dong",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png"
+    },
+    {
+      "name": "SiTV七彩戏剧",
+      "isFree": true
+    },
+    {
+      "name": "SiTV东方财经",
+      "isFree": true
+    },
+    {
+      "name": "SiTV全纪实台",
+      "isFree": true
+    },
+    {
+      "name": "SiTV动漫秀场",
+      "isFree": true
+    },
+    {
+      "name": "SiTV劲爆体育",
+      "isFree": true
+    },
+    {
+      "name": "SiTV幸福彩",
+      "isFree": true
+    },
+    {
+      "name": "SiTV新视觉",
+      "isFree": true
+    },
+    {
+      "name": "SiTV新视觉台",
+      "isFree": true
+    },
+    {
+      "name": "SiTV欢笑剧场",
+      "isFree": true
+    },
+    {
+      "name": "SiTV法治天地",
+      "isFree": true
+    },
+    {
+      "name": "SiTV游戏风云",
+      "isFree": true
+    },
+    {
+      "name": "SiTV生活时尚",
+      "isFree": true
+    },
+    {
+      "name": "SiTV都市剧场",
+      "isFree": true
+    },
+    {
+      "name": "SiTV魅力足球",
+      "isFree": true
+    },
+    {
+      "name": "TDM Info. Macau",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f8615c8823ccb9ca3eebd714561deb15.png"
+    },
+    {
+      "name": "TDM Macau",
+      "isFree": true,
+      "keywords": "tdm macau -satelite",
+      "logo": "https://images.iptvmate.net/tvglogo/f8615c8823ccb9ca3eebd714561deb15.png"
+    },
+    {
+      "name": "TDM Macau Satelite",
+      "isFree": true,
+      "shortName": "TMS",
+      "logo": "https://images.iptvmate.net/tvglogo/77981c64a1ff283c64d93f360bdec074.png"
+    },
+    {
+      "name": "TDM Sports Macau",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f8615c8823ccb9ca3eebd714561deb15.png"
+    },
+    {
+      "name": "TV BRICS Chinese",
+      "isFree": true
+    },
+    {
+      "name": "TVB 明珠台",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png"
+    },
+    {
+      "name": "TVB翡翠台",
+      "isFree": true
+    },
+    {
+      "name": "TVS2",
+      "isFree": true
+    },
+    {
+      "name": "UChannel TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2dba988194a55955a0bbdf68b8297ab5.png"
+    },
+    {
+      "name": "Wan Sheng",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/618f3d3ab5674b5ad2dfb8a845e32bd8.png"
+    },
+    {
+      "name": "Xuzhou TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Xuzhou TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yushu TV Jilin 1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a1bc367a92e18200df98bea6175009de.png"
+    },
+    {
+      "name": "Yushu TV Jilin 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a1bc367a92e18200df98bea6175009de.png"
+    },
+    {
+      "name": "Zanhuang TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0751266b39616dd0bdac4890d2dececa.png"
+    },
+    {
+      "name": "Zhao County TV 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg"
+    },
+    {
+      "name": "Zhao County TV 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg"
+    },
+    {
+      "name": "万州三峡移民",
+      "isFree": true
+    },
+    {
+      "name": "万州影视",
+      "isFree": true
+    },
+    {
+      "name": "万州科教",
+      "isFree": true
+    },
+    {
+      "name": "万州综合",
+      "isFree": true
+    },
+    {
+      "name": "三明公共",
+      "isFree": true
+    },
+    {
+      "name": "三明新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "上海 ICS外语",
+      "isFree": true
+    },
+    {
+      "name": "上海东方影视",
+      "isFree": true
+    },
+    {
+      "name": "上海五星体育",
+      "isFree": true
+    },
+    {
+      "name": "上海卫视",
+      "isFree": true
+    },
+    {
+      "name": "上海哈哈炫动",
+      "isFree": true
+    },
+    {
+      "name": "上海教育",
+      "isFree": true
+    },
+    {
+      "name": "上海新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "上海第一财经",
+      "isFree": true
+    },
+    {
+      "name": "上海纪实",
+      "isFree": true
+    },
+    {
+      "name": "上海这一刻魔都眼",
+      "isFree": true
+    },
+    {
+      "name": "上海都市",
+      "isFree": true
+    },
+    {
+      "name": "上海金山电视台",
+      "isFree": true
+    },
+    {
+      "name": "上虞1新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "上虞3新商都",
+      "isFree": true
+    },
+    {
+      "name": "上虞經濟文化",
+      "isFree": true
+    },
+    {
+      "name": "东南卫视",
+      "isFree": true
+    },
+    {
+      "name": "东方卫视",
+      "isFree": true
+    },
+    {
+      "name": "东方影视",
+      "isFree": true
+    },
+    {
+      "name": "东至影视",
+      "isFree": true
+    },
+    {
+      "name": "东至文化资讯",
+      "isFree": true
+    },
+    {
+      "name": "东至新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "东莞综合",
+      "isFree": true
+    },
+    {
+      "name": "中国交通",
+      "isFree": true
+    },
+    {
+      "name": "中国天气",
+      "isFree": true
+    },
+    {
+      "name": "中国教育1",
+      "isFree": true
+    },
+    {
+      "name": "中山公共",
+      "isFree": true
+    },
+    {
+      "name": "中牟综合",
+      "isFree": true
+    },
+    {
+      "name": "中視新聞",
+      "isFree": true
+    },
+    {
+      "name": "临沂公共",
+      "isFree": true
+    },
+    {
+      "name": "临沂农科",
+      "isFree": true
+    },
+    {
+      "name": "乐清新闻",
+      "isFree": true
+    },
+    {
+      "name": "乐清生活",
+      "isFree": true
+    },
+    {
+      "name": "云南 Ⅰ 文山公共台",
+      "isFree": true
+    },
+    {
+      "name": "云南 Ⅰ 文山综合台",
+      "isFree": true
+    },
+    {
+      "name": "云南 Ⅰ 红河综合台",
+      "isFree": true
+    },
+    {
+      "name": "云南卫视",
+      "isFree": true
+    },
+    {
+      "name": "云浮综合",
+      "isFree": true
+    },
+    {
+      "name": "五星体育",
+      "isFree": true
+    },
+    {
+      "name": "亚太台",
+      "isFree": true
+    },
+    {
+      "name": "交城電視台",
+      "isFree": true
+    },
+    {
+      "name": "京视剧场",
+      "isFree": true
+    },
+    {
+      "name": "仙桃新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "仙桃生活文體",
+      "isFree": true
+    },
+    {
+      "name": "优漫卡通",
+      "isFree": true
+    },
+    {
+      "name": "优视",
+      "isFree": true
+    },
+    {
+      "name": "余姚姚江文化",
+      "isFree": true
+    },
+    {
+      "name": "余姚新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "佛山公共",
+      "isFree": true
+    },
+    {
+      "name": "侨乡",
+      "isFree": true
+    },
+    {
+      "name": "六安新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "内江公共",
+      "isFree": true
+    },
+    {
+      "name": "内江科教",
+      "isFree": true
+    },
+    {
+      "name": "内江综合",
+      "isFree": true
+    },
+    {
+      "name": "内蒙卫视",
+      "isFree": true
+    },
+    {
+      "name": "内蒙古",
+      "isFree": true
+    },
+    {
+      "name": "内蒙古卫视",
+      "isFree": true
+    },
+    {
+      "name": "内蒙蒙语",
+      "isFree": true
+    },
+    {
+      "name": "农安新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "凤凰中文",
+      "isFree": true
+    },
+    {
+      "name": "凤凰资讯",
+      "isFree": true
+    },
+    {
+      "name": "凤凰香港",
+      "isFree": true
+    },
+    {
+      "name": "凤台文化生活",
+      "isFree": true
+    },
+    {
+      "name": "凤台综合",
+      "isFree": true
+    },
+    {
+      "name": "利川公共",
+      "isFree": true
+    },
+    {
+      "name": "利川新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "前郭综合",
+      "isFree": true
+    },
+    {
+      "name": "动作电影",
+      "isFree": true
+    },
+    {
+      "name": "动画王国",
+      "isFree": true
+    },
+    {
+      "name": "北京体育",
+      "isFree": true
+    },
+    {
+      "name": "北京卫视",
+      "isFree": true
+    },
+    {
+      "name": "北京家有购物",
+      "isFree": true
+    },
+    {
+      "name": "北京财经",
+      "isFree": true
+    },
+    {
+      "name": "北京青年",
+      "isFree": true
+    },
+    {
+      "name": "北碚综合",
+      "isFree": true
+    },
+    {
+      "name": "半岛新闻",
+      "isFree": true
+    },
+    {
+      "name": "华数",
+      "isFree": true
+    },
+    {
+      "name": "南京信息",
+      "isFree": true
+    },
+    {
+      "name": "南京十八",
+      "isFree": true
+    },
+    {
+      "name": "南京娱乐",
+      "isFree": true
+    },
+    {
+      "name": "南京教科",
+      "isFree": true
+    },
+    {
+      "name": "南京新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "南京生活",
+      "isFree": true
+    },
+    {
+      "name": "南召一套",
+      "isFree": true
+    },
+    {
+      "name": "南宁公共",
+      "isFree": true
+    },
+    {
+      "name": "南宁影视娱乐",
+      "isFree": true
+    },
+    {
+      "name": "南宁新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "南宁都市生活",
+      "isFree": true
+    },
+    {
+      "name": "南川新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "南阳新闻",
+      "isFree": true
+    },
+    {
+      "name": "南陽公共頻道",
+      "isFree": true
+    },
+    {
+      "name": "南陽科教頻道",
+      "isFree": true
+    },
+    {
+      "name": "厦门卫视",
+      "isFree": true
+    },
+    {
+      "name": "双峰电视一套",
+      "isFree": true
+    },
+    {
+      "name": "吉林7",
+      "isFree": true
+    },
+    {
+      "name": "吉林乡村",
+      "isFree": true
+    },
+    {
+      "name": "吉林卫视",
+      "isFree": true
+    },
+    {
+      "name": "吉林市新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "吴江新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "周口图文信息",
+      "isFree": true
+    },
+    {
+      "name": "周口新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "周口科教文化2",
+      "isFree": true
+    },
+    {
+      "name": "周口经济生活2",
+      "isFree": true
+    },
+    {
+      "name": "呼伦贝尔新闻",
+      "isFree": true
+    },
+    {
+      "name": "呼伦贝尔生活资讯",
+      "isFree": true
+    },
+    {
+      "name": "咪咕视频",
+      "isFree": true
+    },
+    {
+      "name": "唯心電視",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 四川影视台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 四川新闻台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 四川经济台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 巴中综合台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 星空购物台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 达州公共台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 达州综合台",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 雅安公共",
+      "isFree": true
+    },
+    {
+      "name": "四川 Ⅰ 雅安综合",
+      "isFree": true
+    },
+    {
+      "name": "四川公共",
+      "isFree": true
+    },
+    {
+      "name": "四川卫视",
+      "isFree": true
+    },
+    {
+      "name": "四川妇女儿童",
+      "isFree": true
+    },
+    {
+      "name": "四川康巴卫视",
+      "isFree": true
+    },
+    {
+      "name": "四川文化旅游",
+      "isFree": true
+    },
+    {
+      "name": "四平新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "增城綜合",
+      "isFree": true
+    },
+    {
+      "name": "大冶一套",
+      "isFree": true
+    },
+    {
+      "name": "大冶二套",
+      "isFree": true
+    },
+    {
+      "name": "大悟综合",
+      "isFree": true
+    },
+    {
+      "name": "大爱海外",
+      "isFree": true
+    },
+    {
+      "name": "天津卫视",
+      "isFree": true
+    },
+    {
+      "name": "奇妙電視",
+      "isFree": true
+    },
+    {
+      "name": "奥视卫星",
+      "isFree": true
+    },
+    {
+      "name": "女性时尚",
+      "isFree": true
+    },
+    {
+      "name": "如东新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "娄底",
+      "isFree": true
+    },
+    {
+      "name": "娄底综合",
+      "isFree": true
+    },
+    {
+      "name": "孝義新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "孟州电视台",
+      "isFree": true
+    },
+    {
+      "name": "宁夏卫视",
+      "isFree": true
+    },
+    {
+      "name": "宁波少儿",
+      "isFree": true
+    },
+    {
+      "name": "宁波影视剧",
+      "isFree": true
+    },
+    {
+      "name": "宁波教育科技",
+      "isFree": true
+    },
+    {
+      "name": "宁波新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "宁波经济生活",
+      "isFree": true
+    },
+    {
+      "name": "宁波都市文体",
+      "isFree": true
+    },
+    {
+      "name": "安徽 Ⅰ 淮北公共",
+      "isFree": true
+    },
+    {
+      "name": "安徽 Ⅰ 淮北综合",
+      "isFree": true
+    },
+    {
+      "name": "安徽 Ⅰ 铜陵公共",
+      "isFree": true
+    },
+    {
+      "name": "安徽 Ⅰ 铜陵综合",
+      "isFree": true
+    },
+    {
+      "name": "安徽人物",
+      "isFree": true
+    },
+    {
+      "name": "安徽公共",
+      "isFree": true
+    },
+    {
+      "name": "安徽农业科教",
+      "isFree": true
+    },
+    {
+      "name": "安徽卫视",
+      "isFree": true
+    },
+    {
+      "name": "安徽小说评书广播",
+      "isFree": true
+    },
+    {
+      "name": "安徽影视",
+      "isFree": true
+    },
+    {
+      "name": "安徽戏曲广播",
+      "isFree": true
+    },
+    {
+      "name": "安徽新闻综合广播",
+      "isFree": true
+    },
+    {
+      "name": "安徽旅游广播",
+      "isFree": true
+    },
+    {
+      "name": "安徽综艺体育",
+      "isFree": true
+    },
+    {
+      "name": "完美游戏",
+      "isFree": true
+    },
+    {
+      "name": "宜兴新闻",
+      "isFree": true
+    },
+    {
+      "name": "宜兴电视紫砂",
+      "isFree": true
+    },
+    {
+      "name": "宜章新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "宜章社会法制",
+      "isFree": true
+    },
+    {
+      "name": "家庭影院",
+      "isFree": true
+    },
+    {
+      "name": "家庭理财",
+      "isFree": true
+    },
+    {
+      "name": "家有购物",
+      "isFree": true
+    },
+    {
+      "name": "宿州公共",
+      "isFree": true
+    },
+    {
+      "name": "宿州新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "宿州科教",
+      "isFree": true
+    },
+    {
+      "name": "宿迁公共",
+      "isFree": true
+    },
+    {
+      "name": "山东体育",
+      "isFree": true
+    },
+    {
+      "name": "山东农科",
+      "isFree": true
+    },
+    {
+      "name": "山东卫视",
+      "isFree": true
+    },
+    {
+      "name": "山东少儿",
+      "isFree": true
+    },
+    {
+      "name": "山东居家购物",
+      "isFree": true
+    },
+    {
+      "name": "山东影视",
+      "isFree": true
+    },
+    {
+      "name": "山东教育",
+      "isFree": true
+    },
+    {
+      "name": "山东新闻",
+      "isFree": true
+    },
+    {
+      "name": "山东生活",
+      "isFree": true
+    },
+    {
+      "name": "山东综艺",
+      "isFree": true
+    },
+    {
+      "name": "山东齐鲁",
+      "isFree": true
+    },
+    {
+      "name": "山西 Ⅰ 朔州新闻台",
+      "isFree": true
+    },
+    {
+      "name": "山西优购物",
+      "isFree": true
+    },
+    {
+      "name": "山西卫视",
+      "isFree": true
+    },
+    {
+      "name": "岳西圖文頻道",
+      "isFree": true
+    },
+    {
+      "name": "岳西影視頻道",
+      "isFree": true
+    },
+    {
+      "name": "岳西綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "岳阳公共",
+      "isFree": true
+    },
+    {
+      "name": "嵊州综合",
+      "isFree": true
+    },
+    {
+      "name": "已下线",
+      "isFree": true
+    },
+    {
+      "name": "巴中公共",
+      "isFree": true
+    },
+    {
+      "name": "巴中综合",
+      "isFree": true
+    },
+    {
+      "name": "平乡电视台",
+      "isFree": true
+    },
+    {
+      "name": "广东 ‖ 岭南戏曲台",
+      "isFree": true
+    },
+    {
+      "name": "广东 ‖ 清新综合台",
+      "isFree": true
+    },
+    {
+      "name": "广东 ‖ 高尔夫",
+      "isFree": true
+    },
+    {
+      "name": "广东 Ⅰ 潮安综合",
+      "isFree": true
+    },
+    {
+      "name": "广东 Ⅰ 韶关公共台",
+      "isFree": true
+    },
+    {
+      "name": "广东 Ⅰ 韶关综合台",
+      "isFree": true
+    },
+    {
+      "name": "广东体育",
+      "isFree": true
+    },
+    {
+      "name": "广东公共",
+      "isFree": true
+    },
+    {
+      "name": "广东南方卫视地面",
+      "isFree": true
+    },
+    {
+      "name": "广东卫视",
+      "isFree": true
+    },
+    {
+      "name": "广东嘉佳卡通",
+      "isFree": true
+    },
+    {
+      "name": "广东少儿",
+      "isFree": true
+    },
+    {
+      "name": "广东影视",
+      "isFree": true
+    },
+    {
+      "name": "广东文化",
+      "isFree": true
+    },
+    {
+      "name": "广东新闻",
+      "isFree": true
+    },
+    {
+      "name": "广东珠江",
+      "isFree": true
+    },
+    {
+      "name": "广东经济科教",
+      "isFree": true
+    },
+    {
+      "name": "广东综艺",
+      "isFree": true
+    },
+    {
+      "name": "广州影视",
+      "isFree": true
+    },
+    {
+      "name": "广州新闻",
+      "isFree": true
+    },
+    {
+      "name": "广州法治",
+      "isFree": true
+    },
+    {
+      "name": "广州竞赛",
+      "isFree": true
+    },
+    {
+      "name": "广州综合",
+      "isFree": true
+    },
+    {
+      "name": "广水新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "广西卫视",
+      "isFree": true
+    },
+    {
+      "name": "广视网",
+      "isFree": true
+    },
+    {
+      "name": "康巴卫视",
+      "isFree": true
+    },
+    {
+      "name": "延边卫视",
+      "isFree": true
+    },
+    {
+      "name": "延边新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "建安电视台",
+      "isFree": true
+    },
+    {
+      "name": "开州综合",
+      "isFree": true
+    },
+    {
+      "name": "弈坛春秋",
+      "isFree": true
+    },
+    {
+      "name": "张家口一套",
+      "isFree": true
+    },
+    {
+      "name": "张家港新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "张家港社会生活",
+      "isFree": true
+    },
+    {
+      "name": "张家界1",
+      "isFree": true
+    },
+    {
+      "name": "张家界2台",
+      "isFree": true
+    },
+    {
+      "name": "彭水文化旅游",
+      "isFree": true
+    },
+    {
+      "name": "徐州-1",
+      "isFree": true
+    },
+    {
+      "name": "徐州-3",
+      "isFree": true
+    },
+    {
+      "name": "徐州-4",
+      "isFree": true
+    },
+    {
+      "name": "徐州公共頻道",
+      "isFree": true
+    },
+    {
+      "name": "徐州影视",
+      "isFree": true
+    },
+    {
+      "name": "徐州新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "徐州生活",
+      "isFree": true
+    },
+    {
+      "name": "徐州經濟生活",
+      "isFree": true
+    },
+    {
+      "name": "徐州贾汪旅游",
+      "isFree": true
+    },
+    {
+      "name": "心约之声公益广播",
+      "isFree": true
+    },
+    {
+      "name": "忍者神龟",
+      "isFree": true
+    },
+    {
+      "name": "忠县文旅",
+      "isFree": true
+    },
+    {
+      "name": "忠县综合",
+      "isFree": true
+    },
+    {
+      "name": "惠州公共",
+      "isFree": true
+    },
+    {
+      "name": "惠州新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "成都公共",
+      "isFree": true
+    },
+    {
+      "name": "成都大熊猫",
+      "isFree": true
+    },
+    {
+      "name": "成都少儿",
+      "isFree": true
+    },
+    {
+      "name": "成都影视",
+      "isFree": true
+    },
+    {
+      "name": "成都新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "成都经济",
+      "isFree": true
+    },
+    {
+      "name": "成都都市",
+      "isFree": true
+    },
+    {
+      "name": "房山电视台",
+      "isFree": true
+    },
+    {
+      "name": "抚州公共",
+      "isFree": true
+    },
+    {
+      "name": "揭阳综合",
+      "isFree": true
+    },
+    {
+      "name": "撫州綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "文山综合",
+      "isFree": true
+    },
+    {
+      "name": "斗鱼电影2",
+      "isFree": true
+    },
+    {
+      "name": "斗鱼电影3",
+      "isFree": true
+    },
+    {
+      "name": "斗鱼电影4",
+      "isFree": true
+    },
+    {
+      "name": "斗鱼车评",
+      "isFree": true
+    },
+    {
+      "name": "新唐人-美西",
+      "isFree": true
+    },
+    {
+      "name": "新唐人亚太臺",
+      "isFree": true
+    },
+    {
+      "name": "新唐人加东臺",
+      "isFree": true
+    },
+    {
+      "name": "新唐人加西臺",
+      "isFree": true
+    },
+    {
+      "name": "新唐人旧金山臺",
+      "isFree": true
+    },
+    {
+      "name": "新唐人美东臺",
+      "isFree": true
+    },
+    {
+      "name": "新唐人美西臺",
+      "isFree": true
+    },
+    {
+      "name": "新昌休闲影视",
+      "isFree": true
+    },
+    {
+      "name": "新昌新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "新泰乡村党建",
+      "isFree": true
+    },
+    {
+      "name": "新泰影視頻道",
+      "isFree": true
+    },
+    {
+      "name": "新泰生活",
+      "isFree": true
+    },
+    {
+      "name": "新泰综合",
+      "isFree": true
+    },
+    {
+      "name": "新疆兵团卫视",
+      "isFree": true
+    },
+    {
+      "name": "新疆卫视",
+      "isFree": true
+    },
+    {
+      "name": "新疆少儿",
+      "isFree": true
+    },
+    {
+      "name": "新疆汉语信息服务",
+      "isFree": true
+    },
+    {
+      "name": "新疆汉语综艺",
+      "isFree": true
+    },
+    {
+      "name": "新郑综合",
+      "isFree": true
+    },
+    {
+      "name": "旺苍新闻",
+      "isFree": true
+    },
+    {
+      "name": "明珠台",
+      "isFree": true
+    },
+    {
+      "name": "星空卫视",
+      "isFree": true
+    },
+    {
+      "name": "晋中公共",
+      "isFree": true
+    },
+    {
+      "name": "晋中综合",
+      "isFree": true
+    },
+    {
+      "name": "景县电视一套",
+      "isFree": true
+    },
+    {
+      "name": "智慧教育",
+      "isFree": true
+    },
+    {
+      "name": "朔州1",
+      "isFree": true
+    },
+    {
+      "name": "朔州2",
+      "isFree": true
+    },
+    {
+      "name": "東光一套",
+      "isFree": true
+    },
+    {
+      "name": "東光二套",
+      "isFree": true
+    },
+    {
+      "name": "東光綜藝",
+      "isFree": true
+    },
+    {
+      "name": "松原新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "枣庄公共",
+      "isFree": true
+    },
+    {
+      "name": "枣庄教育",
+      "isFree": true
+    },
+    {
+      "name": "枣庄新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "柯桥时尚",
+      "isFree": true
+    },
+    {
+      "name": "柯桥综合",
+      "isFree": true
+    },
+    {
+      "name": "栖霞新闻",
+      "isFree": true
+    },
+    {
+      "name": "梁平综合",
+      "isFree": true
+    },
+    {
+      "name": "梅州综合",
+      "isFree": true
+    },
+    {
+      "name": "武汉外语",
+      "isFree": true
+    },
+    {
+      "name": "武汉文体",
+      "isFree": true
+    },
+    {
+      "name": "武汉经济",
+      "isFree": true
+    },
+    {
+      "name": "武进新闻",
+      "isFree": true
+    },
+    {
+      "name": "武进生活",
+      "isFree": true
+    },
+    {
+      "name": "永新电视一套",
+      "isFree": true
+    },
+    {
+      "name": "永新电视三套",
+      "isFree": true
+    },
+    {
+      "name": "永新电视二套",
+      "isFree": true
+    },
+    {
+      "name": "汕头综合",
+      "isFree": true
+    },
+    {
+      "name": "汕尾公共",
+      "isFree": true
+    },
+    {
+      "name": "汕尾综合",
+      "isFree": true
+    },
+    {
+      "name": "江津文化旅游",
+      "isFree": true
+    },
+    {
+      "name": "江津新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "江津经济生活",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 苏州文化",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 苏州生活",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 苏州经济",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 苏州综合",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 连云港公共",
+      "isFree": true
+    },
+    {
+      "name": "江苏 Ⅰ 连云港综合",
+      "isFree": true
+    },
+    {
+      "name": "江苏优漫卡通",
+      "isFree": true
+    },
+    {
+      "name": "江苏体育",
+      "isFree": true
+    },
+    {
+      "name": "江苏体育休闲",
+      "isFree": true
+    },
+    {
+      "name": "江苏公共",
+      "isFree": true
+    },
+    {
+      "name": "江苏公共新闻",
+      "isFree": true
+    },
+    {
+      "name": "江苏卫视",
+      "isFree": true
+    },
+    {
+      "name": "江苏国际",
+      "isFree": true
+    },
+    {
+      "name": "江苏城市",
+      "isFree": true
+    },
+    {
+      "name": "江苏学习",
+      "isFree": true
+    },
+    {
+      "name": "江苏影视",
+      "isFree": true
+    },
+    {
+      "name": "江苏教育",
+      "isFree": true
+    },
+    {
+      "name": "江苏综艺",
+      "isFree": true
+    },
+    {
+      "name": "江苏靓妆",
+      "isFree": true
+    },
+    {
+      "name": "江西 Ⅰ 上饶综合台",
+      "isFree": true
+    },
+    {
+      "name": "江西公共农业",
+      "isFree": true
+    },
+    {
+      "name": "江西卫视",
+      "isFree": true
+    },
+    {
+      "name": "江西少儿",
+      "isFree": true
+    },
+    {
+      "name": "江西影视旅游",
+      "isFree": true
+    },
+    {
+      "name": "江西新闻",
+      "isFree": true
+    },
+    {
+      "name": "江西移动电视",
+      "isFree": true
+    },
+    {
+      "name": "江西经济生活",
+      "isFree": true
+    },
+    {
+      "name": "江西都市",
+      "isFree": true
+    },
+    {
+      "name": "江西风尚购物",
+      "isFree": true
+    },
+    {
+      "name": "江门综合",
+      "isFree": true
+    },
+    {
+      "name": "沧县电视二套",
+      "isFree": true
+    },
+    {
+      "name": "沧县电视综合",
+      "isFree": true
+    },
+    {
+      "name": "河北公共",
+      "isFree": true
+    },
+    {
+      "name": "河北农民",
+      "isFree": true
+    },
+    {
+      "name": "河北卫视",
+      "isFree": true
+    },
+    {
+      "name": "河北少儿科教",
+      "isFree": true
+    },
+    {
+      "name": "河北影视剧",
+      "isFree": true
+    },
+    {
+      "name": "河北经济",
+      "isFree": true
+    },
+    {
+      "name": "河北经济生活",
+      "isFree": true
+    },
+    {
+      "name": "河北都市",
+      "isFree": true
+    },
+    {
+      "name": "河南卫视",
+      "isFree": true
+    },
+    {
+      "name": "河源公共",
+      "isFree": true
+    },
+    {
+      "name": "河源综合",
+      "isFree": true
+    },
+    {
+      "name": "洛陽綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "洪雅新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "济宁公共",
+      "isFree": true
+    },
+    {
+      "name": "济宁图文",
+      "isFree": true
+    },
+    {
+      "name": "济宁教育",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江休闲",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江国际",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江少儿",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江教育",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江新闻",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江易购",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江留学",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 浙江经济",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 绍兴影视",
+      "isFree": true
+    },
+    {
+      "name": "浙江 Ⅰ 绍兴综合",
+      "isFree": true
+    },
+    {
+      "name": "浙江6套",
+      "isFree": true
+    },
+    {
+      "name": "浙江公共",
+      "isFree": true
+    },
+    {
+      "name": "浙江卫视",
+      "isFree": true
+    },
+    {
+      "name": "浙江国际",
+      "isFree": true
+    },
+    {
+      "name": "浙江少儿",
+      "isFree": true
+    },
+    {
+      "name": "浙江影视",
+      "isFree": true
+    },
+    {
+      "name": "浙江教科影视",
+      "isFree": true
+    },
+    {
+      "name": "浙江数码时代",
+      "isFree": true
+    },
+    {
+      "name": "浙江民生休闲",
+      "isFree": true
+    },
+    {
+      "name": "浙江留学",
+      "isFree": true
+    },
+    {
+      "name": "浙江经济生活",
+      "isFree": true
+    },
+    {
+      "name": "浙江钱江",
+      "isFree": true
+    },
+    {
+      "name": "海南公共",
+      "isFree": true
+    },
+    {
+      "name": "海南卫视",
+      "isFree": true
+    },
+    {
+      "name": "海南少儿",
+      "isFree": true
+    },
+    {
+      "name": "海南州藏語頻道",
+      "isFree": true
+    },
+    {
+      "name": "海南文旅",
+      "isFree": true
+    },
+    {
+      "name": "海南新闻",
+      "isFree": true
+    },
+    {
+      "name": "海南经济",
+      "isFree": true
+    },
+    {
+      "name": "海盐新闻",
+      "isFree": true
+    },
+    {
+      "name": "海西州综合",
+      "isFree": true
+    },
+    {
+      "name": "涡阳新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "深圳公共",
+      "isFree": true
+    },
+    {
+      "name": "深圳卫视",
+      "isFree": true
+    },
+    {
+      "name": "深圳娱乐",
+      "isFree": true
+    },
+    {
+      "name": "深圳少儿",
+      "isFree": true
+    },
+    {
+      "name": "深圳电视剧",
+      "isFree": true
+    },
+    {
+      "name": "深圳移动电视",
+      "isFree": true
+    },
+    {
+      "name": "深圳蛇口",
+      "isFree": true
+    },
+    {
+      "name": "深圳财经生活",
+      "isFree": true
+    },
+    {
+      "name": "深圳都市",
+      "isFree": true
+    },
+    {
+      "name": "深州綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "湖北 Ⅰ 荆门公共台",
+      "isFree": true
+    },
+    {
+      "name": "湖北卫视",
+      "isFree": true
+    },
+    {
+      "name": "湖南先锋乒羽",
+      "isFree": true
+    },
+    {
+      "name": "湖南公共",
+      "isFree": true
+    },
+    {
+      "name": "湖南卫视",
+      "isFree": true
+    },
+    {
+      "name": "湖南国际",
+      "isFree": true
+    },
+    {
+      "name": "湖南娱乐",
+      "isFree": true
+    },
+    {
+      "name": "湖南快乐垂钓",
+      "isFree": true
+    },
+    {
+      "name": "湖南快乐购",
+      "isFree": true
+    },
+    {
+      "name": "湖南电视剧",
+      "isFree": true
+    },
+    {
+      "name": "湖南经视",
+      "isFree": true
+    },
+    {
+      "name": "湖南茶",
+      "isFree": true
+    },
+    {
+      "name": "湖南都市",
+      "isFree": true
+    },
+    {
+      "name": "湖南金鹰卡通",
+      "isFree": true
+    },
+    {
+      "name": "湘潭公共",
+      "isFree": true
+    },
+    {
+      "name": "湘潭新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "湛江综合",
+      "isFree": true
+    },
+    {
+      "name": "滦县综合",
+      "isFree": true
+    },
+    {
+      "name": "滦县综艺",
+      "isFree": true
+    },
+    {
+      "name": "滨州公共电视剧",
+      "isFree": true
+    },
+    {
+      "name": "滨州新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "滨州测试",
+      "isFree": true
+    },
+    {
+      "name": "滨海新闻",
+      "isFree": true
+    },
+    {
+      "name": "滨海新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "滨海都市",
+      "isFree": true
+    },
+    {
+      "name": "漳州新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "潮安综合",
+      "isFree": true
+    },
+    {
+      "name": "潮州综合",
+      "isFree": true
+    },
+    {
+      "name": "澳亚卫视",
+      "isFree": true
+    },
+    {
+      "name": "澳视澳门",
+      "isFree": true
+    },
+    {
+      "name": "澳视葡文",
+      "isFree": true
+    },
+    {
+      "name": "澳门1",
+      "isFree": true
+    },
+    {
+      "name": "澳门2",
+      "isFree": true
+    },
+    {
+      "name": "澳门体育",
+      "isFree": true
+    },
+    {
+      "name": "点掌财经",
+      "isFree": true
+    },
+    {
+      "name": "犍为新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "珠江",
+      "isFree": true
+    },
+    {
+      "name": "珠海生活",
+      "isFree": true
+    },
+    {
+      "name": "甘肃公共",
+      "isFree": true
+    },
+    {
+      "name": "甘肃卫视",
+      "isFree": true
+    },
+    {
+      "name": "甘肃移动",
+      "isFree": true
+    },
+    {
+      "name": "生活",
+      "isFree": true
+    },
+    {
+      "name": "电白综合",
+      "isFree": true
+    },
+    {
+      "name": "电白视窗",
+      "isFree": true
+    },
+    {
+      "name": "番禺",
+      "isFree": true
+    },
+    {
+      "name": "白城新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "白山新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "百事通体育1",
+      "isFree": true
+    },
+    {
+      "name": "百事通体育2",
+      "isFree": true
+    },
+    {
+      "name": "百事通体育3",
+      "isFree": true
+    },
+    {
+      "name": "百事通体育5",
+      "isFree": true
+    },
+    {
+      "name": "百事通体育7",
+      "isFree": true
+    },
+    {
+      "name": "睛彩安徽",
+      "isFree": true
+    },
+    {
+      "name": "石景山电视台",
+      "isFree": true
+    },
+    {
+      "name": "福山生活",
+      "isFree": true
+    },
+    {
+      "name": "福州影视",
+      "isFree": true
+    },
+    {
+      "name": "福州生活",
+      "isFree": true
+    },
+    {
+      "name": "秦皇島影視",
+      "isFree": true
+    },
+    {
+      "name": "秦皇島政法",
+      "isFree": true
+    },
+    {
+      "name": "秦皇島新聞",
+      "isFree": true
+    },
+    {
+      "name": "篮球资讯",
+      "isFree": true
+    },
+    {
+      "name": "精品电影",
+      "isFree": true
+    },
+    {
+      "name": "红牛REDBULL TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "纪实人文",
+      "isFree": true
+    },
+    {
+      "name": "纯享4K",
+      "isFree": true,
+      "logo": "https://live.fanmingming.com/tv/纯享4K.png"
+    },
+    {
+      "name": "继续教育",
+      "isFree": true
+    },
+    {
+      "name": "罗山电视台",
+      "isFree": true
+    },
+    {
+      "name": "置业",
+      "isFree": true
+    },
+    {
+      "name": "美国中文电视",
+      "isFree": true
+    },
+    {
+      "name": "美国亚美卫视",
+      "isFree": true
+    },
+    {
+      "name": "翡翠台",
+      "isFree": true
+    },
+    {
+      "name": "耀才财经",
+      "isFree": true
+    },
+    {
+      "name": "肇庆综合",
+      "isFree": true
+    },
+    {
+      "name": "舟山公共生活",
+      "isFree": true
+    },
+    {
+      "name": "舟山新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "舟山群岛旅游",
+      "isFree": true
+    },
+    {
+      "name": "芜湖公共",
+      "isFree": true
+    },
+    {
+      "name": "芜湖新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "芜湖生活",
+      "isFree": true
+    },
+    {
+      "name": "苏州文化生活",
+      "isFree": true
+    },
+    {
+      "name": "苏州生活资讯",
+      "isFree": true
+    },
+    {
+      "name": "苏州社会经济",
+      "isFree": true
+    },
+    {
+      "name": "茂名综合",
+      "isFree": true
+    },
+    {
+      "name": "荣昌综合",
+      "isFree": true
+    },
+    {
+      "name": "莒縣圖文頻道",
+      "isFree": true
+    },
+    {
+      "name": "莒縣電視一套",
+      "isFree": true
+    },
+    {
+      "name": "莒縣電視二套",
+      "isFree": true
+    },
+    {
+      "name": "莲花卫视",
+      "isFree": true
+    },
+    {
+      "name": "華藏衛視",
+      "isFree": true
+    },
+    {
+      "name": "華視新聞",
+      "isFree": true
+    },
+    {
+      "name": "萍鄉公共頻道",
+      "isFree": true
+    },
+    {
+      "name": "萍鄉教育頻道",
+      "isFree": true
+    },
+    {
+      "name": "萍鄉新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "萧山新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "萬州影視文藝",
+      "isFree": true
+    },
+    {
+      "name": "蓝屏 432",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyUjNiotZ0uXWdvYC9EYoARjajj.jpg"
+    },
+    {
+      "name": "蓬安新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "蕪湖教育頻道",
+      "isFree": true
+    },
+    {
+      "name": "蕭山生活頻道",
+      "isFree": true
+    },
+    {
+      "name": "衡水影视娱乐",
+      "isFree": true
+    },
+    {
+      "name": "衡水新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "袁州綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "西安丝路",
+      "isFree": true
+    },
+    {
+      "name": "西安乐购购物",
+      "isFree": true
+    },
+    {
+      "name": "西安商务资讯",
+      "isFree": true
+    },
+    {
+      "name": "西安影视",
+      "isFree": true
+    },
+    {
+      "name": "西安新闻",
+      "isFree": true
+    },
+    {
+      "name": "西安白鸽",
+      "isFree": true
+    },
+    {
+      "name": "西藏卫视",
+      "isFree": true
+    },
+    {
+      "name": "西青新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "贵州体育旅游",
+      "isFree": true
+    },
+    {
+      "name": "贵州公共",
+      "isFree": true
+    },
+    {
+      "name": "贵州卫视",
+      "isFree": true
+    },
+    {
+      "name": "贵州大众生活",
+      "isFree": true
+    },
+    {
+      "name": "贵州家有购物",
+      "isFree": true
+    },
+    {
+      "name": "贵州影视文艺",
+      "isFree": true
+    },
+    {
+      "name": "贵州科教健康",
+      "isFree": true
+    },
+    {
+      "name": "贵州经济",
+      "isFree": true
+    },
+    {
+      "name": "赵县电视一套",
+      "isFree": true
+    },
+    {
+      "name": "赵县电视二套",
+      "isFree": true
+    },
+    {
+      "name": "辛集新聞頻道",
+      "isFree": true
+    },
+    {
+      "name": "辛集生活頻道",
+      "isFree": true
+    },
+    {
+      "name": "辽宁卫视",
+      "isFree": true
+    },
+    {
+      "name": "辽源新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "迪庆综合",
+      "isFree": true
+    },
+    {
+      "name": "迪庆藏语",
+      "isFree": true
+    },
+    {
+      "name": "通化新闻",
+      "isFree": true
+    },
+    {
+      "name": "邵东综合",
+      "isFree": true
+    },
+    {
+      "name": "重庆卫视",
+      "isFree": true
+    },
+    {
+      "name": "重庆忠县",
+      "isFree": true
+    },
+    {
+      "name": "重庆移动",
+      "isFree": true
+    },
+    {
+      "name": "重庆移动机场",
+      "isFree": true
+    },
+    {
+      "name": "金昌公共頻道",
+      "isFree": true
+    },
+    {
+      "name": "金昌綜合頻道",
+      "isFree": true
+    },
+    {
+      "name": "金鹰卡通",
+      "isFree": true
+    },
+    {
+      "name": "银川公共",
+      "isFree": true
+    },
+    {
+      "name": "银川生活",
+      "isFree": true
+    },
+    {
+      "name": "長豐新聞綜合",
+      "isFree": true
+    },
+    {
+      "name": "长乐综合",
+      "isFree": true
+    },
+    {
+      "name": "长春综合",
+      "isFree": true
+    },
+    {
+      "name": "长沙地铁移动",
+      "isFree": true
+    },
+    {
+      "name": "长沙女性",
+      "isFree": true
+    },
+    {
+      "name": "长沙政法",
+      "isFree": true
+    },
+    {
+      "name": "长沙新闻",
+      "isFree": true
+    },
+    {
+      "name": "长沙经贸",
+      "isFree": true
+    },
+    {
+      "name": "长沙购物",
+      "isFree": true
+    },
+    {
+      "name": "阜城综合",
+      "isFree": true
+    },
+    {
+      "name": "阳江综合",
+      "isFree": true
+    },
+    {
+      "name": "隆化影视",
+      "isFree": true
+    },
+    {
+      "name": "隆化综合",
+      "isFree": true
+    },
+    {
+      "name": "隨州綜合",
+      "isFree": true
+    },
+    {
+      "name": "隨州農村",
+      "isFree": true
+    },
+    {
+      "name": "集安综合",
+      "isFree": true
+    },
+    {
+      "name": "霸州文化頻道",
+      "isFree": true
+    },
+    {
+      "name": "霸州新聞頻道",
+      "isFree": true
+    },
+    {
+      "name": "霸州新闻",
+      "isFree": true
+    },
+    {
+      "name": "青州文化旅游",
+      "isFree": true
+    },
+    {
+      "name": "青州生活",
+      "isFree": true
+    },
+    {
+      "name": "青州综合",
+      "isFree": true
+    },
+    {
+      "name": "青海卫视",
+      "isFree": true
+    },
+    {
+      "name": "青海安多卫视",
+      "isFree": true
+    },
+    {
+      "name": "靖江新闻綜合",
+      "isFree": true
+    },
+    {
+      "name": "鞍山图文",
+      "isFree": true
+    },
+    {
+      "name": "韶关公共",
+      "isFree": true
+    },
+    {
+      "name": "风尚购物",
+      "isFree": true
+    },
+    {
+      "name": "马云对话",
+      "isFree": true
+    },
+    {
+      "name": "高清电影",
+      "isFree": true
+    },
+    {
+      "name": "鹤壁新闻综合",
+      "isFree": true
+    },
+    {
+      "name": "鹤峰综合",
+      "isFree": true
+    },
+    {
+      "name": "鹿泉一套",
+      "isFree": true
+    },
+    {
+      "name": "鹿泉二套",
+      "isFree": true
+    },
+    {
+      "name": "黑莓电竞",
+      "isFree": true
+    },
+    {
+      "name": "黑龙卫视",
+      "isFree": true
+    },
+    {
+      "name": "黑龙江",
+      "isFree": true
+    },
+    {
+      "name": "黑龙江卫",
+      "isFree": true
+    },
+    {
+      "name": "黑龙江卫视",
+      "isFree": true
+    },
+    {
+      "name": "黔西南公共",
+      "isFree": true
+    },
+    {
+      "name": "黔西南综合",
+      "isFree": true
+    },
+    {
+      "name": "龙岩公共",
+      "isFree": true
+    },
+    {
+      "name": "龙岩综合",
+      "isFree": true
+    },
+    {
+      "name": "Anhui International Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anhui People Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anhui Public Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anhui Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anhui TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anhui Variety Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "Anshun Public Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.gzastv.com/live/live_public.shtml"
+    },
+    {
+      "name": "Baicheng TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.jlntv.cn/newpc/wlt/dszb/folder3130/folder3140/"
+    },
+    {
+      "name": "Beijing Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BTV.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "Bingtuan Satellite TV",
+      "isFree": true
+    },
+    {
+      "name": "Bread TV",
+      "isFree": true,
+      "website": "https://bread-tv.com/"
+    },
+    {
+      "name": "BRTV International Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BRTV Life Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BRTV Youth Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BSTV-2",
+      "isFree": true,
+      "website": "http://www.bsrtv.com/zb/dszb/54771636.shtml"
+    },
+    {
+      "name": "BSTV-3",
+      "isFree": true,
+      "website": "http://www.bsrtv.com/zb/dszb/54771639.shtml"
+    },
+    {
+      "name": "Car Fan Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bty0IdXh4l2BmoQNVeAH5PYKrMK.jpg",
+      "website": "https://www.wasu.cn/"
+    },
+    {
+      "name": "CCTV-1",
+      "isFree": true,
+      "website": "https://www.cctv.com",
+      "priority": 10
+    },
+    {
+      "name": "CCTV-12",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv12/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-17",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv17/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-3",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv3/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4 America",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://tv.cctv.com/cctv4america/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4 Asia",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv4asia/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4 Europe",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv4europe/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-4K",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-8K",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Culture of Quality",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Entertainment",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Health",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-TV Guide",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Women's Fashion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CDTV 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "http://www.cditv.cn/show-192-5-1.html"
+    },
+    {
+      "name": "Changzhou City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "https://www.zhong5.cn/channel.html"
+    },
+    {
+      "name": "Changzhou Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.zhong5.cn/channel.html"
+    },
+    {
+      "name": "Changzhou Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "https://www.zhong5.cn/channel.html"
+    },
+    {
+      "name": "Changzhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Channel Max",
+      "isFree": true
+    },
+    {
+      "name": "Channel Tea",
+      "isFree": true
+    },
+    {
+      "name": "Chaozhou Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Chaozhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "CHC Home Theater",
+      "isFree": true,
+      "website": "https://www.chc2004.cn/catid/72"
+    },
+    {
+      "name": "Chenzhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Chifeng Economy & Service Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+      "website": "http://www.cfrtv.cn/folder67/folder87/"
+    },
+    {
+      "name": "Chinese Speciality Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg"
+    },
+    {
+      "name": "Chongqing Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "http://www.cqbntv.cn/"
+    },
+    {
+      "name": "Chongqing TV Automobile and Motorcycle Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.cqbntv.cn/"
+    },
+    {
+      "name": "Chongqing TV International",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.cqbntv.cn/"
+    },
+    {
+      "name": "Chuxiong Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.cxtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12"
+    },
+    {
+      "name": "Chuzhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.cztv.cc/Live/index?liveid=2"
+    },
+    {
+      "name": "City Theater Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QgOIsjO.png"
+    },
+    {
+      "name": "Colorful Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png"
+    },
+    {
+      "name": "Combos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Cultural Treasure Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png"
+    },
+    {
+      "name": "DAIFUchannel",
+      "isFree": true,
+      "website": "http://daifutv.com/"
+    },
+    {
+      "name": "Dalian Life Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://www.dltv.cn/"
+    },
+    {
+      "name": "Dalian Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Deyang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://zb.scdytv.com/?name=ggpd"
+    },
+    {
+      "name": "Dezhou Graphic Channel",
+      "isFree": true,
+      "website": "http://www.dztv.tv/"
+    },
+    {
+      "name": "Dezhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.dztv.tv/"
+    },
+    {
+      "name": "Documentary Humanities Channel",
+      "isFree": true
+    },
+    {
+      "name": "Dongguan Life Information Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "https://dgrtv.sun0769.com/index.php/online2/5"
+    },
+    {
+      "name": "DOX 4K",
+      "isFree": true
+    },
+    {
+      "name": "DOX British",
+      "isFree": true
+    },
+    {
+      "name": "DOX Surround",
+      "isFree": true
+    },
+    {
+      "name": "DOX Theater",
+      "isFree": true
+    },
+    {
+      "name": "DOXTV",
+      "isFree": true,
+      "website": "http://www.doxtv.com/"
+    },
+    {
+      "name": "DOX Yaqu",
+      "isFree": true
+    },
+    {
+      "name": "DOX Yijia",
+      "isFree": true
+    },
+    {
+      "name": "Dragon TV",
+      "isFree": true,
+      "keywords": "dragon tv -international",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7HY9butbuO8XwB3uBxQ98MBxd4.jpg",
+      "website": "https://weibo.com/dongfangweishifqt"
+    },
+    {
+      "name": "Dragon TV International",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7HY9butbuO8XwB3uBxQ98MBxd4.jpg",
+      "website": "https://www.smg.cn/"
+    },
+    {
+      "name": "Dunhuang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fangshan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.funhillrm.com/news/folder65"
+    },
+    {
+      "name": "Fujian Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/zhpd/"
+    },
+    {
+      "name": "Fujian Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/xwpd/"
+    },
+    {
+      "name": "Fujian Public Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/ggpd/"
+    },
+    {
+      "name": "Fujian Southeast TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://www.setv.com.cn/"
+    },
+    {
+      "name": "Fujian Straits TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://www.fjtv.net/"
+    },
+    {
+      "name": "Fujian Travel Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/xwpd/"
+    },
+    {
+      "name": "Fuzhou Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.zohi.tv/app/tv/109"
+    },
+    {
+      "name": "Fuzhou News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.zohi.tv/app/tv/109"
+    },
+    {
+      "name": "Gansu Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "http://www.gstv.com.cn/"
+    },
+    {
+      "name": "Gansu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.gstv.com.cn/"
+    },
+    {
+      "name": "GBA Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Global Travel Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
+    },
+    {
+      "name": "Golden Life",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg"
+    },
+    {
+      "name": "Gongqingcheng Channel 1",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.jjntv.cn/video/?id=6"
+    },
+    {
+      "name": "Gongqingcheng Channel 2",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.jjntv.cn/video/?id=7"
+    },
+    {
+      "name": "Great Wall Elite",
+      "isFree": true,
+      "logo": "https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png"
+    },
+    {
+      "name": "Great Wall Fresh",
+      "isFree": true,
+      "logo": "https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png"
+    },
+    {
+      "name": "GRTN Health Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D7qEdPHCKVHihtaJDAys2HAi0L.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "GTV",
+      "isFree": true,
+      "keywords": "gtv -2 qipai -electronic sports",
+      "logo": "https://i.imgur.com/jjuKnYs.png"
+    },
+    {
+      "name": "GTV 2 Qipai",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/GTV.png"
+    },
+    {
+      "name": "Guangan District TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=8"
+    },
+    {
+      "name": "Guangan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.gatv.com.cn/Tv/details?id=9"
+    },
+    {
+      "name": "Guangdong Lychee Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png"
+    },
+    {
+      "name": "Guangdong Mobile Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangdong Pearl River Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangdong Public",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "http://public.gdtv.cn/"
+    },
+    {
+      "name": "Guangdong Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "http://star.gdtv.cn/"
+    },
+    {
+      "name": "Guangdong Variety Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangdong World Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangxi City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html"
+    },
+    {
+      "name": "Guangxi Mobile Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gw8onh4FKsruBA7Oouv01EFxzn.jpg"
+    },
+    {
+      "name": "Guangxi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://vod.gxtv.cn/"
+    },
+    {
+      "name": "Guangxi Variety & Travel Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html"
+    },
+    {
+      "name": "Guangyuna Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.dzsm.com/showchannel.asp?id=1016"
+    },
+    {
+      "name": "Guangzhou TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ff3KQXp.png",
+      "website": "http://www.gztv.com/"
+    },
+    {
+      "name": "Guizhou 5 Channel",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.gzstv.com/tv/ch05"
+    },
+    {
+      "name": "Guizhou Mobile Digital Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gw8onh4FKsruBA7Oouv01EFxzn.jpg",
+      "website": "https://www.gzstv.com/tv/ch13"
+    },
+    {
+      "name": "Guizhou People's Life Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "https://www.gzstv.com/tv/ch04"
+    },
+    {
+      "name": "Guizhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.gzstv.com/tv/ch02"
+    },
+    {
+      "name": "Guizhou Science Health & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+      "website": "https://www.gzstv.com/tv/ch06"
+    },
+    {
+      "name": "Guizhou TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.gzstv.com/"
+    },
+    {
+      "name": "Haikou Life & Entertainment Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://www.hkbtv.cn/"
+    },
+    {
+      "name": "Hainan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.hnntv.cn/live/gglive/"
+    },
+    {
+      "name": "Hainan Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "http://www.hnntv.cn/"
+    },
+    {
+      "name": "Handan Lifestyle & City Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.hdbs.cn/live/index12.shtml"
+    },
+    {
+      "name": "Handan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.hdbs.cn/live/index14.shtml"
+    },
+    {
+      "name": "Handan Recorded Channel",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/24005.jpg",
+      "website": "http://www.hdbs.cn/live/index16.shtml"
+    },
+    {
+      "name": "Handwriting Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Happy Color Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "http://www.sitv.com.cn/"
+    },
+    {
+      "name": "Happy Fishing",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg"
+    },
+    {
+      "name": "Harbin City Information Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "website": "https://www.hrbtv.net/folder79/folder83/"
+    },
+    {
+      "name": "Harbin Entertainment Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "website": "https://www.hrbtv.net/folder79/folder89/"
+    },
+    {
+      "name": "Harbin Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "website": "https://www.hrbtv.net/folder79/folder85/"
+    },
+    {
+      "name": "Hebei TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/32b9437f13620359b8b6dc35a5b830a4.png",
+      "website": "http://www.hebtv.com.cn/"
+    },
+    {
+      "name": "Heilongjiang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hljtv.com/"
+    },
+    {
+      "name": "Henan Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png"
+    },
+    {
+      "name": "Henan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Henan TV",
+      "isFree": true,
+      "keywords": "henan tv -city channel -international channel -satellite",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hntv.tv/"
+    },
+    {
+      "name": "Henan TV City Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hntv.tv/hntv/"
+    },
+    {
+      "name": "Henan TV International Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hntv.tv/hntv/"
+    },
+    {
+      "name": "Henan TV Satellite",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hntv.tv/hntv/"
+    },
+    {
+      "name": "Hengshui Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Heyuan Generalist TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+      "website": "https://www.hyrtv.cn/itv/"
+    },
+    {
+      "name": "Heyuan Public TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.heyuan.gov.cn/bmjy/hysggzyjyzx/mindex.html"
+    },
+    {
+      "name": "Heze Economic Life Channel",
+      "isFree": true,
+      "website": "http://www.hznet.tv/live/"
+    },
+    {
+      "name": "Heze Shadow Video Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
+      "website": "http://www.hznet.tv/live/"
+    },
+    {
+      "name": "Hezheng TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "High Channel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKagJQQTViFNFNarcVp8xOSXIbh.jpg"
+    },
+    {
+      "name": "Household Management TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qkTmVQB74QYKsSri17TbEvpspA.jpg"
+    },
+    {
+      "name": "Huaian Movie & Entertainment Channel",
+      "isFree": true,
+      "website": "https://glive.habctv.com/tv/902?uin=1610"
+    },
+    {
+      "name": "Huaian Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Huangshi City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "http://www.hsgd.net.cn/"
+    },
+    {
+      "name": "Huaying City TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=6"
+    },
+    {
+      "name": "Hubei Country Life Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Drama Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Film & TV",
+      "isFree": true
+    },
+    {
+      "name": "Hubei General Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Lifestyle Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Public & News Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Ridge",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Satellite TV",
+      "isFree": true,
+      "website": "http://www.hbtv.com.cn/"
+    },
+    {
+      "name": "Hunan City Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/?channelId=346"
+    },
+    {
+      "name": "Hunan Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/?channelId=484"
+    },
+    {
+      "name": "Hunan Economy Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/?channelId=280"
+    },
+    {
+      "name": "Hunan Entertainment Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/hnyl.jpg",
+      "website": "https://live.mgtv.com/?channelId=344"
+    },
+    {
+      "name": "Hunan Ping Yu",
+      "isFree": true,
+      "website": "http://www.mgtv.com/"
+    },
+    {
+      "name": "Hunan Politics & Law Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://www.tvchinese.net/channel/cszfpd/"
+    },
+    {
+      "name": "Hunan Public Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/?channelId=261"
+    },
+    {
+      "name": "Hunan TV International",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://www.mgtv.com/tv/"
+    },
+    {
+      "name": "Hunan TV World",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://www.mgtv.com/tv/"
+    },
+    {
+      "name": "Hunan Womens Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png"
+    },
+    {
+      "name": "Huzhou News Integrated Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Huzhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "ICS",
+      "isFree": true,
+      "website": "https://www.shanghaieye.com.cn/"
+    },
+    {
+      "name": "iPanda",
+      "isFree": true,
+      "website": "http://en.ipanda.com/"
+    },
+    {
+      "name": "IPTV 3+",
+      "isFree": true,
+      "logo": "https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg",
+      "website": "http://www.chinaiptv.cn/"
+    },
+    {
+      "name": "iQIYI",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/iQIYI.png",
+      "website": "https://www.iqiyi.com/"
+    },
+    {
+      "name": "Jiangsu Beauty Makeup Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangsu City Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangsu International Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangsu Liang MakeUp",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://www.jstv.com/"
+    },
+    {
+      "name": "Jiangsu Public & News Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangsu Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://tv.jstv.com/star/"
+    },
+    {
+      "name": "Jiangsu TV",
+      "isFree": true,
+      "keywords": "jiangsu tv -international",
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://www.jstv.com/"
+    },
+    {
+      "name": "Jiangsu TV International",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://www.jstv.com/"
+    },
+    {
+      "name": "Jiangsu Variety Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangxi City Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxds.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv2.shtml"
+    },
+    {
+      "name": "Jiangxi Public & Agriculture Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxgg.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv5.shtml"
+    },
+    {
+      "name": "Jiangxi TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+      "website": "http://www.jxntv.cn/"
+    },
+    {
+      "name": "Jiaxing Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Jilin City Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "website": "https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=33"
+    },
+    {
+      "name": "Jilin Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jlshpd.jpg",
+      "website": "https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=11"
+    },
+    {
+      "name": "Jilin Rural Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+      "website": "https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=34"
+    },
+    {
+      "name": "Jilin Satellite TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "website": "http://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=9"
+    },
+    {
+      "name": "Jilin TV Station",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "website": "http://www.jilintv.cn/"
+    },
+    {
+      "name": "Jinan City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "http://jntv.ijntv.cn/city/"
+    },
+    {
+      "name": "Jinan Entertainment Channel",
+      "isFree": true,
+      "website": "http://jntv.ijntv.cn/"
+    },
+    {
+      "name": "Jingcai PYTV",
+      "isFree": true,
+      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZRXOEqET6M7FZmTDS4cZ_MXET0voS8wMndWiIQs8Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Jingmen Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.jmtv.com.cn/folder48/folder50"
+    },
+    {
+      "name": "Jinzhong TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jiujiang Economy & Livelihood Channel",
+      "isFree": true,
+      "website": "https://www.jjntv.cn/video/?id=1"
+    },
+    {
+      "name": "K4",
+      "isFree": true
+    },
+    {
+      "name": "K6",
+      "isFree": true
+    },
+    {
+      "name": "Kangba TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Katong",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "Lancang-Mekong International Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "website": "http://www.yntv.cn/live.html"
+    },
+    {
+      "name": "Langfang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.lfnrtv.com/show-66-45-1.html"
+    },
+    {
+      "name": "Lanzhou Lifestyle & Economy Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "https://www.lztv.tv/folder25/folder26/folder29/"
+    },
+    {
+      "name": "Lasa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.lasatv.com/"
+    },
+    {
+      "name": "Laughter Theater",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CrFesS6.png"
+    },
+    {
+      "name": "Liangshan TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/liangshantv.jpg",
+      "website": "http://m3u8.channel.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8"
+    },
+    {
+      "name": "Liaocheng Generalist Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg"
+    },
+    {
+      "name": "Liaocheng Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Liaoning TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.lntv.cn/"
+    },
+    {
+      "name": "Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.smg.cn/review/201603/0164094.shtml"
+    },
+    {
+      "name": "Lijiang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.lijiangtv.com/live/"
+    },
+    {
+      "name": "Lingtai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Linshui County",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=4"
+    },
+    {
+      "name": "Linyi Generalist Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/44bed07c8abcb9decd73fb1d26fd3265.png",
+      "website": "https://web.guangdianyun.tv/tv/?id=564&uin=1813"
+    },
+    {
+      "name": "Liyuan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Loudi Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Loudi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.ldntv.cn/folder51/folder154/folder171"
+    },
+    {
+      "name": "LYTV-2",
+      "isFree": true,
+      "website": "http://www.lytv.com.cn/dist/index.html"
+    },
+    {
+      "name": "Martial Arts World",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gk38G7JcGJY6aR4cdrZ8sftSsv.jpg"
+    },
+    {
+      "name": "Nanchang City Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+      "website": "https://www.nctv.net.cn/"
+    },
+    {
+      "name": "Nanchang News & Generalist Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg"
+    },
+    {
+      "name": "Nanchang Public Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+      "website": "https://www.nctv.net.cn/"
+    },
+    {
+      "name": "Nanchong Generalist Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg"
+    },
+    {
+      "name": "Nanchong Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Nanjing Entertainment Channel",
+      "isFree": true,
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "Nanjing Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.nbs.cn/live/3/"
+    },
+    {
+      "name": "Nanning City & Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "http://www.nntv.cn/live/nntv_ds/"
+    },
+    {
+      "name": "Nanning Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.nntv.cn/live/nntv_gg/"
+    },
+    {
+      "name": "Nanyang Graphic & Information Channel",
+      "isFree": true
+    },
+    {
+      "name": "Nanyang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "NBTV 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml"
+    },
+    {
+      "name": "NBTV 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml"
+    },
+    {
+      "name": "Nei Monggol Chinese TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WeugJBE.png",
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Nei Monggol TV",
+      "isFree": true,
+      "keywords": "nei monggol tv -2 mongolian culture channel -agriculture & animal channel -children channel -culture entertainment channel -economic & life channel -news channel",
+      "logo": "https://i.imgur.com/WeugJBE.png",
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Nei Monggol TV Culture Entertainment Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Ningxia Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.nxtv.com.cn/tv/gg/"
+    },
+    {
+      "name": "Ningxia Satellite Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "http://www.nxtv.com.cn/tv/ws/"
+    },
+    {
+      "name": "Panzihihua Culture Tourism & Life Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/panzhihua.jpg",
+      "website": "https://www.pzhgd.com/Live/index?liveid=2"
+    },
+    {
+      "name": "Phoenix TV!",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg"
+    },
+    {
+      "name": "Premium Box Office",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Pudong TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.pudongtv.cn/"
+    },
+    {
+      "name": "Putian Channel 1",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.ptbtv.com/live/pt1t/"
+    },
+    {
+      "name": "Putian Channel 2",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.ptbtv.com/live/pt2t/"
+    },
+    {
+      "name": "PYTV-1",
+      "isFree": true
+    },
+    {
+      "name": "PYTV-2",
+      "isFree": true
+    },
+    {
+      "name": "Qianfeng District",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=7"
+    },
+    {
+      "name": "Qianjiang Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Qianxinan Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.qxndt.com/folder74/folder77?channel_id=11"
+    },
+    {
+      "name": "Qianxinan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.qxndt.com/folder74/folder77?channel_id=14"
+    },
+    {
+      "name": "Qinghai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Qinhuangdao Channel 4",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Qinhuangdao TV Channel 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Qinhuangdao TV Channel 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Qinhuangdao TV Channel 3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "QTV-2",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv2.jpg"
+    },
+    {
+      "name": "QTV-4",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv4.jpg"
+    },
+    {
+      "name": "QTV-5",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv5.jpg"
+    },
+    {
+      "name": "QTV-6",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg"
+    },
+    {
+      "name": "Rizhao Graphic Channel",
+      "isFree": true
+    },
+    {
+      "name": "Rizhao News & Generalist Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Rizhao Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Sansha TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Shaanxi Agroforestry Satellite TV",
+      "isFree": true,
+      "website": "http://www.cnnl.tv/"
+    },
+    {
+      "name": "Shaanxi Satellite TV",
+      "isFree": true,
+      "website": "http://www.snrtv.com/"
+    },
+    {
+      "name": "Shaanxi TV",
+      "isFree": true,
+      "keywords": "shaanxi tv -agriculture & forestry tv",
+      "website": "http://www.snrtv.com/"
+    },
+    {
+      "name": "Shaanxi TV Agriculture & Forestry TV",
+      "isFree": true,
+      "website": "http://www.snrtv.com/"
+    },
+    {
+      "name": "Shandong International Channel",
+      "isFree": true,
+      "website": "http://v.iqilu.com/"
+    },
+    {
+      "name": "Shandong Satellite TV",
+      "isFree": true,
+      "website": "https://www.cbbn.net/folder253/folder337?channel_id=23"
+    },
+    {
+      "name": "Shandong TV",
+      "isFree": true,
+      "keywords": "shandong tv -agricultural science channel -children's channel -culture and tourism channel -life channel -movie and video channel -news channel -qilu channel -sports channel -variety channel",
+      "website": "http://www.iqilu.com/"
+    },
+    {
+      "name": "Shandong TV Agricultural Science Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shandong TV Culture and Tourism Channel",
+      "isFree": true,
+      "website": "http://v.iqilu.com/live/yspd/"
+    },
+    {
+      "name": "Shandong TV Life Channel",
+      "isFree": true,
+      "website": "http://www.iqilu.com/"
+    },
+    {
+      "name": "Shandong TV Qilu Channel",
+      "isFree": true,
+      "website": "http://www.iqilu.com/"
+    },
+    {
+      "name": "Shandong TV Variety Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "http://www.sxtvs.com/sxtvs_shpd/"
+    },
+    {
+      "name": "Shanxi Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Shanxi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sxrtv.com/"
+    },
+    {
+      "name": "Shaoxing Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Shenzhen Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/shenzhen.png",
+      "website": "https://sztv.cutv.com/"
+    },
+    {
+      "name": "Shenzhen TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/shenzhen.png"
+    },
+    {
+      "name": "Shijiazhuang City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+      "name": "Shijiazhuang Entertainment Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shijiazhuang Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png"
+    },
+    {
+      "name": "Shijiazhuang Xueli TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Shuozhou City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+      "name": "Shuozhou Life and Entertainment Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png"
+    },
+    {
+      "name": "Sichuan Kangba Tibetan TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "http://www.sctv.com/"
+    },
+    {
+      "name": "Sichuan Rural Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "http://www.sctv.com/"
+    },
+    {
+      "name": "Sichuan Satellite TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png"
+    },
+    {
+      "name": "Sichuan TV 1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "http://www.sctv.com/"
+    },
+    {
+      "name": "Sichuan TV Cultural Tourism Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png"
+    },
+    {
+      "name": "Sichuan TV Public Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png"
+    },
+    {
+      "name": "Sichuan TV Women and Children Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png"
+    },
+    {
+      "name": "Sihai Fishing Channel",
+      "isFree": true
+    },
+    {
+      "name": "SinoVision",
+      "isFree": true
+    },
+    {
+      "name": "Siping TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
+      "website": "https://www.jlntv.cn/newpc/wlt/dszb/folder3130/folder3136/"
+    },
+    {
+      "name": "ST Adepa",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Africa 2",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Bongo",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Chinese Homeland",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Dadin Kowa",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Guide",
+      "isFree": true,
+      "keywords": "st guide -french",
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Guide French",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Kungfu",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Naija",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Nollywood F",
+      "isFree": true,
+      "website": "http://www.topstar.co.zm/channeldetail/1468833215.html"
+    },
+    {
+      "name": "ST Nollywood Plus",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Plus",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Rembo TV",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Rise",
+      "isFree": true,
+      "website": "http://starsat.co.za/channel/st-rise/"
+    },
+    {
+      "name": "ST RnB",
+      "isFree": true,
+      "website": "https://starsat.co.za/channel/st-rnb/"
+    },
+    {
+      "name": "ST Star Triple P",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Swahili",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "STV City",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG",
+      "website": "https://live.kankanews.com/huikan/"
+    },
+    {
+      "name": "ST Yoruba",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Zone",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "Super Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e71000a5c7b3b21a35d57f636e3d07ba.png"
+    },
+    {
+      "name": "SYTV",
+      "isFree": true
+    },
+    {
+      "name": "Tangshan Life Service Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png"
+    },
+    {
+      "name": "Tangshan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "TATV-2",
+      "isFree": true
+    },
+    {
+      "name": "The Greater Bay Satellite TV",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/51"
+    },
+    {
+      "name": "Tianjin TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tjtv.enorth.com.cn/"
+    },
+    {
+      "name": "Tianyuan I-Go Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Tongzhou TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVS 2 Southern TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tv/tvs2/"
+    },
+    {
+      "name": "TVS 4 Guangdong TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "http://www.gdtv.cn/tv/tvs4/"
+    },
+    {
+      "name": "VoA TV China",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/VOATVPERSIAN.png",
+      "website": "http://www.voachinese.com/"
+    },
+    {
+      "name": "Wanzhou General Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIp4gIXogCjfB1QABNsWwa9gSca.jpg",
+      "website": "http://www.wzbtv.cn/2016/html/tv.shtml"
+    },
+    {
+      "name": "Wanzhou Life Service Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://www.wzbtv.cn/2016/html/tv.shtml"
+    },
+    {
+      "name": "Wanzhou Sanxia Yimin Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.wzbtv.cn/2016/html/tv.shtml"
+    },
+    {
+      "name": "Wehshan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Weihai Ocean Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/weihaihaiyang.jpg",
+      "website": "http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html"
+    },
+    {
+      "name": "Weihai Public Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/weihaitv2.jpg",
+      "website": "http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html"
+    },
+    {
+      "name": "Wenzhou City Life Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+      "name": "Wenzhou Economic and Education",
+      "isFree": true
+    },
+    {
+      "name": "Wenzhou Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "WFTV-2",
+      "isFree": true
+    },
+    {
+      "name": "Wujiang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Wusheng County TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=3"
+    },
+    {
+      "name": "Xiamen Star TV China",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "http://www.xmtv.cn/"
+    },
+    {
+      "name": "Xiamen Star TV International",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "http://www.xmtv.cn/"
+    },
+    {
+      "name": "Xiangtan Public & City Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.hnxttv.com/live/2015-11/23/cms60581article.shtml"
+    },
+    {
+      "name": "Xiangyang Economy & Life Channel",
+      "isFree": true
+    },
+    {
+      "name": "Xi'an Silk Road Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg"
+    },
+    {
+      "name": "Xianyang 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.xybtv.com/station/xyyt/"
+    },
+    {
+      "name": "Xianyang 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.xybtv.com/station/xyst/"
+    },
+    {
+      "name": "Xianyou Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.ptbtv.com/live/xyds/"
+    },
+    {
+      "name": "Xing Kong China",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://www.xingkong.com.cn/"
+    },
+    {
+      "name": "Xing Kong International",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://www.xingkong.com.cn/"
+    },
+    {
+      "name": "Xingtai Economy & Lifestyle Channel",
+      "isFree": true
+    },
+    {
+      "name": "Xingtai Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Xining Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "https://www.xntv.tv/xnshpd"
+    },
+    {
+      "name": "Xinjiang TV 1",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 12",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 2",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 3",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 4",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 5",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 6",
+      "isFree": true
+    },
+    {
+      "name": "Xinjiang TV 8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JJw1Ndc.png"
+    },
+    {
+      "name": "Xinjiang TV 9",
+      "isFree": true
+    },
+    {
+      "name": "Xizang TV Chinese",
+      "isFree": true,
+      "website": "http://www.vtibet.com/ds/"
+    },
+    {
+      "name": "Xizang TV Tibetan",
+      "isFree": true,
+      "website": "http://www.vtibet.com/ds/"
+    },
+    {
+      "name": "Xuchang General Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIp4gIXogCjfB1QABNsWwa9gSca.jpg"
+    },
+    {
+      "name": "Xuchang Jingcai Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Xuchang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yan'an Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yanbian Cinese Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/ybtv2.jpg",
+      "website": "http://www.yb983.com/ybtv2/index.html"
+    },
+    {
+      "name": "Yanbian Satellite TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/ybtv2.jpg",
+      "website": "http://www.iybtv.com/television"
+    },
+    {
+      "name": "Yanbian TV 1",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/ybtv2.jpg",
+      "website": "http://www.iybtv.com/television"
+    },
+    {
+      "name": "Yancheng 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.0515yc.cn/tvlook/folder77/"
+    },
+    {
+      "name": "Yancheng 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.0515yc.cn/tvlook/folder78/"
+    },
+    {
+      "name": "Yangguang Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "https://www.cnrmall.com/tv"
+    },
+    {
+      "name": "Yantai Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yellow River TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmnH8KmoiM7VpHZAADiTPWbpFGl.jpg"
+    },
+    {
+      "name": "Yicai TV",
+      "isFree": true
+    },
+    {
+      "name": "Yichang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yichang Sanxia General Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIp4gIXogCjfB1QABNsWwa9gSca.jpg"
+    },
+    {
+      "name": "Yichang Sanxia Travel & Life Channel",
+      "isFree": true,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+    },
+    {
+      "name": "Yichun Law Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg",
+      "website": "http://www.yichuntv.com/wlzb/wlds/index.shtml"
+    },
+    {
+      "name": "Yuechi County TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "website": "https://www.gatv.com.cn/Tv/details?id=5"
+    },
+    {
+      "name": "Yueyang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://web.guangdianyun.tv/tv/1701"
+    },
+    {
+      "name": "Yulin 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://v.ylrb.com/index.php?r=live/view/1&m="
+    },
+    {
+      "name": "Yulin 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://v.ylrb.com/index.php?r=live/view/2&m="
+    },
+    {
+      "name": "Yuncheng Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.0359tv.com/"
+    },
+    {
+      "name": "Yunnan International Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+    },
+    {
+      "name": "Yunnan Lancang-Mekong International Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "website": "http://www.yntv.cn/"
+    },
+    {
+      "name": "Yunnan Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
+      "website": "http://www.yntv.cn/live.html"
+    },
+    {
+      "name": "Yunnan TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.yntv.cn/"
+    },
+    {
+      "name": "Yunnan TV Entertainment Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yunnan TV Life Information Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yunnan TV Metropolitan Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yunnan TV Public Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Zaozhuang Lifestyle & Education Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png"
+    },
+    {
+      "name": "Zaozhuang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Zhanjiang Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Zhejiang Digital Times Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    },
+    {
+      "name": "Zhejiang International Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png",
+      "website": "http://www.zjstv.com/"
+    },
+    {
+      "name": "Zhejiang Minsheng Leisure",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    },
+    {
+      "name": "Zhejiang Satellite TV",
+      "isFree": true,
+      "website": "http://www.zjstv.com/"
+    },
+    {
+      "name": "Zhoushan Islands Travel Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqhHIdI90EQfrKx3WGS13I6yjqb.jpg"
+    },
+    {
+      "name": "Zhoushan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Zhujiang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://zj.gdtv.cn/"
+    },
+    {
+      "name": "Zibo City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "https://www.cbbn.net/folder253/folder337?channel_id=41"
+    },
+    {
+      "name": "Zibo Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
+      "website": "https://www.cbbn.net/folder253/folder337?channel_id=9"
+    },
+    {
+      "name": "ZTV World",
+      "isFree": true
+    },
+    {
+      "name": "China Central Television",
+      "isFree": true
+    },
+    {
+      "name": "China Education Television",
+      "isFree": true
+    },
+    {
+      "name": "China Weather TV",
+      "isFree": true
+    },
+    {
+      "name": "China Global Television Network",
+      "isFree": true
+    },
+    {
+      "name": "Fantastic Television Limited",
+      "isFree": true
+    },
+    {
+      "name": "HK Television Entertainment",
+      "isFree": true
+    },
+    {
+      "name": "Radio Television Hong Kong",
+      "isFree": true
+    },
+    {
+      "name": "Television Broadcasts Limited",
+      "isFree": true
+    },
+    {
+      "name": "ViuTV",
+      "isFree": true
+    },
+    {
+      "name": "Animax",
+      "isFree": true
+    },
+    {
+      "name": "Fuji Television Network",
+      "isFree": true
+    },
+    {
+      "name": "J Sports",
+      "isFree": true
+    },
+    {
+      "name": "NHK",
+      "isFree": true
+    },
+    {
+      "name": "Nippon Television Network",
+      "isFree": true
+    },
+    {
+      "name": "Tokyo Broadcasting System",
+      "isFree": true
+    },
+    {
+      "name": "Tokyo MX",
+      "isFree": true
+    },
+    {
+      "name": "TV Asahi",
+      "isFree": true
+    },
+    {
+      "name": "TV Tokyo",
+      "isFree": true
+    },
+    {
+      "name": "Lotus TV Macau",
+      "isFree": true
+    },
+    {
+      "name": "Macau Asia Satellite Television",
+      "isFree": true
+    },
+    {
+      "name": "Teledifusão de Macau",
+      "isFree": true
+    },
+    {
+      "name": "Central Television (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "C1 Television",
+      "isFree": true
+    },
+    {
+      "name": "Channel 25 (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "Eagle TV",
+      "isFree": true
+    },
+    {
+      "name": "Edutainment TV",
+      "isFree": true
+    },
+    {
+      "name": "Mongol HD TV",
+      "isFree": true
+    },
+    {
+      "name": "Mongolian News Channel",
+      "isFree": true
+    },
+    {
+      "name": "NTV (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "Sportbox",
+      "isFree": true
+    },
+    {
+      "name": "Supervision Broadcasting Network",
+      "isFree": true
+    },
+    {
+      "name": "TM Television",
+      "isFree": true
+    },
+    {
+      "name": "TV5 (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "TV8 (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "TV9 (Mongolia)",
+      "isFree": true
+    },
+    {
+      "name": "Ulaanbaatar Broadcasting System",
+      "isFree": true
+    },
+    {
+      "name": "Korean Central Television",
+      "isFree": true
+    },
+    {
+      "name": "Mansudae Television",
+      "isFree": true
+    },
+    {
+      "name": "Educational Broadcasting System",
+      "isFree": true
+    },
+    {
+      "name": "Korean Broadcasting System",
+      "isFree": true
+    },
+    {
+      "name": "Munhwa Broadcasting Corporation",
+      "isFree": true
+    },
+    {
+      "name": "Seoul Broadcasting System",
+      "isFree": true
+    },
+    {
+      "name": "Formosa Television",
+      "isFree": true
+    },
+    {
+      "name": "China Television",
+      "isFree": true
+    },
+    {
+      "name": "Chinese Television System",
+      "isFree": true
+    },
+    {
+      "name": "Public Television Service",
+      "isFree": true
+    },
+    {
+      "name": "Taiwan Television",
+      "isFree": true
+    },
+    {
+      "name": "Lists of television channels",
+      "isFree": true
+    },
+    {
+      "name": "江苏卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏公共新闻 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏城市 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏靓妆 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏体育休闲 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏影视 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏综艺 CN",
+      "isFree": true
+    },
+    {
+      "name": "优漫卡通 CN",
+      "isFree": true
+    },
+    {
+      "name": "好享购物 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏国际 CN",
+      "isFree": true
+    },
+    {
+      "name": "江苏教育 CN",
+      "isFree": true
+    },
+    {
+      "name": "学习频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "东方卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "浙江卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "湖南卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "北京卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "珠海综合频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "珠海生活频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "广州竞赛频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "五星体育频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "天津体育频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "风云足球 CN",
+      "isFree": true
+    },
+    {
+      "name": "CGTN French CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 4 English CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 1 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 2 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 3 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 4 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 4 Europe CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 4 America Chinese CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 5 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 5+ CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 6 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 7 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 8 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 9 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 10 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 11 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 12 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 13 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 14 CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV 15 CN",
+      "isFree": true
+    },
+    {
+      "name": "CGTN English CN",
+      "isFree": true
+    },
+    {
+      "name": "CGTN Español CN",
+      "isFree": true
+    },
+    {
+      "name": "CGTN-Documentary En CN",
+      "isFree": true
+    },
+    {
+      "name": "CCTV-新闻 CN",
+      "isFree": true
+    },
+    {
+      "name": "Ten Cent CN",
+      "isFree": true
+    },
+    {
+      "name": "山西影视频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "山西卫视 CN",
+      "isFree": true
+    },
+    {
+      "name": "黄河电视台 CN",
+      "isFree": true
+    },
+    {
+      "name": "山西经济资讯频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "山西科教频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "山西公共频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "山西少儿频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "珠江频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "体育频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "公共频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "新闻频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "嘉佳卡通 CN",
+      "isFree": true
+    },
+    {
+      "name": "国际频道 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS1广东经济科教 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS2广东南方卫视-地面版 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS2广东南方卫视-上星版 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS3广东综艺 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS4广东影视 CN",
+      "isFree": true
+    },
+    {
+      "name": "TVS5广东少儿 CN",
+      "isFree": true
+    },
+    {
+      "name": "广东体育频道 CN",
+      "isFree": true
+    }
+  ],
+  "Sports": [
+    {
+      "name": "CCTV-5体育",
+      "isFree": false,
+      "priority": 9
+    },
+    {
+      "name": "BRTV Winter Olympics Documentary Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "CCTV-16",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv16/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-5",
+      "isFree": true,
+      "website": "https://www.cctv.com",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-5+",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv5plus/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Billiards",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Golf & Tennis",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Storm Football",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArMZkbKMc5upqbO1OEz2oi9LYrG.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "Dalian Culture and Sports Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png",
+      "website": "http://www.dltv.cn/"
+    },
+    {
+      "name": "Game Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UMdwCum.png"
+    },
+    {
+      "name": "GreatSports Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "GTV Electronic Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/GTV.png"
+    },
+    {
+      "name": "Guangdong Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "http://www.gdtv.cn/"
+    },
+    {
+      "name": "Inner Mongolia Football TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnZAp5ZmVbPa6arsQ8VmY02QYli.jpg"
+    },
+    {
+      "name": "Jiangsu Sports & Leisure Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jilin Basketball Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "website": "http://www.jilintv.cn/"
+    },
+    {
+      "name": "Shandong TV Sports Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi Sports & Leisure Channel",
+      "isFree": true,
+      "website": "http://www.sxtvs.com/sxtvs_tyxxpd/"
+    },
+    {
+      "name": "SMG Football Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BaBr5fM.png"
+    },
+    {
+      "name": "Star Sports",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://global.espn.com/"
+    },
+    {
+      "name": "ST Sports 1",
+      "isFree": true,
+      "website": "http://starsat.co.za/channel/st-sports-1/"
+    },
+    {
+      "name": "ST Sports 2",
+      "isFree": true,
+      "website": "http://starsat.co.za/channel/st-sports-2/"
+    },
+    {
+      "name": "ST Sports 3",
+      "isFree": true,
+      "website": "http://starsat.co.za/channel/st-sports-3/"
+    },
+    {
+      "name": "ST Sports Arena",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Sports Focus",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Sports Life",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Sports Premium",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST World Football",
+      "isFree": true,
+      "website": "https://www.startimestv.com/channeldetail/649.html"
+    }
+  ],
+  "News": [
+    {
+      "name": "CCTV-13新闻",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "priority": 9
+    },
+    {
+      "name": "CGTN",
+      "isFree": true,
+      "keywords": "cgtn -arabic -documentary -english -espanol -francais",
+      "website": "https://www.cgtn.com",
+      "priority": 10
+    },
+    {
+      "name": "CGTN Arabic",
+      "isFree": true,
+      "logo": "https://i.imgur.com/AkFFrS7.png",
+      "priority": 9
+    },
+    {
+      "name": "CGTN English",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cgtn.png",
+      "priority": 9
+    },
+    {
+      "name": "CGTN Español",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/20/large/20220520002125587039_56.jpg",
+      "priority": 9
+    },
+    {
+      "name": "三立新聞",
+      "isFree": true
+    },
+    {
+      "name": "中国气象",
+      "isFree": true
+    },
+    {
+      "name": "北京紀實",
+      "isFree": true
+    },
+    {
+      "name": "Anshun Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.gzastv.com/live/live.shtml"
+    },
+    {
+      "name": "BRTV Financial Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BRTV News Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BSTV-1",
+      "isFree": true,
+      "website": "http://www.bsrtv.cn/zb/dszb/index.shtml"
+    },
+    {
+      "name": "CCTV-13",
+      "isFree": true,
+      "shortName": "CCTV News",
+      "website": "https://www.cctv.com",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-2",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv2/",
+      "priority": 9
+    },
+    {
+      "name": "CDTV 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "https://www.cditv.cn/show-192-1-1.html"
+    },
+    {
+      "name": "CDTV 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "http://www.cditv.cn/show-192-2-1.html"
+    },
+    {
+      "name": "CGTN French",
+      "isFree": true,
+      "website": "https://francais.cgtn.com/",
+      "priority": 9
+    },
+    {
+      "name": "CGTN Russian",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nDWkCmL.png",
+      "website": "https://russian.cgtn.com/",
+      "priority": 9
+    },
+    {
+      "name": "CGTN Spanish",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Poz3xfi.png",
+      "website": "https://espanol.cgtn.com/",
+      "priority": 9
+    },
+    {
+      "name": "Changsha News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://live.mgtv.com/?channelId=269"
+    },
+    {
+      "name": "Chenzou News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.ngcz.tv/folder83/folder86"
+    },
+    {
+      "name": "Chifeng Comprehensive News Chanel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+      "website": "http://www.cfrtv.cn/folder67/folder87/"
+    },
+    {
+      "name": "China Weather Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "website": "http://www.weathertv.cn/"
+    },
+    {
+      "name": "Chuxiong News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.cxtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11"
+    },
+    {
+      "name": "Chuzhou News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.cztv.cc/Live/index?liveid=1"
+    },
+    {
+      "name": "CNC World",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "http://en.cncnews.cn/"
+    },
+    {
+      "name": "Dalian Business Channel",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "http://www.dltv.cn/"
+    },
+    {
+      "name": "Dalian Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.dltv.cn/live/kds_news.shtml"
+    },
+    {
+      "name": "Dazhou News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.dzxw.net/cms/tv/13560916?"
+    },
+    {
+      "name": "Deyang News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://zb.scdytv.com/?name=xwpd"
+    },
+    {
+      "name": "Dezhou Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.dztv.tv/"
+    },
+    {
+      "name": "Dianzhang Finance Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylUON8YA2qDS0QlQGUHdKtWm2OT.jpg"
+    },
+    {
+      "name": "Dongguan Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://dgrtv.sun0769.com/index.php/online2/4"
+    },
+    {
+      "name": "Fujian Economic Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/jspd/"
+    },
+    {
+      "name": "Fujian News Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/xwpd/"
+    },
+    {
+      "name": "Guangan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.gatv.com.cn/Tv/details?id=10"
+    },
+    {
+      "name": "Guangdong News Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangxi International Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+    },
+    {
+      "name": "Guangyuan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.dzsm.com/showchannel.asp?id=1015"
+    },
+    {
+      "name": "Haikou Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.hkbtv.cn/"
+    },
+    {
+      "name": "Haikou Urban & Rural Economic Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBmON7qbru3VvV6AaorgtXhMmF.jpg",
+      "website": "http://www.hkbtv.cn/"
+    },
+    {
+      "name": "Hainan Free Trade Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+      "website": "http://www.hnntv.cn/live/zhlive/"
+    },
+    {
+      "name": "Hainan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.hnntv.cn/live/xwlive/"
+    },
+    {
+      "name": "Handan Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.hdbs.cn/live/index2.shtml"
+    },
+    {
+      "name": "Harbin Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "website": "https://www.hrbtv.net/folder79/folder81/"
+    },
+    {
+      "name": "Hebi News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Henan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Henan People's Livelihood Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Henan Rural News Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/RURALE.png"
+    },
+    {
+      "name": "Hengshui Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Heze News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.hznet.tv/live/"
+    },
+    {
+      "name": "Huaian Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://glive.habctv.com/tv/803?uin=1610"
+    },
+    {
+      "name": "Huangshi Integrated Media Live",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Huangshi News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://web.guangdianyun.tv/tv/3031?uin=3065"
+    },
+    {
+      "name": "Hubei Comprehensive News Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hubei Economy Channel",
+      "isFree": true
+    },
+    {
+      "name": "Huizhou TV News Integrated Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Hunan News Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/"
+    },
+    {
+      "name": "Jiangxi Economy & Life Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv3.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv3.shtml"
+    },
+    {
+      "name": "Jiangxi News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+      "website": "http://www.jxntv.cn/live/#/jxtv7"
+    },
+    {
+      "name": "Jiaxing Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Jinan Business Channel",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "http://jntv.ijntv.cn/business/"
+    },
+    {
+      "name": "Jinan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://jntv.ijntv.cn/news/"
+    },
+    {
+      "name": "Jingmen Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.jmtv.com.cn/folder48/folder50"
+    },
+    {
+      "name": "Jinzhong News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Jiujiang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.jjntv.cn/video/"
+    },
+    {
+      "name": "Jiujiang Technology & Law Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.jjntv.cn/video/?id=2"
+    },
+    {
+      "name": "Jiuquan TV News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "K1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png"
+    },
+    {
+      "name": "K2",
+      "isFree": true
+    },
+    {
+      "name": "Langfang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.lfnrtv.com/show-66-45-1.html"
+    },
+    {
+      "name": "Lanzhou Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.lztv.tv/folder25/folder26/folder28/"
+    },
+    {
+      "name": "Lijiang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.lijiangtv.com/live/"
+    },
+    {
+      "name": "Luzhou News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.luzhoubs.com/lztv1/index.html"
+    },
+    {
+      "name": "Luzhou Public & Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.luzhoubs.com/lztv2/index.html"
+    },
+    {
+      "name": "LYTV-1",
+      "isFree": true,
+      "website": "http://www.lytv.com.cn/dist/index.html"
+    },
+    {
+      "name": "LYTV-4",
+      "isFree": true,
+      "website": "http://www.lytv.com.cn/dist/index.html"
+    },
+    {
+      "name": "Nanchang Information Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+      "website": "https://www.nctv.net.cn/"
+    },
+    {
+      "name": "Nanjing Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "Nanjing Information Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/MALAYSIA.png",
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "Nanning Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.nntv.cn/live/nntv_xw/"
+    },
+    {
+      "name": "Nanyang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "NBTV 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml"
+    },
+    {
+      "name": "Nei Monggol TV Economic & Life Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Nei Monggol TV News Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Ningxia Economic Channel",
+      "isFree": true,
+      "website": "http://www.nxtv.com.cn/tv/jj/"
+    },
+    {
+      "name": "Oriental Financial",
+      "isFree": true,
+      "website": "https://www.yicai.com/"
+    },
+    {
+      "name": "Panzihihua News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/panzhihua.jpg",
+      "website": "https://www.pzhgd.com/Live/index?liveid=1"
+    },
+    {
+      "name": "Pingxiang TV News Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "QTV-1",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv1.jpg"
+    },
+    {
+      "name": "Real Estate Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "ShaghaiEye",
+      "isFree": true,
+      "website": "https://www.shanghaieye.cn/"
+    },
+    {
+      "name": "Shandong TV News Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi Economic Information Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi News & Information Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.sxtvs.com/sxtvs_xwzxpd/"
+    },
+    {
+      "name": "Shaoxing News Integrated Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Shijiazhuang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Shuozhou News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Sichuan Economic Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "https://www.sctv.com/watchTV"
+    },
+    {
+      "name": "Sichuan News Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "http://www.sctv.com/watchTV"
+    },
+    {
+      "name": "STV News and General",
+      "isFree": true,
+      "website": "https://www.kankanews.com/stv"
+    },
+    {
+      "name": "Tangshan Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "TATV-1",
+      "isFree": true
+    },
+    {
+      "name": "Tonghua TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/thtv1.jpg"
+    },
+    {
+      "name": "TVS 1 Economic & Science",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/49"
+    },
+    {
+      "name": "Weihai Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/weihaitv1.jpg",
+      "website": "http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html"
+    },
+    {
+      "name": "Weinan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.wntvs.com/"
+    },
+    {
+      "name": "Wenshan News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Wenzhou News Integrated Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "WFTV-1",
+      "isFree": true
+    },
+    {
+      "name": "World Economy Channel",
+      "isFree": true
+    },
+    {
+      "name": "Wuzhou Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Xi'an Business Information Channel",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png"
+    },
+    {
+      "name": "Xiangtan Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.hnxttv.com/live/2015-11/23/cms60580article.shtml"
+    },
+    {
+      "name": "Xiangyang News & General Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Xi'an News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://v.xiancity.cn/folder8/folder39/folder29/"
+    },
+    {
+      "name": "Xingtai Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Xinhua News TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.xinhuanet.com/"
+    },
+    {
+      "name": "Xining News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.xntv.tv/xnxwpd"
+    },
+    {
+      "name": "Xuzhou Economic Life Channel",
+      "isFree": true
+    },
+    {
+      "name": "Xuzhou News Integrated Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Yan'an News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Yancheng 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.0515yc.cn/tvlook/"
+    },
+    {
+      "name": "Yantai Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg"
+    },
+    {
+      "name": "Yichun Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.yichuntv.com/wlzb/wlds/index.shtml"
+    },
+    {
+      "name": "Yiwu Business Channel",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png"
+    },
+    {
+      "name": "Yiwu News Integrated Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Yueyang News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://web.guangdianyun.tv/tv/1699"
+    },
+    {
+      "name": "Yuncheng Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.0359tv.com/"
+    },
+    {
+      "name": "Zaozhuang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "http://www.lncm.cn/zhibo/list.php?catid=63"
+    },
+    {
+      "name": "Zhanjiang Comprehensive News Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "website": "https://www.gdtv.cn/live/zjzh/"
+    },
+    {
+      "name": "Zhejiang Economic Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    },
+    {
+      "name": "Zhoushan News Comprehensive Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Zibo News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.cbbn.net/folder253/folder337?channel_id=5"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Peace TV Chinese",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg"
+    },
+    {
+      "name": "Ando TV",
+      "isFree": true,
+      "website": "http://www.qhtb.cn/"
+    },
+    {
+      "name": "Hope TV Chinese",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "http://www.chinesehope.tv/"
+    },
+    {
+      "name": "ST Gospel",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "北京卡酷少儿",
+      "isFree": true
+    },
+    {
+      "name": "哈哈炫动卫视",
+      "isFree": true
+    },
+    {
+      "name": "嘉佳卡通",
+      "isFree": true
+    },
+    {
+      "name": "炫动卡通",
+      "isFree": true
+    },
+    {
+      "name": "福州少儿",
+      "isFree": true
+    },
+    {
+      "name": "18 Channel",
+      "isFree": true,
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "Animation Show Channel",
+      "isFree": true
+    },
+    {
+      "name": "BRTV Kaku Childrens Channel",
+      "isFree": true,
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "CCTV-14",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv14/",
+      "priority": 9
+    },
+    {
+      "name": "CDTV 6",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "http://www.cditv.cn/show-192-6-1.html"
+    },
+    {
+      "name": "CND Film Shinco Animation Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.cndfilm.com/"
+    },
+    {
+      "name": "Dalian Children's Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.dltv.cn/"
+    },
+    {
+      "name": "Fujian Children's Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/sepd/"
+    },
+    {
+      "name": "Fuzhou Children's Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.zohi.tv/app/tv/109"
+    },
+    {
+      "name": "Golden Eagle Cartoon",
+      "isFree": true,
+      "website": "https://www.maijimaiji.cn/"
+    },
+    {
+      "name": "Guangdong Children's Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Hainan Children's Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.hnntv.cn/live/qslive/"
+    },
+    {
+      "name": "JiaJia Cartoon",
+      "isFree": true,
+      "website": "http://cartoon.gdtv.cn/"
+    },
+    {
+      "name": "Jiangxi Children's Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv6.shtml"
+    },
+    {
+      "name": "Jinan Childrens Channel",
+      "isFree": true
+    },
+    {
+      "name": "Nanjing Children's Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "NBTV 5",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV5/index.shtml"
+    },
+    {
+      "name": "Nei Monggol TV Children Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "New Anime Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "Ningxia Children's Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.nxtv.com.cn/tv/se/"
+    },
+    {
+      "name": "Shandong TV Children's Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi City & Youth Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "http://www.sxtvs.com/sxtvs_dsqcpd/"
+    },
+    {
+      "name": "ST Kids",
+      "isFree": true,
+      "website": "http://starsat.co.za/channel/st-kids/"
+    },
+    {
+      "name": "Toonmax TV",
+      "isFree": true,
+      "website": "http://www.toonmax.com/"
+    },
+    {
+      "name": "You Man Cartoon Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg"
+    },
+    {
+      "name": "Zhejiang Children's Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "CCTV-6电影",
+      "isFree": false,
+      "priority": 9
+    },
+    {
+      "name": "Sichuan Movie Channel",
+      "isFree": false,
+      "shortName": "SMC",
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png"
+    },
+    {
+      "name": "Anhui Film and Video Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "BRTV Film & Television Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "CCTV-6",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv6/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Nostalgia Theater",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFetDjFJyNtWgZixgp9PbXcaMJG.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Storm Theater",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFetDjFJyNtWgZixgp9PbXcaMJG.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-The First Theater",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CDTV 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "http://www.cditv.cn/show-192-45-1.html"
+    },
+    {
+      "name": "CHC Action",
+      "isFree": true
+    },
+    {
+      "name": "CHC Fans Movie Channel",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png",
+      "website": "https://www.chc2004.cn/catid/74"
+    },
+    {
+      "name": "Chifeng Movie & Entertainment Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+      "website": "http://www.cfrtv.cn/folder67/folder86/"
+    },
+    {
+      "name": "China Movie Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "website": "https://www.1905.com/cmc/"
+    },
+    {
+      "name": "CND Film Middle School Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+    },
+    {
+      "name": "CND Film Old Story Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.cndfilm.com/"
+    },
+    {
+      "name": "Dalian Movie Channel",
+      "isFree": true,
+      "website": "http://www.dltv.cn/"
+    },
+    {
+      "name": "DOX Cinema",
+      "isFree": true
+    },
+    {
+      "name": "DOX Movies",
+      "isFree": true
+    },
+    {
+      "name": "Fuzhou Movie & Drama Channel",
+      "isFree": true,
+      "website": "http://www.zohi.tv/app/tv/109"
+    },
+    {
+      "name": "Guangdong Drama Movie Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangxi Film and Video Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+    },
+    {
+      "name": "Guizhou Movies & Entertainment Channel",
+      "isFree": true,
+      "website": "https://www.gzstv.com/tv/ch03"
+    },
+    {
+      "name": "Harbin Movie Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "website": "https://www.hrbtv.net/folder79/folder87/"
+    },
+    {
+      "name": "Hengshui Movie & Entertainment Channel",
+      "isFree": true
+    },
+    {
+      "name": "Jiangsu Movie Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangxi Movie Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jiangxi.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv4.shtml"
+    },
+    {
+      "name": "Jilin Movie Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+      "website": "https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=12"
+    },
+    {
+      "name": "Jinan Movie Channel",
+      "isFree": true,
+      "website": "http://jntv.ijntv.cn/movie/"
+    },
+    {
+      "name": "K5",
+      "isFree": true
+    },
+    {
+      "name": "Nanning Movie & Entertainment Channel",
+      "isFree": true,
+      "website": "http://www.nntv.cn/live/nntv_ys/"
+    },
+    {
+      "name": "NBTV 4",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml"
+    },
+    {
+      "name": "QTV-3",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg"
+    },
+    {
+      "name": "Shandong TV Movie and Video Channel",
+      "isFree": true
+    },
+    {
+      "name": "Shanxi Film and Video Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+    },
+    {
+      "name": "Shanxi Movie Channel",
+      "isFree": true,
+      "website": "http://www.sxtvs.com/sxtvs_yspd/"
+    },
+    {
+      "name": "Shaoxing Culture Film Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+    },
+    {
+      "name": "Sichuan Movies & Entertainment",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4a1bf7911615edca8718205608f6afd0.png",
+      "website": "http://www.sctv.com/watchTV"
+    },
+    {
+      "name": "ST Bollywood",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Movies Plus",
+      "isFree": true,
+      "website": "http://starsat.co.za/st-movies-plus/"
+    },
+    {
+      "name": "ST Novela E",
+      "isFree": true,
+      "keywords": "st novela e -plus",
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Novela E Plus",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "ST Novela F1",
+      "isFree": true,
+      "website": "https://www.startimestv.com/"
+    },
+    {
+      "name": "ST Novela F Plus",
+      "isFree": true,
+      "website": "http://www.startimestv.com/channeldetail/698.html"
+    },
+    {
+      "name": "ST Novela P",
+      "isFree": true
+    },
+    {
+      "name": "ST Sino Drama",
+      "isFree": true,
+      "website": "http://starsat.co.za/"
+    },
+    {
+      "name": "Tangshan Culture & Movie Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+    },
+    {
+      "name": "Wanzhou Movies Dramas and Entertainment Channel",
+      "isFree": true,
+      "website": "http://www.wzbtv.cn/2016/html/tv.shtml"
+    },
+    {
+      "name": "WFTV-3",
+      "isFree": true
+    },
+    {
+      "name": "Xi'an Cultural Film and Video Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png"
+    },
+    {
+      "name": "Yantai Movie Channel",
+      "isFree": true
+    },
+    {
+      "name": "Zhejiang Film Entertainment Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "CCTV-10科教",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-9纪录",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CGTN Documentary",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png",
+      "priority": 9
+    },
+    {
+      "name": "Anhui Science and Education Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "BRTV Arts Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3835.png",
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "BRTV Science & Education Channel",
+      "isFree": true,
+      "website": "https://www.brtn.cn/btv/"
+    },
+    {
+      "name": "CCTV-10",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv10/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-7",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv7/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-8",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv8/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-9",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv9/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Weapon & Technology",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-World Geography",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CDTV 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "http://www.cditv.cn/show-192-3-1.html"
+    },
+    {
+      "name": "CETV-1",
+      "isFree": true,
+      "website": "http://www.centv.cn/"
+    },
+    {
+      "name": "CETV-2",
+      "isFree": true,
+      "website": "http://www.centv.cn/"
+    },
+    {
+      "name": "CETV-3",
+      "isFree": true,
+      "website": "http://www.centv.cn/"
+    },
+    {
+      "name": "CETV-4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/a1N6wB7.png",
+      "website": "http://www.centv.cn/"
+    },
+    {
+      "name": "CETV-Early Education",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "website": "http://www.centv.cn/"
+    },
+    {
+      "name": "Channel Law",
+      "isFree": true,
+      "website": "http://www.sitv.com.cn/"
+    },
+    {
+      "name": "Chuzhou Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+      "website": "http://www.cztv.cc/Live/index?liveid=3"
+    },
+    {
+      "name": "CND Film Discovery Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.cndfilm.com/",
+      "priority": 9
+    },
+    {
+      "name": "Dazhou Culture & Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png",
+      "website": "https://www.dzxw.net/cms/tv/13560089?"
+    },
+    {
+      "name": "DOX New Art",
+      "isFree": true
+    },
+    {
+      "name": "DOX New Knowledge",
+      "isFree": true
+    },
+    {
+      "name": "Ecology & Environment TV",
+      "isFree": true
+    },
+    {
+      "name": "Fujian Culture & Sports Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/FUJTV-logo.png",
+      "website": "http://live.fjtv.net/typd/"
+    },
+    {
+      "name": "Golden Eagle Documentary",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg",
+      "website": "https://w.mgtv.com/"
+    },
+    {
+      "name": "GRTN Cultural Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangdong Economy Science and Education Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Guangdong Modern Education",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/13"
+    },
+    {
+      "name": "Guoxue Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Hainan Culture & Travel Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png",
+      "website": "http://www.hnntv.cn/live/yslive/"
+    },
+    {
+      "name": "Henan Law Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg"
+    },
+    {
+      "name": "Hubei Education Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hunan International Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "website": "https://live.mgtv.com/"
+    },
+    {
+      "name": "Huzhou Culture Entertainment Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+    },
+    {
+      "name": "Jiangsu Educational Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Jiangxi Ceramic Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv10.shtml"
+    },
+    {
+      "name": "Jiaxing Culture & Movie Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+    },
+    {
+      "name": "Jinan Life Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://jntv.ijntv.cn/life/"
+    },
+    {
+      "name": "Jinan Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+    },
+    {
+      "name": "Jingmen Education Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "website": "http://www.jmtv.com.cn/folder48/folder50"
+    },
+    {
+      "name": "K3",
+      "isFree": true
+    },
+    {
+      "name": "Lanzhou Culture & Tourism Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png",
+      "website": "https://www.lztv.tv/folder25/folder26/folder30/"
+    },
+    {
+      "name": "Linyi Agriculture & Science Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/44bed07c8abcb9decd73fb1d26fd3265.png",
+      "website": "https://web.guangdianyun.tv/tv/?id=1244&uin=1813"
+    },
+    {
+      "name": "Luzhou Sci-Tech & Education Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "website": "http://www.luzhoubs.com/lztv3/index.html"
+    },
+    {
+      "name": "LYTV-3",
+      "isFree": true,
+      "website": "http://www.lytv.com.cn/dist/index.html"
+    },
+    {
+      "name": "Modern Education Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smggAeGHRjKy85h6BzF0eTeDrFW.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Nanchong Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+    },
+    {
+      "name": "Nanjing Education & Sci-Tech Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "website": "http://www.nbs.cn/live/"
+    },
+    {
+      "name": "Nanyang Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+    },
+    {
+      "name": "NBTV 6",
+      "isFree": true,
+      "website": "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV6/index.shtml"
+    },
+    {
+      "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Nei Monggol TV Agriculture & Animal Channel",
+      "isFree": true,
+      "website": "http://www.nmtv.cn/"
+    },
+    {
+      "name": "Newsreel Documentary",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTGgogxNBUsxrytbZFwBqMqvEX.jpg",
+      "website": "http://www.cndfilm.com/"
+    },
+    {
+      "name": "Rizhao Science Education and Life Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+    },
+    {
+      "name": "Shandong Education TV",
+      "isFree": true,
+      "website": "http://www.iqilu.com/"
+    },
+    {
+      "name": "Shanghai Education Television Station",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+      "website": "https://www.setv.sh.cn/#/tvshow"
+    },
+    {
+      "name": "Shanxi Agriculture & Forestry Satellite TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxgg.jpg",
+      "website": "http://www.sxtvs.com/sxtvs_nlws/"
+    },
+    {
+      "name": "Shanxi Science and Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+    },
+    {
+      "name": "TATV-3",
+      "isFree": true
+    },
+    {
+      "name": "Tongchuan Educational Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/MALAYSIA.png",
+      "website": "https://www.dzxw.net/cms/tv/13559838?"
+    },
+    {
+      "name": "Weinan Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.wntvs.com/"
+    },
+    {
+      "name": "Weinan Public Education Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.wntvs.com/"
+    },
+    {
+      "name": "WFTV-4",
+      "isFree": true
+    },
+    {
+      "name": "Wuzhou Education & Lifestyle Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg"
+    },
+    {
+      "name": "Xi'an City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "website": "http://v.xiancity.cn/folder8/folder39/folder30/"
+    },
+    {
+      "name": "Xiangyang Culture & Education Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+    },
+    {
+      "name": "Xuchang Agriculture Science and Education Channel",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/jxgg.jpg"
+    },
+    {
+      "name": "Yantai Economy Science & Technology Channel",
+      "isFree": true,
+      "website": "http://www.yantaitv.cn/"
+    },
+    {
+      "name": "Yiwu Public & Culture Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yueyang Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+      "website": "https://web.guangdianyun.tv/tv/1700"
+    },
+    {
+      "name": "Zhejiang Education Technology Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png"
+    },
+    {
+      "name": "Zibo Science & Education Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+      "website": "https://www.cbbn.net/folder253/folder337?channel_id=39"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "CCTV-15音乐",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "CCTV-11",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv11/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-15",
+      "isFree": true,
+      "website": "http://tv.cctv.com/cctv15/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Opera",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "CCTV-Storm Music",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "Channel V China",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.vchinese.com/"
+    },
+    {
+      "name": "Guangdong Lingnan Opera",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/15"
+    },
+    {
+      "name": "Lingnan Opera Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "ST Kasi Music",
+      "isFree": true,
+      "website": "https://starsat.co.za/channel/st-kasi-music/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Anhui Jiajia Shopping Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "website": "http://www.ahtv.cn/"
+    },
+    {
+      "name": "CCTV-China Television Shopping Channel",
+      "isFree": true,
+      "website": "http://tv.cctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "Chongqing Fashion Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
+    },
+    {
+      "name": "Collectibles Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4141c9c82a5d2cf4ced3e819210c427f.png"
+    },
+    {
+      "name": "Excellent Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PGKekbYuushvovzHCEl4X51sfl.jpg",
+      "website": "http://www.17ugo.com/"
+    },
+    {
+      "name": "Fengshang Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "http://www.jxntv.cn/live/jxtv9.shtml"
+    },
+    {
+      "name": "Global Home Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "http://www.globalgo.com.cn/"
+    },
+    {
+      "name": "Guangdong Real Estate",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "website": "https://www.gdtv.cn/tvChannelDetail/67"
+    },
+    {
+      "name": "Haoxiang Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "http://live.jstv.com/"
+    },
+    {
+      "name": "Happigo Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.happigo.com/"
+    },
+    {
+      "name": "Happy Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg"
+    },
+    {
+      "name": "Hubei Shopping Channel",
+      "isFree": true
+    },
+    {
+      "name": "Hunan Happigo",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png"
+    },
+    {
+      "name": "Jia You Home Shopping",
+      "isFree": true,
+      "website": "http://www.jiayougo.com/"
+    },
+    {
+      "name": "Kualie Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "https://live.mgtv.com/"
+    },
+    {
+      "name": "Lesigou Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Oriental CJ Shopping 11",
+      "isFree": true,
+      "website": "http://www.ocj.com.cn/"
+    },
+    {
+      "name": "Oriental CJ Shopping 12",
+      "isFree": true,
+      "website": "https://www.ocj.com.cn/tv.html#/TVIndex"
+    },
+    {
+      "name": "Shandong Home Shopping Channel",
+      "isFree": true,
+      "website": "http://v.iqilu.com/"
+    },
+    {
+      "name": "Shopping In The South",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/42"
+    },
+    {
+      "name": "Southern Shopping Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S0w1oII4PQHMnLb4L4aB3Ij4ip.jpg",
+      "website": "https://www.gdtv.cn/tvChannelDetail/43"
+    },
+    {
+      "name": "Ugo Shop TV",
+      "isFree": true,
+      "logo": "https://www.tvchinese.net/uploads/tv/yougouwu.jpg",
+      "website": "https://www.huimai.com.cn/tvList/"
+    }
+  ]
+}

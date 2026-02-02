@@ -1,0 +1,541 @@
+{
+  "Entertainment": [
+    {
+      "name": "One",
+      "isFree": true
+    },
+    {
+      "name": "Smash TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZKF0fG3.png"
+    },
+    {
+      "name": "TVM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png"
+    },
+    {
+      "name": "FLiving Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/MALTA/F-LIVING.png",
+      "website": "https://fliving.tv/"
+    },
+    {
+      "name": "Melita More",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
+      "website": "https://www.melita.com/"
+    },
+    {
+      "name": "NET",
+      "isFree": true,
+      "website": "https://netondemand.mt/"
+    },
+    {
+      "name": "Parliament of Malta",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png",
+      "website": "http://www.parlament.mt/"
+    },
+    {
+      "name": "TSN1",
+      "isFree": true,
+      "logo": "https://i.ibb.co/MyTbNgYX/TSN1.png"
+    },
+    {
+      "name": "TSN2",
+      "isFree": true,
+      "logo": "https://i.ibb.co/fzHfwF5j/TSN2.png"
+    },
+    {
+      "name": "TSN3",
+      "isFree": true,
+      "logo": "https://i.ibb.co/0RMWTVX5/TSN3.png"
+    },
+    {
+      "name": "TSN4",
+      "isFree": true,
+      "logo": "https://i.ibb.co/jZgYf8yP/TSN4.png"
+    },
+    {
+      "name": "TSN5",
+      "isFree": true,
+      "logo": "https://i.ibb.co/gZMsLrtP/TSN5.png"
+    },
+    {
+      "name": "TSN6",
+      "isFree": true
+    },
+    {
+      "name": "TSN7",
+      "isFree": true
+    },
+    {
+      "name": "TSN8",
+      "isFree": true
+    },
+    {
+      "name": "TVM (Malta)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png"
+    },
+    {
+      "name": "TVM+",
+      "isFree": null
+    },
+    {
+      "name": "TVMSport+",
+      "isFree": null
+    },
+    {
+      "name": "Parliament TV (Malta)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png"
+    },
+    {
+      "name": "NET Television (Malta)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "One (Maltese TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "F Living",
+      "isFree": null
+    },
+    {
+      "name": "Smash Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b40wGsw0ewvZ9UQ4g7Nd9DGEQD.jpg"
+    },
+    {
+      "name": "Promotion Channel",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Weather and Info Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQilVzOxLPxvBn9hAuvGpKTpONM.jpg"
+    },
+    {
+      "name": "Melita Sports 1",
+      "isFree": null,
+      "keywords": "melita sports 1 -hd"
+    },
+    {
+      "name": "Melita Sports 2",
+      "isFree": null,
+      "keywords": "melita sports 2 -hd"
+    },
+    {
+      "name": "Melita Sports 3",
+      "isFree": null
+    },
+    {
+      "name": "Melita Sports 4",
+      "isFree": null
+    },
+    {
+      "name": "Melita Sports 1 HD",
+      "isFree": null
+    },
+    {
+      "name": "Melita Sports 2 HD",
+      "isFree": null
+    },
+    {
+      "name": "Melita More HD",
+      "isFree": null,
+      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png"
+    },
+    {
+      "name": "GO Weather and Info Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Stars",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 1",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 2",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 3",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 4",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 5",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "GO Sports 6",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg"
+    },
+    {
+      "name": "Live Casino TV",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "BabyTV",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/BABYTV-1.png"
+    },
+    {
+      "name": "BBC First",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2019/03/04/large/20190304000008060329_57.png",
+      "priority": 10
+    },
+    {
+      "name": "BBC News (international TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "Boomerang (British and Irish TV channel)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
+    },
+    {
+      "name": "Cartoon Network (British and Irish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+    },
+    {
+      "name": "Club MTV (European TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+    },
+    {
+      "name": "CNBC Europe",
+      "isFree": null,
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"
+    },
+    {
+      "name": "CNN International",
+      "isFree": null,
+      "logo": "https://i.imgur.com/05S3yYZ.png",
+      "priority": 10
+    },
+    {
+      "name": "CBS Reality",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Discovery Channel Europe",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney Channel (European, Middle Eastern and African TV channel)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "E!",
+      "isFree": null
+    },
+    {
+      "name": "Euronews",
+      "isFree": null,
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "priority": 10
+    },
+    {
+      "name": "Eurosport",
+      "isFree": null,
+      "keywords": "eurosport -2",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png"
+    },
+    {
+      "name": "Eurosport 2",
+      "isFree": null,
+      "logo": "https://i.imgur.com/Q3WjH1Q.png"
+    },
+    {
+      "name": "FashionTV",
+      "isFree": null
+    },
+    {
+      "name": "Food Network",
+      "isFree": null
+    },
+    {
+      "name": "FX (Greek TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png"
+    },
+    {
+      "name": "FX Life (Greek TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png"
+    },
+    {
+      "name": "Great! Movies",
+      "isFree": null
+    },
+    {
+      "name": "Great! Romance",
+      "isFree": null
+    },
+    {
+      "name": "Great! TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "HGTV (British and Irish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/germany/HGTV.png"
+    },
+    {
+      "name": "ITV Choice",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/itvquiz.png"
+    },
+    {
+      "name": "ITV News",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/itvquiz.png"
+    },
+    {
+      "name": "MGM (TV channel)",
+      "isFree": null,
+      "logo": "https://i.imgur.com/FRbtrxo.png"
+    },
+    {
+      "name": "Movies4Men",
+      "isFree": null
+    },
+    {
+      "name": "MTV 00s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV Global",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "National Geographic (British and Irish TV channel)",
+      "isFree": null,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "priority": 9
+    },
+    {
+      "name": "Nickelodeon Global",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
+    },
+    {
+      "name": "Sky News",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",
+      "priority": 10
+    },
+    {
+      "name": "TLC (British and Irish TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "Travel Channel International",
+      "isFree": null,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+    },
+    {
+      "name": "VH1 Classic (European TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "Daystar Television Network",
+      "isFree": null,
+      "logo": "https://go4.pw/CARIBBIEAN/_DAYSTAR.png"
+    },
+    {
+      "name": "EWTN",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 10
+    },
+    {
+      "name": "GOD TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg"
+    },
+    {
+      "name": "Rai 1",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813045644655731_74.png"
+    },
+    {
+      "name": "Rai 2",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai 3",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813050016777983_50.png"
+    },
+    {
+      "name": "Rai 4",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai 5",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai YoYo",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai Gulp",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai News24",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Rai Premium",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Italia 1",
+      "isFree": null
+    },
+    {
+      "name": "Rete 4",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"
+    },
+    {
+      "name": "Canale 5",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png"
+    },
+    {
+      "name": "La7",
+      "isFree": null,
+      "logo": "https://i.imgur.com/F90mpSa.png"
+    },
+    {
+      "name": "TV2000",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/ITALY/TV2000.png"
+    },
+    {
+      "name": "Boing (Italy)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/ITALY/boing.png"
+    },
+    {
+      "name": "La 7d",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Mediaset",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/ITALY/mediaset20.png"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "ITV Shopping",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://www.itv.com.mt/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Med.TV",
+      "isFree": true,
+      "website": "https://med.tv/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "priority": 9
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Tokis",
+      "isFree": true,
+      "website": "https://www.go.com.mt/tv/tokis/"
+    }
+  ],
+  "News": [
+    {
+      "name": "TVMnews+",
+      "isFree": true,
+      "website": "https://tvmi.mt/live/3"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "TVMsport+",
+      "isFree": true,
+      "website": "https://tvmi.mt/live/4"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "UTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png",
+      "website": "https://utv.mt/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Xejk",
+      "isFree": true,
+      "logo": "https://go4.pw/MALTA/xejk.png",
+      "website": "http://www.xejkmalta.com/"
+    }
+  ]
+}

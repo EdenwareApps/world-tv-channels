@@ -1,0 +1,200 @@
+{
+  "Entertainment": [
+    {
+      "name": "Chamber TV",
+      "isFree": true
+    },
+    {
+      "name": "RTL",
+      "isFree": true,
+      "keywords": "rtl -2 tele letzeburg -tele letzeburg",
+      "logo": "https://i.imgur.com/94K94k2.png"
+    },
+    {
+      "name": "RTL 2 Tele Letzeburg",
+      "isFree": true,
+      "shortName": "R2TL"
+    },
+    {
+      "name": "RTL Tele Letzeburg",
+      "isFree": true,
+      "shortName": "RTL",
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "RTL2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/deC4z34.png"
+    },
+    {
+      "name": "eldo.TV",
+      "isFree": true
+    },
+    {
+      "name": "apart TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhHIn8F1SDPCN7vRELiUF5fG4Tr.jpg",
+      "website": "https://www.apart-tv.lu/"
+    },
+    {
+      "name": "Direct One TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZe5EwKTiE5tNpFZfaM4vP1wAAB.jpg",
+      "website": "https://www.directone.hu/"
+    },
+    {
+      "name": "Dudelange TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2dLYZsc.png",
+      "website": "https://www.dudelange.lu/"
+    },
+    {
+      "name": "Esch TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://esch.tv/"
+    },
+    {
+      "name": "Hesper TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/91CJCPs.png",
+      "website": "https://www.hesperange.lu/lu/medias/hesper-tv"
+    },
+    {
+      "name": "Jasmin TV",
+      "isFree": null,
+      "logo": "https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1",
+      "website": "http://www.jasmin.tv/"
+    },
+    {
+      "name": "Luxe TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png",
+      "website": "https://luxe.tv/"
+    },
+    {
+      "name": "Mamer TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/THnWggV.jpg",
+      "website": "https://mamer.lu/media-centre/mamer-tv/"
+    },
+    {
+      "name": "MierschTV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/1RnjTL3V/mierschtv.png",
+      "website": "https://mersch.tv/"
+    },
+    {
+      "name": "Nordliicht TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.nordliicht.lu/"
+    },
+    {
+      "name": "Petange Info TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qeaD5Az.png",
+      "website": "https://petange.lu/mediatheque/petange-info-tv/"
+    },
+    {
+      "name": "RTL9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nFqjVNW.png",
+      "website": "http://www.rtl9.com/"
+    },
+    {
+      "name": "RTL Tele Letzebuerg",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613195738668267_92.png",
+      "website": "https://www.rtl.lu/tele"
+    },
+    {
+      "name": "RTL Web Radio TV",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.lu/live/radio",
+      "priority": 4
+    },
+    {
+      "name": "RTL Zwee",
+      "isFree": true,
+      "website": "http://www.rtl.lu/tele/"
+    },
+    {
+      "name": "Satisfaction HD",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/skyns.png"
+    },
+    {
+      "name": "Televisioun Steesel",
+      "isFree": true,
+      "website": "https://www.steinsel.lu/televisioun-steesel/"
+    },
+    {
+      "name": "UHD 1",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRALIA/FOX-505-2.png",
+      "website": "http://www.hd-plus.de/uhd/ultra-hd-demokanal-uhd1/"
+    },
+    {
+      "name": "Apart TV LU",
+      "isFree": true
+    },
+    {
+      "name": "Club RTL LU",
+      "isFree": true
+    },
+    {
+      "name": "Plug RTL LU",
+      "isFree": true
+    },
+    {
+      "name": "RTL 9 LU",
+      "isFree": true
+    },
+    {
+      "name": "Lucky Jack LU",
+      "isFree": true
+    },
+    {
+      "name": "RTL Zwee LU",
+      "isFree": true
+    },
+    {
+      "name": "RTL LU",
+      "isFree": true
+    },
+    {
+      "name": "RTL Radio LU",
+      "isFree": true
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Eldoradio TV",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Lucky Jack.tv",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "RTL Gold",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.lu/live/rtl-gold"
+    },
+    {
+      "name": "Today Radio",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://today.rtl.lu/radio"
+    }
+  ]
+}

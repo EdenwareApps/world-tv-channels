@@ -1,0 +1,275 @@
+{
+  "Religious": [
+    {
+      "name": "Al Aqsa Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Holy Quran Radio Nablus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg",
+      "website": "https://quran-radio.com"
+    },
+    {
+      "name": "Nativity TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://nativitytv.ps/"
+    },
+    {
+      "name": "Salam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png",
+      "website": "https://www.salam-tv.net/"
+    },
+    {
+      "name": "Seraj TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/AL SERAJ AL AQSA.png",
+      "website": "https://seraj.tv/live"
+    }
+  ],
+  "News": [
+    {
+      "name": "Palestine Today",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6WLMLi6.png"
+    },
+    {
+      "name": "Al Najah News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://nn.najah.edu"
+    },
+    {
+      "name": "Baladna",
+      "isFree": true
+    },
+    {
+      "name": "Kolalnas TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/OyMxcRG.png",
+      "website": "https://kolalnastv.com/"
+    },
+    {
+      "name": "Ma'an TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.maannews.net/"
+    },
+    {
+      "name": "Palestine News Network",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
+      "website": "https://pnn.ps/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "7ala TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Ajyal TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/D4X5Jej.png"
+    },
+    {
+      "name": "Alfajer TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Audeh",
+      "isFree": true
+    },
+    {
+      "name": "Hebron TV",
+      "isFree": true
+    },
+    {
+      "name": "Hekaya TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mawal",
+      "isFree": true
+    },
+    {
+      "name": "Musawa Channel",
+      "isFree": true,
+      "keywords": "musawa channel | musawachannel",
+      "shortName": "MusawaChannel",
+      "logo": "https://go4.pw/ARABE/MUSAWA.png"
+    },
+    {
+      "name": "Nablus TV",
+      "isFree": true
+    },
+    {
+      "name": "Palestine Mubasher",
+      "isFree": true,
+      "shortName": "PM",
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png"
+    },
+    {
+      "name": "Palestine Satellite Channel",
+      "isFree": true,
+      "shortName": "PSC",
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png"
+    },
+    {
+      "name": "Rajeen TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6Cx22ya.png"
+    },
+    {
+      "name": "Watar TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/W2UhKeX.png"
+    },
+    {
+      "name": "Wattan TV",
+      "isFree": true
+    },
+    {
+      "name": "palestiniantv",
+      "isFree": true
+    },
+    {
+      "name": "Al-Aqsa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Al Madina",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://almadina.tv/"
+    },
+    {
+      "name": "Al Quds Today TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "http://www.alqudstoday.tv/"
+    },
+    {
+      "name": "Awdah TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/AWDEH TV.png"
+    },
+    {
+      "name": "Fajer TV 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1xERxmB.png",
+      "website": "http://www.alfajertv.com/"
+    },
+    {
+      "name": "Fajer TV 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1xERxmB.png",
+      "website": "http://www.alfajertv.com/"
+    },
+    {
+      "name": "Hala Ramallah",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
+      "website": "https://halaramallahtv.com/"
+    },
+    {
+      "name": "Hebron Sat",
+      "isFree": true
+    },
+    {
+      "name": "Hettin",
+      "isFree": true,
+      "website": "https://hettin.org"
+    },
+    {
+      "name": "Palestine TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
+      "website": "https://www.pbc.ps/live/"
+    },
+    {
+      "name": "Raya 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+      "website": "https://www.rayatv.ps"
+    },
+    {
+      "name": "Raya 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+      "website": "https://www.rayatv.ps"
+    },
+    {
+      "name": "Raya 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+      "website": "https://www.rayatv.ps"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Falastini",
+      "isFree": true,
+      "logo": "http://www.falastini.tv/wp-content/uploads/2018/10/logo.png"
+    },
+    {
+      "name": "Falastini TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6B3Cims.png",
+      "website": "http://falastini.tv/"
+    },
+    {
+      "name": "Mawwal",
+      "isFree": true,
+      "website": "http://tv.mawwal.ps/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Marah FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Biw7AYQ.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Albalad TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Shabab FM",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/YEMEN/YEMEN-EDU.png",
+      "priority": 4
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Al-Quds Open University",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+      "website": "https://www.qou.edu/"
+    },
+    {
+      "name": "Palestine Edu",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Palestine Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
+      "website": "https://pbc.ps/"
+    }
+  ]
+}

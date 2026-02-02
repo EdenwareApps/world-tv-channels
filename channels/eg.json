@@ -1,0 +1,767 @@
+{
+  "Religious": [
+    {
+      "name": "Aghapy TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/AGHAPY TV.png"
+    },
+    {
+      "name": "Al Hayat TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Coptic TV",
+      "isFree": true,
+      "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png"
+    },
+    {
+      "name": "MESat",
+      "isFree": true
+    },
+    {
+      "name": "The Kingdom Sat",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "Alassema TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Alfath Atfal TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALFATH_SONA.png",
+      "website": "https://www.alfath.tv/"
+    },
+    {
+      "name": "Alfath Sonnah TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALFATH_SONA.png",
+      "website": "https://alfath.tv/"
+    },
+    {
+      "name": "Alfath TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALFATH_SONA.png",
+      "website": "https://alfath.tv/"
+    },
+    {
+      "name": "Al Nada TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "http://alnada.tv/"
+    },
+    {
+      "name": "Al-Nahar Noor",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kayhan.png"
+    },
+    {
+      "name": "Al Rahma",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://alrahma.tv/livestream"
+    },
+    {
+      "name": "Egypt Quran Kareem",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg"
+    },
+    {
+      "name": "Elnas TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.elnas.tv/"
+    },
+    {
+      "name": "Huda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/HUDA_TV.png",
+      "website": "https://huda.tv/"
+    },
+    {
+      "name": "Mawda TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Safa TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304195050637163_71.jpg"
+    }
+  ],
+  "News": [
+    {
+      "name": "Mekameleen TV",
+      "isFree": true
+    },
+    {
+      "name": "eXtra News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg"
+    },
+    {
+      "name": "Al Ghad Plus",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png",
+      "website": "https://www.alghad.tv/"
+    },
+    {
+      "name": "Al Ghad TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.alghad.tv/"
+    },
+    {
+      "name": "AlHadath Alyoum",
+      "isFree": true,
+      "website": "https://helyoum.com/"
+    },
+    {
+      "name": "Alkofiya TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alkofiya.tv/"
+    },
+    {
+      "name": "Al Qahera News",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b0/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9.png",
+      "website": "https://alqaheranews.net/"
+    },
+    {
+      "name": "Extra Live",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg"
+    },
+    {
+      "name": "Nile News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "https://www.nile.eg/"
+    },
+    {
+      "name": "Nile TV International",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190932262067_77.png",
+      "website": "http://www.nileinternational.net/"
+    },
+    {
+      "name": "On E",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "https://www.on-eg.com/"
+    },
+    {
+      "name": "PNC Yom",
+      "isFree": true
+    },
+    {
+      "name": "Extra News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://extranews.tv/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Koogi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/KOOGI TV.png"
+    },
+    {
+      "name": "Cookies Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/COOKIESKIDS.png"
+    }
+  ],
+  "Comedy": [
+    {
+      "name": "Nile TV Comedy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Nile TV Sport",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Al Ahly TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://alahlyegypt.com/ar"
+    },
+    {
+      "name": "CAF TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.cafonline.com/"
+    },
+    {
+      "name": "Nile Sport",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/sport"
+    },
+    {
+      "name": "OnTime Sports",
+      "isFree": true,
+      "keywords": "ontime sports -2 -3",
+      "website": "https://www.on-eg.com/"
+    },
+    {
+      "name": "OnTime Sports 2",
+      "isFree": true,
+      "website": "https://www.on-eg.com/"
+    },
+    {
+      "name": "OnTime Sports 3",
+      "isFree": true,
+      "website": "https://www.on-eg.com/"
+    },
+    {
+      "name": "Zamalek TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/ZamalekSports.png",
+      "website": "https://el-zamalek.com/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ATVSat",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pwM5txv.png"
+    },
+    {
+      "name": "Al Ghad",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Alrafidain",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "CBC",
+      "isFree": true,
+      "keywords": "cbc -drama",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png",
+      "priority": 9
+    },
+    {
+      "name": "CBC Drama",
+      "isFree": true,
+      "logo": "https://i.imgur.com/I8YdakH.png"
+    },
+    {
+      "name": "Elsharq TV",
+      "isFree": true
+    },
+    {
+      "name": "MBC Masr 1",
+      "isFree": true,
+      "keywords": "mbc masr 1 -usa",
+      "logo": "https://i.imgur.com/3iTeSYy.png"
+    },
+    {
+      "name": "MBC Masr 1 USA",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png"
+    },
+    {
+      "name": "MBC Masr 2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg"
+    },
+    {
+      "name": "Nile TV Family",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Noble TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z8kZ4iXQWDAsHn7HMFWHhATukM.jpg"
+    },
+    {
+      "name": "Omg Channel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okCGcDeffxk82mCT7HdU73UI8J8.jpg"
+    },
+    {
+      "name": "Omg Series TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okCGcDeffxk82mCT7HdU73UI8J8.jpg"
+    },
+    {
+      "name": "Sada Elbalad",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/sada.png"
+    },
+    {
+      "name": "Ten TV",
+      "isFree": true,
+      "logo": "https://btn.com/wp-content/uploads/2019/12/btn.png"
+    },
+    {
+      "name": "Watan TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7EOvM69.png"
+    },
+    {
+      "name": "3yoon TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EGYPT/3yoon.png",
+      "website": "https://www.3yoontv.com/"
+    },
+    {
+      "name": "Alhayat TV",
+      "isFree": true,
+      "website": "https://elcinema.com/en/tvguide/1137/"
+    },
+    {
+      "name": "Al Kahera Wal Nas",
+      "isFree": true,
+      "keywords": "al kahera wal nas -2",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613185832005662_74.png",
+      "website": "http://www.alkaherawalnas.com/"
+    },
+    {
+      "name": "Al Kahera Wal Nas 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "http://www.alkaherawalnas.com/"
+    },
+    {
+      "name": "Al Masriyah",
+      "isFree": true,
+      "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "Al-Nahar",
+      "isFree": true,
+      "keywords": "al-nahar -algadid -drama -noor",
+      "logo": "https://yt3.googleusercontent.com/dB8EHJ6PctY5KeLwv1As_a8cRlEechp5LSCsQ-aKmohEicId1H1dChy5OIK5vv1Ehuzv_tIr_g=s160-c-k-c0x00ffffff-no-rj",
+      "website": "https://www.al-nahar.tv/"
+    },
+    {
+      "name": "Al-Nahar Algadid",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png"
+    },
+    {
+      "name": "Al Seha Wal Jamal TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Shams TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "AlShoub",
+      "isFree": true,
+      "logo": "https://alshoub.tv/wp-content/uploads/2023/09/logo@2x-1-1.png",
+      "website": "https://alshoub.tv"
+    },
+    {
+      "name": "CBC Sofra",
+      "isFree": true,
+      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
+      "website": "https://sofra.cbc-eg.com/"
+    },
+    {
+      "name": "DMC",
+      "isFree": true,
+      "keywords": "dmc -drama",
+      "logo": "https://go4.pw/AFRICA/EGYPT/DMC_DRAMA.png",
+      "website": "https://dmc.com.eg/"
+    },
+    {
+      "name": "Egyptian TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlaLCfH8w4VNmbRK56UobLN6j7l.jpg",
+      "website": "https://www.maspero.eg/"
+    },
+    {
+      "name": "El Mehwar Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dCAHZfG.png"
+    },
+    {
+      "name": "El Moled",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "ERTU 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 3 Al Kahera",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 4 Al Kanal",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 5 Al Askandria",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 6 Al Delta",
+      "isFree": true,
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 7 Al Saeed",
+      "isFree": true,
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ERTU 8 Teba",
+      "isFree": true,
+      "website": "http://dotnet.ertu.org/"
+    },
+    {
+      "name": "ETC TV",
+      "isFree": true,
+      "website": "https://etc-tv.com/"
+    },
+    {
+      "name": "Hya TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/HYA_TV.png"
+    },
+    {
+      "name": "Maspero Zaman",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/MASPEROZAMAN.png"
+    },
+    {
+      "name": "Masr Om Eldonia",
+      "isFree": true,
+      "logo": "https://go4.pw/MBCGROUP/MBCMASR-1.png"
+    },
+    {
+      "name": "MBC 1 Egypt",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png"
+    },
+    {
+      "name": "MBC Masr",
+      "isFree": true,
+      "keywords": "mbc masr -1 -1 usa -2",
+      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg",
+      "website": "http://www.mbc.net/ar/mbc-maser.html"
+    },
+    {
+      "name": "Menhag TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Misr AlBalad",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/misrquraan.png"
+    },
+    {
+      "name": "Mix Bel Araby",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Nile Comedy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/comedy"
+    },
+    {
+      "name": "Nile Family",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191131893280_64.png",
+      "website": "http://www.niletc.tv/Channel/family"
+    },
+    {
+      "name": "Nile Life",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/life"
+    },
+    {
+      "name": "Omg Channel",
+      "isFree": true,
+      "keywords": "omg channel -tv",
+      "logo": "http://www.omgchannel.net/admin/images/TVLogo.png",
+      "website": "http://omg.omgchannel.net/"
+    },
+    {
+      "name": "OTV",
+      "isFree": true,
+      "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg"
+    },
+    {
+      "name": "PNC Food",
+      "isFree": true
+    },
+    {
+      "name": "Sada Elbalad 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/sada.png",
+      "website": "https://www.elbalad.news/"
+    },
+    {
+      "name": "Sout Masr",
+      "isFree": true,
+      "logo": "https://go4.pw/MBCGROUP/MBCMASR-1.png"
+    },
+    {
+      "name": "Sowt Al-Arab TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TeN",
+      "isFree": true,
+      "website": "https://www.ten.tv/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Nile TV Cinema",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Alhayat Drama",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vVM7I4a.png",
+      "website": "https://elcinema.com/en/tvguide/1138/"
+    },
+    {
+      "name": "Al-Nahar Drama",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ieckdoE.png",
+      "website": "https://www.al-nahar.tv/"
+    },
+    {
+      "name": "Cima",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/CIMATV.png"
+    },
+    {
+      "name": "DMC Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/DMC_DRAMA.png",
+      "website": "https://dmc.com.eg/"
+    },
+    {
+      "name": "Fox Movies",
+      "isFree": true
+    },
+    {
+      "name": "HBC",
+      "isFree": true
+    },
+    {
+      "name": "Melody Classic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
+      "website": "https://my.dish.com/station/MLDYC"
+    },
+    {
+      "name": "Mix Hollywood",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Nile Cinema",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/cinema"
+    },
+    {
+      "name": "Nile Drama",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/drama"
+    },
+    {
+      "name": "Omg Series",
+      "isFree": true,
+      "keywords": "omg series -tv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okCGcDeffxk82mCT7HdU73UI8J8.jpg",
+      "website": "http://omg.omgchannel.net/"
+    },
+    {
+      "name": "On Drama",
+      "isFree": true,
+      "website": "https://www.on-eg.com/"
+    },
+    {
+      "name": "One Movies",
+      "isFree": true
+    },
+    {
+      "name": "PNC Drama",
+      "isFree": true,
+      "keywords": "pnc drama -2",
+      "logo": "https://a.jsrdn.com/hls/23137/pnc-drama/logo_20240610_192157_60.png"
+    },
+    {
+      "name": "PNC Drama 2",
+      "isFree": true
+    },
+    {
+      "name": "PNC Film",
+      "isFree": true
+    },
+    {
+      "name": "Rotana Cinema Egypt",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "http://www.cinema.rotana.net/"
+    },
+    {
+      "name": "Sada Elbalad Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/sada.png",
+      "website": "https://www.elbalad.news/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Nile TV Culture",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Nile TV Learning",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Nile TV Life",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Al-Saeedah",
+      "isFree": true,
+      "website": "http://www.alsaeedah-tv.com/"
+    },
+    {
+      "name": "Al Wathaeqya",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "GUC TV",
+      "isFree": true,
+      "website": "https://www.guc.edu.eg/"
+    },
+    {
+      "name": "Madrasetna 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://madrasetna-egypt.com/"
+    },
+    {
+      "name": "Madrasetna 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://madrasetna-egypt.com/"
+    },
+    {
+      "name": "Madrasetna 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://madrasetna-egypt.com/"
+    },
+    {
+      "name": "Misr Al Zeraya",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/misrquraan.png",
+      "website": "https://misrelzraea.com/"
+    },
+    {
+      "name": "Nile Culture",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/culture"
+    },
+    {
+      "name": "Nile Education Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.niletc.tv/Channel/Learning"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "El Radio 9090 FM",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.9090.fm/"
+    },
+    {
+      "name": "Free TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+      "website": "http://freetvmusic.tv/"
+    },
+    {
+      "name": "Mazzika",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MAZZIKA.png",
+      "website": "https://mazzikagroup.com/"
+    },
+    {
+      "name": "NogoumFMTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/krp3kgv.png",
+      "website": "https://www.nogoumfm.net/"
+    },
+    {
+      "name": "Shaabeyat",
+      "isFree": true,
+      "website": "https://sh3beyat.com"
+    },
+    {
+      "name": "Zilzal Classic",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Nogoum FM TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/nojom111.png",
+      "priority": 4
+    }
+  ]
+}

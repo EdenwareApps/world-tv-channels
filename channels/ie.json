@@ -1,0 +1,513 @@
+{
+  "News": [
+    {
+      "name": "Oireachtas TV",
+      "isFree": true,
+      "keywords": "oireachtas tv -committee room 1 -committee room 2 -committee room 3 -committee room 4 -dail eireann -seanad eireann"
+    },
+    {
+      "name": "Oireachtas TV Committee Room 1",
+      "isFree": true,
+      "shortName": "OTCR1"
+    },
+    {
+      "name": "Oireachtas TV Committee Room 2",
+      "isFree": true,
+      "shortName": "OTCR2"
+    },
+    {
+      "name": "Oireachtas TV Committee Room 3",
+      "isFree": true,
+      "shortName": "OTCR3"
+    },
+    {
+      "name": "Oireachtas TV Committee Room 4",
+      "isFree": true,
+      "shortName": "OTCR4"
+    },
+    {
+      "name": "Oireachtas TV Dáil Éireann",
+      "isFree": true,
+      "shortName": "OTDÉ"
+    },
+    {
+      "name": "Oireachtas TV Seanad Éireann",
+      "isFree": true,
+      "shortName": "OTSÉ"
+    },
+    {
+      "name": "RTE News Now",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/34d14373d81b7b3403be8b3692242ade.png"
+    },
+    {
+      "name": "RTÉ News",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/rtenews.png"
+    },
+    {
+      "name": "RTE News",
+      "isFree": true,
+      "keywords": "rte news -now",
+      "logo": "https://go4.pw/UK/rtenews.png",
+      "website": "https://www.rte.ie/news/"
+    },
+    {
+      "name": "Sky News",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",
+      "priority": 10
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "TG4 IE",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4eef4c0bfcc90e103d460779d1e837b3.png"
+    },
+    {
+      "name": "Blaze",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcxhgZUJ2jpKhaCxOZXoJSECb9C.jpg"
+    },
+    {
+      "name": "Challenge",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXBo46kdeUSf7uehXMOsEMGBcCY.jpg"
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "keywords": "comedy central -extra"
+    },
+    {
+      "name": "Comedy Central Extra",
+      "isFree": true
+    },
+    {
+      "name": "Cork Community TV",
+      "isFree": true,
+      "logo": "https://go4.pw/GRECCE2/cinegr.png",
+      "website": "http://corkcommunitytv.ie/"
+    },
+    {
+      "name": "Crime + Investigation",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+    },
+    {
+      "name": "Dave",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg"
+    },
+    {
+      "name": "Drama",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3e1094c0b466ffe2b2b85059146c3e44.png"
+    },
+    {
+      "name": "Dublin Community Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fstLKsxPGpyUwNzeQCqjp1vJaFd.jpg",
+      "website": "https://www.dctv.ie/"
+    },
+    {
+      "name": "E4",
+      "isFree": true
+    },
+    {
+      "name": "Food Network",
+      "isFree": true
+    },
+    {
+      "name": "GOLD",
+      "isFree": true,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/681d29397c07301fe912a7bd"
+    },
+    {
+      "name": "GREAT! tv",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png"
+    },
+    {
+      "name": "More4",
+      "isFree": true,
+      "logo": "https://picserve.netplus.ch/channels/more4.png"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "http://mtv.ie/",
+      "priority": 10
+    },
+    {
+      "name": "Near TV",
+      "isFree": true,
+      "website": "https://neartv.ie/"
+    },
+    {
+      "name": "Oireachtas TV Dail Eireann",
+      "isFree": true
+    },
+    {
+      "name": "Oireachtas TV Seanad Eireann",
+      "isFree": true
+    },
+    {
+      "name": "Quest Red",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg"
+    },
+    {
+      "name": "Really",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg"
+    },
+    {
+      "name": "RTE2",
+      "isFree": true,
+      "website": "https://www.rte.ie/tv/"
+    },
+    {
+      "name": "RTEjr",
+      "isFree": true,
+      "website": "http://www.rte.ie/rtejr/"
+    },
+    {
+      "name": "RTE One",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/rtenews.png",
+      "website": "https://www.rte.ie/tv/"
+    },
+    {
+      "name": "Sky Arts",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Atlantic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Comedy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Max",
+      "isFree": true
+    },
+    {
+      "name": "Sky Mix",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Replay",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Showcase",
+      "isFree": true
+    },
+    {
+      "name": "Sky Witness",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "TG4",
+      "isFree": true,
+      "keywords": "tg4 -ie",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png",
+      "website": "http://www.tg4.ie/"
+    },
+    {
+      "name": "TLC",
+      "isFree": true
+    },
+    {
+      "name": "Virgin Media Four",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media More",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmedia.ie/more"
+    },
+    {
+      "name": "Virgin Media One",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Three",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Two",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "W Ireland",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS03cVTS9bQBd7YVTihDRXba7kl.jpg",
+      "website": "https://w.uktv.co.uk/"
+    },
+    {
+      "name": "W",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS03cVTS9bQBd7YVTihDRXba7kl.jpg"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "alibi",
+      "isFree": true
+    },
+    {
+      "name": "Film4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MTSgoGI.png"
+    },
+    {
+      "name": "Sky Crime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "CBBC",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/CBBC.png"
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
+    },
+    {
+      "name": "Cula4",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/512px-Cula4_Purple_2022_%281%29.svg.png",
+      "website": "https://www.cula4.com/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "keywords": "nick jr. -too"
+    },
+    {
+      "name": "Nick Jr. Too",
+      "isFree": true
+    },
+    {
+      "name": "Nicktoons",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "F1 Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "website": "https://www.c15.studio/channels/formula-1-channel/"
+    },
+    {
+      "name": "Premier Sports 1",
+      "isFree": true,
+      "keywords": "premier sports 1 -asia",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
+      "website": "https://www.nowtv.com/ie/watch-sports-extra"
+    },
+    {
+      "name": "Premier Sports 1 Asia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
+      "website": "https://www.premiersportsasia.com/"
+    },
+    {
+      "name": "Premier Sports 2",
+      "isFree": true,
+      "keywords": "premier sports 2 -asia",
+      "website": "https://www.nowtv.com/ie/watch-sports-extra"
+    },
+    {
+      "name": "Premier Sports 2 Asia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
+      "website": "https://www.premiersportsasia.com/"
+    },
+    {
+      "name": "Premier Sports 3 Asia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
+      "website": "https://www.premiersportsasia.com/"
+    },
+    {
+      "name": "Setanta Sports 1 Eurasia",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UKRAIN/SETANTA SPORTS 2 FHD.png",
+      "website": "https://www.setantaeurasia.com/"
+    },
+    {
+      "name": "Setanta Sports 2 Eurasia",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UKRAIN/SETANTA SPORTS 2 FHD.png",
+      "website": "https://www.setantaeurasia.com/"
+    },
+    {
+      "name": "Sky Sports Arena",
+      "isFree": true,
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports F1",
+      "isFree": true,
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Football",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Golf",
+      "isFree": true,
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "Sky Sports News",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/11/11/large/20231111225744609040_44.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports NFL",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports Tennis",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Virgin Media Extra 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Extra 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Sport",
+      "isFree": true,
+      "keywords": "virgin media sport -extra 3 -extra 4 -extra 5 -extra 6",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie"
+    },
+    {
+      "name": "Virgin Media Sport Extra 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Sport Extra 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Sport Extra 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    },
+    {
+      "name": "Virgin Media Sport Extra 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "website": "https://www.virginmediatelevision.ie/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Kingdom TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg",
+      "website": "https://kingdom24.tv/"
+    },
+    {
+      "name": "Shalom Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/SHALOM.png",
+      "website": "https://shalomtv.tv/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Sky Documentaries",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky History",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Nature",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    }
+  ]
+}

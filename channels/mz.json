@@ -1,0 +1,290 @@
+{
+  "Entertainment": [
+    {
+      "name": "Record TV Internacional Mozambique",
+      "isFree": true,
+      "keywords": "record mozambique | tv miramar",
+      "shortName": "RTIM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BRR5JcbB151b9y1hlgZiNaMyGV.jpg"
+    },
+    {
+      "name": "TVM",
+      "isFree": true,
+      "keywords": "tvm -internacional",
+      "logo": "https://i.imgur.com/QAyakkR.png"
+    },
+    {
+      "name": "TVM Internacional",
+      "isFree": true,
+      "shortName": "TI",
+      "logo": "https://i.imgur.com/QAyakkR.png"
+    },
+    {
+      "name": "6TV",
+      "isFree": true
+    },
+    {
+      "name": "Afro TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png"
+    },
+    {
+      "name": "Canal 258",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal258.co.mz/"
+    },
+    {
+      "name": "Dual TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+      "website": "https://www.dualtv.net/"
+    },
+    {
+      "name": "EcoTV",
+      "isFree": true,
+      "website": "http://www.ecotv.co.mz/"
+    },
+    {
+      "name": "Focos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "FTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOr1Oac.png"
+    },
+    {
+      "name": "Gungu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Limpopo Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Luz TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1LwZgPKcvxaIgWauX8F5Cs6HS.jpg",
+      "website": "https://www.luztvmoz.com/"
+    },
+    {
+      "name": "M Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg"
+    },
+    {
+      "name": "Media Mais TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Mega TV",
+      "isFree": true,
+      "logo": "http://i.imgur.com/saCbNDR.png",
+      "website": "https://mega.co.mz/"
+    },
+    {
+      "name": "Mind Cast TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
+    },
+    {
+      "name": "PSTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xQlkuAa.png",
+      "website": "https://pstvmz.org/"
+    },
+    {
+      "name": "RAM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Strong Live",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg"
+    },
+    {
+      "name": "STV",
+      "isFree": true,
+      "keywords": "stv -noticias",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png",
+      "website": "https://stv.co.mz/"
+    },
+    {
+      "name": "Top TV",
+      "isFree": true
+    },
+    {
+      "name": "Tua TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Gloria",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVM 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png",
+      "website": "https://www.tvm.co.mz/"
+    },
+    {
+      "name": "TV Miramar",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://miramar.co.mz/"
+    },
+    {
+      "name": "TVM Telescola",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png",
+      "website": "https://www.tvm.co.mz/"
+    },
+    {
+      "name": "TV Muniga",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Revolucao",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Sucesso",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvsucesso.co.mz/"
+    },
+    {
+      "name": "TV Vitoria",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.vitoriacomunicacoes.site/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "TV Maná Moçambique",
+      "isFree": true,
+      "shortName": "TMM",
+      "logo": "https://i.imgur.com/QAyakkR.png"
+    },
+    {
+      "name": "Ebenezer TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://ministeriodivinaesperanca.org/ebenezer-tv/"
+    },
+    {
+      "name": "Haq TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.haqtv.co.mz/"
+    },
+    {
+      "name": "ITV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2017/05/21/large/20170521223910040532_53.jpg"
+    },
+    {
+      "name": "JTV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg"
+    },
+    {
+      "name": "Kingdom TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg",
+      "website": "https://kingdom24.tv/"
+    },
+    {
+      "name": "KTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "Noor Televisao",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kayhan.png"
+    },
+    {
+      "name": "RTV Alfa e Omega",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvam.co.mz/"
+    },
+    {
+      "name": "TV Accao",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.radioaccao.co.mz/"
+    },
+    {
+      "name": "TV Mana Mocambique",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "https://tvmana-mocambique.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "CTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ljKb0UX.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Gloom Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://mosaik.co.mz/"
+    },
+    {
+      "name": "Televisao Academica",
+      "isFree": true,
+      "logo": "https://i.imgur.com/V1mGOJl.png",
+      "website": "https://rtvam.co.mz/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Indico News TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "MBC TV",
+      "isFree": true,
+      "website": "https://mbc.co.mz/"
+    },
+    {
+      "name": "STV Noticias",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/stvv.png",
+      "website": "https://stv.co.mz/"
+    },
+    {
+      "name": "Visao Novo Mocambique TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/NOVO.png",
+      "website": "https://tv.jornalvisaomoz.com/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Reino Infantil",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg",
+      "website": "https://reinoinfantil.tv/"
+    }
+  ]
+}

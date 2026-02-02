@@ -1,0 +1,371 @@
+{
+  "Entertainment": [
+    {
+      "name": "Azon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "8TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "website": "https://8tv.uz/"
+    },
+    {
+      "name": "AGRO TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png"
+    },
+    {
+      "name": "Amudaryo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Andijon MTRK",
+      "isFree": true
+    },
+    {
+      "name": "BIZ TV",
+      "isFree": true,
+      "website": "https://biztv.uz/"
+    },
+    {
+      "name": "Buxoro MTRK",
+      "isFree": true,
+      "website": "https://buxorotv.uz/"
+    },
+    {
+      "name": "Cheksiz TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cheksiztv.uz/"
+    },
+    {
+      "name": "Dasturxon TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7917.png"
+    },
+    {
+      "name": "Dunyo bo'ylab",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/dunyo/"
+    },
+    {
+      "name": "Farg'ona MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Fazo.tv",
+      "isFree": true,
+      "website": "https://fazo.tv/"
+    },
+    {
+      "name": "Gold Uz TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg"
+    },
+    {
+      "name": "Ischonch TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Istiqlol TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jaslar TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jizzax MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Lux.TV",
+      "isFree": true
+    },
+    {
+      "name": "Madaniyat va ma'rifat",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2648.png",
+      "website": "https://www.mtrk.uz/uz/tv/madaniyat/"
+    },
+    {
+      "name": "Mahalla",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/mahalla/"
+    },
+    {
+      "name": "Makon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://makon.tv/"
+    },
+    {
+      "name": "Milliy",
+      "isFree": true
+    },
+    {
+      "name": "Muloqot TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "MY5",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7928.png",
+      "website": "https://my5.media/"
+    },
+    {
+      "name": "Namangan MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Nasaf TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Navo",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/navo/"
+    },
+    {
+      "name": "Navoiy MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Nurafshon TV",
+      "isFree": true
+    },
+    {
+      "name": "O'zbekiston",
+      "isFree": true,
+      "keywords": "o'zbekiston -24 -tarixi",
+      "website": "https://www.mtrk.uz/uz/tv/ozbekiston/"
+    },
+    {
+      "name": "Qaraqalpaqstan",
+      "isFree": true,
+      "website": "https://www.uztv.tv/channels/qaraqalpaqstan"
+    },
+    {
+      "name": "Qashqadaryo MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Renessans TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7933.png"
+    },
+    {
+      "name": "RizaNova TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Ruxsor TV",
+      "isFree": true,
+      "website": "https://www.ruxsortrk.uz/"
+    },
+    {
+      "name": "Samarqand MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Sevimli TV",
+      "isFree": true,
+      "website": "https://www.sevimlitv.uz/"
+    },
+    {
+      "name": "Shifo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://shifotv.uz/"
+    },
+    {
+      "name": "S-Ikbol",
+      "isFree": true
+    },
+    {
+      "name": "Sirdaryo MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Surxondaryo MTRK",
+      "isFree": true
+    },
+    {
+      "name": "Taraqqiyot TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7936.png",
+      "website": "https://taraqqiyot.tv/"
+    },
+    {
+      "name": "Toshkent",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/toshkent/"
+    },
+    {
+      "name": "TTV Telekanali",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+    },
+    {
+      "name": "Vodiy TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Xorazm MTRK",
+      "isFree": true
+    },
+    {
+      "name": "YangiKulgu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yoshlar",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/yoshlar/"
+    },
+    {
+      "name": "Zo'r TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zortv.uz/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Aqlvoy",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7912.png",
+      "website": "https://aqlvoy.uz/"
+    },
+    {
+      "name": "Bolajon",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/bolajon/"
+    },
+    {
+      "name": "MiMi TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJg9YnuYzSCG9A5yKtJaTRNExNT.jpg",
+      "website": "https://mimitv.uz/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "BIZ Cinema",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3Jj7ok55Sm9zfNVwV78bT4s3I.jpg",
+      "website": "https://biztv.uz/"
+    },
+    {
+      "name": "iTV Cinema",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://itv.uz/en"
+    },
+    {
+      "name": "Kinoteatr",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/kinoteatr/"
+    },
+    {
+      "name": "TTV Kino",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "BIZ Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3Jj7ok55Sm9zfNVwV78bT4s3I.jpg"
+    },
+    {
+      "name": "Ellikqala TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "FTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOr1Oac.png",
+      "website": "https://www.uzreport.news/"
+    },
+    {
+      "name": "iTV Music",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://itv.uz/en"
+    },
+    {
+      "name": "NevoMusic",
+      "isFree": true,
+      "website": "https://nevomusic.net/"
+    },
+    {
+      "name": "NevoMusicTj",
+      "isFree": true
+    },
+    {
+      "name": "TTV Musiqa",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Foreign Languages TV",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/20296.jpg",
+      "website": "https://www.uztv.tv/channels/foreign-languages"
+    },
+    {
+      "name": "O'zbekiston Tarixi",
+      "isFree": true,
+      "website": "https://www.uztv.tv/channels/uzbekiston-tarix"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Hidoyat Sari",
+      "isFree": true,
+      "website": "https://www.uztv.tv/channels/hidoyat-sari"
+    }
+  ],
+  "News": [
+    {
+      "name": "O'zbekiston 24",
+      "isFree": true,
+      "website": "http://uzbekistan24.uz/"
+    },
+    {
+      "name": "UzReport TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Bch2RHc.jpg",
+      "website": "https://uzreport.news/"
+    },
+    {
+      "name": "UzReport World",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Bch2RHc.jpg",
+      "website": "https://uzreport.news/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Sport",
+      "isFree": true,
+      "website": "https://www.mtrk.uz/uz/tv/sport/"
+    }
+  ]
+}

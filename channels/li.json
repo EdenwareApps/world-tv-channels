@@ -1,0 +1,35 @@
+{
+  "Entertainment": [
+    {
+      "name": "Kommu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/02f9ef6a351528b8de394322db61637d.png"
+    },
+    {
+      "name": "1FL TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://1fl.li/wp/"
+    },
+    {
+      "name": "Landeskanal",
+      "isFree": true,
+      "website": "https://www.landeskanal.li/tv.aspx?d=0"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Arcadia TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b2cfd84feb066e9c947c8980437f8cec.png",
+      "website": "https://www.arcadiatelevision.com/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "MediaShop TV",
+      "isFree": true,
+      "website": "https://www.mediashop.tv/"
+    }
+  ]
+}

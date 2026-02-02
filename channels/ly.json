@@ -1,0 +1,212 @@
+{
+  "News": [
+    {
+      "name": "Jamahiria TV",
+      "isFree": true
+    },
+    {
+      "name": "Libya 218",
+      "isFree": true,
+      "keywords": "libya 218 -news",
+      "priority": 9
+    },
+    {
+      "name": "Libya 218 News",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    },
+    {
+      "name": "Libya Al Ahrar TV",
+      "isFree": true,
+      "shortName": "LAAT",
+      "priority": 9
+    },
+    {
+      "name": "Libya Al Hadath",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Libya Channel",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "218 News",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0OzJkwp.png",
+      "website": "https://www.218tv.net/218news-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/"
+    },
+    {
+      "name": "218TV",
+      "isFree": true,
+      "website": "https://www.218tv.net/"
+    },
+    {
+      "name": "Al Masar TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://almasartv.ly/"
+    },
+    {
+      "name": "February Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WdMIpsA.png",
+      "website": "https://www.februarychannel.com/"
+    },
+    {
+      "name": "Jamahiriya TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aljamahiriya.tv/"
+    },
+    {
+      "name": "Libya Alhadath TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "website": "http://libyaalhadath.net/",
+      "priority": 9
+    },
+    {
+      "name": "Libya Panorama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "website": "https://www.lpc.ly/",
+      "priority": 9
+    },
+    {
+      "name": "NLC News",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Alwasat TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tanasuh",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYATANASUH.png"
+    },
+    {
+      "name": "Abu Surra TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nsGii9M9LJCoWYGxe3B20mJQqP.jpg"
+    },
+    {
+      "name": "Allibiya TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Libya Alrasmia Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    },
+    {
+      "name": "Libya Al Wataniya",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/08/23/20140823102052478466_71.jpg",
+      "website": "http://www.ltv.ly/",
+      "priority": 10
+    },
+    {
+      "name": "Libya LY",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    },
+    {
+      "name": "Libya Mostakbal",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "website": "https://almustaqbal.ly/",
+      "priority": 9
+    },
+    {
+      "name": "Libya One",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "website": "https://libyaone.tv/livestream.html",
+      "priority": 9
+    },
+    {
+      "name": "New Libya Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "RTV Lebda",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.rtvlebda.com/"
+    },
+    {
+      "name": "Salam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png",
+      "website": "https://www.toog.ly/ar"
+    },
+    {
+      "name": "Tanasuh TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYATANASUH.png",
+      "website": "https://tanasuh.tv/"
+    },
+    {
+      "name": "Waad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Wasat TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LiByawTV.png",
+      "website": "http://wasat.tv/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Ali Gate TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
+      "website": "https://aligate.com.ly/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Libya Education",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Libya Sport TV",
+      "isFree": true,
+      "keywords": "libya sport tv -2",
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    },
+    {
+      "name": "Libya Sport TV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYA.png",
+      "priority": 9
+    }
+  ],
+  "Kids": [
+    {
+      "name": "NLC Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+    }
+  ]
+}

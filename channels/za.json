@@ -1,0 +1,1819 @@
+{
+  "Religious": [
+    {
+      "name": "MFM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Agape TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DsGmrnc.png"
+    },
+    {
+      "name": "AMI TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZqVhviYKKOLtu7vr9MYOgwUSs5.jpg",
+      "website": "https://www.amitv.com/"
+    },
+    {
+      "name": "Celebration TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanpR48XsGzRFKx79aHLbVQsNEu.jpg",
+      "website": "http://mycelebrationtv.com/"
+    },
+    {
+      "name": "Dumisa",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/DUMISA.png",
+      "website": "http://www.dumisa.tv/"
+    },
+    {
+      "name": "Ezekiel TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ezekieltvchannel.com/"
+    },
+    {
+      "name": "Faith Africa",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "https://africa.myfaith.tv/"
+    },
+    {
+      "name": "Faith TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/59e3109ae13f5c00175bcfa87ce8274b.png",
+      "website": "https://myfaith.tv/"
+    },
+    {
+      "name": "Fano TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/orqEzJ6.png",
+      "website": "https://fanoministries.co.za/"
+    },
+    {
+      "name": "GNF TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/MpTnG7Hh/gnftv.png",
+      "website": "https://www.gnftv.com/"
+    },
+    {
+      "name": "GOD TV Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg",
+      "website": "https://www.god.tv/"
+    },
+    {
+      "name": "Hilaal TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/hilal.png",
+      "website": "https://hilaal.tv/"
+    },
+    {
+      "name": "Homebase TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MaLNfJG.png",
+      "website": "http://www.homebasetv.org/"
+    },
+    {
+      "name": "Hope Channel Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "https://www.hopeafrica.tv/"
+    },
+    {
+      "name": "ITVN",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/POLONIA/ITVN_Extra.png",
+      "website": "https://www.itvn.co.za/"
+    },
+    {
+      "name": "ITV Networks",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://itvnetworks.tv/"
+    },
+    {
+      "name": "Kingdom Citizens TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg",
+      "website": "https://video.premiumfree.tv/linear/kingdom-citizens-tv"
+    },
+    {
+      "name": "Kingdom Life Network",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg"
+    },
+    {
+      "name": "Medan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.medantelevision.org/"
+    },
+    {
+      "name": "NACTV",
+      "isFree": true,
+      "website": "https://web.nacsa.africa/"
+    },
+    {
+      "name": "OMEGA Gospel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
+      "website": "http://www.omegagospel.org/"
+    },
+    {
+      "name": "One Gospel",
+      "isFree": true,
+      "website": "http://www.onegospel.co.za/"
+    },
+    {
+      "name": "Parliament TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174535846051_22.png",
+      "website": "https://www.parliament.gov.za/"
+    },
+    {
+      "name": "Prophetic Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://psbministries.org/"
+    },
+    {
+      "name": "Pure Gospel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk946cevYzL6uPHuXk3H0Z0d0BN.jpg",
+      "website": "https://prophetbonang.org/"
+    },
+    {
+      "name": "Rapha Channel TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://raphachannel.tv/"
+    },
+    {
+      "name": "Redemption Television Ministry",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "website": "http://www.redemptiontm.tv/"
+    },
+    {
+      "name": "RLW TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VcwqoEF.png",
+      "website": "https://rlw.org.za/"
+    },
+    {
+      "name": "Seraphim TV",
+      "isFree": true,
+      "website": "https://seraphimtv.org/"
+    },
+    {
+      "name": "Shembe Unyazi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SOTV Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
+      "website": "https://sotv.africa/"
+    },
+    {
+      "name": "SOTV Global",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "https://sotv.global/"
+    },
+    {
+      "name": "Springs Network",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+      "website": "https://www.springsnetwork.tv/"
+    },
+    {
+      "name": "UBN",
+      "isFree": true,
+      "website": "https://www.unityfellowshipchurch.org.za/"
+    },
+    {
+      "name": "Akwaaba Magic Abusua ZA",
+      "isFree": true
+    },
+    {
+      "name": "W Sport ZA",
+      "isFree": true
+    },
+    {
+      "name": "Boing ZA",
+      "isFree": true
+    },
+    {
+      "name": "Cartoonito ZA",
+      "isFree": true
+    },
+    {
+      "name": "ST Sino Drama ZA",
+      "isFree": true
+    },
+    {
+      "name": "EWTN ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Blitz ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Grandstand ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport PSL ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Premier League ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport LaLiga ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Football ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Action ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Variety 2 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Variety 3 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport WWE ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Variety 1 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Rugby ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Cricket ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Golf ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Tennis ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Motorsport ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport School ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport ESPN ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport ESPN 2 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Maximo 1 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Community Services Network ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Events ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 2 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 3 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 5 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 6 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 7 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport OTT 8 ZA",
+      "isFree": true
+    },
+    {
+      "name": "1 KZN ZA",
+      "isFree": true
+    },
+    {
+      "name": "BBC Brit ZA",
+      "isFree": true
+    },
+    {
+      "name": "BBC Earth ZA",
+      "isFree": true
+    },
+    {
+      "name": "BBC Lifestyle ZA",
+      "isFree": true
+    },
+    {
+      "name": "BET ZA",
+      "isFree": true
+    },
+    {
+      "name": "Bay TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "Bloomberg ZA",
+      "isFree": true
+    },
+    {
+      "name": "Business Day TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "CBS Justice ZA",
+      "isFree": true
+    },
+    {
+      "name": "CBS Reality ZA",
+      "isFree": true
+    },
+    {
+      "name": "CNBC Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "Cape Town TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "Cartoon Network ZA",
+      "isFree": true
+    },
+    {
+      "name": "Cbeebies ZA",
+      "isFree": true
+    },
+    {
+      "name": "Channel O ZA",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central ZA",
+      "isFree": true
+    },
+    {
+      "name": "Curiosity Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "DaVinci Kids ZA",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Family ZA",
+      "isFree": true
+    },
+    {
+      "name": "Discovery IDx ZA",
+      "isFree": true
+    },
+    {
+      "name": "Disney Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "Disney Junior ZA",
+      "isFree": true
+    },
+    {
+      "name": "Dumisa ZA",
+      "isFree": true
+    },
+    {
+      "name": "E! Entertainment ZA",
+      "isFree": true
+    },
+    {
+      "name": "ESPN 1 Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "ESPN 2 Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "Emmanuel TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "EuroNews Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "Faith ZA",
+      "isFree": true
+    },
+    {
+      "name": "Food Network ZA",
+      "isFree": true
+    },
+    {
+      "name": "GauTV ZA",
+      "isFree": true
+    },
+    {
+      "name": "HGTV ZA",
+      "isFree": true
+    },
+    {
+      "name": "HISTORY ZA",
+      "isFree": true
+    },
+    {
+      "name": "JimJam ZA",
+      "isFree": true
+    },
+    {
+      "name": "KIX ZA",
+      "isFree": true
+    },
+    {
+      "name": "KykNET Nou! ZA",
+      "isFree": true
+    },
+    {
+      "name": "Lesotho TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net City ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net Movies 1 ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net Movies 2 ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net Movies 3 ZA",
+      "isFree": true
+    },
+    {
+      "name": "M-Net Movies 4 ZA",
+      "isFree": true
+    },
+    {
+      "name": "MTV ZA",
+      "isFree": true
+    },
+    {
+      "name": "MTV Base ZA",
+      "isFree": true
+    },
+    {
+      "name": "Mindset ZA",
+      "isFree": true
+    },
+    {
+      "name": "MovieRoom Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "Mzansi Bioskop ZA",
+      "isFree": true
+    },
+    {
+      "name": "Mzansi Magic ZA",
+      "isFree": true
+    },
+    {
+      "name": "Mzansi Magic Music ZA",
+      "isFree": true
+    },
+    {
+      "name": "Mzansi Wethu ZA",
+      "isFree": true
+    },
+    {
+      "name": "NDTV247 ZA",
+      "isFree": true
+    },
+    {
+      "name": "National Geographic ZA",
+      "isFree": true
+    },
+    {
+      "name": "Nat Geo Wild ZA",
+      "isFree": true
+    },
+    {
+      "name": "Nick Jr ZA",
+      "isFree": true
+    },
+    {
+      "name": "NickTOONS ZA",
+      "isFree": true
+    },
+    {
+      "name": "Nickelodeon ZA",
+      "isFree": true
+    },
+    {
+      "name": "One Gospel ZA",
+      "isFree": true
+    },
+    {
+      "name": "Parliamentary Service ZA",
+      "isFree": true
+    },
+    {
+      "name": "People’s Weather ZA",
+      "isFree": true
+    },
+    {
+      "name": "ROK ZA",
+      "isFree": true
+    },
+    {
+      "name": "RTP Internacional ZA",
+      "isFree": true
+    },
+    {
+      "name": "SABC 1 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SABC 2 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SABC 3 ZA",
+      "isFree": true
+    },
+    {
+      "name": "SABC News ZA",
+      "isFree": true
+    },
+    {
+      "name": "Sky News ZA",
+      "isFree": true
+    },
+    {
+      "name": "Sound City ZA",
+      "isFree": true
+    },
+    {
+      "name": "Soweto TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "Spice TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "Studio Universal ZA",
+      "isFree": true
+    },
+    {
+      "name": "TBN ZA",
+      "isFree": true
+    },
+    {
+      "name": "TLC ZA",
+      "isFree": true
+    },
+    {
+      "name": "TNT Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "TV5 Monde Afrique ZA",
+      "isFree": true
+    },
+    {
+      "name": "The Home Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "Trace Africa ZA",
+      "isFree": true
+    },
+    {
+      "name": "Trace Urban ZA",
+      "isFree": true
+    },
+    {
+      "name": "Travel Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "Tshwane TV ZA",
+      "isFree": true
+    },
+    {
+      "name": "Universal Channel ZA",
+      "isFree": true
+    },
+    {
+      "name": "VIA ZA",
+      "isFree": true
+    },
+    {
+      "name": "Vuzu AMP ZA",
+      "isFree": true
+    },
+    {
+      "name": "Zee World ZA",
+      "isFree": true
+    },
+    {
+      "name": "eNCA ZA",
+      "isFree": true
+    },
+    {
+      "name": "e.tv ZA",
+      "isFree": true
+    },
+    {
+      "name": "iTV ZA",
+      "isFree": true
+    },
+    {
+      "name": "kykNET ZA",
+      "isFree": true
+    },
+    {
+      "name": "kykNET & Kie ZA",
+      "isFree": true
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "1FSTV",
+      "isFree": true,
+      "website": "https://1freestatetv.co.za/"
+    },
+    {
+      "name": "1KZN TV",
+      "isFree": true,
+      "website": "http://www.1kzntv.co.za/"
+    },
+    {
+      "name": "1Magic",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png",
+      "website": "https://www.dstv.com/onemagic/en-za/home"
+    },
+    {
+      "name": "1max",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/1MAX.png"
+    },
+    {
+      "name": "Abol Duka",
+      "isFree": true,
+      "website": "https://www.dstv.com/aboltv/am-et/channel/%E1%8A%A0%E1%89%A3%E1%88%8D-%E1%8B%B1%E1%8A%AB"
+    },
+    {
+      "name": "Abol TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aboltv.dstv.com/"
+    },
+    {
+      "name": "Afrokiddos",
+      "isFree": true
+    },
+    {
+      "name": "Afroland Black Experience",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLcZwgN.png",
+      "website": "https://www.afrolandtv.com/"
+    },
+    {
+      "name": "Afroland Crime",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLcZwgN.png"
+    },
+    {
+      "name": "Anytime TV",
+      "isFree": true,
+      "website": "https://www.anytimemedia.co.za"
+    },
+    {
+      "name": "ATV Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Big Brother Mzansi",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "Bongo TV",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Boom TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+      "website": "http://www.boomtv.com.br/"
+    },
+    {
+      "name": "Cape Town TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws4mrtndzgSH5QGCamOFAgilr2R.jpg",
+      "website": "http://www.capetowntv.org/"
+    },
+    {
+      "name": "Champions TV Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "Crime and Evidence",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://video.premiumfree.tv/"
+    },
+    {
+      "name": "Diva",
+      "isFree": true,
+      "website": "https://video.premiumfree.tv/?section=lifestylesection"
+    },
+    {
+      "name": "eExtra",
+      "isFree": true,
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "ePlesier",
+      "isFree": true,
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "eReality",
+      "isFree": true,
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "eRewind",
+      "isFree": true,
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "eSeries",
+      "isFree": true,
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "e.tv",
+      "isFree": true,
+      "keywords": "e.tv -africa -news & sport",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
+      "website": "https://www.etv.co.za/",
+      "priority": 9
+    },
+    {
+      "name": "e.tv Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "Fresh",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Galaxy Universal Network",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+      "website": "https://www.galaxyun.tv/"
+    },
+    {
+      "name": "Gau TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.gautv.co.za/"
+    },
+    {
+      "name": "Glow TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/fN0Tsr2/glowtv2.png",
+      "website": "https://glowtv.co.za/"
+    },
+    {
+      "name": "HGTV South Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/HGTV.png"
+    },
+    {
+      "name": "Honey",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",
+      "website": "https://honey.dstv.com/"
+    },
+    {
+      "name": "Ignition",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/IGNITION.png",
+      "website": "https://www.timeslive.co.za/motoring/"
+    },
+    {
+      "name": "INX Prime",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/INXPRIME.png",
+      "website": "https://inxprime.com/"
+    },
+    {
+      "name": "KykNet",
+      "isFree": true,
+      "keywords": "kyknet -lekker!",
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://kyknet.dstv.com/"
+    },
+    {
+      "name": "kykNET&kie",
+      "isFree": true,
+      "website": "https://kyknet.dstv.com/kanaal/kyknet-kie"
+    },
+    {
+      "name": "kykNET NOU!",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://kyknet.dstv.com/kanaal/kyknet-nou"
+    },
+    {
+      "name": "Life TV",
+      "isFree": true,
+      "website": "https://video.premiumfree.tv/?section=documentarysection"
+    },
+    {
+      "name": "Limelight",
+      "isFree": true,
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Limpopo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.limpopotelevision.co.za/"
+    },
+    {
+      "name": "LOL Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNlTN77u8XVzXCnxRl8lVpWUdYQ.jpg"
+    },
+    {
+      "name": "Magic Showcase",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
+      "website": "https://www.dstv.com/mzansimagic/en-za/channel/magic-showcase"
+    },
+    {
+      "name": "Maisha Magic Bongo",
+      "isFree": true,
+      "website": "https://maishamagicbongo.dstv.com/"
+    },
+    {
+      "name": "Maisha Magic East",
+      "isFree": true,
+      "website": "https://maishamagiceast.dstv.com/"
+    },
+    {
+      "name": "Maisha Magic Plus",
+      "isFree": true,
+      "website": "https://maishamagicplus.dstv.com/"
+    },
+    {
+      "name": "Maisha Magic Poa",
+      "isFree": true,
+      "website": "https://www.dstv.com/maishamagicplus/en-ke/home"
+    },
+    {
+      "name": "Maningue Kool",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.dstv.com/maninguemagic/pt-mz/channel/maningue-kool"
+    },
+    {
+      "name": "Maningue Magic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
+      "website": "https://www.dstv.com/maninguemagic/pt-mz/home"
+    },
+    {
+      "name": "Me",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQ3EWU329YDGi4BOrEHpopq0BZi.jpg",
+      "website": "https://m-net.dstv.com/channel/me"
+    },
+    {
+      "name": "M-Net",
+      "isFree": true,
+      "keywords": "m-net -movies 1 -movies 2 -movies 3 -movies 4 -movies men of action",
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://m-net.dstv.com/",
+      "priority": 9
+    },
+    {
+      "name": "Moja Love",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MOJATV-1.png",
+      "website": "http://mojalove.co.za/"
+    },
+    {
+      "name": "Mpuma Kapa TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/mpuma.png",
+      "website": "https://mpumakapa.tv/"
+    },
+    {
+      "name": "Mpumalanga Broadcasting TV Station",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZkBEAp7.png"
+    },
+    {
+      "name": "MTV Africa",
+      "isFree": true,
+      "website": "http://www.mtv.co.za/",
+      "priority": 8
+    },
+    {
+      "name": "MYtv",
+      "isFree": true,
+      "website": "http://www.mytv.co.za/"
+    },
+    {
+      "name": "Mzansi Magic",
+      "isFree": true,
+      "keywords": "mzansi magic -music",
+      "logo": "https://go4.pw/Africa/MZANSI.png",
+      "website": "https://www.dstv.com/mzansimagic/en-za/home"
+    },
+    {
+      "name": "Mzansi Wethu",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MZANSI.png",
+      "website": "http://mzansimagic.dstv.com/category/channels/mzansi-wethu/"
+    },
+    {
+      "name": "NuView TV",
+      "isFree": true,
+      "website": "https://nuviewtv.co.za/"
+    },
+    {
+      "name": "OneZed",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ONEZED.png",
+      "website": "https://onezed.dstv.com/"
+    },
+    {
+      "name": "Onse TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.onsetv.co.za/"
+    },
+    {
+      "name": "Pearl Magic Loko",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+      "website": "https://www.dstv.com/pearlmagicprime/en-ug/home"
+    },
+    {
+      "name": "Phuthuloha TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://phuthulohatv.co.za/"
+    },
+    {
+      "name": "Pulse",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8stsv7jhIQz9QmEHG6QOD0TuLv4.jpg",
+      "website": "https://video.premiumfree.tv/?section=lifestylesection"
+    },
+    {
+      "name": "Rabboni TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rabboni.tv/"
+    },
+    {
+      "name": "Rising Sun TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY1ufnbv2bTyoNcAtGF4BwapKi6.jpg",
+      "website": "https://www.risingsuntv.co.za/"
+    },
+    {
+      "name": "ROV TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sbeuEYY.png",
+      "website": "http://www.rockofvictoryministries.org/"
+    },
+    {
+      "name": "RPM",
+      "isFree": true,
+      "keywords": "rpm -tv",
+      "website": "https://video.premiumfree.tv/?section=sportssection"
+    },
+    {
+      "name": "RPM TV",
+      "isFree": true,
+      "website": "http://www.rpmtv.co.za/"
+    },
+    {
+      "name": "SABC 1",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://www.sabc1.co.za/",
+      "priority": 10
+    },
+    {
+      "name": "SABC 2",
+      "isFree": true,
+      "website": "http://www.sabc2.co.za/"
+    },
+    {
+      "name": "SABC 3",
+      "isFree": true,
+      "website": "http://www.sabc3.co.za/"
+    },
+    {
+      "name": "Soweto TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNxLPPXAR13sjNIBGIncnR13v6E.jpg",
+      "website": "https://www.sowetotv.co.za/"
+    },
+    {
+      "name": "SWITCH'D ON Channel 109",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "https://www.dstv.com/"
+    },
+    {
+      "name": "SWITCH'D ON Channel 110",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "https://www.dstv.com/"
+    },
+    {
+      "name": "TBN Africa",
+      "isFree": true,
+      "website": "https://www.tbnafrica.org/"
+    },
+    {
+      "name": "Telemundo Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png",
+      "website": "http://www.telemundo.com/"
+    },
+    {
+      "name": "The Home Channel",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.thehomechannel.co.za/"
+    },
+    {
+      "name": "Trigger",
+      "isFree": true,
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "True African",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23181/true-african/logo_20231219_223636_67.png"
+    },
+    {
+      "name": "Tshwane TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/TSHWANE.png",
+      "website": "http://www.tshwane.tv/"
+    },
+    {
+      "name": "TV BRICS Africa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Universal TV Africa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg",
+      "website": "http://www.universaltv.co.za/"
+    },
+    {
+      "name": "VIA",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/VIA.png",
+      "website": "http://www.viatv.co.za/"
+    },
+    {
+      "name": "Vuzu",
+      "isFree": true
+    },
+    {
+      "name": "World of Plenty TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+    },
+    {
+      "name": "Zee Alem",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png"
+    },
+    {
+      "name": "Zee Magic",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "https://www.zeeafrica.tv/"
+    },
+    {
+      "name": "Zee One Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "http://zeeone.zeeafrica.tv/"
+    },
+    {
+      "name": "Zee TV Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "https://www.zee.com/business_channels/africa/"
+    },
+    {
+      "name": "Zee World",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "http://zeeworld.zeeafrica.tv/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Afrobeats TV",
+      "isFree": true
+    },
+    {
+      "name": "BOKTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mcNjuuO.png",
+      "website": "https://www.bokradio.co.za/"
+    },
+    {
+      "name": "Channel O",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://channelo.dstv.com/"
+    },
+    {
+      "name": "Kfm 94.5",
+      "isFree": true,
+      "website": "http://www.kfm.co.za"
+    },
+    {
+      "name": "KykNet Lekker!",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://kyknet.dstv.com/show/kyknet-lekker"
+    },
+    {
+      "name": "MTV Base Africa",
+      "isFree": true,
+      "website": "http://www.mtvbase.com/",
+      "priority": 8
+    },
+    {
+      "name": "Mzansi Magic Music",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MZANSI.png",
+      "website": "http://mzansimagic.dstv.com/category/channels/mzansi-music/"
+    },
+    {
+      "name": "Zambezi Magic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
+      "website": "http://zambezimagic.dstv.com/"
+    },
+    {
+      "name": "947",
+      "isFree": true,
+      "website": "http://www.947.co.za/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Afriwood Blockbuster",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23181/afriwood-blockbuster/logo_20231219_184011_68.png",
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Afriwood Series",
+      "isFree": true,
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Cine Magic",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.dstv.com/mzansimagic/en-za/channel/cine-magic"
+    },
+    {
+      "name": "Cinema Hausa",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23181/cinema-hausa/logo_20231219_192336_67.png",
+      "website": "https://video.premiumfree.tv/linear/cinema-hausa"
+    },
+    {
+      "name": "eMovies",
+      "isFree": true,
+      "keywords": "emovies -extra",
+      "logo": "https://go4.pw/AFRICA/EMOVIES.png",
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "eMovies Extra",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EMOVIES.png",
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "FliekNet",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/FLIEKNET.png",
+      "website": "https://kyknet.dstv.com/nuus/flieknet-spesiale-fliekkanaal-keer-terug-die-somervakansie"
+    },
+    {
+      "name": "Maisha Magic Movies",
+      "isFree": true,
+      "website": "https://maishamagicmovies.dstv.com/"
+    },
+    {
+      "name": "M-Net Movies 1",
+      "isFree": true,
+      "website": "https://m-net.dstv.com/channel/m-net-movies-1-104"
+    },
+    {
+      "name": "M-Net Movies 2",
+      "isFree": true,
+      "website": "https://m-net.dstv.com/channel/m-net-movies-2-106"
+    },
+    {
+      "name": "M-Net Movies 3",
+      "isFree": true,
+      "website": "https://m-net.dstv.com/channel/m-net-movies-3-107"
+    },
+    {
+      "name": "M-Net Movies 4",
+      "isFree": true,
+      "website": "https://m-net.dstv.com/channel/m-net-movies-4-108"
+    },
+    {
+      "name": "M-Net Movies Men of Action",
+      "isFree": true
+    },
+    {
+      "name": "MovieRoom",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MOVIEROOM.png",
+      "website": "https://movieroom.tv/"
+    },
+    {
+      "name": "Mzansi Bioskop",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MZANSI.png",
+      "website": "http://mzansimagic.dstv.com/category/channels/mzansi-bioskop/"
+    },
+    {
+      "name": "Novela Magic",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NOVELA MAGIC.png",
+      "website": "https://m-net.dstv.com/channel/novela-magic-165"
+    },
+    {
+      "name": "Zee Bollymovies",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "http://www.zeebollymovies.zeeafrica.tv/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "BRICS Africa Channel",
+      "isFree": true,
+      "website": "https://www.bricsafricachannel.com/channel/inform"
+    },
+    {
+      "name": "DBE TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.education.gov.za/"
+    },
+    {
+      "name": "Liberty Learn",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
+      "website": "https://www.mindset.africa/"
+    },
+    {
+      "name": "National Geographic South Africa",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "website": "http://www.natgeotv.com/za",
+      "priority": 9
+    },
+    {
+      "name": "National Geographic Wild South Africa",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "website": "http://www.natgeotv.com/za/wild",
+      "priority": 9
+    },
+    {
+      "name": "Nongoma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://nongomatv.com/"
+    },
+    {
+      "name": "Pop Primary",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.mindset.africa/"
+    },
+    {
+      "name": "SABC Education",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "http://www.sabceducation.co.za/"
+    }
+  ],
+  "News": [
+    {
+      "name": "BusinessDay TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.businesslive.co.za/multimedia/"
+    },
+    {
+      "name": "CNBC Africa",
+      "isFree": true,
+      "website": "https://www.cnbcafrica.com/"
+    },
+    {
+      "name": "eNews Channel Africa",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.enca.com/"
+    },
+    {
+      "name": "e.tv News & Sport",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.openview.co.za/channel/open-news"
+    },
+    {
+      "name": "Kruiskyk TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://kruiskyk.tv/"
+    },
+    {
+      "name": "LN24SA",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Hg5YTwu.png",
+      "website": "https://ln24sa.com/"
+    },
+    {
+      "name": "Newzroom Afrika",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://www.newzroomafrika.tv/"
+    },
+    {
+      "name": "People's Weather",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQilVzOxLPxvBn9hAuvGpKTpONM.jpg",
+      "website": "http://www.peoplesweather.com/"
+    },
+    {
+      "name": "SABC Lehae",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/CxF5dWMP/sabclehae.png",
+      "website": "https://sabc-plus.com/"
+    },
+    {
+      "name": "SABC News",
+      "isFree": true,
+      "website": "http://www.sabc.co.za/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Disney Junior South Africa",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://www.disney.co.za/disney-junior/",
+      "priority": 9
+    },
+    {
+      "name": "eToonz",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/e_Toonz+.png",
+      "website": "https://www.etv.co.za/"
+    },
+    {
+      "name": "Kiddiwinks",
+      "isFree": true,
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "Nickelodeon Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
+      "website": "http://www.nickelodeonafrica.com/"
+    },
+    {
+      "name": "Nick Jr. Africa",
+      "isFree": true,
+      "website": "http://www.nickelodeonafrica.com/"
+    },
+    {
+      "name": "Nicktoons Africa",
+      "isFree": true,
+      "website": "http://www.nickelodeonafrica.com/micro/nicktoons/qzj5mr"
+    },
+    {
+      "name": "Txillo",
+      "isFree": true
+    }
+  ],
+  "Sports": [
+    {
+      "name": "ESPN 2 Africa",
+      "isFree": true,
+      "website": "https://africa.espn.com/",
+      "priority": 10
+    },
+    {
+      "name": "ESPN Africa",
+      "isFree": true,
+      "website": "https://africa.espn.com/",
+      "priority": 10
+    },
+    {
+      "name": "Fight Night",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2StM8Vavf7ukvuj9mxg1o7nKxmi.jpg",
+      "website": "https://video.premiumfree.tv/?section=sportssection"
+    },
+    {
+      "name": "Gallop TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.galloptv.co.za/"
+    },
+    {
+      "name": "Kiron Dog Race",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
+      "website": "https://kironinteractive.com/"
+    },
+    {
+      "name": "Kiron Fast League",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oKBsQ3SdjGuBDDhPR31CO9qX1b.jpg",
+      "website": "https://kironinteractive.com/"
+    },
+    {
+      "name": "Racing 240",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "website": "https://www.4racing.tv/"
+    },
+    {
+      "name": "SABC Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://www.sabcsport.co.za/"
+    },
+    {
+      "name": "Sports Connect",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23181/sports-connect/logo_20231219_222026_50.png",
+      "website": "https://www.africaxp.com/"
+    },
+    {
+      "name": "SuperSport Action",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Blitz",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Cricket",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport CSN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport ESPN",
+      "isFree": true,
+      "keywords": "supersport espn -2",
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport ESPN 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Football",
+      "isFree": true,
+      "keywords": "supersport football -plus",
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Football Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport GINX",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Golf",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Grandstand",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport LaLiga",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Maximo 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Maximo 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Maximo 360",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Motorsport",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 4",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 5",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 6",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 7",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport OTT 8",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Play",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Premier League",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport PSL",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Rugby",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Schools",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "http://supersportschools.com/"
+    },
+    {
+      "name": "SuperSport Select 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Select 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Tennis",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Variety 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Variety 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Variety 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "SuperSport Variety 4",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.com/"
+    },
+    {
+      "name": "Tellytrack 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.tellytrack.com/"
+    },
+    {
+      "name": "Tellytrack 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.tellytrack.com/"
+    },
+    {
+      "name": "Tellytrack 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.tellytrack.com/"
+    },
+    {
+      "name": "Tellytrack 4",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://www.tellytrack.com/"
+    },
+    {
+      "name": "W-Sport",
+      "isFree": true,
+      "website": "https://www.w-sport.com/"
+    },
+    {
+      "name": "WWE Channel Africa",
+      "isFree": true,
+      "website": "https://www.supersport.com/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Jet Mart TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d31LKiVdfztUlY8MF1oE30wl4iO.jpg",
+      "website": "https://www.jetonline.co.za/"
+    }
+  ]
+}

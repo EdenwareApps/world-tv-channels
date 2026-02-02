@@ -1,0 +1,952 @@
+{
+  "Religious": [
+    {
+      "name": "Ahlu Al Quran TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Quran Al Kareem TV",
+      "isFree": true,
+      "shortName": "AQAKT",
+      "logo": "https://i.imgur.com/A2fJysM.png"
+    },
+    {
+      "name": "Al Sunnah Al Nabawiyah TV",
+      "isFree": true,
+      "shortName": "ASANT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al-Resalah",
+      "isFree": true
+    },
+    {
+      "name": "Iqraa",
+      "isFree": true,
+      "keywords": "iqraa -europe africa"
+    },
+    {
+      "name": "Iqraa Europe Africa",
+      "isFree": true,
+      "shortName": "IEA",
+      "logo": "https://go4.pw/SOMALIA/IQRAA.png"
+    },
+    {
+      "name": "Kaif TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Makkah TV",
+      "isFree": true
+    },
+    {
+      "name": "Wesal TV",
+      "isFree": true
+    },
+    {
+      "name": "ZAD TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ZAD_TV.png"
+    },
+    {
+      "name": "Ahl-Alquran TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ahlu.tv/"
+    },
+    {
+      "name": "Al-Majd Al Hadeeth Al Nabawy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Al-Majd Holy Quran",
+      "isFree": true,
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Al-Majd Scientific",
+      "isFree": true,
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Al Resalah",
+      "isFree": true,
+      "keywords": "al resalah -international",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.alresalah.net/"
+    },
+    {
+      "name": "Al Resalah International",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.alresalah.net/"
+    },
+    {
+      "name": "Al Sahraa TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "http://www.alsahraa.tv/index.php"
+    },
+    {
+      "name": "Iqraa Africa & Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/IQRAA.png",
+      "website": "https://iqraa.com/"
+    },
+    {
+      "name": "Iqraa Arabic",
+      "isFree": true,
+      "website": "https://iqraa.com/"
+    },
+    {
+      "name": "Iqraa Duea Wabtihal",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/IQRAA.png",
+      "website": "https://www.iqraa.com/Live?type=5"
+    },
+    {
+      "name": "Iqraa Mukhtarat 1",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/IQRAA.png",
+      "website": "https://www.iqraa.com/Live?type=4"
+    },
+    {
+      "name": "Iqraa Quran",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/IQRAA.png",
+      "website": "https://iqraa.com/"
+    },
+    {
+      "name": "Quran TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095254463635_91.png"
+    },
+    {
+      "name": "Sad Satellite Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/6274.png",
+      "website": "https://www.ssad.tv/live-tv/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Al Ekhbariya",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Asharq",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/acharqdecom77.png"
+    },
+    {
+      "name": "Al Alam Al Yawm",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Arabiya English",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Hadath",
+      "isFree": true,
+      "website": "https://www.alhadath.net/"
+    },
+    {
+      "name": "Asharq News",
+      "isFree": true,
+      "keywords": "asharq news -portrait",
+      "website": "https://asharq.com/"
+    },
+    {
+      "name": "Asharq News Portrait",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/acharqdecom77.png",
+      "website": "https://asharq.com/"
+    },
+    {
+      "name": "Asharq Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/acharqdecom77.png",
+      "website": "https://asharqbusiness.com/radio/"
+    },
+    {
+      "name": "Channel 24 Saudi",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://24mediagroup.net/"
+    },
+    {
+      "name": "Oyoun Al-Watan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.oyounalwatan.com/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Atfal Wa Mawaheb",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ATFAL_MAWAHEB.png"
+    },
+    {
+      "name": "Rotana Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+    },
+    {
+      "name": "Al-Majd Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Anime",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728174050565690_92.jpg"
+    },
+    {
+      "name": "Atfal & Mawaheb TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ATFAL_MAWAHEB.png",
+      "website": "https://atfal1.com/"
+    }
+  ],
+  "Travel": [
+    {
+      "name": "Jasco Events TV",
+      "isFree": true
+    }
+  ],
+  "Sports": [
+    {
+      "name": "KSA Sports 1",
+      "isFree": false,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png"
+    },
+    {
+      "name": "KSA Sports 2",
+      "isFree": false,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png"
+    },
+    {
+      "name": "SSC Action Waleed",
+      "isFree": false,
+      "keywords": "ssc action waleed -extra",
+      "shortName": "SAW",
+      "logo": "https://i.imgur.com/agc0IZF.png"
+    },
+    {
+      "name": "SSC Action Waleed Extra",
+      "isFree": false,
+      "shortName": "SAWE"
+    },
+    {
+      "name": "SSC1 HD",
+      "isFree": false,
+      "logo": "https://go4.pw/UK/skyns.png"
+    },
+    {
+      "name": "Channel 24 Sports",
+      "isFree": true,
+      "website": "https://24mediagroup.net/%d9%82%d9%86%d8%a7%d8%a9-24-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9"
+    },
+    {
+      "name": "KSA Sports 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png",
+      "website": "https://www.aloula.sa/live/ksa-sports3"
+    },
+    {
+      "name": "KSA Sports 4",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png"
+    },
+    {
+      "name": "SSC 1",
+      "isFree": true
+    },
+    {
+      "name": "SSC 2",
+      "isFree": true
+    },
+    {
+      "name": "SSC 3",
+      "isFree": true
+    },
+    {
+      "name": "SSC 4",
+      "isFree": true
+    },
+    {
+      "name": "SSC 5",
+      "isFree": true
+    },
+    {
+      "name": "SSC Extra 1",
+      "isFree": true
+    },
+    {
+      "name": "SSC Extra 2",
+      "isFree": true
+    },
+    {
+      "name": "SSC Extra 3",
+      "isFree": true
+    },
+    {
+      "name": "SSC News",
+      "isFree": true,
+      "website": "https://ssc.tv/"
+    },
+    {
+      "name": "Thmanyah 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png",
+      "website": "https://thmanyah.com/"
+    },
+    {
+      "name": "Thmanyah 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png",
+      "website": "https://thmanyah.com/"
+    },
+    {
+      "name": "Thmanyah 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png",
+      "website": "https://thmanyah.com/"
+    }
+  ],
+  "Comedy": [
+    {
+      "name": "Rotana Comedy",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "AL HOKAIR Group TV",
+      "isFree": true,
+      "shortName": "AHGT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Khalij",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Saudiya",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Rotana Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+    },
+    {
+      "name": "Rotana+",
+      "isFree": true
+    },
+    {
+      "name": "SBC",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SBC_TV.png",
+      "priority": 8
+    },
+    {
+      "name": "22 Arab TV",
+      "isFree": true
+    },
+    {
+      "name": "7lim BIGOTV",
+      "isFree": true,
+      "website": "https://7lim.com/"
+    },
+    {
+      "name": "Al Amaken TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Khalij TV",
+      "isFree": true,
+      "website": "https://www.al-khalij.tv/"
+    },
+    {
+      "name": "Alkhuzama Radio",
+      "isFree": true,
+      "logo": "https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b",
+      "website": "https://radioplus.sba.sa/en/live/7"
+    },
+    {
+      "name": "Al-Majd Al Tabeeaiyah",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Al-Majd Public Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Al Mergab TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Riyadh Radio",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.aloula.sa/en/live/riyadhradio"
+    },
+    {
+      "name": "Al Saudiya Alaan",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.aloula.sa/live/ksa-now"
+    },
+    {
+      "name": "Alwesam TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "ART America",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "Ayat",
+      "isFree": true
+    },
+    {
+      "name": "Bedaya TV",
+      "isFree": true,
+      "website": "http://www.bedaya.tv/"
+    },
+    {
+      "name": "Beity",
+      "isFree": true
+    },
+    {
+      "name": "Besma",
+      "isFree": true,
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Big Time Plus",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "Bin Othaimeen",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BIN_OUTHAYMINE.png",
+      "website": "http://binothaimeen.net/channel/"
+    },
+    {
+      "name": "Dahk wa Bass",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png"
+    },
+    {
+      "name": "Duhk Wa Bas",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png"
+    },
+    {
+      "name": "EN TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg"
+    },
+    {
+      "name": "Khaliji Comedy",
+      "isFree": true,
+      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+    },
+    {
+      "name": "LBC",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PTOeIjz.png",
+      "website": "http://rotana.net/vod-channels/lbc/"
+    },
+    {
+      "name": "Masah",
+      "isFree": true,
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "MBC Gaming",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png"
+    },
+    {
+      "name": "Qur'an Hidayah English",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "http://www.quran-hidayah.com/main/en/"
+    },
+    {
+      "name": "Quran Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/BAHRAIN/QURAN.png"
+    },
+    {
+      "name": "Ramez",
+      "isFree": true
+    },
+    {
+      "name": "Rawdah",
+      "isFree": true,
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Romance",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c82d614caaf34bf4fc0a9f12ec8c77eb.png"
+    },
+    {
+      "name": "Rotana Aflam",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613195027731064_83.png"
+    },
+    {
+      "name": "Rotana Aflam+",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23137/rotana-aflam-plus/logo_20231219_221653_60.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "name": "Rotana America",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "name": "Rotana Clip",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "name": "Rotana D7",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "https://rotana.net/ar/channels#/live/rotana_D7kwbs"
+    },
+    {
+      "name": "Rotana Sydtelshasha",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "https://rotana.net/ar/channels#/live/rotana_Sydtelshasha"
+    },
+    {
+      "name": "Saudia Radio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CvrR7wW.png"
+    },
+    {
+      "name": "Sayedat Alshasha",
+      "isFree": true
+    },
+    {
+      "name": "Shareeyah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sunna TV",
+      "isFree": true,
+      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png"
+    },
+    {
+      "name": "Waqie TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Zad TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ZAD_TV.png",
+      "website": "https://www.zad.tv/"
+    },
+    {
+      "name": "Al Hokair Group TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Rotana Khalijia",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+    },
+    {
+      "name": "Abdulmajeed Abdullah",
+      "isFree": true,
+      "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"
+    },
+    {
+      "name": "ART Tarab",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "Fairuz",
+      "isFree": true,
+      "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"
+    },
+    {
+      "name": "Jeddah Radio",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Majid Al Mohandis",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/MAJID.png"
+    },
+    {
+      "name": "MBC Loud",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://mbcloud.fm"
+    },
+    {
+      "name": "Mohammed Abdo",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyhdQxbl1UQIVTPzCOxc1d5eunx.jpg"
+    },
+    {
+      "name": "M+",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23137/m-plus/logo_20231219_215325_35.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "name": "Nidae AlIslam Radio",
+      "isFree": true,
+      "website": "https://www.aloula.sa/en/live/nidaalislam"
+    },
+    {
+      "name": "Rabeh Saqer",
+      "isFree": true,
+      "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png"
+    },
+    {
+      "name": "Rashid AlMajed",
+      "isFree": true,
+      "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp"
+    },
+    {
+      "name": "Rotana FM KSA",
+      "isFree": true,
+      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
+      "website": "https://rotanaradios.com/"
+    },
+    {
+      "name": "Rotana Music",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/11/27/20141127232447442131_30.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "name": "Tarab",
+      "isFree": true
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Rotana Cinema",
+      "isFree": false,
+      "keywords": "rotana cinema -ksa",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png"
+    },
+    {
+      "name": "Rotana Cinema KSA",
+      "isFree": false,
+      "shortName": "RCK",
+      "logo": "https://i.imgur.com/pGgp38I.png"
+    },
+    {
+      "name": "Rotana Classic",
+      "isFree": false,
+      "logo": "https://i.imgur.com/pMMUvkt.png"
+    },
+    {
+      "name": "Thikrayat TV",
+      "isFree": false,
+      "logo": "https://go4.pw/ARABE/dikriyat7.png"
+    },
+    {
+      "name": "Aflam",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ART_AFLAM1.png"
+    },
+    {
+      "name": "ART Aflam 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "ART Aflam 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "Art Cima",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://my.dish.com/station/ARTCM"
+    },
+    {
+      "name": "ART Cinema",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "ART Hekayat",
+      "isFree": true,
+      "keywords": "art hekayat -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "ART Hekayat 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "https://www.artonline.tv/"
+    },
+    {
+      "name": "Bab Al Hara",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJVplPvMtqorn6OpLzt2nxZH3Vj.jpg"
+    },
+    {
+      "name": "Drama Badawia",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png"
+    },
+    {
+      "name": "Maraya",
+      "isFree": true,
+      "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png"
+    },
+    {
+      "name": "MBC Masr Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://www.mbc.net/"
+    },
+    {
+      "name": "MBC Max",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://www.mbc.net/pages/mbc-max/"
+    },
+    {
+      "name": "MBC+ Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://www.mbc.net/channels/mbc-drama-plus"
+    },
+    {
+      "name": "Movies Action",
+      "isFree": true
+    },
+    {
+      "name": "Movies Thriller",
+      "isFree": true
+    },
+    {
+      "name": "Spooky Nights",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq2Xc3fp47F0nQsFGsnxmX8H2NS.jpg"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "MBC FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hPlzVUj.png",
+      "priority": 4
+    },
+    {
+      "name": "Panorama FM",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/PANORAMA DRAMA 123.png",
+      "priority": 4
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Al-Majd Documentary",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTGgogxNBUsxrytbZFwBqMqvEX.jpg",
+      "website": "https://almajdtv.com/"
+    },
+    {
+      "name": "Asharq Discovery",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/acharqdecom77.png",
+      "website": "https://asharqdiscovery.com"
+    },
+    {
+      "name": "Asharq Documentary",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/acharqdecom77.png",
+      "website": "https://now.asharq.com/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A9"
+    },
+    {
+      "name": "IEN Doros 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 10",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 11",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/PORTUGAL/11tv.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 12",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 13",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 14",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 15",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 16",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 17",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 18",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 19",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 20",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 21",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 22",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 23",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 4",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 5",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 6",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 7",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 8",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros 9",
+      "isFree": true,
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "IEN Doros TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.ientv.edu.sa/"
+    },
+    {
+      "name": "Saudi Thaqafiya TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ISLAMIC/SUNNA.png",
+      "website": "http://thaqafiyatv.sa/"
+    }
+  ]
+}

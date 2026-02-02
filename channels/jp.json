@@ -1,0 +1,2201 @@
+{
+  "Religious": [
+    {
+      "name": "CGNTV Japan",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/japon/jp_CGNTV.png"
+    },
+    {
+      "name": "Better Life Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/55gkFbie2Nbudo21rDpi6zG0XvC.jpg",
+      "website": "https://www.pod.tv/works/broadcast/"
+    },
+    {
+      "name": "Happy Science",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "https://happy-science.jp/"
+    },
+    {
+      "name": "Hope Channel Japan",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "https://www.hopechannel.jp/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ABC",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+      "priority": 10
+    },
+    {
+      "name": "BS 12",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg"
+    },
+    {
+      "name": "BS Asahi",
+      "isFree": true,
+      "logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",
+      "website": "https://www.bs-asahi.co.jp"
+    },
+    {
+      "name": "BS Fuji TV",
+      "isFree": true,
+      "shortName": "BS Fuji",
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bsfuji.tv"
+    },
+    {
+      "name": "BS Nippon TV",
+      "isFree": true,
+      "shortName": "BS NTV",
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bs4.jp"
+    },
+    {
+      "name": "BS TV Tokyo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
+      "website": "https://www.bs-tvtokyo.co.jp"
+    },
+    {
+      "name": "BS-TBS",
+      "isFree": true,
+      "website": "https://www.bs-tbs.co.jp",
+      "priority": 9
+    },
+    {
+      "name": "CGNTV",
+      "isFree": true,
+      "keywords": "cgntv -japan",
+      "logo": "https://images.iptvmate.net/tvglogo/420f79197581b740dbca0d0f17a5076f.png"
+    },
+    {
+      "name": "Disney Channel Japan",
+      "isFree": true,
+      "shortName": "DCJ",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Family Gekijo",
+      "isFree": true
+    },
+    {
+      "name": "Fuji TV",
+      "isFree": true,
+      "keywords": "fuji tv -one",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",
+      "website": "https://www.fujitv.co.jp"
+    },
+    {
+      "name": "Fuji TV One",
+      "isFree": true,
+      "retransmits": "Fuji TV",
+      "shortName": "Fuji TV",
+      "logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",
+      "website": "https://www.fujitv.co.jp"
+    },
+    {
+      "name": "GAORA",
+      "isFree": true
+    },
+    {
+      "name": "GTN Typhome",
+      "isFree": true
+    },
+    {
+      "name": "Hiroshima Weather Information",
+      "isFree": true,
+      "shortName": "HWI",
+      "logo": "https://images.iptvmate.net/tvglogo/41b855926f631c162ea49ac6f1eb9fd0.png"
+    },
+    {
+      "name": "Japanet Channel DX",
+      "isFree": true,
+      "shortName": "JCD",
+      "logo": "https://images.iptvmate.net/tvglogo/20ddd1e0a451300d4a3613baeb9ff5eb.png"
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"
+    },
+    {
+      "name": "MBS",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"
+    },
+    {
+      "name": "MX Live",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/Mexico/Mexico.png"
+    },
+    {
+      "name": "NHK BS1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/bs",
+      "priority": 9
+    },
+    {
+      "name": "NHK BSP",
+      "isFree": true,
+      "shortName": "NHK BS PremiuM",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/bs",
+      "priority": 9
+    },
+    {
+      "name": "NHK E Osaka",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NHK E",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp",
+      "priority": 9
+    },
+    {
+      "name": "NHK E Tokyo",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NHK E",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp",
+      "priority": 9
+    },
+    {
+      "name": "NHK G Osaka",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NHK G",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp",
+      "priority": 9
+    },
+    {
+      "name": "NHK G Tokyo",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NHK G",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp",
+      "priority": 9
+    },
+    {
+      "name": "NHK General TV",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NHK G",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp",
+      "priority": 9
+    },
+    {
+      "name": "NHK World",
+      "isFree": true,
+      "keywords": "nhk world -japan",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www3.nhk.or.jp/nhkworld",
+      "priority": 9
+    },
+    {
+      "name": "NHK华语视界",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Nippon TV",
+      "isFree": true,
+      "shortName": "NTV",
+      "logo": "https://go4.pw/ASIA/NIPPON_TV.png",
+      "website": "https://www.ntv.co.jp"
+    },
+    {
+      "name": "Star 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Star 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Star 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "TBS",
+      "isFree": true,
+      "logo": "https://i.ibb.co/Mx0fSZpK/TBS.png",
+      "website": "https://www.tbs.co.jp",
+      "priority": 10
+    },
+    {
+      "name": "TV Asahi",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
+      "website": "https://www.tv-asahi.co.jp"
+    },
+    {
+      "name": "TV Tokyo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
+      "website": "https://www.tv-tokyo.co.jp"
+    },
+    {
+      "name": "Weather Channel",
+      "isFree": true
+    },
+    {
+      "name": "ABEMA Drama",
+      "isFree": true,
+      "keywords": "abema drama -2",
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://abema.tv/now-on-air/drama?lang=en"
+    },
+    {
+      "name": "ABEMA Gold",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Korean & Chinese",
+      "isFree": true,
+      "keywords": "abema korean & chinese -2",
+      "logo": "https://img.redtraffic.xyz/22601.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Special",
+      "isFree": true,
+      "keywords": "abema special -2",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Special 2",
+      "isFree": true,
+      "website": "https://abema.tv/now-on-air/special-plus?lang=en"
+    },
+    {
+      "name": "AV King",
+      "isFree": null,
+      "website": "https://avking.jp/"
+    },
+    {
+      "name": "BS 11",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bs11.jp/"
+    },
+    {
+      "name": "BS Asahi 4K",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bs-asahi.co.jp/"
+    },
+    {
+      "name": "BS Fuji",
+      "isFree": true,
+      "keywords": "bs fuji -4k -tv",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",
+      "website": "https://www.bsfuji.tv/"
+    },
+    {
+      "name": "BS Fuji 4K",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bsfuji.tv/top/list/4k.html"
+    },
+    {
+      "name": "BS Nippon TV 4K",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bs4.jp/4k/"
+    },
+    {
+      "name": "BSN YouTube",
+      "isFree": true,
+      "website": "https://www.bsnnet.co.jp/"
+    },
+    {
+      "name": "BS Open University Main",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.ouj.ac.jp/"
+    },
+    {
+      "name": "BS Open University Sub",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.ouj.ac.jp/"
+    },
+    {
+      "name": "BS Shochiku Tokyu",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.shochiku-tokyu.co.jp/"
+    },
+    {
+      "name": "BS SKY PerfecTV!",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.bs-sptv.com/"
+    },
+    {
+      "name": "BS-TBS 4K",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png",
+      "website": "https://bs.tbs.co.jp/4k/",
+      "priority": 9
+    },
+    {
+      "name": "BS TV Tokyo 4K",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.tv-tokyo.co.jp/"
+    },
+    {
+      "name": "BS Yoshimoto",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://bsy.co.jp/"
+    },
+    {
+      "name": "Cable 4K",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "website": "https://www.cable4k.jp/",
+      "priority": 4
+    },
+    {
+      "name": "Channel Ginga",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",
+      "website": "https://www.ch-ginga.jp/"
+    },
+    {
+      "name": "Cherry Bomb",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg",
+      "website": "http://www.cherrybomb.co.jp/hd/ch.html"
+    },
+    {
+      "name": "CLUB TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
+      "website": "https://www.clubtv.jp/"
+    },
+    {
+      "name": "Discovery Turbo",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Dynamite TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3oWQDz0JggzzsVlsuHY7XVxp5Y.jpg",
+      "website": "https://dynamitetv.jp/"
+    },
+    {
+      "name": "Enter! 959",
+      "isFree": null,
+      "website": "https://www.cs959.com/"
+    },
+    {
+      "name": "Entermei Tele",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",
+      "website": "https://www.entermeitele.com/"
+    },
+    {
+      "name": "Family Gekijyo",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",
+      "website": "https://www.fami-geki.com/"
+    },
+    {
+      "name": "Fishing Vision",
+      "isFree": true,
+      "website": "https://www.broadmedia.co.jp/en/broadcast/fishing-tv/"
+    },
+    {
+      "name": "Flamingo",
+      "isFree": null,
+      "website": "http://flamingo.fit/fla.html"
+    },
+    {
+      "name": "FOX",
+      "isFree": true,
+      "website": "https://foxnetworks.jp/"
+    },
+    {
+      "name": "Fuji TV NEXT",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
+      "website": "https://otn.fujitv.co.jp/"
+    },
+    {
+      "name": "Fuji TV TWO",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",
+      "website": "https://otn.fujitv.co.jp/"
+    },
+    {
+      "name": "Green Channel",
+      "isFree": true,
+      "keywords": "green channel -2",
+      "logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",
+      "website": "https://www.greenchannel.jp/"
+    },
+    {
+      "name": "Green Channel 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "website": "https://www.greenchannel.jp/"
+    },
+    {
+      "name": "Hikari TV Channel",
+      "isFree": true,
+      "keywords": "hikari tv channel -2 -4k",
+      "logo": "https://img.redtraffic.xyz/22596.jpg",
+      "website": "https://www.hikaritv.net/entry/lineup/tv/channel/101/"
+    },
+    {
+      "name": "Hikari TV Channel 2",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/22596.jpg",
+      "website": "https://www.hikaritv.net/entry/lineup/tv/channel/102/"
+    },
+    {
+      "name": "Hikari TV Channel 4K",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/22596.jpg",
+      "website": "https://www.hikaritv.net/entry/lineup/tv/channel/101/"
+    },
+    {
+      "name": "Home Drama Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
+      "website": "https://www.homedrama-ch.com/"
+    },
+    {
+      "name": "House of Councillors TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.webtv.sangiin.go.jp/webtv/index.php"
+    },
+    {
+      "name": "House of Representatives Internet TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.shugiintv.go.jp/en/",
+      "priority": 4
+    },
+    {
+      "name": "IBC 6 Box YouTube",
+      "isFree": true,
+      "logo": "https://go4.pw/PHILIPINES/IBC_13.png"
+    },
+    {
+      "name": "IPCTV",
+      "isFree": true
+    },
+    {
+      "name": "Japanese Government Internet TV",
+      "isFree": true,
+      "website": "https://nettv.gov-online.go.jp/index.html",
+      "priority": 4
+    },
+    {
+      "name": "J:COM Higashi Kanto",
+      "isFree": true,
+      "website": "https://c.myjcom.jp/town/higashi-kanto/"
+    },
+    {
+      "name": "J:COM Premier Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg"
+    },
+    {
+      "name": "J:COM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jidaigeki Senmon Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
+      "website": "https://www.jidaigeki.com/"
+    },
+    {
+      "name": "JLC",
+      "isFree": true,
+      "keywords": "jlc -680 -681 -682 -683 -684",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JLC 680",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JLC 681",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JLC 682",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JLC 683",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JLC 684",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.jlc.ne.jp/"
+    },
+    {
+      "name": "JOAG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/nagasaki/"
+    },
+    {
+      "name": "JOAI-DTV",
+      "isFree": true,
+      "website": "https://www.atv.jp/"
+    },
+    {
+      "name": "JOAK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/shutoken/"
+    },
+    {
+      "name": "JOAP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/okinawa/"
+    },
+    {
+      "name": "JOAX-DTV",
+      "isFree": true,
+      "website": "https://www.ntv.co.jp/"
+    },
+    {
+      "name": "JOAY-DTV",
+      "isFree": true,
+      "website": "https://www.asahi.co.jp/"
+    },
+    {
+      "name": "JOBH-DTV",
+      "isFree": true,
+      "website": "https://www.tv-osaka.co.jp/"
+    },
+    {
+      "name": "JOBK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/osaka/"
+    },
+    {
+      "name": "JOBP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/utsunomiya/"
+    },
+    {
+      "name": "JOBR-DTV",
+      "isFree": true,
+      "website": "https://www.kbs-kyoto.co.jp/"
+    },
+    {
+      "name": "JOCK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/nagoya/"
+    },
+    {
+      "name": "JOCX-DTV",
+      "isFree": true,
+      "website": "https://www.fujitv.co.jp/"
+    },
+    {
+      "name": "JODF-DTV",
+      "isFree": true,
+      "website": "https://www.ibc.co.jp/"
+    },
+    {
+      "name": "JODR-DTV",
+      "isFree": true,
+      "website": "https://www.ohbsn.com/"
+    },
+    {
+      "name": "JODX-DTV",
+      "isFree": true,
+      "website": "https://www.ktv.jp/"
+    },
+    {
+      "name": "JOEP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/mito/"
+    },
+    {
+      "name": "JOEX-DTV",
+      "isFree": true,
+      "website": "https://www.tv-asahi.co.jp/"
+    },
+    {
+      "name": "JOFG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/fukui/"
+    },
+    {
+      "name": "JOFK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/hiroshima/"
+    },
+    {
+      "name": "JOFP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/fukushima/"
+    },
+    {
+      "name": "JOGK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kumamoto/"
+    },
+    {
+      "name": "JOHG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kagoshima/"
+    },
+    {
+      "name": "JOHK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/sendai/"
+    },
+    {
+      "name": "JOHP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/takamatsu/"
+    },
+    {
+      "name": "JOIG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/toyoma/"
+    },
+    {
+      "name": "JOIK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/hokkaido/"
+    },
+    {
+      "name": "JOIP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/oita/"
+    },
+    {
+      "name": "JOIX-DTV",
+      "isFree": true,
+      "website": "https://www.ytv.co.jp/"
+    },
+    {
+      "name": "JOJG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/yamagata/"
+    },
+    {
+      "name": "JOJH-DTV",
+      "isFree": true,
+      "website": "https://www.tulip-tv.co.jp/"
+    },
+    {
+      "name": "JOJK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kanazawa/"
+    },
+    {
+      "name": "JOKG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kofu/"
+    },
+    {
+      "name": "JOKK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/okayama/"
+    },
+    {
+      "name": "JOKM-DTV",
+      "isFree": true,
+      "website": "https://www.tvk-yokohama.com/"
+    },
+    {
+      "name": "JOLG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/tottori/"
+    },
+    {
+      "name": "JOLK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/fukuoka/"
+    },
+    {
+      "name": "JOMG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/miyazaki/"
+    },
+    {
+      "name": "JOML-DTV",
+      "isFree": true,
+      "website": "https://www.gtv.co.jp/"
+    },
+    {
+      "name": "JOMX-DTV",
+      "isFree": true,
+      "website": "https://s.mxtv.jp/"
+    },
+    {
+      "name": "JONK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/nagano/"
+    },
+    {
+      "name": "JONP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/tsu/"
+    },
+    {
+      "name": "JOOK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kyoto/"
+    },
+    {
+      "name": "JOOP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/gifu/"
+    },
+    {
+      "name": "JOOY-DTV",
+      "isFree": true,
+      "website": "https://www.mbs.jp/"
+    },
+    {
+      "name": "JOPK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/shizuoka/"
+    },
+    {
+      "name": "JOPP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kobe/"
+    },
+    {
+      "name": "JOQG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/morioka"
+    },
+    {
+      "name": "JOQK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/niigata/"
+    },
+    {
+      "name": "JOQP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/otsu/"
+    },
+    {
+      "name": "JORK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kochi/"
+    },
+    {
+      "name": "JORP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/wakayama/"
+    },
+    {
+      "name": "JORX-DTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dUn2GRn.png",
+      "website": "https://www.tbs.co.jp/"
+    },
+    {
+      "name": "JOSK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/kitakyushu/"
+    },
+    {
+      "name": "JOSP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/saga/"
+    },
+    {
+      "name": "JOTG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/aomori/"
+    },
+    {
+      "name": "JOTK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/matsue/"
+    },
+    {
+      "name": "JOTP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/maebashi/"
+    },
+    {
+      "name": "JOTX-DTV",
+      "isFree": true,
+      "website": "https://www.tv-tokyo.co.jp/"
+    },
+    {
+      "name": "JOUG-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/yamaguchi/"
+    },
+    {
+      "name": "JOUH-DTV",
+      "isFree": true,
+      "website": "https://sun-tv.co.jp/"
+    },
+    {
+      "name": "JOUK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/akita/"
+    },
+    {
+      "name": "JOUP-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/nara/"
+    },
+    {
+      "name": "JOUS-DTV",
+      "isFree": true,
+      "website": "https://www.teletama.jp/"
+    },
+    {
+      "name": "JOWI-DTV",
+      "isFree": true,
+      "website": "https://www.tuy.co.jp"
+    },
+    {
+      "name": "JOXK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/tokushima/"
+    },
+    {
+      "name": "JOZK-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/matsuyama/"
+    },
+    {
+      "name": "KBS World Japan",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "http://www.kbsworld.ne.jp/"
+    },
+    {
+      "name": "kmp Channel",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://kmpch.jp/"
+    },
+    {
+      "name": "KNTV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/nbcc.png",
+      "website": "http://www.kntv.co.jp/"
+    },
+    {
+      "name": "LaLa TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png",
+      "website": "https://www.discoveryjapan.jp/lalatv/"
+    },
+    {
+      "name": "Medekiku TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://medekiku.jp/"
+    },
+    {
+      "name": "Midnight Blue",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg",
+      "website": "http://midnight-blue.com/mnb.html"
+    },
+    {
+      "name": "MONDO TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
+      "website": "https://www.discoveryjapan.jp/mondotv/"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "http://www.mtvjapan.com/",
+      "priority": 10
+    },
+    {
+      "name": "Mystery Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "website": "https://www.mystery.co.jp/"
+    },
+    {
+      "name": "NHK BS",
+      "isFree": true,
+      "keywords": "nhk bs -premium",
+      "logo": "https://i.imgur.com/t0uZcSR.png",
+      "website": "https://www.nhk.or.jp/",
+      "priority": 9
+    },
+    {
+      "name": "NHK BS8K",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/bs4k8k/",
+      "priority": 9
+    },
+    {
+      "name": "NHK BSP4K",
+      "isFree": true,
+      "logo": "https://i.imgur.com/uvPpFo5.png",
+      "website": "https://www.nhk.or.jp/bs4k8k/",
+      "priority": 9
+    },
+    {
+      "name": "NHK BS Premium",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg",
+      "website": "https://www.nhk.or.jp/",
+      "priority": 9
+    },
+    {
+      "name": "NHK World Premium",
+      "isFree": true,
+      "website": "http://www.nhkworldpremium.com/",
+      "priority": 9
+    },
+    {
+      "name": "Nihon Jidai 4K",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",
+      "website": "https://www.nihon-eiga.com/nihon-jidai4k/"
+    },
+    {
+      "name": "Nippon TV Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/NIPPON_TV.png",
+      "website": "https://www.ntv.co.jp/"
+    },
+    {
+      "name": "Nittele Plus",
+      "isFree": true,
+      "website": "http://www.nitteleplus.com/"
+    },
+    {
+      "name": "Pachinko Pachislo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.pachitele.com/"
+    },
+    {
+      "name": "Paradise TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/0aT45vk.png",
+      "website": "https://www.paradisetv.co.jp/"
+    },
+    {
+      "name": "Phoenix Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "website": "http://www.daifutv.com/j/index.php?option=com_content&view=article&id=154&Itemid=174"
+    },
+    {
+      "name": "Pigoo",
+      "isFree": null,
+      "logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",
+      "website": "https://pigoo.jp/pigoohd/"
+    },
+    {
+      "name": "Playboy Channel",
+      "isFree": null,
+      "logo": "http://epg.one/img2/2014.png",
+      "website": "https://playboychannel.jp/pbc/"
+    },
+    {
+      "name": "Power Plat's",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "http://www.powerplats.co.jp/powerplats/"
+    },
+    {
+      "name": "PPV Choice 940",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/BELGIUM/BELGIUM.png"
+    },
+    {
+      "name": "PPV Choice 941",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/BELGIUM/BELGIUM.png"
+    },
+    {
+      "name": "Rainbow Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRlvr8nejfUa3DphrxNDBWTl55M.jpg",
+      "website": "https://www.rainbow-ch.com/"
+    },
+    {
+      "name": "RecordTV Japan",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "http://recordjp.com/"
+    },
+    {
+      "name": "Red Cherry",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "http://red.cherrybomb.co.jp/"
+    },
+    {
+      "name": "Select Shopping",
+      "isFree": true,
+      "logo": "https://go4.pw/India/star_golDslct.png",
+      "website": "https://www.pod.tv/works/broadcast/"
+    },
+    {
+      "name": "Shigeki Strong",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg",
+      "website": "https://shigeki-strong.jp/"
+    },
+    {
+      "name": "Shinnyo-en",
+      "isFree": true,
+      "website": "https://www.shinnyoen.org/"
+    },
+    {
+      "name": "SITE777TV",
+      "isFree": true,
+      "website": "https://site777.tv/"
+    },
+    {
+      "name": "Sky A",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",
+      "website": "http://www.sky-a.co.jp/"
+    },
+    {
+      "name": "Sky Perfect! Promo 599",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.skyperfectv.co.jp/plan/channel/premium/599"
+    },
+    {
+      "name": "Speed Channel 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 690",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 691",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 692",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 693",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Channel 694",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Speed Plus One 695",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "website": "http://www.speedchannel.co.jp/"
+    },
+    {
+      "name": "Splash",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQ8vLJyws0tAYbBmzpTKbjdNHKI.jpg",
+      "website": "http://splash.fit/spl.html"
+    },
+    {
+      "name": "Star 4K",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://www.star-ch.jp/"
+    },
+    {
+      "name": "Star BS10",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Sukachan 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "Sukachan 12",
+      "isFree": true
+    },
+    {
+      "name": "Sukachan 4K 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png"
+    },
+    {
+      "name": "Sukachan 4K 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png"
+    },
+    {
+      "name": "Sukachan 5",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "Sukachan 6",
+      "isFree": true
+    },
+    {
+      "name": "Sukachan 7",
+      "isFree": true
+    },
+    {
+      "name": "TABI Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
+      "website": "https://www.discoveryjapan.jp/tabichannel/"
+    },
+    {
+      "name": "Tachikawa & Seibuen Keirin Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://tachikawa-seibuen-keirin.com/"
+    },
+    {
+      "name": "TAKARAZUKA SKY STAGE",
+      "isFree": true,
+      "logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
+      "website": "https://www.tca-pictures.net/skystage/"
+    },
+    {
+      "name": "TBS Channel 1",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",
+      "website": "http://www.tbs.co.jp/tbs-ch/tch1/",
+      "priority": 9
+    },
+    {
+      "name": "TBS Channel 2",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",
+      "website": "http://www.tbs.co.jp/tbs-ch/tch2/",
+      "priority": 9
+    },
+    {
+      "name": "Tetsudo Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://tetsudo-ch.com/"
+    },
+    {
+      "name": "The Filipino Channel Japan",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://mytfc.com/"
+    },
+    {
+      "name": "Toei Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/toei_channel.png",
+      "website": "http://www.toeich.jp/"
+    },
+    {
+      "name": "TSS",
+      "isFree": true,
+      "website": "https://www.tss-tv.co.jp/index.html"
+    },
+    {
+      "name": "Tsuri Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Tulip TV YouTube",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGBRTDMuYDKCA9g7NTGwtMZBWd.jpg"
+    },
+    {
+      "name": "TUY 6 Ch YouTube",
+      "isFree": true
+    },
+    {
+      "name": "TV Asahi Channel 1",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",
+      "website": "https://www.tv-asahi.co.jp/ch/contents/osusume/ch1/"
+    },
+    {
+      "name": "TV Asahi Channel 2",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",
+      "website": "https://www.tv-asahi.co.jp/ch/contents/osusume/ch2/"
+    },
+    {
+      "name": "TV Japan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvjapan.net/"
+    },
+    {
+      "name": "Vanilla Sky Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+      "website": "http://vanillasky-ch.jp/"
+    },
+    {
+      "name": "VENUS",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3253.png",
+      "website": "http://www.powerplats.co.jp/venus/"
+    },
+    {
+      "name": "WakuWaku Japan",
+      "isFree": true,
+      "keywords": "wakuwaku japan -south east asia -taiwan",
+      "website": "https://www.wakuwakujapan.com/"
+    },
+    {
+      "name": "WakuWaku Japan South East Asia",
+      "isFree": true,
+      "website": "https://www.wakuwakujapan.com/"
+    },
+    {
+      "name": "WakuWaku Japan Taiwan",
+      "isFree": true,
+      "website": "https://www.wakuwakujapan.com/"
+    },
+    {
+      "name": "Worldmate",
+      "isFree": true,
+      "website": "https://www.worldmate.or.jp/"
+    },
+    {
+      "name": "WOWOW 4K",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jPAYT5F.png"
+    },
+    {
+      "name": "WOWOW Live",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jPAYT5F.png",
+      "website": "http://www.wowow.co.jp/live_ch/"
+    },
+    {
+      "name": "WOWOW Prime",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
+      "website": "http://www.wowow.co.jp/prime_ch/"
+    },
+    {
+      "name": "Yose Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Zaptv",
+      "isFree": null,
+      "website": "https://zaptv.jp/"
+    },
+    {
+      "name": "Fuji TV ONE",
+      "isFree": true,
+      "retransmits": "Fuji TV",
+      "logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",
+      "website": "https://otn.fujitv.co.jp/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "GSTV",
+      "isFree": true
+    },
+    {
+      "name": "QVC Japan",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/12/12/large/20211212021009758839_20.png"
+    },
+    {
+      "name": "Shop Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg"
+    },
+    {
+      "name": "ABEMA CM",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/CRTV.png",
+      "website": "https://abema.tv/now-on-air/commercial?lang=en"
+    },
+    {
+      "name": "QVC",
+      "isFree": true,
+      "keywords": "qvc -japan",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174951942025_45.png",
+      "website": "https://qvc.jp/"
+    },
+    {
+      "name": "Shop Channel Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
+      "website": "https://www.shopch.jp/"
+    }
+  ],
+  "Local": [
+    {
+      "name": "Gunma TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/dfcd7e28cb7222478c028f017dd6f0c9.png",
+      "priority": 4
+    },
+    {
+      "name": "Tokyo MX",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Tokyo MX1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+      "priority": 4
+    },
+    {
+      "name": "Tokyo MX2",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+      "priority": 4
+    }
+  ],
+  "Sports": [
+    {
+      "name": "J Sports 1",
+      "isFree": false
+    },
+    {
+      "name": "J Sports 2",
+      "isFree": false
+    },
+    {
+      "name": "J Sports 3",
+      "isFree": false
+    },
+    {
+      "name": "J Sports 4",
+      "isFree": false
+    },
+    {
+      "name": "New Japan Pro Wrestling World",
+      "isFree": false,
+      "shortName": "NJPWW",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "ABEMA Fighting",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxFHL38PILeBgTiEzNeUGKR92s1.jpg",
+      "website": "https://abema.tv/now-on-air/fighting-sports?lang=en"
+    },
+    {
+      "name": "ABEMA Fishing",
+      "isFree": true,
+      "website": "https://abema.tv/channels/fishing/slots/AXVjCD1BnwWZqR?lang=en"
+    },
+    {
+      "name": "ABEMA Keirin & Auto Racing",
+      "isFree": true,
+      "logo": "https://go4.pw/FRANCE/frlog.png",
+      "website": "https://abema.tv/now-on-air/keirin-auto?lang=en"
+    },
+    {
+      "name": "ABEMA Mahjong",
+      "isFree": true,
+      "website": "https://abema.tv/now-on-air/mahjong?lang=en"
+    },
+    {
+      "name": "ABEMA Shogi",
+      "isFree": true,
+      "website": "https://abema.tv/now-on-air/shogi?lang=en"
+    },
+    {
+      "name": "ABEMA Sports",
+      "isFree": true,
+      "website": "https://abema.tv/now-on-air/world-sports?lang=en"
+    },
+    {
+      "name": "Exciting Grand Prix",
+      "isFree": true,
+      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
+      "website": "https://www.exciting-gp.com/request.php"
+    },
+    {
+      "name": "FIGHTING TV Samurai!",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxFHL38PILeBgTiEzNeUGKR92s1.jpg",
+      "website": "https://www.samurai-tv.com/"
+    },
+    {
+      "name": "GAORA SPORTS",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UgKRfuw.png",
+      "website": "https://www.gaora.co.jp/"
+    },
+    {
+      "name": "Golf Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513161120466668_77.jpg",
+      "website": "https://www.golfnetwork.co.jp/"
+    },
+    {
+      "name": "Igo & Shogi Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.igoshogi.net/"
+    },
+    {
+      "name": "Local Horse Racing Nine 701",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg",
+      "website": "https://keiba9.com/",
+      "priority": 4
+    },
+    {
+      "name": "Local Horse Racing Nine 702",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg",
+      "website": "https://keiba9.com/",
+      "priority": 4
+    },
+    {
+      "name": "Local Horse Racing Nine 703",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg",
+      "website": "https://keiba9.com/",
+      "priority": 4
+    },
+    {
+      "name": "Local Horse Racing Nine SELECT",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg",
+      "website": "https://select.keiba9.com/",
+      "priority": 4
+    },
+    {
+      "name": "Nittele G+",
+      "isFree": true,
+      "website": "https://www.gtasu.com/"
+    },
+    {
+      "name": "Southern Kanto Regional Horse Racing Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S0w1oII4PQHMnLb4L4aB3Ij4ip.jpg",
+      "website": "https://www.nankan-tv.com/",
+      "priority": 4
+    },
+    {
+      "name": "Sports Live +",
+      "isFree": true,
+      "website": "https://www.sportslive-plus.com/"
+    },
+    {
+      "name": "J SPORTS 1",
+      "isFree": true,
+      "website": "http://www.jsports.co.jp/"
+    },
+    {
+      "name": "J SPORTS 2",
+      "isFree": true,
+      "website": "http://www.jsports.co.jp/"
+    },
+    {
+      "name": "J SPORTS 3",
+      "isFree": true,
+      "website": "http://www.jsports.co.jp/"
+    },
+    {
+      "name": "J SPORTS 4",
+      "isFree": true,
+      "website": "http://www.jsports.co.jp/"
+    }
+  ],
+  "News": [
+    {
+      "name": "NHK Chinese Vision",
+      "isFree": true,
+      "retransmits": "NHK",
+      "shortName": "NCV",
+      "logo": "https://images.iptvmate.net/tvglogo/4ddd6cb510c70a6c3d96caea42969f65.png",
+      "priority": 9
+    },
+    {
+      "name": "NHK World Japan",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png",
+      "priority": 9
+    },
+    {
+      "name": "NTV News24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d281d91e4a7053b0fba07c0ce48ea98c.png"
+    },
+    {
+      "name": "Weather News",
+      "isFree": true,
+      "keywords": "weather news | weathernews",
+      "logo": "https://images.iptvmate.net/tvglogo/3e6ef6d164163de213f1c054b07c5d4d.png"
+    },
+    {
+      "name": "ABEMA Global News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA News",
+      "isFree": true,
+      "keywords": "abema news -press conference",
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA News Press Conference",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "Asahi Shimbun Digital",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
+      "website": "https://www.asahi.com/"
+    },
+    {
+      "name": "Business Breakthrough",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "https://bb.bbt757.com/"
+    },
+    {
+      "name": "Chukyo TV News",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ctv.co.jp/news/"
+    },
+    {
+      "name": "CNNj",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
+      "website": "https://www2.jctv.co.jp/cnnj/"
+    },
+    {
+      "name": "HBC Hokkaido News 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.hbc.co.jp/news/"
+    },
+    {
+      "name": "Hokkaido News UHB",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.uhb.jp/news/"
+    },
+    {
+      "name": "HOME Hiroshima News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+      "website": "https://www.home-tv.co.jp/"
+    },
+    {
+      "name": "HTB Hokkaido News 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.htb.co.jp/news/"
+    },
+    {
+      "name": "Iwate Menkoi Television",
+      "isFree": true,
+      "website": "https://www.menkoi-tv.co.jp/sp/index.html"
+    },
+    {
+      "name": "JapaNews24",
+      "isFree": true,
+      "website": "https://news.tv-asahi.co.jp/"
+    },
+    {
+      "name": "Kagoshima News 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.kts-tv.co.jp/news/"
+    },
+    {
+      "name": "KANSAI News24",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",
+      "website": "https://www.asahi.co.jp/"
+    },
+    {
+      "name": "KBC News Live 24",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png",
+      "website": "https://kbc.co.jp/news/"
+    },
+    {
+      "name": "MBS News",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",
+      "website": "https://www.mbs.jp/news/"
+    },
+    {
+      "name": "Metele News Live 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.nagoyatv.com/news/"
+    },
+    {
+      "name": "NBC Nagasaki",
+      "isFree": true,
+      "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
+      "website": "https://www.nbc-nagasaki.co.jp/",
+      "priority": 9
+    },
+    {
+      "name": "NHK Chinese",
+      "isFree": true,
+      "keywords": "nhk chinese -vision",
+      "retransmits": "NHK",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/nhkworld/zh/",
+      "priority": 9
+    },
+    {
+      "name": "NHK Kishou-Saigai",
+      "isFree": true,
+      "retransmits": "NHK",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/kishou-saigai/live/",
+      "priority": 9
+    },
+    {
+      "name": "NHK World Espanol",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www3.nhk.or.jp/nhkworld/es/",
+      "priority": 9
+    },
+    {
+      "name": "NHK World-Japan",
+      "isFree": true,
+      "retransmits": "NHK",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www3.nhk.or.jp/nhkworld/",
+      "priority": 9
+    },
+    {
+      "name": "Niigata News NST",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.nsttv.com/news/"
+    },
+    {
+      "name": "Nikkei CNBC",
+      "isFree": true,
+      "website": "http://www.nikkei-cnbc.co.jp/"
+    },
+    {
+      "name": "RBC NEWS Link",
+      "isFree": true,
+      "logo": "https://imgur.com/nA0cWeE.png",
+      "website": "https://www.rbc.co.jp/tv/tv_program/rbc-news-link/"
+    },
+    {
+      "name": "RBC Okinawa News 24",
+      "isFree": true,
+      "logo": "https://imgur.com/nA0cWeE.png",
+      "website": "https://newsdig.tbs.co.jp/list/rbc"
+    },
+    {
+      "name": "RKB NEWS 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://rkb.jp/"
+    },
+    {
+      "name": "SATV News 24H",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://look.satv.co.jp"
+    },
+    {
+      "name": "SORA Weather Channel",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/24168.jpg",
+      "website": "https://www.sora-otenkich.com/"
+    },
+    {
+      "name": "STV News Hokkaido",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/stvv.png",
+      "website": "https://www.stv.jp/news/"
+    },
+    {
+      "name": "Sun-TV News",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.sun-tv.co.jp/suntvnews/"
+    },
+    {
+      "name": "TBS News CS",
+      "isFree": true,
+      "website": "https://www.tbs.co.jp/cstbsnews/",
+      "priority": 9
+    },
+    {
+      "name": "TBS News Dig",
+      "isFree": true,
+      "website": "https://newsdig.tbs.co.jp/",
+      "priority": 9
+    },
+    {
+      "name": "TOS News",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://tosonline.jp/"
+    },
+    {
+      "name": "TV Shizuoka",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.sut-tv.com/"
+    },
+    {
+      "name": "NTV NEWS24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d281d91e4a7053b0fba07c0ce48ea98c.png",
+      "website": "http://www.news24.jp/"
+    },
+    {
+      "name": "Weathernews",
+      "isFree": true
+    }
+  ],
+  "Kids": [
+    {
+      "name": "AT-X",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png"
+    },
+    {
+      "name": "Animax Japan",
+      "isFree": true,
+      "logo": "https://imgur.com/BatygW5.png"
+    },
+    {
+      "name": "ABEMA Anime",
+      "isFree": true,
+      "keywords": "abema anime -2 -80's -90's -live -live 2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/now-on-air/abema-anime?lang=en"
+    },
+    {
+      "name": "ABEMA Anime 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Anime 80's",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Anime 90's",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Anime LIVE",
+      "isFree": true,
+      "keywords": "abema anime live -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/now-on-air/anime-live?lang=en"
+    },
+    {
+      "name": "ABEMA Anime LIVE 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Everyones Anime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Family Anime",
+      "isFree": true,
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "website": "https://www.cartoonnetwork.jp/"
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "keywords": "disney channel -japan",
+      "logo": "http://i.imgur.com/ETxffjm.png",
+      "website": "https://www.disney.co.jp/tv/dc",
+      "priority": 10
+    },
+    {
+      "name": "Disney Junior",
+      "isFree": true,
+      "logo": "http://i.imgur.com/H9AY5z4.png",
+      "website": "https://www.disney.co.jp/tv/junior",
+      "priority": 9
+    },
+    {
+      "name": "Kids Station",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "http://www.kids-station.com/"
+    },
+    {
+      "name": "Pokemon Kids TV English",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg"
+    },
+    {
+      "name": "Pokemon Kids TV Japanese",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "ABEMA Drama 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "ABEMA Korean & Chinese 2",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/22601.jpg",
+      "website": "https://abema.tv/"
+    },
+    {
+      "name": "Action Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
+      "website": "https://www.axn.co.jp/"
+    },
+    {
+      "name": "Asia Dramatic TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvbs.png",
+      "website": "https://www.asiadramatictv.com/"
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "keywords": "axn -mystery",
+      "logo": "https://imgur.com/EYAmbe4.png",
+      "website": "https://www.axn.co.jp/"
+    },
+    {
+      "name": "AXN Mystery",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "website": "https://www.mystery.co.jp/"
+    },
+    {
+      "name": "Channel NECO",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.necoweb.com/neco/"
+    },
+    {
+      "name": "Channel Neco International",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://jedge.tv/en/nippon-tv-2/"
+    },
+    {
+      "name": "Dlife",
+      "isFree": true,
+      "website": "https://www.dlife.jp"
+    },
+    {
+      "name": "Eisei Gekijo",
+      "isFree": true,
+      "website": "https://eigeki.com/"
+    },
+    {
+      "name": "Fox Movies",
+      "isFree": true,
+      "website": "http://tv.foxjapan.com/movies/"
+    },
+    {
+      "name": "Movie Plus",
+      "isFree": true,
+      "website": "https://www.discoveryjapan.jp/movieplus/"
+    },
+    {
+      "name": "Nihon Eiga Senmon Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",
+      "website": "https://www.nihon-eiga.com/"
+    },
+    {
+      "name": "Star Channel",
+      "isFree": true,
+      "keywords": "star channel -2 -3",
+      "website": "http://www.star-ch.jp/"
+    },
+    {
+      "name": "Star Channel 2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205524509480_52.jpg",
+      "website": "http://www.star-ch.jp/"
+    },
+    {
+      "name": "Star Channel 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "http://www.star-ch.jp/"
+    },
+    {
+      "name": "Super! Drama TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "http://www.superdramatv.com/"
+    },
+    {
+      "name": "The Cinema",
+      "isFree": true,
+      "keywords": "the cinema -4k",
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.thecinema.jp/"
+    },
+    {
+      "name": "The Cinema 4K",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.thecinema.jp/cinema4k/"
+    },
+    {
+      "name": "Universal Channel",
+      "isFree": true,
+      "website": "http://www.universalchannel.jp/"
+    },
+    {
+      "name": "V Paradise",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "https://www.vpara.com/"
+    },
+    {
+      "name": "WOWOW Cinema",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
+      "website": "http://www.wowow.co.jp/cinema_ch/"
+    },
+    {
+      "name": "WOWOW Plus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jPAYT5F.png",
+      "website": "https://www.wowowplus.jp/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "ABEMA Hip Hop",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://abema.tv/now-on-air/hiphop?lang=en"
+    },
+    {
+      "name": "ABEMA K World",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://abema.tv/now-on-air/k-world?lang=en"
+    },
+    {
+      "name": "ABEMA MTV Hits",
+      "isFree": true,
+      "website": "https://abema.tv/now-on-air/mahjong?lang=en"
+    },
+    {
+      "name": "Dance Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.dance-ch.jp/"
+    },
+    {
+      "name": "Kayo Pops",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",
+      "website": "https://www.kayopops.jp/"
+    },
+    {
+      "name": "Mnet Japan",
+      "isFree": true,
+      "website": "https://mnetjp.com/"
+    },
+    {
+      "name": "Music Air",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.musicair.co.jp/"
+    },
+    {
+      "name": "Music Graffiti TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.graffititv.jp"
+    },
+    {
+      "name": "Music Japan TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.mjtv.jp/"
+    },
+    {
+      "name": "MUSIC ON! TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.m-on.jp/"
+    },
+    {
+      "name": "Space Shower TV",
+      "isFree": true,
+      "keywords": "space shower tv -plus",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",
+      "website": "http://www.spaceshowertv.com/"
+    },
+    {
+      "name": "Space Shower TV Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43EQZnWP9znGqTKfO4BsPALXVYa.jpg",
+      "website": "http://www.spaceshowertvplus.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "ABEMA QUEST by Discovery",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
+      "website": "https://abema.tv/now-on-air/mahjong?lang=en"
+    },
+    {
+      "name": "Animal Planet",
+      "isFree": true,
+      "logo": "http://epg.one/img2/365.png",
+      "website": "https://www.discoverychannel.jp/ja/ch/ap.html"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://jp.history.com/"
+    },
+    {
+      "name": "JOAB-DTV",
+      "isFree": true,
+      "website": "https://www.nhk.or.jp/shutoken/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.jp/tv/",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 9
+    },
+    {
+      "name": "NHK Educational TV",
+      "isFree": true,
+      "retransmits": "NHK",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "website": "https://www.nhk.or.jp/",
+      "priority": 9
+    }
+  ]
+}

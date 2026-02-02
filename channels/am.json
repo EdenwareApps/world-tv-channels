@@ -1,0 +1,461 @@
+{
+  "Entertainment": [
+    {
+      "name": "21TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2061.png"
+    },
+    {
+      "name": "ARTN TV",
+      "isFree": true,
+      "logo": "https://mytv.do.am/logo/artn.png"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "keywords": "atv -թավա tv -խաղալիք -կինոման -հայ tv -ֆիլմզոն",
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "ATV Թավա TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Amga TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/AMGA.png"
+    },
+    {
+      "name": "Horizon Armenian",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6c5xkR0eIzlnxcQoMBlySH6ann.jpg"
+    },
+    {
+      "name": "Առաջին ալիք",
+      "isFree": true
+    },
+    {
+      "name": "Արմենիա TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Երկիր Մեդիա",
+      "isFree": true
+    },
+    {
+      "name": "Կենտրոն",
+      "isFree": true
+    },
+    {
+      "name": "Հ2",
+      "isFree": true
+    },
+    {
+      "name": "Նոր Հայաստան",
+      "isFree": true
+    },
+    {
+      "name": "Շանթ",
+      "isFree": true
+    },
+    {
+      "name": "ALT TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEMBnX4rBgwkdabofS4Y9hqIje.jpg",
+      "website": "https://alttv.am/"
+    },
+    {
+      "name": "Ankyun+3 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ankyun3news.com/"
+    },
+    {
+      "name": "Arma TV",
+      "isFree": true,
+      "logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bYqTd2nxqwpESH2VAR9LNJ5y3zP.jpg",
+      "website": "http://armatv.am/"
+    },
+    {
+      "name": "Armenia 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HIwJ4lc.png",
+      "website": "https://www.1tv.am/"
+    },
+    {
+      "name": "Armenia 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/AXmXw9X.png",
+      "website": "http://www.tv.am/"
+    },
+    {
+      "name": "Armenia Komedi",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "Armenia TV",
+      "isFree": true,
+      "keywords": "armenia tv -satellite",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png",
+      "website": "https://www.armeniatv.am/"
+    },
+    {
+      "name": "Armenia TV Satellite",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png",
+      "website": "https://www.1tv.am/hy"
+    },
+    {
+      "name": "ATV Bazmoc TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atv.am/"
+    },
+    {
+      "name": "ATV Tava TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atv.am/"
+    },
+    {
+      "name": "Boon TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e4JWceLc71uPh47l6VT8NifqlK.jpg",
+      "website": "https://boon.am/"
+    },
+    {
+      "name": "Delta TV USA",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dntZRSSzc1O7ZPdniMSbxcyiZQQ.jpg",
+      "website": "http://www.deltatv.am/channel/Delta%20TV%20USA"
+    },
+    {
+      "name": "Fortuna TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZbUSlOC.png"
+    },
+    {
+      "name": "GALA TV",
+      "isFree": true,
+      "website": "https://galatv.am/"
+    },
+    {
+      "name": "Geghama TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://geghama.am/"
+    },
+    {
+      "name": "Kentron TV",
+      "isFree": true,
+      "keywords": "kentron tv -international",
+      "logo": "https://go4.pw/EUROPE/ARMENIA/KENTRONTV.png",
+      "website": "https://www.kentron.tv/"
+    },
+    {
+      "name": "Kentron TV International",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ARMENIA/KENTRONTV.png",
+      "website": "https://www.kentron.tv/"
+    },
+    {
+      "name": "Kotayk TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5937.png",
+      "website": "http://kotayktv.am/"
+    },
+    {
+      "name": "Lori TVR",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5939.png",
+      "website": "https://www.loritv.am/"
+    },
+    {
+      "name": "Nor Hayastan TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/NOR-HAYASTAN-TV.png",
+      "website": "http://norhayastan.com/page/live"
+    },
+    {
+      "name": "Nur TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5928.png",
+      "website": "http://nurtv.am/index.html"
+    },
+    {
+      "name": "Shant TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/SHANT.png",
+      "website": "https://www.shanttv.com/"
+    },
+    {
+      "name": "Syunik TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.syunik.tv/"
+    },
+    {
+      "name": "Tavush TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tavushmedia.am/en/tv/"
+    },
+    {
+      "name": "Tsayg",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5938.png",
+      "website": "https://tsayg.am/"
+    },
+    {
+      "name": "We",
+      "isFree": true,
+      "logo": "https://godish.com/wp-content/uploads/channel-logos/we.png",
+      "website": "http://www.deltatv.am/channel/%D5%84%D5%A5%D5%B6%D6%84"
+    },
+    {
+      "name": "Western Armenia TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "website": "https://westernarmeniatv.com/"
+    },
+    {
+      "name": "Yerkir Media",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ARMENIA/YERKIRMEDIA.png",
+      "website": "https://yerkirmedia.am/"
+    },
+    {
+      "name": "Zangezur TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zangezur.tv/"
+    }
+  ],
+  "Comedy": [
+    {
+      "name": "Armenia Քոմեդի",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "ATV ԽաղԱլիք",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Armenia Town Townik",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "ATV Khaghaliq TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atv.am/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Արմնյուզ",
+      "isFree": true
+    },
+    {
+      "name": "5TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/5tv.png",
+      "website": "https://www.5tv.am/"
+    },
+    {
+      "name": "ABNews TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://abnews.am/"
+    },
+    {
+      "name": "ArmNews",
+      "isFree": true
+    },
+    {
+      "name": "Azatutyun TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2385.png",
+      "website": "https://www.azatutyun.am/"
+    },
+    {
+      "name": "Bac TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/BAC_NINH.png",
+      "website": "https://bactv.am/"
+    },
+    {
+      "name": "CivilNet TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.civilnet.am/"
+    },
+    {
+      "name": "Delta TV",
+      "isFree": true,
+      "keywords": "delta tv -usa",
+      "website": "http://www.deltatv.am/channel/%D4%B4%D5%A5%D5%AC%D5%BF%D5%A1-TV"
+    },
+    {
+      "name": "Factor TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alOPXtR6nxMiEvk6zRA9sX6Hbjk.jpg",
+      "website": "https://factor.am/"
+    },
+    {
+      "name": "First Channel News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
+      "website": "https://www.1lurer.am/"
+    },
+    {
+      "name": "Freenews",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5940.png",
+      "website": "https://freenews.am/"
+    },
+    {
+      "name": "NEWS.am TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://news.am/eng/news-am-tv/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Շողակաթ",
+      "isFree": true
+    },
+    {
+      "name": "Shoghakat TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/SHOGHAKAT AM.png",
+      "website": "https://www.shoghakat.am/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "ATV Կինոման",
+      "isFree": false,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "ATV Ֆիլմզոն",
+      "isFree": false,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Armenia Premium",
+      "isFree": false,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "Armenia Հայ Կինո",
+      "isFree": false,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "Armenia Hay Kino",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "Armenia Sinemaks",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "ATV Filmzone",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atv.am/"
+    },
+    {
+      "name": "ATV Kinoman",
+      "isFree": true,
+      "website": "https://atv.am/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "ATV Հայ TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Armenia Ջան TV",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "Fresh TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gcFSxrm.png"
+    },
+    {
+      "name": "Armenia Jan TV",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_armenia.png"
+    },
+    {
+      "name": "ATV Hay TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atv.am/"
+    },
+    {
+      "name": "DAR 21",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1YYUSNBrehkzCXUYv1GUdN8cgE.jpg",
+      "website": "https://21tv.am/"
+    },
+    {
+      "name": "SONGTV Armenia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nM7LbmV.png",
+      "website": "https://songtv.am/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Ararat TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ARMENIA/ARARAT.png"
+    },
+    {
+      "name": "Cultural Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png",
+      "website": "https://www.armculturalchannel.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Fast Sports",
+      "isFree": true,
+      "keywords": "fast sports -1 -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oKBsQ3SdjGuBDDhPR31CO9qX1b.jpg",
+      "website": "https://www.fasttv.am/live/fastsports"
+    },
+    {
+      "name": "Fast Sports 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oKBsQ3SdjGuBDDhPR31CO9qX1b.jpg",
+      "website": "https://www.fasttv.am/live/fastsports1"
+    },
+    {
+      "name": "Fast Sports 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oKBsQ3SdjGuBDDhPR31CO9qX1b.jpg",
+      "website": "https://www.fasttv.am/live/fastsports2"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "Entertainment": [
+    {
+      "name": "CubaVision Internacional",
+      "isFree": true,
+      "shortName": "CI"
+    },
+    {
+      "name": "Artemisa Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.tvartemisa.icrt.cu/"
+    },
+    {
+      "name": "Canal Azul",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Habana",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalhabana.icrt.cu/"
+    },
+    {
+      "name": "Centro Norte Television",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "website": "https://caibariengaleria.blogspot.com/"
+    },
+    {
+      "name": "Centrovision Yayabo",
+      "isFree": true,
+      "website": "https://www.tvcubana.icrt.cu/centroyayabo"
+    },
+    {
+      "name": "CNC TV Granma",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://www.cnctvgranma.cu/"
+    },
+    {
+      "name": "Cubavision",
+      "isFree": true,
+      "keywords": "cubavision -internacional -plus",
+      "logo": "https://epg.pw/media/images/channel/2016/11/01/large/20161101150924116844_74.jpg",
+      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision"
+    },
+    {
+      "name": "Cubavision Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CUBAVISION.png",
+      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavisionplus"
+    },
+    {
+      "name": "Gibaravision",
+      "isFree": true
+    },
+    {
+      "name": "Golfovision",
+      "isFree": true
+    },
+    {
+      "name": "Guines TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://guinestv.blogspot.com/"
+    },
+    {
+      "name": "Islavision",
+      "isFree": true,
+      "website": "https://www.islavision.icrt.cu/"
+    },
+    {
+      "name": "Moa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Moron TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Multivision",
+      "isFree": true,
+      "logo": "https://i.ibb.co/LdwyHh7s/image.png",
+      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/multivision"
+    },
+    {
+      "name": "Nuevavision",
+      "isFree": true,
+      "website": "https://www.radionuevitas.icrt.cu/"
+    },
+    {
+      "name": "Palma TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/PALMAPLUS.png"
+    },
+    {
+      "name": "Perlavision",
+      "isFree": true,
+      "website": "https://www.perlavision.cu/"
+    },
+    {
+      "name": "Portada Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Primada Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Sagua Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Sandino Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.sandinovision.icrt.cu/"
+    },
+    {
+      "name": "Solvision",
+      "isFree": true,
+      "website": "https://www.solvision.cu/"
+    },
+    {
+      "name": "Telebandera",
+      "isFree": true,
+      "website": "https://radiociudadbandera.wordpress.com/"
+    },
+    {
+      "name": "Telecristal",
+      "isFree": true,
+      "website": "https://www.telecristal.cu/"
+    },
+    {
+      "name": "Telecubanacan",
+      "isFree": true,
+      "website": "https://www.telecubanacan.icrt.cu/"
+    },
+    {
+      "name": "TeleMar",
+      "isFree": true,
+      "website": "https://telemarscn.blogspot.com/"
+    },
+    {
+      "name": "Telemayabeque",
+      "isFree": true,
+      "website": "https://telemayabeque.blogspot.com/"
+    },
+    {
+      "name": "Tele Pinar",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.telepinar.cu/"
+    },
+    {
+      "name": "Tele Turquino",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.tvsantiago.icrt.cu/"
+    },
+    {
+      "name": "Television Avilena",
+      "isFree": true,
+      "website": "https://www.tvavila.icrt.cu/"
+    },
+    {
+      "name": "Television Camaguey",
+      "isFree": true,
+      "website": "https://www.tvcamaguey.icrt.cu/"
+    },
+    {
+      "name": "Television Serrana",
+      "isFree": true
+    },
+    {
+      "name": "TunasVision",
+      "isFree": true,
+      "website": "https://www.visiontunera.icrt.cu/"
+    },
+    {
+      "name": "TV Yumuri",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvyumuri.cu/"
+    },
+    {
+      "name": "Cubavision Internacional",
+      "isFree": true,
+      "website": "https://www.cvi.icrt.cu/"
+    },
+    {
+      "name": "Cubavisión",
+      "isFree": true
+    },
+    {
+      "name": "Multivisión (Cuba)",
+      "isFree": true
+    },
+    {
+      "name": "RT en Español",
+      "isFree": true
+    },
+    {
+      "name": "ArTV (Cuba)",
+      "isFree": true
+    },
+    {
+      "name": "Tele Mayabeque",
+      "isFree": true
+    },
+    {
+      "name": "Islavisión",
+      "isFree": true
+    },
+    {
+      "name": "Tele Cubanacan",
+      "isFree": true
+    },
+    {
+      "name": "Perlavisión",
+      "isFree": true
+    },
+    {
+      "name": "Centrovisión",
+      "isFree": true
+    },
+    {
+      "name": "TV Avileña",
+      "isFree": true
+    },
+    {
+      "name": "TV Camagüey",
+      "isFree": true
+    },
+    {
+      "name": "Tunasvisión",
+      "isFree": true
+    }
+  ],
+  "News": [
+    {
+      "name": "Canal Caribe",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/caribe"
+    },
+    {
+      "name": "Prensa Latina TV",
+      "isFree": true,
+      "website": "https://www.prensa-latina.cu/"
+    },
+    {
+      "name": "Senal ACN",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png",
+      "website": "http://www.acn.cu/canal-senal-acn"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Canal Clave",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/canal-clave"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Canal Educativo",
+      "isFree": true,
+      "keywords": "canal educativo -2",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/educativo",
+      "priority": 8
+    },
+    {
+      "name": "Canal Educativo 2",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/educativo-2",
+      "priority": 9
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Tele Rebelde",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.telerebelde.icrt.cu/",
+      "priority": 9
+    }
+  ]
+}

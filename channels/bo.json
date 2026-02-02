@@ -1,0 +1,1238 @@
+{
+  "Entertainment": [
+    {
+      "name": "ATB",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Bolivia TV",
+      "isFree": true,
+      "keywords": "bolivia tv -7.2",
+      "logo": "https://i.imgur.com/Jj2KB5H.png"
+    },
+    {
+      "name": "Bolivia TV 7.2",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/BOLIVIA.png"
+    },
+    {
+      "name": "MegaTV",
+      "isFree": true
+    },
+    {
+      "name": "RTP",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Red Advenir",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "Red Uno",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-vXAkSUJC6Z8/XjcJ9yZHeDI/AAAAAAAABB8/pGsmiFR04QwCQy20bhd80gqmji1PyVflgCLcBGAsYHQ/s200/3.png",
+      "priority": 8
+    },
+    {
+      "name": "TV Latina Canal 42",
+      "isFree": true,
+      "shortName": "TLC4",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVU",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png"
+    },
+    {
+      "name": "XTOTV",
+      "isFree": true
+    },
+    {
+      "name": "ABE TV Internacional",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.abe.bo/"
+    },
+    {
+      "name": "Abya Yala TV",
+      "isFree": true,
+      "website": "https://abyayala.tv.bo/"
+    },
+    {
+      "name": "Activa TV",
+      "isFree": true
+    },
+    {
+      "name": "Agro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png",
+      "website": "https://agro-tv.teleestrella.tv.bo/"
+    },
+    {
+      "name": "Aiquilena Radio y Television",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://aiquileradiotelevision.com/"
+    },
+    {
+      "name": "America TV Gigavision Tarija",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Andina TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/ESPN_logo.png",
+      "website": "https://www.redandinaoruro.com/"
+    },
+    {
+      "name": "ATB Cochabamba",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5rg1wrM/image.png",
+      "website": "https://www.atb.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "ATB La Paz",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5rg1wrM/image.png",
+      "website": "https://www.atb.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "ATB Santa Cruz",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5rg1wrM/image.png",
+      "website": "https://www.atb.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Atesur",
+      "isFree": true,
+      "website": "https://atesurplus.com/"
+    },
+    {
+      "name": "AYNI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aynitv.com.bo/"
+    },
+    {
+      "name": "Benitv",
+      "isFree": true,
+      "website": "https://beni-tv.com/"
+    },
+    {
+      "name": "Bolivia Punto TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/BOLIVIA.png",
+      "website": "https://www.boliviapuntotv.com/"
+    },
+    {
+      "name": "Bolivia Radio TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/BOLIVIA.png",
+      "website": "https://boliviaradiotv.com/"
+    },
+    {
+      "name": "Bolivision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://www.redbolivision.tv.bo/"
+    },
+    {
+      "name": "Bo Plus TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBIkCS3PQlHY86agofKY411jLM7.jpg",
+      "website": "https://boplus.tv/"
+    },
+    {
+      "name": "Borjana de Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Cadena A",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BxQPPAA.png",
+      "website": "http://www.cadenaa.tv/"
+    },
+    {
+      "name": "Canal 10 Challapata",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 10 TV Reyes",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 11 COSMON TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 11 Minerena de Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 13 Chimore TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 13 San Jose",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 13 TV Vision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 14 Valle Alto Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 15 Teleor",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 18 Betania Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 25 Bermejo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 28 Master Vision del Norte",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 29 RTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 33 Coteor TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://coteor.com.bo/"
+    },
+    {
+      "name": "Canal 33 Televista",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 35 TV Camargo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://tvcamargo.com/"
+    },
+    {
+      "name": "Canal 38 Red TDT",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 4 Mundo Vision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 50 RTVE",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.redencuentro.com/"
+    },
+    {
+      "name": "Canal 52 Valle Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 56 Flatel TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 56 Quiero TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 6 Master TV Carapari",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 8 Vision Cruz",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Rural Bolivia",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://unitel.bo/canal-rural"
+    },
+    {
+      "name": "Canal Trece UTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://municipiouyuni.gob.bo/"
+    },
+    {
+      "name": "CCA Canal 2",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "CEACOM TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hutdRfk.png",
+      "website": "https://www.ceacomtv.com"
+    },
+    {
+      "name": "Chapaca de Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Cinerama Television",
+      "isFree": true,
+      "logo": "https://abre.ai/mkUi",
+      "website": "https://cineramatv.com/"
+    },
+    {
+      "name": "Clitel HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png"
+    },
+    {
+      "name": "Coloso TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Continental Television",
+      "isFree": true
+    },
+    {
+      "name": "Coral TV",
+      "isFree": true,
+      "logo": "https://logowik.com/content/uploads/images/coral-online-sport-betting8259.jpg",
+      "website": "https://alfasistemas.com/coraltv/"
+    },
+    {
+      "name": "Cotes TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cotes.net.bo/"
+    },
+    {
+      "name": "CTV",
+      "isFree": true,
+      "keywords": "ctv -canal 38 -canal 38 digital",
+      "logo": "https://i.imgur.com/ljKb0UX.png",
+      "website": "https://ctvbolivia.com/"
+    },
+    {
+      "name": "CTV Canal 38",
+      "isFree": true,
+      "keywords": "ctv canal 38 -digital",
+      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
+      "website": "https://www.canal38viacha.com/"
+    },
+    {
+      "name": "Delta TV",
+      "isFree": true,
+      "website": "https://institutodeltabolivia.org/delta-tv/"
+    },
+    {
+      "name": "F10 HD",
+      "isFree": true,
+      "logo": "https://i.imgur.com/OEsT0KN.png",
+      "website": "https://f10.tv.bo/"
+    },
+    {
+      "name": "FAP TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3177.png",
+      "website": "https://faptv.bo/"
+    },
+    {
+      "name": "FB TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qBVqtYd.png",
+      "website": "https://fb.tv.bo/"
+    },
+    {
+      "name": "Fedecomin TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fides TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.radiofides.com/"
+    },
+    {
+      "name": "Fortaleza TV Cueto",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "https://fortalezatvcueto.com/"
+    },
+    {
+      "name": "Gigavision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/fE3BkcT.png"
+    },
+    {
+      "name": "GoGoPlayTV",
+      "isFree": true,
+      "website": "https://www.gogoplayplus.com/"
+    },
+    {
+      "name": "GoLochTel TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://golochtel.com/"
+    },
+    {
+      "name": "GTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jjuKnYs.png"
+    },
+    {
+      "name": "Imagen TV",
+      "isFree": true
+    },
+    {
+      "name": "Imperial TV",
+      "isFree": true,
+      "logo": "https://imgur.com/XFp4O1Q.png",
+      "website": "https://imperialradiotv.com/"
+    },
+    {
+      "name": "Interactivo Television",
+      "isFree": true
+    },
+    {
+      "name": "IN TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4eNH7JS.png",
+      "website": "https://in.tv.bo/"
+    },
+    {
+      "name": "KEMA TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "La Exitosa TV Riberalta",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Kalle TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Marvision TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://marvisiontv.com/"
+    },
+    {
+      "name": "MegaTV Yacuiba",
+      "isFree": true
+    },
+    {
+      "name": "Megavision",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Telecentro.png",
+      "website": "https://tvmegavision.com/"
+    },
+    {
+      "name": "Neo TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/XZyzTKMy/image.png",
+      "website": "https://neotvbolivia.com/en-vivo/"
+    },
+    {
+      "name": "Neox Studio Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/NEOX.png",
+      "website": "https://neoxstudio.jimdofree.com/"
+    },
+    {
+      "name": "ONCE TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+    },
+    {
+      "name": "Palenque TV",
+      "isFree": true,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKX2XYymrBVn2TWkWOry1VeYtzVxXyKhkDGg&s",
+      "website": "https://redpalenque.com/"
+    },
+    {
+      "name": "Pando Vision Canal 45",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://pandovisioncanal45.home.blog/"
+    },
+    {
+      "name": "PAT La Paz",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4A7R2Jt.png",
+      "website": "https://www.redpat.tv/",
+      "priority": 9
+    },
+    {
+      "name": "PAT Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/718nsLt48Pk6fvHG2huwKS9o2cn.jpg",
+      "website": "https://www.redpat.tv/patplus/",
+      "priority": 9
+    },
+    {
+      "name": "PAT Santa Cruz",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/718nsLt48Pk6fvHG2huwKS9o2cn.jpg",
+      "website": "https://www.redpat.tv/",
+      "priority": 9
+    },
+    {
+      "name": "Plus TLT",
+      "isFree": true,
+      "website": "https://plustlt.tv/"
+    },
+    {
+      "name": "Posdata TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.radiotvbinacional.com/"
+    },
+    {
+      "name": "Potosi TV Satelital",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3fzB7zY.png"
+    },
+    {
+      "name": "Provinciana TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "PTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://ptvbolivia.com/"
+    },
+    {
+      "name": "Radio Mega TV Amazonia",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiomegatv.com/"
+    },
+    {
+      "name": "Radio Television Caranavi",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Television Ichilo",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiotvichilo.sdb.bo/"
+    },
+    {
+      "name": "Radio TV Mega",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiotvmega.com/"
+    },
+    {
+      "name": "Radio TV Tropical",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Uno PST",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://pst.bo/"
+    },
+    {
+      "name": "Radio y Television San Ignacio",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "RA Television",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/BRASIL/RA-TIM-BUMHD-1.png"
+    },
+    {
+      "name": "RED 24 HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "RedADvenir TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WGkMt2j.png",
+      "website": "http://redadvenir.org/"
+    },
+    {
+      "name": "Red America TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://redamerica.tv.bo/"
+    },
+    {
+      "name": "Red CCTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://red-cctv.com/"
+    },
+    {
+      "name": "Red DTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://dtv.bo/"
+    },
+    {
+      "name": "Red Rubi",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "Red Sudamericana TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "Red Uno Cochabamba",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://www.reduno.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Red Uno La Paz",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://www.reduno.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Red Uno Santa Cruz",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pqVzZQ9.png",
+      "website": "https://www.reduno.com.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Reflejos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Renueva Digital",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+      "website": "https://renuevadigital.com.bo/"
+    },
+    {
+      "name": "RIO TV Red Amazonica",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg"
+    },
+    {
+      "name": "RTV Norte",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "SABCO Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "San Cristobal TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg"
+    },
+    {
+      "name": "SATEL Television",
+      "isFree": true
+    },
+    {
+      "name": "SCM TV HD 32.1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SEO TV 1 FHD",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/seo.html"
+    },
+    {
+      "name": "SEO TV 6",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/TV.html"
+    },
+    {
+      "name": "SEO TV 7",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/TV2.html"
+    },
+    {
+      "name": "Siglo XXI TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acQ5lwnQGwre8n3m8JzTTcNKc5h.jpg",
+      "website": "https://redsigloxxibolivia.com/"
+    },
+    {
+      "name": "Sitel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/SITEL-1.png"
+    },
+    {
+      "name": "SKO Television",
+      "isFree": true,
+      "website": "https://www.skotelevision.net/"
+    },
+    {
+      "name": "Sol TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://soltv.com.bo/"
+    },
+    {
+      "name": "SPC Canal 15",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://spccanal15.blogspot.com/"
+    },
+    {
+      "name": "Sucremanta TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sucremantatv.com/"
+    },
+    {
+      "name": "SURTV",
+      "isFree": true
+    },
+    {
+      "name": "TDT Multimedia",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png",
+      "website": "https://tdtmultimedia.com/"
+    },
+    {
+      "name": "TELE 6",
+      "isFree": true,
+      "logo": "https://i.imgur.com/p7tt72X.png",
+      "website": "https://tele6.tv.bo/"
+    },
+    {
+      "name": "TeleC",
+      "isFree": true,
+      "website": "https://telec.com.bo/"
+    },
+    {
+      "name": "Telecentro",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png"
+    },
+    {
+      "name": "Tele Chaco",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Fe Bolivia",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleestrella.tv.bo/"
+    },
+    {
+      "name": "Telefuturo",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png"
+    },
+    {
+      "name": "Television Amazonica Canal 9",
+      "isFree": true
+    },
+    {
+      "name": "Television Azanaque",
+      "isFree": true
+    },
+    {
+      "name": "Television Cristal",
+      "isFree": true,
+      "website": "https://televisioncristal.com/"
+    },
+    {
+      "name": "Tiki Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "TL Estrella",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png"
+    },
+    {
+      "name": "Tunari TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tupiza TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Turbion Digital TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+      "website": "https://turbiondigital.blogspot.com/"
+    },
+    {
+      "name": "Tu Tv",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvMNvJAehgJHnRow7YklgSlB1f.jpg",
+      "website": "https://tutv.com.bo/"
+    },
+    {
+      "name": "TVA",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+      "website": "https://elandaluz.com.bo/"
+    },
+    {
+      "name": "TV Culturas",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Latina",
+      "isFree": true,
+      "keywords": "tv latina -canal 42",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.audiokiss.com/tvlatina/"
+    },
+    {
+      "name": "TV Municipal Huanuni",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Norte",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV OFF",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vBe1GgI.png",
+      "website": "https://tvoff.tv/"
+    },
+    {
+      "name": "TV Show Oruro",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Universitaria",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVU Sucre",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5Rds9FB/tvu.png",
+      "website": "https://tvusucre.com/vivo.html"
+    },
+    {
+      "name": "Unica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VE5OrU7.png",
+      "website": "https://www.unicatvbolivia.com/"
+    },
+    {
+      "name": "Unifranz",
+      "isFree": true,
+      "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+      "website": "https://unifranz.edu.bo/unifranz-streaming/"
+    },
+    {
+      "name": "Unitel Cochabamba",
+      "isFree": true,
+      "logo": "https://i.ibb.co/pWfz0F9/UNITEL.png",
+      "website": "https://unitel.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Unitel La Paz",
+      "isFree": true,
+      "logo": "https://i.ibb.co/pWfz0F9/UNITEL.png",
+      "website": "https://unitel.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Unitel Santa Cruz",
+      "isFree": true,
+      "logo": "https://i.imgur.com/B9wg1zj.png",
+      "website": "https://unitel.bo/",
+      "priority": 9
+    },
+    {
+      "name": "Univalle Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qgrWDIs.png",
+      "website": "https://univalletelevision.com/"
+    },
+    {
+      "name": "Unovision TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UPEA TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/JP93RkX/image.png",
+      "website": "https://tv.upea.bo/live"
+    },
+    {
+      "name": "UPP TV",
+      "isFree": true,
+      "logo": "https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png",
+      "website": "https://www.redbolivision.tv.bo/programa/upp-tv/"
+    },
+    {
+      "name": "Villazon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Vision TV Bolivia",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Vos TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/VOS-TV.png"
+    },
+    {
+      "name": "Zoy TV",
+      "isFree": true,
+      "keywords": "zoy tv -music -sports 1 -sports 2 -sports 3 -sports 4 -sports 5 -turcas",
+      "logo": "https://i.imgur.com/MLwLlWl.png",
+      "website": "https://www.tucableip.com/tv.php?llave=zoytv"
+    },
+    {
+      "name": "ZoyTV Plus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JPNPH3x.png",
+      "website": "https://tv.zoymilton.com/"
+    },
+    {
+      "name": "Zoy TV Turcas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    }
+  ],
+  "Local": [
+    {
+      "name": "CTV Canal 38 Digital",
+      "isFree": true,
+      "shortName": "CC3D",
+      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
+      "priority": 4
+    }
+  ],
+  "Kids": [
+    {
+      "name": "SEO TV Kids",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SEO TV 2 Kids",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/kids.html"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Alegria TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Tv Carigso",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcarigso.com/"
+    },
+    {
+      "name": "TV HD Tropical",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvhdtropical.com/"
+    },
+    {
+      "name": "Zoy TV Music",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Radio TV Binacional",
+      "isFree": true,
+      "shortName": "RTB",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    }
+  ],
+  "News": [
+    {
+      "name": "24/7 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Agenda Minera TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
+      "website": "https://www.agendaminera.com/"
+    },
+    {
+      "name": "ANTv",
+      "isFree": true,
+      "website": "https://antarija.com/"
+    },
+    {
+      "name": "BN Noticias TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png",
+      "website": "https://bnnoticiastv.com/"
+    },
+    {
+      "name": "CN3 Television",
+      "isFree": true,
+      "website": "https://cn3.tv.bo/"
+    },
+    {
+      "name": "Contacto Bolivia",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FRANCE_24.png",
+      "website": "https://www.contactobolivia.com.bo/"
+    },
+    {
+      "name": "Erbol",
+      "isFree": true,
+      "website": "https://erbol.com.bo/"
+    },
+    {
+      "name": "Metro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/30/large/20250130005640435069_22.jpg",
+      "website": "https://metrotv.com.bo/"
+    },
+    {
+      "name": "SNTV HD",
+      "isFree": true,
+      "logo": "https://go4.pw/SOMALIA/SNTV_2.png"
+    },
+    {
+      "name": "UMSA TVU LP",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5Rds9FB/tvu.png",
+      "website": "https://tvu.umsa.bo/tvu-en-vivo-2-"
+    },
+    {
+      "name": "Zuraca TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "ABE Educativo",
+      "isFree": true,
+      "website": "https://www.abe.bo/"
+    },
+    {
+      "name": "RTVU",
+      "isFree": true,
+      "website": "https://rtvu.uto.edu.bo/"
+    },
+    {
+      "name": "Television Educativa Plurinacional",
+      "isFree": true,
+      "website": "https://tv.egpp.gob.bo/"
+    },
+    {
+      "name": "UMSA TVU Internacional",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5Rds9FB/tvu.png",
+      "website": "https://tvu.umsa.bo/tvu-internacional"
+    },
+    {
+      "name": "Yungas TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://yungastv.com/"
+    },
+    {
+      "name": "ZoyTV Bolivia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JPNPH3x.png",
+      "website": "https://tv.zoymilton.com/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Canal 29 TVA",
+      "isFree": true,
+      "logo": "https://i.imgur.com/y3bymuv.jpg",
+      "website": "https://canal29tva.com.bo/"
+    },
+    {
+      "name": "Catolica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "CVC",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tUgEAUJ.png",
+      "website": "http://virgendecopacabana.tv/"
+    },
+    {
+      "name": "Poder de Dios TV",
+      "isFree": true
+    },
+    {
+      "name": "Solidaria TV Bolivia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/SOLIDARIA.png",
+      "website": "https://www.solidariatvbolivia.com/"
+    },
+    {
+      "name": "VTV Canal 17",
+      "isFree": true,
+      "logo": "https://i.ibb.co/SXhRxr3R/image.png",
+      "website": "https://vtvcanal17.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "DT Play",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "website": "https://deportetotal.com.bo/dtplay/"
+    },
+    {
+      "name": "FTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOr1Oac.png",
+      "website": "https://www.facetas-deportivas.com.bo/facetas-tv-al-vuvo/"
+    },
+    {
+      "name": "FutbolCanal",
+      "isFree": true
+    },
+    {
+      "name": "SEO TV 5 Deportes",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/TDA.html"
+    },
+    {
+      "name": "Tigo Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/tego.png",
+      "website": "http://www.tigosports.com.bo/"
+    },
+    {
+      "name": "Zoy TV Sports 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    },
+    {
+      "name": "Zoy TV Sports 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    },
+    {
+      "name": "Zoy TV Sports 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    },
+    {
+      "name": "Zoy TV Sports 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    },
+    {
+      "name": "Zoy TV Sports 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLwLlWl.png"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Red TV Shop",
+      "isFree": true,
+      "logo": "https://i.imgur.com/I7yB176.png",
+      "website": "https://www.redtvshop.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "SEO TV 3 Novelas",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/nvls.html"
+    },
+    {
+      "name": "SEO TV 4 Peliculas",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://live.seo.tv.bo/peliculas.html"
+    }
+  ]
+}

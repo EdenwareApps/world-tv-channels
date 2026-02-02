@@ -1,0 +1,225 @@
+{
+  "Religious": [
+    {
+      "name": "The Islamic Network",
+      "isFree": true,
+      "shortName": "TIN",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "3ABN Trinidad & Tobago",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/3ABNN.png",
+      "website": "https://3abntt.tv/"
+    },
+    {
+      "name": "ACTN The Voice",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.actnthevoice.com/"
+    },
+    {
+      "name": "Bhakti TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5eab4903ec82988efd14bbf139295275.png"
+    },
+    {
+      "name": "IBN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/IBN_TV.png"
+    },
+    {
+      "name": "Sankhya TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_SANKHYA.png",
+      "website": "https://www.sankhyatv.com/"
+    },
+    {
+      "name": "Sky 99.5 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sky995fm.com/"
+    },
+    {
+      "name": "The Parliament Channel",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.ttparliament.org/"
+    },
+    {
+      "name": "Tobago Inspirational Network",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/GOLDEN-RELAX589.png",
+      "website": "http://tin137.com/"
+    },
+    {
+      "name": "Trinity TV",
+      "isFree": true,
+      "website": "https://www.tcn-tt.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "95 The Ultimate One",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png",
+      "website": "https://95theultimateone.com/"
+    },
+    {
+      "name": "Plus TV",
+      "isFree": true,
+      "website": "https://tegotv.com/"
+    },
+    {
+      "name": "Slam 100.5 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqqIqTTSKHM9wOTIMkEwhkq2y6.jpg",
+      "website": "https://slam1005.com/"
+    },
+    {
+      "name": "Synergy TV",
+      "isFree": true
+    },
+    {
+      "name": "Wack TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://wack.tv/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Bizz TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.bizzmedia.biz/"
+    },
+    {
+      "name": "CCN TV6",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png",
+      "website": "https://www.tv6tnt.com/"
+    },
+    {
+      "name": "CNC3",
+      "isFree": true,
+      "website": "https://www.cnc3.co.tt/"
+    },
+    {
+      "name": "Freedom 106.5 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZtd0kekttO4DHNbOFQVVOfeBEb.jpg",
+      "website": "https://freedom1065.com/"
+    },
+    {
+      "name": "Gayelle The Caribbean",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/GAYELLE.png"
+    },
+    {
+      "name": "M&E TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.metvnow.com/"
+    },
+    {
+      "name": "Real TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/e2KFL0R.png",
+      "website": "https://real-tv.live/"
+    },
+    {
+      "name": "Tobago Channel 5",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://tobagochannel5.com/"
+    },
+    {
+      "name": "TTT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rxf4x8J.jpg",
+      "website": "http://www.ttt.live/"
+    },
+    {
+      "name": "Vibe CT 105.1 FM",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://vibect1051.com/"
+    },
+    {
+      "name": "WESN",
+      "isFree": true,
+      "website": "https://www.wesncc.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Flow Sports 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    },
+    {
+      "name": "Flow Sports Extra 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg",
+      "website": "https://watch.streambluu.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "ieTV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_IETV.png",
+      "website": "https://www.ietvtt.com/"
+    },
+    {
+      "name": "Sangeet 106.1 FM",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MARATHI/SANGEETMARATHI.png",
+      "website": "https://sangeet1061.com/"
+    },
+    {
+      "name": "TV Jaagriti",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sdmsjaagriti.com/"
+    }
+  ]
+}

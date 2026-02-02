@@ -1,0 +1,6858 @@
+{
+  "Religious": [
+    {
+      "name": "ESNE TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/EnlaceTBN.png"
+    },
+    {
+      "name": "EWTN el Canal Católico",
+      "isFree": true,
+      "shortName": "EWTN",
+      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090113005713_79.png",
+      "website": "https://ewtn.com",
+      "priority": 10
+    },
+    {
+      "name": "IURD TV Internacional",
+      "isFree": true,
+      "shortName": "ITI",
+      "logo": "http://i.imgur.com/aiNRaga.png"
+    },
+    {
+      "name": "Tarotéame",
+      "isFree": true,
+      "logo": "https://i.imgur.com/OgEeQzl.jpg"
+    },
+    {
+      "name": "AstroShow",
+      "isFree": true,
+      "website": "https://www.astroshow.es/"
+    },
+    {
+      "name": "Betania TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.betania.tv/"
+    },
+    {
+      "name": "Cetelmon TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GGn7itj.png",
+      "website": "https://www.cetelmon.tv/"
+    },
+    {
+      "name": "Cristiana TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.radiocristiana.es/"
+    },
+    {
+      "name": "El Futuro en tu mano",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elfuturoentumano.com/"
+    },
+    {
+      "name": "EWTN Espana",
+      "isFree": true,
+      "website": "https://ewtn.es/",
+      "priority": 10
+    },
+    {
+      "name": "Logos TV Estudio",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/lo.png",
+      "website": "https://logostv.es/"
+    },
+    {
+      "name": "Logos TV Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/lo.png",
+      "website": "https://logostv.es/"
+    },
+    {
+      "name": "Taroteame",
+      "isFree": true,
+      "keywords": "taroteame -tv",
+      "logo": "https://i.imgur.com/OgEeQzl.jpg"
+    },
+    {
+      "name": "TarotVision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yOQ9e3a.png",
+      "website": "https://www.tarotvision.es/"
+    },
+    {
+      "name": "TBN Espana",
+      "isFree": true,
+      "website": "https://xn--tbnespaa-j3a.es/"
+    },
+    {
+      "name": "Television Consciente",
+      "isFree": true,
+      "website": "https://www.televisionconsciente.com/"
+    },
+    {
+      "name": "Trece",
+      "isFree": true,
+      "keywords": "trece -tv",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.cope.es/trecetv"
+    },
+    {
+      "name": "La 1",
+      "isFree": true,
+      "retransmits": "RTVE",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.rtve.es/television",
+      "priority": 10
+    },
+    {
+      "name": "La 2",
+      "isFree": true,
+      "retransmits": "RTVE",
+      "logo": "https://i.imgur.com/DmuTwDw.png",
+      "website": "https://www.rtve.es/television",
+      "priority": 9
+    },
+    {
+      "name": "24 Horas",
+      "isFree": null,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 8
+    },
+    {
+      "name": "Clan",
+      "isFree": null,
+      "logo": "https://i.imgur.com/38xIfQ3.png",
+      "priority": 9
+    },
+    {
+      "name": "Nova",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Mega",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg"
+    },
+    {
+      "name": "Cuatro",
+      "isFree": null,
+      "logo": "https://i.imgur.com/zROxNap.png",
+      "priority": 9
+    },
+    {
+      "name": "FDF",
+      "isFree": null,
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png",
+      "priority": 9
+    },
+    {
+      "name": "Divinity",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDGij5loooxlI66SLVvT4101xEf.jpg"
+    },
+    {
+      "name": "Energy",
+      "isFree": null,
+      "logo": "https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default"
+    },
+    {
+      "name": "Squirrel",
+      "isFree": null
+    },
+    {
+      "name": "DMAX",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/06/27/large/20220627220620803027_25.png"
+    },
+    {
+      "name": "DKISS",
+      "isFree": null
+    },
+    {
+      "name": "Ten",
+      "isFree": null
+    },
+    {
+      "name": "Real Madrid CF",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg"
+    },
+    {
+      "name": "rowspan=\"3\"",
+      "isFree": null
+    },
+    {
+      "name": "Avista Televisión de Andalucía",
+      "isFree": null
+    },
+    {
+      "name": "Corporación Aragonesa de Radio y Televisión",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "TPA7",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/TPA7.png"
+    },
+    {
+      "name": "TPA8",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/TPA8.png"
+    },
+    {
+      "name": "IB3",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png"
+    },
+    {
+      "name": "TV3 CAT",
+      "isFree": null,
+      "logo": "https://lo1.in/MALAY/tv3.png"
+    },
+    {
+      "name": "rowspan=\"4\"",
+      "isFree": null
+    },
+    {
+      "name": "Radio Televisión Canaria",
+      "isFree": null,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Televisión Popular de Santander",
+      "isFree": null
+    },
+    {
+      "name": "La 7 CYL",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La 8 CYL",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "CMM TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/CMM_TV.png"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "website": "https://www.ccma.cat/tv3"
+    },
+    {
+      "name": "Compañía de Radio Televisión Ceuta",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Radio y Televisión de Andalucía",
+      "isFree": null,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Sociedad Gestora de Televisión Onda 6-Grupo Squirrel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Canal Extremadura",
+      "isFree": null,
+      "logo": "https://i.imgur.com/xBeywIA.png"
+    },
+    {
+      "name": "TVG",
+      "isFree": null,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png"
+    },
+    {
+      "name": "TVG2",
+      "isFree": null,
+      "logo": "https://godish.com/wp-content/uploads/channel-logos/tvg2.png"
+    },
+    {
+      "name": "Grupo Squirrel",
+      "isFree": null,
+      "logo": "https://i.imgur.com/9y8VcBr.png"
+    },
+    {
+      "name": "Grupo Vocento",
+      "isFree": null
+    },
+    {
+      "name": "Sumando TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Popular Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY3nGvAM2zDvI0z2im3FPxyvWHi.jpg"
+    },
+    {
+      "name": "rowspan=\"2\"",
+      "isFree": null
+    },
+    {
+      "name": "La 7",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/98c5f3c24aa8451dddfb83ecb0dc3579.png"
+    },
+    {
+      "name": "Televisión Murciana S.A.",
+      "isFree": null
+    },
+    {
+      "name": "Popular TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY3nGvAM2zDvI0z2im3FPxyvWHi.jpg"
+    },
+    {
+      "name": "La Verdad Radio y TV S.A.-Grupo Squirrel",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "À Punt",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
+    },
+    {
+      "name": "La 8 Mediterráneo",
+      "isFree": null,
+      "logo": "https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200"
+    },
+    {
+      "name": "Squirrel Inversiones SL-Grupo Squirrel",
+      "isFree": null,
+      "logo": "https://i.imgur.com/9y8VcBr.png"
+    },
+    {
+      "name": "Menorca, Ibiza and Formentera",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg"
+    },
+    {
+      "name": "Canal 4",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/f35b14228595a25f9c6ecbe1d202533d.png"
+    },
+    {
+      "name": "Canal 11",
+      "isFree": null
+    },
+    {
+      "name": "Canal Ocho*",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Menorca",
+      "isFree": null
+    },
+    {
+      "name": "Ibiza and Formentera",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg"
+    },
+    {
+      "name": "Santa Cruz de Tenerife, Arona, Tenerife",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg"
+    },
+    {
+      "name": "El Hierro and La Gomera",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "La Provincia*",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Localia*",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Majorca",
+      "isFree": null
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg"
+    },
+    {
+      "name": "Fuerteventura, Las Palmas De Gran Canaria",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqc2LaUWB4ePf6IqpJ6D8apBDvn.jpg"
+    },
+    {
+      "name": "Indalo TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Interalmería TV8TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/ulSkAjZ.png"
+    },
+    {
+      "name": "8 TV",
+      "isFree": null,
+      "keywords": "8 tv -cadiz -catalunya -cadiz -estepaandalucia digital tvgiganet tv -moron"
+    },
+    {
+      "name": "Levante TV 9Indalo TV",
+      "isFree": null,
+      "logo": "https://go4.pw/58.png"
+    },
+    {
+      "name": "Onda Algeciras8 Campo de Gibraltar8 La LíneaCanal San Roque TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "Canal Sierra de Cádiz8 TVSiete Andalucía",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Onda CádizRTV Tarifa8 TV CádizSiete Andalucía",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "RTV Tarifa8 TV Cádiz8 TV Chiclana8 TV El Puerto",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "priority": 9
+    },
+    {
+      "name": "Onda Jerez TVCosta Noroeste TVSiete Andalucía8 TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "Baena",
+      "isFree": null
+    },
+    {
+      "name": "Córdoba",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZIkDMegC1RP3VYntyK3POCecoP.jpg"
+    },
+    {
+      "name": "Lucena",
+      "isFree": null
+    },
+    {
+      "name": "Siete Andalucía",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png"
+    },
+    {
+      "name": "TeleQuivirGuadalquivir TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Asociación Cultural Radio Televisión Adventista de Málaga*Kiss TV*",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/ES+.png"
+    },
+    {
+      "name": "Baza",
+      "isFree": null
+    },
+    {
+      "name": "TG78 TV GranadaPublicaciones del SurPTV Granada",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Asociación Cultural Radio Televisión Adventista de Málaga*",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/ES+.png"
+    },
+    {
+      "name": "Publicaciones del Sur*",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "TeleMotrilGCFTV",
+      "isFree": null
+    },
+    {
+      "name": "Almonte",
+      "isFree": null
+    },
+    {
+      "name": "Más TV Huelva",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg"
+    },
+    {
+      "name": "Huelva TVCanal LuzEl SembradorCNH Canal Huelva",
+      "isFree": null,
+      "logo": "https://i.imgur.com/hEnpvKj.png"
+    },
+    {
+      "name": "Canal CostaTeleOnuba",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 45 TVAlternativa TVPortal Azul TVNueva TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Cazorla",
+      "isFree": null
+    },
+    {
+      "name": "Jaén",
+      "isFree": null,
+      "logo": "https://i.imgur.com/zK1YcpJ.png"
+    },
+    {
+      "name": "Linares",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Diez TV Úbeda HD9 La Loma HD",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/DIEZ.png"
+    },
+    {
+      "name": "Diez TV Las Villas HD",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/DIEZ.png"
+    },
+    {
+      "name": "101 TVSiete TVMálaga 24h",
+      "isFree": null,
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "101 TVAntaquira Televisión Digital",
+      "isFree": null,
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "101 TVEstepona TVMediterráneo TVSiete Andalucía",
+      "isFree": null,
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "Fuengirola TV73TVCosta del Sol TVSiete Andalucía",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Canal Málaga TV101 TV8 TV MálagaVer-TTorrevisiónChatSiete AndalucíaPTV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "101 TVRTV Marbella7 TV MarbellaM95",
+      "isFree": null,
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "Axarquía TV101 TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/GzI3RC4.png"
+    },
+    {
+      "name": "Axarquía TVAxartel TV101 TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/GzI3RC4.png"
+    },
+    {
+      "name": "Écija Comarca TVTelécija8 TV Écija",
+      "isFree": null
+    },
+    {
+      "name": "8 TV EstepaAndalucía Digital TVGiganet TV",
+      "isFree": null
+    },
+    {
+      "name": "8 TV Morón",
+      "isFree": null
+    },
+    {
+      "name": "Sevilla",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/sevilla.png"
+    },
+    {
+      "name": "Uvitel",
+      "isFree": null,
+      "keywords": "uvitel -tv"
+    },
+    {
+      "name": "Canal 25Huesca TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Fraga TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "La Tele TVANTV HuescaHuesca TV",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Tele Monzón",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "La Tele TV",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Alagón",
+      "isFree": null
+    },
+    {
+      "name": "Ejea TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "La General TV",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La 87NN",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Vinx",
+      "isFree": null,
+      "keywords": "vinx -tv",
+      "logo": "https://go4.pw/SPAIN/VINX.png"
+    },
+    {
+      "name": "Canal 10 (No broadcast)Vinx",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Ibiza Global TVTEF",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg"
+    },
+    {
+      "name": "Inca",
+      "isFree": null
+    },
+    {
+      "name": "Fibwi TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/4vcGzcC.png"
+    },
+    {
+      "name": "Fibwi4Televisió MenorquinaFibwi TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Palma de Mallorca",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/PALMAPLUS.png"
+    },
+    {
+      "name": "Llodio",
+      "isFree": null
+    },
+    {
+      "name": "Vitoria",
+      "isFree": null,
+      "logo": "https://i.imgur.com/IfPT4sF.png"
+    },
+    {
+      "name": "TeleBilbaoHamaikaTele 7Bizkaia TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Bizkaia TVOizmendi TelebistaTeleBilbao",
+      "isFree": null
+    },
+    {
+      "name": "TeleBilbaoBizkaia TVTele 7Hamaika",
+      "isFree": null
+    },
+    {
+      "name": "Durango",
+      "isFree": null,
+      "logo": "https://i.imgur.com/H34quHQ.png"
+    },
+    {
+      "name": "Tele 7HamaikaBizkaia TV",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "TeledonostiGoierri TelebistaUrola Telebista",
+      "isFree": null,
+      "logo": "https://i.imgur.com/rFQuAEv.png"
+    },
+    {
+      "name": "TeledonostiHamaikaTeleDonostia",
+      "isFree": null
+    },
+    {
+      "name": "TeledonostiHamaikaTeleDonostiaGlobal 7",
+      "isFree": null
+    },
+    {
+      "name": "GoitbTeledonosti",
+      "isFree": null
+    },
+    {
+      "name": "TeledonostiHamaikaGlobal 7",
+      "isFree": null
+    },
+    {
+      "name": "Tolosa",
+      "isFree": null
+    },
+    {
+      "name": "TeledonostiErlo Telebistauk4",
+      "isFree": null
+    },
+    {
+      "name": "Lancelot TVMírame TV",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SPAIN/lancelot.png"
+    },
+    {
+      "name": "Gran Canaria TVTIC Canal 8Canal 4",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg"
+    },
+    {
+      "name": "TV MogánCanal 4 TeldeMírame TVGran Canaria TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Este CanalCanal 4TIC Canal 8Gran Canaria TV",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/HBOTV.png"
+    },
+    {
+      "name": "Arona",
+      "isFree": null
+    },
+    {
+      "name": "Canal 4Mírame TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Mírame TVCanal 11",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SPAIN/mirametv.png"
+    },
+    {
+      "name": "11 TV CantabriaCantabria 7 Televisión",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/PORTUGAL/11tv.png"
+    },
+    {
+      "name": "Cantabria 7 Televisión",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/1c259824e7f174c9c534b4f7f6528ea9.png"
+    },
+    {
+      "name": "Santander",
+      "isFree": null,
+      "logo": "https://i.imgur.com/LNl2o9q.jpg"
+    },
+    {
+      "name": "Hit TV*Telemadrid",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+    },
+    {
+      "name": "Telearanda*",
+      "isFree": null
+    },
+    {
+      "name": "Hit TV*LaDeBurgos TV*",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+    },
+    {
+      "name": "Televisión Miranda*ETB 1ETB 2",
+      "isFree": null
+    },
+    {
+      "name": "Astorga",
+      "isFree": null
+    },
+    {
+      "name": "León",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "987live*Televisión de Galicia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Hit TV*",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+    },
+    {
+      "name": "Salamanca",
+      "isFree": null
+    },
+    {
+      "name": "Canal 9 SoriaHit TVAragón TVCMM TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Telemedina Canal 9Eukast*",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Valladolid",
+      "isFree": null
+    },
+    {
+      "name": "Benavente",
+      "isFree": null
+    },
+    {
+      "name": "Zamora",
+      "isFree": null
+    },
+    {
+      "name": "Visión 6",
+      "isFree": null,
+      "keywords": "vision 6 -tv",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Alcaraz",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/espnp.png"
+    },
+    {
+      "name": "Canal Imagen CaudeteVisión 6",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Visión 6TV Hellín",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "TV La ManchaVisión 6Canal 4 Mancha Centro",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mancha Centro TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/CMM_TV.png"
+    },
+    {
+      "name": "Imás TVTV La ManchaCRTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/a9hgTmM.png"
+    },
+    {
+      "name": "Manzanares",
+      "isFree": null
+    },
+    {
+      "name": "Imás TVTV La Mancha",
+      "isFree": null,
+      "logo": "https://i.imgur.com/a9hgTmM.png"
+    },
+    {
+      "name": "Imás TVPopular TV Valdepeñas",
+      "isFree": null,
+      "logo": "https://i.imgur.com/a9hgTmM.png"
+    },
+    {
+      "name": "TV La ManchaTV Pedroñeras",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Teletoledo",
+      "isFree": null
+    },
+    {
+      "name": "Guada TVAlcarria TV (Intereconomía TV",
+      "isFree": null
+    },
+    {
+      "name": "Guadalajara",
+      "isFree": null,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Illescas",
+      "isFree": null
+    },
+    {
+      "name": "Madridejos",
+      "isFree": null
+    },
+    {
+      "name": "TeletoledoCanal diocesano",
+      "isFree": null
+    },
+    {
+      "name": "TeletoledoCanal Comercial",
+      "isFree": null
+    },
+    {
+      "name": "Toledo",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/pb.png"
+    },
+    {
+      "name": "Torrijos",
+      "isFree": null
+    },
+    {
+      "name": "BetevéBDN-BadalonaTV HospitaletCanal 4 Catalunya",
+      "isFree": null,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "ETVTele Taxi TVGavà TelevisióTV10",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVR6IXu5u0LUoIb2r58kAkr6DcI.jpg"
+    },
+    {
+      "name": "VOTVVallès VisióCanal 4 Catalunya",
+      "isFree": null,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "25TVCanal Taronja",
+      "isFree": null,
+      "logo": "https://i.imgur.com/RP8VcqZ.png"
+    },
+    {
+      "name": "TV BerguedàCanal Taronja",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mataró TVMar TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/FTGbu8A.png"
+    },
+    {
+      "name": "Hit TVCanal TerrassaCanal 4 CatalunyaMolahits TVTVSC VallèsTV Sabadell-Vallès",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+    },
+    {
+      "name": "Vic",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg"
+    },
+    {
+      "name": "Penedès TVCanal BlauTerramar TVTV El Vendrell",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Canal 10 EmpordàEmpordà TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Banyoles TelevisióTeve.catTV Girona",
+      "isFree": null,
+      "logo": "https://go4.pw/58.png"
+    },
+    {
+      "name": "TV RipollèsOlot Televisió",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Lleida TVTOT TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/xWY2568.png"
+    },
+    {
+      "name": "Lleida TVTOT TVTeve.cat",
+      "isFree": null,
+      "logo": "https://i.imgur.com/xWY2568.png"
+    },
+    {
+      "name": "Tot TVPirineus TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Lleida TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/xWY2568.png"
+    },
+    {
+      "name": "Canal Reus",
+      "isFree": null,
+      "keywords": "canal reus -tv",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TAC 12Teve.catTerramar Tarragona",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/TAC12.png"
+    },
+    {
+      "name": "Canal TETE24Canal 21 Ebre",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Radio TV de CeutaCanal Sur",
+      "isFree": null,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "8madridEnlace",
+      "isFree": null
+    },
+    {
+      "name": "8madridTrece (Spanish TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "8madridHit TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "8madrid",
+      "isFree": null,
+      "keywords": "8madrid -tv",
+      "logo": "https://i.imgur.com/ZjnlY3D.jpeg"
+    },
+    {
+      "name": "Consorcio Almendralejo Televisión TV",
+      "isFree": null
+    },
+    {
+      "name": "9TV Nuestra Comarca",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hBWAQLqKtecQZTmyN6U7ocsSD2.jpg"
+    },
+    {
+      "name": "Mérida",
+      "isFree": null
+    },
+    {
+      "name": "RTV ZafraTeleZafra",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "TV MiajadasComarcalia TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TelePlasencia",
+      "isFree": null
+    },
+    {
+      "name": "Vía Plata TV",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/VIA.png"
+    },
+    {
+      "name": "RTV EumeCanal Vía TV",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "Ferrol",
+      "isFree": null,
+      "logo": "https://i.imgur.com/TjpjoOu.png"
+    },
+    {
+      "name": "Canal Vía TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TeleVinteCanal Vía TV",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/VIA.png"
+    },
+    {
+      "name": "Telelugo",
+      "isFree": null
+    },
+    {
+      "name": "TelemiñoAuria TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Nós TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOzZv2tBX6SRExVCKnbBfV139C.jpg"
+    },
+    {
+      "name": "Canal Vía TVNós TV",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Vía PontevedraCanal Rías BaixasCanal Vía TV",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/VIA.png"
+    },
+    {
+      "name": "TelevigoHermes/Inter",
+      "isFree": null
+    },
+    {
+      "name": "Canal Rías Baixas",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TV MelillaPopular TVCanal SurCanal Sur 2",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Pamplona/Iruña",
+      "isFree": null
+    },
+    {
+      "name": "Zona Media TV30TVETB 3",
+      "isFree": null,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png"
+    },
+    {
+      "name": "Tudela",
+      "isFree": null
+    },
+    {
+      "name": "Lorca",
+      "isFree": null
+    },
+    {
+      "name": "La Opinión TVEnlace",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Canal 1 TV Mar MenorLa Opinión TVGTM Televisión",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Información TVTV IntercomarcaltvA",
+      "isFree": null
+    },
+    {
+      "name": "Alicante/Alacant",
+      "isFree": null
+    },
+    {
+      "name": "Información TVPunt B8 La Marina",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "TV Comarcal8 La MarinaTele 7 Calderona",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Elche/Elx",
+      "isFree": null
+    },
+    {
+      "name": "UNE VinalopóTV Intercomarcal",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWeHTV7AW9ZC4KHmthU56a32FCL.jpg"
+    },
+    {
+      "name": "TV Vega BajaComarca TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Castellón/Castelló",
+      "isFree": null
+    },
+    {
+      "name": "Morella",
+      "isFree": null
+    },
+    {
+      "name": "Teve 4 La Vall",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/TEVE2HDPLUS.png"
+    },
+    {
+      "name": "TV de CastellóTVU VinarózCanal 56",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Alzira",
+      "isFree": null
+    },
+    {
+      "name": "TV Comarcal SaforGandía TVTeleSafor",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV ComarcalMK TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Teve 4",
+      "isFree": null,
+      "keywords": "teve 4 -la vall",
+      "logo": "https://go4.pw/TURKIYE/TEVE2HDPLUS.png"
+    },
+    {
+      "name": "Torrent",
+      "isFree": null
+    },
+    {
+      "name": "Valècia TelevisióLevante TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "La 1]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "La 2]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "24 Horas]]",
+      "isFree": null
+    },
+    {
+      "name": "Clan]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Nova]]",
+      "isFree": null
+    },
+    {
+      "name": "Mega]]",
+      "isFree": null
+    },
+    {
+      "name": "Cuatro]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "FDF]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Divinity]]",
+      "isFree": null
+    },
+    {
+      "name": "Energy]]",
+      "isFree": null
+    },
+    {
+      "name": "Squirrel]]",
+      "isFree": null
+    },
+    {
+      "name": "DMAX]]",
+      "isFree": null
+    },
+    {
+      "name": "DKISS]]",
+      "isFree": null
+    },
+    {
+      "name": "Ten]]",
+      "isFree": null
+    },
+    {
+      "name": "Trece]]",
+      "isFree": null
+    },
+    {
+      "name": "[[Real Madrid CF",
+      "isFree": null,
+      "logo": "https://go4.pw/58.png"
+    },
+    {
+      "name": "TPA7]]",
+      "isFree": null
+    },
+    {
+      "name": "TPA8]]",
+      "isFree": null
+    },
+    {
+      "name": "IB3]]",
+      "isFree": null
+    },
+    {
+      "name": "TV3 CAT]]",
+      "isFree": null,
+      "logo": "https://lo1.in/MALAY/tv3.png"
+    },
+    {
+      "name": "La 7 CYL]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La 8 CYL]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "CMM TV]]",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/CMM_TV.png"
+    },
+    {
+      "name": "TV3]]",
+      "isFree": null
+    },
+    {
+      "name": "Canal Extremadura]]",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TVG]]",
+      "isFree": null
+    },
+    {
+      "name": "TVG2]]",
+      "isFree": null
+    },
+    {
+      "name": "[[Grupo Vocento",
+      "isFree": null
+    },
+    {
+      "name": "La 7]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Popular TV]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY3nGvAM2zDvI0z2im3FPxyvWHi.jpg"
+    },
+    {
+      "name": "À Punt]]",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/619307.png"
+    },
+    {
+      "name": "La 8 Mediterráneo]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Canal 4]]",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 11]]",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Ocho]]*",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Santa Cruz de Tenerife, [[Arona, Tenerife",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg"
+    },
+    {
+      "name": "La Provincia]]*",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Localia]]*",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Fuerteventura, [[Las Palmas De Gran Canaria",
+      "isFree": null
+    },
+    {
+      "name": "Baena]]",
+      "isFree": null
+    },
+    {
+      "name": "Córdoba]]",
+      "isFree": null
+    },
+    {
+      "name": "Lucena]]",
+      "isFree": null
+    },
+    {
+      "name": "Baza]]",
+      "isFree": null
+    },
+    {
+      "name": "Almonte]]",
+      "isFree": null
+    },
+    {
+      "name": "Cazorla]]",
+      "isFree": null
+    },
+    {
+      "name": "Jaén]]",
+      "isFree": null
+    },
+    {
+      "name": "Linares]]",
+      "isFree": null
+    },
+    {
+      "name": "Sevilla]]",
+      "isFree": null
+    },
+    {
+      "name": "Alagón]]",
+      "isFree": null
+    },
+    {
+      "name": "Inca]]",
+      "isFree": null
+    },
+    {
+      "name": "Palma de Mallorca]]",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/PALMAPLUS.png"
+    },
+    {
+      "name": "Llodio]]",
+      "isFree": null
+    },
+    {
+      "name": "Vitoria]]",
+      "isFree": null
+    },
+    {
+      "name": "Durango]]",
+      "isFree": null
+    },
+    {
+      "name": "Tolosa]]",
+      "isFree": null
+    },
+    {
+      "name": "Arona]]",
+      "isFree": null
+    },
+    {
+      "name": "Santander]]",
+      "isFree": null
+    },
+    {
+      "name": "Hit TV*[[Telemadrid",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+    },
+    {
+      "name": "Astorga]]",
+      "isFree": null
+    },
+    {
+      "name": "León]]",
+      "isFree": null
+    },
+    {
+      "name": "987live*[[Televisión de Galicia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Salamanca]]",
+      "isFree": null
+    },
+    {
+      "name": "Valladolid]]",
+      "isFree": null
+    },
+    {
+      "name": "Benavente]]",
+      "isFree": null
+    },
+    {
+      "name": "Zamora]]",
+      "isFree": null
+    },
+    {
+      "name": "Alcaraz]]",
+      "isFree": null
+    },
+    {
+      "name": "Manzanares]]",
+      "isFree": null
+    },
+    {
+      "name": "Guada TVAlcarria TV ([[Intereconomía TV",
+      "isFree": null
+    },
+    {
+      "name": "Guadalajara]]",
+      "isFree": null
+    },
+    {
+      "name": "Illescas]]",
+      "isFree": null
+    },
+    {
+      "name": "Madridejos]]",
+      "isFree": null
+    },
+    {
+      "name": "Toledo]]",
+      "isFree": null
+    },
+    {
+      "name": "Torrijos]]",
+      "isFree": null
+    },
+    {
+      "name": "Vic]]",
+      "isFree": null
+    },
+    {
+      "name": "8madrid[[Enlace",
+      "isFree": null
+    },
+    {
+      "name": "8madrid[[Trece (Spanish TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mérida]]",
+      "isFree": null
+    },
+    {
+      "name": "Ferrol]]",
+      "isFree": null
+    },
+    {
+      "name": "Pamplona/Iruña]]",
+      "isFree": null
+    },
+    {
+      "name": "Tudela]]",
+      "isFree": null
+    },
+    {
+      "name": "Lorca]]",
+      "isFree": null
+    },
+    {
+      "name": "La Opinión TV[[Enlace",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Alicante/Alacant]]",
+      "isFree": null
+    },
+    {
+      "name": "Elche/Elx]]",
+      "isFree": null
+    },
+    {
+      "name": "Castellón/Castelló]]",
+      "isFree": null
+    },
+    {
+      "name": "Morella]]",
+      "isFree": null
+    },
+    {
+      "name": "Alzira]]",
+      "isFree": null
+    },
+    {
+      "name": "Torrent]]",
+      "isFree": null
+    },
+    {
+      "name": "TVE Internacional América ES",
+      "isFree": true
+    },
+    {
+      "name": "Lancelot TV ES",
+      "isFree": true
+    },
+    {
+      "name": "LA 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "LA 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Antena 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "Cuatro ES",
+      "isFree": true
+    },
+    {
+      "name": "Telecinco ES",
+      "isFree": true
+    },
+    {
+      "name": "La Sexta ES",
+      "isFree": true
+    },
+    {
+      "name": "Movistar Plus+ ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Vamos ES",
+      "isFree": true
+    },
+    {
+      "name": "7 TV Región Murcia ES",
+      "isFree": true
+    },
+    {
+      "name": "À Punt ES",
+      "isFree": true
+    },
+    {
+      "name": "Aragón TV ES",
+      "isFree": true
+    },
+    {
+      "name": "TV Canarias ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Sur ES",
+      "isFree": true
+    },
+    {
+      "name": "Castilla la Mancha TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Sur HD ES",
+      "isFree": true
+    },
+    {
+      "name": "La 7 ES",
+      "isFree": true
+    },
+    {
+      "name": "ETB 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Extremadura ES",
+      "isFree": true
+    },
+    {
+      "name": "IB3 ES",
+      "isFree": true
+    },
+    {
+      "name": "Navarra TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Telemadrid ES",
+      "isFree": true
+    },
+    {
+      "name": "TPA ES",
+      "isFree": true
+    },
+    {
+      "name": "TV3 ES",
+      "isFree": true
+    },
+    {
+      "name": "TVG-TV Galicia ES",
+      "isFree": true
+    },
+    {
+      "name": "Andalucía TV ES",
+      "isFree": true
+    },
+    {
+      "name": "33 ES",
+      "isFree": true
+    },
+    {
+      "name": "ETB 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "La Ocho TV ES",
+      "isFree": true
+    },
+    {
+      "name": "La Otra ES",
+      "isFree": true
+    },
+    {
+      "name": "TVG 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Estrenos ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Hits ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Originales ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Los 90 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Documentales ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ De época ES",
+      "isFree": true
+    },
+    {
+      "name": "La Resistencia ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Clásicos ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Acción ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Comedia ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Drama ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Indie ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Cine Español ES",
+      "isFree": true
+    },
+    {
+      "name": "Max Avances ES",
+      "isFree": true
+    },
+    {
+      "name": "SkyShowtime 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "TCM ES",
+      "isFree": true
+    },
+    {
+      "name": "BBC Drama ES",
+      "isFree": true
+    },
+    {
+      "name": "BBC Top Gear ES",
+      "isFree": true
+    },
+    {
+      "name": "Paramount Network ES",
+      "isFree": true
+    },
+    {
+      "name": "Be Mad ES",
+      "isFree": true
+    },
+    {
+      "name": "Star Channel ES",
+      "isFree": true
+    },
+    {
+      "name": "AXN ES",
+      "isFree": true
+    },
+    {
+      "name": "Warner TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central ES",
+      "isFree": true
+    },
+    {
+      "name": "Calle 13 ES",
+      "isFree": true
+    },
+    {
+      "name": "Cosmo ES",
+      "isFree": true
+    },
+    {
+      "name": "Syfy ES",
+      "isFree": true
+    },
+    {
+      "name": "AXN Movies ES",
+      "isFree": true
+    },
+    {
+      "name": "Trece ES",
+      "isFree": true
+    },
+    {
+      "name": "Energy ES",
+      "isFree": true
+    },
+    {
+      "name": "Factoría de Ficción ES",
+      "isFree": true
+    },
+    {
+      "name": "Neox ES",
+      "isFree": true
+    },
+    {
+      "name": "Atreseries ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Laliga TV ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN Laliga ES",
+      "isFree": true
+    },
+    {
+      "name": "Laliga TV Hypermotion ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Laliga TV 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN Laliga 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Laliga TV Hypermotion 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones  3 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Ellas V ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Golf ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Golf 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN F1 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Gol Play ES",
+      "isFree": true
+    },
+    {
+      "name": "Teledeporte ES",
+      "isFree": true
+    },
+    {
+      "name": "Real Madrid TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Caza y Pesca ES",
+      "isFree": true
+    },
+    {
+      "name": "Iberalia TV ES",
+      "isFree": true
+    },
+    {
+      "name": "El Garage TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Ubeat ES",
+      "isFree": true
+    },
+    {
+      "name": "National Geographic ES",
+      "isFree": true
+    },
+    {
+      "name": "Nat Geo Wild ES",
+      "isFree": true
+    },
+    {
+      "name": "BBC History ES",
+      "isFree": true
+    },
+    {
+      "name": "Discovery ES",
+      "isFree": true
+    },
+    {
+      "name": "DMAX ES",
+      "isFree": true
+    },
+    {
+      "name": "BBC Food ES",
+      "isFree": true
+    },
+    {
+      "name": "DKiss ES",
+      "isFree": true
+    },
+    {
+      "name": "Divinity ES",
+      "isFree": true
+    },
+    {
+      "name": "Nova ES",
+      "isFree": true
+    },
+    {
+      "name": "Mega ES",
+      "isFree": true
+    },
+    {
+      "name": "Ten ES",
+      "isFree": true
+    },
+    {
+      "name": "Baby TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Disney Junior ES",
+      "isFree": true
+    },
+    {
+      "name": "Nick Jr ES",
+      "isFree": true
+    },
+    {
+      "name": "Nickelodeon ES",
+      "isFree": true
+    },
+    {
+      "name": "Dreamworks ES",
+      "isFree": true
+    },
+    {
+      "name": "Boing ES",
+      "isFree": true
+    },
+    {
+      "name": "Clan TVE ES",
+      "isFree": true
+    },
+    {
+      "name": "ETB 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "SX3 ES",
+      "isFree": true
+    },
+    {
+      "name": "MTV ES",
+      "isFree": true
+    },
+    {
+      "name": "MTV 00s ES",
+      "isFree": true
+    },
+    {
+      "name": "Mezzo ES",
+      "isFree": true
+    },
+    {
+      "name": "Mezzo Live ES",
+      "isFree": true
+    },
+    {
+      "name": "Stingray Classica ES",
+      "isFree": true
+    },
+    {
+      "name": "24 Horas ES",
+      "isFree": true
+    },
+    {
+      "name": "BBC World ES",
+      "isFree": true
+    },
+    {
+      "name": "CNN Int ES",
+      "isFree": true
+    },
+    {
+      "name": "Euronews ES",
+      "isFree": true
+    },
+    {
+      "name": "3 24 ES",
+      "isFree": true
+    },
+    {
+      "name": "TV5 Monde ES",
+      "isFree": true
+    },
+    {
+      "name": "Bloomberg ES",
+      "isFree": true
+    },
+    {
+      "name": "El Toro TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Negocios TV ES",
+      "isFree": true
+    },
+    {
+      "name": "CGTN Español ES",
+      "isFree": true
+    },
+    {
+      "name": "EWTN ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Sur Andalucía ES",
+      "isFree": true
+    },
+    {
+      "name": "TVG Europa ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Extremadura Sat ES",
+      "isFree": true
+    },
+    {
+      "name": "TV3 Cat ES",
+      "isFree": true
+    },
+    {
+      "name": "EITB Basque ES",
+      "isFree": true
+    },
+    {
+      "name": "Aragón TV Int ES",
+      "isFree": true
+    },
+    {
+      "name": "Telemadrid Int. ES",
+      "isFree": true
+    },
+    {
+      "name": "Esport 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "Betevé ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Laliga TV 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Laliga TV 4 ES",
+      "isFree": true
+    },
+    {
+      "name": "Movistar Plus+ 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Laliga TV Hypermotion 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones  4 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 5 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 6 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 7 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 8 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 9 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 10 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 11 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 12 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Liga de Campeones 13 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 4 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 5 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 6 ES",
+      "isFree": true
+    },
+    {
+      "name": "M+ Deportes 7 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "DAZN 4 ES",
+      "isFree": true
+    },
+    {
+      "name": "Alquiler  1 ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Fútbol Replay ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Historia ES",
+      "isFree": true
+    },
+    {
+      "name": "AMC ES",
+      "isFree": true
+    },
+    {
+      "name": "BOM Cine ES",
+      "isFree": true
+    },
+    {
+      "name": "Somos ES",
+      "isFree": true
+    },
+    {
+      "name": "LaLiga TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Sol Musica ES",
+      "isFree": true
+    },
+    {
+      "name": "Crimen & Investigacion ES",
+      "isFree": true
+    },
+    {
+      "name": "beIN LaLiga MAX 1 ES",
+      "isFree": true
+    },
+    {
+      "name": "beIN LaLiga MAX 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "beIN LaLiga MAX 3 ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Cocina ES",
+      "isFree": true
+    },
+    {
+      "name": "AMC Break ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Decasa ES",
+      "isFree": true
+    },
+    {
+      "name": "EnFamilia ES",
+      "isFree": true
+    },
+    {
+      "name": "TVE Internacional Asia/Oceanía ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Sur 2 ES",
+      "isFree": true
+    },
+    {
+      "name": "Odisea ES",
+      "isFree": true
+    },
+    {
+      "name": "TVE Internacional Europa/África ES",
+      "isFree": true
+    },
+    {
+      "name": "A3Cine ES",
+      "isFree": true
+    },
+    {
+      "name": "ISB TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Xtrm ES",
+      "isFree": true
+    },
+    {
+      "name": "Canal Hollywood ES",
+      "isFree": true
+    },
+    {
+      "name": "Sundance TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Dark ES",
+      "isFree": true
+    },
+    {
+      "name": "AMC Crime ES",
+      "isFree": true
+    },
+    {
+      "name": "Antena 3 Internacional ES",
+      "isFree": true
+    },
+    {
+      "name": "Barca TV ES",
+      "isFree": true
+    },
+    {
+      "name": "Buen Viaje ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel En ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel De ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Fr ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Ru ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Es ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Ar ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Jp ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel It ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Pt ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Ko ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel In ES",
+      "isFree": true
+    },
+    {
+      "name": "Olympic Channel Cn ES",
+      "isFree": true
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "+24",
+      "isFree": true
+    },
+    {
+      "name": "+tdp",
+      "isFree": true
+    },
+    {
+      "name": "25 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "28 Kanala",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyvK28q.png"
+    },
+    {
+      "name": "7 La Rioja",
+      "isFree": true
+    },
+    {
+      "name": "7 Murcia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "8 TV Cádiz",
+      "isFree": true
+    },
+    {
+      "name": "9 la Loma TV",
+      "isFree": true
+    },
+    {
+      "name": "A3 Latino",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/A3S.png"
+    },
+    {
+      "name": "ATV Andorra",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Alacanti TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Alacantí TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Alcarria TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Antena 3",
+      "isFree": true,
+      "shortName": "A3",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/08/20150908163356593490_44.jpg",
+      "website": "https://www.antena3.com",
+      "priority": 10
+    },
+    {
+      "name": "Aragon TV",
+      "isFree": true,
+      "shortName": "Aragón TV",
+      "website": "https://www.aragontelevision.es"
+    },
+    {
+      "name": "Aragón TV",
+      "isFree": true,
+      "website": "https://www.aragontelevision.es"
+    },
+    {
+      "name": "Bailén TV",
+      "isFree": true
+    },
+    {
+      "name": "Beteve",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/893f345ce7ab4ee922cab27cd16bc8ee.png"
+    },
+    {
+      "name": "Big Name",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d71c9141f8577030a186a595701e681b.png"
+    },
+    {
+      "name": "Bon Dia TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e7e0c168db7cca79816e1aec66a178c1.png"
+    },
+    {
+      "name": "CANAL 45 TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "CCMA Exclusiu 1",
+      "isFree": true
+    },
+    {
+      "name": "CCMA Exclusiu 2",
+      "isFree": true
+    },
+    {
+      "name": "CMM Castilla La Mancha",
+      "isFree": true,
+      "shortName": "CCLM",
+      "logo": "https://images.iptvmate.net/tvglogo/dc02fb937b769d4f62b1db30970357e6.png"
+    },
+    {
+      "name": "CMM TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CMM_TV.png"
+    },
+    {
+      "name": "Cadena Elite",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3yeGDTP.png"
+    },
+    {
+      "name": "Campiña Sur TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obEV37TU1Q7BcYRtvLZmCklwv2D.jpg"
+    },
+    {
+      "name": "Canal 10 Empordà",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 2000 La Solana",
+      "isFree": true,
+      "shortName": "C2LS",
+      "logo": "https://images.iptvmate.net/tvglogo/f95b29bfd8da3ba9a9b2f48626b48828.png"
+    },
+    {
+      "name": "Canal 24 horas",
+      "isFree": true
+    },
+    {
+      "name": "Canal 25 Barbastro",
+      "isFree": true,
+      "shortName": "C2B",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal 33 Madrid",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal 4",
+      "isFree": true,
+      "keywords": "canal 4 -mancha centro -tenerife",
+      "logo": "https://images.iptvmate.net/tvglogo/f35b14228595a25f9c6ecbe1d202533d.png"
+    },
+    {
+      "name": "Canal 4 Mancha Centro",
+      "isFree": true,
+      "shortName": "C4MC",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal 4 Tenerife",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Egymir4.png"
+    },
+    {
+      "name": "Canal 56",
+      "isFree": true
+    },
+    {
+      "name": "Canal Coín",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Diocesano",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8b2a3601d876017f8d00b58771533fac.png"
+    },
+    {
+      "name": "Canal Doñana",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Extremadura",
+      "isFree": true,
+      "shortName": "CE",
+      "logo": "https://i.imgur.com/xBeywIA.png"
+    },
+    {
+      "name": "Canal Malaga",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal Parlamento",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal San Roque",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e81bb38a28a8c8a740a1053b805097f0.png"
+    },
+    {
+      "name": "Canal Sierra de Cádiz",
+      "isFree": true,
+      "shortName": "CSDC",
+      "logo": "https://images.iptvmate.net/tvglogo/328beae820830f20bd17ebc35863475d.png"
+    },
+    {
+      "name": "Canal Super 3",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b2cc64f3042d5c6b92b724ca46e5dc55.png"
+    },
+    {
+      "name": "Canal Sur Andalucía",
+      "isFree": true,
+      "shortName": "CSA",
+      "logo": "https://i.imgur.com/WcVOXPr.png"
+    },
+    {
+      "name": "Canal Taronja Osona",
+      "isFree": true,
+      "keywords": "canal taronja osona -i moianes",
+      "shortName": "CTO",
+      "logo": "https://images.iptvmate.net/tvglogo/e9459dea642a1c384e97a626648d76a9.png"
+    },
+    {
+      "name": "Canal Taronja Osona i Moianés",
+      "isFree": true,
+      "shortName": "CTOIM",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Vasco",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canalcosta TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/23a9522aee19ac1b39bb98765de6d052.png"
+    },
+    {
+      "name": "Clan TVE",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Condavision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Condavisión",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Cosmo TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/COSMOHD.png"
+    },
+    {
+      "name": "Costa Noroeste TV",
+      "isFree": true,
+      "shortName": "CNT"
+    },
+    {
+      "name": "CostadelSol TV",
+      "isFree": true,
+      "keywords": "costa del sol tv | costadelsol tv",
+      "logo": "https://images.iptvmate.net/tvglogo/ea1bcc8c08cd13bebdce2c780bc97fa4.png"
+    },
+    {
+      "name": "Cuatro",
+      "isFree": true,
+      "keywords": "cuatro -4 tv vall uxa",
+      "logo": "https://i.imgur.com/zROxNap.png",
+      "priority": 9
+    },
+    {
+      "name": "Cuatro 4 TV Vall Uxa",
+      "isFree": true,
+      "shortName": "C4TVU",
+      "logo": "https://go4.pw/SPAIN/cuatro.png",
+      "priority": 9
+    },
+    {
+      "name": "Cáceres Tevé",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3b8e05bbb4be8573d434d01fc7844499.png"
+    },
+    {
+      "name": "Córdoba TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qVe0hET.png"
+    },
+    {
+      "name": "Diez TV",
+      "isFree": true
+    },
+    {
+      "name": "Durangaldeko TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qdlW6cg.png"
+    },
+    {
+      "name": "ETB Eventos 1",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png"
+    },
+    {
+      "name": "ETB Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png"
+    },
+    {
+      "name": "EiTB 1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f1015d2611bd50dcf58b2b15c3fa3fdc.png"
+    },
+    {
+      "name": "EiTB 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f1015d2611bd50dcf58b2b15c3fa3fdc.png"
+    },
+    {
+      "name": "El 33",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "El Sembrador TV Europa",
+      "isFree": true,
+      "shortName": "ESTE",
+      "logo": "https://images.iptvmate.net/tvglogo/8fdf9110ffb89f99d2390b9ec6264c06.png"
+    },
+    {
+      "name": "El Toro TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/337f3e077e96b47d6c808116981011f7.png"
+    },
+    {
+      "name": "Elche 7 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0a9645af2a709d73219472b4948f76f0.png"
+    },
+    {
+      "name": "EsAsturiasTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2c3f58bb5098798b77980cf912c63b18.png"
+    },
+    {
+      "name": "Esport 3",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/add607cd45f8dc2abd328c27c8130387.png"
+    },
+    {
+      "name": "Estepona TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "EuropaPress TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fibracat TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6ddd041aacf8678c73dc546c927464dd.png"
+    },
+    {
+      "name": "Fibwi",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4vcGzcC.png"
+    },
+    {
+      "name": "Fion TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/726795d8b943510aa58665804c187697.png"
+    },
+    {
+      "name": "GCM TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/GCM_TV.png"
+    },
+    {
+      "name": "Goiena Eus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/eaLIJzK.png"
+    },
+    {
+      "name": "Guada TV",
+      "isFree": true
+    },
+    {
+      "name": "Hamaika Telebista",
+      "isFree": true,
+      "shortName": "HT",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Harmony",
+      "isFree": true
+    },
+    {
+      "name": "Huesca TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Humanity",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0048d9da8657859e0caab35a518dc6af.png"
+    },
+    {
+      "name": "Ibiza Global TV",
+      "isFree": true
+    },
+    {
+      "name": "Imás TV",
+      "isFree": true
+    },
+    {
+      "name": "Interalmeria TV",
+      "isFree": true
+    },
+    {
+      "name": "Interalmería TV",
+      "isFree": true
+    },
+    {
+      "name": "Intercomarcal TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a7689b25deaa55cc2a2124582ce28b62.png"
+    },
+    {
+      "name": "Islatel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9802b12fdeab8be70b8f18995894556c.png"
+    },
+    {
+      "name": "Junta Castilla y León",
+      "isFree": true,
+      "shortName": "JCYL",
+      "logo": "https://images.iptvmate.net/tvglogo/fa82e205537863865b1a2c2f107a90a0.png"
+    },
+    {
+      "name": "La 1",
+      "isFree": true,
+      "keywords": "la 1 | la primera",
+      "retransmits": "RTVE",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.rtve.es/television",
+      "priority": 10
+    },
+    {
+      "name": "La 6",
+      "isFree": true,
+      "keywords": "la 6 | la sexta",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La 6 Energy",
+      "isFree": true,
+      "keywords": "la 6 energy | la sexta energy",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La 7",
+      "isFree": true,
+      "keywords": "la 7 | la septima",
+      "logo": "https://images.iptvmate.net/tvglogo/98c5f3c24aa8451dddfb83ecb0dc3579.png"
+    },
+    {
+      "name": "La 8 Avila",
+      "isFree": true,
+      "keywords": "la 8 | la oitava",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Mega Mundial",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UdMsgkt.png"
+    },
+    {
+      "name": "La Moncloa",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Urban TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Voz 24h",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "LaOtra",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png"
+    },
+    {
+      "name": "Lancelot TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d0d126c808c8766e439810e1ac967056.png"
+    },
+    {
+      "name": "Lebrija TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Levante TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d12e8b3f3597c2cfd397e30d212c8a42.png"
+    },
+    {
+      "name": "Lleida Televisio",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/733b2bb162ca032f53eea28b66926a5b.png"
+    },
+    {
+      "name": "Logos TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Kr3U3Ub.png"
+    },
+    {
+      "name": "MMA TV",
+      "isFree": true,
+      "logo": "https://media.unreel.me/prod/rewardedtv/logo/c8d5078c-527a-4c97-b72e-bbddb6df3b39"
+    },
+    {
+      "name": "Maestrat TV",
+      "isFree": true
+    },
+    {
+      "name": "Mar TV",
+      "isFree": true
+    },
+    {
+      "name": "Marbella TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Mijas 3.40 TV",
+      "isFree": true,
+      "keywords": "mijas 3.40 tv | mijas 3.40tv",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Mola TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Moods",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/37df301af2c64b0d515cc3534a592b33.png"
+    },
+    {
+      "name": "My Surf TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5204e194865d640dcae96c3acb180ad3.png"
+    },
+    {
+      "name": "Mírame TV",
+      "isFree": true
+    },
+    {
+      "name": "NIUS",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/92ba006abdf68c67a527dd4466a0e486.png"
+    },
+    {
+      "name": "NORTEvision",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4123a2df3757aa834bf7d455734344aa.png"
+    },
+    {
+      "name": "Navarra TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4ccb876926659ead19ad43a1e6a198ac.png"
+    },
+    {
+      "name": "Negocios TV",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23130/negocios-tv/logo_20240130_181524_70.png"
+    },
+    {
+      "name": "Noroeste TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Oizmendi Telebista",
+      "isFree": true,
+      "shortName": "OT",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Olympics Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/SS_OLYMPICS.png"
+    },
+    {
+      "name": "Onda Cádiz",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "Onda Madrid",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Onda Valencia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/885515800600e892437afa74e358f395.png"
+    },
+    {
+      "name": "OndaMezquita 7 TV",
+      "isFree": true,
+      "shortName": "O7T"
+    },
+    {
+      "name": "People are Awesome",
+      "isFree": true,
+      "shortName": "PAA",
+      "logo": "https://i.imgur.com/BWfmUwV.png"
+    },
+    {
+      "name": "Planeta Kids",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/cb15d3a33d0688846d0429618b6eeb21.png"
+    },
+    {
+      "name": "Popular TV Cantabria",
+      "isFree": true,
+      "shortName": "PTC",
+      "logo": "https://images.iptvmate.net/tvglogo/1c259824e7f174c9c534b4f7f6528ea9.png"
+    },
+    {
+      "name": "Popular TV Murcia",
+      "isFree": true,
+      "shortName": "PTM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY3nGvAM2zDvI0z2im3FPxyvWHi.jpg"
+    },
+    {
+      "name": "Punt 3 Vall Uixó",
+      "isFree": true
+    },
+    {
+      "name": "RT Spain",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4744e8837602b18a476732271eb5d0af.png"
+    },
+    {
+      "name": "RTV Vida",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EqUfEAh.png"
+    },
+    {
+      "name": "RTVC",
+      "isFree": true
+    },
+    {
+      "name": "RTVCE",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Rakuten Family",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten Top Free 1",
+      "isFree": true,
+      "shortName": "RTF1",
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten Top Free 2",
+      "isFree": true,
+      "shortName": "RTF2",
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten Top Free 3",
+      "isFree": true,
+      "shortName": "RTF3",
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten Top Free 6",
+      "isFree": true,
+      "shortName": "RTF6",
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten Top Free 7",
+      "isFree": true,
+      "shortName": "RTF7",
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "SEVILHA TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sal Televisión",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/23c40781f456366fba4f0e51172a05e0.png"
+    },
+    {
+      "name": "Sevilla FC TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/sevilla.png"
+    },
+    {
+      "name": "Solidaria TV",
+      "isFree": true,
+      "keywords": "solidaria tv -espana"
+    },
+    {
+      "name": "Solidaria TV España",
+      "isFree": true,
+      "shortName": "STE",
+      "logo": "https://go4.pw/SPAIN/SOLIDARIA.png"
+    },
+    {
+      "name": "Sophia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Spotlight",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9fd2c469077f3c377ccdb705ae38050c.png"
+    },
+    {
+      "name": "Supertoons TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/A6vCYsC.png"
+    },
+    {
+      "name": "TAC 12",
+      "isFree": true,
+      "keywords": "tac 12 | tac12",
+      "logo": "https://go4.pw/SPAIN/TAC12.png"
+    },
+    {
+      "name": "TEF",
+      "isFree": true
+    },
+    {
+      "name": "TV Artequatre",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Extremeña",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Municipal Cordoba",
+      "isFree": true,
+      "shortName": "TMC",
+      "logo": "https://images.iptvmate.net/tvglogo/2fc810195de1fdd0843c7809ec0696bd.png"
+    },
+    {
+      "name": "TV Shows",
+      "isFree": true
+    },
+    {
+      "name": "TV Vega Baja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV3 Catalunya",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/abfc300a1118b9f91bacac6ce3b40c6e.png"
+    },
+    {
+      "name": "TV3CAT",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png"
+    },
+    {
+      "name": "TV4 La Vall",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a9ba73be8899a9a516a33df286718ca7.png"
+    },
+    {
+      "name": "TV5 Limares",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png"
+    },
+    {
+      "name": "TV7 Murcia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c73b60b5ee9746f9e5dc2d4751b48588.png"
+    },
+    {
+      "name": "TVE Canal24",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TVE.png",
+      "priority": 9
+    },
+    {
+      "name": "TVE Canarias",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/dc11c6be7031833e90289799f4ad4e8c.png",
+      "priority": 9
+    },
+    {
+      "name": "TVE Catalunya",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d8a10866e10b63b17e496a91c1f800cf.png",
+      "priority": 9
+    },
+    {
+      "name": "TVG 2",
+      "isFree": true,
+      "keywords": "galega 2 | galicia 2 | gallega 2 | tvg 2 | tvg2",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "TVG America",
+      "isFree": true,
+      "keywords": "tvg america | galicia america | galega america | gallega america",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "TVG Cultura",
+      "isFree": true,
+      "keywords": "tvg cultura | galicia cultura | galega cultura | gallega cultura",
+      "logo": "https://images.iptvmate.net/tvglogo/29fc2a185bacaf3332bba8b5adf4ebd2.png"
+    },
+    {
+      "name": "TVG Europa",
+      "isFree": true,
+      "keywords": "tvg europa | galicia europa | galega europa | gallega europa",
+      "logo": "https://images.iptvmate.net/tvglogo/29fc2a185bacaf3332bba8b5adf4ebd2.png"
+    },
+    {
+      "name": "TVG Momento",
+      "isFree": true,
+      "keywords": "tvg momentos | tvg momento | galicia momentos | galicia momento | galega momentos | galega momento | gallega momentos | gallega momento",
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "TVM Córdoba",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png"
+    },
+    {
+      "name": "Taroteame TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Tarotvision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yOQ9e3a.png"
+    },
+    {
+      "name": "Tele Crime",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Drama",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Safor",
+      "isFree": true,
+      "keywords": "tele safor | telesafor",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "TeleGilena",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e1d89086d12af6211661e973242ff301.png"
+    },
+    {
+      "name": "TeleRibera",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TeleToledo",
+      "isFree": true
+    },
+    {
+      "name": "TeleVigo",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/TELEVIGO.png"
+    },
+    {
+      "name": "Teledeporte",
+      "isFree": true
+    },
+    {
+      "name": "Telemadrid",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/POLONIA/TELEMADRID.png"
+    },
+    {
+      "name": "Teleonuba",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/09829c607f2ba4dd781a5622b1f728e0.png"
+    },
+    {
+      "name": "Televisio Girona",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Television Galicia",
+      "isFree": true,
+      "shortName": "TG",
+      "logo": "https://images.iptvmate.net/tvglogo/19924e0735ca1b09c71ff2a0299d3c82.png"
+    },
+    {
+      "name": "Tevequatre TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Torrevisión",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/73122529e7646d3a1f8b26fffa6a78c6.png"
+    },
+    {
+      "name": "Trece TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0290347ddecc88004dd638550b36b966.png"
+    },
+    {
+      "name": "Tuya La Janda TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d4bdb76b70a6d085897e2da05e762e30.png"
+    },
+    {
+      "name": "Tuya La Janda Televisión",
+      "isFree": true,
+      "shortName": "TLJT",
+      "logo": "https://i.imgur.com/KjWuini.png"
+    },
+    {
+      "name": "Une Vinalopó",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5313d7ff47b382ff5619d3e16c0ffa84.png"
+    },
+    {
+      "name": "Urban Revolution",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/51bf0fe00bad10806252773da3821402.png"
+    },
+    {
+      "name": "Urola Telebista",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Ventdelnord TV",
+      "isFree": true
+    },
+    {
+      "name": "Visión 6 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e58f7a5f2ea16485b43411c8ff582753.png"
+    },
+    {
+      "name": "WoW TV",
+      "isFree": true,
+      "logo": "https://go4.pw/India/WOW_CINEMA.png"
+    },
+    {
+      "name": "Zafra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "betevé",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/893f345ce7ab4ee922cab27cd16bc8ee.png"
+    },
+    {
+      "name": "mtmad 24h",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "teve.cat",
+      "isFree": true
+    },
+    {
+      "name": "tvA",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"
+    },
+    {
+      "name": "À Punt",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
+    },
+    {
+      "name": "101tv Antequera",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzI3RC4.png",
+      "website": "https://www.101tv.es/antequera/"
+    },
+    {
+      "name": "101tv Axarquia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/101TV_ANTEQUERA.png",
+      "website": "https://www.101tv.es/"
+    },
+    {
+      "name": "101tv Cadiz",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/101TV_ANTEQUERA.png",
+      "website": "https://www.101tv.es/"
+    },
+    {
+      "name": "101tv Ronda",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/101TV_ANTEQUERA.png",
+      "website": "https://www.101tv.es/ronda/"
+    },
+    {
+      "name": "101tv Sevilla",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzI3RC4.png",
+      "website": "https://www.101tv.es/"
+    },
+    {
+      "name": "11 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ce47dc69c3acb5068d87883e0860f557.png",
+      "website": "https://www.11tv.es/"
+    },
+    {
+      "name": "12tv",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VSTgXsh.png",
+      "website": "https://www.12tv.es/"
+    },
+    {
+      "name": "3Cat El bunquer",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/fc5/"
+    },
+    {
+      "name": "7TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c171695684ee6faa3565b559e785c64d.png",
+      "website": "https://7tvandalucia.es/"
+    },
+    {
+      "name": "8 La Marina TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ea27af498b63e3599f3035f909851202.png",
+      "website": "https://8lamarinatv.com/"
+    },
+    {
+      "name": "8 TV Cadiz",
+      "isFree": true,
+      "website": "https://www.8cadiz.es/directo/"
+    },
+    {
+      "name": "8 TV Catalunya",
+      "isFree": true,
+      "website": "https://www.8tv.cat/en-directe.html"
+    },
+    {
+      "name": "987tv",
+      "isFree": true,
+      "website": "https://987tv.es/"
+    },
+    {
+      "name": "AC Principado TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://actvprincipado.com/"
+    },
+    {
+      "name": "Afortunadas TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/geVZYUA.png",
+      "website": "https://afortunadastv.com/"
+    },
+    {
+      "name": "Ahora TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzyG2s3EfXOY5oAwqQgaUBOXNBO.jpg",
+      "website": "https://www.ahoratelevision.es/"
+    },
+    {
+      "name": "Altoaragon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://altoaragontelevision.es/"
+    },
+    {
+      "name": "AMC Break",
+      "isFree": true,
+      "website": "https://amcselekt.es/amc-break"
+    },
+    {
+      "name": "Andalucia Television",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/CANALSUR.png",
+      "website": "https://www.canalsur.es/tv_directo-1193.html"
+    },
+    {
+      "name": "A Nove TV",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "http://anove.gal/"
+    },
+    {
+      "name": "Antena 3 Internacional",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-_SG5c5jiKmI/XyNeHmgz0wI/AAAAAAAAAnE/JCc9IsDbuUQidocx-o4AxZHdAoCIHRXsQCLcBGAsYHQ/w200-h200/84%2BAntena3int.png",
+      "website": "https://www.antena3internacional.com/",
+      "priority": 10
+    },
+    {
+      "name": "A Punt",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+      "website": "https://www.apuntmedia.es/"
+    },
+    {
+      "name": "Arabi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/OSN/YAHALA_BIL_ARABI.png",
+      "website": "https://www.arabitv.es/"
+    },
+    {
+      "name": "Aragon TV Internacional",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/ARAGON.png",
+      "website": "http://www.aragontelevision.es/"
+    },
+    {
+      "name": "Atresplayer Comedia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTOATRESPLAYER.png"
+    },
+    {
+      "name": "Auria TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.auria.es/"
+    },
+    {
+      "name": "Axarquia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzI3RC4.png"
+    },
+    {
+      "name": "Bailen TV",
+      "isFree": true,
+      "website": "https://bailen.tv/"
+    },
+    {
+      "name": "Banyoles Televisio",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CANAL_4_TELE.png",
+      "website": "https://banyolestv.cat/"
+    },
+    {
+      "name": "BCN Gospel TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZKAnehs.png",
+      "website": "https://live1.ovalcast.com/broadcaster/bcngospeltv/hybrid/player"
+    },
+    {
+      "name": "Be Mad",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
+      "website": "https://www.bemad.es/"
+    },
+    {
+      "name": "Biosfera TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/khytcgd.png",
+      "website": "https://www.biosferadigital.com/estaticas/biosferatvdirecto/"
+    },
+    {
+      "name": "¡BUENVIAJE!",
+      "isFree": true,
+      "website": "https://amcselekt.es/buenviaje"
+    },
+    {
+      "name": "BurrianaTeVe",
+      "isFree": true,
+      "website": "https://www.burrianateve.com/"
+    },
+    {
+      "name": "Cacavision",
+      "isFree": true,
+      "website": "http://www.cacavision.pt/"
+    },
+    {
+      "name": "Caceres TeVe",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3b8e05bbb4be8573d434d01fc7844499.png",
+      "website": "https://caceresteve.es/video/directo-streaming-caceres-tv/"
+    },
+    {
+      "name": "Calamocha TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.mijilocatv.es/"
+    },
+    {
+      "name": "Calle 13 Universal",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "website": "http://www.calle13universal.es/"
+    },
+    {
+      "name": "Campina Sur TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obEV37TU1Q7BcYRtvLZmCklwv2D.jpg"
+    },
+    {
+      "name": "Canal 10 Emporda",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal10.cat/"
+    },
+    {
+      "name": "Canal 11 La Palma",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal11lapalma.net/"
+    },
+    {
+      "name": "Canal 13 Canarias",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13canarias.es/"
+    },
+    {
+      "name": "Canal 15tv Zaragoza",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://diarioaragones.com/"
+    },
+    {
+      "name": "Canal 1 Mar Menor Torre Pacheco",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.tuwebtv.es/"
+    },
+    {
+      "name": "Canal 2000",
+      "isFree": true,
+      "keywords": "canal 2000 -la solana",
+      "website": "http://www.canal2000.com/"
+    },
+    {
+      "name": "Canal 21 Ebre",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal21ebre.com/en-directe/"
+    },
+    {
+      "name": "Canal 3 TV Biar",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://canal3biar.es/"
+    },
+    {
+      "name": "Canal 45",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal45tv.com/"
+    },
+    {
+      "name": "Canal 4 Catalunya",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.grup4.com/?page_id=14675&lang=ca"
+    },
+    {
+      "name": "Canal 4 Mallorca",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.grup4.com/?page_id=14505"
+    },
+    {
+      "name": "Canal4 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://canal4tvtelde.com/"
+    },
+    {
+      "name": "Canal 54",
+      "isFree": true,
+      "website": "https://www.canal54.es/"
+    },
+    {
+      "name": "Canal 6",
+      "isFree": true,
+      "website": "http://www.totanaweb.es/"
+    },
+    {
+      "name": "Canal 7 TeleValencia",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://7televalencia.com/"
+    },
+    {
+      "name": "Canal 9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://canal9soria.com/"
+    },
+    {
+      "name": "Canal Blau",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalblau.alacarta.cat/tv-en-directe"
+    },
+    {
+      "name": "Canal C:",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canalc.com/"
+    },
+    {
+      "name": "Canal Cocina",
+      "isFree": true,
+      "website": "https://canalcocina.es/"
+    },
+    {
+      "name": "Canal Coin TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalcoin.com/tv-directo/"
+    },
+    {
+      "name": "CanalCosta",
+      "isFree": true,
+      "website": "https://www.canalcostatv.es/"
+    },
+    {
+      "name": "Canal Donana",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canaldonana.com/"
+    },
+    {
+      "name": "Canal Extremadura Satelite",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalextremadura.es/"
+    },
+    {
+      "name": "Canal Luz Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalluztelevision.es/"
+    },
+    {
+      "name": "Canal Malaga RTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Portada",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Reus TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalreustv.cat/"
+    },
+    {
+      "name": "Canal Rias Baixas",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalriasbaixas.com/"
+    },
+    {
+      "name": "Canal Sierra de Cadiz",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/328beae820830f20bd17ebc35863475d.png",
+      "website": "https://www.canalsierradecadiz.com/"
+    },
+    {
+      "name": "Canal Sur",
+      "isFree": true,
+      "keywords": "canal sur -2 -andalucia -andalucia -noticias",
+      "website": "https://www.canalsur.es"
+    },
+    {
+      "name": "Canal Sur 2",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://canalsur.es/television"
+    },
+    {
+      "name": "Canal Sur Andalucia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WcVOXPr.png",
+      "website": "http://www.canalsur.es/television-544.html"
+    },
+    {
+      "name": "Canal Taronja Anoia",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaltaronja.cat/anoia/"
+    },
+    {
+      "name": "Canal Taronja Comarques Centrals",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaltaronja.cat/central/"
+    },
+    {
+      "name": "Canal Taronja Osona i Moianes",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canaltaronja.cat/osona/http://www.canaltaronja.cat/osona/"
+    },
+    {
+      "name": "Canal Terrassa",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://terrassadigital.cat/televisio/"
+    },
+    {
+      "name": "Canal Terres de l'Ebre",
+      "isFree": true,
+      "website": "https://canalte.cat/"
+    },
+    {
+      "name": "Cancionero TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tbboALa.png",
+      "website": "http://89.140.229.4/cancionerotv/index.html"
+    },
+    {
+      "name": "Cantabria TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1c259824e7f174c9c534b4f7f6528ea9.png",
+      "website": "http://www.cantabriatv.es/"
+    },
+    {
+      "name": "Caza y Pesca",
+      "isFree": true,
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Ceuta TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://ceutatv.com/pag/ceuta-tv-en-directo"
+    },
+    {
+      "name": "CincoMas",
+      "isFree": true,
+      "website": "https://www.cincomas.com/"
+    },
+    {
+      "name": "Cine Feel Good",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.runtime.tv/linear/feelgood"
+    },
+    {
+      "name": "Cines Verdi",
+      "isFree": true,
+      "website": "https://www.runtime.tv/linear/cines-verdi"
+    },
+    {
+      "name": "Ciudades del Ocio TV",
+      "isFree": true,
+      "website": "http://www.ciudadesdelocio.tv/"
+    },
+    {
+      "name": "Ciudad Real TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sAyy6HX80PzZft7n0PIKC6mRYp.jpg",
+      "website": "https://www.ciudadreal.es/servicios-municipales/cr-tv.html"
+    },
+    {
+      "name": "Clipmobile",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "website": "http://www.comedycentral.es/"
+    },
+    {
+      "name": "Corts Valencianes",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bVkRBg5.png",
+      "website": "https://mediateca.cortsvalencianes.es/library/lives/"
+    },
+    {
+      "name": "COSMO",
+      "isFree": true
+    },
+    {
+      "name": "Cugat TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTE.png",
+      "website": "https://www.cugat.cat/"
+    },
+    {
+      "name": "Decasa",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-gNru16SK8CU/XyNeBEuaPoI/AAAAAAAAAmQ/8l6wFqvOMDQakrAbAHKcXO0t3JvPFXDSwCLcBGAsYHQ/w200-h200/71%2Bdecasa.png",
+      "website": "https://tuamc.tv/canal-decasa"
+    },
+    {
+      "name": "Dejate de Historias TV",
+      "isFree": true,
+      "website": "https://dejatedehistorias.es/"
+    },
+    {
+      "name": "Diez TV Las Villas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QTA40lP.png",
+      "website": "https://dieztv.es/"
+    },
+    {
+      "name": "Diez TV Ubeda",
+      "isFree": true,
+      "logo": "https://i.imgur.com/o2a7s4W.png",
+      "website": "https://www.dieztv.es/"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "priority": 10
+    },
+    {
+      "name": "Divinity",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDGij5loooxlI66SLVvT4101xEf.jpg",
+      "website": "http://www.divinity.es/"
+    },
+    {
+      "name": "DKISS",
+      "isFree": true,
+      "website": "https://www.dkiss.es/"
+    },
+    {
+      "name": "DMAX",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/06/27/large/20220627220620803027_25.png",
+      "website": "http://dmax.marca.com/"
+    },
+    {
+      "name": "Durangaldeko Telebista",
+      "isFree": true,
+      "website": "https://dotb.eus/"
+    },
+    {
+      "name": "El 9 TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://el9nou.cat/el9tv/"
+    },
+    {
+      "name": "El Club de la Comedia",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.lasexta.com/programas/club-de-la-comedia/"
+    },
+    {
+      "name": "El Hormiguero",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.antena3.com/programas/el-hormiguero/"
+    },
+    {
+      "name": "Ellas Vamos por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/el.png",
+      "website": "http://www.movistarplus.es/vamos"
+    },
+    {
+      "name": "Emporda TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ojQ6wzX.png",
+      "website": "https://www.empordadigital.cat/"
+    },
+    {
+      "name": "Energy",
+      "isFree": true,
+      "logo": "https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default",
+      "website": "http://www.telecinco.es/energy/"
+    },
+    {
+      "name": "Enfamilia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ENFAMILIA.png",
+      "website": "https://amcselekt.es/enfamilia"
+    },
+    {
+      "name": "Enguera TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.enguera.es/content/enguera-tv"
+    },
+    {
+      "name": "Erlo Telebista",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rFQuAEv.png",
+      "website": "http://www.erlotelebista.eus/"
+    },
+    {
+      "name": "Este Canal TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/HBOTV.png",
+      "website": "http://www.estecanaltv.com/"
+    },
+    {
+      "name": "Estepona Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rMAB720.png",
+      "website": "https://television.estepona.es/tvendirecto/"
+    },
+    {
+      "name": "EsTuTele",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bsAbcmC.png",
+      "website": "https://estutele.com/"
+    },
+    {
+      "name": "ETB 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.eitb.eus/es/television/"
+    },
+    {
+      "name": "ETB Events 1",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png",
+      "website": "https://www.eitb.eus/es/television/"
+    },
+    {
+      "name": "etv",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
+      "website": "http://www.etv.cat/"
+    },
+    {
+      "name": "Factoria de Ficcion",
+      "isFree": true,
+      "website": "https://www.factoriadeficcion.com/"
+    },
+    {
+      "name": "Famypanc TV",
+      "isFree": true,
+      "logo": "https://serenotv.com/wp-content/uploads/2024/08/Sin-titulo-1.jpg"
+    },
+    {
+      "name": "Fitel TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3lAoTq3.png",
+      "website": "https://www.fitelnetwork.com/fitel-tv/"
+    },
+    {
+      "name": "Flooxer",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/FLOOXER.png",
+      "website": "https://www.atresplayer.com/flooxer/"
+    },
+    {
+      "name": "Fuengirola TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://fuengirolatv.com/"
+    },
+    {
+      "name": "Fuerteventura TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
+      "website": "https://www.fuerteventuratv.net/"
+    },
+    {
+      "name": "Galicia TV America",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/TVGALICIA.png",
+      "website": "http://www.crtvg.es/tvg"
+    },
+    {
+      "name": "Galicia TV Europa",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/TVGALICIA.png",
+      "website": "http://www.crtvg.es/tvg"
+    },
+    {
+      "name": "Garage TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "http://canalgaragetv.com/"
+    },
+    {
+      "name": "Goierri Irrati Telebista",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rFQuAEv.png",
+      "website": "http://www.gitb.eus/"
+    },
+    {
+      "name": "Gran Canaria TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+      "website": "https://www.grancanariatv.com/?m=1"
+    },
+    {
+      "name": "Hispasat 4K TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png",
+      "website": "http://www.hispasat.com/"
+    },
+    {
+      "name": "Historia",
+      "isFree": true,
+      "website": "https://tuamc.tv/canal-historia/"
+    },
+    {
+      "name": "HOLA! Play",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg"
+    },
+    {
+      "name": "Huelva TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hEnpvKj.png",
+      "website": "http://huelvatv.com/directo/"
+    },
+    {
+      "name": "IB3",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "website": "https://ib3.org/"
+    },
+    {
+      "name": "Iberoamerica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/N3K6PAG.png",
+      "website": "https://iberoamericatelevision.com/"
+    },
+    {
+      "name": "Imas TV",
+      "isFree": true,
+      "website": "http://imastv.es/ver-imastv-en-directo"
+    },
+    {
+      "name": "Informacion TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.informacion.es/"
+    },
+    {
+      "name": "Junta de Castilla y Leon",
+      "isFree": true,
+      "website": "https://www.jcyl.es/"
+    },
+    {
+      "name": "Kidz",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/MC MUSIC.png"
+    },
+    {
+      "name": "La 1 Canarias",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://www.rtve.es/television/tve-canarias/",
+      "priority": 9
+    },
+    {
+      "name": "La 1 Catalunya",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.rtve.es/television/catalunya/",
+      "priority": 9
+    },
+    {
+      "name": "La 2 Canarias",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://www.rtve.es/television/tve-canarias/",
+      "priority": 9
+    },
+    {
+      "name": "La 2 Catalunya",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.rtve.es/television/catalunya/",
+      "priority": 9
+    },
+    {
+      "name": "La 7 de CyLTV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/"
+    },
+    {
+      "name": "La 8 Bierzo",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Bierzo"
+    },
+    {
+      "name": "La 8 Burgos",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6fea87f8c469b5f2347ed890322b3af3.png",
+      "website": "https://www.cyltv.es/La8Burgos"
+    },
+    {
+      "name": "La 8 Leon",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Leon"
+    },
+    {
+      "name": "La 8 Mediterraneo",
+      "isFree": true,
+      "logo": "https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200",
+      "website": "https://www.laocho.tv/"
+    },
+    {
+      "name": "La 8 Palencia",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Palencia"
+    },
+    {
+      "name": "La 8 Salamanca",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Salamanca"
+    },
+    {
+      "name": "La 8 Segovia",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Segovia"
+    },
+    {
+      "name": "La 8 Soria",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Soria"
+    },
+    {
+      "name": "La 8 Valladolid",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Valladolid"
+    },
+    {
+      "name": "La 8 Zamora",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.cyltv.es/La8Zamora"
+    },
+    {
+      "name": "La 8 Zaragoza TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://www.la8zaragoza.tv/"
+    },
+    {
+      "name": "La de Burgos TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://ladeburgos.com/"
+    },
+    {
+      "name": "La Fabrica TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://app.lafabricatv.es/canal-en-directo"
+    },
+    {
+      "name": "La Sexta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/b59MxgM.png",
+      "website": "https://www.lasexta.com/",
+      "priority": 9
+    },
+    {
+      "name": "Logos TV Salud",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/lo.png",
+      "website": "https://logostv.es/"
+    },
+    {
+      "name": "Mannersache TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Manzanares10 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.manzanares10.tv/"
+    },
+    {
+      "name": "Mas Jerez",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg",
+      "website": "https://masjerez.com/programas-tv"
+    },
+    {
+      "name": "Mataro Televisio",
+      "isFree": true,
+      "website": "https://mataroaudiovisual.alacarta.cat/directe"
+    },
+    {
+      "name": "Medi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png",
+      "website": "https://www.meditv.tv/"
+    },
+    {
+      "name": "Mega",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://mega.atresmedia.com/"
+    },
+    {
+      "name": "Movistar Plus+",
+      "isFree": true,
+      "keywords": "movistar plus+ -2",
+      "logo": "https://go4.pw/LATINO/PERU/MOVISTAR.png",
+      "website": "https://www.movistarplus.es/"
+    },
+    {
+      "name": "Movistar Plus+ 2",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/MOVISTAR.png"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "http://www.mtv.es/",
+      "priority": 10
+    },
+    {
+      "name": "Navarra TV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/NAVARRA.png",
+      "website": "https://www.navarratelevision.es/"
+    },
+    {
+      "name": "Neox",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/NEOX.png",
+      "website": "http://www.antena3.com/neox/"
+    },
+    {
+      "name": "Nesting TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/NESTING.png",
+      "website": "https://nesting.tv/"
+    },
+    {
+      "name": "Nova",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://nova.atresmedia.com/"
+    },
+    {
+      "name": "Nuestra Comarca TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hBWAQLqKtecQZTmyN6U7ocsSD2.jpg",
+      "website": "https://www.nuestracomarca.com/"
+    },
+    {
+      "name": "Olot TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/OLOT.png",
+      "website": "https://www.olot.tv/olot-televisio-en-directe/"
+    },
+    {
+      "name": "Onda Algeciras",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://ondaalgecirastv.com/en-directo/"
+    },
+    {
+      "name": "Onda Cadiz",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://ondacadiz.es/"
+    },
+    {
+      "name": "Onda Gran Canaria",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://www.ondagrancanaria.com/"
+    },
+    {
+      "name": "Onda Mezquita",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://www.ahoracordoba.es/"
+    },
+    {
+      "name": "Oscars por Movistar+",
+      "isFree": true,
+      "logo": "https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png",
+      "website": "https://www.movistar.es/blog/movistar-plus/cuando-son-oscar-2024-donde-ver/"
+    },
+    {
+      "name": "Parlamento de Andalucia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CANAL_MALAGA.png",
+      "website": "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/parlamentoabierto/sesionesendirecto/programacion.do"
+    },
+    {
+      "name": "Parlamento de Navarra",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CANAL_MALAGA.png",
+      "website": "https://www.parlamentodenavarra.es/"
+    },
+    {
+      "name": "Penedes Televisio",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CANAL_4_TELE.png",
+      "website": "https://www.rtvvilafranca.cat/penedes-televisio-en-directe/"
+    },
+    {
+      "name": "Piera TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R4BzwqR.png",
+      "website": "http://08-produccions.cat/pieratv/"
+    },
+    {
+      "name": "Pirineus TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/8b5znGY.png",
+      "website": "https://www.pirineustv.cat/"
+    },
+    {
+      "name": "PTV Almeria",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://www.ptvtelecom.com/canales/almeria.html"
+    },
+    {
+      "name": "PTV Cordoba",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://ptvtelecom.com/canales/cordoba.html"
+    },
+    {
+      "name": "PTV Granada",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://ptvtelecom.com/canales/granada.html"
+    },
+    {
+      "name": "PTV Linares",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://ptvtelecom.com/canales/linares.html"
+    },
+    {
+      "name": "PTV Malaga",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://ptvtelecom.com/canales/malaga.html"
+    },
+    {
+      "name": "PTV Sevilla",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PTV4.png",
+      "website": "https://ptvtelecom.com/canales/sevilla.html"
+    },
+    {
+      "name": "Punt 3",
+      "isFree": true,
+      "keywords": "punt 3 -vall uixo",
+      "logo": "https://go4.pw/SPAIN/A.png",
+      "website": "https://www.punt3.es/"
+    },
+    {
+      "name": "Radio Bocairent TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://ondavalencia.es/en-directo/onda-valencia-tv"
+    },
+    {
+      "name": "Radio Rutas del Peru",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://radiorutasdelperutv.com/"
+    },
+    {
+      "name": "Radio Television Ceuta",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.rtvce.es/seccion/television/"
+    },
+    {
+      "name": "Radio Television Marbella",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Television Mogan",
+      "isFree": true,
+      "logo": "https://i.imgur.com/oefjONS.png"
+    },
+    {
+      "name": "Rakuten Viki",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pbyd1g2.png",
+      "website": "https://www.viki.com/"
+    },
+    {
+      "name": "Ribera TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mPvSubP.png",
+      "website": "https://www.elperiodicvalencia.com/"
+    },
+    {
+      "name": "RNE para todos",
+      "isFree": true,
+      "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",
+      "website": "https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/"
+    },
+    {
+      "name": "ROTV Valencia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0TDnVQ4.png",
+      "website": "https://romediavalencia.com/"
+    },
+    {
+      "name": "RTVC Cardedeu",
+      "isFree": true,
+      "website": "https://www.rtvc.cat/tele/"
+    },
+    {
+      "name": "RTV El Vendrell",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.rtvelvendrell.cat/directes/televisio/"
+    },
+    {
+      "name": "RTV Eume",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Manilva",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.rtvmanilva.com/"
+    },
+    {
+      "name": "RTV Tarifa",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvtarifa.com/"
+    },
+    {
+      "name": "Runtime Accion",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-accion-0"
+    },
+    {
+      "name": "Runtime Cine Series",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-4"
+    },
+    {
+      "name": "Runtime Clasicos",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-clasicos"
+    },
+    {
+      "name": "Runtime Comedia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-comedia-1"
+    },
+    {
+      "name": "Runtime Crimen",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-crimen"
+    },
+    {
+      "name": "Runtime Romance",
+      "isFree": true,
+      "logo": "https://imgur.com/U6ElKK3.png",
+      "website": "https://www.runtime.tv/linear/runtime-romance"
+    },
+    {
+      "name": "Runtime Series",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-series"
+    },
+    {
+      "name": "Runtime Thriller",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/RUNTIME.png",
+      "website": "https://www.runtime.tv/linear/runtime-thriller"
+    },
+    {
+      "name": "Sal Television",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/23c40781f456366fba4f0e51172a05e0.png",
+      "website": "https://saltv.es/"
+    },
+    {
+      "name": "Selekt",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/AMC.png",
+      "website": "https://tuamc.tv/selekt/"
+    },
+    {
+      "name": "Star Channel Spain",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://www.starchannel.es/"
+    },
+    {
+      "name": "Syfy",
+      "isFree": true,
+      "website": "http://www.syfy.es/"
+    },
+    {
+      "name": "Tele 7",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://tele7.tv/"
+    },
+    {
+      "name": "TeleBilbao",
+      "isFree": true,
+      "website": "https://www.telebilbao.es/"
+    },
+    {
+      "name": "Telecija",
+      "isFree": true,
+      "website": "https://ecijadigital.es/"
+    },
+    {
+      "name": "Telecinco",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JECsKdk.png",
+      "website": "https://www.telecinco.es/",
+      "priority": 10
+    },
+    {
+      "name": "Tele Elx",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleelx.es/"
+    },
+    {
+      "name": "Teleganes",
+      "isFree": true,
+      "website": "https://www.teleganes.com/en-directo/"
+    },
+    {
+      "name": "Telemadrid INT",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/POLONIA/TELEMADRID.png",
+      "website": "https://telemadrid.es"
+    },
+    {
+      "name": "Telemino",
+      "isFree": true,
+      "website": "https://www.teleminho.com/"
+    },
+    {
+      "name": "Telemotril",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4nspLHb.png",
+      "website": "https://telemotril.com/"
+    },
+    {
+      "name": "Telequivir",
+      "isFree": true,
+      "website": "https://vegadigital.es/telequivir/"
+    },
+    {
+      "name": "Televisio Castello",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/CANAL_4_TELE.png",
+      "website": "https://www.tvcs.tv/"
+    },
+    {
+      "name": "Television Aranda",
+      "isFree": true,
+      "website": "http://www.telearanda.es/"
+    },
+    {
+      "name": "Television Canaria",
+      "isFree": true,
+      "website": "https://rtvc.es"
+    },
+    {
+      "name": "Television de Galicia",
+      "isFree": true,
+      "website": "http://www.crtvg.es/en-directo"
+    },
+    {
+      "name": "Television de San Vicente",
+      "isFree": true,
+      "website": "https://www.televisiondesanvicente.es/"
+    },
+    {
+      "name": "Television Extremena",
+      "isFree": true,
+      "website": "https://www.xn--televisionextremea-30b.com/"
+    },
+    {
+      "name": "Television Melilla",
+      "isFree": true,
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/television-melilla-es.png",
+      "website": "https://playmelilla.es/"
+    },
+    {
+      "name": "Television Murciana",
+      "isFree": true,
+      "website": "https://www.televisionmurciana.es/"
+    },
+    {
+      "name": "TEN",
+      "isFree": true,
+      "website": "https://tentv.es/"
+    },
+    {
+      "name": "Tenerife Plus TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Egymir4.png",
+      "website": "https://www.tenerifeplus.tv/"
+    },
+    {
+      "name": "TG7",
+      "isFree": true,
+      "website": "https://www.granada.org/inet/tg7.nsf/byclave/endirecto"
+    },
+    {
+      "name": "Thader TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Titan Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihuDg9TeRzoOhv2cZVA8gi50NFl.jpg",
+      "website": "https://titanchannel.com/"
+    },
+    {
+      "name": "TNT",
+      "isFree": true,
+      "logo": "http://i.imgur.com/UdWwHl4.png",
+      "website": "http://www.canaltnt.es/"
+    },
+    {
+      "name": "Toros",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/TOROSHD.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/toros"
+    },
+    {
+      "name": "Torrevision",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/73122529e7646d3a1f8b26fffa6a78c6.png",
+      "website": "https://www.torrevisiontelevision.es/"
+    },
+    {
+      "name": "TPA",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/TPA.png",
+      "website": "https://www.rtpa.es/"
+    },
+    {
+      "name": "TPA7",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/TPA7.png",
+      "website": "https://www.rtpa.es/"
+    },
+    {
+      "name": "TPA8",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/TPA8.png",
+      "website": "https://www.rtpa.es/"
+    },
+    {
+      "name": "TPA9 HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png",
+      "website": "https://www.rtpa.es/"
+    },
+    {
+      "name": "Travel TV",
+      "isFree": true,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
+      "website": "http://traveltve.com/"
+    },
+    {
+      "name": "Tuya La Janda Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KjWuini.png",
+      "website": "https://tuyatv.com/"
+    },
+    {
+      "name": "TV10",
+      "isFree": true,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png",
+      "website": "https://rtv10.alacarta.cat/"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "keywords": "tv3 -catalunya",
+      "website": "https://www.ccma.cat/tv3"
+    },
+    {
+      "name": "TV4",
+      "isFree": true,
+      "keywords": "tv4 -la vall",
+      "website": "https://teve4.com/"
+    },
+    {
+      "name": "TV Almassora",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvalmassora.com/"
+    },
+    {
+      "name": "TV Benavente",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvbenavente.es/directo/"
+    },
+    {
+      "name": "TV Bergueda",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvbergueda.alacarta.cat/"
+    },
+    {
+      "name": "TV BRICS Spanish",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Carmona",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.televisioncarmona.com/"
+    },
+    {
+      "name": "TVCentro Andalucia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xQAzYOD.png",
+      "website": "https://tvcentroandalucia.com/"
+    },
+    {
+      "name": "TV Costa Brava",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvcostabrava.com/canals-online/televisio-costa-brava-online"
+    },
+    {
+      "name": "TVCS",
+      "isFree": true,
+      "website": "https://www.tvcs.tv/"
+    },
+    {
+      "name": "TVE Internacional America",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TVE.png",
+      "website": "https://www.rtve.es/television/tve-internacional/america1/",
+      "priority": 9
+    },
+    {
+      "name": "TVE Internacional Asia-Oceania",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TVE.png",
+      "website": "https://www.rtve.es/television/tve-internacional/europa/",
+      "priority": 9
+    },
+    {
+      "name": "TVE Internacional Europe-Asia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ow1HArj.png",
+      "website": "https://www.rtve.es/television/tve-internacional/asia/",
+      "priority": 9
+    },
+    {
+      "name": "TV Ferrol",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TjpjoOu.png",
+      "website": "https://tvferrol.es/es/contenido.php?c=4"
+    },
+    {
+      "name": "TVG Evento 2",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "https://www.crtvg.es/tvg/tvg-en-directo"
+    },
+    {
+      "name": "TVG Evento 3",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "https://www.crtvg.es/tvg/tvg-en-directo"
+    },
+    {
+      "name": "TVG Evento 4",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "https://www.crtvg.es/tvg/tvg-en-directo"
+    },
+    {
+      "name": "TVG Mira Radio Galega",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "https://www.agalega.gal/"
+    },
+    {
+      "name": "TV Hellin",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://televisionhellin.com/tv-en-directo/"
+    },
+    {
+      "name": "TV L'Hospitalet",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://lhdigital.cat/web/digital-h/en-directe"
+    },
+    {
+      "name": "TVM Cordoba",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png"
+    },
+    {
+      "name": "TVO Jesus",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/tvo.png"
+    },
+    {
+      "name": "TVR",
+      "isFree": true,
+      "website": "https://www.tvr.es/"
+    },
+    {
+      "name": "TVReus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ee0C8UH.jpg",
+      "website": "https://radiotelevisionmxm.com/"
+    },
+    {
+      "name": "TV Ripolles",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://televisiodelripolles.alacarta.cat/"
+    },
+    {
+      "name": "TV Sabadell-Valles",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvsabadell-valles.cat/"
+    },
+    {
+      "name": "TV Sant Cugat",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvsantcugat.cat/"
+    },
+    {
+      "name": "Ubeat",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ubeat.png",
+      "website": "https://ubeat.tv/"
+    },
+    {
+      "name": "Une Vinalopo",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5313d7ff47b382ff5619d3e16c0ffa84.png",
+      "website": "https://www.unevinalopo.es/directo/"
+    },
+    {
+      "name": "Univers TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/soleil.png",
+      "website": "https://universvalencia.es/"
+    },
+    {
+      "name": "Uvitel TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.uvitel.tv/directo/"
+    },
+    {
+      "name": "Valles Visio",
+      "isFree": true,
+      "website": "https://www.vallesvisio.cat/directe/"
+    },
+    {
+      "name": "Viajar",
+      "isFree": true,
+      "website": "http://www.canalviajar.com/"
+    },
+    {
+      "name": "Vision 6 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e58f7a5f2ea16485b43411c8ff582753.png"
+    },
+    {
+      "name": "Vivamovil",
+      "isFree": true,
+      "website": "https://vivamovil.tv/en-directo/"
+    },
+    {
+      "name": "Viva TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
+      "website": "https://viva-rtv.es/viva-tv.html"
+    },
+    {
+      "name": "VOTV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VOTV.png",
+      "website": "http://votv.alacarta.cat/votv-en-directe"
+    },
+    {
+      "name": "Warner TV",
+      "isFree": true,
+      "website": "https://www.warnertv.es/"
+    },
+    {
+      "name": "Xaloa Telebista",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rFQuAEv.png",
+      "website": "https://xaloatelebista.eus/"
+    },
+    {
+      "name": "XPTV2",
+      "isFree": true,
+      "website": "https://xptv.live/"
+    },
+    {
+      "name": "ZFtv",
+      "isFree": true,
+      "website": "https://www.radiotvzafra.es/"
+    },
+    {
+      "name": "28 kanala",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyvK28q.png",
+      "website": "https://28kanala.eus/"
+    },
+    {
+      "name": "Costa del Sol TV",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://www.costadelsoltv.es/"
+    },
+    {
+      "name": "Mijas 3.40TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/RH1zLLs.png",
+      "website": "https://mijascomunicacion.com/mijas-340-tv-en-directo/"
+    },
+    {
+      "name": "Nortevision",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4123a2df3757aa834bf7d455734344aa.png",
+      "website": "http://nortevision.es/directo/"
+    },
+    {
+      "name": "Tac12",
+      "isFree": true,
+      "website": "https://www.tac12.tv/directe/index.html"
+    },
+    {
+      "name": "Teve.cat",
+      "isFree": true,
+      "website": "https://www.teve.cat/"
+    },
+    {
+      "name": "TVA",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+      "website": "https://www.artequatre.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "La 2",
+      "isFree": true,
+      "keywords": "la 2 | la segunda",
+      "retransmits": "RTVE",
+      "logo": "https://i.imgur.com/DmuTwDw.png",
+      "website": "https://www.rtve.es/television",
+      "priority": 9
+    },
+    {
+      "name": "RTVE",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.rtve.es"
+    },
+    {
+      "name": "Atresplayer Inquietos",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTOATRESPLAYER.png"
+    },
+    {
+      "name": "El 33/SX3",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.ccma.cat/tv3/directe/33/"
+    },
+    {
+      "name": "El Camino de Santiago TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elcaminodesantiago.tv/"
+    },
+    {
+      "name": "Equipo de Investigacion",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/mtmad.png",
+      "website": "https://www.lasexta.com/programas/equipo-investigacion/"
+    },
+    {
+      "name": "ETB Basque",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png",
+      "website": "https://www.eitb.eus/es/television/"
+    },
+    {
+      "name": "Iberalia 100% Caza",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/IBERALIA.png",
+      "website": "https://iberaliago.com/"
+    },
+    {
+      "name": "Iberalia 100% Pesca",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/IBERALIA.png",
+      "website": "https://iberaliago.com/"
+    },
+    {
+      "name": "Iberalia Original HD",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/IBERALIA.png",
+      "website": "https://iberaliago.com/"
+    },
+    {
+      "name": "Love The Planet",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://lovetvchannels.com/en/our-channels/#planet"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.nationalgeographic.es/es",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://www.natgeowild.co.uk/",
+      "priority": 9
+    },
+    {
+      "name": "NatureTime",
+      "isFree": true,
+      "logo": "https://10.com.au/ip/s3/2023/07/12/7b0ce57edb70336a469f938d59645bbe-1248639.png"
+    },
+    {
+      "name": "Nos Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOzZv2tBX6SRExVCKnbBfV139C.jpg",
+      "website": "https://nostelevision.gal/"
+    },
+    {
+      "name": "Odisea",
+      "isFree": true,
+      "website": "http://odisea.es/"
+    },
+    {
+      "name": "OnSortir.tv",
+      "isFree": true,
+      "website": "https://onsortir.tv/"
+    },
+    {
+      "name": "Platzi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vEzeqHP.png",
+      "website": "https://platzi.com/blog/conoce-platzi-tv/"
+    },
+    {
+      "name": "Radio 3",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.rtve.es/play/videos/directo/canales-lineales/radio-3-webcam/"
+    },
+    {
+      "name": "Rakuten TV Documentaries",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Esport3",
+      "isFree": false,
+      "logo": "https://go4.pw/LATINO/ESPORT3.png"
+    },
+    {
+      "name": "Love Nature Español",
+      "isFree": false,
+      "shortName": "LNE",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Real Madrid TV",
+      "isFree": false,
+      "logo": "http://i.imgur.com/5jMqNpW.png"
+    },
+    {
+      "name": "TV Sevilla FC",
+      "isFree": false,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Trace Sport Stars",
+      "isFree": false,
+      "shortName": "TSS",
+      "logo": "https://i.imgur.com/7HTxrEq.png"
+    },
+    {
+      "name": "Barca TV",
+      "isFree": true,
+      "keywords": "barca tv -+",
+      "logo": "https://i.postimg.cc/7Z1tW9BF/barcatv.png",
+      "website": "http://barcatv.fcbarcelona.cat/"
+    },
+    {
+      "name": "Barca TV +",
+      "isFree": true,
+      "website": "http://barcatv.fcbarcelona.cat/"
+    },
+    {
+      "name": "Betis TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/BETIS.png",
+      "website": "https://en.realbetisbalompie.es/rtvbetis/live-tv/"
+    },
+    {
+      "name": "Deportes 1 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 2 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 3 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 4 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 5 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 6 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 7 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes 8 por Movistar+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Deportes por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Univision.png",
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "ETB 4",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png",
+      "website": "https://www.eitb.eus/es/television/"
+    },
+    {
+      "name": "Futbol Replay",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/futbol.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Gol",
+      "isFree": true,
+      "keywords": "gol -classics",
+      "website": "http://www.goltelevision.com/"
+    },
+    {
+      "name": "Gol Classics",
+      "isFree": true,
+      "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
+      "website": "https://golstadium.com/"
+    },
+    {
+      "name": "Golf 2 por Movistar Plus+",
+      "isFree": true,
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "Golf por Movistar Plus+",
+      "isFree": true,
+      "website": "http://www.movistar.es/particulares/movistarplus/deportes"
+    },
+    {
+      "name": "LaLiga 10 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLiga 1 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLiga 8 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLiga 9 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLiga Hypermotion",
+      "isFree": true,
+      "keywords": "laliga hypermotion -2 -3",
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png"
+    },
+    {
+      "name": "LaLiga Hypermotion 2",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png"
+    },
+    {
+      "name": "LaLiga Hypermotion 3",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png"
+    },
+    {
+      "name": "LaLiga Inside",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "https://www.laligaplus.laliga.com/"
+    },
+    {
+      "name": "LaLiga TV",
+      "isFree": true,
+      "keywords": "laliga tv -bar -bar 1 -bar 2 -bar 3 -bar 4",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLigaTV 2 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV 3 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV 4 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV 5 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV 6 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV 7 por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLiga TV Bar",
+      "isFree": true,
+      "keywords": "laliga tv bar -1 -2 -3 -4",
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLiga TV Bar 1",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLiga TV Bar 2",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLiga TV Bar 3",
+      "isFree": true,
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLiga TV Bar 4",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
+      "website": "http://www.laliga.es/laligatv"
+    },
+    {
+      "name": "LaLigaTV por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "LaLigaTV UHD por Movistar Plus+",
+      "isFree": true,
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 10 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 11 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 12 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 13 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 14 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 15 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 16 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 17 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 1 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 2 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 2 UHD por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 3 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 4 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 5 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 6 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 7 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 8 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones 9 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Liga de Campeones UHD por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Movistar Futbol",
+      "isFree": true
+    },
+    {
+      "name": "Movistar LaLiga 1 UHD",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/MOVISTAR.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    },
+    {
+      "name": "Multideporte",
+      "isFree": true,
+      "website": "http://www.plus.es/canal/multideporte/cpev"
+    },
+    {
+      "name": "Mundo Nautica TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1LwZgPKcvxaIgWauX8F5Cs6HS.jpg",
+      "website": "https://mundonautica.tv/"
+    },
+    {
+      "name": "Olympic Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://olympics.com/"
+    },
+    {
+      "name": "Real Madrid TV English",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg",
+      "website": "https://www.realmadrid.com/en-US/real-madrid-tv/"
+    },
+    {
+      "name": "UDTV",
+      "isFree": true,
+      "website": "https://playud.udlaspalmas.es/es/udtv-en-directo"
+    },
+    {
+      "name": "Vamos Bar por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/%23VAMOS.png",
+      "website": "https://www.movistarplus.es/canal/m-plus-vamos-bar?id=VAMHOR"
+    },
+    {
+      "name": "Vamos por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/%23VAMOS.png",
+      "website": "http://www.movistarplus.es/vamos"
+    },
+    {
+      "name": "Vinx TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VINX.png",
+      "website": "https://www.vinxtv.es/"
+    },
+    {
+      "name": "Liga de Campeones 2  UHD por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/futbol"
+    }
+  ],
+  "News": [
+    {
+      "name": "101TV Malaga",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzI3RC4.png"
+    },
+    {
+      "name": "24 Horas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 8
+    },
+    {
+      "name": "3/24",
+      "isFree": true
+    },
+    {
+      "name": "7 Noticias",
+      "isFree": true
+    },
+    {
+      "name": "7 TV Andalucía",
+      "isFree": true
+    },
+    {
+      "name": "Congreso de los Diputados 1",
+      "isFree": true,
+      "shortName": "CDLD1",
+      "logo": "https://images.iptvmate.net/tvglogo/5aeacdc0f956227b4ff32ec7c55ef4d6.png"
+    },
+    {
+      "name": "Congreso de los Diputados 2",
+      "isFree": true,
+      "shortName": "CDLD2",
+      "logo": "https://images.iptvmate.net/tvglogo/5aeacdc0f956227b4ff32ec7c55ef4d6.png"
+    },
+    {
+      "name": "Congreso de los Diputados 3",
+      "isFree": true,
+      "shortName": "CDLD3",
+      "logo": "https://images.iptvmate.net/tvglogo/5aeacdc0f956227b4ff32ec7c55ef4d6.png"
+    },
+    {
+      "name": "Congreso de los Diputados 4",
+      "isFree": true,
+      "shortName": "CDLD4",
+      "logo": "https://images.iptvmate.net/tvglogo/5aeacdc0f956227b4ff32ec7c55ef4d6.png"
+    },
+    {
+      "name": "Congreso de los Diputados 5",
+      "isFree": true,
+      "shortName": "CDLD5",
+      "logo": "https://images.iptvmate.net/tvglogo/5aeacdc0f956227b4ff32ec7c55ef4d6.png"
+    },
+    {
+      "name": "DW Español",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/02/05/large/20240205014247799215_14.png",
+      "priority": 9
+    },
+    {
+      "name": "DW Latino America",
+      "isFree": true,
+      "shortName": "DLA",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/04/27/20160427150430465806_17.png",
+      "priority": 9
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "website": "https://www.euronews.com",
+      "priority": 10
+    },
+    {
+      "name": "France 24 Español",
+      "isFree": true,
+      "shortName": "F2E",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg",
+      "priority": 9
+    },
+    {
+      "name": "24 Horas Canarias",
+      "isFree": true,
+      "website": "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/"
+    },
+    {
+      "name": "24 Horas Catalunya",
+      "isFree": true,
+      "website": "https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/"
+    },
+    {
+      "name": "24 Horas Internacional",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IUVRm5L.png",
+      "website": "https://www.rtve.es/television/tve-internacional"
+    },
+    {
+      "name": "3Cat Cameres del temps",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/beauties/"
+    },
+    {
+      "name": "3Cat Exclusiu 1",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/oca1/"
+    },
+    {
+      "name": "3Cat Exclusiu 2",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/oca2/"
+    },
+    {
+      "name": "3Cat Exclusiu 3",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/oca3/"
+    },
+    {
+      "name": "3CatInfo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png",
+      "website": "https://www.3cat.cat/3catinfo/"
+    },
+    {
+      "name": "7NN",
+      "isFree": true,
+      "website": "https://7nn.tv/"
+    },
+    {
+      "name": "Actualidad 360",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3YeTu0n.png",
+      "website": "https://lovetvchannels.com/en/our-channels/#actualidad"
+    },
+    {
+      "name": "Almeria 24h TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/X3eIdVf.png",
+      "website": "https://www.almeria24htv.com/es/"
+    },
+    {
+      "name": "Atlantico Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UXsgEPX.png",
+      "website": "https://www.atlanticotelevision.com/"
+    },
+    {
+      "name": "BDN",
+      "isFree": true,
+      "website": "https://www.bdncom.cat/"
+    },
+    {
+      "name": "Canal Red",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6pExdIs.png",
+      "website": "https://canalred.tv/"
+    },
+    {
+      "name": "Canal Sur Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/A3JscwS.png"
+    },
+    {
+      "name": "Cordoba TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qVe0hET.png",
+      "website": "https://www.cordoba-tv.com/"
+    },
+    {
+      "name": "EDA TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.edatv.news/"
+    },
+    {
+      "name": "El Confidencial TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/W2Qqz2F.png",
+      "website": "https://www.elconfidencial.com/television/"
+    },
+    {
+      "name": "El Pais TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JzAzsft.png",
+      "website": "https://elpais.com/"
+    },
+    {
+      "name": "FaroTV",
+      "isFree": true,
+      "website": "https://farotv.es/"
+    },
+    {
+      "name": "Hermes TV Vigo",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a2a9322660d68305f19939e717eba648.png",
+      "website": "https://hermesvigo.com/"
+    },
+    {
+      "name": "Krolus TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.krolus.com/"
+    },
+    {
+      "name": "Libertad Digital TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yvbhH8c.png",
+      "website": "https://tv.libertaddigital.com/directo.html"
+    },
+    {
+      "name": "M95 Television Marbella",
+      "isFree": true,
+      "logo": "https://i.imgur.com/RzAkP1V.png",
+      "website": "http://m95tv.es/"
+    },
+    {
+      "name": "Malaga 24h",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/MALAGA.png",
+      "website": "http://malaga24h.com/"
+    },
+    {
+      "name": "Mirame TV",
+      "isFree": true,
+      "website": "http://www.mirametv.com/"
+    },
+    {
+      "name": "101tv Malaga",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzI3RC4.png",
+      "website": "https://www.101tv.es/endirecto101tv/"
+    }
+  ],
+  "Local": [
+    {
+      "name": "7 Televisión Región de Murcia",
+      "isFree": true,
+      "shortName": "7TRDM",
+      "priority": 4
+    },
+    {
+      "name": "Canal 25 TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal Málaga RTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Distrito TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "EITB",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "ETB 1",
+      "isFree": true,
+      "shortName": "ETB1",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "website": "https://www.eitb.eus",
+      "priority": 4
+    },
+    {
+      "name": "M95 Televisión Marbella",
+      "isFree": true,
+      "shortName": "MTM",
+      "logo": "https://i.imgur.com/RzAkP1V.png",
+      "priority": 4
+    },
+    {
+      "name": "Popular TV Melilla",
+      "isFree": true,
+      "shortName": "PTM",
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Girona",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TVG Cultural",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "TVG Evento 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "TVG Evento 5",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Trebujena TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png",
+      "priority": 4
+    },
+    {
+      "name": "tvG2",
+      "isFree": true,
+      "logo": "https://godish.com/wp-content/uploads/channel-logos/tvg2.png",
+      "priority": 4
+    }
+  ],
+  "Travel": [],
+  "Kids": [
+    {
+      "name": "Animes TV ES",
+      "isFree": true,
+      "logo": "https://imgur.com/K4IrU99.png"
+    },
+    {
+      "name": "TVG Infantil",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Animax",
+      "isFree": true,
+      "logo": "https://imgur.com/BatygW5.png",
+      "website": "https://web.archive.org/web/20131231102033/http://www.animax.es/"
+    },
+    {
+      "name": "Anime Vision",
+      "isFree": true,
+      "keywords": "anime vision -classics",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg"
+    },
+    {
+      "name": "Anime Vision Classics",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg"
+    },
+    {
+      "name": "Boing",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/boing.png",
+      "website": "http://www.boing.es/"
+    },
+    {
+      "name": "Canal Panda",
+      "isFree": true,
+      "website": "https://tuamc.tv/canal-panda/"
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "website": "https://www.cartoonnetwork.es"
+    },
+    {
+      "name": "Clan",
+      "isFree": true,
+      "keywords": "clan -internacional -tve",
+      "logo": "https://i.imgur.com/38xIfQ3.png",
+      "website": "http://www.rtve.es/infantil/",
+      "priority": 9
+    },
+    {
+      "name": "Clan Internacional",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg",
+      "website": "http://www.rtve.es/infantil/",
+      "priority": 9
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "logo": "http://i.imgur.com/ETxffjm.png",
+      "website": "http://www.disney.es/",
+      "priority": 10
+    },
+    {
+      "name": "Disney Junior",
+      "isFree": true,
+      "logo": "http://i.imgur.com/H9AY5z4.png",
+      "website": "https://tv.disney.es/",
+      "priority": 9
+    },
+    {
+      "name": "DreamWorks Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/DREAMWORKS.png",
+      "website": "http://dreamworkstv.com/"
+    },
+    {
+      "name": "ETB 3",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ETB.png",
+      "website": "https://www.eitb.eus/es/television/"
+    },
+    {
+      "name": "KinoKazka",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9092.png",
+      "website": "http://kinokazka.tv/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nickelodeon.es/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "https://www.nickjr.es/"
+    },
+    {
+      "name": "SX3",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png",
+      "website": "https://www.3cat.cat/tv3/sx3/directe/"
+    },
+    {
+      "name": "TVG Cativos",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv2"
+    },
+    {
+      "name": "TVG Mocinos",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv3"
+    },
+    {
+      "name": "TVG Pequerrechos",
+      "isFree": true,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv1"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "101 Tele Antequera",
+      "isFree": true,
+      "shortName": "1TA",
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "Activa TV",
+      "isFree": true
+    },
+    {
+      "name": "TVG Musigal",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "All Flamenco",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://allflamenco.net/"
+    },
+    {
+      "name": "Eurolatina TV",
+      "isFree": true,
+      "website": "https://eurolatinatelevision.com/"
+    },
+    {
+      "name": "HIT TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/1MDrKkK/image-1.png",
+      "website": "http://www.hittv.es/"
+    },
+    {
+      "name": "HQM Arabic",
+      "isFree": true,
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Baladas",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/baladas-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Blues",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/blues-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Chill Out",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Classic",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/classic-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Dance",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/dance-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Folk",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/folk-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Gym",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/gym-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Hip Hop",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/hip-hop-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Hits",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/hits-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Jazz",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/jazz-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Kids",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/kids-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Latin",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/latin-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Pop",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/pop-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Relax",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/relax-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Remember",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/remember-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Rock",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/rock-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "HQM Spanish",
+      "isFree": true,
+      "logo": "https://hqm.es/wp-content/uploads/spanish-hqm-logo.png",
+      "website": "https://hqm.es/"
+    },
+    {
+      "name": "La Movida Latina",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.lamovidalatina.com/"
+    },
+    {
+      "name": "La Urban Radio",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.urbanrevolution.es/la-urban-radio-en-directo/"
+    },
+    {
+      "name": "LiraTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hBswXYZ.png",
+      "website": "https://liratv.es/"
+    },
+    {
+      "name": "LokuraFm TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://lokurafm.online/tv/"
+    },
+    {
+      "name": "Molahits TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/FYcLtqT.png",
+      "website": "https://www.molatv.cat/"
+    },
+    {
+      "name": "Music TV Granada",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://musictvgranada.com/"
+    },
+    {
+      "name": "Onda 15 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mUrZz9O.png",
+      "website": "https://onda15.es/radio/onlinetv"
+    },
+    {
+      "name": "Onda Valencia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6HxLUQd.png",
+      "website": "https://ondavalencia.es/en-directo/onda-valencia-tv"
+    },
+    {
+      "name": "POP World TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LQB6G3s.jpg",
+      "website": "https://xptv.live/"
+    },
+    {
+      "name": "Radio Carnaval TV",
+      "isFree": true,
+      "website": "https://multicarnaval.com/"
+    },
+    {
+      "name": "Sol Musica",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rbJrmPw.png",
+      "website": "https://tuamc.tv/sol-musica"
+    },
+    {
+      "name": "SpektraTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0zCt8e4.png",
+      "website": "https://spektratv.com/"
+    },
+    {
+      "name": "STZ Telebista",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rFQuAEv.png",
+      "website": "https://stztelebista.com/"
+    },
+    {
+      "name": "TVOMIX",
+      "isFree": true,
+      "logo": "https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png",
+      "website": "https://tvomix.com"
+    },
+    {
+      "name": "Verbena TV",
+      "isFree": true,
+      "logo": "https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png",
+      "website": "https://verbenafm.com/"
+    },
+    {
+      "name": "Viva Murcia TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
+      "website": "http://www.vivamurcia.com/"
+    },
+    {
+      "name": "XPTV1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ty7GkoN.png",
+      "website": "https://xptv.live/"
+    },
+    {
+      "name": "Xtra TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Action Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/5d95cd1e3b92e98d9aeafb4bf728f27f.png"
+    },
+    {
+      "name": "Comedy Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/4c64e13f3b9cb2a7c4f20145454adbe6.png"
+    },
+    {
+      "name": "Family Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/830c4d282345c6a83d5dbadd6aa7426b.png"
+    },
+    {
+      "name": "Rakuten Drama",
+      "isFree": false,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "3Cat Plats bruts",
+      "isFree": true,
+      "website": "https://www.3cat.cat/3cat/directes/fc1/"
+    },
+    {
+      "name": "8madrid TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZjnlY3D.jpeg",
+      "website": "https://8madrid.tv/"
+    },
+    {
+      "name": "Accion por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Alquiler 1",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ALQUILER.png",
+      "website": "https://www.movistarplus.es/canal/alquiler-1?id=TQ1"
+    },
+    {
+      "name": "Alquiler HD",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ALQUILER.png",
+      "website": "https://www.movistarplus.es/canal/alquiler-1?id=TQ1"
+    },
+    {
+      "name": "AMC Crime",
+      "isFree": true,
+      "website": "https://tuamc.tv/amc-crime"
+    },
+    {
+      "name": "Aqui No Hay Quien Viva",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTOAQUÍ.png",
+      "website": "https://www.antena3.com/series/anhqv/"
+    },
+    {
+      "name": "Atrescine",
+      "isFree": true,
+      "website": "https://www.atrescine.com/"
+    },
+    {
+      "name": "Atreseries",
+      "isFree": true,
+      "keywords": "atreseries -internacional",
+      "logo": "https://go4.pw/SPAIN/SERIES.png",
+      "website": "http://atreseries.atresmedia.com/"
+    },
+    {
+      "name": "Atreseries Internacional",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/SERIES.png",
+      "website": "https://www.atresseries.com/"
+    },
+    {
+      "name": "Atresplayer Clasicos",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTOATRESPLAYER.png"
+    },
+    {
+      "name": "Atresplayer Multicine",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTOATRESPLAYER.png"
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "keywords": "axn -cee -movies",
+      "logo": "https://imgur.com/EYAmbe4.png",
+      "website": "https://www.axn.es/"
+    },
+    {
+      "name": "AXN CEE",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "website": "https://antenna-group.com/"
+    },
+    {
+      "name": "AXN Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "website": "https://www.axn.es/axnmovies"
+    },
+    {
+      "name": "Bom Cine",
+      "isFree": true,
+      "logo": "https://i.imgur.com/cqhofMU.png",
+      "website": "https://www.bomcine.com/"
+    },
+    {
+      "name": "Canal Hollywood",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://tuamc.tv/canal-hollywood/"
+    },
+    {
+      "name": "Cine Espanol por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Cine Friki",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.cinefriki.es/"
+    },
+    {
+      "name": "Cine por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Cine Western",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "http://www.cinewestern.es/"
+    },
+    {
+      "name": "Clasicos por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Comedia por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/DISTRITOCOMEDIA.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Dark",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "website": "https://tuamc.tv/dark/"
+    },
+    {
+      "name": "Documentales por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DOCUMENTALES.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "Drama por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Estrenos 2 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine"
+    },
+    {
+      "name": "Film&Co",
+      "isFree": true,
+      "website": "https://www.filmyco.es/"
+    },
+    {
+      "name": "Fisica o Quimica",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
+      "website": "https://www.antena3.com/series/fisica-o-quimica/"
+    },
+    {
+      "name": "Fox Life",
+      "isFree": true,
+      "website": "https://www.foxtv.es/"
+    },
+    {
+      "name": "Fox Spain",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.foxtv.es/"
+    },
+    {
+      "name": "Indie por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/MC MUSIC.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "La Resistencia",
+      "isFree": true,
+      "keywords": "la resistencia -por movistar plus+",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Resistencia por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "Musica por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+      "website": "https://www.movistar.es/particulares/movistarplus/estrenos-cine/"
+    },
+    {
+      "name": "MyTime Movie Network",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HYgxPVQ.png",
+      "website": "https://mytimemovienetwork.com/"
+    },
+    {
+      "name": "Originales por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/OR.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "http://www.paramountchannel.es/"
+    },
+    {
+      "name": "Planeta de Cine",
+      "isFree": true,
+      "logo": "https://go4.pw/BULGARIA/PLANETATV.png"
+    },
+    {
+      "name": "Rakuten TV Action Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Comedy Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Drama Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Family Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Nordic Films",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Rakuten Stories",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Spotlight",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Rakuten TV Top Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png"
+    },
+    {
+      "name": "Series 2 por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
+      "website": "https://www.movistar.es/particulares/movistarplus/series"
+    },
+    {
+      "name": "Series por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
+      "website": "https://www.movistar.es/particulares/movistarplus/series"
+    },
+    {
+      "name": "Somos",
+      "isFree": true,
+      "website": "http://www.canalsomos.tv/"
+    },
+    {
+      "name": "Squirrel",
+      "isFree": true,
+      "keywords": "squirrel -2",
+      "website": "https://squirreltv.es/"
+    },
+    {
+      "name": "Squirrel 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9y8VcBr.png",
+      "website": "https://squirreltv.es/"
+    },
+    {
+      "name": "Sundance TV",
+      "isFree": true,
+      "website": "http://www.sundancechannel.es/"
+    },
+    {
+      "name": "Suspense por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/STARZ.png",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "TCM",
+      "isFree": true,
+      "website": "http://www.canaltcm.com/"
+    },
+    {
+      "name": "Terror por Movistar Plus+",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfwHIY865AYJoFgBAYoAJLvPLO9.jpg",
+      "website": "https://www.movistar.es/particulares/movistarplus/"
+    },
+    {
+      "name": "Todo Novelas",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/COLOMBIA/RCNNOVELAS.png",
+      "website": "http://www.todonovelas.es/"
+    },
+    {
+      "name": "TVE Star",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TVE.png",
+      "website": "https://www.rtve.es/comercial/distribucion-canales/star/",
+      "priority": 9
+    },
+    {
+      "name": "Veo7",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/veo7.png",
+      "website": "https://www.veo7.com/"
+    },
+    {
+      "name": "VinTV",
+      "isFree": true
+    },
+    {
+      "name": "XPTV US",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1m7kDmc.png",
+      "website": "https://xptv.live/"
+    },
+    {
+      "name": "XTRM",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/XTRM.png",
+      "website": "https://amcselekt.es/xtrm/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Aragón Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/ARAGON.png",
+      "priority": 4
+    },
+    {
+      "name": "PequeRadio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 4
+    },
+    {
+      "name": "Pequeradio",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radio Rutas del Perú",
+      "isFree": true,
+      "shortName": "RRDP",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Televisión Marbella",
+      "isFree": true,
+      "shortName": "RTM",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Televisión Melilla",
+      "isFree": true,
+      "shortName": "RTM",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    }
+  ]
+}

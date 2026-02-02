@@ -1,0 +1,2753 @@
+{
+  "Local": [
+    {
+      "name": "ATM Televisión",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTfxloA4zUrL2jCII0IEGaivIwh.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Andes Televisión",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwTXVMfabZPAf7Ei8PRGczCQC3Y.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Antares Televisión",
+      "isFree": true,
+      "shortName": "AT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/st3VI4lNOTB4SPsqsk91TSYMEBi.jpg",
+      "priority": 4
+    },
+    {
+      "name": "AsiriTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7bGVFBa.png",
+      "priority": 4
+    },
+    {
+      "name": "Auténtica Televisión",
+      "isFree": true,
+      "shortName": "AT",
+      "logo": "https://i.imgur.com/bEJK3RN.png",
+      "priority": 4
+    },
+    {
+      "name": "BeXtreme TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Bella Abanquina TV",
+      "isFree": true,
+      "shortName": "BAT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg",
+      "priority": 4
+    },
+    {
+      "name": "CNC Digital",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 4
+    },
+    {
+      "name": "CR Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/oxycMeA.png",
+      "priority": 4
+    },
+    {
+      "name": "Cable Netword TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Cadena TV Huancayo",
+      "isFree": true,
+      "shortName": "CTH",
+      "logo": "https://go4.pw/SPAIN/Cadena.png",
+      "priority": 4
+    },
+    {
+      "name": "Cajamarca TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/l9OJjoT.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 43 Sudamericana",
+      "isFree": true,
+      "shortName": "C4S",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 8",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Canal E",
+      "isFree": true,
+      "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Caribe Televisión",
+      "isFree": true,
+      "shortName": "CT",
+      "logo": "https://go4.pw/USA/espnp.png",
+      "priority": 4
+    },
+    {
+      "name": "Central TV",
+      "isFree": true,
+      "logo": "https://imgur.com/secIlPU.png",
+      "priority": 4
+    },
+    {
+      "name": "ClipsTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Conecta2TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "CreoTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "DMJ",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "DTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UpsLEAV.png",
+      "priority": 4
+    },
+    {
+      "name": "DeltaTV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Diario Hechicera",
+      "isFree": true,
+      "logo": "https://i.imgur.com/I6tRVkA.png",
+      "priority": 4
+    },
+    {
+      "name": "Expresión",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lFek4Pj.png",
+      "priority": 4
+    },
+    {
+      "name": "FuegoTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "FullTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "GORESAM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Genios TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLJ76qtAQXbYTceBYwTAPu0e12P.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Gold Valley TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Huacho Perú TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Huanta TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Huánuco en Vivo",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Imagen Televisión",
+      "isFree": true,
+      "shortName": "IT",
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png",
+      "priority": 4
+    },
+    {
+      "name": "Impacto Televisión",
+      "isFree": true,
+      "shortName": "IT",
+      "logo": "https://i.imgur.com/bkpCGP6.png",
+      "priority": 4
+    },
+    {
+      "name": "Imperial Televisión",
+      "isFree": true,
+      "shortName": "IT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEEsrLIH8LsGkuaU2Ql2FksewfT.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Inkavisión",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "KBO Quillabamba",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Kachorro",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Kallpa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "KeBuena",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "La Ribereña",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BOXIRBT.png",
+      "priority": 4
+    },
+    {
+      "name": "LimaLive",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "LotPlus TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "MTV Más",
+      "isFree": true,
+      "priority": 8
+    },
+    {
+      "name": "Master TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "priority": 4
+    },
+    {
+      "name": "MaticesTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Mega TV",
+      "isFree": true,
+      "logo": "http://i.imgur.com/saCbNDR.png",
+      "priority": 4
+    },
+    {
+      "name": "Millenium 49 TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "MitosTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Moda Huancayo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+      "priority": 4
+    },
+    {
+      "name": "NorSelva RTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Nuestra TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hBWAQLqKtecQZTmyN6U7ocsSD2.jpg",
+      "priority": 4
+    },
+    {
+      "name": "OK TeVe",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "priority": 4
+    },
+    {
+      "name": "Oasis RTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp1ZcEmlIGyV9nmRQVZxMI4PWOv.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Oriental TV 21",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Planeta TV Bagua",
+      "isFree": true,
+      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
+      "priority": 4
+    },
+    {
+      "name": "Planeta TV Moyobamba",
+      "isFree": true,
+      "shortName": "PTM",
+      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
+      "priority": 4
+    },
+    {
+      "name": "Proyecta Televisión",
+      "isFree": true,
+      "shortName": "PT",
+      "priority": 4
+    },
+    {
+      "name": "Pucallpa Televisión",
+      "isFree": true,
+      "shortName": "PT",
+      "priority": 4
+    },
+    {
+      "name": "QT Televisión",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Quattro TV",
+      "isFree": true,
+      "logo": "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png",
+      "priority": 4
+    },
+    {
+      "name": "Quillavision",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "RN Televisión",
+      "isFree": true,
+      "logo": "http://i.imgur.com/Or3Q4WA.png",
+      "priority": 4
+    },
+    {
+      "name": "RW Televisión",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/13e82383264abddcd6dd6f993a40f789.png",
+      "priority": 4
+    },
+    {
+      "name": "Red de Comunicación Regional",
+      "isFree": true,
+      "shortName": "RDCR",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Región TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "priority": 4
+    },
+    {
+      "name": "Ribereña TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BOXIRBT.png",
+      "priority": 4
+    },
+    {
+      "name": "SatelTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "SelvaMía TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Sistema 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7MXF4Fd.png",
+      "priority": 4
+    },
+    {
+      "name": "Sol Stereo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Solar Televisión",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg",
+      "priority": 4
+    },
+    {
+      "name": "SoriTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Sumac TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Super Canal",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "priority": 4
+    },
+    {
+      "name": "SurTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "TPTO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Andahuaylas",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Huarmey",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Norte",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Sensación",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Sistemas Cuzco",
+      "isFree": true,
+      "shortName": "TSC",
+      "logo": "https://i.imgur.com/yo1oTIh.png",
+      "priority": 4
+    },
+    {
+      "name": "TV5 Soritor",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png",
+      "priority": 4
+    },
+    {
+      "name": "TVenLinea",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Tele2000",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Telesur",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 4
+    },
+    {
+      "name": "Televisión Tarapoto",
+      "isFree": true,
+      "shortName": "TT",
+      "priority": 4
+    },
+    {
+      "name": "Tropical TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Tumpis TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Unitel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 4
+    },
+    {
+      "name": "Universitaria TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5Rds9FB/tvu.png",
+      "priority": 4
+    },
+    {
+      "name": "Uranio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EeNpfIr.png",
+      "priority": 4
+    },
+    {
+      "name": "VamisaTV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Vía Altomayo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aJ4XExn.png",
+      "priority": 4
+    },
+    {
+      "name": "Vía Televisión",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/VIA.png",
+      "priority": 4
+    },
+    {
+      "name": "Wtv",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NwIolMu.png",
+      "priority": 4
+    },
+    {
+      "name": "X TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+      "priority": 4
+    }
+  ],
+  "News": [
+    {
+      "name": "ATV+ Noticias",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
+      "priority": 9
+    },
+    {
+      "name": "CanalB",
+      "isFree": true
+    },
+    {
+      "name": "Congreso TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Congreso.png"
+    },
+    {
+      "name": "Exitosa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pu0BSB7.png"
+    },
+    {
+      "name": "Gaceta Ucayalina",
+      "isFree": true
+    },
+    {
+      "name": "Identidad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "JNE TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "La Abeja",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La República TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "PBO Digital",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vBpxX4S.png"
+    },
+    {
+      "name": "PymeTV",
+      "isFree": true
+    },
+    {
+      "name": "RSelvaTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/oBz3CgE.png",
+      "priority": 9
+    },
+    {
+      "name": "RTV Total",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "TV Noticias 7.3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Perú Noticias",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png"
+    },
+    {
+      "name": "Visión Noticias Perú",
+      "isFree": true,
+      "shortName": "VNP",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Atmosfera Television",
+      "isFree": true,
+      "website": "https://www.radioatmosfera.pe/"
+    },
+    {
+      "name": "ATV+",
+      "isFree": true,
+      "keywords": "atv+ -noticias",
+      "website": "https://www.atv.pe/",
+      "priority": 9
+    },
+    {
+      "name": "Canal N",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",
+      "website": "https://canaln.pe/"
+    },
+    {
+      "name": "Expresion",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lFek4Pj.png",
+      "website": "https://www.radioexpresion.com.pe/"
+    },
+    {
+      "name": "Huanuco en Vivo",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg",
+      "website": "https://huanucoenvivo.com/"
+    },
+    {
+      "name": "La Primera TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://forcatel.com/laprimera.html"
+    },
+    {
+      "name": "Like TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5IwS0sJ.png",
+      "website": "https://liketv.pe/"
+    },
+    {
+      "name": "LR+",
+      "isFree": true,
+      "website": "https://lrmas.larepublica.pe/"
+    },
+    {
+      "name": "PBO",
+      "isFree": true,
+      "keywords": "pbo -digital",
+      "logo": "https://go4.pw/ASIA/PBO.png",
+      "website": "https://pboradio.com/"
+    },
+    {
+      "name": "Qosqo Times",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smggAeGHRjKy85h6BzF0eTeDrFW.jpg",
+      "website": "https://qosqotimes.pe/"
+    },
+    {
+      "name": "Radio Uno Tacna",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiouno.pe/"
+    },
+    {
+      "name": "RCR",
+      "isFree": true,
+      "logo": "https://i.imgur.com/A8TRPrF.png",
+      "website": "https://www.rcrperu.com/"
+    },
+    {
+      "name": "RPP TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png",
+      "website": "http://rpp.pe/tv.html"
+    },
+    {
+      "name": "RTV Total Yurimaguas",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvtotal.pe/"
+    },
+    {
+      "name": "TV Peru Noticias",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+      "website": "https://www.tvperu.gob.pe/"
+    },
+    {
+      "name": "VNP",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TOnknEW.png",
+      "website": "https://vnp.pe"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Best Cable Sports Perú",
+      "isFree": false,
+      "shortName": "BCSP",
+      "priority": 4
+    },
+    {
+      "name": "Contacto Deportivo",
+      "isFree": false,
+      "shortName": "CD",
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FRANCE_24.png"
+    },
+    {
+      "name": "Monterrico TV",
+      "isFree": false
+    },
+    {
+      "name": "Ovacion TV",
+      "isFree": false
+    },
+    {
+      "name": "Best Cable Sports Peru",
+      "isFree": true,
+      "website": "https://bestcableperu.com.pe/tv6.html",
+      "priority": 4
+    },
+    {
+      "name": "Gol Peru",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/GOL PLAY.png",
+      "website": "https://golperu.pe/"
+    },
+    {
+      "name": "L1",
+      "isFree": true,
+      "keywords": "l1 -max",
+      "logo": "https://go4.pw/NEDERLAND/l1.png",
+      "website": "https://www.l1max.com/"
+    },
+    {
+      "name": "L1 Max",
+      "isFree": true,
+      "logo": "https://go4.pw/NEDERLAND/l1.png",
+      "website": "https://www.l1max.com/"
+    },
+    {
+      "name": "Movistar Deportes",
+      "isFree": true,
+      "website": "http://movistardeportes.pe/"
+    },
+    {
+      "name": "Sqala TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sqala.tv/"
+    },
+    {
+      "name": "Universitario TV",
+      "isFree": true,
+      "website": "https://universitario.pe/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "JN 19",
+      "isFree": true,
+      "keywords": "jn 19 | jn19",
+      "shortName": "JN19"
+    },
+    {
+      "name": "La Luz TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Nazarenas TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Pax TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Virgen de Natividad de Paruro",
+      "isFree": true,
+      "shortName": "VDNDP",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Andes Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwTXVMfabZPAf7Ei8PRGczCQC3Y.jpg",
+      "website": "https://radiosicuani.com/ANDESTV/"
+    },
+    {
+      "name": "Bethel Plus",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527020509448726_44.png",
+      "website": "https://www.betheltv.tv/"
+    },
+    {
+      "name": "Bethel TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/g2PmhMXQ/betheltv.png",
+      "website": "https://www.betheltv.tv/"
+    },
+    {
+      "name": "Kairos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.kairostv.pe/"
+    },
+    {
+      "name": "Presencia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SVho6El.png",
+      "website": "https://presenciaradiopangoa.blogspot.com/"
+    },
+    {
+      "name": "Santa Rosa Radio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg"
+    },
+    {
+      "name": "TV Surymar",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.televisionsurymar.com/"
+    },
+    {
+      "name": "Unife TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TLM592m.png",
+      "website": "https://universal.org.pe/canal-unife-tv/"
+    },
+    {
+      "name": "Vision",
+      "isFree": true,
+      "keywords": "vision -sur -tv musica",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.vision.org.pe/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ABTelevision",
+      "isFree": true
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "priority": 9
+    },
+    {
+      "name": "BHTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Bella Asuncion TV",
+      "isFree": true,
+      "shortName": "BAT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg"
+    },
+    {
+      "name": "Best Cable Perú",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "CANAL IPE",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png"
+    },
+    {
+      "name": "Chicos IPe",
+      "isFree": true
+    },
+    {
+      "name": "Kora TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Latina",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-pKihQf3XmK8/Xw_BoRelQTI/AAAAAAAAAZ4/zcSCcV01gykh_J1IVRkDeJBFi7bblWtnACLcBGAsYHQ/w200-h200/Latina.png",
+      "priority": 9
+    },
+    {
+      "name": "NacionalTV",
+      "isFree": true
+    },
+    {
+      "name": "Onda Digital",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "Panamericana TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png",
+      "priority": 9
+    },
+    {
+      "name": "TV Cosmos",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nr4ctt4.png"
+    },
+    {
+      "name": "TV Palmeras",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Perú",
+      "isFree": true,
+      "keywords": "tv peru -noticias"
+    },
+    {
+      "name": "Tvfaces Online",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg"
+    },
+    {
+      "name": "UCI",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "USIL TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Uchu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Willax",
+      "isFree": true
+    },
+    {
+      "name": "36 TV Huacho",
+      "isFree": true
+    },
+    {
+      "name": "ABC Teleshow",
+      "isFree": true,
+      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
+      "priority": 9
+    },
+    {
+      "name": "Activa TV",
+      "isFree": true,
+      "website": "https://activatv.net/"
+    },
+    {
+      "name": "Agro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png",
+      "website": "http://agrotv.pe/"
+    },
+    {
+      "name": "Alacocina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.alacocinatv.com/"
+    },
+    {
+      "name": "Albricias TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Altura TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swaF8Q2y4Gn6r4HgsdDQIuou2OJ.jpg",
+      "website": "https://grupoaltura.pe/"
+    },
+    {
+      "name": "Amazonas TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/amVQ5HoeqHjlg3iykQk8v9C28nl.jpg",
+      "website": "https://radiostereo99baguagrande.com/"
+    },
+    {
+      "name": "Amazonia TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://amazoniatvyurimaguas.com/"
+    },
+    {
+      "name": "Amazonica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "America Television",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://tvgo.americatv.com.pe/"
+    },
+    {
+      "name": "Anas Television",
+      "isFree": true
+    },
+    {
+      "name": "Antares Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/st3VI4lNOTB4SPsqsk91TSYMEBi.jpg",
+      "website": "http://antarestvradio.com/tvonline.html"
+    },
+    {
+      "name": "Antena 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gFE3Qih.png",
+      "website": "https://canala1.com"
+    },
+    {
+      "name": "Antena 2",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://canala1.com"
+    },
+    {
+      "name": "Antena Regional TV",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "priority": 4
+    },
+    {
+      "name": "Antena SUR",
+      "isFree": true
+    },
+    {
+      "name": "Antena Television",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Arpegio TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://arpegio.com.pe/tv/"
+    },
+    {
+      "name": "Arussa Television",
+      "isFree": true
+    },
+    {
+      "name": "Astros Television",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/mlb.png"
+    },
+    {
+      "name": "Atenas Television",
+      "isFree": true,
+      "website": "https://atenastelevision.com/"
+    },
+    {
+      "name": "Atlantis Radio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg",
+      "website": "https://atlantisradiotv.com/"
+    },
+    {
+      "name": "ATM Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTfxloA4zUrL2jCII0IEGaivIwh.jpg",
+      "website": "http://www.atm.pe/"
+    },
+    {
+      "name": "ATV Sur",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://www.atv.pe/",
+      "priority": 9
+    },
+    {
+      "name": "Aura TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/AURA.png"
+    },
+    {
+      "name": "Autentica Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bEJK3RN.png",
+      "website": "https://autenticatv.pe/"
+    },
+    {
+      "name": "Belmont Television",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://belmonttelevision.com/"
+    },
+    {
+      "name": "Best Cable Peru",
+      "isFree": true,
+      "website": "https://bestcableperu.com.pe/tv3.html",
+      "priority": 4
+    },
+    {
+      "name": "Bitt Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://bittchannel.com/"
+    },
+    {
+      "name": "BNB Digital",
+      "isFree": true,
+      "website": "https://www.bnbdigitaltv.com/"
+    },
+    {
+      "name": "Cable Andino Canal 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Cadena TV",
+      "isFree": true,
+      "keywords": "cadena tv -huancayo",
+      "logo": "https://go4.pw/SPAIN/Cadena.png",
+      "website": "http://www.cadenatv.com.pe/"
+    },
+    {
+      "name": "Callao al Dia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://callaoaldia.pe/multimedia/"
+    },
+    {
+      "name": "Canal 20 Pacasmayo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal20pacasmayo.com/"
+    },
+    {
+      "name": "Canal 21 Huancayo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal21huancayo.com"
+    },
+    {
+      "name": "Canal 21 Otuzco",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 25 Ayacucho",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 33 Ayacucho",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal33ayacucho.com/"
+    },
+    {
+      "name": "Canal 33 Chimbote",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 49 Chiclayo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 6 Mollendo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 8 Catacaos",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal8catacaos.com/"
+    },
+    {
+      "name": "Canal Mas TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "CANAL M Television",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal TeleTres",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Caribe Television",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/espnp.png"
+    },
+    {
+      "name": "Casma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.casmanoticias.com/"
+    },
+    {
+      "name": "Charapa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://charapatv.net/"
+    },
+    {
+      "name": "Chincha TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.chincha.tv/p/live.html"
+    },
+    {
+      "name": "Chupaca Television",
+      "isFree": true,
+      "website": "https://chupacatelevision.com/"
+    },
+    {
+      "name": "Churcampa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Clarin TV Canal 12",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://clarinmedios.com.pe/"
+    },
+    {
+      "name": "CNC Cajamarca",
+      "isFree": true,
+      "logo": "https://i.imgur.com/l9OJjoT.png",
+      "website": "https://www.cnccajamarca.com/"
+    },
+    {
+      "name": "CNH TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "CN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/chaina.png",
+      "website": "http://www.cablenetword.com/canal.html"
+    },
+    {
+      "name": "Controversia TV",
+      "isFree": true,
+      "website": "https://playmax.tv/tvcontroversia"
+    },
+    {
+      "name": "Cositel",
+      "isFree": true,
+      "website": "https://www.cositel.pe/"
+    },
+    {
+      "name": "Cosmos TV Puno",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/19.png",
+      "website": "https://cosmostvpuno.pe/"
+    },
+    {
+      "name": "CTC",
+      "isFree": true,
+      "website": "http://ctc.com.pe/"
+    },
+    {
+      "name": "CTV",
+      "isFree": true,
+      "keywords": "ctv -qollasuyo",
+      "logo": "https://i.imgur.com/ljKb0UX.png"
+    },
+    {
+      "name": "CTV Qollasuyo",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
+      "website": "https://ctvqollasuyo.blogspot.com/"
+    },
+    {
+      "name": "Cuba TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/CUBA-V.png",
+      "website": "https://www.cubatvayacucho.com/"
+    },
+    {
+      "name": "Cultural RTV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png",
+      "website": "http://www.cultural.com.pe/"
+    },
+    {
+      "name": "CUTERVO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cutervotv.com/"
+    },
+    {
+      "name": "CVN TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cvn.pe/"
+    },
+    {
+      "name": "Dac TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Doble AA",
+      "isFree": true,
+      "website": "https://dobleaamedios.com/tv"
+    },
+    {
+      "name": "Doble C Television",
+      "isFree": true,
+      "website": "https://doblectelevision.com/"
+    },
+    {
+      "name": "DUB TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z4vBIIYSnR1yQTGLSwePKqFykP.jpg"
+    },
+    {
+      "name": "Dunas TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dunastv.pe/"
+    },
+    {
+      "name": "ECO Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ly1KU6w.png",
+      "website": "https://ecoperu.tv/"
+    },
+    {
+      "name": "El Pueblo Television",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Emax TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Evolucion TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fama TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Foro TV",
+      "isFree": true,
+      "website": "https://www.forotv.pe/"
+    },
+    {
+      "name": "Frecuencia Amazonica",
+      "isFree": true,
+      "website": "https://frecuenciaamazonicatv.com/"
+    },
+    {
+      "name": "Gamarra Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://gamarrachannel.com/"
+    },
+    {
+      "name": "Global TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png",
+      "website": "https://www.atv.pe/noticias/global-tv-13738"
+    },
+    {
+      "name": "Goresam TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://goresamtv.com/"
+    },
+    {
+      "name": "GRAMI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "GTV Pisco",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/GTV.png"
+    },
+    {
+      "name": "Heroica TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Horizonte TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9W0de9Pal6FKQGhfCTh8kzY5Q8.jpg",
+      "website": "http://horizonteradiotv.com/"
+    },
+    {
+      "name": "Hoynet",
+      "isFree": true
+    },
+    {
+      "name": "HOYPERU TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "HRTV",
+      "isFree": true,
+      "website": "https://www.hrtv.com.pe/tv-en-vivo/"
+    },
+    {
+      "name": "Huacho Peru TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "website": "https://huachotv.com/"
+    },
+    {
+      "name": "Huaralenlinea TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://huaralenlinea.com/"
+    },
+    {
+      "name": "Imagen Television Rioja",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png"
+    },
+    {
+      "name": "Imagen TV",
+      "isFree": true
+    },
+    {
+      "name": "Impacto Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bkpCGP6.png",
+      "website": "http://radioimpactodecajamarca.com.pe/impacto-tv/"
+    },
+    {
+      "name": "Imperial Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEEsrLIH8LsGkuaU2Ql2FksewfT.jpg",
+      "website": "http://www.radioimperialtv.com/"
+    },
+    {
+      "name": "Inkavision",
+      "isFree": true,
+      "website": "https://inkavision.pe/tv/"
+    },
+    {
+      "name": "Intuitiva TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/zcehR4M.png",
+      "website": "https://cableperu.pe/"
+    },
+    {
+      "name": "JN 19.2",
+      "isFree": true,
+      "website": "http://www.jn19television.com/19_2.htm"
+    },
+    {
+      "name": "Justicia TV",
+      "isFree": true,
+      "website": "https://justiciatv.pj.gob.pe/"
+    },
+    {
+      "name": "KBO",
+      "isFree": true,
+      "keywords": "kbo -quillabamba",
+      "website": "https://kboquillabamba.blogspot.com/"
+    },
+    {
+      "name": "La 5ta",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://la5ta.pe/"
+    },
+    {
+      "name": "La Islilla TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Tele",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png",
+      "website": "https://www.atv.pe/"
+    },
+    {
+      "name": "Lider TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://radioytvlider.com/"
+    },
+    {
+      "name": "Machupicchu Television",
+      "isFree": true
+    },
+    {
+      "name": "Media TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png",
+      "website": "http://www.opencaster.com/mediatvperu"
+    },
+    {
+      "name": "Mega TV Arequipa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "http://www.megatvarequipa.com/television-en-vivo/"
+    },
+    {
+      "name": "Mega TV Jaen",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://megatvjaen.pe/"
+    },
+    {
+      "name": "Mega TV Tarapoto",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg"
+    },
+    {
+      "name": "Megavision Canal 45",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Telecentro.png"
+    },
+    {
+      "name": "Melodicos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Milenial TV",
+      "isFree": true,
+      "website": "https://www.milenial.news/"
+    },
+    {
+      "name": "Milenia TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.radiomileniaperu.com/mileniatv/"
+    },
+    {
+      "name": "Millenium TV",
+      "isFree": true,
+      "website": "https://milleniumtv.pe/"
+    },
+    {
+      "name": "Miramax TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/mir.png",
+      "website": "https://miramaxnet.pe/"
+    },
+    {
+      "name": "Movistar Plus",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png",
+      "website": "https://www.movistarplus.pe/"
+    },
+    {
+      "name": "MTV Mas Ancash",
+      "isFree": true,
+      "website": "https://mtvnoticiasancash.com/",
+      "priority": 8
+    },
+    {
+      "name": "Nacional Tv Peru",
+      "isFree": true,
+      "website": "https://nacionaltvperu.com/"
+    },
+    {
+      "name": "Nativa",
+      "isFree": true,
+      "keywords": "nativa -tv satipo",
+      "logo": "https://i.imgur.com/Y9k9XSO.png",
+      "website": "https://ntv.pe/"
+    },
+    {
+      "name": "Nativa TV Satipo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ScCAgGB.png",
+      "website": "https://elgrupofiesta.pe/"
+    },
+    {
+      "name": "Neo TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/XZyzTKMy/image.png"
+    },
+    {
+      "name": "Nova TV Star",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://radionovastar.com/tv-en-vivo/"
+    },
+    {
+      "name": "Nuestra TV Lima",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hBWAQLqKtecQZTmyN6U7ocsSD2.jpg",
+      "website": "https://servicable.com.pe/nuestra-tv/"
+    },
+    {
+      "name": "NZK Television",
+      "isFree": true,
+      "website": "https://nzktv.com/"
+    },
+    {
+      "name": "OK Television",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png"
+    },
+    {
+      "name": "Omega TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
+      "website": "https://vaughn.live/omegatelevision"
+    },
+    {
+      "name": "Onda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png"
+    },
+    {
+      "name": "Oriental TV",
+      "isFree": true,
+      "keywords": "oriental tv -21"
+    },
+    {
+      "name": "Ozono TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ozonotv.com/"
+    },
+    {
+      "name": "Panc TV Peru",
+      "isFree": true,
+      "logo": "https://i.imgur.com/u1dnEVv.png"
+    },
+    {
+      "name": "Peru Latin TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "website": "https://perulatintv.pe/"
+    },
+    {
+      "name": "Peru Magico",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-kmIbIqtnmjs/Xw_BpdXXVWI/AAAAAAAAAaA/arLzNJsk0Zkz3_0PKi2rV9GcDmUBpPsdACLcBGAsYHQ/w200-h200/Peru%2BMagico.png",
+      "website": "http://perumagico.pe/"
+    },
+    {
+      "name": "PiuraTV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Planea TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://planeatvamazonas.com/"
+    },
+    {
+      "name": "Planeta TV",
+      "isFree": true,
+      "keywords": "planeta tv -bagua -moyobamba",
+      "website": "https://moyobamba.com/planetatv/"
+    },
+    {
+      "name": "Primavera 15",
+      "isFree": true,
+      "keywords": "primavera 15 -radiotelevision",
+      "logo": "https://i.imgur.com/wsJ8Ag2.png",
+      "website": "https://www.radioprimaveratv.com.pe/"
+    },
+    {
+      "name": "Proyecta Television",
+      "isFree": true,
+      "website": "https://proyectatvhuacho.com/"
+    },
+    {
+      "name": "Pucallpa Television",
+      "isFree": true
+    },
+    {
+      "name": "Qollasuyo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "QT Television",
+      "isFree": true,
+      "website": "https://qosqotimes.pe/"
+    },
+    {
+      "name": "Quassar TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Quatro TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/fhHFGwv.png",
+      "website": "https://quatrotv.pe/"
+    },
+    {
+      "name": "Radio Corporacion TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Cumbre TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Inka TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://inkatropical.pe/"
+    },
+    {
+      "name": "Radio Las Vegas TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://lasvegasperu.pe/"
+    },
+    {
+      "name": "Radio Libertad Arequipa",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiolibertadarequipa.com/"
+    },
+    {
+      "name": "Radio Milenia",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.radiomileniaperu.com/mileniatv/"
+    },
+    {
+      "name": "Radio TV Binacional",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.radiotvbinacional.com/"
+    },
+    {
+      "name": "Radio Uno TV Ayabaca",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiounotvayabaca.com/"
+    },
+    {
+      "name": "Real Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg"
+    },
+    {
+      "name": "Region TV Callao",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://regionteve.com/"
+    },
+    {
+      "name": "Riberena TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BOXIRBT.png",
+      "website": "https://riberenaperu.com/"
+    },
+    {
+      "name": "Riku TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://rikutv.lat/"
+    },
+    {
+      "name": "Riqsiy Peru TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "website": "https://riqsiyperu.pe/"
+    },
+    {
+      "name": "RN Television",
+      "isFree": true,
+      "logo": "http://i.imgur.com/Or3Q4WA.png",
+      "website": "https://radionoticiastv.com/"
+    },
+    {
+      "name": "RTP",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "RTV Chota",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV El Diario",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://diariodelcusco.pe/"
+    },
+    {
+      "name": "RW Television Tarapoto",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/13e82383264abddcd6dd6f993a40f789.png",
+      "website": "https://rwtelevision.com/"
+    },
+    {
+      "name": "SelvaMia TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SelvaTV",
+      "isFree": true,
+      "website": "https://www.selvatv.pe/senal-en-vivo/",
+      "priority": 9
+    },
+    {
+      "name": "Senal Peru TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png",
+      "website": "https://xn--sealperutv-u9a.pe/"
+    },
+    {
+      "name": "Sin TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+      "website": "https://sintvperu.com/"
+    },
+    {
+      "name": "Siscom TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://siscomtv.com/"
+    },
+    {
+      "name": "Solar Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg",
+      "website": "http://www.corporacionsolar.com/"
+    },
+    {
+      "name": "Solnet TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://solnetv.com/"
+    },
+    {
+      "name": "SolTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "website": "https://soltvperu.com/"
+    },
+    {
+      "name": "Somos Television",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "website": "http://www.somostvchimbote.com/"
+    },
+    {
+      "name": "Studio Pasco TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg"
+    },
+    {
+      "name": "Sullana TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sullanatv.com/"
+    },
+    {
+      "name": "Super TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pzxUE0O.png"
+    },
+    {
+      "name": "Sur Peru",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obEV37TU1Q7BcYRtvLZmCklwv2D.jpg",
+      "website": "http://plus.surperu.tv/"
+    },
+    {
+      "name": "Teleamazonas",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/EQUADOR/Teleamazonas.png",
+      "website": "https://teleamazonas.pe/tv-en-vivo/"
+    },
+    {
+      "name": "Telecanal",
+      "isFree": true,
+      "website": "https://telecanalperu.com/tv-en-vivo/"
+    },
+    {
+      "name": "TeleCentro",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://www.telecentroperu.com/"
+    },
+    {
+      "name": "Telecolor Yurimaguas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ug6XNIU.png",
+      "website": "https://telecolortv.pe/"
+    },
+    {
+      "name": "Telelima",
+      "isFree": true,
+      "website": "https://www.telelima.pe/"
+    },
+    {
+      "name": "Teleoriente Internacional",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TELEMICRO-INTERNACIONA.png"
+    },
+    {
+      "name": "TelePeru",
+      "isFree": true,
+      "website": "https://teleperutv.pe/"
+    },
+    {
+      "name": "Teleselva",
+      "isFree": true,
+      "website": "https://radionoticiasatipo.com/tv-en-vivo/"
+    },
+    {
+      "name": "TeleStar Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Telesur Camana",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bbhgIN4.png",
+      "website": "https://www.telesur.com.pe/telesur/streaming"
+    },
+    {
+      "name": "Telesur Ilo",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png",
+      "website": "https://www.telesur.com.pe/telesur/streaming"
+    },
+    {
+      "name": "Telesur Mollendo",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png",
+      "website": "https://www.telesur.com.pe/telesur/streaming"
+    },
+    {
+      "name": "Telesur Moquegua",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png",
+      "website": "https://www.telesur.com.pe/telesur/streaming"
+    },
+    {
+      "name": "Telesur Tacna",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png",
+      "website": "https://www.telesur.com.pe/telesur/streaming"
+    },
+    {
+      "name": "Telesystem TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tele Vida",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "http://televidatv.com/"
+    },
+    {
+      "name": "Television Tarapoto",
+      "isFree": true,
+      "website": "https://www.televisiontarapoto.pe/"
+    },
+    {
+      "name": "Tevesur",
+      "isFree": true
+    },
+    {
+      "name": "Top TV",
+      "isFree": true,
+      "website": "https://www.toptvaguaytia.com/"
+    },
+    {
+      "name": "TPTO Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.onentertainmentgroup.com/"
+    },
+    {
+      "name": "Trivu",
+      "isFree": true,
+      "website": "https://www.trivutv.com/"
+    },
+    {
+      "name": "TV5",
+      "isFree": true,
+      "keywords": "tv5 -soritor",
+      "website": "https://tv5soritor.com/"
+    },
+    {
+      "name": "TV Bella Asuncion",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvbellaasuncion.com/"
+    },
+    {
+      "name": "TV Cosmos 15.2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcosmos.pe"
+    },
+    {
+      "name": "TVFaces Peru",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "website": "https://tvfacesperu.com/"
+    },
+    {
+      "name": "TV Kaliente",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiokalientequiquijana.blogspot.com/"
+    },
+    {
+      "name": "TV MAR",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "TV MAX",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "TV Mundo Arequipa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvmundo.pe/"
+    },
+    {
+      "name": "TV Norte Chiclayo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVO Piura",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/tvo.png",
+      "website": "https://tvopiura.com/"
+    },
+    {
+      "name": "TV Peru",
+      "isFree": true,
+      "keywords": "tv peru -internacional -noticias",
+      "website": "https://www.tvperu.gob.pe/"
+    },
+    {
+      "name": "TV Peru Internacional",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvperu.gob.pe/internacional"
+    },
+    {
+      "name": "TV+ Chincha",
+      "isFree": true
+    },
+    {
+      "name": "TV Sensacion",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvsensacionperu.com/"
+    },
+    {
+      "name": "TV Sur Juliaca",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvsur.pe/"
+    },
+    {
+      "name": "Ucayalina de Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "https://radiusac.com.pe/"
+    },
+    {
+      "name": "Unicentro TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UPAO Television",
+      "isFree": true,
+      "website": "https://upao.edu.pe/diferenciacion/vive-upao-tv/"
+    },
+    {
+      "name": "Via Altomayo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aJ4XExn.png",
+      "website": "https://www.viaaltomayotv.com/"
+    },
+    {
+      "name": "Via Television",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/VIA.png",
+      "website": "https://viatelevision.pe/"
+    },
+    {
+      "name": "Vigil TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Vision Sur",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://visionsurtv.pe/"
+    },
+    {
+      "name": "VivaTV",
+      "isFree": true,
+      "website": "https://www.vivatv.com.pe/",
+      "priority": 9
+    },
+    {
+      "name": "Viva TV Yurimaguas",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
+      "website": "https://www.vivatvonline.com/"
+    },
+    {
+      "name": "VR Canal 21 Nasca",
+      "isFree": true
+    },
+    {
+      "name": "VZ TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://vzproducciones.online/"
+    },
+    {
+      "name": "Wayra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.wayra.com/"
+    },
+    {
+      "name": "Willax TV",
+      "isFree": true,
+      "website": "https://willax.pe/"
+    },
+    {
+      "name": "X TV Chachapoyas",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+      "website": "https://xtv.pe/"
+    },
+    {
+      "name": "Yumi Television",
+      "isFree": true
+    },
+    {
+      "name": "Yurimaguas TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ug6XNIU.png"
+    },
+    {
+      "name": "Yurivision",
+      "isFree": true
+    },
+    {
+      "name": "Zeleve TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zelevesuperradio.com.pe/"
+    },
+    {
+      "name": "Canal IPe",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png",
+      "website": "https://www.canalipe.tv/"
+    },
+    {
+      "name": "ONDA DIGITAL",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://www.OndaDigital.pe"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Best Cable Music",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Best Cable Más Cumbia",
+      "isFree": true,
+      "shortName": "BCMC",
+      "priority": 4
+    },
+    {
+      "name": "CVM TV Digital",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CVM.png"
+    },
+    {
+      "name": "Cable Netword Belleza Andina TV",
+      "isFree": true,
+      "shortName": "CNBAT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Cable Netword Cumbia TV",
+      "isFree": true,
+      "shortName": "CNCT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Galáctica TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg"
+    },
+    {
+      "name": "Hatun TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Karibeña",
+      "isFree": true
+    },
+    {
+      "name": "Metropolitana del Cuzco",
+      "isFree": true,
+      "shortName": "MDC",
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "RumbaMix TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SanjuaneraTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QB3tz0d.png",
+      "priority": 9
+    },
+    {
+      "name": "Stereo TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/88 STEREO.png"
+    },
+    {
+      "name": "TV Peruanísima",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Top Latino TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VRl8nPZ.png"
+    },
+    {
+      "name": "Visión TV Musica",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Alto Nivel Radio",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
+      "website": "https://altonivelperuradio.com/about/"
+    },
+    {
+      "name": "Andina RTV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/ESPN_logo.png",
+      "website": "https://andinartv.com/"
+    },
+    {
+      "name": "Angienet TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://espectaculosenlinea.blogspot.com/"
+    },
+    {
+      "name": "ATL Television",
+      "isFree": true
+    },
+    {
+      "name": "Belleza Andina",
+      "isFree": true,
+      "logo": "https://static.wikia.nocookie.net/drama/images/4/42/412px-Babyfaced_Beauty-p2.jpg/revision/latest?cb=20111204180657&path-prefix=es",
+      "website": "http://www.cablenetword.com/canal2.html"
+    },
+    {
+      "name": "Best Cable Mas Cumbia",
+      "isFree": true,
+      "website": "https://bestcableperu.com.pe/tv98.html",
+      "priority": 4
+    },
+    {
+      "name": "Cumbia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jL1kLyS.png",
+      "website": "http://www.cablenetword.com/canal1.html"
+    },
+    {
+      "name": "CVM TV",
+      "isFree": true,
+      "keywords": "cvm tv -digital",
+      "logo": "https://i.imgur.com/14wfq26.png",
+      "website": "https://sanchezproducciones.com/"
+    },
+    {
+      "name": "Estelar TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ESTELAR.png",
+      "website": "https://estelartvtarapoto.com/"
+    },
+    {
+      "name": "Folklore TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.folkloretv.pe/"
+    },
+    {
+      "name": "Galactica TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg",
+      "website": "http://www.galacticatv.com/"
+    },
+    {
+      "name": "GHAM-TV",
+      "isFree": true
+    },
+    {
+      "name": "Innova FM TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://www.innovafm.com/"
+    },
+    {
+      "name": "Karibena",
+      "isFree": true,
+      "website": "https://lakaribena.com.pe/tv/vivo"
+    },
+    {
+      "name": "La Fabulosa TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://lafabulosa.pe/"
+    },
+    {
+      "name": "La Riberena",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BOXIRBT.png",
+      "website": "http://www.riberenapucallpa.com/"
+    },
+    {
+      "name": "Miel TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dPSFrCs.png",
+      "website": "https://elgrupofiesta.pe/"
+    },
+    {
+      "name": "Nortena Mix Radio TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.nortenamixradiotv.com/"
+    },
+    {
+      "name": "Radio El Pueblo",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioelpueblo.com/el-pueblo-tv/"
+    },
+    {
+      "name": "Radio Master",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiomaster.pe/"
+    },
+    {
+      "name": "Radio Onda Digital",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Lid5RTv.png",
+      "website": "https://radioondadigital.com/cabinaenvivo/"
+    },
+    {
+      "name": "Radio Rumba TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiorumbaperu.com/"
+    },
+    {
+      "name": "Radio Stereo TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiostereotv.com/"
+    },
+    {
+      "name": "Radio Tropical",
+      "isFree": true,
+      "keywords": "radio tropical -tarapoto",
+      "logo": "https://i.imgur.com/TBPVOBI.png",
+      "website": "https://radiotropical.pe/"
+    },
+    {
+      "name": "Radio TV Puro Sur",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://en-vivo.purosurfm.com/Inicio.html"
+    },
+    {
+      "name": "Radio TV Tendencias",
+      "isFree": true,
+      "website": "https://www.radiotvtendencias.com/tv-tendencias/"
+    },
+    {
+      "name": "Taky Peru TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg"
+    },
+    {
+      "name": "TV Peruanisima",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvperuanisima.com/"
+    },
+    {
+      "name": "TVUNO",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dht94P4.png",
+      "website": "https://wa.me/message/GKPBK7JQ55EGC1?src=qr"
+    },
+    {
+      "name": "Vinilos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://playmax.tv/"
+    },
+    {
+      "name": "Vision TV Musica",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.cablevisionperu.pe/?page_id=2205"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Cultura 24",
+      "isFree": true,
+      "logo": "http://i.imgur.com/kai6F2R.png"
+    },
+    {
+      "name": "MINEDU IPTV 1",
+      "isFree": true,
+      "logo": "https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg"
+    },
+    {
+      "name": "MINEDU IPTV 2",
+      "isFree": true,
+      "logo": "https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg"
+    },
+    {
+      "name": "Salgalú TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "USMPTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9cmIv3q.png"
+    },
+    {
+      "name": "Cumo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cumo.pe/cumo-en-vivo/"
+    },
+    {
+      "name": "Diaspora TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/DIASPORA.png",
+      "website": "https://dtv.pe/"
+    },
+    {
+      "name": "Salgalu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.salgalu.tv/"
+    },
+    {
+      "name": "TV UNA",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvunapuno.blogspot.com/"
+    },
+    {
+      "name": "TV UNSA",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UNC TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png",
+      "website": "https://www.unc.edu.pe/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "TelSatel Cine TV",
+      "isFree": false,
+      "logo": "https://go4.pw/EUROPE/becine.png"
+    },
+    {
+      "name": "Cine Club TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://tecsatelperu.com/"
+    },
+    {
+      "name": "Latina Clasicos",
+      "isFree": true,
+      "website": "https://www.latina.pe/",
+      "priority": 9
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Innova FM",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 4
+    },
+    {
+      "name": "Millenium 109 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sfNL6Bv.png",
+      "priority": 4
+    },
+    {
+      "name": "PeruvianRadio TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Primavera 15 Radiotelevisión",
+      "isFree": true,
+      "shortName": "P1R",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woXy9axVdkVxQd1vJhauRcoAAOE.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Radio Calor",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Chalaca",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Digital 94.1 TV",
+      "isFree": true,
+      "shortName": "RD9T",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Libertad",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Pachatusan",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio San Borja TV",
+      "isFree": true,
+      "shortName": "RSBT",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Sistema",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio TV Charles",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio TV Juanjui",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Tropical Tarapoto",
+      "isFree": true,
+      "shortName": "RTT",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Uno",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Victoria 780 AM",
+      "isFree": true,
+      "shortName": "RV7A",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Xtrema",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio y Tv Filadelfia",
+      "isFree": true,
+      "shortName": "RYTF",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "RadioInka",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "RadioTV Oriente",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Top FM TV",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "priority": 4
+    },
+    {
+      "name": "Turbo Mix Radio TV",
+      "isFree": true,
+      "shortName": "TMRT",
+      "priority": 4
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Canal J",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canalj.pe/"
+    }
+  ]
+}

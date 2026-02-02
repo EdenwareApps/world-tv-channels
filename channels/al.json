@@ -1,0 +1,1867 @@
+{
+  "Music Videos": [
+    {
+      "name": "Supersonic TV",
+      "isFree": true,
+      "keywords": "super sonic tv | supersonic tv",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "AlbKanale Music TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JdKxscs.png",
+      "website": "https://albportal.net/"
+    },
+    {
+      "name": "City TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png",
+      "website": "https://cityradio.al/"
+    },
+    {
+      "name": "Click",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg"
+    },
+    {
+      "name": "Club TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+    },
+    {
+      "name": "Folklorit TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wayxz5S.jpg",
+      "website": "https://cityradio.al/"
+    },
+    {
+      "name": "Folk Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/BULGARIA/FEN TV.png"
+    },
+    {
+      "name": "Klan Music",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/20b2920441add568cc00c7b3494f14d8.png",
+      "website": "https://tvklan.al/kategoria/programe/musical-musiklan/"
+    },
+    {
+      "name": "Melody TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
+      "website": "https://melodytv.al/"
+    },
+    {
+      "name": "My Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+      "website": "https://digitalb.al/"
+    },
+    {
+      "name": "Siti Shqip TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/12.png",
+      "website": "https://cityradio.al/"
+    },
+    {
+      "name": "STV Folk",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/stvv.png",
+      "website": "https://www.super-sonic.tv/"
+    },
+    {
+      "name": "TV Blue Sky Music",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "RTSH",
+      "isFree": null,
+      "keywords": "rtsh -1 -2 -24 -3 -agro -femije -femije -film -gjirokastra -korca -korca -kukesi -kukesi -kuvend -muzike -plus -satelit -shkolle -shkolle -shqip -sport"
+    },
+    {
+      "name": "Agon Channel",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "TVA (Albania)",
+      "isFree": null
+    },
+    {
+      "name": "Albanian Screen",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAvoGpTILfXJMngNH4pNbW33vOL.jpg"
+    },
+    {
+      "name": "Klan Kosova",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/KLAN.png"
+    },
+    {
+      "name": "Klan Macedonia",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/5e3e520a1f78a40fd35065b2b514d081.png"
+    },
+    {
+      "name": "IN TV (Albania)",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/1104724.png"
+    },
+    {
+      "name": "BBF TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/BBF_MUSIC.png"
+    },
+    {
+      "name": "Nesër TV",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/929dc136697426377ffc65ae01619818.png"
+    },
+    {
+      "name": "Shijak Tv",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Euronews",
+      "isFree": null,
+      "keywords": "euronews -albania -group",
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "priority": 10
+    },
+    {
+      "name": "CNN International",
+      "isFree": null,
+      "logo": "https://i.imgur.com/05S3yYZ.png",
+      "priority": 10
+    },
+    {
+      "name": "TV Kombi",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Antena Nord TV",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Tv Kopliku",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Blue Sky",
+      "isFree": null,
+      "keywords": "tv blue sky -music",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Shipja Master Tv",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afkyHDaMblwX2F1zJzMrTnPsDUH.jpg"
+    },
+    {
+      "name": "Jug Tv",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tv Apollon",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Real RTV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg"
+    },
+    {
+      "name": "Super Sonic TV (Albania)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "Super Folk",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "Star Plus HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Tema TV",
+      "isFree": null
+    },
+    {
+      "name": "Folk+",
+      "isFree": null
+    },
+    {
+      "name": "TV 6+1 Vlora",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tv Lezha",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tv Kontakt",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Zjarr Tv",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/0156b0da3d140a78ee6e451088a67182.png"
+    },
+    {
+      "name": "Alb'swissTV",
+      "isFree": null
+    },
+    {
+      "name": "Best Channel",
+      "isFree": null
+    },
+    {
+      "name": "TV Klaudiana",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Stinët",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/stinetfilma.png"
+    },
+    {
+      "name": "DigitAlb 20 vjet HD",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Gold HD",
+      "isFree": null
+    },
+    {
+      "name": "Max HD",
+      "isFree": null
+    },
+    {
+      "name": "Eurofilm",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/EUROFILM223.png"
+    },
+    {
+      "name": "Film Autor HD",
+      "isFree": null
+    },
+    {
+      "name": "Film Hits HD",
+      "isFree": null
+    },
+    {
+      "name": "Film Dramë",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+    },
+    {
+      "name": "Film Aksion HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+    },
+    {
+      "name": "Film Komedi HD",
+      "isFree": null
+    },
+    {
+      "name": "Tring (Albanian TV Platform)",
+      "isFree": null,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "HBO",
+      "isFree": null,
+      "logo": "https://imgur.com/IKjcTJH.png",
+      "priority": 10
+    },
+    {
+      "name": "HBO3",
+      "isFree": null
+    },
+    {
+      "name": "Star Channel (international)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Star Life (international)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Star Crime",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "AMC (European TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "National Geographic Channel",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Nat Geo Wild",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "Travel Channel",
+      "isFree": null
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": null,
+      "logo": "http://epg.one/img2/325.png",
+      "priority": 10
+    },
+    {
+      "name": "Investigation Discovery",
+      "isFree": null,
+      "logo": "http://epg.one/img2/2507.png"
+    },
+    {
+      "name": "TLC (TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "Animal Planet",
+      "isFree": null,
+      "logo": "http://epg.one/img2/365.png"
+    },
+    {
+      "name": "Outdoor Channel",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061422478101_60.jpg"
+    },
+    {
+      "name": "History (U.S. TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png"
+    },
+    {
+      "name": "Bang Bang (TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg"
+    },
+    {
+      "name": "Disney Channel (European, Middle Eastern and African TV channel)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney XD (Europe)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": null
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": null
+    },
+    {
+      "name": "Cartoon Network (CEE)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+    },
+    {
+      "name": "Cartoonito",
+      "isFree": null
+    },
+    {
+      "name": "Baby TV",
+      "isFree": null
+    },
+    {
+      "name": "Duck TV",
+      "isFree": null
+    },
+    {
+      "name": "SuperSport (Albanian TV channels)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/su1su2.png"
+    },
+    {
+      "name": "Tring Sport",
+      "isFree": null,
+      "keywords": "tring sport -1 -2 -3 -4 -5 -news",
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Eurosport HD",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Eurosport 2 HD",
+      "isFree": null,
+      "logo": "http://epg.one/img2/4313.png"
+    },
+    {
+      "name": "Motors TV",
+      "isFree": null
+    },
+    {
+      "name": "MTV Europe",
+      "isFree": null,
+      "logo": "https://tvtm.one/images/chIcons/30.png",
+      "priority": 8
+    },
+    {
+      "name": "MTV Hits (Europe)",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV Dance",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV 90s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV Live HD",
+      "isFree": null,
+      "logo": "https://i.imgur.com/St5DhAU.png",
+      "priority": 8
+    },
+    {
+      "name": "MTV 00s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV 80s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "My Music (television)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg"
+    },
+    {
+      "name": "Tirana TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/TIRANA.png"
+    },
+    {
+      "name": "Club FM, Tirana",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+    },
+    {
+      "name": "ABC News (Albania)",
+      "isFree": null,
+      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
+      "priority": 9
+    },
+    {
+      "name": "RTV Ora News",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "News 24 (Albania)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Syri Televizion",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/ALBANIA/Syri-TV.png"
+    },
+    {
+      "name": "Euronews Group",
+      "isFree": null,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "priority": 9
+    },
+    {
+      "name": "Fashion TV",
+      "isFree": null
+    },
+    {
+      "name": "Luxe.tv",
+      "isFree": null
+    },
+    {
+      "name": "Planet TV (Defunct Albanian TV channel)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "E!",
+      "isFree": null
+    },
+    {
+      "name": "Food Network",
+      "isFree": null
+    },
+    {
+      "name": "24Kitchen",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"
+    },
+    {
+      "name": "Lists of television channels",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg"
+    },
+    {
+      "name": "+1Sport",
+      "isFree": null
+    },
+    {
+      "name": "+2DOK",
+      "isFree": null
+    },
+    {
+      "name": "+3Premiere",
+      "isFree": null
+    },
+    {
+      "name": "+4Family",
+      "isFree": null
+    },
+    {
+      "name": "+5Shqip",
+      "isFree": null
+    },
+    {
+      "name": "+6Toon",
+      "isFree": null
+    },
+    {
+      "name": "+7Music",
+      "isFree": null
+    },
+    {
+      "name": "Channel One (Albania)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "UTV News",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/UTV.png"
+    },
+    {
+      "name": "Kukës TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Kino Premiere 1 HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Premiere 2 HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Premiere 3 HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Premiere 4 HD",
+      "isFree": null
+    },
+    {
+      "name": "Kino Premiere 5 HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Comedy HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Sci Fi HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Thriller HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Family HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Action HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino One HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Romance HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Dark HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Arkiva HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Kino Drama HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+    },
+    {
+      "name": "Sky Hits",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Max",
+      "isFree": null
+    },
+    {
+      "name": "Sky Aksion",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Drama",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Komedi",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Family",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Shqip",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Novela",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "ALB Film",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Humor",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "Explorer Shkencë",
+      "isFree": null
+    },
+    {
+      "name": "Sky Shkencë",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Planet",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Histori",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "ALB Kids",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "TeleSport",
+      "isFree": null
+    },
+    {
+      "name": "MusicAL",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg"
+    },
+    {
+      "name": "ALB Music HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Hits HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Koncert HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Folk HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Çifteli HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "ALB Hip Hop HD",
+      "isFree": null,
+      "logo": "https://go4.pw/champ/champions.png"
+    },
+    {
+      "name": "Globe Music",
+      "isFree": null,
+      "logo": "https://go4.pw/ALBANIA/GLOBE_TV.png"
+    },
+    {
+      "name": "Real TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/e2KFL0R.png"
+    },
+    {
+      "name": "3+ HD",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/skyns.png"
+    },
+    {
+      "name": "CNA TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SINGAPORE/CNA.png"
+    },
+    {
+      "name": "Egnatia TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/zuyYIca.png"
+    },
+    {
+      "name": "Shop TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg"
+    },
+    {
+      "name": "BCTV",
+      "isFree": null
+    },
+    {
+      "name": "Super Sonic TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://www.super-sonic.tv/"
+    }
+  ],
+  "News": [
+    {
+      "name": "ABC News",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png",
+      "priority": 9
+    },
+    {
+      "name": "Euronews Albania",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/RhN0ZGph/euronewsalbania.png",
+      "priority": 9
+    },
+    {
+      "name": "Fax News",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/24c2a1de7dd75996e244c7c1b50a83d5.png"
+    },
+    {
+      "name": "News 24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/88eb2399dfb95514af981ee169e8e747.png"
+    },
+    {
+      "name": "News24 AL",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dak9AtV.png"
+    },
+    {
+      "name": "Ora News",
+      "isFree": true,
+      "keywords": "ora news | oranews",
+      "shortName": "Oranews",
+      "logo": "https://images.iptvmate.net/tvglogo/55e9ba5ea9d6752ef3232174a22cde8f.png"
+    },
+    {
+      "name": "Q Sport News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+    },
+    {
+      "name": "A2 CNN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/A2.png",
+      "website": "https://a2news.com/"
+    },
+    {
+      "name": "AdriaNet TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://adrianet.al/"
+    },
+    {
+      "name": "CNA",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png",
+      "website": "https://www.cna.al/"
+    },
+    {
+      "name": "Info24",
+      "isFree": true,
+      "website": "https://info24.al/"
+    },
+    {
+      "name": "Klan News",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ac896ad6a87b9b140d58f590f82424d4.png",
+      "website": "https://tvklan.al/kategoria/klan-news/"
+    },
+    {
+      "name": "ntv",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SoBhuIb.png",
+      "website": "https://ntv.al/"
+    },
+    {
+      "name": "Panorama TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/PANORAMA DRAMA 123.png",
+      "website": "https://www.panorama.com.al/panoramatv/"
+    },
+    {
+      "name": "Scan TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0184103eafd676b85f0beada23d63af8.png",
+      "website": "http://www.scan-tv.com/"
+    },
+    {
+      "name": "Star Plus",
+      "isFree": true,
+      "website": "https://www.starplus-tv.com/"
+    },
+    {
+      "name": "Top News",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://top-channel.tv/"
+    },
+    {
+      "name": "TV Bulqiza",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.btvnews.al/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Bang Bang",
+      "isFree": true
+    },
+    {
+      "name": "Çufo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GbBHtwD.png"
+    },
+    {
+      "name": "Bubble TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+      "website": "https://www.tring.al/familjare/televizion/permbajtja/femije/"
+    },
+    {
+      "name": "Cufo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GbBHtwD.png",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Junior TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "RTSH Femije",
+      "isFree": true,
+      "website": "https://tv.rtsh.al/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Peace TV Albanian",
+      "isFree": true,
+      "shortName": "PTA",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "21 Mix",
+      "isFree": true
+    },
+    {
+      "name": "21 Plus",
+      "isFree": true
+    },
+    {
+      "name": "21 Popullore",
+      "isFree": true
+    },
+    {
+      "name": "21 RTV",
+      "isFree": true
+    },
+    {
+      "name": "21 TV Macedonia",
+      "isFree": true
+    },
+    {
+      "name": "A TV",
+      "isFree": true
+    },
+    {
+      "name": "ALPO",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Pr4ixiA.png"
+    },
+    {
+      "name": "ARTA",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ALBANIA/Arta.png"
+    },
+    {
+      "name": "ATD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5af8453fe695c4ab9d0612825ba7d4e0.png"
+    },
+    {
+      "name": "Adria TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/MTV_ADRIA.png"
+    },
+    {
+      "name": "AlbMusik",
+      "isFree": true
+    },
+    {
+      "name": "AlbUK TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TMg4Kxi.png"
+    },
+    {
+      "name": "Albania Folk",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Albanian TV America",
+      "isFree": true,
+      "shortName": "ATA",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAvoGpTILfXJMngNH4pNbW33vOL.jpg"
+    },
+    {
+      "name": "Alsat",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/512px-Logo_of_Alsat_TV_%282020-%29.svg.png"
+    },
+    {
+      "name": "BBF Music TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2f495f3ff1d1e580e706e707ffedc973.png"
+    },
+    {
+      "name": "BabyTV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/BABYTV-1.png"
+    },
+    {
+      "name": "Digitalb",
+      "isFree": true,
+      "keywords": "digitalb -aktion -autor -big brother vip 1 -big brother vip 2 -drame -dy -eurofilm -family -histori -hits -komedi -natyra -nje -shkense -stinet -thriller",
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Aktion",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Autor",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Big Brother VIP 1",
+      "isFree": true,
+      "shortName": "DBBV1",
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Big Brother VIP 2",
+      "isFree": true,
+      "shortName": "DBBV2",
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb DY",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Dramë",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Eurofilm",
+      "isFree": true,
+      "shortName": "DE",
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Family",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Histori",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Hits",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Komedi",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Natyra",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Një",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Shkensë",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Stinët",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Digitalb Thriller",
+      "isFree": true,
+      "shortName": "DT",
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png"
+    },
+    {
+      "name": "Drame",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/DRAME2223.png"
+    },
+    {
+      "name": "Elrodi TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7246ae758b4d2127d7ea6d1a8f72763f.png"
+    },
+    {
+      "name": "First Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg"
+    },
+    {
+      "name": "Frame TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/873f7f807634365df7cfd9bbc23ab109.png"
+    },
+    {
+      "name": "KTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "Kanali 7",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/FILMA1111.png"
+    },
+    {
+      "name": "Klan",
+      "isFree": true,
+      "keywords": "klan -makedonia -plus",
+      "logo": "https://images.iptvmate.net/tvglogo/7b3f35dbe9da80c2206e5d60b10c54bf.png"
+    },
+    {
+      "name": "Klan Makedonia",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/KLAN.png"
+    },
+    {
+      "name": "Klan Plus",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/560e9a4eb0fd682de539da2630671335.png"
+    },
+    {
+      "name": "Komedi",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/SINEMATVKOMEDI.png"
+    },
+    {
+      "name": "Kosova",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/BIG-BRO-KOSO5.png"
+    },
+    {
+      "name": "MPT 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/MPT.png"
+    },
+    {
+      "name": "Max",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313151936372579_37.png"
+    },
+    {
+      "name": "Muse",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfvGnE8pqUrZ1rvUA5wWjDOGWMY.jpg"
+    },
+    {
+      "name": "Novela",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NOVELA MAGIC.png"
+    },
+    {
+      "name": "Opoja",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ALBANIA/opoja%20tv.png"
+    },
+    {
+      "name": "Peace TV",
+      "isFree": true,
+      "keywords": "peace tv -albanian",
+      "logo": "https://epg.pw/media/img/logo/Peace_TV.png"
+    },
+    {
+      "name": "Pendimi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTV_PENDIMI.png"
+    },
+    {
+      "name": "RTK 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/g6k6xyO.png"
+    },
+    {
+      "name": "RTK 3",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/8CzGVGkG/rtk3.png"
+    },
+    {
+      "name": "RTK 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Urm4XDR.png"
+    },
+    {
+      "name": "RTSH 1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ad5a32ef25675963d0c2927a9bd4392f.png"
+    },
+    {
+      "name": "RTSH 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6005a6733f43f22e20dc73c2cdefde8a.png"
+    },
+    {
+      "name": "RTSH 24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/073eb4ddc6d6f85093b433bfe1b90cd4.png"
+    },
+    {
+      "name": "RTSH 3",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/fb967454c03dd3e1d8106502e5ca7b61.png"
+    },
+    {
+      "name": "RTSH Agro",
+      "isFree": true
+    },
+    {
+      "name": "RTSH Femijë",
+      "isFree": true
+    },
+    {
+      "name": "RTSH Film",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7f2a32c3ed6a5ecd823124d0e9d14222.png"
+    },
+    {
+      "name": "RTSH Gjirokastra",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6dcf38bbbee2aee7b5633ac13a811313.png"
+    },
+    {
+      "name": "RTSH Korça",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e0095412826492261b7bfc9b44fac34f.png"
+    },
+    {
+      "name": "RTSH Kukësi",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2b6202e2c2531a2445f752a0bd51ab48.png"
+    },
+    {
+      "name": "RTSH Kuvend",
+      "isFree": true
+    },
+    {
+      "name": "RTSH Muzike",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3532a09547cced78cfffd008204f0910.png"
+    },
+    {
+      "name": "RTSH Plus",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f654a4d6c0c74792a0cf30ebab3bd022.png"
+    },
+    {
+      "name": "RTSH Satelit",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTSH1.png"
+    },
+    {
+      "name": "RTSH Shkollë",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTSH1.png"
+    },
+    {
+      "name": "RTSH Shqip",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7abe37e469f4aa0b0dee256ab719b187.png"
+    },
+    {
+      "name": "RTSH Sport",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d70b18210aac3a2cccba42730a4f83c3.png"
+    },
+    {
+      "name": "RTV Dukagjini",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Fontana",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Ilirida",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/30058954870a8486ae6089ead2132d6f.png"
+    },
+    {
+      "name": "RTVislam",
+      "isFree": true
+    },
+    {
+      "name": "Report TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8a348e0af45e76e0aad80a1998dea14e.png"
+    },
+    {
+      "name": "Rita TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhJDDzGZitrGpW3ELmFhdCEFx9g.jpg"
+    },
+    {
+      "name": "Shenja",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/SHENJA.png"
+    },
+    {
+      "name": "Sofia",
+      "isFree": true
+    },
+    {
+      "name": "Star",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Hp0stVQ.png"
+    },
+    {
+      "name": "Syri",
+      "isFree": true,
+      "keywords": "syri -tv",
+      "logo": "https://i.imgur.com/4zVyj1M.png"
+    },
+    {
+      "name": "Syri TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9c119c6a183a203aeb6da7197d25c4b5.png"
+    },
+    {
+      "name": "TV 7 Albania",
+      "isFree": true,
+      "logo": "https://i.imgur.com/k9WqPLZ.png"
+    },
+    {
+      "name": "TV Apollon",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Dielli",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d558845b351cba8d1fe54277a6f7f698.png"
+    },
+    {
+      "name": "TV Llapi",
+      "isFree": true
+    },
+    {
+      "name": "TV Opoja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Plisi",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tip TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d36aajDtIIswB1wx4GrAESaFMoG.jpg"
+    },
+    {
+      "name": "Top Channel",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Tring 3",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Action",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Comedy",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Fantasy",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring History",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Jolly",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Life",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Planet",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Shqip",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Super",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring Tring",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Tring World",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png"
+    },
+    {
+      "name": "Turbo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg"
+    },
+    {
+      "name": "U Smile",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg"
+    },
+    {
+      "name": "V Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "Zjarr Televizion",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/zjar.png"
+    },
+    {
+      "name": "dTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UpsLEAV.png"
+    },
+    {
+      "name": "ADN HD",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/adn40.png",
+      "website": "https://adntv.org/"
+    },
+    {
+      "name": "Alpo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Pr4ixiA.png",
+      "website": "https://alpomedia.com/"
+    },
+    {
+      "name": "Aventurat TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aventurat.tv/"
+    },
+    {
+      "name": "Bizarre",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbuL9CcBAQMFgXboOV1iFOCYd4B.jpg",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Blu TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/SYRI_TV.png",
+      "website": "https://blutv.al/"
+    },
+    {
+      "name": "Bunga Bunga",
+      "isFree": null,
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Desire",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Explorer Shkence",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Flutura TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/FLUTURA.png"
+    },
+    {
+      "name": "IN TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4eNH7JS.png",
+      "website": "http://www.intv.al/"
+    },
+    {
+      "name": "Kanal D Drama",
+      "isFree": true
+    },
+    {
+      "name": "Korca Plus",
+      "isFree": true,
+      "website": "https://korcaplus1.weebly.com/"
+    },
+    {
+      "name": "MCN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/MCN.png",
+      "website": "http://www.mcntv.al/"
+    },
+    {
+      "name": "Ora TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/clWVrvE.png",
+      "website": "https://www.oranews.tv/"
+    },
+    {
+      "name": "RTSH Korca",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e0095412826492261b7bfc9b44fac34f.png",
+      "website": "https://tv.rtsh.al/"
+    },
+    {
+      "name": "RTSH Kukesi",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2b6202e2c2531a2445f752a0bd51ab48.png",
+      "website": "https://tv.rtsh.al/"
+    },
+    {
+      "name": "Shijak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tring International",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tropoja Televizion",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/TROPOJA.png",
+      "website": "https://tropoja.tv/"
+    },
+    {
+      "name": "TV1 Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/TV1.png",
+      "website": "http://tv1-channel.tv/"
+    },
+    {
+      "name": "TV Johaniter",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8fa40507f1e0dae4c768f7278fea6a3a.png",
+      "website": "https://www.tvjohaniter.com/"
+    },
+    {
+      "name": "TV Klan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvklan.al/"
+    },
+    {
+      "name": "TV Kopliku",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Rozafa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Skampa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://elbasaninews.tv/"
+    },
+    {
+      "name": "Vizion Plus",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
+      "website": "https://www.vizionplus.tv/"
+    },
+    {
+      "name": "X1",
+      "isFree": null,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Zjarr TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0156b0da3d140a78ee6e451088a67182.png",
+      "website": "https://zjarr.tv/"
+    },
+    {
+      "name": "DigitAlb Family",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "RTSH satelit",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTSH1.png",
+      "website": "https://tv.rtsh.al/"
+    },
+    {
+      "name": "T",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+      "website": "https://www.digitalb.al/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "3 Plus",
+      "isFree": true,
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "DigitAlb EuroFilm",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALBANIA/Digitalb_logo.png",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Aksion",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Autor",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Drame",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Hits",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Komedi",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Film Thriller",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Gold",
+      "isFree": true,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/681d29397c07301fe912a7bd",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Smile",
+      "isFree": true,
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Stinet",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/stinetfilma.png",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Tring Classic",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Collection",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Family",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Novelas",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Explorer Histori",
+      "isFree": true,
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Explorer Natyra",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4NaJKHXpxuva6VWkKsKD99FL3a.jpg",
+      "website": "https://www.digitalb.al/"
+    },
+    {
+      "name": "Living TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg",
+      "website": "https://living.al/living-tv"
+    },
+    {
+      "name": "RTSH Shkolle",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTSH1.png",
+      "website": "https://tv.rtsh.al/kanalet/rtsh-shkolle"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "SuperSport 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 4",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 5",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 6",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "SuperSport 7",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png",
+      "website": "https://www.supersport.al/"
+    },
+    {
+      "name": "Telesport",
+      "isFree": true,
+      "website": "https://telesport.al/"
+    },
+    {
+      "name": "Tring Sport 1",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Sport 2",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Sport 3",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Sport 4",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Sport 5",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    },
+    {
+      "name": "Tring Sport News",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/ALBANIA.png",
+      "website": "http://www.tring.al/"
+    }
+  ]
+}

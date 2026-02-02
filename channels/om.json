@@ -1,0 +1,64 @@
+{
+  "Religious": [
+    {
+      "name": "Al Istiqama TV",
+      "isFree": true,
+      "keywords": "al istiqama tv | alistiqama tv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Alistiqama TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2018/05/10/20180510220312186710_39.png",
+      "website": "http://www.istiqama.tv/"
+    },
+    {
+      "name": "Oman TV OM",
+      "isFree": true
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Oman Sports TV",
+      "isFree": false,
+      "logo": "https://go4.pw/ASIA/OMAN/OMAN.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Oman Althakafia",
+      "isFree": true
+    },
+    {
+      "name": "Oman Live",
+      "isFree": true
+    },
+    {
+      "name": "Oman TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313150229044538_15.png"
+    },
+    {
+      "name": "Majan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.majan-tv.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Oman TV Cultural",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/OMAN/OMAN.png",
+      "website": "http://part.gov.om/part/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Oman TV Mubashir",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/OMAN/OMAN.png",
+      "website": "http://part.gov.om/part/"
+    }
+  ]
+}

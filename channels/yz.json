@@ -1,0 +1,979 @@
+{
+  "Entertainment": [
+    {
+      "name": "10999-1 index.m3u8",
+      "isFree": true,
+      "shortName": "1I"
+    },
+    {
+      "name": "1Mus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PozF9MT.png"
+    },
+    {
+      "name": "30A Music",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "4 TURK BILLBOARD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/567c0bac00377d133eddb06ff4f06699.png"
+    },
+    {
+      "name": "4 TURK MUSIC",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d1ffa970310b0034ebd95c416ae1cada.png"
+    },
+    {
+      "name": "ADRIA Music",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/MTV_ADRIA.png"
+    },
+    {
+      "name": "ALB MUSIC",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/927473eedc3455c5d5044ce20921412c.png"
+    },
+    {
+      "name": "Activa TV",
+      "isFree": true
+    },
+    {
+      "name": "Alegria TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Algorhythm i love Tech House",
+      "isFree": true,
+      "shortName": "AILTH"
+    },
+    {
+      "name": "BaebleMusic",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5cb9b8597fbf6f3d9d79562c115ee6f0.png"
+    },
+    {
+      "name": "Bajo Cero TV",
+      "isFree": true
+    },
+    {
+      "name": "Baraza Music TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TZ1unwF.png"
+    },
+    {
+      "name": "Baraza TV Classic Hits",
+      "isFree": true,
+      "shortName": "BTCH",
+      "logo": "https://images.iptvmate.net/tvglogo/f37773e6ff2e7d4f19525c24e1c9f5a0.png"
+    },
+    {
+      "name": "Baraza TV Greek Music Hits",
+      "isFree": true,
+      "shortName": "BTGMH",
+      "logo": "https://images.iptvmate.net/tvglogo/f37773e6ff2e7d4f19525c24e1c9f5a0.png"
+    },
+    {
+      "name": "Beast Mode",
+      "isFree": true
+    },
+    {
+      "name": "Bedroom Beats",
+      "isFree": true
+    },
+    {
+      "name": "Best Cable Music",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Bluegrass 4U",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/56d7b0d3be9cf051810aa229d08e6a9f.png"
+    },
+    {
+      "name": "Box Hits",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/db25a9543039ba22ab9048b4000020ad.png"
+    },
+    {
+      "name": "CANNALI TV",
+      "isFree": true
+    },
+    {
+      "name": "CHOICE",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iHnv3lJHE5an1vBkNfIgiwpp9e.jpg"
+    },
+    {
+      "name": "CMC 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/CMC-1.png"
+    },
+    {
+      "name": "Caltex Music TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2df6fb8d28f21cf1af86054c6acaaab9.png"
+    },
+    {
+      "name": "Canal 38 HD",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Carolina TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "Chau TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1d43d5aa080860b97ccc0cf72c09e659.png"
+    },
+    {
+      "name": "Chill AF",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "City TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png"
+    },
+    {
+      "name": "Conecta TV HD",
+      "isFree": true
+    },
+    {
+      "name": "Cusano TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e0a17c8182433ed380ae56767474d30a.png"
+    },
+    {
+      "name": "D5 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SENEGAL/D5-TV.png"
+    },
+    {
+      "name": "DBM",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1dcd0a1c72662fb9e45953ee67d098d4.png"
+    },
+    {
+      "name": "DELUXEMUSIC",
+      "isFree": true
+    },
+    {
+      "name": "DSTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mGFVwkB.png"
+    },
+    {
+      "name": "DanceTrippin",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f13bdf1c6585420be1736b14e8a66d7c.png"
+    },
+    {
+      "name": "Deejay TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YV27Chs.png"
+    },
+    {
+      "name": "DeepHouse District",
+      "isFree": true,
+      "shortName": "DD"
+    },
+    {
+      "name": "Ditty TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/742ba50dcff293847ce88f14cab65f8b.png"
+    },
+    {
+      "name": "EBC1 Music TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5c59585614f85f962f64f6a8ea9ca178.png"
+    },
+    {
+      "name": "EDM Mainstage",
+      "isFree": true
+    },
+    {
+      "name": "EUROAL",
+      "isFree": true
+    },
+    {
+      "name": "Electro Anthems",
+      "isFree": true
+    },
+    {
+      "name": "Ems Vechte Welle",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c79971343f55ffbfe7e4a3207b583d21.png"
+    },
+    {
+      "name": "Euro Indie Music Chart",
+      "isFree": true,
+      "shortName": "EIMC"
+    },
+    {
+      "name": "FOLX Music",
+      "isFree": true
+    },
+    {
+      "name": "FOLX Slovenija",
+      "isFree": true
+    },
+    {
+      "name": "Friday Feels",
+      "isFree": true
+    },
+    {
+      "name": "GO-RTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/zAFt893.png"
+    },
+    {
+      "name": "Generations TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/35ee8c4c653d6b7905e3a39c4ee45aaf.png"
+    },
+    {
+      "name": "Gold",
+      "isFree": true,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/681d29397c07301fe912a7bd"
+    },
+    {
+      "name": "Hip Hop Bangers",
+      "isFree": true
+    },
+    {
+      "name": "Hit Music Channel",
+      "isFree": true,
+      "shortName": "HMC"
+    },
+    {
+      "name": "Hits 360 HD",
+      "isFree": true
+    },
+    {
+      "name": "Hot Rock TV",
+      "isFree": true
+    },
+    {
+      "name": "Ilirida RTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/RTV_ILIRIDA.png"
+    },
+    {
+      "name": "Karibena HD",
+      "isFree": true
+    },
+    {
+      "name": "Kayhan TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2MDjU7x.png"
+    },
+    {
+      "name": "Kerrang",
+      "isFree": true
+    },
+    {
+      "name": "Kiss",
+      "isFree": true
+    },
+    {
+      "name": "KroneHit TV",
+      "isFree": true
+    },
+    {
+      "name": "LEEEKO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "LFM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "La Mega Mundial",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UdMsgkt.png"
+    },
+    {
+      "name": "Latido Music",
+      "isFree": true,
+      "keywords": "latido music -hd"
+    },
+    {
+      "name": "Latido Music HD",
+      "isFree": true
+    },
+    {
+      "name": "Latinos 1 HD",
+      "isFree": true
+    },
+    {
+      "name": "Latinos UP",
+      "isFree": true
+    },
+    {
+      "name": "Like Yesterday",
+      "isFree": true
+    },
+    {
+      "name": "Live Music Replay",
+      "isFree": true,
+      "shortName": "LMR",
+      "logo": "https://images.iptvmate.net/tvglogo/08cdf1ed92a681f486b3b6b479c354d7.png"
+    },
+    {
+      "name": "MDR Jump",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8d83bc031984dc4557e50dcdfc0ac8fd.png"
+    },
+    {
+      "name": "MESSATIDA TV",
+      "isFree": true
+    },
+    {
+      "name": "MGR TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/E9KpMOP.png"
+    },
+    {
+      "name": "MIX 24 7",
+      "isFree": true,
+      "keywords": "mix 24 7 -- baladas -- conciertos live -- pop -- retro -- top 100 -- tropical",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Baladas",
+      "isFree": true,
+      "shortName": "M27B",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Conciertos Live",
+      "isFree": true,
+      "shortName": "M27CL",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Pop",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Retro",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Top 100",
+      "isFree": true,
+      "shortName": "M27T1",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MIX 24 7 - Tropical",
+      "isFree": true,
+      "shortName": "M27T",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MM TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c248b1fa3500bb171c1aa01746fa0e35.png"
+    },
+    {
+      "name": "MTC",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/cb57159344eec46492470a34331b0e0b.png"
+    },
+    {
+      "name": "MTV Germany",
+      "isFree": true,
+      "priority": 8
+    },
+    {
+      "name": "MTV Music 24",
+      "isFree": true,
+      "priority": 8
+    },
+    {
+      "name": "MTV Norway",
+      "isFree": true,
+      "priority": 8
+    },
+    {
+      "name": "MUSIC +",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Magic",
+      "isFree": true,
+      "keywords": "magic -tv"
+    },
+    {
+      "name": "Magic TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/n7bcrrp.png"
+    },
+    {
+      "name": "Mas Cumbia TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg"
+    },
+    {
+      "name": "Minimal Techno",
+      "isFree": true
+    },
+    {
+      "name": "Music Channel",
+      "isFree": true,
+      "logo": "http://media.boni-records.com/logo.png"
+    },
+    {
+      "name": "Muzzik AMVA 2020 Serbia",
+      "isFree": true,
+      "shortName": "MA2S",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Cafe&Club Serbia",
+      "isFree": true,
+      "shortName": "MCS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Gen Z Serbia",
+      "isFree": true,
+      "shortName": "MGZS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik HipHop Serbia",
+      "isFree": true,
+      "shortName": "MHS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Mediteraneo Serbia",
+      "isFree": true,
+      "shortName": "MMS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik OKK Serbia",
+      "isFree": true,
+      "shortName": "MOS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Rock&Roll Serbia",
+      "isFree": true,
+      "shortName": "MRS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik TV Serbia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Worldwide Serbia",
+      "isFree": true,
+      "shortName": "MWS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "NRG TV",
+      "isFree": true
+    },
+    {
+      "name": "Nancy Web TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3bac6c45385454d07f57f9c96f58e780.png",
+      "priority": 4
+    },
+    {
+      "name": "Neural Focused",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/60d9359405e49e4dd64640177550397f.png"
+    },
+    {
+      "name": "Nojoum TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bc6357a4aa9bae34ac3fddf06c43ecda.png"
+    },
+    {
+      "name": "Nostalgie Route 66",
+      "isFree": true,
+      "shortName": "NR6",
+      "logo": "https://images.iptvmate.net/tvglogo/4c3fe53c512fa8e68d23aa66e11aea18.png"
+    },
+    {
+      "name": "ONE1 Slovenija",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dLgoKJ0.png"
+    },
+    {
+      "name": "Obosso TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d3b1a6e8e8e5715ca38ba2320c165854.png"
+    },
+    {
+      "name": "Ocko TV",
+      "isFree": true
+    },
+    {
+      "name": "Oldies",
+      "isFree": true
+    },
+    {
+      "name": "Only 90s Kids will understand",
+      "isFree": true,
+      "shortName": "O9KWU"
+    },
+    {
+      "name": "Ostsee Welle",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/323d475813950f1369a47780f7847aa4.png"
+    },
+    {
+      "name": "Oxigeno TV",
+      "isFree": true
+    },
+    {
+      "name": "PANIK TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/13C3CPr.png"
+    },
+    {
+      "name": "PERSIANA BILLBOARD",
+      "isFree": true,
+      "shortName": "PB",
+      "logo": "https://images.iptvmate.net/tvglogo/05dfcf43fd36e976ba9316821c1bc7f2.png"
+    },
+    {
+      "name": "PERSIANA MUSIC",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SHxxi5I.png"
+    },
+    {
+      "name": "Pamir TV",
+      "isFree": true
+    },
+    {
+      "name": "Power TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Power Turk",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "Pure Rock",
+      "isFree": true
+    },
+    {
+      "name": "RTL 102.5 BEST",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a93abee7612936f1776a98975f249f13.png"
+    },
+    {
+      "name": "Reload Play",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg"
+    },
+    {
+      "name": "Retro Musik",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Retro Plus 2 HD",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Retro Plus HD",
+      "isFree": true
+    },
+    {
+      "name": "Rewind HD",
+      "isFree": true
+    },
+    {
+      "name": "Rock Antenne",
+      "isFree": true
+    },
+    {
+      "name": "SKY FOLK",
+      "isFree": true
+    },
+    {
+      "name": "STIRR Music",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/105150707d12a65c7198f39190362ca4.png"
+    },
+    {
+      "name": "Spirit TV",
+      "isFree": true
+    },
+    {
+      "name": "Spotlight TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/273b5a2e0e03468efa2071a1d63957f2.png"
+    },
+    {
+      "name": "TILEMOUSIKI",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/df18a06365611ebd1ba91f68ca75c5e9.png"
+    },
+    {
+      "name": "TOP GOLD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/53ec51fc5173336daf522ea9951d00c1.png"
+    },
+    {
+      "name": "TOP Latino",
+      "isFree": true
+    },
+    {
+      "name": "TVM 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3v6iZE6.png"
+    },
+    {
+      "name": "TZiK",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TAagRkn.png"
+    },
+    {
+      "name": "Techno Warehouse",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GyxXMDv.png"
+    },
+    {
+      "name": "TeleMusica HD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7d36a3d6e46edc19c1bf58e1f30061a8.png"
+    },
+    {
+      "name": "Texas-Sized Hits",
+      "isFree": true
+    },
+    {
+      "name": "That 70s Channel",
+      "isFree": true
+    },
+    {
+      "name": "That's Hot",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "The Box",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "The Retro Channel HD",
+      "isFree": true,
+      "shortName": "TRCH"
+    },
+    {
+      "name": "Thebig1510.com New Jersey",
+      "isFree": true,
+      "shortName": "TNJ",
+      "logo": "https://images.iptvmate.net/tvglogo/a49ddd25de20adbc5df7539563fccf0b.png"
+    },
+    {
+      "name": "Top Music",
+      "isFree": true
+    },
+    {
+      "name": "Unwind",
+      "isFree": true
+    },
+    {
+      "name": "V2Beat TV",
+      "isFree": true
+    },
+    {
+      "name": "Video Tour Channel HD",
+      "isFree": true,
+      "shortName": "VTCH"
+    },
+    {
+      "name": "Videorola HD",
+      "isFree": true
+    },
+    {
+      "name": "Wham TV",
+      "isFree": true
+    },
+    {
+      "name": "XITE",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3bc59eae85ab6256779ca95ab4506ac9.png"
+    },
+    {
+      "name": "XTV Music HD",
+      "isFree": true
+    },
+    {
+      "name": "Xalastra TV",
+      "isFree": true
+    },
+    {
+      "name": "Xtra TV HD",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRALIA/Bein Sports Xtra.png"
+    },
+    {
+      "name": "Yacht Rock",
+      "isFree": true
+    },
+    {
+      "name": "ZOUGLA TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6524af6730464c73f1d595db377a3cdc.png"
+    },
+    {
+      "name": "ZWEI2 Music",
+      "isFree": true
+    }
+  ],
+  "Radios": [
+    {
+      "name": "105'5 Spreeradio",
+      "isFree": true,
+      "keywords": "105'5 spreeradio -80er",
+      "logo": "https://images.iptvmate.net/tvglogo/6e743f57d777673f9ccbdb8090c487f9.png",
+      "priority": 4
+    },
+    {
+      "name": "105'5 Spreeradio 80er",
+      "isFree": true,
+      "shortName": "1S8",
+      "logo": "https://images.iptvmate.net/tvglogo/d36daaadb35c449982e78d505ad6f434.png",
+      "priority": 4
+    },
+    {
+      "name": "60´s - Beatles Radio",
+      "isFree": true,
+      "shortName": "6BR",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "60´s - Harmony Radio",
+      "isFree": true,
+      "shortName": "6HR",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5ge6Cr8lnElNIYU7fn2WoMg7SD.jpg",
+      "priority": 4
+    },
+    {
+      "name": "60´s - KTL Oldieradio",
+      "isFree": true,
+      "shortName": "6KO",
+      "priority": 4
+    },
+    {
+      "name": "80's Loop",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcXdKnmzcZGrrgI9B2oQ3hysBAy.jpg",
+      "priority": 4
+    },
+    {
+      "name": "80s Party",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "90's Loop",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcXdKnmzcZGrrgI9B2oQ3hysBAy.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Fun Radio 92.7 Alabama",
+      "isFree": true,
+      "shortName": "FR9A",
+      "logo": "https://images.iptvmate.net/tvglogo/6f2b4763591ac58f348edd4f1e49b392.png",
+      "priority": 4
+    },
+    {
+      "name": "La Cuenca Radio",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 4
+    },
+    {
+      "name": "MDR Radio Sachsen Bautzen",
+      "isFree": true,
+      "shortName": "MRSB",
+      "logo": "https://images.iptvmate.net/tvglogo/14c74e70c6cb1015a3ccddb3599dc552.png",
+      "priority": 4
+    },
+    {
+      "name": "MY RADIO TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d623cb78783a70ac4e5fd944a256df71.png",
+      "priority": 4
+    },
+    {
+      "name": "Maxima FM TV HD",
+      "isFree": true,
+      "logo": "https://go4.pw/NEDERLAND/VIDEOLAND.png",
+      "priority": 4
+    },
+    {
+      "name": "NG RADIO",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NIGERIA.png",
+      "priority": 4
+    },
+    {
+      "name": "Otto FM TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Power Hit Radio",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "RADIO FRECCIA HD",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio 51 Lombardia",
+      "isFree": true,
+      "shortName": "R5L",
+      "priority": 4
+    },
+    {
+      "name": "Radio BOB",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/800b370c5db71e5ebfb2c6ceaa97af90.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Contact",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radio Italia TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radio Javan",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1ae4ff74382963bee335f31b979b1a26.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Number One TV",
+      "isFree": true,
+      "shortName": "RNOT",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Ostrock",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/380192550c1524c77c268e4bed805a96.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Pilatus",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Schlager Paradies",
+      "isFree": true,
+      "shortName": "RSP",
+      "logo": "https://images.iptvmate.net/tvglogo/a44ece5d7be4aad194702b739b5586f2.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Taormina Sicilia",
+      "isFree": true,
+      "shortName": "RTS",
+      "priority": 4
+    },
+    {
+      "name": "Radio m20 Lazio",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radionorba TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radiou TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a0bac09736920449c1b77d095a057306.png",
+      "priority": 4
+    },
+    {
+      "name": "Sonus FM TV",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "VEVO 2K",
+      "isFree": true,
+      "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg"
+    },
+    {
+      "name": "VEVO 80's",
+      "isFree": true
+    },
+    {
+      "name": "VEVO 90's",
+      "isFree": true
+    },
+    {
+      "name": "VEVO Country",
+      "isFree": true,
+      "logo": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg"
+    },
+    {
+      "name": "VEVO R&B",
+      "isFree": true,
+      "logo": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg"
+    },
+    {
+      "name": "VEVO Reggeaton & Trap",
+      "isFree": true,
+      "shortName": "VRT"
+    },
+    {
+      "name": "Vevo Pop",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dZHktKR.png"
+    }
+  ]
+}

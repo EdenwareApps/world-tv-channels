@@ -1,0 +1,386 @@
+{
+  "Entertainment": [
+    {
+      "name": "NTV Afrique",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png"
+    },
+    {
+      "name": "A12 TV",
+      "isFree": true,
+      "website": "https://a12television.com/"
+    },
+    {
+      "name": "BS TV",
+      "isFree": true,
+      "website": "https://www.bstelevision.com"
+    },
+    {
+      "name": "Canal Nouvelle Generation",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Ciel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCmfK1K7aTbSwciXxwnC0dn1yQO.jpg"
+    },
+    {
+      "name": "Denguele TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "DNTV",
+      "isFree": true,
+      "website": "https://dntv.ci/"
+    },
+    {
+      "name": "ENFRI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Golden Sweet TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg",
+      "website": "https://golden-sweet.tv/"
+    },
+    {
+      "name": "Guide Love TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg",
+      "website": "https://guidelove.ci/"
+    },
+    {
+      "name": "Life TV",
+      "isFree": true,
+      "website": "https://www.lifetv.ci/"
+    },
+    {
+      "name": "Miran TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "MITG TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mondial Web TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
+      "website": "https://mondialwebtv.com/",
+      "priority": 4
+    },
+    {
+      "name": "NCI",
+      "isFree": true,
+      "logo": "https://go4.pw/COTEDIVOIRE/NCI.png",
+      "website": "https://www.nci.ci/"
+    },
+    {
+      "name": "NTV",
+      "isFree": true,
+      "keywords": "ntv -afrique",
+      "logo": "https://i.imgur.com/SoBhuIb.png",
+      "website": "http://www.notretelevision.org/"
+    },
+    {
+      "name": "P'Africa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://pafricatv.info/"
+    },
+    {
+      "name": "Passion Novelas",
+      "isFree": true
+    },
+    {
+      "name": "REEL-TV",
+      "isFree": true,
+      "website": "https://reel-tv.ci/"
+    },
+    {
+      "name": "Reflet TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EauXR22.png",
+      "website": "https://reflet.tv/"
+    },
+    {
+      "name": "RTI 1",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/RTLTV.png",
+      "website": "https://www.rti.ci/rti1"
+    },
+    {
+      "name": "RTI 2",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/RTLTV.png",
+      "website": "https://www.rti.ci/rti2"
+    },
+    {
+      "name": "RTI Bouake",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/RTLTV.png",
+      "website": "https://www.rti.ci/rtibouake"
+    },
+    {
+      "name": "Schekina Miracles TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/70OnveJQzlYji1TOoODNGrU9Mjj.jpg"
+    },
+    {
+      "name": "Sikensi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Source Africa TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii9oJThoVD6KnbK54hjJA14oAZ7.jpg"
+    },
+    {
+      "name": "Tchaman TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tchamantv.ci/"
+    },
+    {
+      "name": "Tele Fontaine Vie",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Voir + Ivoire",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png"
+    }
+  ],
+  "News": [
+    {
+      "name": "2EFTV",
+      "isFree": true,
+      "website": "https://www.2eftv.com/"
+    },
+    {
+      "name": "7 Info",
+      "isFree": true,
+      "website": "https://www.7info.ci/"
+    },
+    {
+      "name": "BATIR-TV",
+      "isFree": true,
+      "website": "https://www.batirtv.com/"
+    },
+    {
+      "name": "BRVM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://brvmtv.org/"
+    },
+    {
+      "name": "Business 24 Africa",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "https://www.business24tv.com/"
+    },
+    {
+      "name": "Champion TV",
+      "isFree": true,
+      "website": "https://www.championtv.ci/"
+    },
+    {
+      "name": "TV La Capitale",
+      "isFree": true,
+      "website": "https://tvlacapitale.com/"
+    },
+    {
+      "name": "UGF TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://ugfinfo.net/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Afroculture TV",
+      "isFree": true,
+      "website": "https://myafroculture.com/"
+    },
+    {
+      "name": "Afro Magic Channel",
+      "isFree": true
+    },
+    {
+      "name": "A+ Ivoire",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png",
+      "website": "https://www.a-plus.com/"
+    },
+    {
+      "name": "UVCI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://uvci.tv/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Alpha et Omega TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg"
+    },
+    {
+      "name": "Aya TV",
+      "isFree": true
+    },
+    {
+      "name": "Benie TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/BENINE.png",
+      "website": "https://www.benie.tv/"
+    },
+    {
+      "name": "Christ Live",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg",
+      "website": "https://www.christlive.tv/"
+    },
+    {
+      "name": "Divin Amour TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D61xM5GURX6OEacdsme7Pq5dOw.jpg",
+      "website": "http://divinamour.tv/"
+    },
+    {
+      "name": "Ecclesia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mgabVFd.png",
+      "website": "http://ecclesiatvci.com/"
+    },
+    {
+      "name": "Esperance TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://esperancetv.umc.ci/"
+    },
+    {
+      "name": "Exploits TV",
+      "isFree": true
+    },
+    {
+      "name": "Grace TV",
+      "isFree": true,
+      "keywords": "grace tv -+",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h47JJZ015VF4neia33AFwTU37Yb.jpg"
+    },
+    {
+      "name": "Grace TV +",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h47JJZ015VF4neia33AFwTU37Yb.jpg"
+    },
+    {
+      "name": "Habacuc TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "LM TV French",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.lumieredumonde.tv/"
+    },
+    {
+      "name": "LuLi+ TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Miracle TV+",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdloDloT8L5UehG5kMpoSTjfmZl.jpg",
+      "website": "https://miracle-tvplus.com/en/"
+    },
+    {
+      "name": "Mokadam TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Parole Parlee TV",
+      "isFree": true,
+      "website": "https://paroleparleetv.com/"
+    },
+    {
+      "name": "RTVC",
+      "isFree": true,
+      "website": "https://rtvc.ci/"
+    },
+    {
+      "name": "TV Al Bayane",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://albayane.ci/"
+    },
+    {
+      "name": "TV Chandelier",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Vases d'Honneur TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://vasesdhonneur.org/"
+    },
+    {
+      "name": "Yeshoua TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://eglisedeyeshoua.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cine Max",
+      "isFree": true
+    },
+    {
+      "name": "Novela Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NOVELA MAGIC.png"
+    },
+    {
+      "name": "Serie Max",
+      "isFree": true
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Fitini TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Ivoire Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png",
+      "website": "https://ivoirechannel.ci/"
+    },
+    {
+      "name": "Ivoire TV Music",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png"
+    },
+    {
+      "name": "RTI La 3",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/RTLTV.png",
+      "website": "https://www.rti.ci/rti3"
+    }
+  ]
+}

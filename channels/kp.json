@@ -1,0 +1,26 @@
+{
+  "Entertainment": [
+    {
+      "name": "Korean Central Television",
+      "isFree": true,
+      "shortName": "KCT",
+      "logo": "https://img.redtraffic.xyz/22601.jpg"
+    },
+    {
+      "name": "Mansudae Television",
+      "isFree": true
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Ryongnamsan Television",
+      "isFree": true
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Sports Television",
+      "isFree": true
+    }
+  ]
+}

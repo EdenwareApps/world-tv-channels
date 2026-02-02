@@ -1,0 +1,179 @@
+{
+  "Kids": [
+    {
+      "name": "Баластан",
+      "isFree": true
+    },
+    {
+      "name": "Balastan",
+      "isFree": true,
+      "website": "https://www.utrk.kg/kg/live/tv?channel=49"
+    },
+    {
+      "name": "Bilim Ilim",
+      "isFree": true,
+      "website": "https://eltr.kg/eltr-bilim-ilim/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "TV1 KG",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/TV1.png"
+    },
+    {
+      "name": "Любимый HD/ТНТ4",
+      "isFree": true
+    },
+    {
+      "name": "312 TV",
+      "isFree": true,
+      "website": "http://312tv.kg"
+    },
+    {
+      "name": "Aprel TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://april.kg/"
+    },
+    {
+      "name": "Channel 5 Kyrgyzstan",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://5tv.kg/"
+    },
+    {
+      "name": "Channel 7 Kyrgyzstan",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://7tv.kg/"
+    },
+    {
+      "name": "ElTR",
+      "isFree": true,
+      "website": "https://eltr.kg"
+    },
+    {
+      "name": "Lubimyi HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png",
+      "website": "https://lctv.kg"
+    },
+    {
+      "name": "Manas TV",
+      "isFree": true,
+      "website": "http://mediamanas.kg/"
+    },
+    {
+      "name": "New TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg",
+      "website": "http://newtv.kg/"
+    },
+    {
+      "name": "Next TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png"
+    },
+    {
+      "name": "NTS",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9786.png",
+      "website": "http://nts.kg/"
+    },
+    {
+      "name": "Osh Pirim",
+      "isFree": true,
+      "website": "https://oshpirim.kg"
+    },
+    {
+      "name": "OshTV",
+      "isFree": true,
+      "website": "https://oshtv.kg/"
+    },
+    {
+      "name": "Semeinyi",
+      "isFree": true
+    },
+    {
+      "name": "TV15",
+      "isFree": true,
+      "logo": "https://i.ibb.co/1byxRtp/tv15.png",
+      "website": "https://pyramida.kg"
+    },
+    {
+      "name": "TV1.KG",
+      "isFree": true,
+      "website": "http://tv1.kg/"
+    },
+    {
+      "name": "UTRK",
+      "isFree": true,
+      "website": "https://www.utrk.kg"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "312 Kino",
+      "isFree": true,
+      "website": "http://312tv.kg"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "312 Muzyka",
+      "isFree": true,
+      "website": "http://312tv.kg"
+    },
+    {
+      "name": "Music",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.utrk.kg/kg/live/tv?channel=45"
+    }
+  ],
+  "News": [
+    {
+      "name": "Ala-Too 24",
+      "isFree": true,
+      "website": "https://www.utrk.kg/kg/live/tv?channel=42"
+    },
+    {
+      "name": "Nomad TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dacx3E91IFXQ66fJLIhTVGSSxDw.jpg",
+      "website": "https://nomadtv.kg/"
+    },
+    {
+      "name": "Region TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Asia TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvbs.png",
+      "website": "http://asiatv.kg/"
+    },
+    {
+      "name": "Madaniyat",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2648.png",
+      "website": "https://www.utrk.kg/kg"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Kyrgyz Sport TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+    },
+    {
+      "name": "Sport",
+      "isFree": true,
+      "website": "https://www.utrk.kg/kg/live/tv?channel=51"
+    }
+  ]
+}

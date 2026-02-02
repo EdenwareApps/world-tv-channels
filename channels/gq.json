@@ -1,0 +1,71 @@
+{
+  "Entertainment": [
+    {
+      "name": "TVGE",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iOdHgPd.png"
+    },
+    {
+      "name": "Asonga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://asongartv.com/"
+    },
+    {
+      "name": "Canal Sol",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalsol.com/"
+    },
+    {
+      "name": "SolTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "website": "https://tv.solmediaeg.com/soltv/"
+    },
+    {
+      "name": "TVGE Internacional",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iOdHgPd.png",
+      "website": "https://tvgelive.gq/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Sol Cinema",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://www.canalsol.com/"
+    },
+    {
+      "name": "Sol Series",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://www.canalsol.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Sol Educacion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://www.canalsol.com/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Sol Junior",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://www.canalsol.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Sol Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+      "website": "https://www.canalsol.com/"
+    }
+  ]
+}

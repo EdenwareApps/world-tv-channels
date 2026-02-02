@@ -1,0 +1,48 @@
+{
+  "Entertainment": [
+    {
+      "name": "QTV Gambia",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/QTV.png"
+    },
+    {
+      "name": "Block TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
+      "website": "https://blocktvgambia.com/"
+    },
+    {
+      "name": "GRTS TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/XoKE2jt.png",
+      "website": "https://www.grts.gm/"
+    },
+    {
+      "name": "Paradise TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0aT45vk.png",
+      "website": "https://www.ptv.gm/"
+    },
+    {
+      "name": "Star TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png",
+      "website": "https://star.gm/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Eye Africa TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "website": "https://www.eyeafrica.tv/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "MTA Gambia",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MTAAFRICA.png"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "Entertainment": [
+    {
+      "name": "Хузур ТВ",
+      "isFree": true
+    },
+    {
+      "name": "Badakhshon",
+      "isFree": true
+    },
+    {
+      "name": "Dushanbe HD",
+      "isFree": true
+    },
+    {
+      "name": "Ilm va Tabiat",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MDULX7X.png",
+      "website": "http://ivt.tj/"
+    },
+    {
+      "name": "Jahonnamo",
+      "isFree": true,
+      "website": "http://www.jahonnamo.tj/"
+    },
+    {
+      "name": "Khatlon",
+      "isFree": true
+    },
+    {
+      "name": "TMT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Dg0UkNR.png"
+    },
+    {
+      "name": "Tojikiston",
+      "isFree": true,
+      "website": "http://tvt.tj/"
+    },
+    {
+      "name": "TV Kulob",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Safina",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://safina.tj/"
+    },
+    {
+      "name": "TV Sayohi",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvsayohi.tj/"
+    },
+    {
+      "name": "TV Sinamo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sinamo.tv/"
+    },
+    {
+      "name": "TV Sugd",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Futbol",
+      "isFree": true,
+      "logo": "https://i.imgur.com/RngmCDn.png",
+      "website": "http://fft.tj/"
+    },
+    {
+      "name": "TV Varzish",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4AJRkGb.png"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "TV Bahoriston",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvb.tj/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "TV Tourism and Folk Crafts",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvsayohi.tj/"
+    }
+  ]
+}

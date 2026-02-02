@@ -1,0 +1,393 @@
+{
+  "News": [
+    {
+      "name": "Publika TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174028898279_18.png"
+    },
+    {
+      "name": "Albasat TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://albasat.md/"
+    },
+    {
+      "name": "AVA TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg",
+      "website": "https://ava.md/"
+    },
+    {
+      "name": "FACES TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+      "website": "https://ftv.md/"
+    },
+    {
+      "name": "Global 24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
+    },
+    {
+      "name": "Jurnal TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2843.png",
+      "website": "http://www.jurnaltv.md/"
+    },
+    {
+      "name": "New TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg",
+      "website": "https://newtv.md/"
+    },
+    {
+      "name": "Next TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png"
+    },
+    {
+      "name": "ONE TV",
+      "isFree": true,
+      "website": "https://info1.md/"
+    },
+    {
+      "name": "Realitatea TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png",
+      "website": "https://realitatea.md/"
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "https://tv8.md/live"
+    },
+    {
+      "name": "TV-Nord",
+      "isFree": true,
+      "website": "https://tvn.md/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Acasa TV",
+      "isFree": true
+    },
+    {
+      "name": "Bălţi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/S1vEqZp.png"
+    },
+    {
+      "name": "Canal Regional",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Drochia",
+      "isFree": true
+    },
+    {
+      "name": "Moldova 2",
+      "isFree": true,
+      "keywords": "moldova 2 | moldova2",
+      "shortName": "Moldova2",
+      "logo": "https://i.imgur.com/Hv6Nk8A.png"
+    },
+    {
+      "name": "Noroc TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png"
+    },
+    {
+      "name": "TVR Moldova",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "Vocea Basarabiei TV",
+      "isFree": true,
+      "shortName": "VBT",
+      "logo": "http://epg.one/img2/9774.png"
+    },
+    {
+      "name": "ТНТ Exclusiv TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EfNHNts.png"
+    },
+    {
+      "name": "1TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/1tv.png",
+      "website": "https://1tv.md/"
+    },
+    {
+      "name": "7 TV",
+      "isFree": true
+    },
+    {
+      "name": "Agro TV Moldova",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TV-AGRO.png",
+      "website": "https://agrotv.md/"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://atv.md/"
+    },
+    {
+      "name": "Axial TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://axialtv.md/"
+    },
+    {
+      "name": "Balti TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/S1vEqZp.png"
+    },
+    {
+      "name": "BAS-TV",
+      "isFree": true,
+      "website": "https://bas-tv.md/"
+    },
+    {
+      "name": "Canal 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "http://www.canal2.md/"
+    },
+    {
+      "name": "Canal 3",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174522009953_10.png",
+      "website": "https://www.canal3.md/"
+    },
+    {
+      "name": "Canal 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JqaW7Ei.png",
+      "website": "https://canal5.md/ru/"
+    },
+    {
+      "name": "Drochia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/O6YZ0D5.png",
+      "website": "https://drochia.tv/"
+    },
+    {
+      "name": "Elita TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png",
+      "website": "http://voceata.md/elitatv/"
+    },
+    {
+      "name": "Exclusiv TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EfNHNts.png",
+      "website": "https://exclusivtv.md/"
+    },
+    {
+      "name": "GRT",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/15ae45bdf5a04e15402030d45d7f64fb.png",
+      "website": "http://grt.md/"
+    },
+    {
+      "name": "Media TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png",
+      "website": "https://mediatv.md/"
+    },
+    {
+      "name": "Mega TV",
+      "isFree": true,
+      "logo": "http://i.imgur.com/saCbNDR.png",
+      "website": "https://megatv.md/"
+    },
+    {
+      "name": "Moldova 1",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/08/15/20150815214954768297_45.jpg",
+      "website": "https://trm.md/ro/moldova-1"
+    },
+    {
+      "name": "Moldova TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/MOLDOVA TV.png",
+      "website": "https://moldovatv.ro/"
+    },
+    {
+      "name": "N4",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d1d705aa28ceefee54380697417b34a6.png",
+      "website": "https://n4.md/"
+    },
+    {
+      "name": "NTS TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9786.png",
+      "website": "https://www.nts-tv.md/"
+    },
+    {
+      "name": "Orizont TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://orizont.tv/"
+    },
+    {
+      "name": "Premiera TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/V FILM PREMIERE.png"
+    },
+    {
+      "name": "Prima TV Moldova",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "https://www.primatv.ro/"
+    },
+    {
+      "name": "Primul in Moldova",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png",
+      "website": "https://primul.online/"
+    },
+    {
+      "name": "Privesc.Eu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.privesc.eu/tv"
+    },
+    {
+      "name": "PRO TV Chisinau",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
+      "website": "https://protv.md/"
+    },
+    {
+      "name": "Radio Moldova",
+      "isFree": true,
+      "keywords": "radio moldova -muzical -tineret",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiomoldova.md/"
+    },
+    {
+      "name": "Radio Moldova Tineret",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiomoldova.md/tineret"
+    },
+    {
+      "name": "Sor TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/KURD%20MAX.png",
+      "website": "https://news.sortv.md"
+    },
+    {
+      "name": "Star TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png",
+      "website": "https://tvstar.md/"
+    },
+    {
+      "name": "Studio-L",
+      "isFree": true,
+      "website": "https://www.studio-l.online/"
+    },
+    {
+      "name": "Tele M",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "TSV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png",
+      "website": "https://tsv.md/"
+    },
+    {
+      "name": "TV6",
+      "isFree": true,
+      "website": "https://tv6.live/"
+    },
+    {
+      "name": "TV9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://www.tv9.md/"
+    },
+    {
+      "name": "TV PMR",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.pgtrk.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Busuioc TV",
+      "isFree": true,
+      "website": "https://busuioctv.md/"
+    },
+    {
+      "name": "Hit FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
+      "website": "https://hitfm.md/"
+    },
+    {
+      "name": "Radio Moldova Muzical",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiomoldova.md/muzical"
+    },
+    {
+      "name": "Tezaur TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png",
+      "website": "https://tezaurtv.md"
+    },
+    {
+      "name": "Zona M",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.zonam.md/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cinema 1",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png"
+    },
+    {
+      "name": "Cinemaraton Moldova",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/CINEMAX.png",
+      "website": "https://www.cinemaraton.ro/cinemaraton-moldova/"
+    },
+    {
+      "name": "TVC21",
+      "isFree": true,
+      "website": "https://tvc21.md/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Gurinel TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2854.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "We Sport TV",
+      "isFree": true,
+      "logo": "https://godish.com/wp-content/uploads/channel-logos/we.png",
+      "website": "https://fmf.md/home/fmf/we-sport/wesport-tv"
+    }
+  ]
+}

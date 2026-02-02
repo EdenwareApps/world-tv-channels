@@ -1,0 +1,2319 @@
+{
+  "News": [
+    {
+      "name": "N1 RS",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png",
+      "priority": 9
+    },
+    {
+      "name": "Balkan TV",
+      "isFree": true,
+      "website": "http://www.balkantv.rs/"
+    },
+    {
+      "name": "Bloomberg Adria",
+      "isFree": true,
+      "website": "https://bloombergadria.com/"
+    },
+    {
+      "name": "Euronews Serbia",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "website": "https://www.euronews.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Front TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "website": "http://www.korpus.rs/"
+    },
+    {
+      "name": "Informer TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg",
+      "website": "https://www.informer.rs/"
+    },
+    {
+      "name": "N1",
+      "isFree": true,
+      "keywords": "n1 -rs",
+      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png",
+      "website": "https://rs.n1info.com/",
+      "priority": 9
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Kurir TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/KURIR-TV.png"
+    },
+    {
+      "name": "Marš TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg"
+    },
+    {
+      "name": "RTV 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CG44YT3.png"
+    },
+    {
+      "name": "RTV AS",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV City Ub",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Novi Pazar",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "Red TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "TV Belle Amie",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Hram",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Pi Canal Pirot",
+      "isFree": true,
+      "shortName": "TPCP",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Adult Channel 1",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 2",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 3",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 4",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 5",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 6",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Adult Channel 7",
+      "isFree": null,
+      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+      "website": "http://www.prva.rs/"
+    },
+    {
+      "name": "Agro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png",
+      "website": "https://www.agrotv.net/"
+    },
+    {
+      "name": "Amari TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.amaritv.tv/"
+    },
+    {
+      "name": "B1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/G0eQuH9.png",
+      "website": "https://www.tvprodaja.rs/"
+    },
+    {
+      "name": "Balkan Trip TV",
+      "isFree": true,
+      "website": "https://balkantrip.tv/"
+    },
+    {
+      "name": "Belle Amie",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "website": "http://www.belami.rs/"
+    },
+    {
+      "name": "Blic TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BLIC_TV.png",
+      "website": "http://www.ringier.rs/"
+    },
+    {
+      "name": "Brainz HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png",
+      "website": "https://brainz.center/"
+    },
+    {
+      "name": "Brainz TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://brainz.center/"
+    },
+    {
+      "name": "BTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
+      "website": "http://btv.rs/"
+    },
+    {
+      "name": "Cafe&Club",
+      "isFree": true,
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Dankos plus",
+      "isFree": true,
+      "website": "http://www.dankostv.rs/"
+    },
+    {
+      "name": "Decija TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://decija.tv/"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "priority": 10
+    },
+    {
+      "name": "Dunav TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dunavtelevizija.rs/"
+    },
+    {
+      "name": "EDU TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/XJ2MXbtc/edutv.png",
+      "website": "http://www.edutelevision.com/"
+    },
+    {
+      "name": "EG Melody",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/EGYPT.png"
+    },
+    {
+      "name": "Eko vizija",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/eko-turk.png",
+      "website": "http://ekovzija.rs/"
+    },
+    {
+      "name": "Erotic",
+      "isFree": null,
+      "keywords": "erotic -2 -3 -4 -5 -6 -7 -8",
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 2",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 3",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 4",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 5",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 6",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 7",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Erotic 8",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3209.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "EX YU Melody",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiTJNNqIu7iyh2DGhvtrI5OAYMG.jpg"
+    },
+    {
+      "name": "Fox",
+      "isFree": true,
+      "keywords": "fox -crime -life -movies",
+      "website": "https://www.foxtv.rs/emisije/fox"
+    },
+    {
+      "name": "Gradska M televizija",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/Gradska TV.png",
+      "website": "http://www.gradska.tv/"
+    },
+    {
+      "name": "HA HA",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/HA_TINH.png",
+      "website": "http://www.pink.rs/haha"
+    },
+    {
+      "name": "Happy",
+      "isFree": true,
+      "keywords": "happy -reality 1 -reality 2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "https://happytv.rs/televizija"
+    },
+    {
+      "name": "Happy Reality 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "Happy Reality 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "Hits Melody",
+      "isFree": true,
+      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+    },
+    {
+      "name": "Humana TV Plus",
+      "isFree": true
+    },
+    {
+      "name": "Hype 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edcE61BiUQM8tzpxpApRvEX8yu5.jpg",
+      "website": "http://www.bolja.rs/"
+    },
+    {
+      "name": "Hype TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edcE61BiUQM8tzpxpApRvEX8yu5.jpg",
+      "website": "http://www.hypetv.rs/"
+    },
+    {
+      "name": "IDJTV",
+      "isFree": true,
+      "website": "https://idjtv.com/"
+    },
+    {
+      "name": "Insajder TV kanal",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/INSAJDER_TV.png",
+      "website": "http://www.insajder.net/"
+    },
+    {
+      "name": "Insta TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.instagram.com/narodnatv.rs/"
+    },
+    {
+      "name": "K1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png",
+      "website": "http://k1tv.rs/"
+    },
+    {
+      "name": "KA TV",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/24372.jpg",
+      "website": "http://www.katv.rs/"
+    },
+    {
+      "name": "Kitchen TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3smhHvnczXg8E2WzysRVKIXSYJ.jpg",
+      "website": "http://kitchentv.rs/"
+    },
+    {
+      "name": "Koreni",
+      "isFree": true
+    },
+    {
+      "name": "LOL",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNlTN77u8XVzXCnxRl8lVpWUdYQ.jpg",
+      "website": "http://www.pink.rs/lol"
+    },
+    {
+      "name": "Moj astrolog",
+      "isFree": true,
+      "website": "https://www.mojastrolog.tv/"
+    },
+    {
+      "name": "Moja TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MOJATV-1.png",
+      "website": "https://www.rem.rs/en/media-service-providers-register/993#gsc.tab=0"
+    },
+    {
+      "name": "Moj Happy zivot",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "Mostnet",
+      "isFree": true
+    },
+    {
+      "name": "Narodna TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/NARODNA_TV.png",
+      "website": "https://pinkmediagroup.net/"
+    },
+    {
+      "name": "Nova",
+      "isFree": true,
+      "keywords": "nova -max -series -sport -tv",
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://nova.rs/"
+    },
+    {
+      "name": "Nova Max",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://novas.tv/"
+    },
+    {
+      "name": "Nova Series",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://novas.tv/"
+    },
+    {
+      "name": "Nova TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8c67e97d5b4f7c352d20104a84509ba3.png",
+      "website": "https://www.novatv.rs/"
+    },
+    {
+      "name": "Novosadska TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.novosadska.tv/"
+    },
+    {
+      "name": "NTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SoBhuIb.png",
+      "website": "https://novosadska.tv/"
+    },
+    {
+      "name": "Pannon TV",
+      "isFree": true,
+      "website": "https://pannonrtv.com/"
+    },
+    {
+      "name": "Pester TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.pester.tv/"
+    },
+    {
+      "name": "Pink",
+      "isFree": true,
+      "keywords": "pink -action -classic -comedy -crime & mystery -extra -family -fashion -film -folk 1 -folk 2 -hits -hits 2 -horror -kids -koncert -kuvar -movies -music -music 2 -n roll -pedia -plus -premium -reality -romance -sci-fi & fantasy -serije -show -si -soap -style -super kids -thriller -western -world -world cinema -zabava",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Comedy",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Extra",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Family",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Fashion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Kuvar",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Pedia",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Plus",
+      "isFree": true,
+      "website": "http://www.rtvpink.com/pinkplus/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Premium",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Reality",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Romance",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Show",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink SI",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Pink Soap",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Style",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Thriller",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Western",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink World",
+      "isFree": true,
+      "keywords": "pink world -cinema",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Zabava",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pop Melody",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Prva",
+      "isFree": true,
+      "keywords": "prva -files -kick -life -max -plus -world",
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://www.prva.rs/",
+      "priority": 10
+    },
+    {
+      "name": "Prva Files",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://prvafiles.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Prva Kick",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://prvakick.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Prva Life",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://prvalife.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Prva Max",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://prvamax.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Prva Plus",
+      "isFree": true,
+      "website": "http://prvaplus.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Prva World",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://prvaworld.prva.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Q TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+    },
+    {
+      "name": "Rock&Roll",
+      "isFree": true,
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "RTP",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "http://www.rtp.rs/"
+    },
+    {
+      "name": "RTS 1",
+      "isFree": true,
+      "website": "http://www.rts.rs/page/tv/sr/news/20/rts-1.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS 2",
+      "isFree": true,
+      "website": "http://www.rts.rs/page/tv/sr/news/21/rts-2.html",
+      "priority": 9
+    },
+    {
+      "name": "RTS 3",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/sr/news/255/rts-3.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Kolo",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/ci/news/2691/rts-kolo.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Nauka",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "https://www.rts.rs/page/tv/ci/news/3107/rts-nauka.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Poletarac",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "https://www.rts.rs/page/tv/ci/news/2709/rts-poletarac.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Svet",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/sr/news/22/rts-svet.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Trezor",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/ci/news/2697/rts-trezor.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Zivot",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/ci/news/2685/rts-zivot.html",
+      "priority": 10
+    },
+    {
+      "name": "RTV 2",
+      "isFree": true,
+      "website": "https://www.rtv.rs/"
+    },
+    {
+      "name": "RTV Bap",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvbap.rs/"
+    },
+    {
+      "name": "RTV Bosphorus",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Branicevo",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV GEM",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.gemtv.rs/"
+    },
+    {
+      "name": "RTV SP",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvstarapazova.rs/"
+    },
+    {
+      "name": "RTV Srece",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvsrece.com/"
+    },
+    {
+      "name": "RTV Sumadija",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvsumadija.com/"
+    },
+    {
+      "name": "Sandzak TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BNV_TV_SANDZAK.png",
+      "website": "http://www.sandzak.tv/"
+    },
+    {
+      "name": "SAT TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "http://www.sattelevizija.com/"
+    },
+    {
+      "name": "Sci Fi",
+      "isFree": true,
+      "website": "https://scifi.rs/"
+    },
+    {
+      "name": "Slobodna Televizija",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "https://slobodna.rs/"
+    },
+    {
+      "name": "Sremska TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sremska.tv/"
+    },
+    {
+      "name": "Studio B",
+      "isFree": true,
+      "website": "https://studiob.rs/"
+    },
+    {
+      "name": "Super D+",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "http://www.info24.rs/"
+    },
+    {
+      "name": "Super Sat TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://info24.rs/"
+    },
+    {
+      "name": "SUPERSTAR 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMiksvlWCdUFpX9ZVrU2SyJF7ZC.jpg",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "SUPERSTAR TV",
+      "isFree": true
+    },
+    {
+      "name": "Super TV Smederevo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://tvsuper.rs/"
+    },
+    {
+      "name": "T1",
+      "isFree": true,
+      "website": "https://t1.rs/"
+    },
+    {
+      "name": "Tanjug TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tanjug.rs/"
+    },
+    {
+      "name": "Televizija Fokus",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png"
+    },
+    {
+      "name": "Televizija Pruga",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "http://www.pruga.rs/"
+    },
+    {
+      "name": "Tesla TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tesla-tv.com/"
+    },
+    {
+      "name": "Timeless Dizi Channel",
+      "isFree": true,
+      "website": "https://timelessdramachannel.com/dizi-srbija/"
+    },
+    {
+      "name": "TMS Televizija Telemark",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SENEGAL/TMS.png",
+      "website": "http://www.tvtelemark.rs/"
+    },
+    {
+      "name": "Toxic Folk",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg",
+      "website": "https://toxictv.rs/"
+    },
+    {
+      "name": "Toxic TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg",
+      "website": "https://toxictv.rs/"
+    },
+    {
+      "name": "Turizam TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.turizamtv.rs/"
+    },
+    {
+      "name": "TV 101",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV 4S",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV 5",
+      "isFree": true,
+      "keywords": "tv 5 -uzice"
+    },
+    {
+      "name": "TV 5 Uzice",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tv5.rs/"
+    },
+    {
+      "name": "TV Apatin",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvapatin.com/"
+    },
+    {
+      "name": "TV AS",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvas.rs/"
+    },
+    {
+      "name": "TV Backa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvbackavrbas.rs/"
+    },
+    {
+      "name": "TV Banat",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvbanat.com/"
+    },
+    {
+      "name": "TV Becej",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvbecej.rs/"
+    },
+    {
+      "name": "TV Bor",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvbor.rs/"
+    },
+    {
+      "name": "TV Bujanovac",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtv-bujanovac.rs/"
+    },
+    {
+      "name": "TV Caribrod",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtcaribrod.rs/"
+    },
+    {
+      "name": "TV Centar",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcentar.rs/"
+    },
+    {
+      "name": "TV Cink",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.cink.co.rs/"
+    },
+    {
+      "name": "TV City",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvcityub.rs/"
+    },
+    {
+      "name": "TV Delta",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Diskos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV DR",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Forum",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.foruminfo.rs/"
+    },
+    {
+      "name": "TV Fruska Gora",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvfruskagora.rs/"
+    },
+    {
+      "name": "TV Galaksija 32",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvgalaksija.rs/"
+    },
+    {
+      "name": "TV GM Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.gmpress.rs/"
+    },
+    {
+      "name": "TV Hit Plus Batocina",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Homolje",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV IKS",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.infokanal.rs/"
+    },
+    {
+      "name": "TV Info 24",
+      "isFree": true,
+      "keywords": "tv info 24 -plus",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://info24.rs/"
+    },
+    {
+      "name": "TV Info 24 plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://info24.rs/"
+    },
+    {
+      "name": "TV Istok",
+      "isFree": true,
+      "website": "http://www.tvistok.com/"
+    },
+    {
+      "name": "TV Jasenica",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvjasenica.rs/"
+    },
+    {
+      "name": "TV Jefimija",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.jefimija.tv/"
+    },
+    {
+      "name": "TV K-1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV K23",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.k23tv.com/"
+    },
+    {
+      "name": "TV Kanal 25",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvkanal25.rs/"
+    },
+    {
+      "name": "TV Kanal 9",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kanal9tv.com/"
+    },
+    {
+      "name": "TV Kanal M",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvparacin.rs/"
+    },
+    {
+      "name": "TV K::CN 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN 3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN Istok",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN Jug",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K:CN K",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K:CN Raska",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN Sever",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvkcn.net/"
+    },
+    {
+      "name": "TV K::CN Zapad",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvkcn.net/"
+    },
+    {
+      "name": "TV Kikinda",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvkikinda.rs/"
+    },
+    {
+      "name": "TV Kladovo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvkladovo.com/"
+    },
+    {
+      "name": "TV Kragujevac",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtk.co.rs/"
+    },
+    {
+      "name": "TV Kraljevo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvkraljevo.com/"
+    },
+    {
+      "name": "TV Krusevac",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtk.rs/"
+    },
+    {
+      "name": "TV Kursumlija",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvkursumlija.com/"
+    },
+    {
+      "name": "TV Lav",
+      "isFree": true,
+      "keywords": "tv lav -plus",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Lav Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvlav.rs/"
+    },
+    {
+      "name": "TV Leskovac",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvl.rs/"
+    },
+    {
+      "name": "TV Lotel Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.lotel.rs/"
+    },
+    {
+      "name": "TV Mag",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvmag.co.rs/"
+    },
+    {
+      "name": "TV Marsh",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://marsh.rs/"
+    },
+    {
+      "name": "TV Melos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Mix",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.mixtv.rs/"
+    },
+    {
+      "name": "TV Mlava",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvmlava.com/"
+    },
+    {
+      "name": "TV Most",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvmost.info/"
+    },
+    {
+      "name": "TV Mreza Most",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvmost.rs/"
+    },
+    {
+      "name": "TV Nais",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.televizija-nais.business.site/"
+    },
+    {
+      "name": "TV Novi Becej",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvnovibecej.rs/"
+    },
+    {
+      "name": "TV Palma plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://ptt.rs/"
+    },
+    {
+      "name": "TV Pancevo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvpancevo.rs/"
+    },
+    {
+      "name": "TV Panon",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.pannonrtv.com/"
+    },
+    {
+      "name": "TV P Canal",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Petrovec",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvpetrovec.com/"
+    },
+    {
+      "name": "TV Pi Kanal",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvpicanal.com/"
+    },
+    {
+      "name": "TV Pirot",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Plana",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvplus.rs/"
+    },
+    {
+      "name": "TV Podrinje",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvpodrinje.rs/"
+    },
+    {
+      "name": "TV Pozega",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mts.rs/"
+    },
+    {
+      "name": "TV Priboj",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Prima",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Raca",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Ras",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rastv.rs/"
+    },
+    {
+      "name": "TV Ritam",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvritam.com/"
+    },
+    {
+      "name": "TV Sabac",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sabac.tv/"
+    },
+    {
+      "name": "TV Saga",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.magplus.rs/"
+    },
+    {
+      "name": "TV Santos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvsantos.com/"
+    },
+    {
+      "name": "TV Sezam",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvkcn.net/"
+    },
+    {
+      "name": "TV Skay",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.skay.tv/"
+    },
+    {
+      "name": "TV Smederevo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Sokobanja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Sombor",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvsrece.com/"
+    },
+    {
+      "name": "TV Subotica",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvsubotica.com/"
+    },
+    {
+      "name": "TV Sunce",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvsunce.com/"
+    },
+    {
+      "name": "TV Trans",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Trstenik",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvtrstenik.rs/"
+    },
+    {
+      "name": "TV VA Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.valjevoplus.rs/"
+    },
+    {
+      "name": "TV Vranje",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtv-vranje.rs/"
+    },
+    {
+      "name": "TV Vrnjacka Banja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Vujic",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV YU Eco",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.yueco.rs/"
+    },
+    {
+      "name": "TV Zlatar",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mts.rs/"
+    },
+    {
+      "name": "Ultra puls TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9JX6RZQoTInDJhbrKItnOr47qr.jpg",
+      "website": "http://www.tvinfopuls.rs/"
+    },
+    {
+      "name": "UNA TV",
+      "isFree": true,
+      "logo": "https://static.wikia.nocookie.net/doblaje/images/f/fd/MDwRRf5.png/revision/latest?cb=20170525201846&path-prefix=es",
+      "website": "https://unaworld.tv/"
+    },
+    {
+      "name": "V5",
+      "isFree": true,
+      "website": "http://vtv.rs/"
+    },
+    {
+      "name": "Vesti",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/24VESTI-1.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Vranjska Plus",
+      "isFree": true,
+      "website": "http://www.vranjskaplustv.rs/"
+    },
+    {
+      "name": "VTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png",
+      "website": "http://www.novosadska.tv/"
+    },
+    {
+      "name": "Zadruga Live 1",
+      "isFree": true,
+      "website": "http://www.zadruga.tv/"
+    },
+    {
+      "name": "Zadruga Live 2",
+      "isFree": true,
+      "website": "http://www.zadruga.tv/"
+    },
+    {
+      "name": "Zadruga Live 3",
+      "isFree": true,
+      "website": "http://www.zadruga.tv/"
+    },
+    {
+      "name": "Zadruga Live 4",
+      "isFree": true,
+      "website": "http://www.zadruga.tv/"
+    },
+    {
+      "name": "Zdravlje TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zdravljetv.rs/"
+    },
+    {
+      "name": "Zelena TV zdravlje",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://zelenatvzdravlje.com/"
+    },
+    {
+      "name": "Zona Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "http://tvzonaplus.rs/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Muzzik AMVA 2020",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Cafe&Club Serbia",
+      "isFree": true,
+      "shortName": "MCS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik HipHop Serbia",
+      "isFree": true,
+      "shortName": "MHS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Jeka Serbia",
+      "isFree": true,
+      "shortName": "MJS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Mediteraneo Serbia",
+      "isFree": true,
+      "shortName": "MMS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik OKK Serbia",
+      "isFree": true,
+      "shortName": "MOS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Replay Serbia",
+      "isFree": true,
+      "shortName": "MRS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Rock&Roll Serbia",
+      "isFree": true,
+      "shortName": "MRS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Saculatac Serbia",
+      "isFree": true,
+      "shortName": "MSS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik TV Serbia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "Muzzik Worldwide Serbia",
+      "isFree": true,
+      "shortName": "MWS",
+      "logo": "https://i.imgur.com/9dz8MsD.png"
+    },
+    {
+      "name": "TV Duga Plus",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "B92",
+      "isFree": true,
+      "website": "https://b92.tv/",
+      "priority": 9
+    },
+    {
+      "name": "Bravo Music",
+      "isFree": true,
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "CityPlay",
+      "isFree": true
+    },
+    {
+      "name": "DM Sat",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LdeA1Cn.png",
+      "website": "http://www.dmsat.tv/"
+    },
+    {
+      "name": "ELECTRO",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "FLASHBACK",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjkKGWdR5z4jPbj0LJ5omi2m9CX.jpg",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Folk Melody",
+      "isFree": true,
+      "logo": "https://go4.pw/BULGARIA/FEN TV.png"
+    },
+    {
+      "name": "Grand",
+      "isFree": true,
+      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
+      "website": "https://grand.online/grand-tv"
+    },
+    {
+      "name": "JEKA",
+      "isFree": true,
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "MOBA",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Moja Happy muzika",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MOJATV-1.png",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "Moja Happy zemlja",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MOJATV-1.png",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "MTS",
+      "isFree": true,
+      "website": "https://muzzik.spectar.tv/#/electro"
+    },
+    {
+      "name": "MUZZIK",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Muzzik HipHop",
+      "isFree": true,
+      "keywords": "muzzik hiphop -serbia",
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Muzzik Mediteraneo",
+      "isFree": true,
+      "keywords": "muzzik mediteraneo -serbia",
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Muzzik Replay",
+      "isFree": true,
+      "keywords": "muzzik replay -serbia",
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Muzzik Saculatac",
+      "isFree": true,
+      "keywords": "muzzik saculatac -serbia",
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Nisville TV",
+      "isFree": true,
+      "website": "http://nisville.com/"
+    },
+    {
+      "name": "OKK",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6f83eb1b01effd109a09d711813f7bad.png",
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "Pink Folk 1",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Folk 2",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Hits",
+      "isFree": true,
+      "keywords": "pink hits -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Hits 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Koncert",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Music",
+      "isFree": true,
+      "keywords": "pink music -2",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Music 2",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink n Roll",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "POP STAR",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "Radio Hit FM TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.hitfm.rs/"
+    },
+    {
+      "name": "Radio Karolina TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.karolina.rs/"
+    },
+    {
+      "name": "Radio Lola TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.karolina.rs/"
+    },
+    {
+      "name": "Radio S TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.smedia.rs/"
+    },
+    {
+      "name": "RIVIERA",
+      "isFree": true,
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "RTS Klasika",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "https://www.rts.rs/page/tv/ci/news/3188/rts-klasika.html",
+      "priority": 10
+    },
+    {
+      "name": "RTS Muzika",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/ci/news/2703/rts-muzika.html",
+      "priority": 10
+    },
+    {
+      "name": "SEE MUZZIK",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "SENSE",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "Skymusic Entertainment",
+      "isFree": true,
+      "website": "http://www.skyentertainmentgroup.rs/"
+    },
+    {
+      "name": "TDI Radio TV",
+      "isFree": true,
+      "website": "http://www.tdiradio.com/"
+    },
+    {
+      "name": "TIKTAK",
+      "isFree": true,
+      "website": "https://www.muzzik.tv/"
+    },
+    {
+      "name": "Top TV",
+      "isFree": true,
+      "website": "http://www.top-tv.rs/"
+    },
+    {
+      "name": "Toxic Rap",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg",
+      "website": "https://toxictv.rs/"
+    },
+    {
+      "name": "TV Duga+",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvdugaplus.com/"
+    },
+    {
+      "name": "WORLD WIDE MUZZIK",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://muzzik.co.uk/"
+    },
+    {
+      "name": "ZICO TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/ZICO.png",
+      "website": "https://zico.tv/"
+    },
+    {
+      "name": "ZZ TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9dz8MsD.png",
+      "website": "https://muzzik.co.uk/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Arena Esport",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Fight",
+      "isFree": true,
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 1",
+      "isFree": true,
+      "keywords": "arena sport 1 -premium",
+      "logo": "https://i.imgur.com/2qf67zW.png",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 10",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 1 Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 1x2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 2",
+      "isFree": true,
+      "keywords": "arena sport 2 -premium",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 2 Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 3",
+      "isFree": true,
+      "keywords": "arena sport 3 -premium",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 3 Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 4",
+      "isFree": true,
+      "keywords": "arena sport 4 -premium",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 4 Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 5",
+      "isFree": true,
+      "keywords": "arena sport 5 -premium",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 5 Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport 9",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport Adrenalin",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Arena Sport Tenis",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/"
+    },
+    {
+      "name": "Fortuna TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZbUSlOC.png",
+      "website": "http://www.rtvfortuna.com/"
+    },
+    {
+      "name": "Lov i ribolov",
+      "isFree": true,
+      "website": "https://unitedmedia.net/media-outlet/lov-i-ribolov/"
+    },
+    {
+      "name": "Nova Sport",
+      "isFree": true,
+      "logo": "https://i.imgur.com/w8k0Lbg.png",
+      "website": "https://nova-sport.com/"
+    },
+    {
+      "name": "SOS Kanal Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/SOS_DOCTEUR_TV.png",
+      "website": "https://www.soskanal.net/"
+    },
+    {
+      "name": "Telebet",
+      "isFree": true
+    },
+    {
+      "name": "TV Partizan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.partizan.tv/"
+    },
+    {
+      "name": "Zvezda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/FK_CRVENA_ZVEZDA.png",
+      "website": "http://crvenazvezdafk.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cinemania",
+      "isFree": true,
+      "website": "http://www.unitedmedia.net/channel/cinemania/"
+    },
+    {
+      "name": "CineStar TV 1",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-1/"
+    },
+    {
+      "name": "CineStar TV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-2/"
+    },
+    {
+      "name": "CineStar TV Action",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-action/"
+    },
+    {
+      "name": "CineStar TV Comedy",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestar-tv-comedy-family/"
+    },
+    {
+      "name": "CineStar TV Fantasy",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-fantasy/"
+    },
+    {
+      "name": "CineStar TV Premiere 1",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-premiere-1/"
+    },
+    {
+      "name": "CineStar TV Premiere 2",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
+      "website": "https://cinestartvchannels.rs/kanal/cinestartv-premiere-2/"
+    },
+    {
+      "name": "Elita live 1",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Elita live 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Elita live 3",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Elita live 4",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Euro Cinema 1",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "website": "http://www.centroscena.rs/"
+    },
+    {
+      "name": "Euro Cinema 2",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "website": "http://www.centroscena.rs/"
+    },
+    {
+      "name": "Euro Cinema 3",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "website": "http://www.centroscena.rs/"
+    },
+    {
+      "name": "Euro Cinema 4",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "website": "http://www.centroscena.rs/"
+    },
+    {
+      "name": "Film Klub",
+      "isFree": true,
+      "keywords": "film klub -extra",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.filmklub.rs/"
+    },
+    {
+      "name": "Film Klub Extra",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.filmklub.rs/"
+    },
+    {
+      "name": "Fox Crime",
+      "isFree": true,
+      "website": "https://www.foxtv.rs/emisije/foxcrime"
+    },
+    {
+      "name": "Fox Life",
+      "isFree": true,
+      "website": "https://www.foxtv.rs/emisije/foxlife"
+    },
+    {
+      "name": "Fox Movies",
+      "isFree": true,
+      "website": "https://www.foxtv.rs/emisije/fox-movies"
+    },
+    {
+      "name": "Pink Action",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Classic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Crime & Mystery",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Film",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Horror",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Movies",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Sci-Fi & Fantasy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Serije",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink World Cinema",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "RTS Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
+      "website": "http://www.rts.rs/page/tv/ci/news/2679/rts-drama.html",
+      "priority": 10
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Dexy TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.dexy.co.rs/"
+    },
+    {
+      "name": "IDJKids",
+      "isFree": true,
+      "website": "https://idjkids.tv"
+    },
+    {
+      "name": "Kazbuka",
+      "isFree": true,
+      "website": "https://tsmedia.rs/a21660/en/tv-brands-and-partners/Kazbuka.html"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nick.tv/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "http://www.nick.tv/"
+    },
+    {
+      "name": "Pikaboo",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/Pikaboo.png"
+    },
+    {
+      "name": "Pink Kids",
+      "isFree": true,
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Pink Super Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.rtvpink.co.rs/",
+      "priority": 9
+    },
+    {
+      "name": "Vavoom",
+      "isFree": true,
+      "website": "https://unitedmedia.net/sr/kanal/vavoom/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Djak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://djak.tv/"
+    },
+    {
+      "name": "Moje Happy drustvo",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "http://www.happytv.rs/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "https://nationalgeographic.rs/",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "https://www.natgeotv.com/rs",
+      "priority": 9
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Shoppster TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.shoppster.com/"
+    }
+  ]
+}

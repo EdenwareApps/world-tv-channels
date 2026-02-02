@@ -1,0 +1,237 @@
+{
+  "Entertainment": [
+    {
+      "name": "Jamaica Online TV",
+      "isFree": true,
+      "shortName": "JOT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HJbD89cwclhExqQDvRKXVDSLNL.jpg"
+    },
+    {
+      "name": "BOJTV",
+      "isFree": true,
+      "website": "https://bojtv.com/"
+    },
+    {
+      "name": "CEEN TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ceen.tv/"
+    },
+    {
+      "name": "CVM TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/14wfq26.png",
+      "website": "https://www.cvmtv.com/"
+    },
+    {
+      "name": "DVP-TV",
+      "isFree": true,
+      "website": "https://dvptv.com/"
+    },
+    {
+      "name": "Eplus TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://eplustv.online/"
+    },
+    {
+      "name": "Hype TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edcE61BiUQM8tzpxpApRvEX8yu5.jpg",
+      "website": "http://www.hypetvjam.com/"
+    },
+    {
+      "name": "Jamaica Travel Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HJbD89cwclhExqQDvRKXVDSLNL.jpg",
+      "website": "https://www.visitjamaica.com/travel-channel/"
+    },
+    {
+      "name": "JUICE TV",
+      "isFree": true,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6785887856421638085c6c49"
+    },
+    {
+      "name": "Lucky Play TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg",
+      "website": "https://luckyplay.com/"
+    },
+    {
+      "name": "Mello TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://mellotv.com/"
+    },
+    {
+      "name": "OPM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://opmtv.gov.jm/"
+    },
+    {
+      "name": "PBC Jamaica TV",
+      "isFree": true,
+      "logo": "https://imgur.com/sxB1tnb.png",
+      "website": "https://pbcjamaica.org/"
+    },
+    {
+      "name": "RETV",
+      "isFree": true,
+      "website": "http://realjamaicantelevision.com/"
+    },
+    {
+      "name": "TVJ",
+      "isFree": true,
+      "keywords": "tvj -sports network",
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TVJ.png",
+      "website": "https://www.televisionjamaica.com/"
+    },
+    {
+      "name": "World Vybz TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://worlvybzradio.weebly.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Bess 100 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png",
+      "website": "https://www.bessfm.com/"
+    },
+    {
+      "name": "JamVision TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://cptcjamaica.com/jamvision/"
+    },
+    {
+      "name": "JETV",
+      "isFree": true
+    },
+    {
+      "name": "NCU TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ncu.edu.jm/"
+    },
+    {
+      "name": "UWI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://uwitv.global/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Bless TV",
+      "isFree": true,
+      "logo": "https://a.jsrdn.com/hls/23015/bless-tv/logo_20231219_184716_61.png",
+      "website": "http://blesstvjm.org/"
+    },
+    {
+      "name": "Caribbean Gospel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "website": "https://caribbeangospel.tv/"
+    },
+    {
+      "name": "GNN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PAKISTAN/GNN.png",
+      "website": "https://www.gnmnsolutions.com/"
+    },
+    {
+      "name": "Love TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/B8iaejQ.png",
+      "website": "https://love101.org/"
+    },
+    {
+      "name": "Mercy and Truth Ministries Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg",
+      "website": "https://www.mercyandtruth.tv/"
+    },
+    {
+      "name": "PFM Family TV",
+      "isFree": true,
+      "website": "https://pfmfamily.org/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Business Access TV",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "https://batvja.com/"
+    },
+    {
+      "name": "Caribbean Business Exchange",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "website": "https://www.jamstockex.com/services/cbx/"
+    },
+    {
+      "name": "CNS TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cnstvjamaica.wixsite.com/cnstv"
+    },
+    {
+      "name": "JIS TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://jis.gov.jm/jis-tv/"
+    },
+    {
+      "name": "JNN",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/JNN.png",
+      "website": "https://www.televisionjamaica.com/jnn"
+    },
+    {
+      "name": "REVO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://revonews.ai/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Fame95 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/n3PUxes.png",
+      "website": "https://www.fame95fm.com/"
+    },
+    {
+      "name": "Flexx TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://flexxfm.online/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "SportsMax",
+      "isFree": true,
+      "keywords": "sportsmax -2",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.sportsmax.tv/"
+    },
+    {
+      "name": "SportsMax 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.sportsmax.tv/"
+    },
+    {
+      "name": "TVJ Sports Network",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TVJ.png",
+      "website": "https://www.televisionjamaica.com/"
+    }
+  ]
+}

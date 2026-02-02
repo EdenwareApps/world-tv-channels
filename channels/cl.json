@@ -1,0 +1,2981 @@
+{
+  "Entertainment": [
+    {
+      "name": "Arica TV",
+      "isFree": true
+    },
+    {
+      "name": "Autonoma TV",
+      "isFree": true
+    },
+    {
+      "name": "Camara de Diputados",
+      "isFree": true,
+      "retransmits": "Canal Diputados",
+      "shortName": "Cámara",
+      "website": "https://www.camara.cl"
+    },
+    {
+      "name": "Campo Abierto TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH560u9BeIfr4rMFsZsYYHBTTLn.jpg"
+    },
+    {
+      "name": "Canal 13",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JIo1HBs.png",
+      "website": "https://www.13.cl",
+      "priority": 10
+    },
+    {
+      "name": "Canal 21",
+      "isFree": true
+    },
+    {
+      "name": "Canal 29",
+      "isFree": true,
+      "logo": "https://imgur.com/WwEyKVj.png"
+    },
+    {
+      "name": "Canal 33",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d89c44773d520bb6d8f81f80ce064917.png"
+    },
+    {
+      "name": "Canal 9 Bío Bío Televisión",
+      "isFree": true,
+      "shortName": "C9BBT",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Diputados",
+      "isFree": true,
+      "shortName": "Cámara",
+      "website": "https://www.camara.cl"
+    },
+    {
+      "name": "Canal Latino",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "ChileVisión",
+      "isFree": true,
+      "shortName": "CHV",
+      "logo": "https://go4.pw/LATINO/chilevision.png",
+      "website": "https://www.chilevision.cl",
+      "priority": 9
+    },
+    {
+      "name": "Contivisión",
+      "isFree": true
+    },
+    {
+      "name": "EGM Channel",
+      "isFree": true
+    },
+    {
+      "name": "El Pinguino TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "EnerGeek",
+      "isFree": true,
+      "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png"
+    },
+    {
+      "name": "Estación TV",
+      "isFree": true,
+      "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=512x512:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png"
+    },
+    {
+      "name": "Eva Stream",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg"
+    },
+    {
+      "name": "Evavisión Pachanga",
+      "isFree": true,
+      "shortName": "EP"
+    },
+    {
+      "name": "Genial TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "HiperTV",
+      "isFree": true
+    },
+    {
+      "name": "ITV Patagonia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "LRP Televisión",
+      "isFree": true
+    },
+    {
+      "name": "La Red",
+      "isFree": true,
+      "website": "https://www.lared.cl",
+      "priority": 8
+    },
+    {
+      "name": "MAXIMA",
+      "isFree": true
+    },
+    {
+      "name": "Mega",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://www.mega.cl",
+      "priority": 9
+    },
+    {
+      "name": "MÁS+.TV Chile",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/_TNT SPORTS.png"
+    },
+    {
+      "name": "Pauta",
+      "isFree": true
+    },
+    {
+      "name": "Pintana TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Planetatv Kids",
+      "isFree": true
+    },
+    {
+      "name": "Planetatv Music",
+      "isFree": true
+    },
+    {
+      "name": "RealPro Online",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg"
+    },
+    {
+      "name": "Rocco TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Sello de Raza",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
+    },
+    {
+      "name": "Spectrum Channel LGBTQ+",
+      "isFree": true,
+      "shortName": "SCL",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png"
+    },
+    {
+      "name": "Stgo.TV",
+      "isFree": true
+    },
+    {
+      "name": "TV Costa",
+      "isFree": true
+    },
+    {
+      "name": "TV Pop",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Salud",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Vision",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "https://www.tvn.cl",
+      "priority": 10
+    },
+    {
+      "name": "TVR",
+      "isFree": true
+    },
+    {
+      "name": "Thema Televisión",
+      "isFree": true,
+      "logo": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png"
+    },
+    {
+      "name": "U Los Lagos TV",
+      "isFree": true
+    },
+    {
+      "name": "UCV3 TV",
+      "isFree": true
+    },
+    {
+      "name": "UTV San Clemente",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Universidad Autónoma Temuco",
+      "isFree": true,
+      "shortName": "UAT",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg",
+      "priority": 3
+    },
+    {
+      "name": "VC Online",
+      "isFree": true
+    },
+    {
+      "name": "VTV Valle de Aconcagua",
+      "isFree": true,
+      "shortName": "VVDA"
+    },
+    {
+      "name": "Zona Play TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png"
+    },
+    {
+      "name": "13 Cocina",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "13E",
+      "isFree": true,
+      "website": "https://www.13.cl/13e"
+    },
+    {
+      "name": "13 Humor",
+      "isFree": true,
+      "website": "https://www.13.cl/13humor"
+    },
+    {
+      "name": "13i",
+      "isFree": true,
+      "website": "https://13i.tv/"
+    },
+    {
+      "name": "13P",
+      "isFree": true,
+      "website": "https://www.13.cl/13p"
+    },
+    {
+      "name": "13 Pop",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "13 Realities",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "13 Viajes",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "38TV",
+      "isFree": true,
+      "website": "http://www.38tv.cl/"
+    },
+    {
+      "name": "Abajo e' La Linea TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/purmTpimRE18i7SmyZ01pyfrMAB.jpg",
+      "website": "https://www.abajoelalinea.cl/"
+    },
+    {
+      "name": "Agricultura TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.radioagricultura.cl/agricultura-tv/"
+    },
+    {
+      "name": "Alegria TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.alegriafm.cl/"
+    },
+    {
+      "name": "AM Canal",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://amcanal.cl/"
+    },
+    {
+      "name": "AMC TV",
+      "isFree": true,
+      "website": "https://www.amcmedios.cl/"
+    },
+    {
+      "name": "Araucovision",
+      "isFree": true,
+      "website": "https://araucovision.cl/"
+    },
+    {
+      "name": "Astro TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://astrotv.cl/"
+    },
+    {
+      "name": "ATV Valdivia",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "https://atvvaldivia.cl/"
+    },
+    {
+      "name": "Aysen TV",
+      "isFree": true,
+      "website": "https://www.aysen.tv/"
+    },
+    {
+      "name": "Bajos de Mena TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CVnHduC.png",
+      "website": "https://bajosdemenateve.cl/"
+    },
+    {
+      "name": "Bio Bio TV",
+      "isFree": true,
+      "website": "https://www.biobiochile.cl/biobiotv/"
+    },
+    {
+      "name": "Calama TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.calamatv.cl/"
+    },
+    {
+      "name": "Caldera Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.calderavision.cl/en-vivo/"
+    },
+    {
+      "name": "CampusTV",
+      "isFree": true,
+      "website": "http://campustv.utalca.cl/"
+    },
+    {
+      "name": "Canal 11 Aysen",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal11aysen.cl/"
+    },
+    {
+      "name": "Canal 1 Nuble",
+      "isFree": true,
+      "website": "https://www.canal1.cl/"
+    },
+    {
+      "name": "Canal 23 Chimbarongo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 2 Linares",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal2linares.cl/"
+    },
+    {
+      "name": "Canal 2 Quellon",
+      "isFree": true,
+      "website": "https://canal2quellon.cl/"
+    },
+    {
+      "name": "Canal 2 San Antonio",
+      "isFree": true,
+      "website": "https://cablenoticias.cl/canal2/"
+    },
+    {
+      "name": "Canal 30 Loncomilla",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal30.cl/"
+    },
+    {
+      "name": "Canal 30 Multicom",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal30multicom.com/"
+    },
+    {
+      "name": "Canal 5 Angol",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 5 Puerto Montt",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal5.cl/wp/"
+    },
+    {
+      "name": "Canal 74 San Antonio",
+      "isFree": true,
+      "website": "https://www.canal74.cl/"
+    },
+    {
+      "name": "Canal 8",
+      "isFree": true,
+      "keywords": "canal 8 -saavedra",
+      "website": "https://canal8tv.cl/"
+    },
+    {
+      "name": "Canal 8 Saavedra",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 9 Bio-Bio Television",
+      "isFree": true,
+      "website": "https://www.canal9.cl/"
+    },
+    {
+      "name": "Canal Alta Frontera",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalaltafrontera.cl/"
+    },
+    {
+      "name": "Canal Chilote",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canalchilote.cl/"
+    },
+    {
+      "name": "Canal Claro",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.clarochile.cl/"
+    },
+    {
+      "name": "Canal del Sur",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaldelsur.cl/"
+    },
+    {
+      "name": "Canal Latino 54",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://radio1latina.cl/"
+    },
+    {
+      "name": "Canal Local",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canallocal.cl/",
+      "priority": 4
+    },
+    {
+      "name": "Canal Mundo TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.tumundo.cl/mundo-go/"
+    },
+    {
+      "name": "Canal SCN",
+      "isFree": true
+    },
+    {
+      "name": "Canal Sur Patagonia",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalsurpatagonia.cl/"
+    },
+    {
+      "name": "Canal Survision Alerce",
+      "isFree": true,
+      "website": "https://tvsurvision.cl/"
+    },
+    {
+      "name": "Carnaval TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg"
+    },
+    {
+      "name": "Castro Television",
+      "isFree": true
+    },
+    {
+      "name": "CDF Premium",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-lVzoWmWiuDM/XaoB45FtDCI/AAAAAAAAAUM/2bMLK0toyBAaUGAPxEO3nXmJc-QgxsJqwCLcBGAsYHQ/s200/19.png"
+    },
+    {
+      "name": "CDTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pMnk2TH.png",
+      "website": "https://www.camara.cl/prensa/television.aspx"
+    },
+    {
+      "name": "ChallaTV",
+      "isFree": true,
+      "website": "https://challatv.cl/"
+    },
+    {
+      "name": "CHIC Magazine",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j001jrNNlOBXPyCPcldtSQqVWYv.jpg",
+      "website": "https://chicmagazinetv.online/"
+    },
+    {
+      "name": "Chile Channel",
+      "isFree": true,
+      "website": "https://chilechanneltv.cl/"
+    },
+    {
+      "name": "ChileVision",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/chilevision.png",
+      "website": "https://www.chilevision.cl/"
+    },
+    {
+      "name": "Cloudserver Latam CSTV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173724046984_73.png",
+      "website": "https://www.cloudserverlatam.com/television/"
+    },
+    {
+      "name": "Colina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiocumbre.cl/"
+    },
+    {
+      "name": "Concepcion TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+      "website": "https://www.concepciontv.cl/"
+    },
+    {
+      "name": "Conecta TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qEk0QGa.png",
+      "website": "https://conectatv.cl/"
+    },
+    {
+      "name": "Control.VG",
+      "isFree": true,
+      "website": "https://www.control.vg/"
+    },
+    {
+      "name": "Cool TV",
+      "isFree": true,
+      "website": "https://cooltv.cl/"
+    },
+    {
+      "name": "Cosmos TV",
+      "isFree": true,
+      "website": "https://globalcosmos.cl/"
+    },
+    {
+      "name": "Cronicas del Sur TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg",
+      "website": "https://cronicasdelsur.cl/"
+    },
+    {
+      "name": "CTV35",
+      "isFree": true,
+      "website": "https://www.ctv35.cl/"
+    },
+    {
+      "name": "Curanilahue Television",
+      "isFree": true
+    },
+    {
+      "name": "DCH TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.dch.tv/"
+    },
+    {
+      "name": "Decima TV",
+      "isFree": true,
+      "website": "https://www.decimatv.cl/"
+    },
+    {
+      "name": "Detras de la Razon",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "https://www.cloudserverlatam.com/television/"
+    },
+    {
+      "name": "Diferencia Radio TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiodiferenciapaillaco.cl/"
+    },
+    {
+      "name": "Ekiz TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ekiztv.cl/"
+    },
+    {
+      "name": "El 3 de Conce",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://el3deconce.cl/"
+    },
+    {
+      "name": "El Canal Feliz",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://elcanalfeliz.cl"
+    },
+    {
+      "name": "elhashtag TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://elhashtag.cl/"
+    },
+    {
+      "name": "Elquina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Emocion TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IzZ9wTCQSszfP6iwOroGEV3nJA.jpg",
+      "website": "https://www.emociontv.cl/"
+    },
+    {
+      "name": "Enfoque Digital TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GaJzjt5.png",
+      "website": "https://enfoquedigital.cl/"
+    },
+    {
+      "name": "Estacion Limache TV",
+      "isFree": true,
+      "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=512x512:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png",
+      "website": "https://limachetv.com/"
+    },
+    {
+      "name": "Estacion TV",
+      "isFree": true,
+      "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=512x512:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png",
+      "website": "http://estaciontv.cl/"
+    },
+    {
+      "name": "Estudio TV",
+      "isFree": true,
+      "website": "http://estudiotv.cl/"
+    },
+    {
+      "name": "Evavision",
+      "isFree": true,
+      "keywords": "evavision -pachanga",
+      "website": "https://consorcioeva.cl/"
+    },
+    {
+      "name": "Exprezion TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.exprezion.cl/"
+    },
+    {
+      "name": "Frecuencia 7 TV",
+      "isFree": true,
+      "website": "https://www.frecuencia7tv.cl/"
+    },
+    {
+      "name": "FX",
+      "isFree": true,
+      "website": "http://www.canalfx.tv/"
+    },
+    {
+      "name": "Galactika Media",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
+      "website": "http://www.xgomedia.cl/"
+    },
+    {
+      "name": "Geovision",
+      "isFree": true,
+      "website": "http://www.geotv.cl/"
+    },
+    {
+      "name": "Girovisual",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BYBMuhf.png",
+      "website": "https://girovisualtv.com/"
+    },
+    {
+      "name": "Gonza TV Radio",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.gonzatvradioaudiovisual.com/"
+    },
+    {
+      "name": "Goza TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tumundo.cl/mundo-go/"
+    },
+    {
+      "name": "GTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jjuKnYs.png",
+      "website": "https://www.gtv.cl/"
+    },
+    {
+      "name": "Hiperconectados TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CBbbrkI.png",
+      "website": "https://www.hiperconectados.com/"
+    },
+    {
+      "name": "Hito Cero Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
+      "website": "https://www.hitocerotv.cl/"
+    },
+    {
+      "name": "Huasco Television",
+      "isFree": true,
+      "website": "http://www.huascotelevisionstreaming.cl/"
+    },
+    {
+      "name": "Interactiva TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiointeractivafm.cl/"
+    },
+    {
+      "name": "Iquique TV",
+      "isFree": true,
+      "website": "https://iquiquetv.cl/"
+    },
+    {
+      "name": "Islita TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://islitatv.cl/"
+    },
+    {
+      "name": "Juntos TV",
+      "isFree": true,
+      "website": "https://www.juntostvchile.cl/"
+    },
+    {
+      "name": "Kanade",
+      "isFree": true,
+      "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+      "website": "https://kanade.cl"
+    },
+    {
+      "name": "La Chilena TV",
+      "isFree": true,
+      "website": "https://lachilena.tutv.cl/"
+    },
+    {
+      "name": "La Melinkana TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.lamelinkanafm.cl/"
+    },
+    {
+      "name": "La Metro TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://lametrofm.cl/"
+    },
+    {
+      "name": "Lanco TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://lancotv.cl/"
+    },
+    {
+      "name": "La Nuestra",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://www.lanuestra.cl/"
+    },
+    {
+      "name": "Latina Network TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/atenalatina.png",
+      "website": "https://www.vivalivetv.com/channel/latina-network-tv"
+    },
+    {
+      "name": "Legua TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Llanquihue TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Lof Television",
+      "isFree": true,
+      "website": "https://lofchile.cl/"
+    },
+    {
+      "name": "Lo Hermida Television",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/LIGA1 MAX.png",
+      "website": "https://lhtv.cl/"
+    },
+    {
+      "name": "Longino TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://longinotv.cl/"
+    },
+    {
+      "name": "Los Volcanes Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyxh9Wr9iYXsn1kJs77IoACNL2d.jpg",
+      "website": "https://losvolcanesradioytelevision.cl/"
+    },
+    {
+      "name": "LRP TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.lrptelevision.com/"
+    },
+    {
+      "name": "Maray TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.maray.cl/maraytv/"
+    },
+    {
+      "name": "Marga Marga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://margamargatv.cl/"
+    },
+    {
+      "name": "Mata O Te Rapa Nui",
+      "isFree": true
+    },
+    {
+      "name": "Maulevision",
+      "isFree": true,
+      "website": "https://maulevision.com/"
+    },
+    {
+      "name": "Mejillones Television",
+      "isFree": true,
+      "website": "https://www.mejillones.cl/"
+    },
+    {
+      "name": "Milodon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://milodoncomunicaciones.com/milodon-tv/"
+    },
+    {
+      "name": "Mi Radio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12qaWw3KntFPoOCEJFSCLAuL7rN.jpg",
+      "website": "https://miradiotv.cl/"
+    },
+    {
+      "name": "Mundos Lacustres TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg"
+    },
+    {
+      "name": "Nada Es Imposible TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ff1lAyHGkMnCbWSaCWW5r4rruC.jpg",
+      "website": "https://www.tvnei.cl/"
+    },
+    {
+      "name": "Nativa TV",
+      "isFree": true,
+      "website": "https://nativatv.cl/"
+    },
+    {
+      "name": "NexoTV",
+      "isFree": true,
+      "website": "https://nexotv.cl/noticias/"
+    },
+    {
+      "name": "Nortevision",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4123a2df3757aa834bf7d455734344aa.png",
+      "website": "https://nortevisiontv.cl/"
+    },
+    {
+      "name": "NORTV Antofagasta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Nova TV Canal 7",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://novatv.cl/"
+    },
+    {
+      "name": "Nublevision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nkQyR1X.png",
+      "website": "https://nublevision.cl/"
+    },
+    {
+      "name": "Nueva Region TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg",
+      "website": "https://nuevaregion.cl/"
+    },
+    {
+      "name": "Odisea TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/odisea1.png",
+      "website": "https://radioodisea.cl/"
+    },
+    {
+      "name": "Oli TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heCJcnFHizhV286Y71W92f9mrBQ.jpg",
+      "website": "https://olitv.cl/"
+    },
+    {
+      "name": "Origen TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",
+      "website": "https://www.origentv.cl/"
+    },
+    {
+      "name": "Osorno TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.osornotv.cl/"
+    },
+    {
+      "name": "Oveja TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg",
+      "website": "https://ovejatelevision.blogspot.com/"
+    },
+    {
+      "name": "Pacifico Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btJ5923p0ucV6XvgDD7rpQgqELX.jpg",
+      "website": "https://pacificotelevisionhd.cl/"
+    },
+    {
+      "name": "Palmira TV 5",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://palmiratv5.cl/"
+    },
+    {
+      "name": "Pichilemu TV",
+      "isFree": true,
+      "website": "https://pichilemutv.org/"
+    },
+    {
+      "name": "PlanetaTV 90s",
+      "isFree": true,
+      "website": "https://planetatv.online/"
+    },
+    {
+      "name": "Plaza TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Hgof6lzqZL2i30SnYgRl0Q5Pn.jpg",
+      "website": "https://tuplazatv.cl/"
+    },
+    {
+      "name": "Polar TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "website": "https://www.radiopolar.com/"
+    },
+    {
+      "name": "PRIDEtv LATAM",
+      "isFree": true,
+      "website": "https://pridetvlatam.com"
+    },
+    {
+      "name": "Primicia TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Primitivos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Providencia Television",
+      "isFree": true,
+      "website": "https://providenciatelevision.cl/"
+    },
+    {
+      "name": "Provincial TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Pucon TV",
+      "isFree": true,
+      "website": "https://www.pucontv.com/"
+    },
+    {
+      "name": "Puerta Norte HD",
+      "isFree": true,
+      "logo": "https://i.ibb.co/bRQbVdwN/image.png",
+      "website": "https://radiopuertanorte.cl/"
+    },
+    {
+      "name": "Quilicura TV",
+      "isFree": true,
+      "keywords": "quilicura tv -kids",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://canalquilicuratelevision.blogspot.com/"
+    },
+    {
+      "name": "Quillayino TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://quillayino.cl/quillayino-tv/"
+    },
+    {
+      "name": "Quinta Vision",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWD0WH0d9dDPK54Dt8IJsjaEcxO.jpg",
+      "website": "https://www.quintavision.cl/"
+    },
+    {
+      "name": "Radio America TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radioamerica.cl/"
+    },
+    {
+      "name": "Radio Hoy TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiohoy.cl/hoytv/"
+    },
+    {
+      "name": "Radio Infinita",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.infinita.cl/"
+    },
+    {
+      "name": "Radio Popular TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiopopularcoihueco.cl/radio/"
+    },
+    {
+      "name": "Radio Touch TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiotouchtv.cl/"
+    },
+    {
+      "name": "Radio Tributo Valentina",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://tributovalentina.cl/"
+    },
+    {
+      "name": "RDO Television",
+      "isFree": true
+    },
+    {
+      "name": "Red Vision Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://www.rvtv.cl/"
+    },
+    {
+      "name": "Rial TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://rialtv.cl/"
+    },
+    {
+      "name": "RTC Television",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/rtctele.png",
+      "website": "https://www.rtctelevision.cl/"
+    },
+    {
+      "name": "RTV Nuble",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://canalrtv.cl/"
+    },
+    {
+      "name": "San Nicolas TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "website": "https://sannicolastv.cl/"
+    },
+    {
+      "name": "Santa Maria Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SnbGpoK.png",
+      "website": "https://santamariatv.cl/"
+    },
+    {
+      "name": "SB Television",
+      "isFree": true
+    },
+    {
+      "name": "Senal 3 La Victoria",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png",
+      "website": "https://canal3lavictoria.cl/"
+    },
+    {
+      "name": "Sextavision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mwUZBU9.png",
+      "website": "https://sextavision.cl/"
+    },
+    {
+      "name": "Soberania TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.soberaniaradio.cl/"
+    },
+    {
+      "name": "SoloStandUp",
+      "isFree": true,
+      "website": "https://www.solostandup.com/"
+    },
+    {
+      "name": "Spectrum Channel",
+      "isFree": true,
+      "keywords": "spectrum channel -lgbtq+",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png",
+      "website": "https://spectrumtv.cl"
+    },
+    {
+      "name": "Stream Latino",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/az0k8pzdeqrrEO9iu8vL081bjA0.jpg",
+      "website": "https://streamlatino.net/"
+    },
+    {
+      "name": "Subela",
+      "isFree": true,
+      "website": "https://www.subela.cl/"
+    },
+    {
+      "name": "Surena TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.radiodelsur.cl/"
+    },
+    {
+      "name": "SUR TV",
+      "isFree": true,
+      "website": "https://www.surtv.cl/"
+    },
+    {
+      "name": "Tamarugal TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tele 2 Web Retiro",
+      "isFree": true,
+      "website": "https://tele2web.cl/",
+      "priority": 4
+    },
+    {
+      "name": "Teleangol",
+      "isFree": true,
+      "website": "https://www.teleangol.cl/"
+    },
+    {
+      "name": "Teleton TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://teletontv.cl/"
+    },
+    {
+      "name": "Temuco Television",
+      "isFree": true,
+      "website": "https://temucotelevision.cl/web/"
+    },
+    {
+      "name": "Tendencias Prime",
+      "isFree": true,
+      "website": "https://www.tendenciastv.cl/"
+    },
+    {
+      "name": "Thema Television",
+      "isFree": true,
+      "logo": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png",
+      "website": "https://www.thematelevision.cl/"
+    },
+    {
+      "name": "TMN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CANADA/TMN3.png",
+      "website": "http://tmntv.cl/"
+    },
+    {
+      "name": "Tres Puntos TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw0Y4KX5czrv1txfykQtvpK3Qh7.jpg",
+      "website": "https://radiotrespuntos.cl/"
+    },
+    {
+      "name": "Tu Canal Colina",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvMNvJAehgJHnRow7YklgSlB1f.jpg",
+      "website": "http://www.corporacioncolina.cl/streaming-tu-canal-colina-senal-online/"
+    },
+    {
+      "name": "Turismo Travel TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "website": "https://turismotravel.tv/"
+    },
+    {
+      "name": "TV2 Choapa",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "website": "https://tv2choapa.es.tl/"
+    },
+    {
+      "name": "TV4 Television",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png"
+    },
+    {
+      "name": "TV5 Linares",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://www.tv5.cl/"
+    },
+    {
+      "name": "TV8 Concepcion",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png",
+      "website": "https://www.canaltv8.cl/"
+    },
+    {
+      "name": "TV8 Penalolen",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png",
+      "website": "https://canal8.cl/"
+    },
+    {
+      "name": "TV Bajo Cero",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://bajoceromultimedia.net/"
+    },
+    {
+      "name": "TV Chile",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvn.cl"
+    },
+    {
+      "name": "T-Vinet",
+      "isFree": true,
+      "website": "http://www.tvinet.cl/"
+    },
+    {
+      "name": "TVM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "https://canaltvm.cl/"
+    },
+    {
+      "name": "TVO San Vicente",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/tvo.png",
+      "website": "http://www.tvosanvicente.cl/"
+    },
+    {
+      "name": "TV Play Chiloe",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvplaychiloe.cl/"
+    },
+    {
+      "name": "TV+",
+      "isFree": true,
+      "keywords": "tv+ -2",
+      "website": "https://www.tvmas.tv/"
+    },
+    {
+      "name": "TV+ 2",
+      "isFree": true,
+      "website": "https://www.tvmas.tv/"
+    },
+    {
+      "name": "TV Pulso",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.fmpulso.cl/tv/"
+    },
+    {
+      "name": "TV Quinta Region",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvquintaregion.cl/"
+    },
+    {
+      "name": "TVR Canal 11",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
+      "website": "https://www.canal11curico.cl/"
+    },
+    {
+      "name": "TVU",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+      "website": "https://tvu.cl/"
+    },
+    {
+      "name": "TV UCT",
+      "isFree": true,
+      "website": "https://www.tvuct.cl/"
+    },
+    {
+      "name": "UATV",
+      "isFree": true,
+      "website": "https://uatv.cl/"
+    },
+    {
+      "name": "UESTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://www.uestv.cl/en-vivo/"
+    },
+    {
+      "name": "Ufrovision",
+      "isFree": true,
+      "website": "https://www.ufromedios.cl/ufrovision/"
+    },
+    {
+      "name": "Unetev",
+      "isFree": true,
+      "website": "https://www.unetev.cl/"
+    },
+    {
+      "name": "Uniregion TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://uniregion.cl/"
+    },
+    {
+      "name": "UTV",
+      "isFree": true,
+      "keywords": "utv -san clemente",
+      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png",
+      "website": "https://www.utv.cl/"
+    },
+    {
+      "name": "Vertice TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.vertice.tv/"
+    },
+    {
+      "name": "Via X",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/VIA.png",
+      "website": "https://www.canalviax.com/"
+    },
+    {
+      "name": "Vision Plus TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.visionplustv.cl/"
+    },
+    {
+      "name": "Vision TV",
+      "isFree": true,
+      "website": "https://visiontv.cl/"
+    },
+    {
+      "name": "Vitalidad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tumundo.cl/mundo-go/"
+    },
+    {
+      "name": "Vive Elqui TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmKAVP6xHxRGAAs4qaF38qG5Cd.jpg"
+    },
+    {
+      "name": "Vivo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+      "website": "http://www.vivotv.cl/"
+    },
+    {
+      "name": "VLTV",
+      "isFree": true,
+      "website": "https://vltv.cl/"
+    },
+    {
+      "name": "Voz Populi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Zv8CxZX.png",
+      "website": "https://diariovozpopuli.cl/"
+    },
+    {
+      "name": "VTV Vina del Mar y Valparaiso",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/vtv.png",
+      "website": "https://www.canalvtv.cl/"
+    },
+    {
+      "name": "Wowly",
+      "isFree": true,
+      "website": "https://beta.wowlymedia.com/"
+    },
+    {
+      "name": "Yungay Online",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg",
+      "website": "https://yungayonline.cl/"
+    },
+    {
+      "name": "Zona Latina",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-qlcF-s7VLzE/XdIR3YjEafI/AAAAAAAAA2U/jKb6WFvP2D8JjOPrVbKjSD17zXHZwrypgCLcBGAsYHQ/s200/45.png",
+      "website": "https://www.zonalatinatv.com/"
+    },
+    {
+      "name": "Zonal TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zonaltelevision.cl/"
+    },
+    {
+      "name": "Zona Sur TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://zonasurtv.cl/"
+    },
+    {
+      "name": "Paramount Skydance",
+      "isFree": null,
+      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
+    },
+    {
+      "name": "Mega Media",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Albavisión",
+      "isFree": null
+    },
+    {
+      "name": "NTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/SoBhuIb.png"
+    },
+    {
+      "name": "PBS Chile/Public Broadcasting Services",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/PBS.png"
+    },
+    {
+      "name": "13C",
+      "isFree": null,
+      "logo": "https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png"
+    },
+    {
+      "name": "ARTV",
+      "isFree": null
+    },
+    {
+      "name": "TVI Chile",
+      "isFree": null,
+      "logo": "https://go4.pw/germany/rtl.png"
+    },
+    {
+      "name": "El Mostrador",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "CDtv S.A.",
+      "isFree": null,
+      "logo": "https://i.imgur.com/pMnk2TH.png"
+    },
+    {
+      "name": "class=\"wikitable\"",
+      "isFree": null
+    },
+    {
+      "name": "Carey Media Holdings",
+      "isFree": null,
+      "logo": "https://d2mmbvottm1hc6.cloudfront.net/TPIR_Logo_Whitex200.png"
+    },
+    {
+      "name": "Canal 24 Horas",
+      "isFree": null
+    },
+    {
+      "name": "Luksic Group/Canal 13 S.A.",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "RTM",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png"
+    },
+    {
+      "name": "Arica TV S.A",
+      "isFree": null
+    },
+    {
+      "name": "Tarapaca Televisión S.A.",
+      "isFree": null
+    },
+    {
+      "name": "NorTv S.A.",
+      "isFree": null
+    },
+    {
+      "name": "Antofagasta TV S.A.",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "VLP S.A.",
+      "isFree": null
+    },
+    {
+      "name": "Digital Channel S.A.",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg"
+    },
+    {
+      "name": "Siete S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png"
+    },
+    {
+      "name": "Holvoet S.A.",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "STM S.A.",
+      "isFree": null
+    },
+    {
+      "name": "Andacollo Televisión S.A.",
+      "isFree": null
+    },
+    {
+      "name": "TV2 Choapa S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png"
+    },
+    {
+      "name": "Thema Comunicaciones",
+      "isFree": null,
+      "logo": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png"
+    },
+    {
+      "name": "Canal 4 S.A",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "QU",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagFQeyTjgAvECPOIfRa7N8L6Hk.jpg"
+    },
+    {
+      "name": "Girovisual television S.A.",
+      "isFree": null,
+      "logo": "https://i.imgur.com/BYBMuhf.png"
+    },
+    {
+      "name": "Valle Televisión S.A.",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jpMGO0qIzcR3MQr9x4AzWuMJl.jpg"
+    },
+    {
+      "name": "Canal 2 San Antonio S.A.",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Bio Bio Comunicaciones.",
+      "isFree": null
+    },
+    {
+      "name": "Canal 21 S.A.",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TV8 S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png"
+    },
+    {
+      "name": "NCC S.A.",
+      "isFree": null
+    },
+    {
+      "name": "U. Autónoma Chile Televisión.",
+      "isFree": null
+    },
+    {
+      "name": "Pucón TV S.A",
+      "isFree": null
+    },
+    {
+      "name": "ATV S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Canal 5 S.A.",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TVA de Ancud S.A",
+      "isFree": null
+    },
+    {
+      "name": "Telesur S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png"
+    },
+    {
+      "name": "TV Allakintuy S.A.",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Magallanes Region",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "ITV S.A.",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/itvquiz.png"
+    },
+    {
+      "name": "Patagónica Publicaciones S.A.",
+      "isFree": null
+    },
+    {
+      "name": "Polar TV S.A.",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
+    },
+    {
+      "name": "Media of Chile",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "TV+]]",
+      "isFree": null
+    },
+    {
+      "name": "Canal 13]]",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "TVN]]",
+      "isFree": null
+    },
+    {
+      "name": "Mega]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "La Red]]",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "NTV]]",
+      "isFree": null
+    },
+    {
+      "name": "13C]]",
+      "isFree": null
+    },
+    {
+      "name": "ARTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Canal 24 Horas]]",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Magallanes Region]]===",
+      "isFree": null
+    }
+  ],
+  "News": [
+    {
+      "name": "24 Horas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Meganoticias",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "T13",
+      "isFree": true
+    },
+    {
+      "name": "Tevex",
+      "isFree": true
+    },
+    {
+      "name": "ADN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/adn40.png",
+      "website": "https://www.adnradio.cl/"
+    },
+    {
+      "name": "Atacama Noticias",
+      "isFree": true,
+      "website": "https://www.atacamanoticias.cl/"
+    },
+    {
+      "name": "Canal de Noticias Colchagua",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://cncomunica.cl/"
+    },
+    {
+      "name": "Canal Ecool",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Cappissima Multimedial",
+      "isFree": true,
+      "website": "https://cappissimamultimedial.cl/"
+    },
+    {
+      "name": "Cauquenesnet",
+      "isFree": true,
+      "website": "https://cauquenesnet.cl/"
+    },
+    {
+      "name": "Central Noticias",
+      "isFree": true,
+      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png",
+      "website": "https://centralnoticias.cl/"
+    },
+    {
+      "name": "Chile Informa",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/_TNT SPORTS.png",
+      "website": "http://chileinforma.multicontenidos.cl/"
+    },
+    {
+      "name": "CHV Noticias",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VIX.png",
+      "website": "https://www.chvnoticias.cl/"
+    },
+    {
+      "name": "CNN Chile",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",
+      "website": "https://edition.cnn.com/",
+      "priority": 10
+    },
+    {
+      "name": "Contivision",
+      "isFree": true,
+      "website": "http://w.contivision.cl/cvn/"
+    },
+    {
+      "name": "El Centro TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.diarioelcentro.cl/centro-tv/"
+    },
+    {
+      "name": "El Tipografo",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://eltipografo.cl/eltipografotv"
+    },
+    {
+      "name": "Madero TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.maderotv.cl/"
+    },
+    {
+      "name": "Meganoticias Ahora",
+      "isFree": true,
+      "website": "https://www.meganoticias.cl/",
+      "priority": 9
+    },
+    {
+      "name": "Megatiempo",
+      "isFree": true,
+      "website": "https://www.megatiempo.cl/",
+      "priority": 9
+    },
+    {
+      "name": "Molina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://web.molina.cl/"
+    },
+    {
+      "name": "NCTV",
+      "isFree": true,
+      "website": "https://nctv.cl/"
+    },
+    {
+      "name": "Opinionsur",
+      "isFree": true,
+      "website": "https://opinionsur.cl/"
+    },
+    {
+      "name": "Puranoticia TV",
+      "isFree": true,
+      "website": "https://puranoticia.pnt.cl/"
+    },
+    {
+      "name": "Telecanal",
+      "isFree": true,
+      "keywords": "telecanal -santa cruz",
+      "website": "https://www.telecanal.cl/"
+    },
+    {
+      "name": "Telecanal Santa Cruz",
+      "isFree": true,
+      "website": "https://www.santacruztelecanalhd.cl/"
+    },
+    {
+      "name": "TeleCauquenes",
+      "isFree": true,
+      "website": "https://www.telecauquenes.cl/"
+    },
+    {
+      "name": "Turno",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKcsME7Bjlo9EvKp51MkgQ8tgQD.jpg",
+      "website": "https://www.turno.live/"
+    }
+  ],
+  "Local": [
+    {
+      "name": "Alternativa TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ALTERNATIVA.png",
+      "priority": 4
+    },
+    {
+      "name": "Antofagasta TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 4
+    },
+    {
+      "name": "Atacama TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Aysén TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Buin Somos Todos",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "CEAC TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Campus TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 57 Melipilla",
+      "isFree": true,
+      "shortName": "C5M",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 74",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal TUTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Caracola TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Click TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Cloudserver Kids90",
+      "isFree": true,
+      "shortName": "CK",
+      "priority": 4
+    },
+    {
+      "name": "Cloudserver Latam",
+      "isFree": true,
+      "shortName": "CL",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173724046984_73.png",
+      "priority": 4
+    },
+    {
+      "name": "Club TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Décima TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "EKIZ TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Elion Canal Digital",
+      "isFree": true,
+      "shortName": "ECD",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Exprezión TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Geovisión",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Holvoet TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 4
+    },
+    {
+      "name": "LTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "La Granja TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 4
+    },
+    {
+      "name": "La Popular TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Puncón TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Santa María Televisión",
+      "isFree": true,
+      "shortName": "SMT",
+      "logo": "https://i.imgur.com/SnbGpoK.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Elqui",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Osorno",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Quellón",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Quinta Región",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "TV Senado",
+      "isFree": true,
+      "logo": "https://i.imgur.com/duy6waL.png",
+      "priority": 4
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "priority": 4
+    },
+    {
+      "name": "TVO",
+      "isFree": true,
+      "keywords": "tvo -tocopilla",
+      "logo": "https://i.imgur.com/wFC6Xxq.png",
+      "priority": 4
+    },
+    {
+      "name": "TVO Tocopilla",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Tele 2 Web",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "priority": 4
+    },
+    {
+      "name": "Tendencias 31 Prime",
+      "isFree": true,
+      "shortName": "T3P",
+      "priority": 4
+    },
+    {
+      "name": "Visión Plus TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Ziza TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Ñuble RTV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Ñublevisión",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nkQyR1X.png",
+      "priority": 4
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Canal ISB",
+      "isFree": true,
+      "logo": "https://i.imgur.com/cQ4ggTw.png"
+    },
+    {
+      "name": "Gracia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Restaurando Vidas Internacional",
+      "isFree": true,
+      "shortName": "RVI",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bdHnCvgRb3lkCIT0PryyZRDUWs.jpg"
+    },
+    {
+      "name": "TNE",
+      "isFree": true
+    },
+    {
+      "name": "Unidad Evangelica TV",
+      "isFree": true,
+      "shortName": "UET",
+      "logo": "http://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png"
+    },
+    {
+      "name": "Vida TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXkbwWRE1uSM6heVsoGZ04xxKMJ.jpg"
+    },
+    {
+      "name": "Voz de Poder",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Zv8CxZX.png"
+    },
+    {
+      "name": "15.1 BPB",
+      "isFree": true,
+      "website": "https://www.151.cl/"
+    },
+    {
+      "name": "Casa Sobre La Roca TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvTGWaQejnHQBZbEOrdbb38NBTC.jpg",
+      "website": "https://tv.casasobreroca.cl/"
+    },
+    {
+      "name": "Fortaleza TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "https://www.fortalezatv.cl/"
+    },
+    {
+      "name": "MTNA TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/v7SA92F.png",
+      "website": "https://www.mtna.tv/"
+    },
+    {
+      "name": "NCC TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Nuevo Tiempo TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/XITE.png",
+      "website": "https://www.nuevotiempo.cl/tv/"
+    },
+    {
+      "name": "Radio Armonia TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.armonia.cl/"
+    },
+    {
+      "name": "Red de Fe TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "Televida",
+      "isFree": true,
+      "website": "https://www.televida.cl/"
+    },
+    {
+      "name": "Telezion",
+      "isFree": true
+    },
+    {
+      "name": "Vida Nueva TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXkbwWRE1uSM6heVsoGZ04xxKMJ.jpg",
+      "website": "https://www.vidanuevaradio.cl/vida-nueva-television/"
+    },
+    {
+      "name": "Voz de Poder Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/876y75O.png",
+      "website": "https://vozdepoder.cl/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "RedBull Batalla de Gallos",
+      "isFree": false,
+      "shortName": "RBDG",
+      "logo": "https://go4.pw/AUSTRALIA/REDBULLTV-1.png"
+    },
+    {
+      "name": "Teletrak",
+      "isFree": false
+    },
+    {
+      "name": "Turf Móvil",
+      "isFree": false,
+      "logo": "https://i.imgur.com/TwIe4lK.png"
+    },
+    {
+      "name": "CDF Basico",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-lVzoWmWiuDM/XaoB45FtDCI/AAAAAAAAAUM/2bMLK0toyBAaUGAPxEO3nXmJc-QgxsJqwCLcBGAsYHQ/s200/19.png",
+      "website": "https://tntsports.cl/"
+    },
+    {
+      "name": "CDO",
+      "isFree": true,
+      "keywords": "cdo -basico -premium",
+      "logo": "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",
+      "website": "http://www.cdo.tv/"
+    },
+    {
+      "name": "CDO Basico",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CDO BASICO.png",
+      "website": "http://www.cdo.tv/"
+    },
+    {
+      "name": "CDO Premium",
+      "isFree": true,
+      "website": "http://www.cdo.tv/"
+    },
+    {
+      "name": "CDR",
+      "isFree": true,
+      "website": "http://www.xgomedia.cl/"
+    },
+    {
+      "name": "Claro Sports Chile",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CLAROCINEMA.png",
+      "website": "https://www.marca.com/claro-mx/"
+    },
+    {
+      "name": "CRTV",
+      "isFree": true,
+      "website": "https://crtvchile.cl/"
+    },
+    {
+      "name": "D13",
+      "isFree": true,
+      "website": "https://www.deportes13.cl/"
+    },
+    {
+      "name": "ESPN Premium",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "Fox Sports 1",
+      "isFree": true,
+      "website": "http://foxsportspremium.cl/",
+      "priority": 10
+    },
+    {
+      "name": "Red Bull Batalla de los Gallos",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://www.cloudserverlatam.com/television/"
+    },
+    {
+      "name": "Teletrak TV",
+      "isFree": true,
+      "website": "https://www.teletrak.cl/"
+    },
+    {
+      "name": "TNT Sports",
+      "isFree": true,
+      "keywords": "tnt sports -2 -3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "website": "https://www.tntsports.cl/"
+    },
+    {
+      "name": "TNT Sports 2",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "website": "https://www.tntsports.cl/"
+    },
+    {
+      "name": "TNT Sports 3",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "website": "https://www.tntsports.cl/"
+    },
+    {
+      "name": "Turf Movil",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TwIe4lK.png",
+      "website": "https://tvturf.cl/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "ARABTV",
+      "isFree": true
+    },
+    {
+      "name": "Cultura Online",
+      "isFree": true,
+      "logo": "http://i.imgur.com/kai6F2R.png"
+    },
+    {
+      "name": "Wapp",
+      "isFree": true
+    },
+    {
+      "name": "13C",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",
+      "website": "https://www.13.cl/c"
+    },
+    {
+      "name": "ARTV",
+      "isFree": true,
+      "website": "http://www.artv.cl/"
+    },
+    {
+      "name": "Chiloe Red 25",
+      "isFree": true,
+      "website": "https://chiloered25.cl/"
+    },
+    {
+      "name": "ClickTV Chile",
+      "isFree": true,
+      "logo": "https://i.imgur.com/H0XNbMS.png",
+      "website": "https://clicktvchile.cl/"
+    },
+    {
+      "name": "Corcubio TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.corcubio.com/"
+    },
+    {
+      "name": "Docu.",
+      "isFree": true
+    },
+    {
+      "name": "GVision",
+      "isFree": true,
+      "website": "https://www.gvision.cl/"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://www.historyplay.tv/"
+    },
+    {
+      "name": "Lautaro Educa TV",
+      "isFree": true
+    },
+    {
+      "name": "Mega 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://www.mega.cl/temas/mega-2/",
+      "priority": 9
+    },
+    {
+      "name": "NTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SoBhuIb.png",
+      "website": "https://www.tvn.cl/ntv"
+    },
+    {
+      "name": "Radio Suyai TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radio.suyaitv.cl"
+    },
+    {
+      "name": "Salesianos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Suyai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://suyaitv.cl"
+    },
+    {
+      "name": "TV Aconcagua",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvaconcagua.cl/"
+    },
+    {
+      "name": "TV Usach",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.santiagotelevision.cl/"
+    },
+    {
+      "name": "UChile TV",
+      "isFree": true,
+      "website": "https://www.uchile.cl/uchiletv"
+    },
+    {
+      "name": "UCV TV",
+      "isFree": true,
+      "website": "https://ucvtv.cl/home.php"
+    },
+    {
+      "name": "UMAGTV",
+      "isFree": true,
+      "website": "https://www.umagtv.cl/blank-1"
+    },
+    {
+      "name": "UTalca TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.utalca.cl/"
+    },
+    {
+      "name": "Verso TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPwJVO6y7OOLhTU4uNw6u1wQvDq.jpg",
+      "website": "https://www.verso.cl/television"
+    },
+    {
+      "name": "ArabTV",
+      "isFree": true,
+      "website": "https://www.arabtv.cl/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Carolina TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "MIX 24/7 Conciertos",
+      "isFree": true,
+      "shortName": "M2C",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Mundo de la Música",
+      "isFree": true,
+      "shortName": "MDLM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1LwZgPKcvxaIgWauX8F5Cs6HS.jpg"
+    },
+    {
+      "name": "Portalfoxmix",
+      "isFree": true
+    },
+    {
+      "name": "RCK TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Retro Plus",
+      "isFree": true,
+      "keywords": "retro plus -2 -3"
+    },
+    {
+      "name": "Retro Plus 2",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Rewind TV",
+      "isFree": true,
+      "logo": "https://go4.pw/GOLDTV/gold tv.png"
+    },
+    {
+      "name": "13 Festival",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "Apocalipsis TVD",
+      "isFree": true,
+      "website": "https://apocalipsis.vip/"
+    },
+    {
+      "name": "Canal DOS",
+      "isFree": true,
+      "keywords": "canal dos -kids",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "CCP Radio",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://ccpradio.cl"
+    },
+    {
+      "name": "Cloudserver CloudFM",
+      "isFree": true,
+      "website": "https://www.cloudserverlatam.com/television/"
+    },
+    {
+      "name": "Dance FM",
+      "isFree": true,
+      "website": "https://www.dancefm.cl/live/"
+    },
+    {
+      "name": "Dinamica TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiodinamica.cl/canal-dinamica-tv/"
+    },
+    {
+      "name": "DJ Loncho TV",
+      "isFree": true,
+      "website": "https://djlonchoradio.com/"
+    },
+    {
+      "name": "EnerGeek Radio",
+      "isFree": true,
+      "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+      "website": "https://energeek.cl/"
+    },
+    {
+      "name": "Evavision Pachanga",
+      "isFree": true,
+      "website": "https://consorcioeva.cl/"
+    },
+    {
+      "name": "FM Kitsch TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://fmkitsch.cl/fmkitschtv/"
+    },
+    {
+      "name": "FM Mas Longavi",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://maslongavi.cl/"
+    },
+    {
+      "name": "FM Plus TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://www.fmplus.cl/"
+    },
+    {
+      "name": "Generacion Kpop",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
+      "website": "http://www.generacionkpop.net/"
+    },
+    {
+      "name": "Interradio TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.interradio1.net/"
+    },
+    {
+      "name": "Karavana TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://karavanatv.multicontenidos.cl/"
+    },
+    {
+      "name": "Karavana Urbano",
+      "isFree": true,
+      "website": "https://www.multicontenidos.net/canales/karavana-urbano"
+    },
+    {
+      "name": "Latinos Radio",
+      "isFree": true,
+      "website": "https://latinosradio.cl/"
+    },
+    {
+      "name": "Macarena FM",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://macarenafm.cl/"
+    },
+    {
+      "name": "Maqui TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://maquionline.cl/wp/maqui-tv/"
+    },
+    {
+      "name": "Maxima FM",
+      "isFree": true,
+      "keywords": "maxima fm -chile",
+      "logo": "https://go4.pw/NEDERLAND/VIDEOLAND.png",
+      "website": "https://maximachile.cl/"
+    },
+    {
+      "name": "Maxima FM Chile",
+      "isFree": true,
+      "logo": "https://go4.pw/NEDERLAND/VIDEOLAND.png",
+      "website": "https://maximachile.cl/"
+    },
+    {
+      "name": "Mundo de la Musica",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1LwZgPKcvxaIgWauX8F5Cs6HS.jpg",
+      "website": "https://mundodelamusicachile.cl/"
+    },
+    {
+      "name": "Patagonia Radio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://patagoniaradio.cl/"
+    },
+    {
+      "name": "PlanetaTV Music",
+      "isFree": true,
+      "website": "https://planetatv.online/"
+    },
+    {
+      "name": "Radio La Serena TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioserena.cl/"
+    },
+    {
+      "name": "Radio Q",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioq.cl/"
+    },
+    {
+      "name": "Radioteca Webstereo",
+      "isFree": true,
+      "website": "https://www.radiotecawebstereo.cl/"
+    },
+    {
+      "name": "Recuerdos Retro",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pn1mKv7sFF5f7fZSGXy1nbLFcn.jpg",
+      "website": "https://recuerdosretro.com/"
+    },
+    {
+      "name": "Ritoque TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ritoquefm.cl/ritoquetv/"
+    },
+    {
+      "name": "Romantica TV",
+      "isFree": true,
+      "website": "https://www.romantica.cl/romantica-tv/"
+    },
+    {
+      "name": "Sensacion Costa",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://sensacioncosta.cl/"
+    },
+    {
+      "name": "Solo Bailalo",
+      "isFree": true,
+      "website": "https://www.solobailalo.cl/"
+    },
+    {
+      "name": "Terranova Television",
+      "isFree": true
+    },
+    {
+      "name": "TV Hits",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvhits.online/"
+    },
+    {
+      "name": "UMAGTV2",
+      "isFree": true,
+      "website": "https://www.umagtv.cl/blank-2"
+    },
+    {
+      "name": "V Classic TV",
+      "isFree": true,
+      "website": "https://www.radiocoquimbo.cl/"
+    },
+    {
+      "name": "Viwix TV Music",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://viwix.cl/en-vivo-4/"
+    },
+    {
+      "name": "Zapping Music",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.zapping.com/music"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Planetatv Movie",
+      "isFree": false
+    },
+    {
+      "name": "Retro Plus 3",
+      "isFree": false,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "13Rec",
+      "isFree": true,
+      "website": "https://www.13.cl/rec"
+    },
+    {
+      "name": "13T",
+      "isFree": true,
+      "website": "https://www.13go.cl/"
+    },
+    {
+      "name": "Eva Retro",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg",
+      "website": "https://consorcioeva.cl/"
+    },
+    {
+      "name": "Mega Ficcion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://www.mega.cl/temas/mega-ficcion/",
+      "priority": 9
+    },
+    {
+      "name": "Star Channel",
+      "isFree": true,
+      "website": "https://www.star-latam.com/"
+    },
+    {
+      "name": "TVN3",
+      "isFree": true,
+      "website": "https://www.tvn.cl/tvn3"
+    },
+    {
+      "name": "Viwix TV Accion",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://viwix.cl/en-vivo/"
+    },
+    {
+      "name": "Viwix TV Estrenos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://viwix.cl/en-vivo-3/"
+    },
+    {
+      "name": "Viwix TV Series",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://viwix.cl/en-vivo-5/"
+    },
+    {
+      "name": "Viwix TV Terror",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://viwix.cl/en-vivo-6/"
+    },
+    {
+      "name": "PlanetaTV Movie",
+      "isFree": true,
+      "website": "https://planetatv.online/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "AE Radio TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Interradio",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Onda Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio América TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio El Sembrador",
+      "isFree": true,
+      "shortName": "RES",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio La Sabrosura",
+      "isFree": true,
+      "shortName": "RLS",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Maxima 94.9 FM SB",
+      "isFree": true,
+      "shortName": "RM9FS",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Rancagua FM",
+      "isFree": true,
+      "shortName": "RRF",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Ritmo FM",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Uniem",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Zeta TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7fca06a85daeb6e516dd4960d784b84b.png",
+      "priority": 4
+    },
+    {
+      "name": "Ruidos FM",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Kids": [
+    {
+      "name": "13 Kids",
+      "isFree": true,
+      "website": "https://www.13.cl/13kids"
+    },
+    {
+      "name": "Canal DOS Kids",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Cloudserver Latam Kids90",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173724046984_73.png",
+      "website": "https://www.cloudserverlatam.com/television/"
+    },
+    {
+      "name": "CNTV Infantil",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2b339e006ac0f6800f90540070055662.png",
+      "website": "https://cntvinfantil.cl/"
+    },
+    {
+      "name": "EnerGeek FAN",
+      "isFree": true,
+      "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+      "website": "https://energeek.cl/"
+    },
+    {
+      "name": "ETC TV",
+      "isFree": true,
+      "website": "https://www.etc.cl/"
+    },
+    {
+      "name": "FunBox",
+      "isFree": true,
+      "website": "https://www.funboxchannel.com/"
+    },
+    {
+      "name": "Pandamax Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://pandamax.cl"
+    },
+    {
+      "name": "PlanetaTV Kids",
+      "isFree": true,
+      "website": "https://planetatv.online/"
+    },
+    {
+      "name": "Quilicura TV Kids",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://canalquilicuratelevision.blogspot.com/"
+    },
+    {
+      "name": "Senpai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://senpaitv.com/"
+    }
+  ]
+}

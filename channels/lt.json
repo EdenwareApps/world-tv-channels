@@ -1,0 +1,325 @@
+{
+  "Entertainment": [
+    {
+      "name": "LRT",
+      "isFree": true,
+      "keywords": "lrt -lituanica",
+      "logo": "https://images.iptvmate.net/tvglogo/f892aefe4bdba277ff8a344e697ac9da.png"
+    },
+    {
+      "name": "LRT Lituanica",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png"
+    },
+    {
+      "name": "M-1",
+      "isFree": true
+    },
+    {
+      "name": "Balticum Auksinis",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3364.png"
+    },
+    {
+      "name": "Balticum Platinum",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3364.png"
+    },
+    {
+      "name": "Balticum TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3364.png"
+    },
+    {
+      "name": "BTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
+      "website": "https://lnk.lt/tv-programa#btv"
+    },
+    {
+      "name": "Delfi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IFoHP5M.png",
+      "website": "https://www.delfi.lt/video/puslapis/tv"
+    },
+    {
+      "name": "Dzukijos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Etaplius TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/88029.png",
+      "website": "https://www.etaplius.tv/"
+    },
+    {
+      "name": "Ignalinos TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ignet.lt/"
+    },
+    {
+      "name": "INIT Ekstra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://init-tv.lt/"
+    },
+    {
+      "name": "INIT TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://init-tv.lt/"
+    },
+    {
+      "name": "Just TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/dtS539nC/justtv.png",
+      "website": "https://just-tv.lt/"
+    },
+    {
+      "name": "Jusu Panevezys TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://jptv.lt/"
+    },
+    {
+      "name": "Laisves TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://laisves.tv/"
+    },
+    {
+      "name": "Lietuvos Rytas TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3282.png",
+      "website": "http://tv.lrytas.lt/"
+    },
+    {
+      "name": "LNK",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3370.png",
+      "website": "https://lnk.lt/tv-programa#lnk"
+    },
+    {
+      "name": "LRT TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png",
+      "website": "http://www.lrt.lt/televizija/"
+    },
+    {
+      "name": "Marijampoles TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.marijampolestv.lt/"
+    },
+    {
+      "name": "PBK Lithuania",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f2915404ce8cbc4bc4f4c9225d2e9894.png"
+    },
+    {
+      "name": "Pukas-TV",
+      "isFree": true,
+      "website": "https://pukas.lt/"
+    },
+    {
+      "name": "REN TV Lithuania",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0gJvc6Jidlw9Nk23Fm2BiuXzzo.jpg"
+    },
+    {
+      "name": "Seimas tiesiogiai",
+      "isFree": true,
+      "website": "https://www.lrs.lt/sip/portal.show?p_r=25151&p_k=1"
+    },
+    {
+      "name": "Siauliu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://stv.lt/"
+    },
+    {
+      "name": "TV1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",
+      "website": "https://lnk.lt/tv-programa#tv1"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "website": "https://www.tv3.lt/"
+    },
+    {
+      "name": "TV6",
+      "isFree": true,
+      "website": "http://tv6.tv3.lt/"
+    },
+    {
+      "name": "TV7",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png"
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "http://tv8.tv3.lt/"
+    },
+    {
+      "name": "ZTV",
+      "isFree": true,
+      "website": "http://www.ztelevizija.lt/"
+    },
+    {
+      "name": "Zvaigzde TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Media of Lithuania",
+      "isFree": true
+    },
+    {
+      "name": "Lists of television channels",
+      "isFree": true
+    },
+    {
+      "name": "LNK]]",
+      "isFree": true
+    },
+    {
+      "name": "LNK (HD)]]",
+      "isFree": true
+    },
+    {
+      "name": "BTV]]",
+      "isFree": true
+    },
+    {
+      "name": "BTV (HD)]]",
+      "isFree": true
+    },
+    {
+      "name": "TV1]]",
+      "isFree": true
+    },
+    {
+      "name": "TV1 (HD)]]",
+      "isFree": true
+    },
+    {
+      "name": "2TV]]",
+      "isFree": true
+    },
+    {
+      "name": "TV3]]",
+      "isFree": true
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Power Hit Radio",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "2TV",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/SUPERTV2.png",
+      "website": "https://lnk.lt/tiesiogiai#2tv"
+    },
+    {
+      "name": "INIT Play TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
+      "website": "https://init-tv.lt/"
+    },
+    {
+      "name": "LRT Klasika",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png",
+      "website": "https://www.lrt.lt/"
+    },
+    {
+      "name": "LRT Opus",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png",
+      "website": "https://www.lrt.lt/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Arena HD Baltic",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://arenahd.tv/"
+    },
+    {
+      "name": "KOK Fights TV",
+      "isFree": true,
+      "website": "https://kokfights.com/"
+    },
+    {
+      "name": "Sport1",
+      "isFree": true,
+      "website": "https://www.sport1.lt/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "BM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.bmtv.lt/"
+    },
+    {
+      "name": "Kanal 7 Baltics",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://kanal7.ee/ru"
+    },
+    {
+      "name": "LRT Plius",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png",
+      "website": "http://www.lrt.lt/televizija/"
+    }
+  ],
+  "News": [
+    {
+      "name": "GNTV",
+      "isFree": true,
+      "website": "https://www.gntv.lt/"
+    },
+    {
+      "name": "Info TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://lnk.lt/tv-programa#infotv"
+    },
+    {
+      "name": "LRT Radijas",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3279.png",
+      "website": "https://www.lrt.lt/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Pingvinukas",
+      "isFree": true,
+      "website": "http://www.lolotv.lv/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "TV Pirk Ir Imk",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvpirkirimk.lt/"
+    }
+  ]
+}

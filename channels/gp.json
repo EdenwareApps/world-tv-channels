@@ -1,0 +1,73 @@
+{
+  "Music Videos": [
+    {
+      "name": "TMA",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Guadeloupe 4 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_GUADELOUPE1ERE.png",
+      "website": "https://guadeloupe4-tv.com/"
+    },
+    {
+      "name": "Madras FM TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/spGg1CZ.png",
+      "website": "https://www.madrasfm.tv/"
+    },
+    {
+      "name": "NOT' FM",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://notfm.fr/"
+    },
+    {
+      "name": "RHT Guadeloupe",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hQ0Q6nE.png",
+      "website": "https://www.rhtguadeloupe.fr/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Alizes",
+      "isFree": true,
+      "website": "https://www.alizes.com/"
+    },
+    {
+      "name": "Canal 10",
+      "isFree": true
+    },
+    {
+      "name": "ETV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
+      "website": "https://www.etv.gp/"
+    },
+    {
+      "name": "Guadeloupe 1ere",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_GUADELOUPE1ERE.png",
+      "website": "https://la1ere.francetvinfo.fr/guadeloupe/"
+    },
+    {
+      "name": "MyTV Caraibes",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://mytvcaraibes.com/"
+    },
+    {
+      "name": "Radio TV Basse-Terre",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.rtvbt.fr/"
+    },
+    {
+      "name": "TEVEKA",
+      "isFree": true,
+      "website": "http://www.teveka.net/"
+    }
+  ]
+}

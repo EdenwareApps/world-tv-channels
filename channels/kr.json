@@ -1,0 +1,1983 @@
+{
+  "Entertainment": [
+    {
+      "name": "Arirang",
+      "isFree": true,
+      "keywords": "arirang -radio",
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "BBS Buddhist Broadcasting",
+      "isFree": true,
+      "shortName": "BBB"
+    },
+    {
+      "name": "CBS",
+      "isFree": true,
+      "keywords": "cbs -tv",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 10
+    },
+    {
+      "name": "CBS TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/4594e43a113b1c4a995136ac11206c71.png",
+      "priority": 9
+    },
+    {
+      "name": "CJB청주방송",
+      "isFree": true
+    },
+    {
+      "name": "CTS기독교TV",
+      "isFree": true
+    },
+    {
+      "name": "Channel 67",
+      "isFree": true
+    },
+    {
+      "name": "EBS 1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/fd7db642c926c1d888e2aab4c1dc92a5.png"
+    },
+    {
+      "name": "EBS 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/091b3f77a9f3d72aa253a6b942bb6eaf.png"
+    },
+    {
+      "name": "EBS Plus 1",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224164513139147_76.jpeg"
+    },
+    {
+      "name": "EBS Plus 2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224164925687381_59.jpeg"
+    },
+    {
+      "name": "EBS e",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224164727683631_93.jpeg"
+    },
+    {
+      "name": "GCN",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0f4fadcfd26b7ff321779560a1d6c4d9.png"
+    },
+    {
+      "name": "Gugbang TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/f1tz5fg.png"
+    },
+    {
+      "name": "JIBS SBS",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iAz0Psw.png"
+    },
+    {
+      "name": "JTBC",
+      "isFree": true,
+      "logo": "https://cdn88-accio.its-newid.net/rt_channel/newid_rt038/lg_channels/img/channel_logo/default/channel_logo.png",
+      "priority": 9
+    },
+    {
+      "name": "K+",
+      "isFree": true
+    },
+    {
+      "name": "KBC 광주방송",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/vip.png"
+    },
+    {
+      "name": "KBS 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "priority": 10
+    },
+    {
+      "name": "KBS LiveCam DokDo",
+      "isFree": true,
+      "shortName": "KLD",
+      "logo": "https://images.iptvmate.net/tvglogo/235b3b4104d1edd556f33fbe58d23628.png",
+      "priority": 10
+    },
+    {
+      "name": "KBS World",
+      "isFree": true,
+      "keywords": "kbs world -latino",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",
+      "priority": 10
+    },
+    {
+      "name": "KBS World Latino",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "priority": 10
+    },
+    {
+      "name": "KBS2",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "KCTV 광주 CH05",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/CBS.png"
+    },
+    {
+      "name": "MBC",
+      "isFree": true,
+      "keywords": "mbc -drama -yeosu",
+      "logo": "https://epg.pw/media/img/logo/MBC.png",
+      "priority": 10
+    },
+    {
+      "name": "MBC Drama",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217154304357939_32.jpg",
+      "priority": 10
+    },
+    {
+      "name": "MBC Yeosu",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "priority": 10
+    },
+    {
+      "name": "MTN",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MS0lqoG.png"
+    },
+    {
+      "name": "Mnet",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/m_net_jp.png"
+    },
+    {
+      "name": "NBS Korea Agricultural Broadcasting",
+      "isFree": true,
+      "shortName": "NKAB"
+    },
+    {
+      "name": "One",
+      "isFree": true
+    },
+    {
+      "name": "SBS",
+      "isFree": true,
+      "keywords": "sbs -international -knn -plus -star",
+      "logo": "https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c",
+      "priority": 10
+    },
+    {
+      "name": "SBS International",
+      "isFree": true,
+      "shortName": "SI",
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "priority": 10
+    },
+    {
+      "name": "SBS KNN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "priority": 10
+    },
+    {
+      "name": "SBS Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "priority": 10
+    },
+    {
+      "name": "SBS Star",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "priority": 10
+    },
+    {
+      "name": "TBC 대구",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jknoVmp.png"
+    },
+    {
+      "name": "TJB 대전방송",
+      "isFree": true
+    },
+    {
+      "name": "TV Work Net",
+      "isFree": true,
+      "keywords": "tv work net | tvworknet",
+      "shortName": "TVWorkNet",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "YTN",
+      "isFree": true,
+      "keywords": "ytn -science",
+      "logo": "https://images.iptvmate.net/tvglogo/7a2b25566d1bc634d7f88b95899eae0b.png"
+    },
+    {
+      "name": "가요TV",
+      "isFree": true
+    },
+    {
+      "name": "대구 MBC",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png"
+    },
+    {
+      "name": "대전MBC",
+      "isFree": true
+    },
+    {
+      "name": "제주 MBC",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png"
+    },
+    {
+      "name": "춘천MBC",
+      "isFree": true
+    },
+    {
+      "name": "한국선거방송",
+      "isFree": true
+    },
+    {
+      "name": "9colors",
+      "isFree": true,
+      "website": "http://www.9colors.co.kr/"
+    },
+    {
+      "name": "ABN",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/abn.png",
+      "website": "https://www.abn.co.kr/"
+    },
+    {
+      "name": "All the K-Pop",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Asia UHD",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvbs.png",
+      "website": "http://www.asiauhd.com/"
+    },
+    {
+      "name": "Brain TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg",
+      "website": "http://www.braintv.co.kr/"
+    },
+    {
+      "name": "Channel A",
+      "isFree": true,
+      "keywords": "channel a -plus",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.ichannela.com/"
+    },
+    {
+      "name": "Channel A Plus",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.channelaplus.com/"
+    },
+    {
+      "name": "Channel J",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://channelj.co.kr/"
+    },
+    {
+      "name": "Channel Seezn",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.seezntv.com/"
+    },
+    {
+      "name": "CH.DIA",
+      "isFree": true,
+      "website": "http://www.chdia.co.kr/"
+    },
+    {
+      "name": "CHING",
+      "isFree": true,
+      "website": "https://mediagenie.co.kr/CHING/"
+    },
+    {
+      "name": "Ch View",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png",
+      "website": "http://www.imtcast.com/chview/"
+    },
+    {
+      "name": "Ch W",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png",
+      "website": "http://www.chw.co.kr/"
+    },
+    {
+      "name": "CH.WIDE",
+      "isFree": true,
+      "website": "http://www.chwide.co.kr/"
+    },
+    {
+      "name": "CookTV",
+      "isFree": true,
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=cooktv"
+    },
+    {
+      "name": "Desire TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "website": "http://www.desiretv.co.kr/"
+    },
+    {
+      "name": "Dog TV",
+      "isFree": true,
+      "website": "https://www.thedogtv.com/"
+    },
+    {
+      "name": "D-One",
+      "isFree": true,
+      "website": "http://www.ikmh.co.kr/new_home1/02_Business/02_channel.php?cha=DONE"
+    },
+    {
+      "name": "DongaTV",
+      "isFree": true,
+      "website": "https://dongatv.com/"
+    },
+    {
+      "name": "E Channel",
+      "isFree": true,
+      "website": "http://www.imtcast.com/echannel/"
+    },
+    {
+      "name": "Edge TV",
+      "isFree": true,
+      "website": "http://www.edgetv.co.kr/"
+    },
+    {
+      "name": "ENA",
+      "isFree": true,
+      "keywords": "ena -drama -play -story",
+      "website": "https://ena.skylifetv.co.kr/ENA/"
+    },
+    {
+      "name": "ENA PLAY",
+      "isFree": true,
+      "website": "http://ena.skylifetv.co.kr/ENA_PLAY/"
+    },
+    {
+      "name": "ENA STORY",
+      "isFree": true,
+      "website": "https://mediagenie.co.kr/ENA_STORY/"
+    },
+    {
+      "name": "ETV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
+      "website": "http://www.etv.go.kr/"
+    },
+    {
+      "name": "Fashion N",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg",
+      "website": "https://www.imtcast.com/fashionn/index.jsp#CH_N"
+    },
+    {
+      "name": "Fishing TV",
+      "isFree": true,
+      "website": "http://www.fishingtv.kr/"
+    },
+    {
+      "name": "Food TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bea04f3f02b5d9423d3eeb228bc0c7b9.png",
+      "website": "http://www.myfoodtv.co.kr/"
+    },
+    {
+      "name": "Fox",
+      "isFree": true,
+      "website": "http://www.foxchannel.co.kr/"
+    },
+    {
+      "name": "FTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOr1Oac.png",
+      "website": "https://www.eftv.co.kr/"
+    },
+    {
+      "name": "Fun TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umYcH5zxDndSio5QUXSQu44hHQ5.jpg",
+      "website": "http://funtv2.com/"
+    },
+    {
+      "name": "FX",
+      "isFree": true,
+      "website": "http://www.fxchannel.co.kr/"
+    },
+    {
+      "name": "GTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jjuKnYs.png",
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=gtv"
+    },
+    {
+      "name": "Highlight TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.highlighttv.co.kr/"
+    },
+    {
+      "name": "HLAI-DTV",
+      "isFree": true,
+      "website": "https://changwon.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLAJ-DTV",
+      "isFree": true,
+      "website": "https://jejumbc.com/"
+    },
+    {
+      "name": "HLAM-DTV",
+      "isFree": true,
+      "website": "https://mpmbc.co.kr/"
+    },
+    {
+      "name": "HLAN-DTV",
+      "isFree": true,
+      "website": "http://chmbc.co.kr/"
+    },
+    {
+      "name": "HLAO-DTV",
+      "isFree": true,
+      "website": "http://www.mbccb.co.kr/rb/"
+    },
+    {
+      "name": "HLAQ-DTV",
+      "isFree": true,
+      "website": "https://www.mbceg.co.kr/"
+    },
+    {
+      "name": "HLAT-DTV",
+      "isFree": true,
+      "website": "http://www.ysmbc.co.kr/"
+    },
+    {
+      "name": "HLAU-DTV",
+      "isFree": true,
+      "website": "https://www.usmbc.co.kr/"
+    },
+    {
+      "name": "HLAV-DTV",
+      "isFree": true,
+      "website": "http://www.phmbc.co.kr/"
+    },
+    {
+      "name": "HLAW-DTV",
+      "isFree": true,
+      "website": "https://andongmbc.co.kr/"
+    },
+    {
+      "name": "HLAY-DTV",
+      "isFree": true
+    },
+    {
+      "name": "HLCG-DTV",
+      "isFree": true,
+      "website": "https://www.g1tv.co.kr/"
+    },
+    {
+      "name": "HLCH-DTV",
+      "isFree": true,
+      "website": "https://chungju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLCJ-DTV",
+      "isFree": true,
+      "website": "https://jinju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLCN-DTV",
+      "isFree": true,
+      "website": "https://kjmbc.co.kr/"
+    },
+    {
+      "name": "HLCP-DTV",
+      "isFree": true,
+      "website": "https://pohang.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLCQ-DTV",
+      "isFree": true,
+      "website": "https://tjmbc.co.kr/"
+    },
+    {
+      "name": "HLCR-DTV",
+      "isFree": true,
+      "website": "https://andong.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLCT-DTV",
+      "isFree": true,
+      "website": "https://dgmbc.com/"
+    },
+    {
+      "name": "HLCW-DTV",
+      "isFree": true,
+      "website": "https://wonju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLCX-DTV",
+      "isFree": true,
+      "website": "https://www.jmbc.co.kr/"
+    },
+    {
+      "name": "HLCY-DTV",
+      "isFree": true,
+      "website": "https://suncheon.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLDE-DTV",
+      "isFree": true,
+      "website": "https://www.tbc.co.kr/"
+    },
+    {
+      "name": "HLDF-DTV",
+      "isFree": true,
+      "website": "http://www.tjb.co.kr/"
+    },
+    {
+      "name": "HLDG-DTV",
+      "isFree": true,
+      "website": "https://www.knn.co.kr/"
+    },
+    {
+      "name": "HLDH-DTV",
+      "isFree": true,
+      "website": "http://www.ikbc.co.kr/"
+    },
+    {
+      "name": "HLDP-DTV",
+      "isFree": true,
+      "website": "http://web.ubc.co.kr/wp/tv"
+    },
+    {
+      "name": "HLDQ-DTV",
+      "isFree": true,
+      "website": "http://www.jtv.co.kr/"
+    },
+    {
+      "name": "HLDR-DTV",
+      "isFree": true,
+      "website": "https://www.cjb.co.kr/"
+    },
+    {
+      "name": "HLKA-DTV",
+      "isFree": true,
+      "website": "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList"
+    },
+    {
+      "name": "HLKB-DTV",
+      "isFree": true,
+      "website": "https://busan.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKF-DTV",
+      "isFree": true,
+      "website": "https://jeonju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKG-DTV",
+      "isFree": true,
+      "website": "https://daegu.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKH-DTV",
+      "isFree": true,
+      "website": "https://gwangju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKI-DTV",
+      "isFree": true,
+      "website": "https://daejeon.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKJ-DTV",
+      "isFree": true,
+      "website": "https://www.jibs.co.kr/"
+    },
+    {
+      "name": "HLKM-DTV",
+      "isFree": true,
+      "website": "https://chuncheon.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKN-DTV",
+      "isFree": true,
+      "website": "https://mokpo.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKQ-DTV",
+      "isFree": true,
+      "website": "https://cheongju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKR-DTV",
+      "isFree": true,
+      "website": "https://gangneung.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKS-DTV",
+      "isFree": true,
+      "website": "https://jeju.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLKU-DTV",
+      "isFree": true,
+      "website": "https://busanmbc.co.kr/"
+    },
+    {
+      "name": "HLQB-DTV",
+      "isFree": true,
+      "website": "https://ulsan.kbs.co.kr/index.html"
+    },
+    {
+      "name": "HLQS-DTV",
+      "isFree": true,
+      "website": "http://www.obs.co.kr/"
+    },
+    {
+      "name": "HLSA-DTV",
+      "isFree": true,
+      "website": "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=12&ch_type=globalList"
+    },
+    {
+      "name": "HLSB-DTV",
+      "isFree": true,
+      "website": "https://www.wjmbc.co.kr/"
+    },
+    {
+      "name": "Hobby Life",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJBN4wBSa9ZZUmyw75R8UzT3c9.jpg",
+      "website": "https://www.fillcon.co.kr/channels/hobbylife"
+    },
+    {
+      "name": "Honey TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",
+      "website": "https://www.honeytv.co.kr/"
+    },
+    {
+      "name": "JTBC2",
+      "isFree": true,
+      "website": "http://jtbc2.joins.com/"
+    },
+    {
+      "name": "JTBC4",
+      "isFree": true,
+      "website": "http://jtbc4.joins.com/"
+    },
+    {
+      "name": "JTV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg",
+      "website": "http://www.jtv.co.kr/"
+    },
+    {
+      "name": "KBS 1TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",
+      "website": "http://drama.kbs.co.kr/m/",
+      "priority": 10
+    },
+    {
+      "name": "KBS 2TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",
+      "website": "http://drama.kbs.co.kr/m/",
+      "priority": 10
+    },
+    {
+      "name": "KBS Drama",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS Joy",
+      "isFree": true,
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS Korea",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "https://kbsworld.kbs.co.kr/index_korea.php",
+      "priority": 10
+    },
+    {
+      "name": "KBS Life",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS N Life",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS Prime",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS Story",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KBS W",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "http://www.kbsn.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "KCTV",
+      "isFree": true,
+      "keywords": "kctv -광주 ch05",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png",
+      "website": "https://www.kctv.co.kr/"
+    },
+    {
+      "name": "KMTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c862316f40c543bdd4cab2eb79ff6ba4.png",
+      "website": "http://www.kmtv.asia/"
+    },
+    {
+      "name": "Korea Economy TV",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/SOUTH-KOREA.png",
+      "website": "https://www.wowtv.co.kr/"
+    },
+    {
+      "name": "K-Star",
+      "isFree": true,
+      "website": "http://kstar.ihq.co.kr/"
+    },
+    {
+      "name": "Kuki TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.kukitv.co.kr/"
+    },
+    {
+      "name": "Living TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg",
+      "website": "http://www.ilivingtv.co.kr/"
+    },
+    {
+      "name": "MBC Every1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://mbcplus.com/",
+      "priority": 10
+    },
+    {
+      "name": "MBC Gyeongnam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://mbcgn.kr/",
+      "priority": 10
+    },
+    {
+      "name": "MBC Net",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "http://www.mbcnet.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "MBC On",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "http://imbc.com/",
+      "priority": 10
+    },
+    {
+      "name": "MBC TV",
+      "isFree": true,
+      "website": "http://www.imbc.com/broad/tv",
+      "priority": 10
+    },
+    {
+      "name": "MBN",
+      "isFree": true,
+      "keywords": "mbn -plus",
+      "logo": "https://go4.pw/ASIA/MBN.png",
+      "website": "https://www.mbn.co.kr/"
+    },
+    {
+      "name": "MBN Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MBN.png",
+      "website": "http://plus.mbn.co.kr/"
+    },
+    {
+      "name": "Midnight",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg",
+      "website": "https://www.skylife.co.kr/channel/pay_channel/midnightInfo.do"
+    },
+    {
+      "name": "National Assembly TV",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "website": "http://www.assembly.go.kr/"
+    },
+    {
+      "name": "NHTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DfECkgB.png",
+      "website": "http://nhtv.co.kr/"
+    },
+    {
+      "name": "OBS W",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224182552800297_29.jpeg",
+      "website": "http://www.obsw.co.kr/"
+    },
+    {
+      "name": "OLIFE",
+      "isFree": true,
+      "website": "http://ena.skylifetv.co.kr/OLIFE/"
+    },
+    {
+      "name": "ONCE",
+      "isFree": true,
+      "website": "http://skylifetv.co.kr/ONCE/"
+    },
+    {
+      "name": "OnStyle",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JiSfEBv.png",
+      "website": "http://onstyle.tving.com/onstyle"
+    },
+    {
+      "name": "ONT",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JCWd5pbtlHdzsVy4OaXNCfNYlJ.jpg",
+      "website": "https://ont.mediagenie.co.kr/"
+    },
+    {
+      "name": "Playboy TV",
+      "isFree": null,
+      "logo": "http://epg.one/img2/2014.png",
+      "website": "http://playboytv.co.kr/"
+    },
+    {
+      "name": "Polaris TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "http://polaristv.com/"
+    },
+    {
+      "name": "Real Estate TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg",
+      "website": "http://www.rtn.co.kr/"
+    },
+    {
+      "name": "RTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/c8wAvxC.png",
+      "website": "https://rtv.or.kr/"
+    },
+    {
+      "name": "SBS F!L",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "https://fil.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "SBS funE",
+      "isFree": true,
+      "logo": "https://i.imgur.com/y6KzwfB.png",
+      "website": "https://fune.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "Screen",
+      "isFree": true,
+      "keywords": "screen -golfzon",
+      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png",
+      "website": "http://www.imtcast.com/screen/"
+    },
+    {
+      "name": "SEN TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQrYPcLaAk7aNHeuhbCwDJ0hOlw.jpg",
+      "website": "https://www.sentv.co.kr/"
+    },
+    {
+      "name": "Silver iTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+      "website": "http://www.silver-itv.co.kr/"
+    },
+    {
+      "name": "skyA&C",
+      "isFree": true,
+      "website": "https://tv.skylife.co.kr/skyanc"
+    },
+    {
+      "name": "skyHealing",
+      "isFree": true,
+      "website": "https://tv.skylife.co.kr/skyhealing"
+    },
+    {
+      "name": "skyICT",
+      "isFree": true,
+      "website": "https://tv.skylife.co.kr/skyict"
+    },
+    {
+      "name": "skyPetPark",
+      "isFree": true,
+      "website": "https://tv.skylife.co.kr/skypetpark"
+    },
+    {
+      "name": "skyTravel",
+      "isFree": true,
+      "website": "http://skylifetv.co.kr/skyTravel/"
+    },
+    {
+      "name": "skyUHD",
+      "isFree": true,
+      "website": "http://ena.skylifetv.co.kr/skyUHD/"
+    },
+    {
+      "name": "SmileTV Plus",
+      "isFree": true,
+      "website": "http://tra.co.kr/"
+    },
+    {
+      "name": "STB",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UKRAIN/KIEVSTB.png",
+      "website": "https://www.stb.co.kr/"
+    },
+    {
+      "name": "TBS eFM",
+      "isFree": true,
+      "website": "https://tbs.seoul.kr/"
+    },
+    {
+      "name": "TBS TV",
+      "isFree": true,
+      "website": "http://tbs.seoul.kr/"
+    },
+    {
+      "name": "Tomato TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.etomato.com/"
+    },
+    {
+      "name": "TVasia Plus",
+      "isFree": true,
+      "website": "http://tvasia.co.kr/"
+    },
+    {
+      "name": "TV Chosun",
+      "isFree": true,
+      "keywords": "tv chosun -2 -3",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvchosun.com/"
+    },
+    {
+      "name": "TV Chosun 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvchosun2.com/"
+    },
+    {
+      "name": "TV Chosun 3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvchosun3.com/"
+    },
+    {
+      "name": "tvN",
+      "isFree": true,
+      "keywords": "tvn -drama -show -sports -story",
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "http://tvn.tving.com/tvn/",
+      "priority": 9
+    },
+    {
+      "name": "tvN Show",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "http://tvnshow.tving.com/"
+    },
+    {
+      "name": "tvN Story",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "http://tvnstory.tving.com/"
+    },
+    {
+      "name": "UHD Dream TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRALIA/FOX-505-2.png",
+      "website": "http://www.berrymedia.co.kr/main.php?br=s45"
+    },
+    {
+      "name": "UXN",
+      "isFree": true,
+      "website": "http://uxn.tving.com/uxn"
+    },
+    {
+      "name": "Viki",
+      "isFree": null,
+      "logo": "https://i.imgur.com/pbyd1g2.png",
+      "website": "http://ena.skylifetv.co.kr/viki/"
+    },
+    {
+      "name": "Vlending",
+      "isFree": true,
+      "website": "https://www.vlending.kr/"
+    },
+    {
+      "name": "WBC TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IkFev3L.png",
+      "website": "http://www.iwbc.co.kr/"
+    },
+    {
+      "name": "WeeTV",
+      "isFree": true,
+      "website": "http://tra.co.kr/web_kor2/"
+    },
+    {
+      "name": "Yonhap News TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.yonhapnewstv.co.kr/"
+    },
+    {
+      "name": "YTN DMB",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/YTN.png",
+      "website": "https://www.ytn.co.kr/replay/channel.php?idx=4"
+    },
+    {
+      "name": "YTN Science",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/YTN.png",
+      "website": "https://science.ytn.co.kr/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "CGNTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/420f79197581b740dbca0d0f17a5076f.png"
+    },
+    {
+      "name": "BBS TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224164857101551_15.jpeg",
+      "website": "http://www.bbsi.co.kr/"
+    },
+    {
+      "name": "BTN TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224163818740665_45.jpeg",
+      "website": "http://www.btn.co.kr/btntv/main.asp"
+    },
+    {
+      "name": "C channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cchannel.com/main/"
+    },
+    {
+      "name": "CGNTV South Korea",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/japon/jp_CGNTV.png",
+      "website": "http://www.cgntv.net/"
+    },
+    {
+      "name": "CPBC TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.cpbc.co.kr/tv"
+    },
+    {
+      "name": "CTS TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CTS.png",
+      "website": "http://www.cts.tv/"
+    },
+    {
+      "name": "FGTV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
+      "website": "https://www.fgtv.com/"
+    },
+    {
+      "name": "Good TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224182510955186_74.jpeg",
+      "website": "http://home.goodtv.co.kr/"
+    },
+    {
+      "name": "Hope Channel Korea",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "https://hopechannel.kr/"
+    },
+    {
+      "name": "RUTC TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+      "website": "http://rutc.tv/"
+    },
+    {
+      "name": "WBS TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Lhz1Egi.png",
+      "website": "https://wbsi.kr/index_tv.php"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "EBS KIDS",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224163701416076_23.jpeg"
+    },
+    {
+      "name": "Anibox",
+      "isFree": true,
+      "website": "http://www.aniboxtv.com/"
+    },
+    {
+      "name": "Animax",
+      "isFree": true,
+      "logo": "https://imgur.com/BatygW5.png",
+      "website": "http://www.animaxtv.co.kr/"
+    },
+    {
+      "name": "Anione",
+      "isFree": true,
+      "website": "http://www.anionetv.com/"
+    },
+    {
+      "name": "Aniplus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/ANIPLUS.png",
+      "website": "http://www.aniplustv.com/"
+    },
+    {
+      "name": "Bravo Kids",
+      "isFree": true,
+      "website": "http://www.bravokidstv.com/"
+    },
+    {
+      "name": "Carrie TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yP1wI5hpEClwcU2fzGloE3HsSv.jpg",
+      "website": "http://carrietv.co.kr/"
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "website": "http://www.cartoonnetworkkorea.com/"
+    },
+    {
+      "name": "Daekyo Kids TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "http://www.kids17.net/"
+    },
+    {
+      "name": "JEI Talent TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+      "website": "http://www.jeitv.com/"
+    },
+    {
+      "name": "KBS Kids",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",
+      "website": "http://www.kbsn.co.kr/kids/",
+      "priority": 10
+    },
+    {
+      "name": "Kids Talk Talk Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "http://ena.skylifetv.co.kr/kidstalktalkplus/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nick.co.kr/"
+    },
+    {
+      "name": "Pinkfong",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIc1XnqxnWqLNjxZpddttIj5huE.jpg",
+      "website": "http://pinkfong.com/"
+    },
+    {
+      "name": "Poyo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tooniverse",
+      "isFree": true,
+      "website": "http://tooniverse.tving.com/tooniverse"
+    },
+    {
+      "name": "EBS Kids",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224163701416076_23.jpeg",
+      "website": "http://www.ebs.co.kr/kids"
+    }
+  ],
+  "News": [
+    {
+      "name": "국악방송",
+      "isFree": true
+    },
+    {
+      "name": "Arirang TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/01/02/large/20210102201441051240_32.png",
+      "website": "https://www.arirang.com/"
+    },
+    {
+      "name": "Arirang UN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/ARIRANG KOREA.png",
+      "website": "https://www.arirang.com/"
+    },
+    {
+      "name": "Arirang World",
+      "isFree": true,
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png",
+      "website": "https://www.arirang.com/"
+    },
+    {
+      "name": "Edaily TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.edaily.co.kr/"
+    },
+    {
+      "name": "Jobplus TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.jobplustv.or.kr/"
+    },
+    {
+      "name": "KBS 24 News",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "website": "http://news.kbs.co.kr/common/news24.html",
+      "priority": 10
+    },
+    {
+      "name": "KBS News D",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4qKgvHN.png",
+      "website": "http://news.kbs.co.kr/common/news24.html",
+      "priority": 10
+    },
+    {
+      "name": "KFN TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.dema.mil.kr/web/tv/main.do"
+    },
+    {
+      "name": "KTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
+      "website": "https://www.ktv.go.kr/"
+    },
+    {
+      "name": "Maeil Business TV",
+      "isFree": true,
+      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
+      "website": "http://mbnmoney.mbn.co.kr/"
+    },
+    {
+      "name": "MBC News",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "priority": 10
+    },
+    {
+      "name": "MTN W",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MS0lqoG.png",
+      "website": "https://www.mtnw.co.kr/"
+    },
+    {
+      "name": "NBN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/LEBANON/NBNLEBANONHD.png",
+      "website": "https://www.nbntv.kr/"
+    },
+    {
+      "name": "Pax Economy TV",
+      "isFree": true,
+      "website": "http://www.paxetv.com/"
+    },
+    {
+      "name": "SBS Biz",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "https://biz.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "SBS News",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "https://mnews.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "Sosang-gong-in Sijang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.sebis.or.kr/"
+    },
+    {
+      "name": "Yes TV",
+      "isFree": true,
+      "website": "https://www.sebis.or.kr/"
+    },
+    {
+      "name": "YTN World",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/YTN.png",
+      "website": "https://www.ytn.co.kr/replay/channel.php?idx=5"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "YTN SCIENCE",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/YTN.png"
+    },
+    {
+      "name": "Art TV Arte",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
+      "website": "http://www.arte.co.kr/"
+    },
+    {
+      "name": "EBS",
+      "isFree": true,
+      "keywords": "ebs -1 -1tv -2 -2tv -e -english -kids -learning primary school 3 -learning primary school 4 -learning primary school 5 -learning primary school 6 -learning secondary school 1 -learning secondary school 2 -plus 1 -plus 2",
+      "logo": "https://epg.pw/media/images/channel/2022/09/30/large/20220930173328314305_74.jpg",
+      "website": "https://www.ebs.co.kr/tv/home"
+    },
+    {
+      "name": "EBS 1TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://www.ebs.co.kr/tv/home"
+    },
+    {
+      "name": "EBS 2TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "http://www.ebs.co.kr/ebs2tv/introduce"
+    },
+    {
+      "name": "EBS English",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "http://www.ebse.co.kr/"
+    },
+    {
+      "name": "EBS Learning Primary School 3",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://primary.ebs.co.kr/main/primary"
+    },
+    {
+      "name": "EBS Learning Primary School 4",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://primary.ebs.co.kr/main/primary"
+    },
+    {
+      "name": "EBS Learning Primary School 5",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://primary.ebs.co.kr/main/primary"
+    },
+    {
+      "name": "EBS Learning Primary School 6",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://primary.ebs.co.kr/main/primary"
+    },
+    {
+      "name": "EBS Learning Secondary School 1",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://mid.ebs.co.kr/main/middle"
+    },
+    {
+      "name": "EBS Learning Secondary School 2",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EBSTV.png",
+      "website": "https://mid.ebs.co.kr/main/middle"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "http://historykorea.kr/"
+    },
+    {
+      "name": "JEI English TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "http://www.ienglishtv.com/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://ngckorea.com/",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "https://www.natgeotv.com/asia/wild-korea",
+      "priority": 9
+    },
+    {
+      "name": "NBS",
+      "isFree": true,
+      "keywords": "nbs -korea agricultural broadcasting",
+      "website": "https://www.inbs.co.kr/main.do"
+    },
+    {
+      "name": "OUN",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7s6JtcU.png",
+      "website": "http://oun.knou.ac.kr/"
+    },
+    {
+      "name": "YTN2",
+      "isFree": true,
+      "website": "https://ytn2.ytn.co.kr/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Arirang Radio",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "AsiaM",
+      "isFree": true,
+      "website": "http://www.asiantv.co.kr/"
+    },
+    {
+      "name": "AsiaN",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/22693.jpg",
+      "website": "http://www.asiantv.co.kr/"
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "logo": "https://imgur.com/EYAmbe4.png",
+      "website": "http://axntv.co.kr/"
+    },
+    {
+      "name": "Catch On 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
+      "website": "http://catchon.tving.com/catchon/"
+    },
+    {
+      "name": "Catch On 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
+      "website": "http://catchon.tving.com/catchon/"
+    },
+    {
+      "name": "Channel China",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.cntv.co.kr/china"
+    },
+    {
+      "name": "Channel Olleh TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.kaonmedia.com:8443/eng/company/intro02_3.asp"
+    },
+    {
+      "name": "Chunghwa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://zhtv.tving.com/zhtv"
+    },
+    {
+      "name": "Cinema Heaven",
+      "isFree": true
+    },
+    {
+      "name": "DramaCube",
+      "isFree": true,
+      "website": "http://www.imtcast.com/dramacube/"
+    },
+    {
+      "name": "Dramax",
+      "isFree": true,
+      "website": "http://dramax.ihq.co.kr/"
+    },
+    {
+      "name": "ENA DRAMA",
+      "isFree": true,
+      "website": "https://www.mediagenie.co.kr/ENA_DRAMA/"
+    },
+    {
+      "name": "iHQ Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://ihq.co.kr/drama/"
+    },
+    {
+      "name": "Indie Film",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/MC MUSIC.png",
+      "website": "http://www.indiefilm.kr/"
+    },
+    {
+      "name": "JNG Korea",
+      "isFree": true,
+      "logo": "https://go4.pw/MAGFLAGS/SOUTH-KOREA.png",
+      "website": "http://jngkorea.com/"
+    },
+    {
+      "name": "Mplex",
+      "isFree": true,
+      "website": "http://www.ikmh.co.kr/03_mplex/channel.php"
+    },
+    {
+      "name": "OCN",
+      "isFree": true,
+      "keywords": "ocn -movies -thrills",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/512px-OCN_Logo.svg.png",
+      "website": "http://ocn.tving.com/"
+    },
+    {
+      "name": "OCN Movies",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/512px-OCN_Logo.svg.png",
+      "website": "http://ocnmovies.tving.com/ocnmovies"
+    },
+    {
+      "name": "OCN Thrills",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/512px-OCN_Logo.svg.png",
+      "website": "http://ocnthrills.m.tving.com/"
+    },
+    {
+      "name": "PLAYY Action Movie",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
+    },
+    {
+      "name": "PLAYY Healing Movie",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71EiO2SHQs2VvO3lp9n0sojpbdA.jpg"
+    },
+    {
+      "name": "PLAYY Premium Movie",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "PLAYY Well-Made Movie",
+      "isFree": true
+    },
+    {
+      "name": "Telenovela",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/285fecf724fa119d99b05d94eabac41c.png",
+      "website": "http://www.telenovela.co.kr/"
+    },
+    {
+      "name": "The Movie",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "http://www.chthemovie.com/"
+    },
+    {
+      "name": "tvN Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "http://tvndrama.tving.com/"
+    },
+    {
+      "name": "WeLike",
+      "isFree": true,
+      "website": "http://weliketv.co.kr/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Baduk TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvbaduk.com/"
+    },
+    {
+      "name": "BallTV",
+      "isFree": true,
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=balltv"
+    },
+    {
+      "name": "Billiards TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224210657687848_92.jpeg",
+      "website": "http://www.billiardstv.co.kr/"
+    },
+    {
+      "name": "Copa del Rey",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png",
+      "website": "http://www.rfef.es/copa-del-rey"
+    },
+    {
+      "name": "Golf & PBA",
+      "isFree": true,
+      "website": "http://www.tgckorea.com/"
+    },
+    {
+      "name": "IB Sports",
+      "isFree": true,
+      "website": "http://ibsportstv.com/webuser/page/main.html"
+    },
+    {
+      "name": "JTBC Golf",
+      "isFree": true,
+      "keywords": "jtbc golf -& sports",
+      "logo": "https://cdn88-accio.its-newid.net/rt_channel/newid_rt038/lg_channels/img/channel_logo/default/channel_logo.png",
+      "website": "http://www.jtbcgolf.com/"
+    },
+    {
+      "name": "JTBC Golf & Sports",
+      "isFree": true,
+      "logo": "https://cdn88-accio.its-newid.net/rt_channel/newid_rt038/lg_channels/img/channel_logo/default/channel_logo.png",
+      "website": "http://jtbcgolfnsports.joins.com/"
+    },
+    {
+      "name": "K-Baduk",
+      "isFree": true,
+      "website": "https://www.kbaduk.com/"
+    },
+    {
+      "name": "KBS N Sports",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_332.jpg",
+      "website": "http://www.kbsn.co.kr/sports/",
+      "priority": 10
+    },
+    {
+      "name": "Life Sports TV",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=sports"
+    },
+    {
+      "name": "MBC Sports+",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "http://www.mbcplus.com/sports/",
+      "priority": 10
+    },
+    {
+      "name": "OGN",
+      "isFree": true,
+      "website": "http://ogn.tving.com/ogn"
+    },
+    {
+      "name": "Professional Baseball 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "Professional Baseball 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "Professional Baseball 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "Professional Baseball 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "Professional Baseball 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+    },
+    {
+      "name": "SBS Golf",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "https://golf.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "SBS Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "http://sbssports.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "Screen Golfzon",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png",
+      "website": "http://tv.golfzon.com/"
+    },
+    {
+      "name": "skySports",
+      "isFree": true,
+      "website": "http://www.sky-k.co.kr/"
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "keywords": "spotv -golf & health",
+      "logo": "https://go4.pw/ASIA/SPOTV.png",
+      "website": "https://spotv.net/"
+    },
+    {
+      "name": "SPOTV2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/06/14/large/20240614200339945979_93.png",
+      "website": "https://spotv.net/"
+    },
+    {
+      "name": "SPOTV Golf & Health",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SPOTV.png",
+      "website": "https://spotv.net/"
+    },
+    {
+      "name": "STATV",
+      "isFree": true,
+      "website": "http://www.statv.net/"
+    },
+    {
+      "name": "tvN Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "http://tvnsports.tving.com/tvnsports"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "CJ OnStyle",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JiSfEBv.png",
+      "website": "http://display.cjonstyle.com/"
+    },
+    {
+      "name": "CJ OnStyle+",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JiSfEBv.png",
+      "website": "http://display.cjonstyle.com/"
+    },
+    {
+      "name": "Gongyoung Home Shopping",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YL3rpd7.png",
+      "website": "https://www.gongyoungshop.kr/"
+    },
+    {
+      "name": "GS My Shop",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/GSTV.png",
+      "website": "https://www.gsshop.com/shop/gsmyshop/index.gs"
+    },
+    {
+      "name": "GS Shop",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/GSTV.png",
+      "website": "https://www.gsshop.com/"
+    },
+    {
+      "name": "Home & Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+      "website": "http://www.hnsmall.com/"
+    },
+    {
+      "name": "Hyundai Home Shopping",
+      "isFree": true,
+      "keywords": "hyundai home shopping -+ shop",
+      "logo": "https://i.imgur.com/NJpECmq.png",
+      "website": "https://www.hmall.com/"
+    },
+    {
+      "name": "Hyundai Home Shopping + Shop",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NJpECmq.png",
+      "website": "https://www.hmall.com/"
+    },
+    {
+      "name": "K Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "http://www.kshop.co.kr/"
+    },
+    {
+      "name": "Lotte Home Shopping",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dJeNehc.png",
+      "website": "http://www.lotteimall.com/"
+    },
+    {
+      "name": "Lotte OneTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dJeNehc.png",
+      "website": "http://www.lotteimall.com/onetv.lotte"
+    },
+    {
+      "name": "MGTV",
+      "isFree": true,
+      "website": "http://www.mgtvlive.com/content/onair?ckattempt=1"
+    },
+    {
+      "name": "NS Home Shopping",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/SAT1.png",
+      "website": "http://pr.nsmall.com/"
+    },
+    {
+      "name": "NS Shop+",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/SAT1.png",
+      "website": "http://pr.nsmall.com/"
+    },
+    {
+      "name": "Shinsegae TV Shopping",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Hq3yjqA.png",
+      "website": "http://www.shinsegaetvshopping.com/"
+    },
+    {
+      "name": "Shopping NT",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "https://www.shoppingntmall.com/"
+    },
+    {
+      "name": "SK Stoa",
+      "isFree": true,
+      "website": "https://www.skstoa.com/"
+    },
+    {
+      "name": "W Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS03cVTS9bQBd7YVTihDRXba7kl.jpg",
+      "website": "https://w-shopping.co.kr/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "GayoTV",
+      "isFree": true,
+      "website": "http://gayotv.co.kr/"
+    },
+    {
+      "name": "GMTV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg",
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=gmtv"
+    },
+    {
+      "name": "Gugak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.igbf.kr/"
+    },
+    {
+      "name": "Inet TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224163613116034_96.jpeg",
+      "website": "http://inettv.tv/"
+    },
+    {
+      "name": "MBC M",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/mbcpersia.png",
+      "website": "https://www.mbcplus.com/",
+      "priority": 10
+    },
+    {
+      "name": "SBS M",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SBS.png",
+      "website": "https://sbsm.sbs.co.kr/",
+      "priority": 10
+    },
+    {
+      "name": "THE K-POP",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://sbsmedianet.sbs.co.kr/onair.html?channel=S20"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Entertainment": [
+    {
+      "name": "Aruba.TV",
+      "isFree": true
+    },
+    {
+      "name": "Nos Isla TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOzZv2tBX6SRExVCKnbBfV139C.jpg"
+    },
+    {
+      "name": "Telearuba",
+      "isFree": true
+    },
+    {
+      "name": "Aruba Tourist Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_TELEARUBA.png",
+      "website": "https://arubatouristchannel.com/"
+    },
+    {
+      "name": "ArubaTV +",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9s6LZJZ.png",
+      "website": "https://www.arubatvplus.com/"
+    },
+    {
+      "name": "Canal 22 Aruba",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Balchi TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/mDgnM9y0/balchitv.png",
+      "website": "https://www.balchitv.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Cool FM 98.9",
+      "isFree": true,
+      "website": "https://coolaruba.com/"
+    },
+    {
+      "name": "Heart Radio Aruba",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.heartradio.com/"
+    },
+    {
+      "name": "Hit 94 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
+      "website": "https://broadcast94.yolasite.com/"
+    },
+    {
+      "name": "Power 101.7 FM",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "http://www.powerfm1017.com/"
+    },
+    {
+      "name": "VIP TV",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/vip-events.png",
+      "website": "http://www.viponlineradio.com/vip-tv/"
+    },
+    {
+      "name": "X 102.7 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+      "website": "https://xfmaruba.com/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Diario TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "http://www.diariotv.tv/"
+    }
+  ]
+}

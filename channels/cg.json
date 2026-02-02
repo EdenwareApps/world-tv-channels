@@ -1,0 +1,144 @@
+{
+  "News": [
+    {
+      "name": "AfricaNews English",
+      "isFree": true,
+      "shortName": "AE"
+    },
+    {
+      "name": "BNL TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Vox TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg",
+      "website": "https://www.vox.cg/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Beb TV",
+      "isFree": true
+    },
+    {
+      "name": "Bilili TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "DRTV International",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/DR.png",
+      "website": "https://www.drtv.cg/"
+    },
+    {
+      "name": "GOTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/11V0QSp.png"
+    },
+    {
+      "name": "LUX TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg",
+      "website": "https://luxmediagroup.org/"
+    },
+    {
+      "name": "Maboke TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/MABOKE.png",
+      "website": "https://www.canalplus.com/cd/chaines/maboke-tv"
+    },
+    {
+      "name": "MCR TV NF",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Nazalis HDTV",
+      "isFree": true
+    },
+    {
+      "name": "NTI TV",
+      "isFree": true
+    },
+    {
+      "name": "SYNTY TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tele Congo",
+      "isFree": true
+    },
+    {
+      "name": "Top TV",
+      "isFree": true
+    },
+    {
+      "name": "TPT+",
+      "isFree": true,
+      "website": "https://www.tptplus.tv/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Canal C Junior",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Cite de David RTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzXfsSybk5jfkHUQgC4LI6cXG2E.jpg"
+    },
+    {
+      "name": "Esaie 45 Tele",
+      "isFree": true
+    },
+    {
+      "name": "RTA-OPH Monde",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh8gdM1390L6utMK9ur9xkRNMhk.jpg"
+    },
+    {
+      "name": "RTAS",
+      "isFree": true,
+      "website": "https://62fdf78065e78.site123.me/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Culture +242 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png",
+      "website": "https://www.cultureplus242site.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "EaDTV CONGO",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbs33BhAYI9rdzpwsWCt6L6Z3PI.jpg",
+      "website": "https://www.edtvcongosite.com/"
+    },
+    {
+      "name": "Ev-tele",
+      "isFree": true,
+      "website": "https://www.evtele.cg/"
+    },
+    {
+      "name": "JOS TV HD",
+      "isFree": true
+    },
+    {
+      "name": "Obosso TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d3b1a6e8e8e5715ca38ba2320c165854.png",
+      "website": "http://www.obosso.tv/"
+    }
+  ]
+}

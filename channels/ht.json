@@ -1,0 +1,355 @@
+{
+  "Religious": [
+    {
+      "name": "Radio Tele 4VEH",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Tele Full Gospel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WbwIp9y.jpeg",
+      "website": "https://ejcfg.com/"
+    },
+    {
+      "name": "Radio Tele Pitit Manman Mari",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Tele Victoire",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://victoirehaiti.org/"
+    },
+    {
+      "name": "TEFROREV Chaine 48",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Tele Soleil",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Television SNL",
+      "isFree": true
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "NETALKOLE TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Haiti/Netalkole.png"
+    },
+    {
+      "name": "Tele Louange",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Télé Conscience Haïtienne",
+      "isFree": true,
+      "shortName": "TCH",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Canal Bleu",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal+ Haiti",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Gad5qrd.png",
+      "website": "https://www.canalplus-haiti.com/contacts"
+    },
+    {
+      "name": "Haiti Web Television",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/haiti.png",
+      "website": "https://tv.haitiwebradio.com/",
+      "priority": 4
+    },
+    {
+      "name": "ON TV 46",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Planet Haiti TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Radio Tele 6 Univers",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aeVXn7p.jpeg"
+    },
+    {
+      "name": "Radio Tele Caramel",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Tele Eclair",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jV30pSq.png",
+      "website": "https://radioteleeclair.com/"
+    },
+    {
+      "name": "Radio Tele Galaxie",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiogalaxiehaiti.com/"
+    },
+    {
+      "name": "Radio Tele Ginen",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ESlt16G.png",
+      "website": "https://www.rtghaiti.com/"
+    },
+    {
+      "name": "Radio Tele Scoop",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.scoopfmhaiti.com/"
+    },
+    {
+      "name": "Radio Tele Stanne Charitab",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Tele SuperStar",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GoaeyVV.png",
+      "website": "https://www.superstarhaiti.com/"
+    },
+    {
+      "name": "Radio Television Caraibes",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiotelecaraibes.com/"
+    },
+    {
+      "name": "Radio Television Espace",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Television Hirondelle",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiotelehirondelle.com/"
+    },
+    {
+      "name": "Radio Television Shilo",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radioteleshilo.com/"
+    },
+    {
+      "name": "Radio Television Sky",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Radio Tele Yaguana",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://www.radioyaguana.com/"
+    },
+    {
+      "name": "Storm TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B34NKfHCFVHriYfKhbsunHYl4x.jpg"
+    },
+    {
+      "name": "TCH",
+      "isFree": true
+    },
+    {
+      "name": "Tele 20",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "http://www.tele20.tv/"
+    },
+    {
+      "name": "Tele Amani-Y",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Haiti",
+      "isFree": true,
+      "website": "https://telehaiti.ht/"
+    },
+    {
+      "name": "Tele La Brise",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "http://www.telelabrise.com/"
+    },
+    {
+      "name": "Tele Pacific",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.radiotelepacific.com/"
+    },
+    {
+      "name": "Tele Pluriel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleplurielhaiti.com/"
+    },
+    {
+      "name": "Tele Variete",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0J5MzTB.png",
+      "website": "https://televariete.com/"
+    },
+    {
+      "name": "TNH",
+      "isFree": true,
+      "website": "http://www.rtnh.ht/"
+    },
+    {
+      "name": "TV Panou",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Netalkole TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Haiti/Netalkole.png",
+      "website": "https://www.haititelevision.com/netalkoletv.php"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Radio Tele Amen FM",
+      "isFree": true,
+      "shortName": "RTAF",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Tele Planet Compas",
+      "isFree": true,
+      "shortName": "RTPC",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Tele Shalom",
+      "isFree": true,
+      "shortName": "RTS",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Télé 4VEH",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Télé Eclair",
+      "isFree": true,
+      "shortName": "RTE",
+      "logo": "https://i.imgur.com/jV30pSq.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Télé Pitit Manman Mari",
+      "isFree": true,
+      "shortName": "RTPMM",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Télévision Caraïbes",
+      "isFree": true,
+      "shortName": "RTC",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Télévision Hirondelle",
+      "isFree": true,
+      "shortName": "RTH",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    }
+  ],
+  "News": [
+    {
+      "name": "Haiti Viral News",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/haiti.png"
+    },
+    {
+      "name": "Haiti News Channel",
+      "isFree": true,
+      "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+      "website": "https://haitinewstv.com/"
+    },
+    {
+      "name": "Radio Tele Monopole",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiotelemonopole.com/"
+    },
+    {
+      "name": "Tele Signal",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://signalfmhaiti.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Haiti Sports TV 1",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/haiti.png"
+    },
+    {
+      "name": "Haiti Sports TV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/flag/haiti.png"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Metropole",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ei1Su4V.png",
+      "website": "https://metropole.ht/"
+    },
+    {
+      "name": "Radio Tele Controle",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiotelecontrole.com/"
+    },
+    {
+      "name": "Radio Tele Hit",
+      "isFree": true,
+      "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+      "website": "http://www.hitfmhaiti.com/tele-hit/"
+    },
+    {
+      "name": "Radio Tele Skyway",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radioteleskyway.com/skyway-tv/"
+    },
+    {
+      "name": "VA Studio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagFQeyTjgAvECPOIfRa7N8L6Hk.jpg"
+    }
+  ]
+}

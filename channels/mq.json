@@ -1,0 +1,108 @@
+{
+  "Religious": [
+    {
+      "name": "Espérance TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "APTV",
+      "isFree": true,
+      "website": "http://www.aptv.fr/"
+    },
+    {
+      "name": "Esperance TV InterAmerique",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://esperancetv.org/"
+    },
+    {
+      "name": "Graphe TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.graphetv.com/"
+    },
+    {
+      "name": "TV Famille",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvfamille.org/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Martinique la 1ère",
+      "isFree": true,
+      "shortName": "ML1",
+      "logo": "https://go4.pw/CARIBBIEAN/_MARTINIQUE1ERE.png"
+    },
+    {
+      "name": "KMT",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/KMT_HD.png",
+      "website": "https://www.kmttelevision.fr/"
+    },
+    {
+      "name": "Madinina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.madininatv.com"
+    },
+    {
+      "name": "Martinique 1ere",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_MARTINIQUE1ERE.png",
+      "website": "https://la1ere.francetvinfo.fr/martinique/"
+    },
+    {
+      "name": "ViaATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ua6rOXo.png",
+      "website": "https://viaatv.tv/"
+    },
+    {
+      "name": "Zitata TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zitata.tv/"
+    },
+    {
+      "name": "Zouk TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/zouk.png",
+      "website": "https://www.zouktv.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "FUSION TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Haiti/Fusion_TV.png",
+      "website": "https://fusiontv.fr/"
+    },
+    {
+      "name": "Identite Tele Caraibes",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Atsf6Cd.png",
+      "website": "https://identiteradio.com/tv/"
+    },
+    {
+      "name": "RBR TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rbrfm.com/rbr-tv"
+    },
+    {
+      "name": "Sucre TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sucretv.fr/"
+    },
+    {
+      "name": "Tele Zoukla",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lWYKgPC.png",
+      "website": "https://www.telezoukla.com/"
+    }
+  ]
+}

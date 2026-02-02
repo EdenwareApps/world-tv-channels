@@ -1,39 +1,131 @@
-# World TV Channels
-JSON list of TV stations names and categories from around the world.
+# TV Channels by Country 🌍
 
-# Syntax
+[![npm version](https://img.shields.io/npm/v/@edenware/tv-channels-by-country.svg)](https://www.npmjs.com/package/@edenware/tv-channels-by-country)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/)
+
+A **community-maintained** JSON list of TV station names and categories from around the world — free to use in any project that needs structured channel data.
+
+Whether you're building an IPTV app, a channel lookup tool, or anything else, you're welcome here.
+
+## Table of contents
+
+- [Install](#install)
+- [Usage](#usage)
+- [API](#api)
+- [Data format](#data-format-channels)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Install
+
+```bash
+npm install @edenware/tv-channels-by-country
 ```
-Channel name (without commas), optional keywords
+
+---
+
+## Usage
+
+```js
+// ESM
+import { getChannels, listCountries, search, generate } from '@edenware/tv-channels-by-country';
+
+// CJS
+const { getChannels, listCountries, search, generate } = require('@edenware/tv-channels-by-country');
+
+// Channels by country (loads only the requested country, cached)
+const br = await getChannels('br');
+// { "Religious": [{ name, keywords, ... }], "News": [...], ... }
+
+// List all available country codes
+const countries = await listCountries();
+
+// Search by keywords
+const matches = await search('globo', { countries: ['br'], limit: 18 });
+// [{ name, keywords, country, category, ... }, ...]
+
+// Generate a list from multiple countries by priority
+const list = await generate({ countries: ['br', 'us'], limit: 256, minPerCategory: 18 });
+// [{ name, keywords, country, category, ... }, ...]
 ```
 
-Optional keywords are used to find the channel in a IPTV M3U list. Supports negate (-keyword) and "OR" scheme (group #1 of keywords | group #2 of keywords).
+**TypeScript:** types are included. **Dual format:** ESM and CommonJS. Direct JSON: `import br from '@edenware/tv-channels-by-country/channels/br.json'` (with bundler).
 
-Examples:
+---
 
-```
-CoolTV News
-```
-If channel name is always like this in IPTV lists, omit keywords and comma.
+## API
 
-```
-CoolTV, cooltv -news -sports
-```
-Exclude news and sports variations of channel.
+### `getChannels(countryCode)`
 
-```
-CoolTV, cool
-```
-If we just need to lookup for one word to find channel
+Returns channels grouped by category for a country. Uses ISO 3166-1 alpha-2 (e.g. `'br'`, `'us'`). Case-insensitive. Returns `null` if country not found.
 
-```
-CoolTV, cooltv | cool tv
-```
-If channel name can be written differently on iptv lists.
+### `listCountries()`
 
-Category names always in English, Megacubo will translate it.
+Returns a sorted array of available country codes.
 
-Example usages can be found [here](https://github.com/efoxbr/world-tv-channels/blob/main/br.json).
+### `search(keywords, options?)`
 
+Searches channels by keywords across countries and categories.
 
-# Contribute
-Feel free to send PRs, questions and suggestions. This list is primarily built for the [Megacubo](https://github.com/efoxbr/megacubo) project.
+| Option        | Type     | Default | Description                          |
+|---------------|----------|---------|--------------------------------------|
+| `countries`   | string[] | all     | Filter by country codes              |
+| `categories`  | string[] | all     | Filter by category names             |
+| `retransmits` | string   | `'all'` | `'parents'` \| `'affiliates'` \| `'all'` |
+| `limit`       | number   | 100     | Max results                          |
+
+### `generate(options)`
+
+Builds a list of channels from multiple countries, sorted by priority, with balanced categories.
+
+| Option             | Type     | Default | Description                                         |
+|--------------------|----------|---------|-----------------------------------------------------|
+| `countries`        | string[] | required| Country codes to merge                              |
+| `categories`       | string[] | all     | Filter by category                                  |
+| `retransmits`      | string   | `'all'` | `'parents'` \| `'affiliates'` \| `'all'`            |
+| `limit`            | number   | 256     | Max results                                         |
+| `minPerCategory`   | number   | 18      | Target channels per category                        |
+| `mainCountryFull`  | boolean  | false   | If true, include ALL channels from first country    |
+
+---
+
+## Data format (channels/)
+
+Files: `channels/{country}.json`. Each file maps category name → array of channel objects.
+
+| Field          | Type            | Description |
+|----------------|-----------------|-------------|
+| `name`         | string          | Display name (required) |
+| `keywords`     | string          | Search terms for M3U lookup. Use `-x` for excludes; `\|` for OR. |
+| `retransmits`  | string \| null  | Affiliate: parent network rebroadcast |
+| `shortName`    | string \| null  | Acronym or short name |
+| `isFree`       | boolean         | Free-to-air |
+| `logo`         | string \| null  | Logo URL |
+| `website`      | string \| null  | Official site |
+| `priority`     | number          | 0–10, relative to country+category. Default 5. |
+
+**Compact format:** Omit `keywords` when derived from name, `logo`/`website`/`retransmits` when null, `priority` when 5.
+
+See [channels/README.md](channels/README.md) for full schema.
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+- Fix typos
+- Add missing channels for your country
+- Improve keywords for better matching
+- Open issues for suggestions or bugs
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## License
+
+[MIT](LICENSE) © Efox

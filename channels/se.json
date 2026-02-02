@@ -1,0 +1,1716 @@
+{
+  "Sports": [
+    {
+      "name": "ATG",
+      "isFree": false,
+      "keywords": "atg -live",
+      "logo": "https://go4.pw/EUROPE/SWEDEN/ATGlive.png"
+    },
+    {
+      "name": "C More Golf",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Mix",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Sport",
+      "isFree": true,
+      "keywords": "c more sport -/ sf-kanalen",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Sport / SF-Kanalen",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Tennis",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "eSportsTV HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png"
+    },
+    {
+      "name": "Sportkanalen",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/sportkanalen_.png",
+      "website": "https://www.sportkanalen.se/"
+    },
+    {
+      "name": "TV4 Fotboll",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Hockey",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Motor",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport",
+      "isFree": true,
+      "keywords": "tv4 sport -live 1 -live 2 -live 3 -live 4 -xtra",
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sportkanalen",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "https://www.sportkanalen.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport Xtra",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.tv4sportxtra.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Tennis",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "V Sport 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Extra",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Football",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Golf",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "https://web.archive.org/web/20081022121248/http://www.viasatsport.se/content/blogcategory/29/38/"
+    },
+    {
+      "name": "V Sport Live 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Live 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Live 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Live 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Live 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Motor",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "https://web.archive.org/web/20081027070838/http://www.viasat4.no/sport/viasatmotor/"
+    },
+    {
+      "name": "V Sport +",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "https://viaplay.fi/package_sport"
+    },
+    {
+      "name": "V Sport Premium",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Ultra HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Sport Vinter",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "http://www.viasat.no/content/viasat-hockey-4"
+    },
+    {
+      "name": "TV4 (Sweden)",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "priority": 9
+    },
+    {
+      "name": "TV12 (Sweden)",
+      "isFree": null,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV12HD.png"
+    },
+    {
+      "name": "TV3 (Sweden)",
+      "isFree": null,
+      "logo": "https://lo1.in/MALAY/tv3.png",
+      "priority": 8
+    },
+    {
+      "name": "TV6 (Sweden)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png"
+    },
+    {
+      "name": "TV8 (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png"
+    },
+    {
+      "name": "TV10 (Sweden)",
+      "isFree": null,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png"
+    },
+    {
+      "name": "V Sport Hockey",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "Kanal 5 (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "priority": 8
+    },
+    {
+      "name": "Kanal 11 (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+    },
+    {
+      "name": "Discovery Channel (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "TLC (Swedish TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "MTV Global",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "Nickelodeon (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
+    },
+    {
+      "name": "Nick Jr. (Scandinavian TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "Nicktoons (Scandinavia)",
+      "isFree": null
+    },
+    {
+      "name": ":sv:Kanal 12",
+      "isFree": null
+    },
+    {
+      "name": "V Film",
+      "isFree": null,
+      "keywords": "v film -action -family -hits -premiere",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Series (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "Animal Planet Nordic",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
+    },
+    {
+      "name": "Cartoonito (European TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+    },
+    {
+      "name": "Cartoon Network Nordic",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+    },
+    {
+      "name": "Eurosport 1",
+      "isFree": null
+    },
+    {
+      "name": "Eurosport 2",
+      "isFree": null,
+      "logo": "https://i.imgur.com/Q3WjH1Q.png"
+    },
+    {
+      "name": "SkyShowtime",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+    },
+    {
+      "name": "BBC Nordic",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "CNBC Nordic",
+      "isFree": null
+    },
+    {
+      "name": "Hope Channel",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/2013/10/30/5d7eccbbdd8e762ee0929f30b598677a.png"
+    },
+    {
+      "name": "National Geographic Channel HD Scandinavia",
+      "isFree": null,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "priority": 9
+    },
+    {
+      "name": "National Geographic Channel Scandinavia",
+      "isFree": null,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "priority": 9
+    },
+    {
+      "name": "History (European TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png"
+    },
+    {
+      "name": "LifeStyle TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/2013/10/30/5425b87220701edbe87a6faa8d50a4e9.png"
+    },
+    {
+      "name": "TV Shop Europe",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tvins.com",
+      "isFree": null
+    },
+    {
+      "name": "Da Vinci Kids",
+      "isFree": null
+    },
+    {
+      "name": "Al Jazeera English",
+      "isFree": null,
+      "logo": "http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",
+      "priority": 10
+    },
+    {
+      "name": "BBC News (international TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "Bloomberg Television",
+      "isFree": null
+    },
+    {
+      "name": "Blue Hustler",
+      "isFree": null
+    },
+    {
+      "name": "CBS Reality",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Chelsea TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAmBnfCRBwy5S6n3Qb6aQKJYYRO.jpg"
+    },
+    {
+      "name": "CNN International",
+      "isFree": null,
+      "logo": "https://i.imgur.com/05S3yYZ.png",
+      "priority": 10
+    },
+    {
+      "name": "Deutsche Welle",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 10
+    },
+    {
+      "name": "Discovery HD Showcase",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Discovery Science Europe",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Discovery Travel & Living Europe",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Discovery World Europe",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney Channel (European, Middle Eastern and African TV channel)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "E! (Europe)",
+      "isFree": null
+    },
+    {
+      "name": "ESPN Classic",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "EuroNews",
+      "isFree": null,
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "priority": 9
+    },
+    {
+      "name": "Eurosport HD",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "Extreme Sports Channel",
+      "isFree": null
+    },
+    {
+      "name": "Fashion TV",
+      "isFree": null
+    },
+    {
+      "name": "France 24",
+      "isFree": null,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 10
+    },
+    {
+      "name": "Fuel TV (Portugal)",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "Ginx",
+      "isFree": null,
+      "logo": "https://go4.pw/MALTA/ginx.png"
+    },
+    {
+      "name": "GOD TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg"
+    },
+    {
+      "name": "Horse & Country",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYrcvHLJPhvCQyinyE4pB07Gkjj.jpg"
+    },
+    {
+      "name": "Hustler TV (Europe)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fgpf0luNrgDlEQMZucKHzCIMa.jpg"
+    },
+    {
+      "name": "Investigation Discovery (Europe)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png",
+      "priority": 9
+    },
+    {
+      "name": "Mezzo TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/MEZL.png"
+    },
+    {
+      "name": "Mezzo Live HD",
+      "isFree": null
+    },
+    {
+      "name": "Motors TV",
+      "isFree": null
+    },
+    {
+      "name": "MUTV (Manchester United F.C.)",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/mutv.png"
+    },
+    {
+      "name": "Nat Geo Wild",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "Outdoor Channel",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061422478101_60.jpg"
+    },
+    {
+      "name": "OutTV (Europe)",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/SD2/proud3.png"
+    },
+    {
+      "name": "Playboy TV",
+      "isFree": null,
+      "logo": "http://epg.one/img2/2014.png"
+    },
+    {
+      "name": "RT (TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png"
+    },
+    {
+      "name": "Rush HD",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg"
+    },
+    {
+      "name": "SABC News International",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/vip.png"
+    },
+    {
+      "name": "Sky News",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",
+      "priority": 10
+    },
+    {
+      "name": "Spice Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRPviMZG6PdAFDHQ1fFnWE9f25B.jpg"
+    },
+    {
+      "name": "Trace Urban HD",
+      "isFree": null,
+      "logo": "http://epg.one/img2/5597.png"
+    },
+    {
+      "name": "Travel Channel Europe",
+      "isFree": null,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+    },
+    {
+      "name": "TV5Monde",
+      "isFree": null
+    },
+    {
+      "name": "Jönköpings lokal-TV",
+      "isFree": null
+    },
+    {
+      "name": "Steve",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dn2Hg6uWE3Cytis6YGRH7gZ0MMf.jpg"
+    },
+    {
+      "name": "TV Malmö",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Öppna Kanalen",
+      "isFree": null,
+      "keywords": "oppna kanalen -skovde -stockholm"
+    },
+    {
+      "name": "Öppna Kanalen Skövde",
+      "isFree": null,
+      "logo": "https://i.imgur.com/1LkYbaQ.png"
+    },
+    {
+      "name": "Öppna Kanalen Stockholm",
+      "isFree": null
+    },
+    {
+      "name": "BBC Brit",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "BBC Earth (TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "BBC HD Scandinavia",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "BBC Lifestyle",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "Reliance Digital TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg"
+    },
+    {
+      "name": "C More Film",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+    },
+    {
+      "name": "Canal+ Comedy",
+      "isFree": null,
+      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+    },
+    {
+      "name": "Canal+ Drama",
+      "isFree": null,
+      "logo": "https://go4.pw/ITALY/_skycindr.png"
+    },
+    {
+      "name": "Comedy Central (Swedish TV channel)",
+      "isFree": null,
+      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+    },
+    {
+      "name": "Discovery Mix",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney Junior (Scandinavia)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney XD (Scandinavia)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "DiTV",
+      "isFree": null
+    },
+    {
+      "name": "Fan TV",
+      "isFree": null,
+      "logo": "https://ca0-cdn.onlineradiobox.com/img/logo/2/10962.v13.png"
+    },
+    {
+      "name": "Fight+",
+      "isFree": null
+    },
+    {
+      "name": "Filmmax",
+      "isFree": null
+    },
+    {
+      "name": "Fox Networks Group",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Hallmark Channel Scandilux",
+      "isFree": null
+    },
+    {
+      "name": "Jetix",
+      "isFree": null,
+      "logo": "https://tvtm.one/images/chIcons/3096.png"
+    },
+    {
+      "name": "Kanal Lokal",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+    },
+    {
+      "name": "Kiosk (TV)",
+      "isFree": null
+    },
+    {
+      "name": "K-T.V.",
+      "isFree": null
+    },
+    {
+      "name": "Med i tv",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/MED%20MUZIK.png"
+    },
+    {
+      "name": "MTV 80s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV 90s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV 00s",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "Club MTV (European TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+    },
+    {
+      "name": "MTV Hits (Europe)",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV Rocks (European TV channel)",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MTV Live (International TV channel)",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "ONE Television",
+      "isFree": null
+    },
+    {
+      "name": "Paramount Network (international)",
+      "isFree": null,
+      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
+    },
+    {
+      "name": "SF Succé",
+      "isFree": null,
+      "logo": "http://www.absoluteanal.com/images/logo.png"
+    },
+    {
+      "name": "Showtime Scandinavia",
+      "isFree": null,
+      "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png"
+    },
+    {
+      "name": "Silver (TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg"
+    },
+    {
+      "name": "Sky Entertainment",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "SuperSport (Albanian TV channels)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/su1su2.png"
+    },
+    {
+      "name": "Star! Scandinavia",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/nicktoons_.png"
+    },
+    {
+      "name": "SVT Extra",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "priority": 10
+    },
+    {
+      "name": "SVT HD",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "priority": 10
+    },
+    {
+      "name": "Toon Disney Scandinavia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ojbUahh8McTbR92Qf69ocWnggE.jpg"
+    },
+    {
+      "name": "TV Plus",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Syd (Swedish television channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV1000 Cinema",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/RUSSIAN/TV1000PYCCKPE-HD.png"
+    },
+    {
+      "name": "TV21 (Sweden)",
+      "isFree": null,
+      "logo": "https://i.imgur.com/IC1f4h3.png"
+    },
+    {
+      "name": "TVG (Sweden)",
+      "isFree": null,
+      "logo": "https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png"
+    },
+    {
+      "name": "TCM Nordic",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/TCM.png"
+    },
+    {
+      "name": "The Voice TV Sweden",
+      "isFree": null,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "TNT (Sweden)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"
+    },
+    {
+      "name": "VH1 (European TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "VH1 Classic (European TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "Viasat 3D",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+    },
+    {
+      "name": "Viasat Sport 2",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+    },
+    {
+      "name": "Viasat Sport 3",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+    },
+    {
+      "name": "Viasat Sport 24",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+    },
+    {
+      "name": "ZTV (Sweden)",
+      "isFree": null
+    },
+    {
+      "name": "Lists of television channels",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg"
+    }
+  ],
+  "News": [
+    {
+      "name": "Di TV",
+      "isFree": true
+    },
+    {
+      "name": "Expressen TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/26786415a49ce10a632e7d0cc1d7408b.png"
+    },
+    {
+      "name": "Miracle Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Aznews TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.aznews.tv/"
+    },
+    {
+      "name": "TV4 News",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.tv4news.se/",
+      "priority": 9
+    }
+  ],
+  "Local": [
+    {
+      "name": "Oppna Kanalen",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ATG Live",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/ATGlive.png"
+    },
+    {
+      "name": "Aftonbladet TV",
+      "isFree": true
+    },
+    {
+      "name": "Dagens Industri TV",
+      "isFree": true,
+      "shortName": "DIT",
+      "logo": "https://images.iptvmate.net/tvglogo/31e3fb5e20720c92b62b4342335acb8b.png"
+    },
+    {
+      "name": "Himlen TV 7",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8f7e1309e42bdfef20f22e1aeae26350.png"
+    },
+    {
+      "name": "Kanal 10",
+      "isFree": true,
+      "keywords": "kanal 10 -asia",
+      "logo": "https://images.iptvmate.net/tvglogo/19069e7d4b5a53d0c76dec69be943297.png"
+    },
+    {
+      "name": "Kanal 10 Asia",
+      "isFree": true
+    },
+    {
+      "name": "TV 4",
+      "isFree": true,
+      "keywords": "tv 4 -nyheterna -svensk politik | tv4 -svensk politik",
+      "logo": "https://i.imgur.com/WSvUsxy.png"
+    },
+    {
+      "name": "TV 4 Nyheterna",
+      "isFree": true,
+      "keywords": "tv 4 nyheterna | tv4nyheterna",
+      "logo": "https://images.iptvmate.net/tvglogo/95c7866d83d1dad40ac12df9cab976da.png"
+    },
+    {
+      "name": "TV 4 Svensk Politik",
+      "isFree": true,
+      "keywords": "tv 4 svensk politik | tv4 svensk politik",
+      "shortName": "T4SP",
+      "logo": "https://images.iptvmate.net/tvglogo/806ecdf763d08c140d3214fc2b1c9bd4.png"
+    },
+    {
+      "name": "Västmanlands TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EXBaQ88.jpg"
+    },
+    {
+      "name": "Västmanlands Television",
+      "isFree": true,
+      "shortName": "VT",
+      "logo": "https://images.iptvmate.net/tvglogo/09eb97319a4f1f0d538d0aefadda6be1.png"
+    },
+    {
+      "name": "Aryen TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/ARYEN%20TV.png",
+      "website": "https://www.aryen.tv/"
+    },
+    {
+      "name": "Brhan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "C More Action",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "https://www.cmore.se/"
+    },
+    {
+      "name": "C More Emotion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "https://www.cmore.se/"
+    },
+    {
+      "name": "C More Extreme",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "https://www.cmore.se/"
+    },
+    {
+      "name": "C More First",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Live 2 HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Live 3 HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Live 4 HD",
+      "isFree": true,
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Live 5 HD",
+      "isFree": true,
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Live HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "C More Stars HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "Dalavision",
+      "isFree": true,
+      "website": "http://www.dalavision.se"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "website": "https://www.dplay.se/kanaler/discovery",
+      "priority": 10
+    },
+    {
+      "name": "Discovery+ Extra 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Discovery+ Extra 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.discoveryplus.com/"
+    },
+    {
+      "name": "Glimt TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://glimt.tv/"
+    },
+    {
+      "name": "Godare",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/GODARE.png",
+      "website": "https://godare.se/"
+    },
+    {
+      "name": "Jonkopings Lokal-TV",
+      "isFree": true,
+      "website": "https://www.jonkopingtv.se/"
+    },
+    {
+      "name": "Kanal 11",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://www.discoveryplus.com/se/channel/kanal-11"
+    },
+    {
+      "name": "Kanal 5",
+      "isFree": true,
+      "website": "https://www.dplay.se/kanaler/kanal5",
+      "priority": 8
+    },
+    {
+      "name": "Kanal 9",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/66d46843cd349433229a8f35d97fd7c9.png",
+      "website": "https://www.discoveryplus.com/se/channel/kanal-9"
+    },
+    {
+      "name": "Lokal-TV Uddevalla",
+      "isFree": true,
+      "logo": "https://i.imgur.com/cnLkbOT.png",
+      "website": "https://ltvu.se/"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "keywords": "mtv -aitio -viihde",
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "https://www.mtv.se/",
+      "priority": 10
+    },
+    {
+      "name": "MTV Aitio",
+      "isFree": true,
+      "website": "https://www.mtv.fi/",
+      "priority": 8
+    },
+    {
+      "name": "Oppna Kanalen Goteborg",
+      "isFree": true,
+      "website": "https://oppnakanalengoteborg.se/"
+    },
+    {
+      "name": "Oppna Kanalen Hoglandet",
+      "isFree": true,
+      "website": "https://www.oppnakanalen.se/"
+    },
+    {
+      "name": "Oppna Kanalen Kronoberg",
+      "isFree": true,
+      "website": "https://www.okv.se/"
+    },
+    {
+      "name": "Oppna Kanalen Narke",
+      "isFree": true
+    },
+    {
+      "name": "Oppna Kanalen Stockholm",
+      "isFree": true,
+      "website": "https://www.oppnakanalenstockholm.se/"
+    },
+    {
+      "name": "RTV AlbSe",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "SF-kanalen",
+      "isFree": true,
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "Silver",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+      "website": "http://www.nonstop.tv/silver/"
+    },
+    {
+      "name": "Sjuan",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/sjuan_.png",
+      "website": "https://www.tv4play.se/kanaler"
+    },
+    {
+      "name": "Sky Showtime 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.skyshowtime.com/se"
+    },
+    {
+      "name": "Sky Showtime 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.skyshowtime.com/se"
+    },
+    {
+      "name": "SportExpressen TV",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_sweden.png"
+    },
+    {
+      "name": "Sundskanalen",
+      "isFree": true,
+      "logo": "https://i.imgur.com/8uT0p3q.jpg",
+      "website": "https://sundskanalen.se/"
+    },
+    {
+      "name": "Suroyo TV",
+      "isFree": true,
+      "logo": "https://go4.pw/KURDISH/SURYOYO.png",
+      "website": "http://www.suroyotv.com/"
+    },
+    {
+      "name": "Suryoyo Sat",
+      "isFree": true,
+      "logo": "https://i.imgur.com/naCNjaB.png",
+      "website": "http://suryoyosat.com/"
+    },
+    {
+      "name": "SVT1",
+      "isFree": true,
+      "logo": "https://go4.pw/SCANDINAVIAN/SUB.png",
+      "website": "https://www.svt.se/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Dalarna",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/dalarna/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Gavleborg",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/gavleborg/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Jamtland",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/jamtland/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Jonkoping",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/jonkoping/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Norrbotten",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/norrbotten/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Orebro",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/orebro/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Ost",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/ost/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Skane",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/skane/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Smaland",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/smaland/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Varmland",
+      "isFree": true,
+      "website": "http://www.svt.se/nyheter/regionalt/varmland/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Vast",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/vast/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Vasterbotten",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/vasterbotten/",
+      "priority": 10
+    },
+    {
+      "name": "SVT 1 Vasternorrland",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/nyheter/regionalt/vasternorrland/",
+      "priority": 10
+    },
+    {
+      "name": "SVT2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/SVT 2.png",
+      "website": "https://www.svt.se/",
+      "priority": 9
+    },
+    {
+      "name": "SVT24",
+      "isFree": true,
+      "website": "https://www.svt.se/",
+      "priority": 10
+    },
+    {
+      "name": "SVT Barn",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/barnkanalen/",
+      "priority": 10
+    },
+    {
+      "name": "SVT Barn/SVT24",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "https://www.svt.se/",
+      "priority": 10
+    },
+    {
+      "name": "SVT World",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
+      "website": "http://www.svt.se/svtworld/",
+      "priority": 10
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "website": "http://www.tlcsverige.se/"
+    },
+    {
+      "name": "TV10",
+      "isFree": true,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png",
+      "website": "https://www.viafree.se/kanal/tv10"
+    },
+    {
+      "name": "TV12",
+      "isFree": true,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV12HD.png",
+      "website": "https://www.tv4play.se/kanaler/tv12"
+    },
+    {
+      "name": "TV2Stad",
+      "isFree": true,
+      "website": "https://www.tv2stad.se/"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "website": "https://www.viafree.se/kanal/tv3",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Fakta XL",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.tv4faktaxl.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Hits",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Komedi",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "https://www.tv4.se/tv4komedi",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Science Fiction",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport Live 1",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport Live 2",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport Live 3",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Sport Live 4",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Stars",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.cmore.se/",
+      "priority": 9
+    },
+    {
+      "name": "TV6",
+      "isFree": true,
+      "website": "https://www.viafree.se/kanal/tv6"
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "http://www.tv8.se/"
+    },
+    {
+      "name": "TV Malmo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://malmomediakanal.se/"
+    },
+    {
+      "name": "TV Malung-Salen",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvmalung-salen.se/"
+    },
+    {
+      "name": "TV Vision Sverige",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://visionsverige.com/"
+    },
+    {
+      "name": "TV Vision Sweden",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://visionsverige.com/"
+    },
+    {
+      "name": "Vastmanlands TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EXBaQ88.jpg"
+    },
+    {
+      "name": "Viasat Film Comedy",
+      "isFree": true
+    },
+    {
+      "name": "YouSat",
+      "isFree": true,
+      "website": "https://yousat.tv/"
+    },
+    {
+      "name": "TV4",
+      "isFree": true,
+      "website": "https://www.tv4.se/",
+      "priority": 10
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Axess TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/_AXESS TV.png",
+      "website": "https://www.axess.se/"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://www.historytv.se/"
+    },
+    {
+      "name": "Investigation Discovery",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2507.png",
+      "website": "https://www.dplay.se/kanaler/id"
+    },
+    {
+      "name": "Kanal Global",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "http://www.kanalglobal.se/"
+    },
+    {
+      "name": "Komala TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106032658540833_94.jpg",
+      "website": "https://tvkomala.com/"
+    },
+    {
+      "name": "Kunskapskanalen",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/SVT KUNSKAPSKANALEN_.png",
+      "website": "https://kunskapskanalen.se/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://www.natgeotv.com/se",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://www.natgeotv.com/se",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Fakta",
+      "isFree": true,
+      "keywords": "tv4 fakta -xl",
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://tv4fakta.se/",
+      "priority": 9
+    },
+    {
+      "name": "Viasat Explore",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "website": "https://viasatexplore.eu/"
+    },
+    {
+      "name": "Viasat History",
+      "isFree": true,
+      "website": "https://viasathistory.eu/"
+    },
+    {
+      "name": "Viasat Nature",
+      "isFree": true,
+      "website": "https://viasatnature.eu/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "C More Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nickelodeon.se/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "C More Series HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "name": "MTV Viihde",
+      "isFree": true,
+      "website": "http://www.cmore.se/",
+      "priority": 8
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png"
+    },
+    {
+      "name": "Paramount+ Movies",
+      "isFree": true,
+      "website": "https://www.paramountplus.com/se/"
+    },
+    {
+      "name": "Paramount+ Series",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
+      "website": "https://www.paramountplus.com/se/"
+    },
+    {
+      "name": "TV4 Film",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://tv4.se/tv4film",
+      "priority": 9
+    },
+    {
+      "name": "TV4 Guld",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TV4.png",
+      "website": "http://www.tv4.se/guld",
+      "priority": 9
+    },
+    {
+      "name": "V Film Action",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Film Family",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Film Hits",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "V Film Premiere",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "Viasat Film Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+    },
+    {
+      "name": "V Series",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "LifeStyleTV",
+      "isFree": true,
+      "website": "https://watch.lifestyletv.se/"
+    },
+    {
+      "name": "Miracle TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/04/21/20170421052343918736_95.jpg",
+      "website": "https://miracleconnect.org/"
+    },
+    {
+      "name": "SverigeKanalen",
+      "isFree": true,
+      "website": "https://www.sverigekanalen.se/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Musik i Syd Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_germany.png",
+      "website": "https://www.musikisydchannel.se/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Tvins",
+      "isFree": true,
+      "website": "https://www.tvins.se/"
+    }
+  ]
+}

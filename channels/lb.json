@@ -1,0 +1,330 @@
+{
+  "News": [
+    {
+      "name": "Al Manar",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Mayadeen",
+      "isFree": true
+    },
+    {
+      "name": "Nabaa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Newvision",
+      "isFree": true
+    },
+    {
+      "name": "TV Seventeen",
+      "isFree": true
+    },
+    {
+      "name": "Al-Manar",
+      "isFree": true,
+      "website": "https://www.almanar.com.lb/"
+    },
+    {
+      "name": "Al Mayadeen TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://www.almayadeen.net/"
+    },
+    {
+      "name": "ALWifak News TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1vqhmNz.png",
+      "website": "https://www.alwifaknews.com/alwifaknewstv"
+    },
+    {
+      "name": "Falestinona Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.falestinona-tv.com/"
+    },
+    {
+      "name": "Palestine Al Yawm",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
+      "website": "https://paltodaytv.com/"
+    },
+    {
+      "name": "Red TV Lebanon",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "https://redtvlebanon.com"
+    },
+    {
+      "name": "SPI Lebanon",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulWjW1KhMLHwWJ97593reBhnXlv.jpg",
+      "website": "https://spilebanon.com"
+    },
+    {
+      "name": "UNews",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/uu/unews-lb.png",
+      "website": "https://unews.com.lb/live"
+    },
+    {
+      "name": "Voice of Lebanon",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
+      "website": "https://www.vdl.me"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Aliman TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALIMAN_TV.png"
+    },
+    {
+      "name": "Charity TV",
+      "isFree": true,
+      "keywords": "charity tv | charitytv",
+      "shortName": "CharityTV",
+      "logo": "https://i.imgur.com/U9z8WBY.png"
+    },
+    {
+      "name": "Nour Al Koddas",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png"
+    },
+    {
+      "name": "Nour Al Sharq",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png"
+    },
+    {
+      "name": "Nour Mariam",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png"
+    },
+    {
+      "name": "NourSAT",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174257288016_34.png"
+    },
+    {
+      "name": "Al-Iman TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.alimantv.com.lb/"
+    },
+    {
+      "name": "Al-waad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://al-waad.tv/"
+    },
+    {
+      "name": "Mariam TV",
+      "isFree": true,
+      "website": "https://noursat.tv/"
+    },
+    {
+      "name": "New Vision TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "https://www.newvision.tv/"
+    },
+    {
+      "name": "Nour Al Koddass",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "name": "Nour El Shabeb",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/Y9qqCgpv/nourelshabeb.png",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "name": "Noursat English",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/JORDAN/NOURSATALCHABAB.png",
+      "website": "https://noursat.tv/"
+    },
+    {
+      "name": "Sheikh Youssef Ftouni TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/QURAN.png",
+      "website": "https://youssefftouni.com/live-2/"
+    },
+    {
+      "name": "Suboro TV",
+      "isFree": true,
+      "logo": "https://go4.pw/KURDISH/Suboro_Tv_logo_png..png",
+      "website": "https://suborotv.net/"
+    },
+    {
+      "name": "Noursat",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174257288016_34.png",
+      "website": "https://noursat.tv/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Taha TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/4xnhPmjk/tahatv.png"
+    },
+    {
+      "name": "Nour Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/Al Nahar.png",
+      "website": "https://noursat.tv/tv/nour-kids/live"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Aghani Aghani",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/LEBANON/Aghani.png"
+    },
+    {
+      "name": "Arabica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sTOoDy1.png"
+    },
+    {
+      "name": "Aghani Aghani TV",
+      "isFree": true,
+      "website": "https://aghaniaghani.com/"
+    },
+    {
+      "name": "OneFM",
+      "isFree": true,
+      "website": "https://www.mtv.com.lb/OneTV/Live"
+    },
+    {
+      "name": "One TV",
+      "isFree": true,
+      "website": "https://www.mtv.com.lb/OneTV/Live"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Al Ittihad",
+      "isFree": true
+    },
+    {
+      "name": "Al Jadeed",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Alhayat TV",
+      "isFree": true
+    },
+    {
+      "name": "Future TV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "LBC",
+      "isFree": true,
+      "keywords": "lbc -international",
+      "logo": "https://i.imgur.com/PTOeIjz.png",
+      "priority": 10
+    },
+    {
+      "name": "LBC International",
+      "isFree": true,
+      "shortName": "LI",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png",
+      "priority": 9
+    },
+    {
+      "name": "NBN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/LEBANON/NBNLEBANONHD.png"
+    },
+    {
+      "name": "OTV",
+      "isFree": true,
+      "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Sawt El Mada",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Tele Liban",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bpsHXb2.png"
+    },
+    {
+      "name": "Al Ittihad TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "http://www.alittihad.tv/"
+    },
+    {
+      "name": "A TV",
+      "isFree": true,
+      "website": "http://atvch.com/"
+    },
+    {
+      "name": "Hawacom TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hawacom.tv/"
+    },
+    {
+      "name": "Khaleej Al Arab 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Khaleej Al Arab 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Lana TV",
+      "isFree": true,
+      "keywords": "lana tv -plus",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAGRGnsVIdCntuHLpnKl672rBrv.jpg",
+      "website": "https://ltv.com.lb/"
+    },
+    {
+      "name": "Lana TV Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAGRGnsVIdCntuHLpnKl672rBrv.jpg",
+      "website": "https://ltv.com.lb/"
+    },
+    {
+      "name": "LB2 International",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+    },
+    {
+      "name": "LBC Europe",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png",
+      "website": "https://www.lbcgroup.tv/",
+      "priority": 9
+    },
+    {
+      "name": "MTV Lebanon",
+      "isFree": true,
+      "website": "http://www.mtv.com.lb/",
+      "priority": 8
+    },
+    {
+      "name": "Senses TV",
+      "isFree": true
+    }
+  ]
+}

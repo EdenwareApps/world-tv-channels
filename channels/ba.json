@@ -1,0 +1,776 @@
+{
+  "News": [
+    {
+      "name": "Al Jazeera Balkans",
+      "isFree": true,
+      "shortName": "AJB",
+      "logo": "https://i.imgur.com/Z1FB6wl.png",
+      "priority": 10
+    },
+    {
+      "name": "N1 BIH",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png"
+    },
+    {
+      "name": "Alternativna TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.atvbl.com/"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://www.atvbl.rs/vijesti/bih"
+    },
+    {
+      "name": "N1",
+      "isFree": true,
+      "keywords": "n1 -bih",
+      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png",
+      "website": "https://ba.n1info.com/"
+    },
+    {
+      "name": "TV Slon Info",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "BN Televizija",
+      "isFree": true
+    },
+    {
+      "name": "Face TV (Bosnia and Herzegovina)",
+      "isFree": true
+    },
+    {
+      "name": "Cinema TV",
+      "isFree": true
+    },
+    {
+      "name": "Vikom Music",
+      "isFree": true
+    },
+    {
+      "name": "Balkan Music Channel",
+      "isFree": true
+    },
+    {
+      "name": "BMC Etno",
+      "isFree": true
+    },
+    {
+      "name": "Kontakt TV",
+      "isFree": true
+    },
+    {
+      "name": "City TV (Bosnia and Herzegovina)",
+      "isFree": true
+    },
+    {
+      "name": "TNT KIDS TV",
+      "isFree": true
+    },
+    {
+      "name": "DREAMPORN HD",
+      "isFree": true
+    },
+    {
+      "name": "Obiteljska televizija Valentino",
+      "isFree": true
+    },
+    {
+      "name": "VALENTINO ETNO",
+      "isFree": true
+    },
+    {
+      "name": "PRVA HERCEGOVAČKA",
+      "isFree": true
+    },
+    {
+      "name": "NTV Patria",
+      "isFree": true
+    },
+    {
+      "name": "IN televizija",
+      "isFree": true
+    },
+    {
+      "name": "KTV Zavidovići",
+      "isFree": true
+    },
+    {
+      "name": "Kablovska televizija KG-1",
+      "isFree": true
+    },
+    {
+      "name": "BDC Televizija",
+      "isFree": true
+    },
+    {
+      "name": "RA-TV",
+      "isFree": true
+    },
+    {
+      "name": "TV GLAS DRINE",
+      "isFree": true
+    },
+    {
+      "name": "tb1",
+      "isFree": true
+    },
+    {
+      "name": "Inicijativa TV",
+      "isFree": true
+    },
+    {
+      "name": "Info Plus",
+      "isFree": true
+    },
+    {
+      "name": "WTV Gračanica",
+      "isFree": true
+    },
+    {
+      "name": "TATABRADA",
+      "isFree": true
+    },
+    {
+      "name": "TV ONE HD",
+      "isFree": true
+    },
+    {
+      "name": "B1 TELEVIZIJA",
+      "isFree": true
+    },
+    {
+      "name": "TROPIK TV",
+      "isFree": true
+    },
+    {
+      "name": "N1 (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Sport Klub",
+      "isFree": true
+    },
+    {
+      "name": "Nova TV (Croatia)",
+      "isFree": true
+    },
+    {
+      "name": "Nova M",
+      "isFree": true
+    },
+    {
+      "name": "Nova (Serbia)",
+      "isFree": true
+    },
+    {
+      "name": "Grand TV",
+      "isFree": true
+    },
+    {
+      "name": "Grand TV 2",
+      "isFree": true
+    },
+    {
+      "name": "Lov i Ribolov",
+      "isFree": true
+    },
+    {
+      "name": "IDJ TV HD",
+      "isFree": true
+    },
+    {
+      "name": "Pikaboo (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Vavom HD",
+      "isFree": true
+    },
+    {
+      "name": "Croatian Music Channel",
+      "isFree": true
+    },
+    {
+      "name": "Prva Srpska Televizija",
+      "isFree": true
+    },
+    {
+      "name": "B92",
+      "isFree": true
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "B1 TV",
+      "isFree": true
+    },
+    {
+      "name": "BHRT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/01bZ5rw.png"
+    },
+    {
+      "name": "BN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png"
+    },
+    {
+      "name": "Malta",
+      "isFree": true
+    },
+    {
+      "name": "NTV IC",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png"
+    },
+    {
+      "name": "RTV BPK",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV HB",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "TV SLON INFO",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Slon Extra",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "РТРС",
+      "isFree": true
+    },
+    {
+      "name": "Alfa TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png",
+      "website": "https://alfatv.ba/"
+    },
+    {
+      "name": "Behar TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.behar.tv/"
+    },
+    {
+      "name": "BHT 1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png",
+      "website": "https://bhrt.ba/"
+    },
+    {
+      "name": "BN 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png",
+      "website": "https://rtvbn.tv/"
+    },
+    {
+      "name": "City TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png"
+    },
+    {
+      "name": "Dobra TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/DOBRA.png",
+      "website": "https://www.dobratv.com/"
+    },
+    {
+      "name": "DreamPorn TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tnt.ba/tv-oglasavanje/"
+    },
+    {
+      "name": "FACE TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg",
+      "website": "https://www.face.ba/"
+    },
+    {
+      "name": "Federalna televizija",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Jpvs4u3.png",
+      "website": "https://www.federalna.ba/"
+    },
+    {
+      "name": "Hema TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/HEMA_TV.png",
+      "website": "https://www.hematv.ba/cgi-sys/softsuspendedpage.pl"
+    },
+    {
+      "name": "Herceg TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/RTV_HERCEG_BOSNE.png",
+      "website": "https://www.herceg.tv/"
+    },
+    {
+      "name": "HIT Televizija",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
+      "website": "https://www.rtvhit.com/"
+    },
+    {
+      "name": "Info Plus TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "http://www.infoplus.ba/"
+    },
+    {
+      "name": "ITV Master",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://itv-master.com/"
+    },
+    {
+      "name": "ITV Story",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "website": "https://itv-story.com/"
+    },
+    {
+      "name": "K3",
+      "isFree": true,
+      "website": "http://tvk3.info/"
+    },
+    {
+      "name": "Kanal 6",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://kanal6.ba/"
+    },
+    {
+      "name": "Kuvo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kuvo.tv/"
+    },
+    {
+      "name": "NEON TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/thC9NFp.png",
+      "website": "https://ntv.ba/"
+    },
+    {
+      "name": "Nova TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8c67e97d5b4f7c352d20104a84509ba3.png",
+      "website": "https://novabh.tv/"
+    },
+    {
+      "name": "NTV IC Kakanj",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png",
+      "website": "http://www.ntvic.ba/"
+    },
+    {
+      "name": "NTV Jata",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png",
+      "website": "https://tvjata.com/"
+    },
+    {
+      "name": "OBN",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/09/29/20140929061634138690_60.jpg",
+      "website": "http://www.obn.ba/"
+    },
+    {
+      "name": "O Kanal",
+      "isFree": true,
+      "keywords": "o kanal -plus",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
+      "website": "https://okanal.ba/"
+    },
+    {
+      "name": "O Kanal Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
+      "website": "https://okanal.oslobodjenje.ba/"
+    },
+    {
+      "name": "OTV Valentino",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/LEBANON/OTVTV.png",
+      "website": "http://valentinobh.com/"
+    },
+    {
+      "name": "Pink BH",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
+      "website": "http://www.pink.rs/"
+    },
+    {
+      "name": "Posavina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://posavinatv.com/"
+    },
+    {
+      "name": "PRO TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174717633593_44.png",
+      "website": "https://protv.ba/"
+    },
+    {
+      "name": "RTRS plus",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/RTRS.png",
+      "website": "https://plus.rtrs.tv/"
+    },
+    {
+      "name": "RTRS TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/RTRS.png",
+      "website": "https://www.rtrs.tv/"
+    },
+    {
+      "name": "RTV 7 Tuzla",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtv7.ba/"
+    },
+    {
+      "name": "RTV Bugojno",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvbugojno.ba/"
+    },
+    {
+      "name": "RTV Cazin",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://crt.ba/"
+    },
+    {
+      "name": "RTV Doboj",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvdoboj.org/"
+    },
+    {
+      "name": "RTV Glas Drine",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvglasdrine.com/"
+    },
+    {
+      "name": "RTV IS",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://is-radio.com/"
+    },
+    {
+      "name": "RTV Jablanica",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvjablanica.ba/"
+    },
+    {
+      "name": "RTV-KD",
+      "isFree": true,
+      "website": "https://rtv-kd.com/"
+    },
+    {
+      "name": "RTV Lukavac",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvlukavac.ba/"
+    },
+    {
+      "name": "RTV Maglaj",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV Sana",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://sanartv.ba/"
+    },
+    {
+      "name": "RTV TK",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvtk.ba/"
+    },
+    {
+      "name": "RTV USK",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.rtvusk.ba/tv/"
+    },
+    {
+      "name": "RTV Vikom",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.vikom.tv/"
+    },
+    {
+      "name": "RTV Visoko",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.visoko-rtv.ba/"
+    },
+    {
+      "name": "RTV Zenica",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvze.ba/"
+    },
+    {
+      "name": "RTV Zivinice",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvzivinice.tv/"
+    },
+    {
+      "name": "Smart Televizija",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4diO35a0NM9H1M44zSDtRuQuEXa.jpg",
+      "website": "https://tvsmart.ba/"
+    },
+    {
+      "name": "Super TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pzxUE0O.png",
+      "website": "https://www.supertelevizija.com/"
+    },
+    {
+      "name": "Tatabrada TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/tatabrada_mal.png",
+      "website": "https://www.tatabrada.tv/"
+    },
+    {
+      "name": "Tb1",
+      "isFree": true
+    },
+    {
+      "name": "Televizija 5",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "http://www.televizija5.ba/"
+    },
+    {
+      "name": "Televizija M",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "https://tv-m.net/"
+    },
+    {
+      "name": "TOK TV",
+      "isFree": true,
+      "website": "https://toktv.ba/"
+    },
+    {
+      "name": "Tropik TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TROPIK-TV.png"
+    },
+    {
+      "name": "TV Arena",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV One",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tthm8Q5.png"
+    },
+    {
+      "name": "TV Podrinje",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvpodrinje.com/"
+    },
+    {
+      "name": "TVSA",
+      "isFree": true,
+      "website": "https://www.tvsa.ba/"
+    },
+    {
+      "name": "TV Simic",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Zepce",
+      "isFree": true,
+      "keywords": "tv zepce -2 -etno",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvzepce.wixsite.com/tvzepce"
+    },
+    {
+      "name": "TV Zepce 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvzepce.wixsite.com/tvzepce"
+    },
+    {
+      "name": "WTV Gracanica",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NwIolMu.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Arena Sport 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2qf67zW.png",
+      "website": "https://www.tvarenasport.com/ba"
+    },
+    {
+      "name": "Arena Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/ba"
+    },
+    {
+      "name": "Arena Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/ba"
+    },
+    {
+      "name": "Arena Sport 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/ba"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "BIR TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDMJTS7m2ncDr1T8kGnOaUX1MdG.jpg",
+      "website": "https://tv.bir.ba/"
+    },
+    {
+      "name": "Maria+Vision Medjugorje",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xUOspBx.png",
+      "website": "https://www.mariavisionmedjugorje.com/"
+    },
+    {
+      "name": "MTV Igman",
+      "isFree": true,
+      "website": "http://www.mtvigman.ba",
+      "priority": 8
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "BN Music",
+      "isFree": true,
+      "website": "https://bnmusictv.com/"
+    },
+    {
+      "name": "ELTA 1 HD",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png",
+      "website": "http://www.eltatv.net/"
+    },
+    {
+      "name": "ELTA 2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png",
+      "website": "http://www.eltatv.net/"
+    },
+    {
+      "name": "Hayat",
+      "isFree": true,
+      "keywords": "hayat -folk -music -plus",
+      "logo": "https://go4.pw/AFRICA/EGYPT/ALHAYATMUSLSALAT.png",
+      "website": "https://www.hayat.ba/"
+    },
+    {
+      "name": "Hayat Folk",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/EGYPT/ALHAYATMUSLSALAT.png",
+      "website": "https://www.hayat.ba/"
+    },
+    {
+      "name": "Hayat Music",
+      "isFree": true,
+      "website": "https://www.hayat.ba/"
+    },
+    {
+      "name": "Hayatovci",
+      "isFree": true,
+      "website": "https://www.hayat.ba/"
+    },
+    {
+      "name": "Hayat Plus",
+      "isFree": true,
+      "website": "https://www.hayat.ba/"
+    },
+    {
+      "name": "Izvorna TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/IZVORNATV-1.png",
+      "website": "http://izvornatv.com/"
+    },
+    {
+      "name": "Sevdah TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gmpkHWT.png",
+      "website": "https://sevdah.tv/"
+    },
+    {
+      "name": "TV Zepce Etno",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvzepce.wixsite.com/tvzepce"
+    },
+    {
+      "name": "Valentino Etno",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WpSqSCB1aHRNy1G13KBADrLCP7.jpg",
+      "website": "https://valentinobh.com/"
+    },
+    {
+      "name": "Valentino Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WpSqSCB1aHRNy1G13KBADrLCP7.jpg",
+      "website": "https://valentinobh.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Radio Televizija Vogosca",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://rtvvogosca.ba"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Shoptel",
+      "isFree": true,
+      "website": "https://shoptel.ba/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "TNT Kids TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "website": "https://tntkids.tv/"
+    }
+  ]
+}

@@ -1,0 +1,3250 @@
+{
+  "News": [
+    {
+      "name": "AMX Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/snIU1UA.jpg"
+    },
+    {
+      "name": "Azteca Noticias",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/AZTECACINEMA.png",
+      "priority": 9
+    },
+    {
+      "name": "CBN Español TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_cbn (1).png"
+    },
+    {
+      "name": "Euronews en Español",
+      "isFree": true,
+      "shortName": "EEE",
+      "logo": "https://go4.pw/germany/eurns.png",
+      "priority": 10
+    },
+    {
+      "name": "Foro TV MX",
+      "isFree": true,
+      "shortName": "Foro TV",
+      "logo": "https://go4.pw/LATINO/FOROTV.png",
+      "website": "https://www.tvazteca.com/forotv",
+      "priority": 9
+    },
+    {
+      "name": "ForoTV",
+      "isFree": true,
+      "retransmits": "TV Azteca",
+      "shortName": "Foro TV",
+      "logo": "https://go4.pw/LATINO/FOROTV.png",
+      "website": "https://www.tvazteca.com/forotv",
+      "priority": 9
+    },
+    {
+      "name": "MVM Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Televisa News Mexico",
+      "isFree": true,
+      "shortName": "TNM",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "ACM Canal 54",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Acustik TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://acustik.mx/"
+    },
+    {
+      "name": "BITV",
+      "isFree": true,
+      "website": "https://www.binoticias.com/tv-en-vivo"
+    },
+    {
+      "name": "Cable Noticias Jalisco",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Canal 18 NTRT",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Efekto TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.efekto.tv/"
+    },
+    {
+      "name": "El Financiero Bloomberg TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.elfinanciero.com.mx/tv/"
+    },
+    {
+      "name": "Excelsior TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/ESNE.png",
+      "website": "https://www.excelsior.com.mx/tv"
+    },
+    {
+      "name": "Foro",
+      "isFree": true,
+      "keywords": "foro -tv mx",
+      "logo": "https://go4.pw/LATINO/FOROTV.png",
+      "website": "https://www.nmas.com.mx/foro-tv"
+    },
+    {
+      "name": "Gamavision",
+      "isFree": true,
+      "website": "https://gamavision.com/"
+    },
+    {
+      "name": "Global Media TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "https://www.globalmedia.mx/"
+    },
+    {
+      "name": "Info TV 9",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://canalnuevezacatecas.com.mx/"
+    },
+    {
+      "name": "Meganoticias MX",
+      "isFree": true,
+      "website": "https://meganoticias.mx/"
+    },
+    {
+      "name": "Milenio Television",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MelinioTV.png",
+      "website": "https://www.milenio.com/mileniotv"
+    },
+    {
+      "name": "MiSURtv",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qStNac7.png"
+    },
+    {
+      "name": "MVS Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TcB37yV.png",
+      "website": "https://mvsnoticias.com/"
+    },
+    {
+      "name": "NNVeracruz",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7H3MtwG.png",
+      "website": "https://www.nnveracruz.com.mx/"
+    },
+    {
+      "name": "N+",
+      "isFree": true,
+      "keywords": "n+ -bajio -media",
+      "website": "https://www.nmas.com.mx/"
+    },
+    {
+      "name": "N+ Bajio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SlycKgZ.png",
+      "website": "https://www.nmas.com.mx/en-vivo"
+    },
+    {
+      "name": "N+ Media",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rFRx3d5.png"
+    },
+    {
+      "name": "NRT Mexico Internacional",
+      "isFree": true,
+      "logo": "https://i.imgur.com/W2E0fSy.png",
+      "website": "https://noticiasnrt.com/"
+    },
+    {
+      "name": "NRT Mexico Region Carbonifera",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/NRT.png",
+      "website": "https://noticiasnrt.com/"
+    },
+    {
+      "name": "NRT Mexico Region Centro",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yjNUzYD.jpg",
+      "website": "https://noticiasnrt.com/"
+    },
+    {
+      "name": "NRT Mexico Region Sureste",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rxVVrZV.jpg",
+      "website": "https://noticiasnrt.com/"
+    },
+    {
+      "name": "Paralelo 20 650 AM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9SOZ2Sh.png",
+      "website": "https://paraleloveinte.com/"
+    },
+    {
+      "name": "PSN Canal 45.2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "website": "https://psn.si/"
+    },
+    {
+      "name": "Reporte TV-Noticias",
+      "isFree": true
+    },
+    {
+      "name": "TN23 Mexico",
+      "isFree": true,
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "UDG TV Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QKvINA6.png",
+      "website": "https://udgtv.com/44noticias"
+    },
+    {
+      "name": "WeatherSpy",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KIEKOt1.png",
+      "website": "https://www.weatherspy.tv/"
+    },
+    {
+      "name": "WOWmx.TV",
+      "isFree": true,
+      "website": "https://www.wowmx.tv/"
+    },
+    {
+      "name": "XHZAE-TDT",
+      "isFree": true,
+      "website": "https://grupozer.mx/"
+    },
+    {
+      "name": "XHZER-TDT",
+      "isFree": true,
+      "website": "https://grupozer.mx/"
+    },
+    {
+      "name": "Imagen Televisión",
+      "isFree": null,
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png"
+    },
+    {
+      "name": "Canal 5 (Mexico)",
+      "isFree": null,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "XHTVM-TDT",
+      "isFree": null
+    },
+    {
+      "name": "A Más",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/619307.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ADN 40",
+      "isFree": true,
+      "keywords": "adn 40 | adn40",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.adn40.mx",
+      "priority": 8
+    },
+    {
+      "name": "Alcarria TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Canal 10",
+      "isFree": true,
+      "keywords": "canal 10 -cancun"
+    },
+    {
+      "name": "Canal 28",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 44 Chihuahua",
+      "isFree": true,
+      "shortName": "C4C",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Mundo+",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Once Internacional",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "shortName": "Canal Once",
+      "logo": "https://images.iptvmate.net/tvglogo/83342f4ce2d1d7bf048c9aa89df86136.png",
+      "website": "https://www.canaloncedigital.mx"
+    },
+    {
+      "name": "Canal Once TV IPN",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "shortName": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaloncedigital.mx"
+    },
+    {
+      "name": "Claro Sports",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8685a1facf568d2523c7b32dbd51728e.png"
+    },
+    {
+      "name": "CorTV",
+      "isFree": true
+    },
+    {
+      "name": "Energía Musical TV",
+      "isFree": true,
+      "shortName": "EMT",
+      "logo": "https://go4.pw/CARIBBIEAN/ENERGIA.png"
+    },
+    {
+      "name": "Genesis TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Governo do México",
+      "isFree": true,
+      "shortName": "GDM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14fGGPAL5PQxuesjO4CFoDJEH5G.jpg"
+    },
+    {
+      "name": "Hipodromo de las Americas",
+      "isFree": true,
+      "shortName": "HDLA",
+      "logo": "https://i.imgur.com/wc8MlGw.png"
+    },
+    {
+      "name": "Icrtv Colima",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iUks0ot.png"
+    },
+    {
+      "name": "Imagen TV",
+      "isFree": true,
+      "shortName": "Imagen",
+      "website": "https://www.imagentv.com"
+    },
+    {
+      "name": "Jalisco TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Jalisco.png"
+    },
+    {
+      "name": "La Octava TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Mexiquense TV",
+      "isFree": true
+    },
+    {
+      "name": "Milenio TV",
+      "isFree": true,
+      "shortName": "Milenio",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.milenio.com"
+    },
+    {
+      "name": "Milenio Televisión",
+      "isFree": true,
+      "shortName": "MT",
+      "logo": "https://go4.pw/LATINO/MelinioTV.png"
+    },
+    {
+      "name": "Multimedios Guadalajara",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "shortName": "Multimedios",
+      "logo": "https://i.imgur.com/yr9M9Kj.png",
+      "website": "https://www.multimedios.com"
+    },
+    {
+      "name": "Multimedios Laguna",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "shortName": "ML",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Multimedios Monterrey",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "shortName": "Multimedios",
+      "logo": "https://i.imgur.com/yr9M9Kj.png",
+      "website": "https://www.multimedios.com"
+    },
+    {
+      "name": "México Travel Channel",
+      "isFree": true,
+      "shortName": "MTC",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg"
+    },
+    {
+      "name": "Noticias Canal 10",
+      "isFree": true,
+      "shortName": "NC1",
+      "logo": "https://go4.pw/SPAIN/VIX.png"
+    },
+    {
+      "name": "Once Mexico",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "shortName": "Canal Once",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "website": "https://www.canaloncedigital.mx"
+    },
+    {
+      "name": "POP TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/XySNnh0.png"
+    },
+    {
+      "name": "Quiero TV",
+      "isFree": true
+    },
+    {
+      "name": "RCG 2 Saltillo",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a14bb3f2e7365ff899dbc272205db06e.png"
+    },
+    {
+      "name": "RCG 3 Saltillo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NefH5qZ.png"
+    },
+    {
+      "name": "RCG TV",
+      "isFree": true,
+      "keywords": "rcg tv -2 -3"
+    },
+    {
+      "name": "RCG TV 2",
+      "isFree": true
+    },
+    {
+      "name": "RCG TV 3",
+      "isFree": true
+    },
+    {
+      "name": "RTQ Queretaro",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Sintesis TV",
+      "isFree": true,
+      "keywords": "sintesis tv | sintesistv",
+      "shortName": "SintesisTV",
+      "logo": "https://i.imgur.com/1g9mbqi.png"
+    },
+    {
+      "name": "Sipse TV Cancun",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TELE SISTEMA CANAL 9",
+      "isFree": true,
+      "shortName": "TSC9"
+    },
+    {
+      "name": "TV Azteca 7",
+      "isFree": true,
+      "retransmits": "TV Azteca",
+      "shortName": "Azteca 7",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvazteca.com",
+      "priority": 9
+    },
+    {
+      "name": "TV Lobo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/q9p1Spj.png"
+    },
+    {
+      "name": "TV Unam",
+      "isFree": true,
+      "shortName": "TV UNAM",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tv.unam.mx"
+    },
+    {
+      "name": "TVMAS",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/aa3c6d2ae28b43d47c64c016efe7da76.png"
+    },
+    {
+      "name": "TVMÁS",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/aa3c6d2ae28b43d47c64c016efe7da76.png"
+    },
+    {
+      "name": "TVP",
+      "isFree": true,
+      "keywords": "tvp -culiacan -los mochis -obregon",
+      "logo": "https://i.imgur.com/cwzvctB.png"
+    },
+    {
+      "name": "TVP Culiacán",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iuaYGK2.png"
+    },
+    {
+      "name": "TVP Los Mochis",
+      "isFree": true,
+      "logo": "https://i.imgur.com/b6rNKeU.png"
+    },
+    {
+      "name": "TVP Obregón",
+      "isFree": true
+    },
+    {
+      "name": "Tabasco Hoy TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SlycKgZ.png"
+    },
+    {
+      "name": "TeleFormula",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Telefórmula",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Telemar Campeche",
+      "isFree": true
+    },
+    {
+      "name": "Telemax",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Teleritmo",
+      "isFree": true
+    },
+    {
+      "name": "Tlaxcala Televisión",
+      "isFree": true,
+      "shortName": "TT",
+      "logo": "https://i.imgur.com/5vaEhfy.png"
+    },
+    {
+      "name": "Transmedia Televisión Morelia",
+      "isFree": true,
+      "shortName": "TTM",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "UDG44 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Uno TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "12 Vision Encarnacion",
+      "isFree": true
+    },
+    {
+      "name": "15TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CZ8LKmA.png",
+      "website": "https://15tv.com.mx/"
+    },
+    {
+      "name": "8.1 Mas Nogales TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg",
+      "website": "https://8nogales.tv/"
+    },
+    {
+      "name": "8NTV",
+      "isFree": true,
+      "website": "https://www.ntv.com.mx/envivo/"
+    },
+    {
+      "name": "Acatlan TV Canal 23",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "Allende TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Anesma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://anesma.net/"
+    },
+    {
+      "name": "Antena TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1sAgSME.png",
+      "website": "http://www.antenatele.com.mx/"
+    },
+    {
+      "name": "Arco TV Hidalgo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/L89LBAz.png",
+      "website": "https://arcotvhidalgo.com/"
+    },
+    {
+      "name": "Asi Sucede Guanajuato",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kLYMk6a0fp1WEbHyEOFvKZkF5Y.jpg",
+      "website": "https://asisucedegto.mx/"
+    },
+    {
+      "name": "Az Clic",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png",
+      "website": "https://www.tvazteca.com/tvpaga/notas/clic"
+    },
+    {
+      "name": "Az Mundo",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png",
+      "website": "https://www.tvazteca.com/tvpaga/notas/mundo"
+    },
+    {
+      "name": "Azteca 7",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://www.tvazteca.com/azteca7",
+      "priority": 9
+    },
+    {
+      "name": "Azteca Internacional",
+      "isFree": true,
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698120582938_AI_Roku_260x147_Mono_INTERNACIONAL_CB_Oct23.png",
+      "priority": 9
+    },
+    {
+      "name": "B15 Fresnillo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kaUhEQy.png",
+      "website": "https://b15.com.mx/"
+    },
+    {
+      "name": "B15 Zacatecas",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kaUhEQy.png",
+      "website": "https://b15.com.mx/"
+    },
+    {
+      "name": "Beat Box",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+    },
+    {
+      "name": "bitMe",
+      "isFree": true,
+      "keywords": "bitme -latin america",
+      "website": "https://www.bitme.gg/"
+    },
+    {
+      "name": "bitMe Latin America",
+      "isFree": true,
+      "logo": "https://i.ibb.co/RTjJ5SpG/image.png",
+      "website": "https://www.bitme.gg/"
+    },
+    {
+      "name": "C9NTV",
+      "isFree": true,
+      "website": "https://c9ntv.mx/"
+    },
+    {
+      "name": "Cadena Sur Multimedios",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/Cadena.png",
+      "website": "http://cadenasurmultimedios.mx/site/"
+    },
+    {
+      "name": "California Medios TV",
+      "isFree": true,
+      "logo": "https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png",
+      "website": "https://californiamedios.com/"
+    },
+    {
+      "name": "Canal 10.1",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.diezpuntounotam.com/"
+    },
+    {
+      "name": "Canal 105 de Tacambaro",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 10 Cancun",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://noticias.canal10.tv/"
+    },
+    {
+      "name": "Canal 10 Durango",
+      "isFree": true,
+      "logo": "https://i.imgur.com/H34quHQ.png",
+      "website": "https://canal10.com.mx/sitio/"
+    },
+    {
+      "name": "Canal 10 San Pedro TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 10 TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 12 Chiapas TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.valancimediagroup.com/canal12/"
+    },
+    {
+      "name": "Canal 12 Durango",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 12 Iguala",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal12tv.com/"
+    },
+    {
+      "name": "Canal 13 Bajio",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Campeche",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Chiapas",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Guadalajara",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Michoacan",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Oaxaca",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Puebla",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Tabasco",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Tapachula",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 13 Tierra Caliente",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 13 Yucatan",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal13mexico.com/"
+    },
+    {
+      "name": "Canal 15 Kantunilkin",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 16.1",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.setpuebla.mx/"
+    },
+    {
+      "name": "Canal 16.2",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.setpuebla.mx/"
+    },
+    {
+      "name": "Canal 16 TV Sur Ocozocoautla",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 19",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://canal19tvregional.wixsite.com/canal19"
+    },
+    {
+      "name": "Canal 21 Chignahuapan",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 21 Jalisco",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 21 Rioverde",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 22 Internacional",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal22.org.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 22 Metropolitana y Nacional",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal22.org.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 22 Nacional",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal22.org.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 25",
+      "isFree": true,
+      "keywords": "canal 25 -tenosique",
+      "logo": "https://1.bp.blogspot.com/-JR913CLWLko/X3PN3uhsYaI/AAAAAAAABtE/THsf81YEE2ob50qWZS00xvlDZeUE_15xgCLcBGAsYHQ/w200-h200/Canal%2B25%2BRep%25C3%25BAblica%2BDominicana.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 25 Tenosique",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 26",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://ryta.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 26.2",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://ryta.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 29 de Airecable",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://airecable.com/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 29 Monclova",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://impulsotelevision.com/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 2 Television de La Cruz",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.televisiondelacruz.com/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 30 Cintalapa",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 30 Stars TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 33 Tijuana",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal66.tv/"
+    },
+    {
+      "name": "Canal 37",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 3 TG TVCable",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 44",
+      "isFree": true,
+      "keywords": "canal 44 -chihuahua",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal44.com/"
+    },
+    {
+      "name": "Canal 47 TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 48 TV Universo",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 4 de Matehuala",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 5",
+      "isFree": true,
+      "keywords": "canal 5 -donde tu te ves -san cristobal -tv cozumel",
+      "logo": "https://i.imgur.com/JqaW7Ei.png",
+      "website": "http://www.televisa.com/canal5/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 51",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 5 Donde Tu Te Ves",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 5 San Cristobal",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 5 TV Cozumel",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://tvcozumel.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal 6 de Tamazula",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 6 Tecpan",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://canal6tecpan.com.mx/"
+    },
+    {
+      "name": "Canal 6 Tv",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canal6tv.com/"
+    },
+    {
+      "name": "Canal 6 TV Cable Hidalguense",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.tvcablehidalguense.com/",
+      "priority": 4
+    },
+    {
+      "name": "Canal 7 Destel",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalsietetv.com/"
+    },
+    {
+      "name": "Canal 7 SLP",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal7slp.tv/"
+    },
+    {
+      "name": "Canal 8 Telecable Carbonifera",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://telcammuzquiz.com/",
+      "priority": 4
+    },
+    {
+      "name": "Canal 8 Tu Nueva Vision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal8tnv.com.mx/"
+    },
+    {
+      "name": "Canal 96 Tizimin",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal del Congreso 45.1",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://i.imgur.com/xAC6gQO.png",
+      "website": "https://www.canaldelcongreso.gob.mx/"
+    },
+    {
+      "name": "Canal del Congreso 45.2",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaldelcongreso.gob.mx/"
+    },
+    {
+      "name": "Canal del Congreso 45.3",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canaldelcongreso.gob.mx/"
+    },
+    {
+      "name": "Canal Doce Huejutla",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Doce Panuco",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Doce Tantoyuca",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Doce TV",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal Ocho TV",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalochotv.com/"
+    },
+    {
+      "name": "Canal Parlamento del Congreso de Jalisco",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalparlamento.congresojal.gob.mx/"
+    },
+    {
+      "name": "Car One TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bty0IdXh4l2BmoQNVeAH5PYKrMK.jpg",
+      "website": "https://www.carone.tv/"
+    },
+    {
+      "name": "CB TV Michoacan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://cbtelevision.com.mx/"
+    },
+    {
+      "name": "Cepropie",
+      "isFree": true,
+      "website": "http://cepropie.gob.mx/"
+    },
+    {
+      "name": "Citro 6 TV La Imagen de Alamo",
+      "isFree": true,
+      "website": "https://www.tvalamo.com.mx/digital.php"
+    },
+    {
+      "name": "City Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+      "name": "CNR Television",
+      "isFree": true,
+      "website": "https://www.cnrnoticias.tv/"
+    },
+    {
+      "name": "Coahuila Television",
+      "isFree": true,
+      "website": "https://coahuilartv.com.mx/"
+    },
+    {
+      "name": "Comunique Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "CreaLaTV",
+      "isFree": true,
+      "website": "https://www.creala.tv/"
+    },
+    {
+      "name": "Cuatro Television",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/cuatro.png",
+      "website": "https://www.cuatrotelevision.tv/"
+    },
+    {
+      "name": "Despierta TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hywjKNo.jpg",
+      "website": "https://despierta.tv/"
+    },
+    {
+      "name": "DiezTV Encarnacion",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Home & Health Latin America",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://www.tudiscovery.com/hh",
+      "priority": 9
+    },
+    {
+      "name": "Distrito Comedia",
+      "isFree": true,
+      "website": "http://televisa-networks.com/programacion/distrito-comedia/"
+    },
+    {
+      "name": "Eclipse TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg",
+      "website": "https://grupoeclipse.com.mx/tv/"
+    },
+    {
+      "name": "Ecovision 27 TV",
+      "isFree": true
+    },
+    {
+      "name": "El Nu9ve",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.televisa.com/el-nueve/"
+    },
+    {
+      "name": "Encadena TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://encadena.mx/"
+    },
+    {
+      "name": "Enlace 13 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Enlace.png",
+      "website": "https://www.enlace.org/"
+    },
+    {
+      "name": "Entornotvc",
+      "isFree": true,
+      "website": "https://etntvc.com/"
+    },
+    {
+      "name": "Espacio Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/en0MZ7AXBxghhRuCsbagpW26erS.jpg",
+      "website": "https://espaciotelevision.mx/"
+    },
+    {
+      "name": "Expresa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kFVVGrg.png",
+      "website": "https://expresatv.com.mx/"
+    },
+    {
+      "name": "FreeTV 8.2",
+      "isFree": true,
+      "logo": "https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvsureno_400x200_lg.png",
+      "website": "https://www.freetv.com/"
+    },
+    {
+      "name": "Frontera TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYWfXTIfuAUr9ZmgYnQc5sjz26j.jpg"
+    },
+    {
+      "name": "FX",
+      "isFree": true,
+      "website": "http://www.canalfx.tv/"
+    },
+    {
+      "name": "Gobierno de la Republica",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "http://www.presidencia.gob.mx/"
+    },
+    {
+      "name": "Golden",
+      "isFree": true,
+      "keywords": "golden -edge -multiplex -plus -premier -premier 2",
+      "website": "http://televisa-networks.ioncom.mx/portfolio/golden/"
+    },
+    {
+      "name": "Golden Edge",
+      "isFree": true,
+      "website": "https://televisa-networks.com/portfolio/golden-edge/"
+    },
+    {
+      "name": "Golden Multiplex",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg"
+    },
+    {
+      "name": "Golden Plus",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png"
+    },
+    {
+      "name": "Hidalgo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://radioytelevision.hidalgo.gob.mx/pag/hidalgotelevision.html"
+    },
+    {
+      "name": "Hola!13 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "IERTBCS Canal 8.2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R3icGuG.png",
+      "website": "https://iert.bcs.gob.mx/canal-8-1-2/"
+    },
+    {
+      "name": "IMRyT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/D91O6ka.png",
+      "website": "http://imryt.org/"
+    },
+    {
+      "name": "INFO7",
+      "isFree": true,
+      "website": "https://www.info7.mx/tv-en-vivo"
+    },
+    {
+      "name": "Ingenio TV",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-XslEa9ODtnk/Xm6mRePc-WI/AAAAAAAABj4/ySQY8kuakmUPogs60eW4wmY0L6MsqrNXgCLcBGAsYHQ/s200/34.png",
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "ITV Deportes",
+      "isFree": true,
+      "logo": "https://iili.io/J1kV1Bn.png"
+    },
+    {
+      "name": "Justicia TV",
+      "isFree": true,
+      "website": "https://justiciatv.mx/"
+    },
+    {
+      "name": "La Mexicana TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://lamexicana.tv/"
+    },
+    {
+      "name": "Las Estrellas",
+      "isFree": true,
+      "keywords": "las estrellas -europa -latin america",
+      "logo": "https://imgur.com/rmmvWsX.png",
+      "website": "https://www.lasestrellas.tv/",
+      "priority": 10
+    },
+    {
+      "name": "Las Estrellas Europa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqc2LaUWB4ePf6IqpJ6D8apBDvn.jpg",
+      "website": "https://www.lasestrellas.tv/",
+      "priority": 9
+    },
+    {
+      "name": "Las Estrellas Latin America",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqc2LaUWB4ePf6IqpJ6D8apBDvn.jpg",
+      "website": "https://www.lasestrellas.tv/",
+      "priority": 9
+    },
+    {
+      "name": "Los Altos Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyxh9Wr9iYXsn1kJs77IoACNL2d.jpg"
+    },
+    {
+      "name": "Maussan Television",
+      "isFree": true,
+      "website": "https://maussantelevision.com/"
+    },
+    {
+      "name": "Mayavision",
+      "isFree": true,
+      "website": "https://www.mayavision.com.mx/"
+    },
+    {
+      "name": "MC",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuAti3pkylfx0EyhfRUPpxK6Xkm.jpg"
+    },
+    {
+      "name": "Megacanal",
+      "isFree": true
+    },
+    {
+      "name": "Metropoli Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yID5T2S.jpg",
+      "website": "https://metropolitelevision.com/"
+    },
+    {
+      "name": "Mexicanal",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/MEXICANAL.png",
+      "website": "https://www.mexicanal.com/"
+    },
+    {
+      "name": "Mexico Travel Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg",
+      "website": "https://mexicotravelchannel.com.mx/"
+    },
+    {
+      "name": "Multimedios Bajio",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://go4.pw/Mexico/multimedios_logo.png",
+      "website": "https://www.multimedios.com/video/bajio-tv-en-vivo/v17351"
+    },
+    {
+      "name": "Multimedios CDMX",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://go4.pw/Mexico/multimedios_logo.png",
+      "website": "https://www.multimedios.com/television"
+    },
+    {
+      "name": "Multimedios Ciudad Juarez",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://go4.pw/Mexico/multimedios_logo.png",
+      "website": "https://www.multimedios.com/video/ciudad-juarez-tv-en-vivo/v19824"
+    },
+    {
+      "name": "Multimedios Plus",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png",
+      "website": "https://www.multimediostv.com/programas"
+    },
+    {
+      "name": "Multimedios Puebla",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://go4.pw/Mexico/multimedios_logo.png",
+      "website": "https://www.multimedios.com/video/puebla-tv-en-vivo/v17946"
+    },
+    {
+      "name": "Multimedios Saltillo",
+      "isFree": true,
+      "retransmits": "Multimedios",
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://www.multimedios.com/video/saltillo-tv-en-vivo/v17784"
+    },
+    {
+      "name": "MVS TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TcB37yV.png",
+      "website": "https://mvstv.com/"
+    },
+    {
+      "name": "Nayarit Comunica",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aZCTkjU.jpg",
+      "website": "https://nayaritcomunica.com/"
+    },
+    {
+      "name": "No Name TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wltdRZfeKDux9yKThlGKwjWhUil.jpg",
+      "website": "https://nonametv.net/"
+    },
+    {
+      "name": "NuestraVision",
+      "isFree": true
+    },
+    {
+      "name": "Nueve",
+      "isFree": true,
+      "keywords": "nueve -tv",
+      "logo": "https://go4.pw/LATINO/elnueve.png",
+      "website": "https://www.televisa.com/el-nueve/"
+    },
+    {
+      "name": "Nueve TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/elnueve.png",
+      "website": "https://www.ntvslp.com/"
+    },
+    {
+      "name": "OnC.2",
+      "isFree": true
+    },
+    {
+      "name": "Panico",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7UG19f0.png",
+      "website": "http://www.pctvcanales.mx/canales/panico.aspx"
+    },
+    {
+      "name": "PSN",
+      "isFree": true,
+      "keywords": "psn -canal 45.2",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "website": "https://psn.si/"
+    },
+    {
+      "name": "Queretaro Femenil TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.vbmedia.com.mx"
+    },
+    {
+      "name": "Radiotele",
+      "isFree": true,
+      "logo": "https://i.imgur.com/XpcCZvu.png",
+      "website": "https://radiotele.tv/"
+    },
+    {
+      "name": "Raly TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/W8a1dIa.png",
+      "website": "https://ralytv.com/"
+    },
+    {
+      "name": "Red de las Artes",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "website": "http://www.cenart.gob.mx/red-de-las-artes-canal-23/"
+    },
+    {
+      "name": "RMS",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-zOeQjiwf3Ws/Xm7ZAIzD1II/AAAAAAAABpA/NG0Vae1jK10moDKhd8FjR9NYvUATKdcngCLcBGAsYHQ/s200/52.png"
+    },
+    {
+      "name": "RTG",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164557683738_64.png"
+    },
+    {
+      "name": "Salud TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qkHrttj.png"
+    },
+    {
+      "name": "Secrets",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "SIPSE TV 8.1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://sipseplay.com/"
+    },
+    {
+      "name": "SIPSE TVCUN 8.1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://sipseplay.com/"
+    },
+    {
+      "name": "Sistema Michoacano de TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7MXF4Fd.png",
+      "website": "https://www.sistemamichoacano.tv/television"
+    },
+    {
+      "name": "Sky One",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky View",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Solo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTi13Vuqqfc135tUkc7BBDjotq5.jpg",
+      "website": "https://solotv.mx/"
+    },
+    {
+      "name": "Sony Channel",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png",
+      "website": "https://la.sonychannel.com/"
+    },
+    {
+      "name": "SQCS Canal 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qnx8nBP.png",
+      "website": "https://qroo.gob.mx/sqcs"
+    },
+    {
+      "name": "Suma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://uaeh.edu.mx/suma/tv/index.html"
+    },
+    {
+      "name": "Super9 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TntqGmR.png",
+      "website": "https://super9.com.mx/"
+    },
+    {
+      "name": "Super Channel 12",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://superchannel12.com"
+    },
+    {
+      "name": "Tamazvision",
+      "isFree": true
+    },
+    {
+      "name": "TCCN Canal Once",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TDN Mexico",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TDN.png",
+      "website": "http://www.televisanetworks.tv/perfil.asp?idc=24"
+    },
+    {
+      "name": "Tele 10",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "TELE 4 Ojocaliente",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Telebachillerato",
+      "isFree": true,
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "Tele Cienega",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://telecienega.com.mx/"
+    },
+    {
+      "name": "Telemaya",
+      "isFree": true,
+      "website": "https://mayacable.com/"
+    },
+    {
+      "name": "Tele Mexico",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "Teleplay Sureste",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MeV5N08.png",
+      "website": "https://teleplay.tv/"
+    },
+    {
+      "name": "Tele Saltillo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.zocalo.com.mx/category/video/"
+    },
+    {
+      "name": "Telesur Yucatan",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png",
+      "website": "https://telesur889.com/"
+    },
+    {
+      "name": "Televisa Chiapas",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Del Bajio",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Del Golfo",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Durango",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Morelos",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Oaxaca",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Puebla",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Queretaro",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Quintana Roo",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Saltillo",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa San Luis Potosi",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Sinaloa",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Victoria",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Yucatan",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Television Altena",
+      "isFree": true,
+      "website": "https://tvctepa.com/WEB/tva.html"
+    },
+    {
+      "name": "Tele Yucatan",
+      "isFree": true,
+      "logo": "https://i.imgur.com/XkpDSmO.png",
+      "website": "http://www.teleyucatan.gob.mx/"
+    },
+    {
+      "name": "Tlaxcala TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5vaEhfy.png",
+      "website": "https://www.tlaxcalatelevision.tv/"
+    },
+    {
+      "name": "Torreon TV Canal 28",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "priority": 9
+    },
+    {
+      "name": "Transmedia Television Morelia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TRC TV",
+      "isFree": true,
+      "website": "http://trccampeche.gob.mx/"
+    },
+    {
+      "name": "TUDN",
+      "isFree": true,
+      "website": "https://www.tudn.mx/"
+    },
+    {
+      "name": "Turistik TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/g9j0ze8.png",
+      "website": "https://turistiktv.com.mx/"
+    },
+    {
+      "name": "TV5 Tu Canal",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png"
+    },
+    {
+      "name": "TVA Canal 25",
+      "isFree": true,
+      "website": "https://tvatoto.wordpress.com/",
+      "priority": 9
+    },
+    {
+      "name": "TVC",
+      "isFree": true,
+      "keywords": "tvc -deportes -deportes 2",
+      "logo": "https://i.imgur.com/bUVp1U1.png",
+      "website": "http://www.pctvcanales.mx/canales/meganoticias-tvc"
+    },
+    {
+      "name": "TVC Deportes",
+      "isFree": true,
+      "keywords": "tvc deportes -2",
+      "website": "http://www.pctvcanales.mx/canales/tvc-deportes"
+    },
+    {
+      "name": "TVC Deportes 2",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/deportes.png",
+      "website": "http://www.pctvcanales.mx/canales/tvc-deportes"
+    },
+    {
+      "name": "TV Cuatro 4.1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "website": "http://www.tvcuatro.com/"
+    },
+    {
+      "name": "TVeo Canal",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TV Guanajuato",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvguanajuato.com/"
+    },
+    {
+      "name": "TV Hot",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "TV Independencia",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvindependencia.com/"
+    },
+    {
+      "name": "TV Libertad",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvlibertad.mx/"
+    },
+    {
+      "name": "TV Mar La Paz",
+      "isFree": true,
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "website": "https://tvmar.tv/"
+    },
+    {
+      "name": "TV Mar Los Cabos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvmar.tv/"
+    },
+    {
+      "name": "TV Mar Puerto Vallarta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "website": "https://tvmar.tv/"
+    },
+    {
+      "name": "TV Mexiquense",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radioytvmexiquense.mx/"
+    },
+    {
+      "name": "Tvmezquital",
+      "isFree": true
+    },
+    {
+      "name": "TV Migrante",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mxplus.tv/television/tv-migrante"
+    },
+    {
+      "name": "TV Monarca",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvmonarca.com/"
+    },
+    {
+      "name": "TV Parras",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvparras.com/"
+    },
+    {
+      "name": "TVP Culiacan",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iuaYGK2.png",
+      "website": "https://tvpacifico.mx/"
+    },
+    {
+      "name": "TVP Mazatlan",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/ARGENTINA/TVP.png",
+      "website": "https://tvpacifico.mx/"
+    },
+    {
+      "name": "TVP Obregon",
+      "isFree": true,
+      "website": "https://tvpacifico.mx/"
+    },
+    {
+      "name": "TvQ Tabasco",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SlycKgZ.png",
+      "website": "https://tvq.mx/"
+    },
+    {
+      "name": "TV San Luis",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVT",
+      "isFree": true,
+      "website": "https://tvt.mx/"
+    },
+    {
+      "name": "TV Tierra Colorada",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Universidad",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0MXsQ25.png",
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "TVX Canal 18",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TV Zacatlan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UDG TV",
+      "isFree": true,
+      "keywords": "udg tv -noticias",
+      "logo": "https://i.imgur.com/QKvINA6.png",
+      "website": "http://udgtv.com/canal44/"
+    },
+    {
+      "name": "Ultra TV Puebla",
+      "isFree": true,
+      "logo": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
+      "website": "https://puebla.ultralaradio.mx/"
+    },
+    {
+      "name": "UMTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sjxVdPh.png",
+      "website": "http://umtv.mx/"
+    },
+    {
+      "name": "Unicable",
+      "isFree": true,
+      "website": "https://www.unicable.tv/"
+    },
+    {
+      "name": "Univision Latin America",
+      "isFree": true,
+      "logo": "https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",
+      "website": "http://afiliados.televisa-networks.com/programacion/univision-latam/"
+    },
+    {
+      "name": "VB Media TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0W8kHxt.png",
+      "website": "https://www.vbmedia.com.mx"
+    },
+    {
+      "name": "Veracidad Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://veracidadchannel.com/"
+    },
+    {
+      "name": "Veracruz Multimedios TV",
+      "isFree": true
+    },
+    {
+      "name": "Vextremo",
+      "isFree": true,
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "VIA El Canal de Celaya",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/VIA.png",
+      "website": "https://viaelcanaldecelaya.tv/"
+    },
+    {
+      "name": "ViBE TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.vibetv.mx/"
+    },
+    {
+      "name": "Vibra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Videa Plataforma",
+      "isFree": true,
+      "website": "https://www.videatelevision.com.mx/"
+    },
+    {
+      "name": "Video Rola",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg",
+      "website": "https://www.videorola.com/"
+    },
+    {
+      "name": "ViX Familia",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VIX.png"
+    },
+    {
+      "name": "ViX Jajaja",
+      "isFree": true,
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c51c18ade0bd5b68b5e9bfa83410e372/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481111596_JAJAJA_HUD_Logo_260x147.png"
+    },
+    {
+      "name": "ViX Parejas",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VIX.png"
+    },
+    {
+      "name": "VO Media",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "World TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://worldtv.mx/"
+    },
+    {
+      "name": "XEFB-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XEFE-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XEIMT-TDT2",
+      "isFree": true,
+      "website": "https://www.canal22.org.mx/"
+    },
+    {
+      "name": "XEJ-TDT",
+      "isFree": true,
+      "website": "https://xejtv.com/"
+    },
+    {
+      "name": "XET-TDT1",
+      "isFree": true,
+      "website": "https://www.televisa.com/canal5"
+    },
+    {
+      "name": "XETV-TDT1",
+      "isFree": true,
+      "website": "https://www.televisa.com/canal5/"
+    },
+    {
+      "name": "XETV-TDT2",
+      "isFree": true,
+      "website": "https://www.televisa.com/canal5/"
+    },
+    {
+      "name": "XEVT 104.1 FM",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://www.xevt.com/"
+    },
+    {
+      "name": "XEWH-TDT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/klhTyDU.png"
+    },
+    {
+      "name": "XEWT-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHBC-TDT",
+      "isFree": true,
+      "website": "http://www.televisaregional.com/mexicali/"
+    },
+    {
+      "name": "XHBZC-TDT",
+      "isFree": true,
+      "website": "https://iert.bcs.gob.mx/"
+    },
+    {
+      "name": "XHCCA-TDT",
+      "isFree": true,
+      "website": "https://trccampeche.gob.mx/canal/"
+    },
+    {
+      "name": "XHDF-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHFGL-TDT",
+      "isFree": true,
+      "website": "https://www.el15.mx/"
+    },
+    {
+      "name": "XHFN-TDT1",
+      "isFree": true,
+      "website": "https://www.info7.mx/"
+    },
+    {
+      "name": "XHG-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHGV-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHICCH-TDT",
+      "isFree": true,
+      "website": "http://www.canal44.com/"
+    },
+    {
+      "name": "XHIJ-TDT",
+      "isFree": true,
+      "website": "http://www.canal44.com/"
+    },
+    {
+      "name": "XHILA-TDT",
+      "isFree": true,
+      "website": "http://www.canal66.tv/"
+    },
+    {
+      "name": "XHJK-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHKG-TDT",
+      "isFree": true,
+      "website": "http://xhkg.tv/"
+    },
+    {
+      "name": "XHMZ-TDT1",
+      "isFree": true,
+      "website": "https://tvpacifico.mx/tv-en-linea/mazatlan"
+    },
+    {
+      "name": "XHPBZC-TDT1",
+      "isFree": true,
+      "website": "http://www.setpuebla.mx/television/"
+    },
+    {
+      "name": "XHRIO-TV",
+      "isFree": true
+    },
+    {
+      "name": "XHSDD-TDT",
+      "isFree": true,
+      "website": "https://15tv.com.mx/"
+    },
+    {
+      "name": "XHST-TDT",
+      "isFree": true,
+      "website": "http://www.teleyucatan.gob.mx/en_vivo"
+    },
+    {
+      "name": "XHS-TV",
+      "isFree": true
+    },
+    {
+      "name": "XHTJB-TDT",
+      "isFree": true
+    },
+    {
+      "name": "XHTPG-TDT",
+      "isFree": true,
+      "website": "http://www.10tv.nayarit.gob.mx/"
+    },
+    {
+      "name": "XHTRES-TDT",
+      "isFree": true,
+      "website": "https://heraldodemexico.com.mx/tv.html"
+    },
+    {
+      "name": "XHTTG-TDT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dw6puHC.png",
+      "website": "http://radiotvycine.chiapas.gob.mx/en-vivo/"
+    },
+    {
+      "name": "XHX-TDT1",
+      "isFree": true,
+      "website": "https://www.lasestrellas.tv/"
+    },
+    {
+      "name": "XHZHZ-TDT",
+      "isFree": true,
+      "website": "https://www.sizart.org.mx/"
+    },
+    {
+      "name": "Xti Network",
+      "isFree": true
+    },
+    {
+      "name": "ZAZ",
+      "isFree": true,
+      "logo": "https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/99RG0S2K0AmhqHCTQBzJQkzQaGLy2vnINez2F93x.png",
+      "website": "https://zaztv.com/"
+    },
+    {
+      "name": "TVMas",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/aa3c6d2ae28b43d47c64c016efe7da76.png",
+      "website": "http://www.tvmas.mx/"
+    },
+    {
+      "name": "TV UNAM",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "MTC Mexico Travel Channel",
+      "isFree": true,
+      "shortName": "MMTC",
+      "logo": "https://go4.pw/IRAN/MTC.png"
+    },
+    {
+      "name": "Antena Lince UAdeO",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://uadeo.mx/antena-lince-uadeo/"
+    },
+    {
+      "name": "A+",
+      "isFree": true,
+      "website": "https://www.tvazteca.com/amastv"
+    },
+    {
+      "name": "Aprende en casa 3.2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg",
+      "website": "https://aprendeencasa.sep.gob.mx/"
+    },
+    {
+      "name": "Aprende TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "Canal 53 UANL",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://radioytv.uanl.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Canal Cultural Huauchinango",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.canalcultural.tv/"
+    },
+    {
+      "name": "Canal Iberoamericano",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.ilce.edu.mx/index.php/radio-y-tv"
+    },
+    {
+      "name": "El Sonorense",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.elsonorense.com/"
+    },
+    {
+      "name": "Espacio Universitario",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/en0MZ7AXBxghhRuCsbagpW26erS.jpg",
+      "website": "https://www.ilce.edu.mx/index.php/radio-y-tv"
+    },
+    {
+      "name": "Especiales",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/TelehitMúsica.png",
+      "website": "https://aprende.gob.mx/"
+    },
+    {
+      "name": "GikTVMX",
+      "isFree": true,
+      "website": "https://giktvmx.g3radio.mx"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://www.historyplay.tv/"
+    },
+    {
+      "name": "ILCE Canal 13 Innova Conocimiento",
+      "isFree": true,
+      "logo": "https://i.imgur.com/r7czgOc.png",
+      "website": "http://www.ilce.edu.mx/index.php/canal-13"
+    },
+    {
+      "name": "ILCE Canal 15 Summa Saberes",
+      "isFree": true,
+      "logo": "https://i.imgur.com/r7czgOc.png",
+      "website": "https://www.ilce.edu.mx/index.php/radio-y-tv"
+    },
+    {
+      "name": "Imagen UABC TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png",
+      "website": "https://imagentv.uabc.mx/envivo"
+    },
+    {
+      "name": "Lobo+",
+      "isFree": true,
+      "website": "https://tv.buap.mx/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "logo": "http://epg.one/img2/102.png",
+      "website": "https://www.nationalgeographicla.com/",
+      "priority": 10
+    },
+    {
+      "name": "Once Internacional",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "website": "http://canalonce.mx/"
+    },
+    {
+      "name": "Once Ninas y Ninos",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "website": "https://onceninos.tv/"
+    },
+    {
+      "name": "Presumiendo Mexico",
+      "isFree": true,
+      "website": "https://www.presumiendomexico.com.mx/"
+    },
+    {
+      "name": "Radio y Television UASLP",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioytelevision.uaslp.mx/"
+    },
+    {
+      "name": "Tele UV",
+      "isFree": true,
+      "website": "https://www.uv.mx/television/"
+    },
+    {
+      "name": "TV BUAP",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radioytv.buap.mx/"
+    },
+    {
+      "name": "TV Cuatro 4.2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "website": "https://tvcuatro.tv/4-2/"
+    },
+    {
+      "name": "TV Cuatro 4.4",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcuatro.tv/4-4/"
+    },
+    {
+      "name": "TV UAQ",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.uaq.mx/"
+    },
+    {
+      "name": "TV UAT",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvuat.uat.edu.mx/"
+    },
+    {
+      "name": "TV UAZ",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvuaz.uaz.edu.mx/"
+    },
+    {
+      "name": "TV UG",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ugto.mx/sirth/television/"
+    },
+    {
+      "name": "TV UJAT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4demWOi.png",
+      "website": "http://www.ujat.tv/"
+    },
+    {
+      "name": "TV UJED",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv.ujed.mx/"
+    },
+    {
+      "name": "UAA TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.dailymotion.com/uaatv"
+    },
+    {
+      "name": "UACJ-TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/a1WaGTQ.jpeg",
+      "website": "https://comunica.uacj.mx/uacj-tv2"
+    },
+    {
+      "name": "Unison TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7ixWRId.png",
+      "website": "https://television.unison.mx/"
+    },
+    {
+      "name": "XEIPN-TDT",
+      "isFree": true,
+      "website": "https://canalonce.mx/"
+    },
+    {
+      "name": "XHMNL-TDT",
+      "isFree": true,
+      "website": "https://srtvnl.com/"
+    },
+    {
+      "name": "XHPBZC-TDT2",
+      "isFree": true,
+      "website": "http://www.setpuebla.mx/television/"
+    },
+    {
+      "name": "XHSPR-TDT1",
+      "isFree": true,
+      "website": "https://canalcatorce.tv/"
+    },
+    {
+      "name": "XHUNES-TDT",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LbZkdca.png",
+      "website": "https://senalespana.unes.edu.mx/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "María Visión Mexico",
+      "isFree": true,
+      "shortName": "MVM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xHKEYfrO1FpVZJJnKy5BhfWVCK.jpg"
+    },
+    {
+      "name": "Monte Maria",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg"
+    },
+    {
+      "name": "Alcance TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/veeuqS1.png"
+    },
+    {
+      "name": "BAMOS TV",
+      "isFree": true,
+      "website": "https://www.bamos.com.mx/"
+    },
+    {
+      "name": "Efeso Television",
+      "isFree": true
+    },
+    {
+      "name": "Maria Vision",
+      "isFree": true,
+      "website": "https://www.mariavision.com/"
+    },
+    {
+      "name": "Radio y Television Crisol de la Alegria",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://web.radiocrisoldelaalegria.com/"
+    },
+    {
+      "name": "Unife Mexico",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TLM592m.png",
+      "website": "https://video.unife.mx/"
+    }
+  ],
+  "Local": [
+    {
+      "name": "Azteca Uno",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "Canal 10 Cancún",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 12",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-MdqA5PamLBA/X3OxKXxQWBI/AAAAAAAABpo/DvvR5gd6iUQPU6pEwshQ-pZPYi8kTn_TwCLcBGAsYHQ/w200-h200/Canal%2B12%2BNicaragua.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Canal Catorce",
+      "isFree": true,
+      "retransmits": "Canal Once",
+      "priority": 4
+    },
+    {
+      "name": "Capital 21",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Imagen Multicast",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png",
+      "priority": 4
+    },
+    {
+      "name": "SET Televisión Canal 26.1",
+      "isFree": true,
+      "shortName": "STC2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Aguascalientes",
+      "isFree": true,
+      "shortName": "TA",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Chihuahua",
+      "isFree": true,
+      "shortName": "TC",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Ciudad Juarez",
+      "isFree": true,
+      "shortName": "TCJ",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Estado",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Guadalajara",
+      "isFree": true,
+      "shortName": "TG",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Guerrero",
+      "isFree": true,
+      "shortName": "TG",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Laguna",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Mexicali",
+      "isFree": true,
+      "shortName": "TM",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Monterrey",
+      "isFree": true,
+      "shortName": "TM",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Noreste",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Piedras Negras",
+      "isFree": true,
+      "shortName": "TPN",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa San Luis Potosí",
+      "isFree": true,
+      "shortName": "TSLP",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Sonora",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Veracruz",
+      "isFree": true,
+      "shortName": "TV",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    },
+    {
+      "name": "Televisa Zacatecas",
+      "isFree": true,
+      "shortName": "TZ",
+      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png",
+      "priority": 9
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Conecta TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qEk0QGa.png"
+    },
+    {
+      "name": "Bandamax",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4DfnOTA.png",
+      "website": "http://www.bandamax.tv/"
+    },
+    {
+      "name": "D99 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.mmradio.com/estaciones/d99-989-fm-monterrey"
+    },
+    {
+      "name": "Exa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://exa.tv/"
+    },
+    {
+      "name": "La Imagen de Tierra Caliente",
+      "isFree": true,
+      "logo": "https://i.ibb.co/HLyhpkR/Screenshot-20231201-163133.jpg",
+      "website": "https://www.hispanatv.com/c/13/la-imagen"
+    },
+    {
+      "name": "La Luperrona Ciudad Guzman",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://laluperrona.com/"
+    },
+    {
+      "name": "La Luperrona Colima",
+      "isFree": true,
+      "website": "https://laluperrona.com/"
+    },
+    {
+      "name": "La Luperrona Ocotlan",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://laluperrona.com/"
+    },
+    {
+      "name": "La Mejor TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://lamejor.com.mx/"
+    },
+    {
+      "name": "La Ranchera de Cuauhtemoc",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://dp.gbmradio.com/"
+    },
+    {
+      "name": "La Voz Grupera TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ku1CEeb.png",
+      "website": "https://www.vozfmradio.com/"
+    },
+    {
+      "name": "Lobo TV",
+      "isFree": true,
+      "website": "https://www.lobotv.com.mx/"
+    },
+    {
+      "name": "NU Music",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png"
+    },
+    {
+      "name": "Ola Grupera",
+      "isFree": true,
+      "logo": "https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg",
+      "website": "https://gruperaola.wixsite.com/olagruperamagazine-3"
+    },
+    {
+      "name": "Radar TV 71",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/spect.png",
+      "website": "https://www.radarfm.mx/"
+    },
+    {
+      "name": "Radio y Television Budokan",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1rfoSt8.png",
+      "website": "https://budokanveracruzmultimedios.com/"
+    },
+    {
+      "name": "TeleHit",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NVxHxJn.png",
+      "website": "https://www.telehit.com/"
+    },
+    {
+      "name": "Telehit Musica",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PfROac9.png",
+      "website": "https://www.telehit.com/musica"
+    },
+    {
+      "name": "Vision Television",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HV5tgcM.png",
+      "website": "https://www.vozfmradio.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Moovimex",
+      "isFree": false
+    },
+    {
+      "name": "Az Cinema",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png",
+      "website": "https://www.tvazteca.com/tvpaga/notas/cinema"
+    },
+    {
+      "name": "Az Corazon",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png",
+      "website": "https://www.tvazteca.com/tvpaga/notas/corazon"
+    },
+    {
+      "name": "CineLatino",
+      "isFree": true,
+      "website": "http://www.cinelatino.com/"
+    },
+    {
+      "name": "Cinema Dinamita",
+      "isFree": true,
+      "website": "http://www.cinemadinamita.com/"
+    },
+    {
+      "name": "Cinema Platino",
+      "isFree": true,
+      "keywords": "cinema platino -2",
+      "website": "http://www.pctvcanales.mx/canales/platino"
+    },
+    {
+      "name": "Cinema Platino 2",
+      "isFree": true,
+      "website": "http://www.pctvcanales.mx/canales/platino"
+    },
+    {
+      "name": "Cine Mexicano",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "http://www.pctvcanales.mx/canales/cine-mexicano"
+    },
+    {
+      "name": "Claro Cinema",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CLAROCINEMA.png",
+      "website": "https://www.claro.com/"
+    },
+    {
+      "name": "De Pelicula Clasico",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/"
+    },
+    {
+      "name": "De Pelicula Europa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/"
+    },
+    {
+      "name": "De Pelicula Latin America",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/"
+    },
+    {
+      "name": "De Pelicula Plus",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png",
+      "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/"
+    },
+    {
+      "name": "Filmex",
+      "isFree": true,
+      "keywords": "filmex -clasico",
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png",
+      "website": "https://www.xumo.tv/live-guide/filmex"
+    },
+    {
+      "name": "Filmex Clasico",
+      "isFree": true,
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png",
+      "website": "https://www.xumo.tv/live-guide/filmex-clasico"
+    },
+    {
+      "name": "Golden Premier",
+      "isFree": true,
+      "keywords": "golden premier -2",
+      "website": "https://televisa-networks.com/golden-premier/"
+    },
+    {
+      "name": "Golden Premier 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg",
+      "website": "https://televisa-networks.com/golden-premier/"
+    },
+    {
+      "name": "MultiPremier",
+      "isFree": true,
+      "website": "https://multipremier.com/"
+    },
+    {
+      "name": "MyTime Movie Network",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HYgxPVQ.png",
+      "website": "https://mytimemovienetwork.com/"
+    },
+    {
+      "name": "Popcorn Central",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_germany.png",
+      "website": "https://popcorncentraltv.com/"
+    },
+    {
+      "name": "Sky Premiere 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 10",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 11",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 12",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 13",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 14",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 15",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Sky Premiere 9",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/"
+    },
+    {
+      "name": "Star Channel",
+      "isFree": true,
+      "website": "https://www.star-latam.com/"
+    },
+    {
+      "name": "Teleclasica",
+      "isFree": true,
+      "website": "http://teleclasica.com"
+    },
+    {
+      "name": "TLN Network",
+      "isFree": true,
+      "logo": "https://go4.pw/CANADA/tln77.png",
+      "website": "http://afiliados.televisa-networks.com/programacion/tlnetwork/"
+    },
+    {
+      "name": "Tlnovelas Europa",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/TLNOVELAS.png",
+      "website": "https://www.televisa.com/tlnovelas"
+    },
+    {
+      "name": "Tlnovelas Latin America",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/TLNOVELAS.png",
+      "website": "https://www.televisa.com/tlnovelas"
+    },
+    {
+      "name": "Tlnovelas Mexico",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/TLNOVELAS.png",
+      "website": "https://www.televisa.com/tlnovelas"
+    },
+    {
+      "name": "ViX Cine Club",
+      "isFree": true,
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png"
+    },
+    {
+      "name": "Vix Novelas de Oro",
+      "isFree": true
+    },
+    {
+      "name": "ViX Novelas de Romance",
+      "isFree": true,
+      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/396f57d10b5d5ec98648f810dcbe1f11/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751803812_NovelasDeRomance_RokuHub_260x147_White.png"
+    },
+    {
+      "name": "ViX Villanos",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VIX.png"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Imagen Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Logo_Grupo_Imagen_Multimedia.png",
+      "priority": 4
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Afizzionados",
+      "isFree": true,
+      "website": "https://afizzionados.tv/"
+    },
+    {
+      "name": "AyM Sports",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png",
+      "website": "http://aymsports.net/"
+    },
+    {
+      "name": "Fox Sports",
+      "isFree": true,
+      "keywords": "fox sports -2 -3 -premium",
+      "website": "http://www.foxsports.com.mx/",
+      "priority": 10
+    },
+    {
+      "name": "Fox Sports 2",
+      "isFree": true,
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es",
+      "website": "http://www.foxsports.com.mx/",
+      "priority": 10
+    },
+    {
+      "name": "Fox Sports 3",
+      "isFree": true,
+      "website": "https://www.foxsports.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Fox Sports Premium",
+      "isFree": true,
+      "website": "http://www.foxsports.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Hi! Sports TV",
+      "isFree": true
+    },
+    {
+      "name": "LevelUp TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.levelup.com/"
+    },
+    {
+      "name": "Liga Mexicana de Beisbol",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/supersport.png",
+      "website": "http://www.lmb.com.mx/"
+    },
+    {
+      "name": "Mega Sports",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg"
+    },
+    {
+      "name": "PX Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/PXSPORTS.png",
+      "website": "http://pxsports.com/"
+    },
+    {
+      "name": "Sky Sports 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 16",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 21",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 34",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "Sky Sports 9",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.com.mx/",
+      "priority": 9
+    },
+    {
+      "name": "TNT Sports",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "website": "https://tntsports.com.mx/"
+    },
+    {
+      "name": "TV Cuatro 4.3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcuatro.tv/4-3/"
+    },
+    {
+      "name": "ViX Lo Mejor de La Liga",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/VIX.png"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "CV Directo",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DIRECTO355.png",
+      "website": "https://cvdirectomexico.com/"
+    },
+    {
+      "name": "CV Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
+      "website": "https://cvshopping.mx/"
+    },
+    {
+      "name": "Inova",
+      "isFree": true,
+      "website": "https://www.inova.com.mx/"
+    }
+  ]
+}

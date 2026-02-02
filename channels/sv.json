@@ -1,0 +1,479 @@
+{
+  "Entertainment": [
+    {
+      "name": "Canal 10",
+      "isFree": true
+    },
+    {
+      "name": "Canal 33",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d89c44773d520bb6d8f81f80ce064917.png"
+    },
+    {
+      "name": "TCS",
+      "isFree": true
+    },
+    {
+      "name": "TVO Canal 23",
+      "isFree": true,
+      "logo": "https://go4.pw/SWITZERLAND/tvo.png"
+    },
+    {
+      "name": "Tele1",
+      "isFree": true
+    },
+    {
+      "name": "TribunaTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/C5vHpd0.png"
+    },
+    {
+      "name": "WOW TV",
+      "isFree": true,
+      "logo": "https://go4.pw/India/WOW_CINEMA.png"
+    },
+    {
+      "name": "Órbita TV Canal 25",
+      "isFree": true,
+      "shortName": "ÓTC2"
+    },
+    {
+      "name": "Agape TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DsGmrnc.png",
+      "website": "https://www.agapetv8.com/"
+    },
+    {
+      "name": "Anamoros TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://anamorostv.com/"
+    },
+    {
+      "name": "Canal 11 TuTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://www.canal11.com.sv/"
+    },
+    {
+      "name": "Canal 12",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-MdqA5PamLBA/X3OxKXxQWBI/AAAAAAAABpo/DvvR5gd6iUQPU6pEwshQ-pZPYi8kTn_TwCLcBGAsYHQ/w200-h200/Canal%2B12%2BNicaragua.jpg",
+      "website": "https://www.canal12.com.sv/"
+    },
+    {
+      "name": "Canal 14 TLM",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://telemas.com.sv/"
+    },
+    {
+      "name": "Canal 15 Acajutla Channel",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 15 El Zamorano",
+      "isFree": true,
+      "website": "https://elzamoranotv.com/"
+    },
+    {
+      "name": "Canal 16 Arce Cable",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.tcsgo.com/"
+    },
+    {
+      "name": "Canal 20 Corinto",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 20 Master Cable Vision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "priority": 4
+    },
+    {
+      "name": "Canal 29 Apopa",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://universalcable.com.sv/"
+    },
+    {
+      "name": "Canal 29 Omnivision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal29omnivision.com/"
+    },
+    {
+      "name": "Canal 31 San Vicente",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 3 Chirilagua",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 3 Impresionante",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal3impresionante.com/"
+    },
+    {
+      "name": "Canal 4",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f35b14228595a25f9c6ecbe1d202533d.png",
+      "website": "https://www.tcsgo.com/"
+    },
+    {
+      "name": "Canal 50 Apopa",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 58 El Salvador",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.iblups.com/canal58elsalvador"
+    },
+    {
+      "name": "Canal 6",
+      "isFree": true,
+      "website": "https://www.tcsgo.com/"
+    },
+    {
+      "name": "Canal 61 Nuestra TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 9 Chalatenango",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 9 La Union",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://multicanallu.com.sv/"
+    },
+    {
+      "name": "Canal TRV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.diariotrv.com/"
+    },
+    {
+      "name": "Colosal TV Canal 9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "El 15 TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://el15tv.com/"
+    },
+    {
+      "name": "Emax TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "ES24",
+      "isFree": true,
+      "website": "https://hemispheretv.com/es24/"
+    },
+    {
+      "name": "ESTV Canal 67",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/Somalia/SRTV.png"
+    },
+    {
+      "name": "Genteve",
+      "isFree": true
+    },
+    {
+      "name": "JTV Corinto",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg"
+    },
+    {
+      "name": "Legislative Assembly of El Salvador",
+      "isFree": true,
+      "logo": "https://go4.pw/CANADA/LEGISLATIVE-ASSEMBLY-OF-ONTARIO.png",
+      "website": "https://www.asamblea.gob.sv/"
+    },
+    {
+      "name": "Megavision Canal 19",
+      "isFree": true,
+      "logo": "https://i.imgur.com/X5VcCXI.png",
+      "website": "https://megavision.com.sv/"
+    },
+    {
+      "name": "Megavision Canal 21",
+      "isFree": true,
+      "logo": "https://i.imgur.com/esGYn21.png",
+      "website": "https://megavision.com.sv/"
+    },
+    {
+      "name": "Morazan TV",
+      "isFree": true,
+      "website": "https://canal5meanguera.wixsite.com/canal5"
+    },
+    {
+      "name": "RD Click TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/PEACOK.png"
+    },
+    {
+      "name": "RTV Canal 57",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvcanal57.com/"
+    },
+    {
+      "name": "RTV Izcanal",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://izcanal.org/"
+    },
+    {
+      "name": "SolTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "website": "https://radiomorazan.net/"
+    },
+    {
+      "name": "TCS+",
+      "isFree": true,
+      "website": "https://www.tcsgo.com/"
+    },
+    {
+      "name": "Tele El Salvador",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleelsalvador.com/"
+    },
+    {
+      "name": "Television Santiaguena",
+      "isFree": true,
+      "website": "https://radiocaffe909.com/"
+    },
+    {
+      "name": "TVC Network",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/deportes.png",
+      "website": "https://www.tvcnetwork.net/"
+    },
+    {
+      "name": "TV Impacto",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVU",
+      "isFree": true,
+      "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+      "website": "https://tvuelsalvadordigital.com/"
+    },
+    {
+      "name": "TVX",
+      "isFree": true,
+      "website": "https://tvx.com.sv"
+    },
+    {
+      "name": "VTV Canal 35",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Órbita FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KTgTjQi.png",
+      "priority": 4
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "99 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png"
+    },
+    {
+      "name": "TDF Canal 99",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Arbol de Vida TV",
+      "isFree": true,
+      "website": "https://www.iglesiaarboldevida.org/"
+    },
+    {
+      "name": "Canal 26 TV IAP",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal26.org/"
+    },
+    {
+      "name": "Canal 33 Cablesat",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Canal 63 TV Catolico Corinto",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://cablevisioncorinto.blogspot.com/"
+    },
+    {
+      "name": "Canal 65",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.misioncristianaelohim.com/"
+    },
+    {
+      "name": "Canal 7 Cristiano",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "El Camino TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.iglesiadelcamino.org/tv/"
+    },
+    {
+      "name": "Elim TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png",
+      "website": "https://www.elim.org.sv/elimtv/"
+    },
+    {
+      "name": "FTV Television Familiar",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
+      "website": "https://www.televisionfamiliar.com/"
+    },
+    {
+      "name": "GSG TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/8fZnNu0.png",
+      "website": "https://graciasobregracia.org/"
+    },
+    {
+      "name": "JFV TV",
+      "isFree": true,
+      "website": "https://www.radiojesucristofuentedevida.com/"
+    },
+    {
+      "name": "Josue TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LNWGe1D.jpg",
+      "website": "https://iglesiajosue.org/es/"
+    },
+    {
+      "name": "Mizpa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.radiomizpa.net/"
+    },
+    {
+      "name": "RTV Catolica",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.radioytelevisioncatolica.com/"
+    },
+    {
+      "name": "TaberTV",
+      "isFree": true,
+      "website": "https://tabernaculo.net/"
+    },
+    {
+      "name": "Television Nueva Jerusalen",
+      "isFree": true
+    },
+    {
+      "name": "TVCa",
+      "isFree": true,
+      "website": "https://tvcaelsalvador.org/"
+    },
+    {
+      "name": "TV CRET",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiocret.net/"
+    },
+    {
+      "name": "TV Getsemani",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.radiogetsemani.net/"
+    },
+    {
+      "name": "TV Leon de Juda",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvleondejuda.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Awapa Sports TV",
+      "isFree": true,
+      "website": "https://megavision.univtec.com/"
+    },
+    {
+      "name": "Tigo Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/tego.png",
+      "website": "http://www.tigosports.com.sv/"
+    }
+  ],
+  "News": [
+    {
+      "name": "MBN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MBN.png",
+      "website": "https://mbnelsalvador.com/"
+    },
+    {
+      "name": "Orbita TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KTgTjQi.png",
+      "website": "https://orbitatv.com.sv/"
+    },
+    {
+      "name": "Tribuna TV",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "https://www.tribunatv.us/"
+    },
+    {
+      "name": "TVM El Salvador",
+      "isFree": true,
+      "website": "https://tvm.com.sv/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Orbita FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KTgTjQi.png",
+      "website": "https://orbitafm.com.sv/"
+    }
+  ]
+}

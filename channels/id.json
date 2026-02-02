@@ -1,0 +1,3771 @@
+{
+  "News": [
+    {
+      "name": "BeritaSatu",
+      "isFree": true,
+      "keywords": "beritasatu -english -world"
+    },
+    {
+      "name": "BeritaSatu English",
+      "isFree": true,
+      "shortName": "BE"
+    },
+    {
+      "name": "BeritaSatu World",
+      "isFree": true
+    },
+    {
+      "name": "CNBC Indonesia",
+      "isFree": true
+    },
+    {
+      "name": "CNN Indonesia",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173712756710_20.png",
+      "priority": 10
+    },
+    {
+      "name": "Metro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/30/large/20250130005640435069_22.jpg",
+      "priority": 9
+    },
+    {
+      "name": "TVR Parlemen",
+      "isFree": true,
+      "keywords": "tvr parlemen -badan anggaran -badan legislatif -badan musyawarah -bakn -bksap -komisi i -komisi ii -komisi iii -komisi iv -komisi ix -komisi v -komisi vi -komisi vii -komisi viii -komisi x -komisi xi",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen BAKN",
+      "isFree": true,
+      "shortName": "TPB",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen BKSAP",
+      "isFree": true,
+      "shortName": "TPB",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Badan Anggaran",
+      "isFree": true,
+      "shortName": "TPBA",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Badan Legislatif",
+      "isFree": true,
+      "shortName": "TPBL",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Badan Musyawarah",
+      "isFree": true,
+      "shortName": "TPBM",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi I",
+      "isFree": true,
+      "shortName": "TPKI",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi II",
+      "isFree": true,
+      "shortName": "TPKI",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi III",
+      "isFree": true,
+      "shortName": "TPKI",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi IV",
+      "isFree": true,
+      "shortName": "TPKI",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi IX",
+      "isFree": true,
+      "shortName": "TPKI",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi V",
+      "isFree": true,
+      "shortName": "TPKV",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi VI",
+      "isFree": true,
+      "shortName": "TPKV",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi VII",
+      "isFree": true,
+      "shortName": "TPKV",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi VIII",
+      "isFree": true,
+      "shortName": "TPKV",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi X",
+      "isFree": true,
+      "shortName": "TPKX",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "TVR Parlemen Komisi XI",
+      "isFree": true,
+      "shortName": "TPKX",
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png"
+    },
+    {
+      "name": "iNews",
+      "isFree": true
+    },
+    {
+      "name": "Antara TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://en.antaranews.com/"
+    },
+    {
+      "name": "BN Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png"
+    },
+    {
+      "name": "BTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
+      "website": "https://www.beritasatu.tv/"
+    },
+    {
+      "name": "Huma Betang TV",
+      "isFree": true,
+      "website": "https://humabetang.com/"
+    },
+    {
+      "name": "IDX Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/DISCOVERY IDX.png",
+      "website": "https://www.idxchannel.com/"
+    },
+    {
+      "name": "Jakarta Globe News Channel",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "Kompas TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kompas.tv/"
+    },
+    {
+      "name": "Lingkar TV",
+      "isFree": true,
+      "website": "https://lingkartv.com"
+    },
+    {
+      "name": "Metro Globe Network",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/PAKISTAN/METROONE.png",
+      "website": "https://www.metroglobe.id/live"
+    },
+    {
+      "name": "Mimoza TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mimoza.tv/"
+    },
+    {
+      "name": "Sindo News TV",
+      "isFree": true,
+      "keywords": "sindo news tv | sindonews tv",
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://www.mncchannels.com/micro/mncnews"
+    },
+    {
+      "name": "Sin Po TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+      "website": "https://tv.sinpo.id/"
+    },
+    {
+      "name": "rowspan=\"4\"",
+      "isFree": null
+    },
+    {
+      "name": "GTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/jjuKnYs.png"
+    },
+    {
+      "name": "SCTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/EMmOvnQ.png",
+      "priority": 10
+    },
+    {
+      "name": "Moji",
+      "isFree": null
+    },
+    {
+      "name": "Mentari TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "rowspan=\"3\"",
+      "isFree": null
+    },
+    {
+      "name": "tvOne",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "VTV",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png"
+    },
+    {
+      "name": "Magna Channel",
+      "isFree": null,
+      "logo": "https://i.imgur.com/tfJo0SO.png"
+    },
+    {
+      "name": "Kompas Gramedia Group#Media",
+      "isFree": null
+    },
+    {
+      "name": "RTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/c8wAvxC.png"
+    },
+    {
+      "name": ":id:NT Corp",
+      "isFree": null,
+      "logo": "http://onerestream.us:80/images/5yO0q3KiCJJhxVmvmdRMbxY6CIrp0eGxasBFcKdle_o.png"
+    },
+    {
+      "name": "Garuda TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/sXsAcZ3.png"
+    },
+    {
+      "name": "MDTV",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"
+    },
+    {
+      "name": "JTV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg"
+    },
+    {
+      "name": "DAAI TV",
+      "isFree": null
+    },
+    {
+      "name": "Indonesia Network",
+      "isFree": null,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png"
+    },
+    {
+      "name": "Inspira TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/BF5orkg.png"
+    },
+    {
+      "name": "tvMu",
+      "isFree": null
+    },
+    {
+      "name": "JPM",
+      "isFree": null
+    },
+    {
+      "name": "Fajar GroupOperated by Jawa Pos Group.",
+      "isFree": null
+    },
+    {
+      "name": ":id:Disway",
+      "isFree": null
+    },
+    {
+      "name": "Ajwa TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sports",
+      "isFree": null
+    },
+    {
+      "name": "Education",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg"
+    },
+    {
+      "name": "Jawa Pos TV",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "Kick Andy Foundation",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYQQP7fDjfKqL7MXapZioPbuPkt.jpg"
+    },
+    {
+      "name": "CTV/Mola (streaming service)",
+      "isFree": null
+    },
+    {
+      "name": ":id:MahakaX",
+      "isFree": null
+    },
+    {
+      "name": "Visi Media Asia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Banda Aceh",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYqdIOF1EOoBQSQbkIU88NJy9n.jpg"
+    },
+    {
+      "name": ":id:Aceh TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jawa Pos TV Bali",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "RBTV",
+      "isFree": null,
+      "logo": "https://app.megacubo.net/logos/canaisvirtual/RBTVPARANA.png"
+    },
+    {
+      "name": ":id:Daftar stasiun televisi di Jawa Tengah",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRJFjlLqQkwk1bM45ah3c2H6LWy.jpg"
+    },
+    {
+      "name": "Semarang",
+      "isFree": null,
+      "keywords": "semarang -tv -tv",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "TVKU",
+      "isFree": null
+    },
+    {
+      "name": "Semarang TV",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "Purwokerto",
+      "isFree": null
+    },
+    {
+      "name": "BMS TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Kebumen",
+      "isFree": null,
+      "keywords": "kebumen -tv -tv"
+    },
+    {
+      "name": "Kebumen TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Pekalongan",
+      "isFree": null
+    },
+    {
+      "name": "Batik TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Surakarta",
+      "isFree": null
+    },
+    {
+      "name": "TATV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/"
+    },
+    {
+      "name": "TV10 (Solo TV)",
+      "isFree": null,
+      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png"
+    },
+    {
+      "name": "Temanggung",
+      "isFree": null,
+      "keywords": "temanggung -tv -tv"
+    },
+    {
+      "name": "Temanggung TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Surabaya",
+      "isFree": null,
+      "keywords": "surabaya -tv -tv",
+      "logo": "https://i.imgur.com/jlss2ll.png"
+    },
+    {
+      "name": "Surabaya TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/jlss2ll.png"
+    },
+    {
+      "name": "JTV (flagship)",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg"
+    },
+    {
+      "name": "TV9 Nusantara",
+      "isFree": null,
+      "logo": "https://go4.pw/INDONESIA/TV9.png"
+    },
+    {
+      "name": "Batu",
+      "isFree": null,
+      "keywords": "batu -tv -tv"
+    },
+    {
+      "name": "Batu TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Agropolitan TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Malang",
+      "isFree": null,
+      "keywords": "malang -tv",
+      "logo": "https://i.imgur.com/3iC41QX.png"
+    },
+    {
+      "name": "Malang TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/3iC41QX.png"
+    },
+    {
+      "name": "Dhamma TV",
+      "isFree": null
+    },
+    {
+      "name": "MHTV Malang",
+      "isFree": null,
+      "logo": "https://i.imgur.com/3iC41QX.png"
+    },
+    {
+      "name": "Gajayana TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": ":id:UBTV",
+      "isFree": null
+    },
+    {
+      "name": "Madiun",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "TVRI East Java",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "Kediri",
+      "isFree": null,
+      "logo": "https://i.imgur.com/mIDWIQk.png"
+    },
+    {
+      "name": "DhohoTV",
+      "isFree": null
+    },
+    {
+      "name": "Kilisuci TV",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"
+    },
+    {
+      "name": "Blitar",
+      "isFree": null
+    },
+    {
+      "name": "Tulungagung",
+      "isFree": null
+    },
+    {
+      "name": "Samarinda",
+      "isFree": null,
+      "keywords": "samarinda -tv"
+    },
+    {
+      "name": "Samarinda TV",
+      "isFree": null
+    },
+    {
+      "name": "Kaltim TV",
+      "isFree": null
+    },
+    {
+      "name": "Balikpapan",
+      "isFree": null,
+      "keywords": "balikpapan -tv"
+    },
+    {
+      "name": ":id:Balikpapan TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Bontang",
+      "isFree": null,
+      "logo": "https://i.imgur.com/p8F0AaZ.png"
+    },
+    {
+      "name": "Publik Khatulistiwa TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": ":id:TVRI Gorontalo",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "KTV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "Smile TV (flagship)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
+    },
+    {
+      "name": "Independent (Community)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png"
+    },
+    {
+      "name": "JakTV",
+      "isFree": null
+    },
+    {
+      "name": "Elshinta TV",
+      "isFree": null
+    },
+    {
+      "name": "Jambi TV",
+      "isFree": null
+    },
+    {
+      "name": "Jek TV",
+      "isFree": null
+    },
+    {
+      "name": "Bandar Lampung",
+      "isFree": null
+    },
+    {
+      "name": "Independent",
+      "isFree": null,
+      "keywords": "independent -(community) -(public)",
+      "logo": "https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png"
+    },
+    {
+      "name": "Saburai TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Radar Lampung TV",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/spect.png"
+    },
+    {
+      "name": "Siger TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Delta TV",
+      "isFree": null
+    },
+    {
+      "name": ":id:Tegar TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Tarakan",
+      "isFree": null
+    },
+    {
+      "name": "Independent (Public)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png"
+    },
+    {
+      "name": "Manado",
+      "isFree": null
+    },
+    {
+      "name": "STTV",
+      "isFree": null
+    },
+    {
+      "name": "Pematangsiantar and Simalungun",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Sumut TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Pekanbaru",
+      "isFree": null
+    },
+    {
+      "name": ":id:Riau TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Rokan Hilir",
+      "isFree": null
+    },
+    {
+      "name": "Tembilahan",
+      "isFree": null
+    },
+    {
+      "name": "GemilanG TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Batam and Tanjungpinang",
+      "isFree": null
+    },
+    {
+      "name": "Batam TV",
+      "isFree": null
+    },
+    {
+      "name": "TVTPI",
+      "isFree": null
+    },
+    {
+      "name": "Banjarmasin",
+      "isFree": null
+    },
+    {
+      "name": ":id:Banjar TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": ":id:Duta TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Makassar",
+      "isFree": null
+    },
+    {
+      "name": "Fajar TV",
+      "isFree": null
+    },
+    {
+      "name": ":id:VE TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Palopo",
+      "isFree": null
+    },
+    {
+      "name": "Parepare",
+      "isFree": null
+    },
+    {
+      "name": "Sinjai",
+      "isFree": null,
+      "keywords": "sinjai -tv"
+    },
+    {
+      "name": "Sinjai TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Palembang",
+      "isFree": null,
+      "keywords": "palembang -tv"
+    },
+    {
+      "name": "PALTV",
+      "isFree": null
+    },
+    {
+      "name": "Bandung",
+      "isFree": null,
+      "keywords": "bandung -tv -tv"
+    },
+    {
+      "name": "AKTV",
+      "isFree": null
+    },
+    {
+      "name": "Garvis TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "I Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg"
+    },
+    {
+      "name": ":id:TVRI Jawa Barat",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "Bandung TV",
+      "isFree": null
+    },
+    {
+      "name": "Sukabumi",
+      "isFree": null
+    },
+    {
+      "name": ":id:MGSTV",
+      "isFree": null
+    },
+    {
+      "name": "Pontianak",
+      "isFree": null
+    },
+    {
+      "name": "M2TV",
+      "isFree": null
+    },
+    {
+      "name": "Padang",
+      "isFree": null,
+      "keywords": "padang -tv -tv",
+      "logo": "https://i.imgur.com/EL2BfxY.png"
+    },
+    {
+      "name": "Padang TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/EL2BfxY.png"
+    },
+    {
+      "name": ":id:RBTV (Yogyakarta)",
+      "isFree": null
+    },
+    {
+      "name": ":id:Jogja TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "GPR TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Ministry of Culture (Indonesia)",
+      "isFree": null,
+      "logo": "https://i.imgur.com/pEqDDHl.png"
+    },
+    {
+      "name": "PT Ashiil Cahaya Tauhid",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/UFC.png"
+    },
+    {
+      "name": "Ahsan TV Media Muslim Indonesia",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Surya Citra Media",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png"
+    },
+    {
+      "name": "AM MediaBy Habib",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yayasan Al-Bahjah CirebonBy Buya :id:Buya Yahya",
+      "isFree": null
+    },
+    {
+      "name": "Radio Suara Al-Iman",
+      "isFree": null,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "IndiHome TVBy Telkom Indonesia",
+      "isFree": null,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png"
+    },
+    {
+      "name": "Bali Post Media GroupIndonesia Network",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNLy41Etgg3CLxLWEGoUgxqxG3m.jpg"
+    },
+    {
+      "name": "Efarina Etaham Group",
+      "isFree": null,
+      "logo": "https://i.imgur.com/iYTimXh.png"
+    },
+    {
+      "name": "Dewan Fatwa Perhimpunan Al-Irsyad",
+      "isFree": null
+    },
+    {
+      "name": "Gazwah EnterpriseBy Ustad",
+      "isFree": null
+    },
+    {
+      "name": "url=https://hayattv.smkn1-sampit.sch.id/home",
+      "isFree": null
+    },
+    {
+      "name": "Seventh-day Adventist Church",
+      "isFree": null
+    },
+    {
+      "name": "Media Hijrah Indonesia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Hope Channel Indonesia",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg"
+    },
+    {
+      "name": "IndiHome TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "url=http://www.insantv.com/",
+      "isFree": null
+    },
+    {
+      "name": "url=https://izzah.tv/",
+      "isFree": null
+    },
+    {
+      "name": "PT Jayapura Televisi",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/UFC.png"
+    },
+    {
+      "name": "Jawa Pos Group",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "KG Media",
+      "isFree": null
+    },
+    {
+      "name": "Bina Madani Foundation",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png"
+    },
+    {
+      "name": "Nex Parabola",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/HONDURAS/NEXCANAL.png"
+    },
+    {
+      "name": "Yayasan Media Sunnah Aceh",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Televisi Media Gama Islam",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Yayasan Majlis Tafsir Al-Qur'an",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/KUWAIT/AL MAJLIS.png"
+    },
+    {
+      "name": "Islamic Center Mu'adz Bin Jaball",
+      "isFree": null,
+      "logo": "https://go4.pw/India/ATN ISLAMIC TV.png"
+    },
+    {
+      "name": "Yayasan An-Naajiya Pasaman Barat",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"
+    },
+    {
+      "name": "Al-Rabithah al-Alawiyyah",
+      "isFree": null
+    },
+    {
+      "name": "K-Vision",
+      "isFree": null
+    },
+    {
+      "name": "Media Dakwah Sunnah",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "url=https://parachurch.id/listing/pijar-tv/",
+      "isFree": null
+    },
+    {
+      "name": "Perkumpulan Lembaga Dakwah dan Pendidikan Islam Indonesia",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png"
+    },
+    {
+      "name": "Media Dakwah As-Sunnah Lombok Timur",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "Rodja TV",
+      "isFree": null
+    },
+    {
+      "name": "PT Ruai Televisi",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/UFC.png"
+    },
+    {
+      "name": "Surau TV",
+      "isFree": null
+    },
+    {
+      "name": "Nahdlatul UlamaThrough PWNU Jawa Timur",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "Muhammadiyah",
+      "isFree": null
+    },
+    {
+      "name": "U Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg"
+    },
+    {
+      "name": "Nur Medinah Intermedia",
+      "isFree": null,
+      "logo": "http://epg.one/img2/5928.png"
+    },
+    {
+      "name": "Champions TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "MNC Infotainment and Infotainment",
+      "isFree": null
+    },
+    {
+      "name": "MNC Entertainment",
+      "isFree": null
+    },
+    {
+      "name": "MNC Food & Travel and Food & Travel",
+      "isFree": null
+    },
+    {
+      "name": "MNC Fashion, MNC Lifestyle, Lifestyle & Fashion, Okezone TV and Channel Jowo",
+      "isFree": null
+    },
+    {
+      "name": "MNC Business and iBCM Channel",
+      "isFree": null
+    },
+    {
+      "name": "MNC Kids and Kids Channel",
+      "isFree": null
+    },
+    {
+      "name": "MTV Indonesia, MNC Music Channel, MNC Music and Music Channel",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "MNC Muslim and Hidayah",
+      "isFree": null
+    },
+    {
+      "name": "MNC News Channel and MNC News",
+      "isFree": null
+    },
+    {
+      "name": "Vision 1 Sports, MNC Sports 1 and MNC Sports",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "MNC Sports 2",
+      "isFree": null
+    },
+    {
+      "name": "Kidnesia and MNC Sports 3",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Nova Channel",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Pop Channel",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Bioskop TelkomVision",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/MZANSI.png"
+    },
+    {
+      "name": "Ananda",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/BANGALAABPANANDA.png"
+    },
+    {
+      "name": "Golf Channel Indonesia",
+      "isFree": null
+    },
+    {
+      "name": "Alif TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "MTV Asia and Channel V",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "Showcase",
+      "isFree": null
+    },
+    {
+      "name": "Also available on the iKonser app for non-IndiHome TV customers",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fntmDlqxGHx1IO4NohyEeC1iW8.jpg"
+    },
+    {
+      "name": "Hi!",
+      "isFree": null
+    },
+    {
+      "name": "First Football",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg"
+    },
+    {
+      "name": "BeritaSatu Lifestyle and The First Comedy Network",
+      "isFree": null
+    },
+    {
+      "name": "BeritaDua",
+      "isFree": null
+    },
+    {
+      "name": "Bola Indonesia and TSB 1",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/bola.png"
+    },
+    {
+      "name": "TSB 2",
+      "isFree": null,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "Nex Football",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/HONDURAS/NEXCANAL.png"
+    },
+    {
+      "name": "rowspan=\"2\"",
+      "isFree": null
+    },
+    {
+      "name": "Children",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg"
+    },
+    {
+      "name": "Ganteng-Ganteng Serigala (and :id:Ganteng-Ganteng Serigala Returns",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg"
+    },
+    {
+      "name": "Musica Studio's",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg"
+    },
+    {
+      "name": "PT Lingkar Taqwa Vision",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/UFC.png"
+    },
+    {
+      "name": "PT Salira Info Utama",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/UFC.png"
+    },
+    {
+      "name": "MTV Indonesia",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "Spacetoon Indonesia",
+      "isFree": null,
+      "logo": "https://go4.pw/KIDS/SPACETOON.png"
+    },
+    {
+      "name": "KTI",
+      "isFree": null
+    },
+    {
+      "name": "MYTV",
+      "isFree": null
+    },
+    {
+      "name": "RIM TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWqqfRpRlifSBed1BvVAcAU6Vfq.jpg"
+    },
+    {
+      "name": "{{start date",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQNZuCNMq6Vgs5Oq7GRZWyvJaq.jpg"
+    },
+    {
+      "name": "GTV]]",
+      "isFree": null
+    },
+    {
+      "name": "SCTV]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Moji]]",
+      "isFree": null
+    },
+    {
+      "name": "Mentari TV]]",
+      "isFree": null
+    },
+    {
+      "name": "tvOne]]",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "VTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Metro TV]]",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/PAKISTAN/METROONE.png",
+      "priority": 9
+    },
+    {
+      "name": "Magna Channel]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/tfJo0SO.png"
+    },
+    {
+      "name": "BN Channel]]",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png"
+    },
+    {
+      "name": "[[Kompas Gramedia Group#Media",
+      "isFree": null
+    },
+    {
+      "name": "RTV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:NT Corp",
+      "isFree": null,
+      "logo": "http://onerestream.us:80/images/5yO0q3KiCJJhxVmvmdRMbxY6CIrp0eGxasBFcKdle_o.png"
+    },
+    {
+      "name": "BTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Garuda TV]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/sXsAcZ3.png"
+    },
+    {
+      "name": "MDTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Sin Po TV]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i66G50wATMmPrvpP95f0XP6ZdVS.jpg"
+    },
+    {
+      "name": "JTV]]",
+      "isFree": null
+    },
+    {
+      "name": "DAAI TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Indonesia Network]]",
+      "isFree": null,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png"
+    },
+    {
+      "name": "Inspira TV]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/BF5orkg.png"
+    },
+    {
+      "name": "tvMu]]",
+      "isFree": null
+    },
+    {
+      "name": "JPM]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Disway",
+      "isFree": null
+    },
+    {
+      "name": "Ajwa TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Jawa Pos TV]]",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "CTV]]/[[Mola (streaming service)",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:MahakaX",
+      "isFree": null
+    },
+    {
+      "name": "Visi Media Asia{{cite web",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "[[:id:Aceh TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jawa Pos TV Bali]]",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "RBTV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Daftar stasiun televisi di Jawa Tengah",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRJFjlLqQkwk1bM45ah3c2H6LWy.jpg"
+    },
+    {
+      "name": "TVKU]]",
+      "isFree": null
+    },
+    {
+      "name": "Semarang TV]]",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"
+    },
+    {
+      "name": "BMS TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Kebumen TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Batik TV]]",
+      "isFree": null
+    },
+    {
+      "name": "TATV]]",
+      "isFree": null
+    },
+    {
+      "name": "Temanggung TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Surabaya TV]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/jlss2ll.png"
+    },
+    {
+      "name": "TV9 Nusantara]]",
+      "isFree": null,
+      "logo": "https://go4.pw/INDONESIA/TV9.png"
+    },
+    {
+      "name": "Batu TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Agropolitan TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Malang TV]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/3iC41QX.png"
+    },
+    {
+      "name": "Dhamma TV]]",
+      "isFree": null
+    },
+    {
+      "name": "MHTV Malang]]",
+      "isFree": null
+    },
+    {
+      "name": "Gajayana TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:UBTV",
+      "isFree": null
+    },
+    {
+      "name": "DhohoTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Kilisuci TV]]",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"
+    },
+    {
+      "name": "[[:id:Balikpapan TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Publik Khatulistiwa TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[:id:TVRI Gorontalo",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "KTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Elshinta TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Jambi TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Jek TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Saburai TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Radar Lampung TV]]",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/spect.png"
+    },
+    {
+      "name": "Siger TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Tegar TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sumut TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Riau TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "GemilanG TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Batam TV]]",
+      "isFree": null
+    },
+    {
+      "name": "TVTPI]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Banjar TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[:id:Duta TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Fajar TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:VE TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sinjai TV]]",
+      "isFree": null
+    },
+    {
+      "name": "PALTV]]",
+      "isFree": null
+    },
+    {
+      "name": "AKTV]]",
+      "isFree": null
+    },
+    {
+      "name": "Garvis TV]]",
+      "isFree": null
+    },
+    {
+      "name": "I Channel]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg"
+    },
+    {
+      "name": "[[:id:TVRI Jawa Barat",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "Bandung TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:MGSTV",
+      "isFree": null
+    },
+    {
+      "name": "M2TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Padang TV]]",
+      "isFree": null,
+      "logo": "https://i.imgur.com/EL2BfxY.png"
+    },
+    {
+      "name": "[[:id:RBTV (Yogyakarta)",
+      "isFree": null
+    },
+    {
+      "name": "[[:id:Jogja TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "GPR TV]]",
+      "isFree": null
+    },
+    {
+      "name": "[[Ministry of Culture (Indonesia)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg"
+    },
+    {
+      "name": "#add8e6}}) are [[Public broadcasting",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp9mudY9yjmvAzdVbGuqDwJHEDZ.jpg"
+    },
+    {
+      "name": "AM MediaBy [[Habib",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Yayasan Al-Bahjah CirebonBy Buya [[:id:Buya Yahya",
+      "isFree": null
+    },
+    {
+      "name": "Gazwah EnterpriseBy [[Ustad",
+      "isFree": null
+    },
+    {
+      "name": "[[Seventh-day Adventist Church",
+      "isFree": null
+    },
+    {
+      "name": "Hope Channel Indonesia]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg"
+    },
+    {
+      "name": "[[Al-Rabithah al-Alawiyyah",
+      "isFree": null
+    },
+    {
+      "name": "Rodja TV]]",
+      "isFree": null
+    },
+    {
+      "name": "Surau TV]]",
+      "isFree": null
+    },
+    {
+      "name": "U Channel]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg"
+    },
+    {
+      "name": "Sindonews TV]]",
+      "isFree": null
+    },
+    {
+      "name": "IDX Channel]]",
+      "isFree": null,
+      "logo": "https://go4.pw/TURKIYE/DISCOVERY IDX.png"
+    },
+    {
+      "name": "Champions TV]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "Metro Globe Network]]",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/PAKISTAN/METROONE.png"
+    },
+    {
+      "name": "BeritaSatu]]",
+      "isFree": null
+    },
+    {
+      "name": "First Football]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg"
+    },
+    {
+      "name": "Ganteng-Ganteng Serigala]] (and [[:id:Ganteng-Ganteng Serigala Returns",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg"
+    },
+    {
+      "name": "MTV Indonesia]]",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "Spacetoon Indonesia]]",
+      "isFree": null,
+      "logo": "https://go4.pw/KIDS/SPACETOON.png"
+    },
+    {
+      "name": "{{end date",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQNZuCNMq6Vgs5Oq7GRZWyvJaq.jpg"
+    },
+    {
+      "name": "KTI]]",
+      "isFree": null
+    },
+    {
+      "name": "MYTV]]",
+      "isFree": null
+    },
+    {
+      "name": "RIM TV]]",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWqqfRpRlifSBed1BvVAcAU6Vfq.jpg"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "I AM CHANNEL",
+      "isFree": true
+    },
+    {
+      "name": "Reformed 21",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg"
+    },
+    {
+      "name": "Ahsan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ahsan.tv/"
+    },
+    {
+      "name": "Al-Bahjah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.albahjah.or.id/"
+    },
+    {
+      "name": "Al-Furqon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://daksos.alfurqongresik.com/"
+    },
+    {
+      "name": "Al-Iman TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aliman.id/"
+    },
+    {
+      "name": "Al Wafa Tarim",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://live.alwafatarim.tv/"
+    },
+    {
+      "name": "Ar-Raudhah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://arraudhah-sekumpul.com/"
+    },
+    {
+      "name": "Ashiil TV",
+      "isFree": true,
+      "website": "http://www.ashiil.tv/"
+    },
+    {
+      "name": "Aswaja TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.aswajatv.com/"
+    },
+    {
+      "name": "Bin Baz TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BIN_OUTHAYMINE.png",
+      "website": "https://binbaz.or.id/"
+    },
+    {
+      "name": "CGNTV Indonesia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/japon/jp_CGNTV.png",
+      "website": "https://www.cgnindonesia.com/about-cgn"
+    },
+    {
+      "name": "Citra Muslim",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-muslim/"
+    },
+    {
+      "name": "DAAI TV",
+      "isFree": true,
+      "website": "https://www.daaitv.co.id/"
+    },
+    {
+      "name": "Dalwa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Dhamma TV",
+      "isFree": true,
+      "website": "https://dhammaweb.tv/"
+    },
+    {
+      "name": "eLKISI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://elkisi.com/official-elkisi-tv/"
+    },
+    {
+      "name": "Fajar TV",
+      "isFree": true
+    },
+    {
+      "name": "Fatwa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://fatwatv.id/"
+    },
+    {
+      "name": "Gazwah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://gazwah.com/"
+    },
+    {
+      "name": "GBI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.beritabethel.com/"
+    },
+    {
+      "name": "GMS",
+      "isFree": true,
+      "website": "https://gms.church/"
+    },
+    {
+      "name": "HCBN Indonesia",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png",
+      "website": "https://www.hcbn-indonesia.tv/"
+    },
+    {
+      "name": "Hijrah TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/HIJRAH.png"
+    },
+    {
+      "name": "Hope Channel Indonesia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
+      "website": "https://hopechannel.id/"
+    },
+    {
+      "name": "Izzah TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my7aqLc.png",
+      "website": "https://izzah.tv/"
+    },
+    {
+      "name": "Khazanah",
+      "isFree": true,
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Madani TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png",
+      "website": "https://madani.tv/"
+    },
+    {
+      "name": "Media Sunnah Aceh",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "MGI TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xrNtabe.png",
+      "website": "https://mgitv.com/"
+    },
+    {
+      "name": "MQTV",
+      "isFree": true,
+      "website": "http://www.mqtv.co.id/"
+    },
+    {
+      "name": "MTA TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MTAAFRICA.png",
+      "website": "http://mtatv.net/"
+    },
+    {
+      "name": "Muadz TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Muslim TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DTiv6daWh74BCm5vdKwcLiGB8N.jpg",
+      "website": "https://www.mncchannels.com/micro/Muslim-TV"
+    },
+    {
+      "name": "Naajiya TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://annaajiya.or.id/naajiyatv/"
+    },
+    {
+      "name": "Nabawi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/AL ERTH NABAWI.png",
+      "website": "https://nabawi.tv/"
+    },
+    {
+      "name": "Niaga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.niaga.tv/"
+    },
+    {
+      "name": "Radio Kita TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "http://radiokita.tv/"
+    },
+    {
+      "name": "I Am Channel",
+      "isFree": true,
+      "website": "https://iamchannel.org/"
+    }
+  ],
+  "Local": [
+    {
+      "name": "TVRI Aceh",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Bali",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Bangka Belitung",
+      "isFree": true,
+      "shortName": "TBB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Bengkulu",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI DKI Jakarta",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Gorontalo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Jambi",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Jawa Barat",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Jawa Tengah",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Jawa Timur",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Kalimantan Barat",
+      "isFree": true,
+      "shortName": "TKB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Kalimantan Selatan",
+      "isFree": true,
+      "shortName": "TKS",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Kalimantan Tengah",
+      "isFree": true,
+      "shortName": "TKT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Kalimantan Timur",
+      "isFree": true,
+      "shortName": "TKT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Lampung",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Maluku",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Nusa Tenggara Barat",
+      "isFree": true,
+      "shortName": "TNTB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Nusa Tenggara Timur",
+      "isFree": true,
+      "shortName": "TNTT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Papua",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Riau",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sulawesi Barat",
+      "isFree": true,
+      "shortName": "TSB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sulawesi Selatan",
+      "isFree": true,
+      "shortName": "TSS",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sulawesi Tengah",
+      "isFree": true,
+      "shortName": "TST",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sulawesi Tenggara",
+      "isFree": true,
+      "shortName": "TST",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sulawesi Utara",
+      "isFree": true,
+      "shortName": "TSU",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sumatera Barat",
+      "isFree": true,
+      "shortName": "TSB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sumatera Selatan",
+      "isFree": true,
+      "shortName": "TSS",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Sumatera Utara",
+      "isFree": true,
+      "shortName": "TSU",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Yogyakarta",
+      "isFree": true,
+      "priority": 9
+    }
+  ],
+  "Sports": [
+    {
+      "name": "TVRI Sport HD",
+      "isFree": false,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "Bali United TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNLy41Etgg3CLxLWEGoUgxqxG3m.jpg",
+      "website": "https://www.baliutd.com/tv/"
+    },
+    {
+      "name": "Champions Fight",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "Champions Golf 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "Champions Golf 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+    },
+    {
+      "name": "Champions TV 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-1/"
+    },
+    {
+      "name": "Champions TV 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-2/"
+    },
+    {
+      "name": "Champions TV 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV EPL",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV Goal",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Champions TV Xtra HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "website": "http://www.ieg.id/tv-channel/champions-tv-3/"
+    },
+    {
+      "name": "Dunia Games TV",
+      "isFree": true,
+      "website": "https://maxstream.tv"
+    },
+    {
+      "name": "SportOne",
+      "isFree": true,
+      "website": "https://www.tvonenews.com/channel/sportone"
+    },
+    {
+      "name": "Sportstars",
+      "isFree": true,
+      "keywords": "sportstars -2 -3 -4",
+      "logo": "https://d2mxb63djushzm.cloudfront.net/images/tracesportsstar_logo.png",
+      "website": "https://www.mncchannels.com/micro/MNC-Sport"
+    },
+    {
+      "name": "Sportstars 2",
+      "isFree": true,
+      "logo": "https://d2mxb63djushzm.cloudfront.net/images/tracesportsstar_logo.png",
+      "website": "https://www.mncchannels.com/micro/MNC-Sport"
+    },
+    {
+      "name": "Sportstars 3",
+      "isFree": true,
+      "logo": "https://d2mxb63djushzm.cloudfront.net/images/tracesportsstar_logo.png",
+      "website": "https://www.mncchannels.com/micro/MNC-Sport"
+    },
+    {
+      "name": "Sportstars 4",
+      "isFree": true,
+      "logo": "https://d2mxb63djushzm.cloudfront.net/images/tracesportsstar_logo.png",
+      "website": "https://www.mncchannels.com/micro/MNC-Sport"
+    },
+    {
+      "name": "SPOTV",
+      "isFree": true,
+      "keywords": "spotv -2",
+      "logo": "https://go4.pw/ASIA/SPOTV.png"
+    },
+    {
+      "name": "SPOTV 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SPOTV.png"
+    },
+    {
+      "name": "TVRI Sport",
+      "isFree": true,
+      "keywords": "tvri sport -hd",
+      "priority": 9
+    },
+    {
+      "name": "Voli TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "GTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jjuKnYs.png"
+    },
+    {
+      "name": "Hits",
+      "isFree": true,
+      "keywords": "hits -movies"
+    },
+    {
+      "name": "Indonesia Channel",
+      "isFree": true,
+      "shortName": "IC",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png"
+    },
+    {
+      "name": "MNCTV",
+      "isFree": true
+    },
+    {
+      "name": "One TV",
+      "isFree": true
+    },
+    {
+      "name": "RCTI",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "RRI Net",
+      "isFree": true
+    },
+    {
+      "name": "SCTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EMmOvnQ.png",
+      "priority": 10
+    },
+    {
+      "name": "TVKU",
+      "isFree": true
+    },
+    {
+      "name": "TVRI",
+      "isFree": true,
+      "keywords": "tvri -4 -aceh -bali -bangka belitung -bengkulu -dki jakarta -gorontalo -jambi -jawa barat -jawa tengah -jawa timur -kalimantan barat -kalimantan selatan -kalimantan tengah -kalimantan timur -kanal 3 -lampung -maluku -nasional -nusa tenggara barat -nusa tenggara timur -papua -riau -sport hd -sulawesi barat -sulawesi selatan -sulawesi tengah -sulawesi tenggara -sulawesi utara -sumatera barat -sumatera selatan -sumatera utara -yogyakarta",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 10
+    },
+    {
+      "name": "TVRI 4",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Kanal 3",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 9
+    },
+    {
+      "name": "TVRI Nasional",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Trans TV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Trans7",
+      "isFree": true
+    },
+    {
+      "name": "Aceh TV",
+      "isFree": true,
+      "website": "http://www.acehtv.tv/"
+    },
+    {
+      "name": "ADi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.aditv.co.id/"
+    },
+    {
+      "name": "AFBTV Kupang",
+      "isFree": true,
+      "website": "http://afbtvkupang.com/"
+    },
+    {
+      "name": "Agropolitan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://agropolitan.tv/"
+    },
+    {
+      "name": "Ainos",
+      "isFree": true
+    },
+    {
+      "name": "Ajwa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.ieg.id/tv-channel/ajwa-tv/"
+    },
+    {
+      "name": "AKTV",
+      "isFree": true,
+      "website": "https://www.aktv.co.id/"
+    },
+    {
+      "name": "All Play Ent",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.indihometv.com/"
+    },
+    {
+      "name": "ANTV",
+      "isFree": true,
+      "website": "https://www.antvklik.com/"
+    },
+    {
+      "name": "Arek TV",
+      "isFree": true,
+      "website": "https://arek.tv/"
+    },
+    {
+      "name": "Astha TV",
+      "isFree": true,
+      "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
+      "website": "https://asthatv.com"
+    },
+    {
+      "name": "Astro Blitar TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg"
+    },
+    {
+      "name": "Atambua TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "ATVLI Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://atvli.or.id/"
+    },
+    {
+      "name": "Bakudapa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Balikpapan TV",
+      "isFree": true,
+      "website": "https://balikpapantv.co.id/"
+    },
+    {
+      "name": "Bandung TV",
+      "isFree": true,
+      "website": "http://bandungtv.tv/"
+    },
+    {
+      "name": "Banjar TV",
+      "isFree": true
+    },
+    {
+      "name": "Banten TV",
+      "isFree": true,
+      "website": "http://bantentv.com/"
+    },
+    {
+      "name": "Batam TV",
+      "isFree": true,
+      "website": "http://batamtvnews.com/"
+    },
+    {
+      "name": "Batik TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://batiktv.pekalongankota.go.id/"
+    },
+    {
+      "name": "Batu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://batutelevisi.com/"
+    },
+    {
+      "name": "Bayu TV Nganjuk",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BAYU.png",
+      "website": "https://www.bayutvpersada.com/"
+    },
+    {
+      "name": "BBS TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224164857101551_15.jpeg",
+      "website": "https://www.bbstv.id/"
+    },
+    {
+      "name": "Besmart",
+      "isFree": true,
+      "website": "https://mncvision.id/"
+    },
+    {
+      "name": "BE TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
+      "website": "http://betv.rakyatbengkulu.com/"
+    },
+    {
+      "name": "Bima TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.bimakini.com/"
+    },
+    {
+      "name": "Bioskop Indonesia",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/MZANSI.png",
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Biznet Adventure",
+      "isFree": true,
+      "website": "http://www.biznetvideo.net/"
+    },
+    {
+      "name": "Biznet Lifestyle",
+      "isFree": true,
+      "website": "http://www.biznetvideo.net/"
+    },
+    {
+      "name": "BMS TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.banyumastv.com/"
+    },
+    {
+      "name": "B-One TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "BRTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9f1bfe0500eebc4c26120d69ed93f530.png",
+      "website": "https://brtv.co.id/"
+    },
+    {
+      "name": "Bungo TV",
+      "isFree": true,
+      "website": "https://www.bungotv.com/"
+    },
+    {
+      "name": "Cahaya TV Banten",
+      "isFree": true,
+      "website": "https://www.cahayabanten.tv/"
+    },
+    {
+      "name": "Carang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Caruban TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",
+      "website": "https://carubantv.id/"
+    },
+    {
+      "name": "Celebes TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png",
+      "website": "http://www.celebesmedia.id/"
+    },
+    {
+      "name": "Celebrities TV",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/25271.jpg",
+      "website": "https://www.mncchannels.com/micro/mncinfotainment"
+    },
+    {
+      "name": "Channel 4U",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://maxstream.tv/"
+    },
+    {
+      "name": "Channel Jowo",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Citra Bioskop",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-bioskop/"
+    },
+    {
+      "name": "Citra Culinary & Travel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-dangdut/"
+    },
+    {
+      "name": "Citra Dangdut",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-dangdut/"
+    },
+    {
+      "name": "Citra Entertainment",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-entertainment/"
+    },
+    {
+      "name": "Citra TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png"
+    },
+    {
+      "name": "Dangdut Tivi",
+      "isFree": true
+    },
+    {
+      "name": "Davika TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png",
+      "website": "https://davikatv.co/"
+    },
+    {
+      "name": "Dayak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Dens Food Channel",
+      "isFree": true,
+      "logo": "https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png",
+      "website": "http://dens.tv"
+    },
+    {
+      "name": "Dens Life & Style",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "http://dens.tv"
+    },
+    {
+      "name": "Dens Play",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
+      "website": "http://dens.tv"
+    },
+    {
+      "name": "Dens ShowBiz",
+      "isFree": true,
+      "website": "http://dens.tv"
+    },
+    {
+      "name": "Dhoho TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4Khyyfh.png",
+      "website": "http://www.dhohotv.com/"
+    },
+    {
+      "name": "DigiOne",
+      "isFree": true,
+      "website": "https://maxstream.tv"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "priority": 10
+    },
+    {
+      "name": "DM TV Malang",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3iC41QX.png",
+      "website": "https://dmtvmalang.com/"
+    },
+    {
+      "name": "dTVi",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png",
+      "website": "https://dtv-indonesia.com/"
+    },
+    {
+      "name": "Dunia Anak",
+      "isFree": true,
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Dunia Lain",
+      "isFree": true,
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Duta TV",
+      "isFree": true,
+      "website": "http://dutatv.com/"
+    },
+    {
+      "name": "Eat N Go",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oWwyYAu3JZSXXaU7rrbz27hPLn.jpg",
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "E Channel",
+      "isFree": true,
+      "website": "http://echanneltv.com/"
+    },
+    {
+      "name": "Efarina TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iYTimXh.png",
+      "website": "https://efarinatv.net/"
+    },
+    {
+      "name": "Elshinta TV",
+      "isFree": true,
+      "website": "http://www.elshinta.tv/"
+    },
+    {
+      "name": "EmPhi 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "EmPhi 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "EmPhi 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "EmPhi 7",
+      "isFree": true
+    },
+    {
+      "name": "Entertainment",
+      "isFree": true,
+      "website": "https://www.mncchannels.com/micro/entertainment"
+    },
+    {
+      "name": "Ficom Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.vnews.click/"
+    },
+    {
+      "name": "Flik",
+      "isFree": true,
+      "website": "https://www.instagram.com/fliktv/"
+    },
+    {
+      "name": "FMN",
+      "isFree": true,
+      "website": "https://mncvision.id/channel/detail/150/fmn/"
+    },
+    {
+      "name": "FTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOr1Oac.png"
+    },
+    {
+      "name": "Garuda TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sXsAcZ3.png",
+      "website": "https://www.garuda.tv/"
+    },
+    {
+      "name": "GPR TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://gprtv.id/"
+    },
+    {
+      "name": "Ie",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/IRELAND2.png",
+      "website": "https://www.mncchannels.com/micro/infotainment"
+    },
+    {
+      "name": "Inahealth TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Indonesiana.TV",
+      "isFree": true,
+      "website": "https://indonesiana.tv/"
+    },
+    {
+      "name": "Indosiar",
+      "isFree": true,
+      "website": "https://www.indosiar.com/",
+      "priority": 9
+    },
+    {
+      "name": "Insan TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.insantv.com/"
+    },
+    {
+      "name": "Inspira TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BF5orkg.png",
+      "website": "https://inspira.tv/"
+    },
+    {
+      "name": "Jak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://jak-tv.com/"
+    },
+    {
+      "name": "Jambi TV",
+      "isFree": true,
+      "website": "https://dobrak.id/"
+    },
+    {
+      "name": "Jawa Pos TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",
+      "website": "https://www.jawapos.com/"
+    },
+    {
+      "name": "Jaya TV Jayapura",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TAMIL/JayaTV.png"
+    },
+    {
+      "name": "Jek TV",
+      "isFree": true,
+      "website": "http://stream.jektv.co.id/"
+    },
+    {
+      "name": "Jendela",
+      "isFree": true,
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Jogja Istimewa TV",
+      "isFree": true,
+      "website": "http://jitv.jogjaprov.go.id/"
+    },
+    {
+      "name": "Jogja TV",
+      "isFree": true,
+      "website": "http://jogjatv.tv/"
+    },
+    {
+      "name": "JPM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "JTV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_102.jpg",
+      "website": "http://jtv.co.id/"
+    },
+    {
+      "name": "Karisma",
+      "isFree": true,
+      "website": "http://www.ieg.id/tv-channel/karisma/"
+    },
+    {
+      "name": "Kawanua TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png"
+    },
+    {
+      "name": "K-Drama",
+      "isFree": true,
+      "website": "https://www.eyeplus.co.id/"
+    },
+    {
+      "name": "Kebumen TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Kilisuci TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
+      "website": "https://kstv.co.id/"
+    },
+    {
+      "name": "Kresna TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kresna.tv/"
+    },
+    {
+      "name": "KTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
+      "website": "http://www.ktv.co.id/"
+    },
+    {
+      "name": "Life",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png"
+    },
+    {
+      "name": "Lombok TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://lomboktvnews.com/"
+    },
+    {
+      "name": "Madu TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kF738LTEcnAp7IEpKAfMf9ejGOA.jpg",
+      "website": "https://madu.tv/"
+    },
+    {
+      "name": "Magna Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tfJo0SO.png"
+    },
+    {
+      "name": "Maleo",
+      "isFree": true,
+      "website": "http://www.ninmedia.tv/"
+    },
+    {
+      "name": "Mata Milenial Indonesia TV",
+      "isFree": true,
+      "website": "https://mataindonesia.tv/"
+    },
+    {
+      "name": "Max2U",
+      "isFree": true,
+      "website": "https://maxstream.tv/"
+    },
+    {
+      "name": "MAX Stream",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
+      "website": "https://maxstream.tv/"
+    },
+    {
+      "name": "MCC",
+      "isFree": true,
+      "website": "https://maxstream.tv/"
+    },
+    {
+      "name": "M Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg"
+    },
+    {
+      "name": "MDTV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+      "website": "https://mdtelevision.com/"
+    },
+    {
+      "name": "Mentari TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.ieg.id/tv-channel/mentari-tv/"
+    },
+    {
+      "name": "MGSTV",
+      "isFree": true,
+      "website": "https://mgstv.co.id/"
+    },
+    {
+      "name": "MM Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Moji",
+      "isFree": true,
+      "website": "https://moji.id/"
+    },
+    {
+      "name": "Mola TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mola.tv/"
+    },
+    {
+      "name": "Mola TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mola.tv/"
+    },
+    {
+      "name": "Molluca TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://molluca.cahaya.tv/"
+    },
+    {
+      "name": "More TV",
+      "isFree": true,
+      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png"
+    },
+    {
+      "name": "My Family",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+      "website": "http://www.ciptamutu.com/"
+    },
+    {
+      "name": "My TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lhxRefQ.png",
+      "website": "https://www.mytv.co.id/"
+    },
+    {
+      "name": "NET.",
+      "isFree": true,
+      "website": "https://www.netmedia.co.id/"
+    },
+    {
+      "name": "Nirwana TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "!nsert",
+      "isFree": true,
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Nu Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
+      "website": "http://nuchannel.tv/"
+    },
+    {
+      "name": "Nusantara TV",
+      "isFree": true,
+      "website": "https://www.nusantaratv.com/"
+    },
+    {
+      "name": "Nusa TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"
+    },
+    {
+      "name": "Okezone TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.okezone.com/"
+    },
+    {
+      "name": "OK TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "website": "https://www.mncchannels.com/micro/OK-TV"
+    },
+    {
+      "name": "Online TV Nusantara",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg",
+      "website": "https://indeksnews.com/"
+    },
+    {
+      "name": "Padang TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EL2BfxY.png",
+      "website": "https://padangtv.id/"
+    },
+    {
+      "name": "Palembang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://paltv.co.id/"
+    },
+    {
+      "name": "Pawagam Indonesia",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png",
+      "website": "http://www.ieg.id/tv-channel/pawagam-indonesia/"
+    },
+    {
+      "name": "Persada TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.persada.tv/"
+    },
+    {
+      "name": "Persib TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://persib.co.id/media/persib_tv"
+    },
+    {
+      "name": "Persona",
+      "isFree": true,
+      "website": "http://www.ieg.id/tv-channel/pesona/"
+    },
+    {
+      "name": "Pet TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PpqSMJjibR5dkqnBOGhpcz253C.jpg"
+    },
+    {
+      "name": "Pijar TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://pijar.tv/"
+    },
+    {
+      "name": "PJTV",
+      "isFree": true,
+      "website": "http://www.pjtvbandung.com/"
+    },
+    {
+      "name": "PKTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/p8F0AaZ.png",
+      "website": "http://pktvkaltim.com/"
+    },
+    {
+      "name": "PONTV",
+      "isFree": true,
+      "website": "https://www.pontv.id/"
+    },
+    {
+      "name": "PSJ TV",
+      "isFree": true,
+      "website": "https://www.psjtv.id/"
+    },
+    {
+      "name": "Puja TV Aceh",
+      "isFree": true,
+      "website": "https://www.pujatvaceh.com/"
+    },
+    {
+      "name": "Radar Lampung TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/spect.png",
+      "website": "https://radartv.co.id/"
+    },
+    {
+      "name": "Radar Tasikmalaya TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/spect.png",
+      "website": "https://radartasikmalaya.tv/"
+    },
+    {
+      "name": "Rajawali TV",
+      "isFree": true,
+      "website": "https://www.rtv.co.id/"
+    },
+    {
+      "name": "Rakyat Bengkulu TV",
+      "isFree": true,
+      "website": "https://rbtv.rakyatbengkulu.com/"
+    },
+    {
+      "name": "RANS Entertainment",
+      "isFree": true,
+      "website": "https://www.vidio.com/live/8241-rans-channel"
+    },
+    {
+      "name": "Rasyaad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rasyaad.tv/"
+    },
+    {
+      "name": "Ratih TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "RBTV Jogja",
+      "isFree": true,
+      "logo": "https://app.megacubo.net/logos/canaisvirtual/RBTVPARANA.png",
+      "website": "http://www.rbtvjogja.tv/"
+    },
+    {
+      "name": "RCTV",
+      "isFree": true,
+      "website": "https://www.radarcirebon.tv/"
+    },
+    {
+      "name": "Riau Raya TV",
+      "isFree": true,
+      "website": "https://riauraya.tv/"
+    },
+    {
+      "name": "Riau TV",
+      "isFree": true,
+      "website": "https://www.riautelevisi.com/"
+    },
+    {
+      "name": "Rodja TV",
+      "isFree": true,
+      "website": "https://rodja.tv/"
+    },
+    {
+      "name": "Ruai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ruai.tv/"
+    },
+    {
+      "name": "Ruang Trampil",
+      "isFree": true,
+      "website": "https://useetv.com/"
+    },
+    {
+      "name": "Saburai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://saburaitv.com/"
+    },
+    {
+      "name": "Sakti TV",
+      "isFree": true,
+      "website": "https://www.sakti.tv/"
+    },
+    {
+      "name": "Salam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png",
+      "website": "https://salamtelevisi.com/"
+    },
+    {
+      "name": "Saling Sapa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Salira TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",
+      "website": "https://salira.tv/"
+    },
+    {
+      "name": "Sampit TV",
+      "isFree": true,
+      "website": "https://sampittv.com/"
+    },
+    {
+      "name": "Samudera TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://samudera.tv/"
+    },
+    {
+      "name": "Sangaji TV",
+      "isFree": true,
+      "website": "https://sangajitv.co.id/"
+    },
+    {
+      "name": "SEA Today",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+      "website": "https://www.seatoday.com/"
+    },
+    {
+      "name": "Selaparang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://selaparangtv.com/"
+    },
+    {
+      "name": "Semarang TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",
+      "website": "http://semarangtv.tv/"
+    },
+    {
+      "name": "Seru! Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "Siak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Siger TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://siger.tv/"
+    },
+    {
+      "name": "Simpang5 TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Simpang5_TV.png"
+    },
+    {
+      "name": "Situbondo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.situbondotv.com/"
+    },
+    {
+      "name": "Sky Vision Learning Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "SMTV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png"
+    },
+    {
+      "name": "Snooker",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8rEvbsyCy04Dpx3JmtOUO9wEdS.jpg",
+      "website": "http://www.skynindo.tv/"
+    },
+    {
+      "name": "Soccer Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVpq68NxChzynK7otaymRSaWR8p.jpg",
+      "website": "https://www.mncchannels.com/micro/Soccer-Channel"
+    },
+    {
+      "name": "Sriwijaya TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
+      "website": "http://www.sriwijayatv.com/"
+    },
+    {
+      "name": "Stara TV",
+      "isFree": true,
+      "website": "https://stream.staratv.id/"
+    },
+    {
+      "name": "STV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png",
+      "website": "https://www.stv.co.id/"
+    },
+    {
+      "name": "Sultra TV",
+      "isFree": true
+    },
+    {
+      "name": "Sumut TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sunnah Jalan Pasti TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ISLAMIC/SUNNA.png"
+    },
+    {
+      "name": "Surabaya TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jlss2ll.png",
+      "website": "http://surabayatv.tv/"
+    },
+    {
+      "name": "Surau TV",
+      "isFree": true,
+      "website": "https://surautv.id/"
+    },
+    {
+      "name": "Tanjungpinang TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvtpi.id/"
+    },
+    {
+      "name": "TATV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/",
+      "website": "http://www.tatv.co.id/"
+    },
+    {
+      "name": "Tawaf TV",
+      "isFree": true,
+      "website": "https://www.tawaf.tv/"
+    },
+    {
+      "name": "Tegar TV Jogja",
+      "isFree": true,
+      "website": "http://www.tegartv.com/"
+    },
+    {
+      "name": "Tegar TV Lampung",
+      "isFree": true,
+      "website": "http://www.tegartv.com/"
+    },
+    {
+      "name": "Temanggung TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Timor TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png"
+    },
+    {
+      "name": "Tuan Guru TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OrWlKOrRl9u1kjMZS6JWbEJNOk.jpg"
+    },
+    {
+      "name": "TV 9 Nusantara",
+      "isFree": true,
+      "website": "http://www.tv9.co.id/"
+    },
+    {
+      "name": "TV Desa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvdesa.id/"
+    },
+    {
+      "name": "TV Edukasi",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tve.kemdikbud.go.id/"
+    },
+    {
+      "name": "TV Kesehatan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kemkes.go.id/"
+    },
+    {
+      "name": "TVM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png"
+    },
+    {
+      "name": "TV Mu",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvmu.tv/"
+    },
+    {
+      "name": "TV MUI",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mui.or.id/"
+    },
+    {
+      "name": "tvOne",
+      "isFree": true,
+      "website": "https://www.tvonenews.com/",
+      "priority": 9
+    },
+    {
+      "name": "TVRI World",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png",
+      "priority": 9
+    },
+    {
+      "name": "TV Tabalong",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.tabalongkab.go.id/"
+    },
+    {
+      "name": "TV Tempo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.vidio.com/live/7946-tv-tempo"
+    },
+    {
+      "name": "UBTV Brawijaya",
+      "isFree": true,
+      "website": "https://tv.ub.ac.id/"
+    },
+    {
+      "name": "U Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg",
+      "website": "https://www.u-channel.tv/"
+    },
+    {
+      "name": "UFA 24",
+      "isFree": true,
+      "website": "https://firanda.com/"
+    },
+    {
+      "name": "UGTV",
+      "isFree": true,
+      "website": "https://ugtv.co.id/"
+    },
+    {
+      "name": "Usee Photo",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
+      "website": "https://useetv.com/"
+    },
+    {
+      "name": "Usee Prime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
+      "website": "https://useetv.com/"
+    },
+    {
+      "name": "USM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://usmtv.id"
+    },
+    {
+      "name": "Vision Prime",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.mncchannels.com/micro/vision-prime"
+    },
+    {
+      "name": "Wesal TV",
+      "isFree": true,
+      "website": "http://wesaltv.id/"
+    },
+    {
+      "name": "Zee Bioskop",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "https://www.zeebioskop.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Hits Movies",
+      "isFree": false
+    },
+    {
+      "name": "Celestial Classic Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "website": "https://www.cmclassic.tv/index.php?location/ID"
+    },
+    {
+      "name": "Celestial Movies Indonesia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "website": "https://www.celestialmovies.com/schedule.php?location/ID"
+    },
+    {
+      "name": "Citra Drama",
+      "isFree": true,
+      "keywords": "citra drama -plus",
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-drama/"
+    },
+    {
+      "name": "Citra Drama Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/Citra.png",
+      "website": "http://www.ieg.id/tv-channel/citra-drama-plus/"
+    },
+    {
+      "name": "Galaxy",
+      "isFree": true,
+      "keywords": "galaxy -premium",
+      "website": "https://www.k-vision.tv/"
+    },
+    {
+      "name": "Galaxy Premium",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719191009640736_35.jpeg",
+      "website": "https://www.k-vision.tv/"
+    },
+    {
+      "name": "Haari Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png"
+    },
+    {
+      "name": "Haari Movie",
+      "isFree": true
+    },
+    {
+      "name": "IMC",
+      "isFree": true,
+      "website": "https://www.k-vision.tv/"
+    },
+    {
+      "name": "My Cinema",
+      "isFree": true,
+      "keywords": "my cinema -asia",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+      "website": "http://ciptamutu.com/"
+    },
+    {
+      "name": "My Cinema Asia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+      "website": "http://www.ciptamutu.com/"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "https://www.paramountnetwork.com/"
+    },
+    {
+      "name": "Sinema Indonesia",
+      "isFree": true,
+      "keywords": "sinema indonesia -x",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://www.eyeplus.co.id/"
+    },
+    {
+      "name": "Sinema Indonesia X",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://www.eyeplus.co.id/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Al Binaa TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://albinaa.tv/"
+    },
+    {
+      "name": "Bali TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNLy41Etgg3CLxLWEGoUgxqxG3m.jpg",
+      "website": "https://balitv.tv/"
+    },
+    {
+      "name": "Dens Learning & Knowledge",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYqHhAqYg9b47FlMcxQgUZPMgs2.jpg",
+      "website": "http://dens.tv"
+    },
+    {
+      "name": "Lingua Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.transvision.co.id/channel/lingua.html"
+    },
+    {
+      "name": "MHO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://mhotv.id/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 9
+    },
+    {
+      "name": "Rinjani TV",
+      "isFree": true
+    },
+    {
+      "name": "The Indonesia Channel",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.theindonesiachannel.com/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Berkah Shop TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
+      "website": "https://berkahshopping.com/"
+    },
+    {
+      "name": "iBerkah",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/CxK5DjjP/iberkah-logo.png",
+      "website": "https://iberkah.co.id/"
+    },
+    {
+      "name": "Lejel Home Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+      "website": "https://lejel.co.id/"
+    },
+    {
+      "name": "M Shop Signature",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "website": "https://mncvision.id/channel/detail/88/mshop-signature/"
+    },
+    {
+      "name": "M Shop Super Sale!",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "website": "https://mncvision.id/channel/detail/79/mshop-super-sale/"
+    },
+    {
+      "name": "NaDoo Commerce",
+      "isFree": true
+    },
+    {
+      "name": "NaDoo Korean",
+      "isFree": true
+    },
+    {
+      "name": "O Shop",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Biznet Kids",
+      "isFree": true,
+      "website": "http://www.biznetvideo.net/"
+    },
+    {
+      "name": "Fun Planet",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umYcH5zxDndSio5QUXSQu44hHQ5.jpg",
+      "website": "https://www.indihometv.com/livetv/indikids"
+    },
+    {
+      "name": "Haari Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+    },
+    {
+      "name": "Hip Hip Horee!",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "http://www.ieg.id/tv-channel/hip-hip-horee/"
+    },
+    {
+      "name": "Horee!",
+      "isFree": true,
+      "website": "http://www.ieg.id/tv-channel/horee/"
+    },
+    {
+      "name": "IndiKids",
+      "isFree": true,
+      "website": "https://www.useetv.com/livetv/indikids"
+    },
+    {
+      "name": "Kids TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "https://www.mncchannels.com/micro/Kids-TV"
+    },
+    {
+      "name": "My Kidz",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+      "website": "http://www.ciptamutu.com/"
+    },
+    {
+      "name": "Nick Jr. Indonesia",
+      "isFree": true,
+      "website": "https://www.nickjr.tv/"
+    },
+    {
+      "name": "Spacetoon Indonesia",
+      "isFree": true,
+      "logo": "https://go4.pw/KIDS/SPACETOON.png",
+      "website": "http://www.spacetoon.id/"
+    },
+    {
+      "name": "VTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png",
+      "website": "https://id.wikipedia.org/wiki/VTV_(Indonesia)"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Channel Dangdut Indonesia",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Music Information Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://mic-indo.com/live"
+    },
+    {
+      "name": "Music TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png",
+      "website": "https://www.mncchannels.com/micro/Music-TV"
+    },
+    {
+      "name": "Musik Indonesia",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_germany.png",
+      "website": "https://www.transvision.co.id/channel/music-indonesia.html"
+    },
+    {
+      "name": "Pop Musik",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "T Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+      "website": "https://www.transvision.co.id/"
+    },
+    {
+      "name": "VH1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
+    }
+  ]
+}

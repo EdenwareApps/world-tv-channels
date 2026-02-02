@@ -1,0 +1,3190 @@
+{
+  "News": [
+    {
+      "name": "Bloomberg HT",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/77f9500985c14fd879fb824f50184919.png"
+    },
+    {
+      "name": "CNN Türk",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "TGRT Haber",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175037520427_82.png"
+    },
+    {
+      "name": "TRT World",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164224699889_88.png",
+      "priority": 10
+    },
+    {
+      "name": "A Haber",
+      "isFree": true,
+      "website": "http://www.ahaber.com.tr/"
+    },
+    {
+      "name": "Almahriah TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/almahriya.png",
+      "website": "https://almahriah.net/"
+    },
+    {
+      "name": "Al Qanat 9",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://alqanat9.com/"
+    },
+    {
+      "name": "Anadolu Agency",
+      "isFree": true,
+      "website": "http://www.aa.com.tr/"
+    },
+    {
+      "name": "A News",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "https://www.anews.com.tr/"
+    },
+    {
+      "name": "A Para",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "http://www.apara.com.tr/"
+    },
+    {
+      "name": "AS TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg",
+      "website": "https://astv.com.tr/"
+    },
+    {
+      "name": "A Turk",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "https://www.aturk.tv/"
+    },
+    {
+      "name": "BBN Turk",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Hs988Ku.jpg",
+      "website": "https://www.bbnturk.com.tr/"
+    },
+    {
+      "name": "BFZ Turk",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/PROTURK.png",
+      "website": "https://bfzturk.com/"
+    },
+    {
+      "name": "CNBC-e",
+      "isFree": true,
+      "logo": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3",
+      "website": "https://cnbce.com/"
+    },
+    {
+      "name": "CNN Turk",
+      "isFree": true,
+      "website": "https://www.cnnturk.com/",
+      "priority": 10
+    },
+    {
+      "name": "Dim TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/baa69f93d5cd27b1d1407e131647a53c.png",
+      "website": "https://dimtv.tv/"
+    },
+    {
+      "name": "Ekoturk",
+      "isFree": true,
+      "website": "https://www.ekoturk.com/"
+    },
+    {
+      "name": "Flash Haber TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "website": "https://flashhabertv.com/canli-yayin.html"
+    },
+    {
+      "name": "GEM Crypto",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Modern Economy",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Property",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Guney TV Tarsus",
+      "isFree": true,
+      "website": "https://www.guneytv.com.tr/"
+    },
+    {
+      "name": "Haberturk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6Tw3rUp.png",
+      "website": "https://tv.haberturk.com/"
+    },
+    {
+      "name": "Halab Today TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/HALAB TODAY.png",
+      "website": "https://halabtodaytv.net/"
+    },
+    {
+      "name": "Halk TV",
+      "isFree": true,
+      "website": "https://halktv.com.tr/"
+    },
+    {
+      "name": "Kablo Info",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://www.turksatkablo.com.tr/"
+    },
+    {
+      "name": "Kadirga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kadirga.com.tr/"
+    },
+    {
+      "name": "Kanal S",
+      "isFree": true,
+      "website": "https://www.kanals.com.tr/"
+    },
+    {
+      "name": "Kudus TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/37289bd17c89c2900d67a6fbab1b2b16.png",
+      "website": "https://www.kudustv.com.tr/"
+    },
+    {
+      "name": "Lider Haber",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://liderhaber.com.tr/"
+    },
+    {
+      "name": "Medya Haber",
+      "isFree": true,
+      "keywords": "medya haber -tv",
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/MEDYAHABER%20TV.png",
+      "website": "https://www.medyahaber.info/"
+    },
+    {
+      "name": "Mekameleen TV",
+      "isFree": true,
+      "website": "https://www.mekameleen.tv/"
+    },
+    {
+      "name": "MPL TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://mpltv.tv/"
+    },
+    {
+      "name": "Nora TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbm6nbm2iPSGJERiPTO9eYIGuUi.jpg",
+      "website": "https://noratelevizyonu.com/"
+    },
+    {
+      "name": "OlayTurk TV",
+      "isFree": true,
+      "website": "https://www.olayturk.tv/"
+    },
+    {
+      "name": "On Medya TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "website": "http://www.onmedya.com.tr/"
+    },
+    {
+      "name": "TRT Arabi",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "https://www.trtarabi.com/",
+      "priority": 10
+    },
+    {
+      "name": "TurkHaber TV",
+      "isFree": true,
+      "website": "https://www.turkhabertv.com/"
+    },
+    {
+      "name": "Turkiye Gazete Radyo Televizyon",
+      "isFree": true,
+      "logo": "https://epg.pw/media/",
+      "website": "https://www.tgrt.com.tr/"
+    },
+    {
+      "name": "Uzay Haber",
+      "isFree": true
+    },
+    {
+      "name": "360",
+      "isFree": true,
+      "website": "https://www.tv360.com.tr/"
+    },
+    {
+      "name": "Akit TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b9f973479ff0eee7ce4c921bd80e8c9b.png",
+      "website": "https://www.akittv.com.tr/"
+    },
+    {
+      "name": "Can TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
+      "website": "https://cantv.tv/"
+    },
+    {
+      "name": "beIN Sports 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 3 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 4 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports Haber TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 5 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Movies Stars TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Movies Turk TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN H&E TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Series 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Series 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Movies Premiere TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN İZ TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Gurme TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports Max 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports Max 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "DMAX TR",
+      "isFree": true
+    },
+    {
+      "name": "FX TR",
+      "isFree": true
+    },
+    {
+      "name": "Cartoon Network TR",
+      "isFree": true
+    },
+    {
+      "name": "TV8 TR",
+      "isFree": true
+    },
+    {
+      "name": "Show TV TR",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 7 TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT World TR",
+      "isFree": true
+    },
+    {
+      "name": "National Geographic TR",
+      "isFree": true
+    },
+    {
+      "name": "Semerkand TV TR",
+      "isFree": true
+    },
+    {
+      "name": "Meltem TV TR",
+      "isFree": true
+    },
+    {
+      "name": "TV 100 TR",
+      "isFree": true
+    },
+    {
+      "name": "Haber Global TR",
+      "isFree": true
+    },
+    {
+      "name": "KRT TV TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Spor 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "24 TR",
+      "isFree": true
+    },
+    {
+      "name": "A Haber TR",
+      "isFree": true
+    },
+    {
+      "name": "NTV TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Müzik TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Cocuk TR",
+      "isFree": true
+    },
+    {
+      "name": "Ülke TV TR",
+      "isFree": true
+    },
+    {
+      "name": "CNN Turk TR",
+      "isFree": true
+    },
+    {
+      "name": "Ekotürk TR",
+      "isFree": true
+    },
+    {
+      "name": "Kanal D TR",
+      "isFree": true
+    },
+    {
+      "name": "Now TR",
+      "isFree": true
+    },
+    {
+      "name": "Star TV TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "TV 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Haber TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Turk TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Kurdî TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Avaz TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Al Arabiya TR",
+      "isFree": true
+    },
+    {
+      "name": "TRT Diyanet TR",
+      "isFree": true
+    },
+    {
+      "name": "Nat Geo Wild TR",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport 2 TR",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Channel TR",
+      "isFree": true
+    },
+    {
+      "name": "ATV TR",
+      "isFree": true
+    },
+    {
+      "name": "Ekol TV TR",
+      "isFree": true
+    },
+    {
+      "name": "HT Spor TR",
+      "isFree": true
+    },
+    {
+      "name": "FB TV TR",
+      "isFree": true
+    },
+    {
+      "name": "Viasat Explore TR",
+      "isFree": true
+    },
+    {
+      "name": "Haber Turk TR",
+      "isFree": true
+    },
+    {
+      "name": "A Spor TR",
+      "isFree": true
+    },
+    {
+      "name": "Kanal B TR",
+      "isFree": true
+    },
+    {
+      "name": "TVNET TR",
+      "isFree": true
+    },
+    {
+      "name": "Ulusal 1 TR",
+      "isFree": true
+    },
+    {
+      "name": "minika Cocuk TR",
+      "isFree": true
+    },
+    {
+      "name": "TMB TR",
+      "isFree": true
+    },
+    {
+      "name": "A2 TV TR",
+      "isFree": true
+    },
+    {
+      "name": "SinemaTV TR",
+      "isFree": true
+    },
+    {
+      "name": "Sinema TV Yerli TR",
+      "isFree": true
+    },
+    {
+      "name": "Sinema TV Aksiyon TR",
+      "isFree": true
+    },
+    {
+      "name": "SinemaTV Aile TR",
+      "isFree": true
+    },
+    {
+      "name": "SinemaTV 1001 TR",
+      "isFree": true
+    },
+    {
+      "name": "SinemaTV Komedi TR",
+      "isFree": true
+    }
+  ],
+  "Religious": [
+    {
+      "name": "SAT-7 TÜRK",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/PROTURK.png"
+    },
+    {
+      "name": "Thaqalayn TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/IRAQ/ALTHAQALAYNTV.png"
+    },
+    {
+      "name": "Al-Rafidain TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alrafidain.tv/"
+    },
+    {
+      "name": "Daawah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.daawah.tv/"
+    },
+    {
+      "name": "Diyanet TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRTDIYANET.png",
+      "website": "https://www.diyanet.tv/"
+    },
+    {
+      "name": "Diyar TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qWkHjRA.png",
+      "website": "https://www.diyartv.com.tr/"
+    },
+    {
+      "name": "Dost TV",
+      "isFree": true,
+      "website": "https://www.dosttv.com/"
+    },
+    {
+      "name": "Lalegul TV",
+      "isFree": true,
+      "website": "https://lalegultv.com.tr/"
+    },
+    {
+      "name": "Nur TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5928.png",
+      "website": "https://www.nurtv.tv/"
+    },
+    {
+      "name": "Salam TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png",
+      "website": "https://salammedia61.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Sports TV",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/1831e5b9d29c1dba134d6f4420ed85dd.png"
+    },
+    {
+      "name": "TRT Spor",
+      "isFree": false,
+      "priority": 10
+    },
+    {
+      "name": "TV 8,5",
+      "isFree": false,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "A Spor",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZhkZzLf.png",
+      "website": "https://www.aspor.com.tr/"
+    },
+    {
+      "name": "beIN Sports Haber",
+      "isFree": true,
+      "website": "https://beinsports.com.tr/"
+    },
+    {
+      "name": "FB TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/qBVqtYd.png",
+      "website": "https://www.fenerbahce.org/fbtv/"
+    },
+    {
+      "name": "GEM Fit",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7FQxaII.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GS TV",
+      "isFree": true,
+      "website": "https://galatasaray.com/"
+    },
+    {
+      "name": "HTSpor TV",
+      "isFree": true,
+      "website": "https://www.htspor.com/canli-yayin"
+    },
+    {
+      "name": "NTV Spor",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png",
+      "website": "http://www.ntvspor.net/"
+    },
+    {
+      "name": "S Sport",
+      "isFree": true,
+      "keywords": "s sport -2",
+      "logo": "https://i.postimg.cc/3xrkRd30/ssport.png",
+      "website": "https://www.ssport.tv/"
+    },
+    {
+      "name": "S Sport 2",
+      "isFree": true,
+      "website": "https://www.ssport.tv/"
+    },
+    {
+      "name": "Tabii Spor 6",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TABII SPOR.png",
+      "website": "https://www.tabii.com/tr/watch/live/tabiispor6"
+    },
+    {
+      "name": "Tivibu Spor",
+      "isFree": true,
+      "keywords": "tivibu spor -2 -3 -4",
+      "logo": "https://go4.pw/TURKIYE/TIVIBUSPOR.png",
+      "website": "https://www.tivibu.com.tr/"
+    },
+    {
+      "name": "Tivibu Spor 2",
+      "isFree": true,
+      "website": "https://www.tivibu.com.tr/"
+    },
+    {
+      "name": "Tivibu Spor 3",
+      "isFree": true,
+      "website": "https://www.tivibu.com.tr/"
+    },
+    {
+      "name": "Tivibu Spor 4",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/TIVIBUSPOR.png",
+      "website": "https://www.tivibu.com.tr/"
+    },
+    {
+      "name": "TJK TV",
+      "isFree": true,
+      "keywords": "tjk tv -2",
+      "website": "https://www.tjk.org/"
+    },
+    {
+      "name": "TJK TV 2",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3893.png",
+      "website": "https://www.tjk.org/"
+    },
+    {
+      "name": "TRT Spor Yildiz",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "https://www.trtspor.com.tr/",
+      "priority": 10
+    }
+  ],
+  "Kids": [
+    {
+      "name": "TRT Çocuk",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f4e83c976ce84974018a418125225b2f.png",
+      "priority": 10
+    },
+    {
+      "name": "Boomerang",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xF8jZoR.png",
+      "website": "http://www.boomerangtv.com.tr/"
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "website": "http://www.cartoonnetwork.com.tr/"
+    },
+    {
+      "name": "CBeebies",
+      "isFree": true,
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+      "website": "https://www.bbcturkiye.com/kanallar/cbeebies"
+    },
+    {
+      "name": "Cocuk Smart",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/trt-cocuk-1.png",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "logo": "http://i.imgur.com/ETxffjm.png",
+      "website": "http://www.disneyturkiye.com.tr/disney-tv/disney-channel/",
+      "priority": 10
+    },
+    {
+      "name": "Disney Jr.",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "GEM Junior",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jK8yzj2.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Kids",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ArkjaFk.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Minika Cocuk",
+      "isFree": true,
+      "website": "http://www.minikacocuk.com.tr/"
+    },
+    {
+      "name": "Minika Go",
+      "isFree": true,
+      "website": "http://www.minikago.com.tr/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nickelodeon.com.tr/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "http://www.nickjr.com/"
+    },
+    {
+      "name": "Nicktoons",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
+      "website": "http://nicktoons.nick.com/"
+    },
+    {
+      "name": "Spacetoon Turkey",
+      "isFree": true,
+      "logo": "https://go4.pw/KIDS/SPACETOON.png",
+      "website": "https://spacetoon.com.tr/tr/"
+    },
+    {
+      "name": "TRT Cocuk",
+      "isFree": true,
+      "keywords": "trt cocuk -+8",
+      "logo": "https://images.iptvmate.net/tvglogo/f4e83c976ce84974018a418125225b2f.png",
+      "website": "https://www.trtcocuk.net.tr/",
+      "priority": 10
+    },
+    {
+      "name": "TRT Cocuk +8",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "http://www.trtcocuk.net.tr/",
+      "priority": 10
+    },
+    {
+      "name": "TRT Diyanet Cocuk",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "https://www.trtdiyanetcocuk.net.tr/",
+      "priority": 10
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "24 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f46115a537e7c39459efd12c37c93f71.png"
+    },
+    {
+      "name": "360 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/360.png"
+    },
+    {
+      "name": "AA Live",
+      "isFree": true
+    },
+    {
+      "name": "AKIT TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b9f973479ff0eee7ce4c921bd80e8c9b.png"
+    },
+    {
+      "name": "AKSU TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6441af2bc7bab3f4345a4351ef832a50.png"
+    },
+    {
+      "name": "ALTAS TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1dffd5ad13b58e1306075b27b92d7198.png"
+    },
+    {
+      "name": "ARAS TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6dfb4db6f17b168beb0f578b0af53be1.png"
+    },
+    {
+      "name": "ASTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f9225f4e8fa3311b4ef604549ad9302d.png"
+    },
+    {
+      "name": "ATR Kirim Tatar",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c2d4c5c00b3e8dba3b9f87df54ae8738.png"
+    },
+    {
+      "name": "ATV Alanya",
+      "isFree": true
+    },
+    {
+      "name": "ATV Avrupa",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/772f1142159406a14ebc86b7c63eaae4.png"
+    },
+    {
+      "name": "Ada TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7a21b97b67a1c726f13117c12238c722.png"
+    },
+    {
+      "name": "Afyon Turk TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8240b8528617a3eaa9cd8947b7cd2e2f.png"
+    },
+    {
+      "name": "Afyon Türk TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8240b8528617a3eaa9cd8947b7cd2e2f.png"
+    },
+    {
+      "name": "Ahi TV Kirsehir",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c9c99efffcd8654fc326201ab454f4f3.png"
+    },
+    {
+      "name": "Akilli TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/54034a2dda67eeea27ddbb09b9bf456f.png"
+    },
+    {
+      "name": "Al-Zahra TV Turkic",
+      "isFree": true,
+      "shortName": "ATT",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Alanya Posta TV",
+      "isFree": true
+    },
+    {
+      "name": "Av TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b3e2aa349345a2e1d7f3a0a3f3f2f1a7.png"
+    },
+    {
+      "name": "BENGÜTÜRK TV",
+      "isFree": true
+    },
+    {
+      "name": "BLT Turk",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ec9948f4903908d74b98f6844e8230fc.png"
+    },
+    {
+      "name": "BRT 1",
+      "isFree": true,
+      "keywords": "brt 1 -hd",
+      "logo": "https://go4.pw/ASIA/TURKEY/BRT1.png"
+    },
+    {
+      "name": "BRT 1 HD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c97e018d9daabecda736cf33d430f432.png"
+    },
+    {
+      "name": "BRT 2",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/67eac186256e133ae0b48e1b96a2538d.png"
+    },
+    {
+      "name": "BRTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9f1bfe0500eebc4c26120d69ed93f530.png"
+    },
+    {
+      "name": "Berat TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c49cd94d7169f5dbcba24f8c1766b47d.png"
+    },
+    {
+      "name": "Besiktas Web TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Beyaz TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d3691ccabbed5cc1caa12d40d1a57b31.png"
+    },
+    {
+      "name": "Beykent TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63d7e79d27223c489f804011f3944bff.png"
+    },
+    {
+      "name": "Beşiktaş Web TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Bitlis TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a8c9d95499ef735f2b2df35b1e546305.png"
+    },
+    {
+      "name": "Bodrum Belediyesi Web TV",
+      "isFree": true,
+      "shortName": "BBWT",
+      "priority": 4
+    },
+    {
+      "name": "Bursa AS TV",
+      "isFree": true
+    },
+    {
+      "name": "Bursa TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/31a34f617f651b5b703d5e4f59ff2d3e.png"
+    },
+    {
+      "name": "CAN TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg"
+    },
+    {
+      "name": "Cay TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/77c4ac5a687d0f5dda752c75617eee00.png"
+    },
+    {
+      "name": "Cekmeköy TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/08d87e42a385983d74e73bc788b8e5fa.png"
+    },
+    {
+      "name": "Cem TV",
+      "isFree": true
+    },
+    {
+      "name": "Ciftci Tv",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/16fb085d00ddea147ca741b986d20ac9.png"
+    },
+    {
+      "name": "DHA",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/HxbHLRd6/dha.png"
+    },
+    {
+      "name": "DIM TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/baa69f93d5cd27b1d1407e131647a53c.png"
+    },
+    {
+      "name": "DRT TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5dd09cc86f745093a600bbb8913563d1.png"
+    },
+    {
+      "name": "Deha TV",
+      "isFree": true
+    },
+    {
+      "name": "Deni̇z Postasi TV",
+      "isFree": true,
+      "shortName": "DPT"
+    },
+    {
+      "name": "Dersim62 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wFTl8aQ.png"
+    },
+    {
+      "name": "DİM TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/baa69f93d5cd27b1d1407e131647a53c.png"
+    },
+    {
+      "name": "ELIT TV Isvicre",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3b27209c8d70743c5707aacf246b389a.png"
+    },
+    {
+      "name": "ER TV",
+      "isFree": true,
+      "keywords": "er tv | ertv",
+      "logo": "https://images.iptvmate.net/tvglogo/a9aa207f14e739c32b4bf3a68a196ac1.png"
+    },
+    {
+      "name": "ETV Manisa",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/54ca56cbedb9f8b1a4770ce2d5fb04b4.png"
+    },
+    {
+      "name": "Ege A Turk TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c8ad2b78b71bb28e1bac96844a1cf598.png"
+    },
+    {
+      "name": "Ege TV",
+      "isFree": true
+    },
+    {
+      "name": "Ege Türk TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/metropol.png"
+    },
+    {
+      "name": "Elmas TV",
+      "isFree": true
+    },
+    {
+      "name": "Em TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/da7d20a73e2f435f70b951b2ae2eb2ce.png"
+    },
+    {
+      "name": "Ert Sah TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e3cdd26f7deaca32db6ddb77eb72c14d.png"
+    },
+    {
+      "name": "Erzurum Web TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Euro 90 Channel",
+      "isFree": true
+    },
+    {
+      "name": "Euro Genc",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png"
+    },
+    {
+      "name": "EuroStar",
+      "isFree": true
+    },
+    {
+      "name": "Fenerbahçe TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Finans Turk TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/79fa74b7f9e7289a34a71f44f7236a39.png"
+    },
+    {
+      "name": "GRT",
+      "isFree": true,
+      "keywords": "grt -gaziantep",
+      "logo": "https://images.iptvmate.net/tvglogo/15ae45bdf5a04e15402030d45d7f64fb.png"
+    },
+    {
+      "name": "GRT Gaziantep",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png"
+    },
+    {
+      "name": "GSTV",
+      "isFree": true
+    },
+    {
+      "name": "Gaziantep Olay Tv",
+      "isFree": true,
+      "shortName": "GOT",
+      "logo": "https://images.iptvmate.net/tvglogo/76219da2ff05cf5636da41d6060b9a49.png"
+    },
+    {
+      "name": "Genç TV",
+      "isFree": true
+    },
+    {
+      "name": "Gonca TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/32d9ae2c697e12931e1a885c1a06ee25.png"
+    },
+    {
+      "name": "Guneydogu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c415846928231b1a9847924daec36c52.png"
+    },
+    {
+      "name": "Guneydoğu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c415846928231b1a9847924daec36c52.png"
+    },
+    {
+      "name": "Güneş TV Kibris",
+      "isFree": true
+    },
+    {
+      "name": "Haber 61",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7b0dd24d9ae34005341df36e0c82f4e6.png"
+    },
+    {
+      "name": "Haber Global",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a308d7602dc239e356f04bcabe59fd70.png"
+    },
+    {
+      "name": "Haber61 TV",
+      "isFree": true
+    },
+    {
+      "name": "Habertürk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6Tw3rUp.png"
+    },
+    {
+      "name": "Hunat TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/01a8ebdd5a13c41585c6bfdd6f5463c9.png"
+    },
+    {
+      "name": "IBB TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/02d051eb605b30929caf3959cf6d97bb.png"
+    },
+    {
+      "name": "Icel TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f3813ec69628d5d5e990a00c1a8e9496.png"
+    },
+    {
+      "name": "Istanbul Metropolitan Municipality",
+      "isFree": true,
+      "shortName": "IMM",
+      "logo": "https://images.iptvmate.net/tvglogo/88fcf582d08e93d1129aedfd5491ef3b.png"
+    },
+    {
+      "name": "JIN TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/xdkDqCKf/jintv.png"
+    },
+    {
+      "name": "KANAL 58",
+      "isFree": true
+    },
+    {
+      "name": "KANAL AVRUPA",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 12",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6706eecbc9a0062ce2c941926d7c5fbc.png"
+    },
+    {
+      "name": "Kanal 15",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7687d24c596cbaa569fa9c7d334bad29.png"
+    },
+    {
+      "name": "Kanal 23",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bb0a46580261faa8078ee01db2a666a2.png"
+    },
+    {
+      "name": "Kanal 26",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b060fd1a128348bda1aab879282d890d.png"
+    },
+    {
+      "name": "Kanal 3",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 32",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 33",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Kanal 34",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Kanal 38",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 68",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f79d292018b07f05f39e6684bec2ff8f.png"
+    },
+    {
+      "name": "Kanal 7",
+      "isFree": true,
+      "keywords": "kanal 7 -avrupa -avrupa hd"
+    },
+    {
+      "name": "Kanal 7 Avrupa",
+      "isFree": true,
+      "keywords": "kanal 7 avrupa -hd",
+      "logo": "https://images.iptvmate.net/tvglogo/a05631af25ccb07b20159033a5dee5f9.png"
+    },
+    {
+      "name": "Kanal 7 Avrupa HD",
+      "isFree": true,
+      "shortName": "K7AH",
+      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+    },
+    {
+      "name": "Kanal Alanya",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6ec3691e213b6c2dc82207eec2e12368.png"
+    },
+    {
+      "name": "Kanal B",
+      "isFree": true
+    },
+    {
+      "name": "Kanal D",
+      "isFree": true,
+      "keywords": "kanal d -hd",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png"
+    },
+    {
+      "name": "Kanal D HD",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/19b4439002cb4d3ba7efea0be7eecd59.png"
+    },
+    {
+      "name": "Kanal Ege",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6446928f141b4eb10abb4d87fe96f93e.png"
+    },
+    {
+      "name": "Kanal Firat",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/df636c6b5b9afee1785137002aaa7580.png"
+    },
+    {
+      "name": "Kanal T",
+      "isFree": true
+    },
+    {
+      "name": "Kanal Urfa",
+      "isFree": true
+    },
+    {
+      "name": "Kanal V",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+    },
+    {
+      "name": "Kanal Z",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/64337ea279b21cb8173b57849aeebf7e.png"
+    },
+    {
+      "name": "Kay TV",
+      "isFree": true
+    },
+    {
+      "name": "Kent Deha TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/34eb44a925469f18df9a15702e5af3f9.png"
+    },
+    {
+      "name": "Kent TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c6a797e7f68780b18cfdafad52de0b8c.png"
+    },
+    {
+      "name": "Kent Türk",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "Kon TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ebe4a73669773cb213e6b54d62d32170.png"
+    },
+    {
+      "name": "Kral Pop",
+      "isFree": true
+    },
+    {
+      "name": "Kral TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/16782c9bec5523995316ebcec6296823.png"
+    },
+    {
+      "name": "Kudüs TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/37289bd17c89c2900d67a6fbab1b2b16.png"
+    },
+    {
+      "name": "Lale TV Kirim Tatar",
+      "isFree": true,
+      "shortName": "LTKT",
+      "logo": "https://go4.pw/EUROPE/UKRAIN/UAKRYM.png"
+    },
+    {
+      "name": "Lalegül TV",
+      "isFree": true
+    },
+    {
+      "name": "Life TV",
+      "isFree": true
+    },
+    {
+      "name": "Line TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "MSBC Kanal 2000",
+      "isFree": true
+    },
+    {
+      "name": "Mar TV",
+      "isFree": true
+    },
+    {
+      "name": "Marmara TV",
+      "isFree": true
+    },
+    {
+      "name": "Mavi Karadeniz TV",
+      "isFree": true,
+      "keywords": "mavi karadeniz tv | mavikaradeniz tv",
+      "shortName": "MKT",
+      "logo": "https://images.iptvmate.net/tvglogo/26fd9b62761a6a85f6b1a31f6464c3ab.png"
+    },
+    {
+      "name": "MaviKaradeniz",
+      "isFree": true
+    },
+    {
+      "name": "Med Müzik TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/MED%20MUZIK.png"
+    },
+    {
+      "name": "Medya Haber TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/MEDYAHABER%20TV.png"
+    },
+    {
+      "name": "Mercan TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d66a22d067a8f8b138ded6250af51b96.png"
+    },
+    {
+      "name": "Meteoroloji TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d94fdaf267a4e8b90406e4c874ea525d.png"
+    },
+    {
+      "name": "Milyon TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9cec2fac3280f7ab0d6b7cd35ec4eea7.png"
+    },
+    {
+      "name": "NTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SoBhuIb.png"
+    },
+    {
+      "name": "Natural TV",
+      "isFree": true
+    },
+    {
+      "name": "ON Medya Haber",
+      "isFree": true
+    },
+    {
+      "name": "ON4 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c8ebff73a4eaaf364684fc387d532231.png"
+    },
+    {
+      "name": "Ogün TV",
+      "isFree": true
+    },
+    {
+      "name": "Olay Türk TV",
+      "isFree": true
+    },
+    {
+      "name": "OlayTürk Kayseri",
+      "isFree": true
+    },
+    {
+      "name": "Petra TV",
+      "isFree": true
+    },
+    {
+      "name": "Power TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Power Turk",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "PowerTürk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Rehber TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Rudaw",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/RUDWA.png"
+    },
+    {
+      "name": "Samsun Canli Haber TV",
+      "isFree": true,
+      "shortName": "SCHT"
+    },
+    {
+      "name": "Sarıyer TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sat7 Pars",
+      "isFree": true
+    },
+    {
+      "name": "Sat7 Türk",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/17594be566a5d737e65f9762631c3d47.png"
+    },
+    {
+      "name": "Satranç TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TXDV1ty.png"
+    },
+    {
+      "name": "Semerkand TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/eea5d26940f4ba40e7453bf4b5536721.png"
+    },
+    {
+      "name": "Show TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d80e3b0f53c3f3c26299be9e7c819e09.png",
+      "priority": 9
+    },
+    {
+      "name": "Sinop Yildiz TV",
+      "isFree": true
+    },
+    {
+      "name": "Star TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png",
+      "priority": 9
+    },
+    {
+      "name": "Sterk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/bIheNAI.png"
+    },
+    {
+      "name": "Sun RTV",
+      "isFree": true
+    },
+    {
+      "name": "TGRT Belgesel TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/tgrteu.png"
+    },
+    {
+      "name": "TGRT EU",
+      "isFree": true
+    },
+    {
+      "name": "TLC TR",
+      "isFree": true,
+      "logo": "http://epg.one/img2/3968.png"
+    },
+    {
+      "name": "TR24 TV",
+      "isFree": true
+    },
+    {
+      "name": "TRT 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/j786OLG.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JrWFwBd.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Avaz",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e1c0bfecb6806ef1c27a9f19d4979240.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Belgesel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/38b82070f9b06e32f8ef74ec145a0309.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Diyanet",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "TRT EBA Ilkokul",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c28bf68ea3b95be6948a61c6acaa752c.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT EBA Lise",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c28bf68ea3b95be6948a61c6acaa752c.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT EBA Ortaokul",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c28bf68ea3b95be6948a61c6acaa752c.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Haber",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/28981426afc40ca9108b3e4c47aaafb3.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Kurdi",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/087184b26007753c1a8090a628558396.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Kurdî",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/087184b26007753c1a8090a628558396.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Muzik",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "priority": 10
+    },
+    {
+      "name": "TRT Türk",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527020436964545_73.png",
+      "priority": 10
+    },
+    {
+      "name": "TV 38",
+      "isFree": true
+    },
+    {
+      "name": "TV 41",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TV 52",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/dc26e92249a072935d14b6b0f15b2dbe.png"
+    },
+    {
+      "name": "TV 8",
+      "isFree": true
+    },
+    {
+      "name": "TV A",
+      "isFree": true,
+      "keywords": "tv a | tva",
+      "logo": "https://images.iptvmate.net/tvglogo/a846993e311c9867bab81abc583889d4.png"
+    },
+    {
+      "name": "TV DEN",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9f692a1eb583f0d0a0571678ce1a3a77.png"
+    },
+    {
+      "name": "TV Em",
+      "isFree": true,
+      "keywords": "tv em | tvem"
+    },
+    {
+      "name": "TV 4",
+      "isFree": true,
+      "keywords": "tv 4 | tv4 -hd turkiye",
+      "shortName": "TV4",
+      "logo": "https://i.imgur.com/WSvUsxy.png"
+    },
+    {
+      "name": "TV4 HD Türkiye",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5e75508e9365730fdb4df37fbfb3e2bf.png"
+    },
+    {
+      "name": "TVnet",
+      "isFree": true,
+      "logo": "https://i.imgur.com/r4rlHUt.png"
+    },
+    {
+      "name": "Tempo TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c6cc7f1f158a522fe05a314cce59d139.png"
+    },
+    {
+      "name": "Ton TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3c04c5c596ac3d290acea35b8f24fa78.png"
+    },
+    {
+      "name": "Toprak TV",
+      "isFree": true
+    },
+    {
+      "name": "Torba TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UçanKus TV",
+      "isFree": true
+    },
+    {
+      "name": "UçanKuş TV",
+      "isFree": true
+    },
+    {
+      "name": "V TV",
+      "isFree": true,
+      "keywords": "v tv | vtv",
+      "shortName": "VTV",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+    },
+    {
+      "name": "Vizyon 58 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a9016535d78dbe4e2bb7d7278ec37d73.png"
+    },
+    {
+      "name": "Vizyon TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b664b106f51539fcc4fe23647ac8c7a3.png"
+    },
+    {
+      "name": "Vuslat TV",
+      "isFree": true
+    },
+    {
+      "name": "YOL TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6c12e4d1a97e8e2e6038d738d7bd0c1f.png"
+    },
+    {
+      "name": "Yeni Malatyaspor TV",
+      "isFree": true,
+      "shortName": "YMT",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Yesilyurt TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c2f7d9aa3bed056ab361afe670beca05.png"
+    },
+    {
+      "name": "tivi TÜRK",
+      "isFree": true,
+      "keywords": "tivi turk | tiviturk"
+    },
+    {
+      "name": "Çiftçi TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/16fb085d00ddea147ca741b986d20ac9.png"
+    },
+    {
+      "name": "Öncü TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b8f387e6a9bd577bc637f07e1a322ea6.png"
+    },
+    {
+      "name": "Üniversite TV",
+      "isFree": true
+    },
+    {
+      "name": "ÜÜ TV Üsküdar Üniversitesi TV",
+      "isFree": true,
+      "shortName": "ÜTÜÜT"
+    },
+    {
+      "name": "Şaban TV",
+      "isFree": true
+    },
+    {
+      "name": "363 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "365 TV",
+      "isFree": true
+    },
+    {
+      "name": "4 Eylul TV",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "4U TV",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/4UTV.png",
+      "website": "https://4utv.tv/en/"
+    },
+    {
+      "name": "A2TV",
+      "isFree": true,
+      "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+      "website": "https://www.atv.com.tr/a2tv"
+    },
+    {
+      "name": "Afroturk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/fWlLvRA.png",
+      "website": "https://afroturktv.com/"
+    },
+    {
+      "name": "Agro TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png",
+      "website": "https://www.agrotv.com.tr/"
+    },
+    {
+      "name": "Ahi TV",
+      "isFree": true,
+      "keywords": "ahi tv -kirsehir",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYP1qGaCljqzrXZ3TydnVcVF8oK.jpg",
+      "website": "https://www.ahitv.com.tr/"
+    },
+    {
+      "name": "Anadolu Dernek TV",
+      "isFree": true
+    },
+    {
+      "name": "Anadolu Net TV",
+      "isFree": true,
+      "website": "https://www.anadolunettv.com/"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "keywords": "atv -+8 -alanya -avrupa",
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://www.atv.com.tr/",
+      "priority": 9
+    },
+    {
+      "name": "ATV +8",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Bartin TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://bartintv.com.tr/sayfa/kurumsal/canli-yayin-btv"
+    },
+    {
+      "name": "Baska TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wm47EEx.png",
+      "website": "https://baskatv.blogspot.com/"
+    },
+    {
+      "name": "BEA TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://beykenttv.com.tr/"
+    },
+    {
+      "name": "beIN Gurme",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.beingurme.com/"
+    },
+    {
+      "name": "beIN H&E",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/home-and-entertainment"
+    },
+    {
+      "name": "beIN IZ",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.beiniz.com/"
+    },
+    {
+      "name": "beIN Series Comedy",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "Benguturk TV",
+      "isFree": true,
+      "website": "https://www.benguturk.com/"
+    },
+    {
+      "name": "Bir TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDMJTS7m2ncDr1T8kGnOaUX1MdG.jpg",
+      "website": "https://birtv.tv/"
+    },
+    {
+      "name": "Bizimev TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/eJa6sFY.png"
+    },
+    {
+      "name": "BluTV Play 1",
+      "isFree": true,
+      "website": "https://www.blutvplay1.com/"
+    },
+    {
+      "name": "BluTV Play 2",
+      "isFree": true,
+      "website": "https://www.blutvplay2.com/"
+    },
+    {
+      "name": "Bric ve Satranc TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtb5CtWqRZWmRG8g07dhMW9MeUT.jpg",
+      "website": "http://www.itp.tv.tr/"
+    },
+    {
+      "name": "Cekmekoy TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/08d87e42a385983d74e73bc788b8e5fa.png",
+      "website": "https://www.cekmekoy.bel.tr/web-tv"
+    },
+    {
+      "name": "Cine 1",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "https://www.artidijitalmedya.com/embed/tv/cine1/"
+    },
+    {
+      "name": "CRI Turk Belgesel",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/PROTURK.png"
+    },
+    {
+      "name": "Deniz Postasi TV",
+      "isFree": true,
+      "website": "https://www.denizpostasi.com/"
+    },
+    {
+      "name": "Digiturk 4K",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png",
+      "website": "http://www.digiturk.com.tr/urunler-servisler/4k-teknolojisi"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "website": "http://www.discoverychannel.com.tr/",
+      "priority": 10
+    },
+    {
+      "name": "DiziSmart Max",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DIZISMART-MAX.png",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "DiziSmart Premium",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DIZISMART-MAX.png",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "DMAX",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/06/27/large/20220627220620803027_25.png",
+      "website": "https://www.dmax.com.tr/"
+    },
+    {
+      "name": "DRT Denizli",
+      "isFree": true,
+      "website": "https://www.drttv.com.tr/"
+    },
+    {
+      "name": "Edessa TV",
+      "isFree": true,
+      "website": "http://www.edessatv.com/"
+    },
+    {
+      "name": "Egem TV Usak",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.usakegemtv.com.tr/"
+    },
+    {
+      "name": "Ege Turk TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/metropol.png"
+    },
+    {
+      "name": "Ekin Turk",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LnNcvqE.png"
+    },
+    {
+      "name": "Elsharq TV",
+      "isFree": true,
+      "website": "http://elsharq.tv/"
+    },
+    {
+      "name": "EMAX",
+      "isFree": true,
+      "website": "https://www.emaxtv.com.tr"
+    },
+    {
+      "name": "ES TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FYt6wuObn6eK9CZWnMq4m2fkEJ.jpg",
+      "website": "http://www.estv.com.tr/"
+    },
+    {
+      "name": "ETV",
+      "isFree": true,
+      "keywords": "etv -kayseri -manisa",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
+      "website": "https://www.edirnetv.com/"
+    },
+    {
+      "name": "ETV Kayseri",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
+      "website": "https://www.etvkayseri.com/"
+    },
+    {
+      "name": "Euro D",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c03653551dd557737812f4953a9a10de.png",
+      "website": "http://eurod.kanald.com.tr/"
+    },
+    {
+      "name": "Eva TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg",
+      "website": "https://www.evatv.com.tr/"
+    },
+    {
+      "name": "Flash TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "website": "https://flashtv.com.tr/"
+    },
+    {
+      "name": "FM TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://www.fmtelevizyonu.com/"
+    },
+    {
+      "name": "Fortuna TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZbUSlOC.png",
+      "website": "http://www.fortunatv.com/"
+    },
+    {
+      "name": "Fox",
+      "isFree": true,
+      "keywords": "fox -crime",
+      "website": "https://www.nowtv.com.tr/"
+    },
+    {
+      "name": "FX",
+      "isFree": true,
+      "website": "https://www.fxturkiye.com.tr/"
+    },
+    {
+      "name": "Galatasaray TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.galatasaray.com"
+    },
+    {
+      "name": "GEM Comedy",
+      "isFree": true,
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Food",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SMtSinK.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Life",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gI8qePa.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM River",
+      "isFree": true,
+      "keywords": "gem river -+",
+      "logo": "https://i.imgur.com/yJ6f1B6.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM River +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Travel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Go2Travel",
+      "isFree": true,
+      "website": "https://go2travel.tv/live/#/?playlistId=0&videoId=0"
+    },
+    {
+      "name": "Gozde TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.gozdetv.com.tr/canli-tv"
+    },
+    {
+      "name": "Habitat",
+      "isFree": true,
+      "website": "http://habitattv.com.tr/"
+    },
+    {
+      "name": "Helwa TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "HRT Akdeniz TV",
+      "isFree": true
+    },
+    {
+      "name": "Kanal 1",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://www.kanal1.com.tr/"
+    },
+    {
+      "name": "Kanal 19",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.kanal19tv.com/"
+    },
+    {
+      "name": "Kanal 42",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://www.kanal42haber.com/"
+    },
+    {
+      "name": "Kanal 5",
+      "isFree": true,
+      "website": "http://kanal5.com.tr/"
+    },
+    {
+      "name": "Kanal 56",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://kanal56.net/canli-yayin/"
+    },
+    {
+      "name": "Kanal D Drama",
+      "isFree": true,
+      "website": "https://kanalddrama.com/"
+    },
+    {
+      "name": "Kanal Hayat",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "https://kanalhayat.com/"
+    },
+    {
+      "name": "Kanal Turk",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "http://www.kanalturk.com.tr/"
+    },
+    {
+      "name": "Kardelen TV",
+      "isFree": true,
+      "website": "http://kardelentv.com.tr/"
+    },
+    {
+      "name": "Kent Turk",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://www.kentturktv.com/"
+    },
+    {
+      "name": "Kocaeli TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/5970.png",
+      "website": "https://www.kocaelitv.com.tr/"
+    },
+    {
+      "name": "Konya Olay TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KONTVKONYA.png",
+      "website": "https://www.konyaolaytv.com/"
+    },
+    {
+      "name": "Koy TV",
+      "isFree": true,
+      "website": "https://www.koytv.tv/"
+    },
+    {
+      "name": "Koza TV",
+      "isFree": true,
+      "website": "https://kozatv.com.tr/"
+    },
+    {
+      "name": "Lider TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://lidertv.com.tr/"
+    },
+    {
+      "name": "Malatya Vuslat TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/FUaWv4s.png",
+      "website": "https://www.malatyavuslattv.com/"
+    },
+    {
+      "name": "Manisa TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
+      "website": "https://www.manisatv.com.tr/"
+    },
+    {
+      "name": "MedyaEvim TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.socialcreator.com/medyaevimtv"
+    },
+    {
+      "name": "Meltem TV",
+      "isFree": true,
+      "website": "http://www.meltemtv.com.tr/"
+    },
+    {
+      "name": "MTurk TV",
+      "isFree": true,
+      "website": "https://www.mturktv.com/"
+    },
+    {
+      "name": "NOW TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5EYjWK7.png",
+      "website": "https://www.nowtv.com.tr"
+    },
+    {
+      "name": "On 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Oncu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b8f387e6a9bd577bc637f07e1a322ea6.png",
+      "website": "https://www.oncurtv.com/"
+    },
+    {
+      "name": "Pamukkale TV",
+      "isFree": true,
+      "website": "http://pamukkaletv.com/"
+    },
+    {
+      "name": "PowerTurk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.powerapp.com.tr/powerturk/"
+    },
+    {
+      "name": "Qaf TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/QAF TV.png",
+      "website": "https://www.qaf.tv/"
+    },
+    {
+      "name": "Rumeli TV",
+      "isFree": true,
+      "website": "http://www.rumelitv.com.tr/"
+    },
+    {
+      "name": "Sariyer TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://sariyer.tv.tr/"
+    },
+    {
+      "name": "Show Max",
+      "isFree": true,
+      "logo": "https://i.imgur.com/456FWA7.png",
+      "website": "http://www.showmax.com.tr/"
+    },
+    {
+      "name": "Show Turk",
+      "isFree": true,
+      "website": "https://www.showturk.com.tr/"
+    },
+    {
+      "name": "Sinema Komedi",
+      "isFree": true,
+      "keywords": "sinema komedi -2",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://komedi.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema Komedi 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://komedi2.sinematv.com.tr/"
+    },
+    {
+      "name": "Sozcu TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/szctv.png",
+      "website": "https://www.szctv.com.tr/"
+    },
+    {
+      "name": "Spor Smart",
+      "isFree": true,
+      "keywords": "spor smart -2",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "Spor Smart 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "Tarih TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HbIGZUt.png",
+      "website": "http://tarihtv.com.tr/"
+    },
+    {
+      "name": "Tarim TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
+      "website": "https://www.tarimtv.gov.tr/"
+    },
+    {
+      "name": "Tatlises TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/LIONBOX.png",
+      "website": "http://tatlises.tv/"
+    },
+    {
+      "name": "TAY TV",
+      "isFree": true,
+      "website": "https://www.tjk.org/"
+    },
+    {
+      "name": "TBMM TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",
+      "website": "https://www.tbmm.gov.tr/"
+    },
+    {
+      "name": "Tek Rumeli TV",
+      "isFree": true,
+      "website": "http://www.tekrumelitv.com/"
+    },
+    {
+      "name": "Tele 1",
+      "isFree": true,
+      "website": "https://tele1.com.tr/"
+    },
+    {
+      "name": "TGRT Belgesel",
+      "isFree": true,
+      "keywords": "tgrt belgesel -tv",
+      "website": "https://www.tgrtbelgesel.com.tr/"
+    },
+    {
+      "name": "TGRT Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/tgrteu.png",
+      "website": "https://www.tgrteu.com/canliyayin/tgrteu.html"
+    },
+    {
+      "name": "Tivi 6",
+      "isFree": true,
+      "website": "https://tivi6.com.tr/"
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "keywords": "tlc -tr",
+      "website": "https://www.tlctv.com.tr/"
+    },
+    {
+      "name": "TMB",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/HjDCFmMd/tmb.png",
+      "website": "https://www.tmb.tv/"
+    },
+    {
+      "name": "TR 35",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://tr35.com.tr/"
+    },
+    {
+      "name": "Trabzon Buyuksehir Belediyesi TV",
+      "isFree": true,
+      "website": "https://tbbweb.tv/"
+    },
+    {
+      "name": "Trakya Turk",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/PqskSYD9/trakyaturk.png",
+      "website": "https://trakyaturktv.com/canli-yayin"
+    },
+    {
+      "name": "TRT 4K",
+      "isFree": true,
+      "website": "http://www.trt.net.tr/",
+      "priority": 10
+    },
+    {
+      "name": "TRT Turk",
+      "isFree": true,
+      "keywords": "trt turk -+8",
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527020436964545_73.png",
+      "website": "https://www.trtturk.com.tr/",
+      "priority": 10
+    },
+    {
+      "name": "TRT Turk +8",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "https://www.trtturk.com.tr/",
+      "priority": 10
+    },
+    {
+      "name": "Turksat Saat",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/320px-T%C3%BCrksat_logo.svg.png"
+    },
+    {
+      "name": "Turksat Tanitim",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/320px-T%C3%BCrksat_logo.svg.png"
+    },
+    {
+      "name": "TV 1",
+      "isFree": true,
+      "website": "http://www.tvbir.com.tr/"
+    },
+    {
+      "name": "TV 100",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9rtf8OR.png",
+      "website": "https://www.tv100.com/"
+    },
+    {
+      "name": "tv2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VEb631f.png",
+      "website": "https://www.tv2.com.tr/"
+    },
+    {
+      "name": "TV 264",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv264.com.tr/"
+    },
+    {
+      "name": "TV 35",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV 5",
+      "isFree": true,
+      "website": "https://www.tv5.com.tr/"
+    },
+    {
+      "name": "TV 8.5",
+      "isFree": true
+    },
+    {
+      "name": "TV8int",
+      "isFree": true,
+      "website": "https://www.tv8.com.tr/sayfa-tv8-international"
+    },
+    {
+      "name": "TV Kayseri",
+      "isFree": true,
+      "website": "https://tvkayseri.com.tr/"
+    },
+    {
+      "name": "TVO",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wFC6Xxq.png"
+    },
+    {
+      "name": "TYT Turk",
+      "isFree": true,
+      "logo": "https://tytturk.com/upload/tyt-logo.png",
+      "website": "https://tytturk.com/"
+    },
+    {
+      "name": "UcanKus TV",
+      "isFree": true,
+      "website": "https://www.ucankus.com/"
+    },
+    {
+      "name": "Ulke TV",
+      "isFree": true,
+      "website": "https://www.ulketv.com.tr/"
+    },
+    {
+      "name": "Ulusal Kanal",
+      "isFree": true,
+      "website": "https://www.ulusal.com.tr/"
+    },
+    {
+      "name": "Universal TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/r2rvwTsT/image.png",
+      "website": "http://www.universaltv.com.tr/"
+    },
+    {
+      "name": "Universite TV",
+      "isFree": true,
+      "website": "https://www.universitetv.com.tr/"
+    },
+    {
+      "name": "Urfa Natik TV",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALURFA.png",
+      "website": "https://urfanatiktv.com/"
+    },
+    {
+      "name": "Uskudar Universitesi Televizyonu 1",
+      "isFree": true,
+      "website": "https://tv.uskudar.edu.tr/"
+    },
+    {
+      "name": "UU TV 1",
+      "isFree": true,
+      "website": "https://tv.uskudar.edu.tr/"
+    },
+    {
+      "name": "UU TV 2",
+      "isFree": true,
+      "website": "https://tv.uskudar.edu.tr/"
+    },
+    {
+      "name": "Vatan TV",
+      "isFree": true
+    },
+    {
+      "name": "Vav TV",
+      "isFree": true,
+      "website": "https://www.vavtv.com.tr/"
+    },
+    {
+      "name": "Woman TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "website": "https://www.womantv.com.tr/"
+    },
+    {
+      "name": "World Turk TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://worldturk.com.tr/world-turk-tv-canli-yayin-izle/"
+    },
+    {
+      "name": "Yaban TV",
+      "isFree": true,
+      "website": "https://www.yabantv.com/"
+    },
+    {
+      "name": "Yildiz TV En",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/trtspor.png",
+      "website": "http://www.yildiztv.com.tr/"
+    },
+    {
+      "name": "Zarok TV",
+      "isFree": true,
+      "logo": "https://go4.pw/KURDISH/Zarok TV HD.png",
+      "website": "https://zaroktv.com.tr/"
+    },
+    {
+      "name": "Aksu TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6441af2bc7bab3f4345a4351ef832a50.png",
+      "website": "https://www.aksutv.com.tr/"
+    },
+    {
+      "name": "Altas TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1dffd5ad13b58e1306075b27b92d7198.png",
+      "website": "http://www.altastv.com.tr/"
+    },
+    {
+      "name": "Aras TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6dfb4db6f17b168beb0f578b0af53be1.png",
+      "website": "http://aras.tv/"
+    },
+    {
+      "name": "ERTV",
+      "isFree": true,
+      "website": "http://www.ertv.com.tr/"
+    },
+    {
+      "name": "Gaziantep Olay TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/76219da2ff05cf5636da41d6060b9a49.png",
+      "website": "https://www.olaymedya.com/"
+    },
+    {
+      "name": "Kanal 58",
+      "isFree": true,
+      "website": "https://kanal58.com.tr/"
+    },
+    {
+      "name": "Kanal Avrupa",
+      "isFree": true,
+      "website": "https://www.kanal7.com/"
+    },
+    {
+      "name": "MaviKaradeniz TV",
+      "isFree": true,
+      "website": "http://www.mavikaradeniztv.com.tr/"
+    },
+    {
+      "name": "On4 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c8ebff73a4eaaf364684fc387d532231.png",
+      "website": "http://www.on4.com.tr/"
+    },
+    {
+      "name": "TVA",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+      "website": "https://tva.com.tr/?page_id=3683"
+    },
+    {
+      "name": "TV Den",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9f692a1eb583f0d0a0571678ce1a3a77.png",
+      "website": "https://tvden.com.tr/"
+    },
+    {
+      "name": "TvEM",
+      "isFree": true
+    },
+    {
+      "name": "TVNET",
+      "isFree": true,
+      "logo": "https://i.imgur.com/r4rlHUt.png",
+      "website": "https://www.tvnet.com.tr/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Misk FM",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 4
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cine5 TV",
+      "isFree": false
+    },
+    {
+      "name": "beIN Box Office 1",
+      "isFree": true,
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Box Office 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Box Office 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Action",
+      "isFree": true,
+      "keywords": "bein movies action -2",
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Action 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Family",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Premiere",
+      "isFree": true,
+      "keywords": "bein movies premiere -2",
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Premiere 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Stars",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Movies Turk",
+      "isFree": true,
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Series Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Series Sci-Fi",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "beIN Series Vice",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
+      "website": "http://www.digiturk.com.tr/"
+    },
+    {
+      "name": "Cine5",
+      "isFree": true,
+      "keywords": "cine5 -tv",
+      "website": "http://cine5tv.com.tr/"
+    },
+    {
+      "name": "Fox Crime",
+      "isFree": true,
+      "website": "https://www.foxchannels.com.tr/"
+    },
+    {
+      "name": "GEM Academy",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Bollywood",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2XASeBk.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Classic",
+      "isFree": true,
+      "logo": "https://i.imgur.com/25BhuOf.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Drama",
+      "isFree": true,
+      "keywords": "gem drama -+",
+      "logo": "https://i.imgur.com/k2pGyRH.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Drama +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Film",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nrFz3LU.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Onyx",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gXRIAw4.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Pixel",
+      "isFree": true,
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Rubix",
+      "isFree": true,
+      "keywords": "gem rubix -+",
+      "logo": "https://i.imgur.com/cDjOj58.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Rubix +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Series",
+      "isFree": true,
+      "keywords": "gem series -+",
+      "logo": "https://i.imgur.com/M0WMDXm.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Series +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM TV",
+      "isFree": true,
+      "keywords": "gem tv -+",
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM TV +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Grand Cinema",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+      "website": "https://grandcinema.wns.live/"
+    },
+    {
+      "name": "GZT",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png",
+      "website": "https://www.gzt.com/"
+    },
+    {
+      "name": "MovieSmart Classic",
+      "isFree": true,
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "MovieSmart Premium",
+      "isFree": true,
+      "keywords": "moviesmart premium -2",
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "MovieSmart Premium 2",
+      "isFree": true,
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "MovieSmart Turk",
+      "isFree": true,
+      "website": "https://www.dsmart.com.tr/"
+    },
+    {
+      "name": "Sinema 1001",
+      "isFree": true,
+      "website": "http://1001.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema 1002",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://1002.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://sinematv2.com.tr/"
+    },
+    {
+      "name": "Sinema Aile",
+      "isFree": true,
+      "keywords": "sinema aile -2",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://sinematvaile.com.tr/"
+    },
+    {
+      "name": "Sinema Aile 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://aile2.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema Aksiyon",
+      "isFree": true,
+      "keywords": "sinema aksiyon -2",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://aksiyon.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema Aksiyon 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://aksiyon2.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema TV",
+      "isFree": true,
+      "website": "http://sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema Yerli",
+      "isFree": true,
+      "keywords": "sinema yerli -2",
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://yerli.sinematv.com.tr/"
+    },
+    {
+      "name": "Sinema Yerli 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "http://yerli2.sinematv.com.tr/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "AMC TV",
+      "isFree": true,
+      "website": "https://amc.wns.live/"
+    },
+    {
+      "name": "Dream Turk",
+      "isFree": true,
+      "website": "https://www.dreamturk.com.tr/"
+    },
+    {
+      "name": "GEM 24B",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Arabia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM AZ",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Mifa",
+      "isFree": true,
+      "keywords": "gem mifa -+",
+      "logo": "https://i.imgur.com/qlI7o7V.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Mifa +",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Kral Pop TV",
+      "isFree": true,
+      "website": "https://www.kralmuzik.com.tr/tv/kral-pop-tv"
+    },
+    {
+      "name": "Med Muzik",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/KURDISTAN/MED%20MUZIK.png",
+      "website": "http://medmuzik.tv/"
+    },
+    {
+      "name": "Number 1 Ask",
+      "isFree": true,
+      "website": "https://www.numberone.com.tr/"
+    },
+    {
+      "name": "Number 1 Damar",
+      "isFree": true,
+      "website": "https://www.numberone.com.tr/"
+    },
+    {
+      "name": "Number 1 Dance",
+      "isFree": true,
+      "website": "https://www.numberone.com.tr/"
+    },
+    {
+      "name": "Number 1 Turk",
+      "isFree": true,
+      "website": "https://www.numberone.com.tr/"
+    },
+    {
+      "name": "Number 1 TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uJkLigRamfHerFSkfFOCMqH0pi.jpg",
+      "website": "http://www.numberone.com.tr/"
+    },
+    {
+      "name": "Power Dance",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerdance/"
+    },
+    {
+      "name": "Power Love",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerlove/"
+    },
+    {
+      "name": "Power Plus",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "https://www.powerapp.com.tr/powerplus/"
+    },
+    {
+      "name": "PowerTurk Akustik",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerturkakustik/"
+    },
+    {
+      "name": "PowerTurk En Iyiler",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerturkbestof/"
+    },
+    {
+      "name": "PowerTurk Slow",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerturkslow/"
+    },
+    {
+      "name": "PowerTurk Taptaze",
+      "isFree": true,
+      "website": "https://www.powerapp.com.tr/radios/powerturktaptaze/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Animal Planet",
+      "isFree": true,
+      "logo": "http://epg.one/img2/365.png"
+    },
+    {
+      "name": "CGTN Documentary",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png",
+      "website": "https://puhutv.com/cgtn-documentary-canli-yayin-detay"
+    },
+    {
+      "name": "Ciftci TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/16fb085d00ddea147ca741b986d20ac9.png",
+      "website": "https://www.ciftcitv.com/"
+    },
+    {
+      "name": "GEM Latino",
+      "isFree": true,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "GEM Nature",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ENvOMDQ.png",
+      "website": "https://www.gemgroup.tv/"
+    },
+    {
+      "name": "Karadeniz TV",
+      "isFree": true,
+      "website": "http://www.karadeniztv.com.tr/"
+    },
+    {
+      "name": "KRT",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/krt.png",
+      "website": "http://www.krttv.com.tr/"
+    },
+    {
+      "name": "Luys TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARMENIA/LUYS AM.png",
+      "website": "http://luys.tv/"
+    },
+    {
+      "name": "Nat Geo People",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://www.natgeotv.com/tr",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/tr/wild",
+      "priority": 9
+    },
+    {
+      "name": "NTR TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ntrtv.com.tr/"
+    },
+    {
+      "name": "TRT EBA",
+      "isFree": true,
+      "keywords": "trt eba -ilkokul -lise -ortaokul",
+      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png",
+      "website": "https://eba.gov.tr/",
+      "priority": 10
+    },
+    {
+      "name": "Viasat Explore",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "website": "https://www.viasatexplore.com.tr/"
+    },
+    {
+      "name": "Viasat History",
+      "isFree": true,
+      "website": "https://viasathd.com.tr/"
+    }
+  ]
+}

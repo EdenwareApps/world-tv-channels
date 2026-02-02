@@ -1,0 +1,1087 @@
+{
+  "News": [
+    {
+      "name": "Phoenix InfoNews Channel",
+      "isFree": true,
+      "shortName": "PIC",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg"
+    },
+    {
+      "name": "鳳凰衛視資訊台HD",
+      "isFree": true
+    },
+    {
+      "name": "HKIBC",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "http://www.hkibchannel.com.hk/"
+    },
+    {
+      "name": "i-CABLE Finance Info Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylUON8YA2qDS0QlQGUHdKtWm2OT.jpg",
+      "website": "http://epg.i-cable.com/ci/channel/epg/151/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Live News Channel",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://cablenews.i-cable.com/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "http://cablenews.i-cable.com/",
+      "priority": 4
+    },
+    {
+      "name": "Mainland News Channel",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CMN1"
+    },
+    {
+      "name": "now Business News Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "http://finance.now.com/"
+    },
+    {
+      "name": "now Direct",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/331/1"
+    },
+    {
+      "name": "now News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "http://news.now.com/"
+    },
+    {
+      "name": "RTHK TV 35",
+      "isFree": true,
+      "website": "https://www.rthk.hk/tv",
+      "priority": 9
+    },
+    {
+      "name": "TVB Finance Sports & Information Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/A",
+      "priority": 9
+    },
+    {
+      "name": "TVB News Channel",
+      "isFree": true,
+      "website": "http://programme.tvb.com/tvbnewschannel",
+      "priority": 9
+    },
+    {
+      "name": "TVB",
+      "isFree": null,
+      "keywords": "tvb -asian select -chinese drama -chinese opera channel -classic -classic movies -finance sports & information channel -food -hd jade -j1 -j5 -jade -japanese drama -network vision -news channel -pearl -plus -xing he",
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 10
+    },
+    {
+      "name": "Radio Television Hong Kong",
+      "isFree": null,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "HK Television Entertainment",
+      "isFree": null,
+      "logo": "https://go4.pw/VIP/4k_ultra.png"
+    },
+    {
+      "name": "I-CABLE HOY",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png",
+      "priority": 4
+    },
+    {
+      "name": "Asia Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/tvbs.png"
+    },
+    {
+      "name": "Commercial Television (Hong Kong TV station)",
+      "isFree": null
+    },
+    {
+      "name": "New Asia Network",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "Hong Kong Television Network",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iq3jIltYvTkedLSEGJ0eBR5fSa.jpg"
+    },
+    {
+      "name": "Now TV (Hong Kong)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+    },
+    {
+      "name": "Cable TV Hong Kong",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "TVB Network Vision",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "HOY International Business Channel",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png"
+    },
+    {
+      "name": "TVB Jade",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "TVB Plus",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "TVB Pearl",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "This channel was not broadcast on terrestrial television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mto8rcrwO12dvWCN2h0ZCwgiOlx.jpg"
+    },
+    {
+      "name": "rowspan=\"13\"",
+      "isFree": null
+    },
+    {
+      "name": "His TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/da95rurNghmKWmraPyqP6IsnAt1.jpg"
+    },
+    {
+      "name": "her TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c3rU9R5oYexKFWaAHAc195B0RN.jpg"
+    },
+    {
+      "name": "Plus TV",
+      "isFree": null
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": null
+    },
+    {
+      "name": "CTi International",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/CTI.png"
+    },
+    {
+      "name": "ATV HDTV",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "ATV Asia",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "CCTV-1",
+      "isFree": null
+    },
+    {
+      "name": "ATV Classic",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "Southern Television Guangdong",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S0w1oII4PQHMnLb4L4aB3Ij4ip.jpg"
+    },
+    {
+      "name": "TVB HD Jade",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "TVB J5",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "83}}",
+      "isFree": null
+    },
+    {
+      "name": "{{nowrap",
+      "isFree": null
+    },
+    {
+      "name": "{{lang",
+      "isFree": null
+    },
+    {
+      "name": "[[His TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[her TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Plus TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Southern Television Guangdong",
+      "isFree": null
+    }
+  ],
+  "Travel": [
+    {
+      "name": "亞旅衛視",
+      "isFree": true
+    }
+  ],
+  "Shop": [
+    {
+      "name": "耀才財經台",
+      "isFree": true
+    },
+    {
+      "name": "BSTV",
+      "isFree": true,
+      "website": "http://bschannel.com/zh"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Celestial Movies",
+      "isFree": false,
+      "logo": "https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png"
+    },
+    {
+      "name": "Asian Action Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
+      "website": "http://b.tvb.com/tvbi/2017/04/25/malaysia-jadepack/"
+    },
+    {
+      "name": "CCM",
+      "isFree": true,
+      "website": "https://www.cmclassic.tv/index.php?location/HK"
+    },
+    {
+      "name": "Celestial Movies Pinoy",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "website": "https://www.cmpinoy.com.ph/"
+    },
+    {
+      "name": "Classic Movies",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519075921354843_41.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CCLM"
+    },
+    {
+      "name": "Fox Action Movies MENA",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Fox Action Movies Southeast Asia",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://foxactionmovies.foxmoviesasia.com/"
+    },
+    {
+      "name": "i-CABLE Cable Movies",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "website": "http://epg.i-cable.com/ci/channel/epg/251/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Cine p.",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/becine.png",
+      "website": "http://epg.i-cable.com/ci/channel/epg/253/",
+      "priority": 4
+    },
+    {
+      "name": "Mei Ah Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "http://www.matv.com.hk/drama.aspx"
+    },
+    {
+      "name": "Mei Ah Movie Channel",
+      "isFree": true,
+      "website": "http://www.matv.com.hk/film.aspx"
+    },
+    {
+      "name": "Movie Movie",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/116/1"
+    },
+    {
+      "name": "now Baogu Movies",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/133/1"
+    },
+    {
+      "name": "now Baogu Superstars",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/138/1"
+    },
+    {
+      "name": "now Video Express",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/106/1"
+    },
+    {
+      "name": "Phoenix Movies Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "website": "http://ent.ifeng.com/movie"
+    },
+    {
+      "name": "Star Chinese Movies",
+      "isFree": true,
+      "keywords": "star chinese movies -legend",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://www.dngtw.tw/scm/"
+    },
+    {
+      "name": "Star Chinese Movies Legend",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Star Entertainment Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://www.dngtw.tw/sec/"
+    },
+    {
+      "name": "Thrill",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg",
+      "website": "http://www.thrill-tv.com/"
+    },
+    {
+      "name": "TVB Classic",
+      "isFree": true,
+      "keywords": "tvb classic -movies",
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://programme.tvb.com/tvbclassic",
+      "priority": 9
+    },
+    {
+      "name": "TVB Classic Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://programme.tvb.com/tvbclassicmovies/",
+      "priority": 9
+    },
+    {
+      "name": "tvN Movies Asia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "https://tvnmovies.net/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Creation TV",
+      "isFree": true
+    },
+    {
+      "name": "HKSTV",
+      "isFree": true
+    },
+    {
+      "name": "Phoenix Hong Kong Channel",
+      "isFree": true,
+      "shortName": "PHKC",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg"
+    },
+    {
+      "name": "RTHK",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "TVB J1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 9
+    },
+    {
+      "name": "ViuTV",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "iMode TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "香港开电视 / HKSTV-HKS",
+      "isFree": true
+    },
+    {
+      "name": "香港衛視",
+      "isFree": true
+    },
+    {
+      "name": "Asian Drama",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CTVS"
+    },
+    {
+      "name": "Asian Variety",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CWIN"
+    },
+    {
+      "name": "Asia Travel Satellite TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvbs.png",
+      "website": "http://www.ctstvnet.com/"
+    },
+    {
+      "name": "ATV Home",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "http://www.hkatv.com/"
+    },
+    {
+      "name": "Channel Adult",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/903/1"
+    },
+    {
+      "name": "Channel Blue",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://epg.i-cable.com/ci/channel/epg/901/"
+    },
+    {
+      "name": "Channel Fire",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://epg.i-cable.com/ci/channel/epg/902/"
+    },
+    {
+      "name": "Chinese Drama",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CDR3"
+    },
+    {
+      "name": "CHTV",
+      "isFree": true,
+      "website": "http://www.chtv.com.hk/"
+    },
+    {
+      "name": "Entertainment News",
+      "isFree": true,
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CTVE"
+    },
+    {
+      "name": "Golden Jade",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/TVG"
+    },
+    {
+      "name": "HKI TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.hongkongitv.com/pc_news/news_list/cid-2"
+    },
+    {
+      "name": "HOY Infotainment",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png",
+      "website": "https://hoy.tv/live?channel_no=78"
+    },
+    {
+      "name": "HOY TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png",
+      "website": "https://hoy.tv/",
+      "priority": 8
+    },
+    {
+      "name": "i-CABLE Family Entertainment Channel",
+      "isFree": true,
+      "website": "http://epg.i-cable.com/ci/channel/epg/371/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE No.1 Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Ice Fire",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/901/1"
+    },
+    {
+      "name": "J2",
+      "isFree": true,
+      "logo": "https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1762940270646.png",
+      "website": "https://programme.tvb.com/j2"
+    },
+    {
+      "name": "Jade",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGHaEtBz6AXqGVooaADB1tlyjBp.jpg",
+      "website": "http://programme.tvb.com/jade/"
+    },
+    {
+      "name": "KIX",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114164852936879_83.png",
+      "website": "http://www.kix-tv.com/"
+    },
+    {
+      "name": "Macau Cultural Channel",
+      "isFree": true,
+      "website": "https://programme.tvb.com/asianselect"
+    },
+    {
+      "name": "MIHK TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.mihk.tv/"
+    },
+    {
+      "name": "now Chinese Drama Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/105/1"
+    },
+    {
+      "name": "now Data",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/336/1"
+    },
+    {
+      "name": "now Jelli",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/108/1"
+    },
+    {
+      "name": "OneTV",
+      "isFree": true,
+      "website": "http://www.one-tv.com/"
+    },
+    {
+      "name": "Pearl",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+      "website": "https://programme.tvb.com/pearl/"
+    },
+    {
+      "name": "Pet Club TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png",
+      "website": "https://www.lightninginternational.net/channels"
+    },
+    {
+      "name": "Phoenix Chinese Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "website": "http://phtv.ifeng.com/"
+    },
+    {
+      "name": "Phoenix CNE Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "website": "http://www.pcne.tv/"
+    },
+    {
+      "name": "Phoenix North America Chinese Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "website": "http://www.ifengus.com/"
+    },
+    {
+      "name": "RTHK TV 31",
+      "isFree": true,
+      "website": "https://www.rthk.hk/",
+      "priority": 9
+    },
+    {
+      "name": "RTHK TV 32",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c0a8abc41c215823af4784f841726f04.png",
+      "website": "https://www.rthk.hk/",
+      "priority": 9
+    },
+    {
+      "name": "RTHK TV 33",
+      "isFree": true,
+      "website": "https://www.rthk.hk/",
+      "priority": 9
+    },
+    {
+      "name": "RTHK TV 34",
+      "isFree": true,
+      "website": "https://www.rthk.hk/",
+      "priority": 9
+    },
+    {
+      "name": "Star Chinese Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://www.dngtw.tw/scc/"
+    },
+    {
+      "name": "Star Xing Kong",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "http://www.xingkong.com.cn/"
+    },
+    {
+      "name": "Sun TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
+      "website": "https://www.isuntv.com/zh/index"
+    },
+    {
+      "name": "TVB Asian Select",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://programme.tvb.com/asianselect",
+      "priority": 9
+    },
+    {
+      "name": "TVB Chinese Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://programme.tvb.com/tvbchinesedrama",
+      "priority": 9
+    },
+    {
+      "name": "TVB Chinese Opera Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://www.mytvsuper.com/en/epg/98/Chinese%20Opera%20Channel/",
+      "priority": 9
+    },
+    {
+      "name": "TVB Food",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://programme.tvb.com/tvbfood",
+      "priority": 9
+    },
+    {
+      "name": "TVB Japanese Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://programme.tvb.com/tvbjapanesedrama/",
+      "priority": 9
+    },
+    {
+      "name": "TVB Xing He",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "http://www.tvb.com/xinghe/",
+      "priority": 9
+    },
+    {
+      "name": "tvN Asia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "website": "https://www.tvnasia.net/"
+    },
+    {
+      "name": "Universal Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg"
+    },
+    {
+      "name": "Viu Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/102/1"
+    },
+    {
+      "name": "ViuTVsix",
+      "isFree": true,
+      "website": "http://viu.tv/",
+      "priority": 9
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Ani-One",
+      "isFree": true,
+      "website": "https://www.medialink.com.hk/en/Anione.aspx"
+    },
+    {
+      "name": "Hands Up Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLklPg1OGJu7zjHhIyz9b6fjRuJ.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/KID"
+    },
+    {
+      "name": "Miao Mi",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12qaWw3KntFPoOCEJFSCLAuL7rN.jpg",
+      "website": "https://www.miaomi-tv.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Channel V",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://www.vchinese.com/"
+    },
+    {
+      "name": "Chinese Opera Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/CCOC"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "i-CABLE Channel 18",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "http://epg.i-cable.com/new/ch_content.php?ch=618",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE HD 603",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png",
+      "website": "http://www.cabletv.com.hk/ct/cabletv.php?id=5&cid=86",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Horse Racing 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYrcvHLJPhvCQyinyE4pB07Gkjj.jpg",
+      "website": "http://epg.i-cable.com/ci/channel/epg/668/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Horse Racing 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYrcvHLJPhvCQyinyE4pB07Gkjj.jpg",
+      "website": "http://epg.i-cable.com/ci/channel/epg/669/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Sports Channel",
+      "isFree": true,
+      "website": "http://sports.i-cable.com/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Sports Plus 1",
+      "isFree": true,
+      "website": "http://epg.i-cable.com/ci/channel/epg/662/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Sports Plus 2",
+      "isFree": true,
+      "website": "http://epg.i-cable.com/ci/channel/epg/664/",
+      "priority": 4
+    },
+    {
+      "name": "i-CABLE Sports Plus 3",
+      "isFree": true,
+      "website": "http://epg.i-cable.com/ci/channel/epg/665/",
+      "priority": 4
+    },
+    {
+      "name": "myTV SUPER 18",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/C18"
+    },
+    {
+      "name": "myTV SUPER Live Soccer 1",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/EVT1"
+    },
+    {
+      "name": "myTV SUPER Live Soccer 2",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/EVT2"
+    },
+    {
+      "name": "myTV SUPER Live Soccer 3",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/EVT3"
+    },
+    {
+      "name": "myTV SUPER Live Soccer 4",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/EVT4"
+    },
+    {
+      "name": "myTV SUPER Live Soccer 5",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png",
+      "website": "https://promo.mytvsuper.com/en/epg-channel/EVT5"
+    },
+    {
+      "name": "now 668",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/668/1"
+    },
+    {
+      "name": "now Golf 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/683/1"
+    },
+    {
+      "name": "now Golf 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/684/1"
+    },
+    {
+      "name": "now Sports",
+      "isFree": true,
+      "keywords": "now sports -1 -2 -3 -4 -4k 1 -4k 2 -4k 616 -4k 617 -5 -6 -618 -619 -650 -651 -681 -7 -plus -premier league 1 -premier league 2 -premier league 3 -premier league 4 -premier league 5 -premier league 6 -premier league tv -prime",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/600/1"
+    },
+    {
+      "name": "now Sports 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/631/1"
+    },
+    {
+      "name": "now Sports 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/632/1"
+    },
+    {
+      "name": "now Sports 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/633/1"
+    },
+    {
+      "name": "now Sports 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/634/1"
+    },
+    {
+      "name": "now Sports 4K 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/611/1"
+    },
+    {
+      "name": "now Sports 4K 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/612/1"
+    },
+    {
+      "name": "now Sports 4K 616",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/616/1"
+    },
+    {
+      "name": "now Sports 4K 617",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/617/1"
+    },
+    {
+      "name": "now Sports 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/635/1"
+    },
+    {
+      "name": "now Sports 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/636/1"
+    },
+    {
+      "name": "now Sports 618",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/618/1"
+    },
+    {
+      "name": "now Sports 619",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/619/1"
+    },
+    {
+      "name": "now Sports 650",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/650/1"
+    },
+    {
+      "name": "now Sports 651",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/651/1"
+    },
+    {
+      "name": "now Sports 681",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/681/1"
+    },
+    {
+      "name": "now Sports 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/637/1"
+    },
+    {
+      "name": "now Sports Plus",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/680/1"
+    },
+    {
+      "name": "now Sports Premier League 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/621/1"
+    },
+    {
+      "name": "now Sports Premier League 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/622/1"
+    },
+    {
+      "name": "now Sports Premier League 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/623/1"
+    },
+    {
+      "name": "now Sports Premier League 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/624/1"
+    },
+    {
+      "name": "now Sports Premier League 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/625/1"
+    },
+    {
+      "name": "now Sports Premier League 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/626/1"
+    },
+    {
+      "name": "now Sports Premier League TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/620/1"
+    },
+    {
+      "name": "now Sports Prime",
+      "isFree": true,
+      "website": "https://nowplayer.now.com/tvguide/channeldetail/630/1"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.com/hk",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 9
+    },
+    {
+      "name": "now International",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "website": "http://nowtv.now.com/overseas/us/channel?lang=zh"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Taoist TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.taoist.tv/"
+    }
+  ]
+}

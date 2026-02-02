@@ -1,0 +1,1904 @@
+{
+  "Entertainment": [
+    {
+      "name": "AkíTV",
+      "isFree": true
+    },
+    {
+      "name": "Amé 47",
+      "isFree": true
+    },
+    {
+      "name": "CDN 2",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-8VnLdErnceY/X3PN2XnCb4I/AAAAAAAABs0/_2S2NnKKU9ArQNF3ywESglu7QggvNb0oACLcBGAsYHQ/w200-h200/CDN%2B2%2BRep%25C3%25BAblica%2BDominicana.png",
+      "priority": 9
+    },
+    {
+      "name": "CDN Noticias",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/cdn.png",
+      "priority": 9
+    },
+    {
+      "name": "Canal 12",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-MdqA5PamLBA/X3OxKXxQWBI/AAAAAAAABpo/DvvR5gd6iUQPU6pEwshQ-pZPYi8kTn_TwCLcBGAsYHQ/w200-h200/Canal%2B12%2BNicaragua.jpg"
+    },
+    {
+      "name": "Canal 56",
+      "isFree": true
+    },
+    {
+      "name": "Canal Amé 47",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Carivision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Comunion TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "DAN TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png"
+    },
+    {
+      "name": "Digital Vision",
+      "isFree": true
+    },
+    {
+      "name": "Ecovisión",
+      "isFree": true
+    },
+    {
+      "name": "Fuego TV",
+      "isFree": true
+    },
+    {
+      "name": "GDMTV",
+      "isFree": true
+    },
+    {
+      "name": "GH Television Canal 10",
+      "isFree": true,
+      "shortName": "GTC1",
+      "logo": "https://go4.pw/AFRICA/ghone.png"
+    },
+    {
+      "name": "HM",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/HMTV.png"
+    },
+    {
+      "name": "Hermanas Mirabal TV",
+      "isFree": true,
+      "shortName": "HMT"
+    },
+    {
+      "name": "Hilando Fino",
+      "isFree": true
+    },
+    {
+      "name": "LA MIA TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "LVM",
+      "isFree": true
+    },
+    {
+      "name": "Megavision Canal 43",
+      "isFree": true,
+      "shortName": "MC4",
+      "logo": "https://go4.pw/LATINO/Telecentro.png"
+    },
+    {
+      "name": "Microvision 10",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Mision ELTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm7vCE7CNyjQpRu8SLGjRl5FMMF.jpg"
+    },
+    {
+      "name": "ORBIT TV",
+      "isFree": true
+    },
+    {
+      "name": "PH",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/One-PH.png"
+    },
+    {
+      "name": "PHTV Canal 34",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "Punta Cana TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Canal 7 Punta.png"
+    },
+    {
+      "name": "RNN",
+      "isFree": true
+    },
+    {
+      "name": "Ready TV Canal 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyyl6QtYhZIc6Rs3tnN1M6c4Bjs.jpg"
+    },
+    {
+      "name": "Romana TV Canal 42",
+      "isFree": true,
+      "shortName": "RTC4",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "San Isidro TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg"
+    },
+    {
+      "name": "SiTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Super Canal 33",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "Super TV 55",
+      "isFree": true
+    },
+    {
+      "name": "TDN Medios",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TDN.png"
+    },
+    {
+      "name": "TV Montaña Canal 10",
+      "isFree": true,
+      "shortName": "TMC1",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TV Plata",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Éxitos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVS",
+      "isFree": true
+    },
+    {
+      "name": "TeleBendicion",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TeleCibao",
+      "isFree": true
+    },
+    {
+      "name": "Telecanal 28",
+      "isFree": true
+    },
+    {
+      "name": "Telefuturo Canal 23",
+      "isFree": true,
+      "shortName": "TC2"
+    },
+    {
+      "name": "Teleimpacto",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/--jtE6WTdsB4/X3PN78YozrI/AAAAAAAABts/obqY95w0pB4QvLTgKP_oCM8ZGhjzetsSQCLcBGAsYHQ/w200-h200/Tele%2Bimpacto%2BRep%25C3%25BAblica%2BDominicana.png"
+    },
+    {
+      "name": "Telemicro",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-HImsRlXb3MU/X3PN8Zg_gzI/AAAAAAAABtw/_6CWiInP2mYSy3pGCNa1JSe5LXYpI0AJwCLcBGAsYHQ/w200-h200/Tele%2Bmicro%2Brep%25C3%25BAblica%2BDominicana.png",
+      "priority": 9
+    },
+    {
+      "name": "Telemilenio",
+      "isFree": true
+    },
+    {
+      "name": "Telenord 12",
+      "isFree": true
+    },
+    {
+      "name": "Telenord 8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yqXORkt.png"
+    },
+    {
+      "name": "Telenord Canal 10",
+      "isFree": true,
+      "shortName": "TC1",
+      "logo": "https://i.imgur.com/yqXORkt.png"
+    },
+    {
+      "name": "Telesur Canal",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/TeleSUR.png"
+    },
+    {
+      "name": "Teleunion",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vTfxkjW.png"
+    },
+    {
+      "name": "Vallevision",
+      "isFree": true,
+      "keywords": "vallevision -canal 10",
+      "logo": "https://go4.pw/CARIBBIEAN/_VALLEVISION.png"
+    },
+    {
+      "name": "Vallevision Canal 10",
+      "isFree": true,
+      "shortName": "VC1",
+      "logo": "https://go4.pw/CARIBBIEAN/_VALLEVISION.png"
+    },
+    {
+      "name": "Vega Teve",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/20047.jpg"
+    },
+    {
+      "name": "Viva Canal 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg"
+    },
+    {
+      "name": "ZTV",
+      "isFree": true
+    },
+    {
+      "name": "Zol106",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/DOMINICAN/Telenord-CanaL(1).png"
+    },
+    {
+      "name": "002 Radio TV",
+      "isFree": true,
+      "website": "https://www.002radio.com/"
+    },
+    {
+      "name": "Agenda 56 TV",
+      "isFree": true,
+      "website": "https://agenda56.com/agenda56tv/"
+    },
+    {
+      "name": "Ahora TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzyG2s3EfXOY5oAwqQgaUBOXNBO.jpg",
+      "website": "https://www.ahoratv.com/"
+    },
+    {
+      "name": "AION TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DBvm7YS.png",
+      "website": "https://aiontelevision.com/"
+    },
+    {
+      "name": "AkiTV",
+      "isFree": true
+    },
+    {
+      "name": "Alcarrizos TV",
+      "isFree": true,
+      "website": "https://alcarrizostv.com/"
+    },
+    {
+      "name": "Alegre TV RD",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "https://www.vivalivetv.com/channel/alegre-tv-rd"
+    },
+    {
+      "name": "Altanto TV",
+      "isFree": true,
+      "website": "https://altanto.com.do/"
+    },
+    {
+      "name": "Ame 47",
+      "isFree": true,
+      "website": "https://www.rdmusica.com/"
+    },
+    {
+      "name": "Antena 21",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.antena7.com.do/"
+    },
+    {
+      "name": "Antena 7",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-qZ2_vIs_6bI/X3PN2HLxqBI/AAAAAAAABss/2A1jD7amfeY19Z-MOo7dpIBOFBcq-T_GwCLcBGAsYHQ/w200-h200/Antena%2B7%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://www.antena7.com.do/",
+      "priority": 9
+    },
+    {
+      "name": "ARROZ TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.prensalibrerd.com/"
+    },
+    {
+      "name": "Atabal TV",
+      "isFree": true,
+      "website": "https://www.tvdominicana.net/livetv/watch/atabaltv/51"
+    },
+    {
+      "name": "Bebeto TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+      "website": "https://bebetohd.com/en-vivo/"
+    },
+    {
+      "name": "Bellavision",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/DOMINICAN/CARV.png",
+      "website": "https://bellavision8.com/"
+    },
+    {
+      "name": "Boca Chica TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://dominicanchannels.com/boca-chica-tv/"
+    },
+    {
+      "name": "Bonao TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_BonaoTV.png",
+      "website": "https://www.bonaotv.com/"
+    },
+    {
+      "name": "Bonches Latinos TV",
+      "isFree": true,
+      "website": "https://boncheslatinos.com/"
+    },
+    {
+      "name": "Camara 809",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CamaradeRepr.png",
+      "website": "https://camara809fm.com/index.php/radio-tv/"
+    },
+    {
+      "name": "Camino Real TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2GAEWhn.png",
+      "website": "http://www.caminoreal.do/"
+    },
+    {
+      "name": "Camu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.camutv.net"
+    },
+    {
+      "name": "Canal 25",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-JR913CLWLko/X3PN3uhsYaI/AAAAAAAABtE/THsf81YEE2ob50qWZS00xvlDZeUE_15xgCLcBGAsYHQ/w200-h200/Canal%2B25%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://www.canal25rd.com/"
+    },
+    {
+      "name": "Canal 40 TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canal40tv.com/"
+    },
+    {
+      "name": "Canal 4 RD",
+      "isFree": true,
+      "website": "https://rtvd.gob.do/"
+    },
+    {
+      "name": "Canal 70",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://gia.tv/watchssh101.php?sn=cnal70tv"
+    },
+    {
+      "name": "Canal America TV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalamerica.tv/"
+    },
+    {
+      "name": "Canal Catorce",
+      "isFree": true,
+      "website": "http://14tv.live/"
+    },
+    {
+      "name": "Canalda 26 HD",
+      "isFree": true,
+      "logo": "https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png",
+      "website": "https://canaldahd.com/"
+    },
+    {
+      "name": "Canal del Sol",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-au541x8Rp3c/X3PN34XLDWI/AAAAAAAABtI/uUKkbHBWx-A_mX6YLWE6_FKH2-_dgjz9ACLcBGAsYHQ/w200-h200/Canal%2Bdel%2BSol%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://www.canaldelsol.com/"
+    },
+    {
+      "name": "Canal DTV",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://dominiodtv.blogspot.com/"
+    },
+    {
+      "name": "Canal Multivision",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://canalmultivision.com/"
+    },
+    {
+      "name": "Cananga TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/isXlMAh.png",
+      "website": "https://canangatv.com/"
+    },
+    {
+      "name": "Cana TV Digital",
+      "isFree": true,
+      "logo": "https://i.imgur.com/k8jxt12.png",
+      "website": "https://canatvdigital.com/"
+    },
+    {
+      "name": "Canela TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/canela-tv"
+    },
+    {
+      "name": "Caoba TV Radio",
+      "isFree": true,
+      "website": "https://caobatvradio.com/"
+    },
+    {
+      "name": "Caribbean Traveling Network",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "website": "https://ctn.com.do/"
+    },
+    {
+      "name": "Cascara TV",
+      "isFree": true,
+      "website": "https://cascaratv.com/"
+    },
+    {
+      "name": "CDN",
+      "isFree": true,
+      "keywords": "cdn -2 -deportes -noticias",
+      "website": "https://cdn.com.do/",
+      "priority": 9
+    },
+    {
+      "name": "Cenovision HD",
+      "isFree": true,
+      "website": "https://cenovision.com/"
+    },
+    {
+      "name": "Cibaena TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/cibaena-tv"
+    },
+    {
+      "name": "Claro Television Dominicana",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CLAROCINEMA.png",
+      "website": "https://www.vivalivetv.com/channel/claro-tv-dominicana"
+    },
+    {
+      "name": "Claro Vision TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/CLAROCINEMA.png"
+    },
+    {
+      "name": "COCO TV",
+      "isFree": true,
+      "website": "https://canalesdominicanos.live/coco-tv/"
+    },
+    {
+      "name": "Codigo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://codigotv.net/en-vivo/"
+    },
+    {
+      "name": "Colome TV",
+      "isFree": true,
+      "website": "https://colometv.com/#/other/vivo"
+    },
+    {
+      "name": "Color Vision",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-BSA2BrBrluk/X3PN4RxTvdI/AAAAAAAABtQ/e52HNTnIO6UT4caFPsG5XbVvpeowprmRwCLcBGAsYHQ/w200-h200/Color%2Bvisi%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://colorvision.com.do/",
+      "priority": 10
+    },
+    {
+      "name": "ConstanzaTV",
+      "isFree": true,
+      "website": "https://www.constanzatv.com/"
+    },
+    {
+      "name": "Coral 39",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg",
+      "website": "https://telesistema11.com.do/"
+    },
+    {
+      "name": "Cotubanama TV",
+      "isFree": true,
+      "website": "https://cotubanamadigital.net/"
+    },
+    {
+      "name": "CromTV",
+      "isFree": true,
+      "website": "https://www.cromtv.com/"
+    },
+    {
+      "name": "CTT Canal 49",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "CTV Canal 76",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png"
+    },
+    {
+      "name": "CV Vision TV",
+      "isFree": true,
+      "website": "https://www.ccvdigital.com/"
+    },
+    {
+      "name": "Del Pueblo TV",
+      "isFree": true,
+      "website": "https://www.tvdominicana.net/livetv/watch/delpueblotv/49"
+    },
+    {
+      "name": "Delta TV Canal 50",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dntZRSSzc1O7ZPdniMSbxcyiZQQ.jpg",
+      "website": "https://dominicanchannels.com/delta-tv-canal-50/"
+    },
+    {
+      "name": "Digital 15",
+      "isFree": true,
+      "website": "https://telemicro.com.do/",
+      "priority": 9
+    },
+    {
+      "name": "Digital809 TV",
+      "isFree": true,
+      "website": "https://digital809tv.com/"
+    },
+    {
+      "name": "Digital Vision 63",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg"
+    },
+    {
+      "name": "Dimelo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dimelotv.com.do/"
+    },
+    {
+      "name": "Dominican View",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_dominican.png",
+      "website": "https://www.olympusat.com/networks/dominican-view/"
+    },
+    {
+      "name": "Ecos Canal 57",
+      "isFree": true,
+      "website": "https://rnn.com.do/ecos57-en-vivo/"
+    },
+    {
+      "name": "Edu+ TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/edu"
+    },
+    {
+      "name": "Elias Pina TV",
+      "isFree": true,
+      "website": "https://eliaspinatv.net/"
+    },
+    {
+      "name": "El Pituco TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elpituco.com/"
+    },
+    {
+      "name": "El Seis 6",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elseis.do/"
+    },
+    {
+      "name": "Enntivision",
+      "isFree": true,
+      "website": "https://www.tonyconelpueblofm.com/enntivision"
+    },
+    {
+      "name": "entelevision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gVtLpMD.png",
+      "website": "https://entelevision.com/"
+    },
+    {
+      "name": "Enterate RD",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/enterate-rd"
+    },
+    {
+      "name": "Entuno TV",
+      "isFree": true,
+      "website": "https://www.tvdominicana.net/livetv/details/entuno-tv/50"
+    },
+    {
+      "name": "Explosion TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Znd1Ml9.png",
+      "website": "https://canalesdominicanos.live/explosion-tv/"
+    },
+    {
+      "name": "Extra 86 TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
+      "website": "https://www.vivalivetv.com/channel/extra-86"
+    },
+    {
+      "name": "Farovision",
+      "isFree": true,
+      "website": "http://farovision.net/"
+    },
+    {
+      "name": "FRATA TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VxeTREd.png",
+      "website": "https://fratatv.com/en-vivo/"
+    },
+    {
+      "name": "GalaxiATeVe",
+      "isFree": true,
+      "website": "https://grupomediosdelnorte.com/"
+    },
+    {
+      "name": "GET tv",
+      "isFree": true,
+      "website": "https://www.gettvrd.com/"
+    },
+    {
+      "name": "GH Television",
+      "isFree": true,
+      "keywords": "gh television -canal 10",
+      "website": "https://ghtelevision.com/"
+    },
+    {
+      "name": "Gi Television",
+      "isFree": true,
+      "website": "https://gitelevision.com/"
+    },
+    {
+      "name": "Global Social TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "https://globalsocialtv.com/"
+    },
+    {
+      "name": "Global TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png",
+      "website": "https://globaltv.com.do/"
+    },
+    {
+      "name": "Guacara TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.guacaratv.com/"
+    },
+    {
+      "name": "Haina Vision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/eoodUNJ.png",
+      "website": "https://hainavision.com/"
+    },
+    {
+      "name": "HAY TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kLYMk6a0fp1WEbHyEOFvKZkF5Y.jpg",
+      "website": "https://channelstore.roku.com/es-mx/details/a5605ea797c8098f3e9c2f14067c3cce/hay-tv"
+    },
+    {
+      "name": "Hilando Fino TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/DOMINICAN/Hilando%20Fino%20TV(1).png",
+      "website": "http://www.hilandofinotv.com/"
+    },
+    {
+      "name": "HTV Live",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0WBsAin.png",
+      "website": "https://canalhtvlive.com/"
+    },
+    {
+      "name": "Imagen Universal TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DP6HmDV.png",
+      "website": "https://imagenuniversaltv.com/"
+    },
+    {
+      "name": "Infinito TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlhxuo020oPYg9ha4INUGmVcR3H.jpg",
+      "website": "https://infinitotv.net/"
+    },
+    {
+      "name": "Informe TV",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/informe-tv/"
+    },
+    {
+      "name": "JARABACOA TV",
+      "isFree": true,
+      "logo": "https://imgur.com/m9WCrlw.jpg",
+      "website": "https://dominicanchannels.com/jarabacoatv/"
+    },
+    {
+      "name": "Jimani TV",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/jimani-tv/"
+    },
+    {
+      "name": "JMTV",
+      "isFree": true,
+      "website": "https://jmtv12.com/"
+    },
+    {
+      "name": "JPD TV",
+      "isFree": true,
+      "logo": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
+      "website": "https://juanpabloduartetv.com/"
+    },
+    {
+      "name": "La Caleta TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://lacaletatv.com/"
+    },
+    {
+      "name": "La Descarga TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/la-descarga-tv"
+    },
+    {
+      "name": "La Hora TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3807-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/la-hora-tv"
+    },
+    {
+      "name": "La Reina TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/la-reina-tv"
+    },
+    {
+      "name": "Larivision TV",
+      "isFree": true,
+      "website": "https://www.larivision.com/"
+    },
+    {
+      "name": "La Ruta TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/la-ruta-tv"
+    },
+    {
+      "name": "La Sultana del Este TV",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://lasultanadelestetv.com/"
+    },
+    {
+      "name": "Latina TV Internacional",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/atenalatina.png",
+      "website": "https://latinatvinternacional.com/"
+    },
+    {
+      "name": "LC Television",
+      "isFree": true,
+      "logo": "http://epg.one/img2/8124.png"
+    },
+    {
+      "name": "Lena TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/lena-radio-tv"
+    },
+    {
+      "name": "Luna TV Canal 53",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1HUf6ijt4Y4h9fiEO0yHBLxWKV.jpg",
+      "website": "https://lunatv.do/"
+    },
+    {
+      "name": "Makina TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/makina-tv"
+    },
+    {
+      "name": "Manaclar Television",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/manaclar-television"
+    },
+    {
+      "name": "Marka TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/marka-tv"
+    },
+    {
+      "name": "MegaVision TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/u5ECnZd.png",
+      "website": "http://www.megavisiontvrd.com/"
+    },
+    {
+      "name": "Miavision TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://www.vivalivetv.com/channel/miavision"
+    },
+    {
+      "name": "Mi Pueblo Tv",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/mi-pueblo-tv-canal-26/"
+    },
+    {
+      "name": "MI Turno TV",
+      "isFree": true,
+      "website": "https://miturno.com.do/miturnotv/"
+    },
+    {
+      "name": "MiTV",
+      "isFree": true,
+      "website": "https://www.mitv-hd.com/"
+    },
+    {
+      "name": "Moca Vision Canal 48",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vclDXV7.jpeg",
+      "website": "https://www.televiaducto.com.do/"
+    },
+    {
+      "name": "Montecristi Digital 8",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/montecristi-digital-8/"
+    },
+    {
+      "name": "MorroTV",
+      "isFree": true,
+      "website": "https://www.morrodigital.com/"
+    },
+    {
+      "name": "MQTV",
+      "isFree": true
+    },
+    {
+      "name": "Musavision",
+      "isFree": true,
+      "website": "https://musavision.com/"
+    },
+    {
+      "name": "Naranja TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/g7iFN3s.png",
+      "website": "https://naranjatvrd.com/"
+    },
+    {
+      "name": "Nexxo TV",
+      "isFree": true,
+      "website": "http://nexxo.tv/"
+    },
+    {
+      "name": "Nicol Studio RD",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/nicol-studio-rd"
+    },
+    {
+      "name": "Nisibon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Nitida TV",
+      "isFree": true,
+      "website": "https://nitidafm.com/"
+    },
+    {
+      "name": "Notisur TV",
+      "isFree": true,
+      "website": "https://www.notisurbani.com/index.php"
+    },
+    {
+      "name": "Nueva Vision 14",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/nueva-vision-14/"
+    },
+    {
+      "name": "OEPM TV",
+      "isFree": true,
+      "website": "https://proinversiontv.com/"
+    },
+    {
+      "name": "Onda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://cableondaoriental.com/onda-tv/"
+    },
+    {
+      "name": "Oriental TV",
+      "isFree": true,
+      "website": "https://orientaltv.com.do/"
+    },
+    {
+      "name": "OxiTV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/oxi-tv"
+    },
+    {
+      "name": "Palmar TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/palmar-tv"
+    },
+    {
+      "name": "Peravia Vision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://peraviavision.tv/"
+    },
+    {
+      "name": "PHTV",
+      "isFree": true,
+      "keywords": "phtv -canal 34"
+    },
+    {
+      "name": "Pinpon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.asodomedcotv.com/"
+    },
+    {
+      "name": "Portal Digital TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/portal-digital-tv"
+    },
+    {
+      "name": "Pronems TV",
+      "isFree": true,
+      "website": "https://www.pronemstv.com/"
+    },
+    {
+      "name": "Pula TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/8gSLJ2f.png",
+      "website": "https://www.vivalivetv.com/channel/pula-tv"
+    },
+    {
+      "name": "Punto TV",
+      "isFree": true,
+      "keywords": "punto tv -digital 40",
+      "logo": "https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png",
+      "website": "https://dominicanchannels.com/punto-tv-canal-40/"
+    },
+    {
+      "name": "Punto TV Digital 40",
+      "isFree": true,
+      "website": "https://puntotvdigital.net/television-online/"
+    },
+    {
+      "name": "Red Social Codi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Yb4lhpG.png",
+      "website": "https://redsocialcodi.com/"
+    },
+    {
+      "name": "Reportero TV",
+      "isFree": true,
+      "logo": "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
+      "website": "https://dominicanchannels.com/reportero-tv/"
+    },
+    {
+      "name": "Resplandor TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PkDMero.png",
+      "website": "https://resplandorvision.com/"
+    },
+    {
+      "name": "R&E TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Rocavision TV",
+      "isFree": true,
+      "website": "https://www.tvdominicana.net/livetv/watch/roka-vision/48"
+    },
+    {
+      "name": "R Television",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg",
+      "website": "https://www.tvdominicana.net/livetv/watch/r-television/38"
+    },
+    {
+      "name": "Ruta 66 TV",
+      "isFree": true,
+      "website": "https://ruta66tv.com/"
+    },
+    {
+      "name": "Sabaneta TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sabanetatv.com/"
+    },
+    {
+      "name": "Santiago TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png",
+      "website": "http://www.santiagotv.net/"
+    },
+    {
+      "name": "Senal de Vida",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png"
+    },
+    {
+      "name": "Senal Digital TV",
+      "isFree": true,
+      "logo": "https://imgur.com/KGqUu1X.jpg",
+      "website": "https://canalesdominicanos.live/senal-digital-tv/"
+    },
+    {
+      "name": "Senales TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://senalestv.com/"
+    },
+    {
+      "name": "Sensacion TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dominicaninternet.com/client-details/1563"
+    },
+    {
+      "name": "Simavision Canal 18",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://simavision.tv/"
+    },
+    {
+      "name": "Sistesur Canal 49",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://sistesur.com.do/"
+    },
+    {
+      "name": "Solucion TV",
+      "isFree": true,
+      "logo": "https://rdomint.com/images/station/domint1705img07-27-20221658956991.jpeg",
+      "website": "https://soluciontv.com/"
+    },
+    {
+      "name": "SRC Media TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3433-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/src-media-tv"
+    },
+    {
+      "name": "Su Mundo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/twGGfJr.png",
+      "website": "https://www.sumundotv.com"
+    },
+    {
+      "name": "Super7FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TJEqwZo.png",
+      "website": "https://super7fm.com/"
+    },
+    {
+      "name": "Super Canal",
+      "isFree": true,
+      "keywords": "super canal -33",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "http://www.supercanal.com/"
+    },
+    {
+      "name": "Super Digital TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://www.vivalivetv.com/channel/super-digital-tv"
+    },
+    {
+      "name": "Supremateve",
+      "isFree": true,
+      "website": "https://supremateve.com/"
+    },
+    {
+      "name": "Sur TV",
+      "isFree": true,
+      "website": "https://empresasradiofonicas.com.do/canal-de-television/"
+    },
+    {
+      "name": "Telealtura",
+      "isFree": true,
+      "website": "https://www.telealtura.com/"
+    },
+    {
+      "name": "Tele Antillas",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleantillas.com.do/"
+    },
+    {
+      "name": "Telecanal 12",
+      "isFree": true,
+      "website": "https://telecanal12.net/"
+    },
+    {
+      "name": "Tele Caribe",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Telecentro",
+      "isFree": true,
+      "logo": "https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png",
+      "website": "https://telecentro.com.do/"
+    },
+    {
+      "name": "TeleCibaoHD",
+      "isFree": true,
+      "logo": "https://i.imgur.com/F17zNXh.png",
+      "website": "http://www.telecibaohd.tv/"
+    },
+    {
+      "name": "Telecomercio TV",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/telecomercio/"
+    },
+    {
+      "name": "Telecontacto",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TMvV9dF.png",
+      "website": "http://www.telecontacto.tv/"
+    },
+    {
+      "name": "Tele Dajabon TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.vivalivetv.com/channel/tele-dajabon"
+    },
+    {
+      "name": "Telefuturo",
+      "isFree": true,
+      "keywords": "telefuturo -canal 23",
+      "logo": "https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png",
+      "website": "http://telefuturo.com.do/"
+    },
+    {
+      "name": "Telemax",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://telemaxrd.com.do/"
+    },
+    {
+      "name": "Telemedio Digital TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+      "website": "https://www.vivalivetv.com/channel/telemedio-digital"
+    },
+    {
+      "name": "Telemedios Canal 8",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://telemedios.com.do/"
+    },
+    {
+      "name": "Telemetro TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/telemetro"
+    },
+    {
+      "name": "Telemicro Internacional",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TELEMICRO-INTERNACIONA.png",
+      "website": "https://telemicro.com.do/",
+      "priority": 9
+    },
+    {
+      "name": "Telenord 10",
+      "isFree": true,
+      "website": "https://www.telenord.com/canales/canal-10"
+    },
+    {
+      "name": "Telenord 14",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yqXORkt.png",
+      "website": "http://telenord.com.do/index.php/canales/canal-14"
+    },
+    {
+      "name": "Telenovisa43",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iHvf3bR.png",
+      "website": "https://telenovisa43.com/"
+    },
+    {
+      "name": "Tele Ola 44",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://dominicanchannels.com/tele-ola-cnal-44/"
+    },
+    {
+      "name": "Tele Oriental",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://teleoriental.com.do/"
+    },
+    {
+      "name": "Tele Proyecto TV",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/teleproyecto/"
+    },
+    {
+      "name": "TeleRadioNorte",
+      "isFree": true,
+      "logo": "https://i.imgur.com/s43eFy0.png",
+      "website": "https://teleradionorte.com/"
+    },
+    {
+      "name": "Telesantodomingo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/rI8c5UM.png",
+      "website": "https://www.telesantodomingo.com/index.html"
+    },
+    {
+      "name": "TELESIGLO",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/telesiglo"
+    },
+    {
+      "name": "Telesistema 11",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://telesistema11.com.do/"
+    },
+    {
+      "name": "Telesur Canal 10",
+      "isFree": true,
+      "website": "https://www.telesur.com.do"
+    },
+    {
+      "name": "Teletur",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Ig4gR93.png",
+      "website": "https://dominicanchannels.com/teletur-tv/"
+    },
+    {
+      "name": "Tele Universal DC",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://dominicanchannels.com/tele-universal-dc/"
+    },
+    {
+      "name": "Teleuniverso",
+      "isFree": true,
+      "website": "https://teleuniversotv.com/"
+    },
+    {
+      "name": "Telever",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Televiaducto Canal 14",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.televiaducto.com.do/"
+    },
+    {
+      "name": "Televiaducto Canal 3",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://www.televiaducto.com.do/"
+    },
+    {
+      "name": "Television A1",
+      "isFree": true,
+      "keywords": "television a1 -canal 2",
+      "website": "https://www.televisiona1.com/"
+    },
+    {
+      "name": "Television A1 Canal 2",
+      "isFree": true,
+      "website": "https://www.televisiona1.com/canal-2"
+    },
+    {
+      "name": "Television Las Terrenas",
+      "isFree": true,
+      "website": "http://tdn.do/Canales/canal4/canal4.html"
+    },
+    {
+      "name": "Tenarenses TV",
+      "isFree": true,
+      "website": "https://www.tenarenses.com/tenarenses-tv-3/"
+    },
+    {
+      "name": "Terrenas Vision",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.vivalivetv.com/channel/terrenas-vision"
+    },
+    {
+      "name": "Titanico TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.titanicotv.net/"
+    },
+    {
+      "name": "TNE Canal 58",
+      "isFree": true,
+      "website": "https://www.televiaducto.com.do/"
+    },
+    {
+      "name": "TNI Canal51",
+      "isFree": true,
+      "website": "https://tni51online.com/"
+    },
+    {
+      "name": "Turismo HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "website": "https://gia.tv/watchssh101.php?psid=54"
+    },
+    {
+      "name": "Turismo RDTV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "website": "https://www.vivalivetv.com/channel/turismo-tv"
+    },
+    {
+      "name": "Turivision Canal 45",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+    },
+    {
+      "name": "TV 10 San Juan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv10sanjuan.com.do/"
+    },
+    {
+      "name": "TV43",
+      "isFree": true,
+      "website": "https://www.tv43.net/"
+    },
+    {
+      "name": "TV Canal Sur",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvcanalsur.com.do/en-vivo/"
+    },
+    {
+      "name": "TV Cotui Canal 31",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvcotuicanal31.com/"
+    },
+    {
+      "name": "TV Daja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dajatv.com/"
+    },
+    {
+      "name": "TV Higuey Digital",
+      "isFree": true,
+      "website": "https://tvhigueydigital.com/"
+    },
+    {
+      "name": "TV Montana Canal 10",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://tvmontana.com/"
+    },
+    {
+      "name": "TVO",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wFC6Xxq.png",
+      "website": "https://tvo.com.do/"
+    },
+    {
+      "name": "TV Vision",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvvisionrd.com/"
+    },
+    {
+      "name": "Valle Nuevo TV",
+      "isFree": true,
+      "website": "https://generacionesradio.com/"
+    },
+    {
+      "name": "Vegavision Canal 18",
+      "isFree": true,
+      "logo": "https://i.imgur.com/352jxnd.png"
+    },
+    {
+      "name": "Villa Altagracia TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg"
+    },
+    {
+      "name": "Vision 3000",
+      "isFree": true,
+      "website": "https://peraviavision.tv/"
+    },
+    {
+      "name": "Vision NDV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.visionndv.com/"
+    },
+    {
+      "name": "VTV Canal 32",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/vtv.png",
+      "website": "https://vtvcanal32.com.do/"
+    },
+    {
+      "name": "WMTI",
+      "isFree": true
+    },
+    {
+      "name": "Xtra Tv",
+      "isFree": true,
+      "logo": "https://i.imgur.com/30HzeQe.png",
+      "website": "https://xtratvrd.com/"
+    },
+    {
+      "name": "Xtremo Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuMtIiByqrAgawK20kAzWGzBoeB.jpg",
+      "website": "https://www.xtremochannel.com/"
+    },
+    {
+      "name": "Yunavision",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YjceEv5.png",
+      "website": "https://www.yunavision.com/"
+    },
+    {
+      "name": "Zinc Nombre TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/zinc-nombre-radio-y-tv"
+    },
+    {
+      "name": "Zonavision TV",
+      "isFree": true,
+      "logo": "https://imgur.com/B3PrrMH.png",
+      "website": "https://dominicanchannels.com/zonavision/"
+    },
+    {
+      "name": "ZuuTV",
+      "isFree": true,
+      "website": "https://zuutv.net/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Chinola TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ybud4dI.png"
+    },
+    {
+      "name": "Anime Zone TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg",
+      "website": "http://animezonetv.com"
+    },
+    {
+      "name": "Locomotion TV",
+      "isFree": true,
+      "website": "http://locomotiontv.com/envivo"
+    },
+    {
+      "name": "Tiguerito TV",
+      "isFree": true,
+      "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
+      "website": "https://www.tigueritos.com/"
+    },
+    {
+      "name": "Tom And Jerry",
+      "isFree": true,
+      "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+      "website": "https://gia.tv/watchssh101.php?pptv=208314"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Hits 360 TV",
+      "isFree": true,
+      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+    },
+    {
+      "name": "Area 809 El Original",
+      "isFree": true,
+      "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
+      "website": "http://www.rudyrudisimo.com"
+    },
+    {
+      "name": "Cacique TV",
+      "isFree": true,
+      "website": "https://dominicanchannels.com/cacique-tv_rd/"
+    },
+    {
+      "name": "La Voz del Tropico",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://lavozdeltropico.online/"
+    },
+    {
+      "name": "Maimon TV Canal 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/twldaaC.png",
+      "website": "https://www.maimontv.com/"
+    },
+    {
+      "name": "Makao TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/asD5y7i.png",
+      "website": "https://makaoradio.com/#makaotv"
+    },
+    {
+      "name": "Mun2TV",
+      "isFree": true,
+      "website": "https://www.mun2-tv.com/"
+    },
+    {
+      "name": "Rumba 98.5 FM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsNX9MLpfkpkyCUotB7EdFYuQwo.jpg",
+      "website": "https://rumba985fm.com/"
+    },
+    {
+      "name": "Siembra TV",
+      "isFree": true
+    },
+    {
+      "name": "Somos Topo Point TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7Jx45yQ.png",
+      "website": "https://somostopopointtv.net/"
+    },
+    {
+      "name": "Tele Dominicana TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://dominicanchannels.com/tele-dominicana/"
+    },
+    {
+      "name": "Telerumba TV",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/telerumba"
+    },
+    {
+      "name": "Topical Moon RD",
+      "isFree": true,
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/tropical-moon-rd"
+    },
+    {
+      "name": "Tu Musica HD",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HnjUjog.png"
+    },
+    {
+      "name": "TV Exitos",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://grupomediosdelnorte.com/"
+    },
+    {
+      "name": "Urbancrist TV 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/sbWdmJj.png?1"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Radio105 full",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "priority": 4
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cinevision Canal 19",
+      "isFree": false,
+      "shortName": "CC1",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Boreal",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KSquHTG.png",
+      "website": "https://borealtelevision.com/"
+    },
+    {
+      "name": "Mega Cine TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
+      "website": "https://dominicanchannels.com/mega-cine-tv/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Acento TV",
+      "isFree": true,
+      "website": "https://acentotv.do/"
+    },
+    {
+      "name": "ADOCCO TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://adocco.tv/"
+    },
+    {
+      "name": "BizTV",
+      "isFree": true,
+      "website": "https://biztv.tv/"
+    },
+    {
+      "name": "Citrico TV",
+      "isFree": true,
+      "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
+      "website": "https://citricotv.com/"
+    },
+    {
+      "name": "De Ultimo Minuto TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6ML2z17.png",
+      "website": "https://deultimominuto.net/"
+    },
+    {
+      "name": "El Nuevo Diario TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elnuevodiario.com.do/tv/"
+    },
+    {
+      "name": "Linieros TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.linieros.com/"
+    },
+    {
+      "name": "Noticias 16",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+      "website": "https://noticias16.com.do/en-vivo/"
+    },
+    {
+      "name": "Policia TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buUQCdQrJM8itUd0MmtIikjJyEl.jpg",
+      "website": "https://canalesdominicanos.live/policia-tv/"
+    },
+    {
+      "name": "RDN",
+      "isFree": true,
+      "logo": "https://i.imgur.com/x02CGSW.png",
+      "website": "http://www.rdn.com.do/"
+    },
+    {
+      "name": "Telenews TV",
+      "isFree": true,
+      "website": "https://www.vivalivetv.com/channel/telenews"
+    },
+    {
+      "name": "Television del Este",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://televisiondeleste.net/"
+    },
+    {
+      "name": "TRA 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
+      "website": "https://www.teleradioamerica2.com/"
+    },
+    {
+      "name": "TRA Noticias",
+      "isFree": true,
+      "logo": "https://i.imgur.com/M6ZhJqM.png",
+      "website": "http://www.teleradioamerica.com/"
+    },
+    {
+      "name": "TVN24",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/POLONIA/TVN24BISHD.png",
+      "website": "https://tvn24.do/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Adoram TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/uU01KHz.png",
+      "website": "https://adoramtv.org/"
+    },
+    {
+      "name": "Avivamiento TV",
+      "isFree": true
+    },
+    {
+      "name": "Celestial TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png"
+    },
+    {
+      "name": "Cielo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2PNw6BA.png",
+      "website": "https://cielotv.do/"
+    },
+    {
+      "name": "El Puerto TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elpuerto.com.do/"
+    },
+    {
+      "name": "Jazmin TV",
+      "isFree": true,
+      "logo": "https://img.redtraffic.xyz/22938.jpg",
+      "website": "http://www.jazmintv.online/"
+    },
+    {
+      "name": "La Voz de Jesus HD",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://gia.tv/watchssh101.php?pptv=208429"
+    },
+    {
+      "name": "La Voz de Maria",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Zv8CxZX.png",
+      "website": "http://www.lavozdemariatv.org/"
+    },
+    {
+      "name": "Luz Divina TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/tJ9gD6bH/Whats-App-Image-2024-09-12-at-11-10-11.jpg",
+      "website": "https://dominicanchannels.com/luz-divina-tv/"
+    },
+    {
+      "name": "Radio Tele Milenaire",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiotelemilenaire.com/"
+    },
+    {
+      "name": "RVida TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://rvidatv.com/"
+    },
+    {
+      "name": "Televida",
+      "isFree": true
+    },
+    {
+      "name": "TV Luz",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvluzrd.com/"
+    },
+    {
+      "name": "Urbancrist TV",
+      "isFree": true,
+      "keywords": "urbancrist tv -2",
+      "logo": "https://i.imgur.com/sbWdmJj.png?1",
+      "website": "https://www.urbancrist.com/p/urbancristv-en-vivo.html"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Bajo Techo TV",
+      "isFree": true,
+      "website": "http://bajotecho.tv/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Canal 17 RTVD",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "https://rtvd.gob.do/"
+    },
+    {
+      "name": "Ecovision",
+      "isFree": true,
+      "website": "http://grupomediosdelnorte.com/"
+    },
+    {
+      "name": "EStylo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://canalesdominicanos.live/estylo-tv/"
+    },
+    {
+      "name": "Guaymate TV",
+      "isFree": true,
+      "website": "https://guaymatetvdigital.blogspot.com/2022/04/guayumate-tv-digital.html"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "CDN Deportes",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/cdn.png",
+      "website": "https://cdndeportes.com.do/",
+      "priority": 9
+    },
+    {
+      "name": "Colimdo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://colimdotv.com/"
+    },
+    {
+      "name": "Gallero Soy",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z85TeZmJYQjfviJmVNdLXQt8uEe.jpg",
+      "website": "https://gallerosoy.com/"
+    },
+    {
+      "name": "Sport Vision",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
+      "website": "http://sportvisioncanal35.com/"
+    }
+  ]
+}

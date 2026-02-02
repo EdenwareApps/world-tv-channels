@@ -1,0 +1,4189 @@
+{
+  "Entertainment": [
+    {
+      "name": "20 Mediaset",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"
+    },
+    {
+      "name": "AB Channel",
+      "isFree": true
+    },
+    {
+      "name": "Alto Adige TV",
+      "isFree": true,
+      "keywords": "alto adige tv | altoadige tv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg"
+    },
+    {
+      "name": "Amuse Animation",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2f9b99eee4198edadf9d101a655a2730.png"
+    },
+    {
+      "name": "Antenna Tre Veneto",
+      "isFree": true,
+      "shortName": "ATV"
+    },
+    {
+      "name": "Aurora Arte",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/989e411a89f05a5af7f5ccf7edb815f8.png"
+    },
+    {
+      "name": "Azzurra TV",
+      "isFree": true
+    },
+    {
+      "name": "Big Name",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d71c9141f8577030a186a595701e681b.png"
+    },
+    {
+      "name": "Boing Italia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/669295ce503c08d4f9a5f792994cfc02.png"
+    },
+    {
+      "name": "Brescia TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DAZN.png"
+    },
+    {
+      "name": "CANALE 7",
+      "isFree": true
+    },
+    {
+      "name": "CANALE 8",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bdeb2b42d6070e1599660c20029ba3e9.png"
+    },
+    {
+      "name": "CBL Classic",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+    },
+    {
+      "name": "CG Entertainment",
+      "isFree": true
+    },
+    {
+      "name": "CafeTV24",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Camera dei Deputati",
+      "isFree": true,
+      "shortName": "CDD",
+      "logo": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png"
+    },
+    {
+      "name": "Canale 10",
+      "isFree": true,
+      "keywords": "canale 10 -ostia",
+      "logo": "https://i.imgur.com/KuQcjYV.png"
+    },
+    {
+      "name": "Canale 10 Ostia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/742c9c1b20020b26c4f99b135a55e3de.png"
+    },
+    {
+      "name": "Canale 2 Altamura",
+      "isFree": true,
+      "shortName": "C2A"
+    },
+    {
+      "name": "Canale 21 Lazio",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e0b21c7aa9173ad19811e583ab79b1cf.png"
+    },
+    {
+      "name": "Canale 5",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png",
+      "website": "https://www.mediaset.it",
+      "priority": 10
+    },
+    {
+      "name": "Canale Europa",
+      "isFree": true
+    },
+    {
+      "name": "Carina TV",
+      "isFree": true,
+      "keywords": "carina tv | carinatv"
+    },
+    {
+      "name": "Cartoonito",
+      "isFree": true
+    },
+    {
+      "name": "Classical Harmony",
+      "isFree": true,
+      "shortName": "CH",
+      "logo": "https://images.iptvmate.net/tvglogo/c8dc76526730222e5390688554ecfde8.png"
+    },
+    {
+      "name": "Cusano Italia TV",
+      "isFree": true
+    },
+    {
+      "name": "Cusano TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e0a17c8182433ed380ae56767474d30a.png"
+    },
+    {
+      "name": "DMAX IT",
+      "isFree": true,
+      "logo": "https://static.epg.best/it/DMAX.it.png"
+    },
+    {
+      "name": "Deejay TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YV27Chs.png"
+    },
+    {
+      "name": "Donna TV",
+      "isFree": true
+    },
+    {
+      "name": "Elive TV Brescia",
+      "isFree": true
+    },
+    {
+      "name": "Entella TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1VPXKrW.png"
+    },
+    {
+      "name": "Esperia TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png"
+    },
+    {
+      "name": "Euro TV",
+      "isFree": true
+    },
+    {
+      "name": "FM ITALIA",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0e0b94cf6c6247ffb923c540c722928d.png"
+    },
+    {
+      "name": "Focus",
+      "isFree": true,
+      "keywords": "focus -tv - italia",
+      "logo": "https://go4.pw/EUROPE/ITALY/FOCUS.png"
+    },
+    {
+      "name": "Focus TV - Itália",
+      "isFree": true,
+      "shortName": "FTI",
+      "logo": "https://go4.pw/EUROPE/ITALY/FOCUS.png"
+    },
+    {
+      "name": "Food Network",
+      "isFree": true
+    },
+    {
+      "name": "Giallo",
+      "isFree": true
+    },
+    {
+      "name": "Gold 78",
+      "isFree": true
+    },
+    {
+      "name": "HGTV Italia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0bfff63ebd80f8b4c1196ef748238e02.png"
+    },
+    {
+      "name": "HSE24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5151a20c5df74329abe25d782dbb869b.png"
+    },
+    {
+      "name": "Hilando Fino",
+      "isFree": true
+    },
+    {
+      "name": "Humanity",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/0048d9da8657859e0caab35a518dc6af.png"
+    },
+    {
+      "name": "Icaro TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8mBFFwPXBYrM58iJ4DK6oENbFx.jpg"
+    },
+    {
+      "name": "Iris",
+      "isFree": true
+    },
+    {
+      "name": "Italia 1",
+      "isFree": true,
+      "website": "https://www.mediaset.it",
+      "priority": 9
+    },
+    {
+      "name": "Italia 2",
+      "isFree": true,
+      "keywords": "italia 2 -tv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGRbX0aOcmrqlCIMLq3yXInaGBf.jpg"
+    },
+    {
+      "name": "Italia 2 TV",
+      "isFree": true,
+      "keywords": "italia 2 tv | italia2tv"
+    },
+    {
+      "name": "Iunior TV",
+      "isFree": true
+    },
+    {
+      "name": "Kiss Kiss Napoli TV",
+      "isFree": true,
+      "shortName": "KKNT"
+    },
+    {
+      "name": "Kiss Kiss TV",
+      "isFree": true
+    },
+    {
+      "name": "La 5",
+      "isFree": true,
+      "keywords": "la 5 | la5",
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La C TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5a917a81f0838259fe211f5ba01b2724.png"
+    },
+    {
+      "name": "La TR3 Marsala",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Lira TV",
+      "isFree": true
+    },
+    {
+      "name": "Lucania Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1d61dfd9c884afd515bca3d762444bb0.png"
+    },
+    {
+      "name": "MMA TV",
+      "isFree": true,
+      "logo": "https://media.unreel.me/prod/rewardedtv/logo/c8d5078c-527a-4c97-b72e-bbddb6df3b39"
+    },
+    {
+      "name": "Mecenate TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Mediaset Extra",
+      "isFree": true
+    },
+    {
+      "name": "Mondo Kids",
+      "isFree": true
+    },
+    {
+      "name": "Moods",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/37df301af2c64b0d515cc3534a592b33.png"
+    },
+    {
+      "name": "Motor TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5b5f0e2822b6a0e8473c4c574eaf3b6b.png"
+    },
+    {
+      "name": "Motor Trend",
+      "isFree": true,
+      "keywords": "motor trend | motortrend",
+      "logo": "https://i.imgur.com/hKDccCL.png"
+    },
+    {
+      "name": "My Surf TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5204e194865d640dcae96c3acb180ad3.png"
+    },
+    {
+      "name": "NSL",
+      "isFree": true
+    },
+    {
+      "name": "Napoli Canale 21",
+      "isFree": true,
+      "logo": "https://go4.pw/55.png"
+    },
+    {
+      "name": "Nove IT",
+      "isFree": true,
+      "logo": "https://static.epg.best/it/NOVE.it.png"
+    },
+    {
+      "name": "Onda Novara TV",
+      "isFree": true
+    },
+    {
+      "name": "Parole di Vita",
+      "isFree": true
+    },
+    {
+      "name": "People are Awesome",
+      "isFree": true,
+      "shortName": "PAA",
+      "logo": "https://i.imgur.com/BWfmUwV.png"
+    },
+    {
+      "name": "Primocanale",
+      "isFree": true,
+      "keywords": "primocanale -italia"
+    },
+    {
+      "name": "Primocanale Itália",
+      "isFree": true,
+      "shortName": "PI",
+      "logo": "https://i.imgur.com/eunZ2Sa.png"
+    },
+    {
+      "name": "R101 TV",
+      "isFree": true
+    },
+    {
+      "name": "RDS Social TV",
+      "isFree": true
+    },
+    {
+      "name": "RMK TV Sciacca",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/dc223c002d8fae77ec7f2282c50d6033.png"
+    },
+    {
+      "name": "RTC Telecalabria",
+      "isFree": true
+    },
+    {
+      "name": "RTL 102.5 BEST",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a93abee7612936f1776a98975f249f13.png"
+    },
+    {
+      "name": "RTL 102.5 TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/cc0c14a8eeb435c0e09cc7a48772eaad.png"
+    },
+    {
+      "name": "RTP",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "https://www.rtp.pt"
+    },
+    {
+      "name": "RTTR TV Trento",
+      "isFree": true,
+      "logo": "https://i.imgur.com/6DyzN8M.png"
+    },
+    {
+      "name": "RTTR Trento",
+      "isFree": true
+    },
+    {
+      "name": "RTV San Marino",
+      "isFree": true,
+      "keywords": "rtv san marino -sport",
+      "logo": "https://images.iptvmate.net/tvglogo/adb80b58e7353297f7537597dc1b9dee.png"
+    },
+    {
+      "name": "RTV Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "RTV38",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YOlwudm.png"
+    },
+    {
+      "name": "Rai 1",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813045644655731_74.png",
+      "priority": 10
+    },
+    {
+      "name": "Rai 2",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai 3",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813050016777983_50.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai 4",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai 5",
+      "isFree": true,
+      "keywords": "rai 5 -tv",
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai 5 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Gulp",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Premium",
+      "isFree": false,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Scuola",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Sport+",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Storia",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai YoYo",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Real Time",
+      "isFree": true,
+      "keywords": "real time -italia it"
+    },
+    {
+      "name": "Real Time Italia IT",
+      "isFree": true,
+      "shortName": "RTII",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg"
+    },
+    {
+      "name": "ReggioTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/cf53f06eb7d0bb32e0eedd83e617330d.png"
+    },
+    {
+      "name": "Rete 4",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
+      "website": "https://www.mediaset.it",
+      "priority": 9
+    },
+    {
+      "name": "Rete 55",
+      "isFree": true
+    },
+    {
+      "name": "Rete 7",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bc658ea6a3131967aea6d0b602c7ed3d.png"
+    },
+    {
+      "name": "Rete Biella TV",
+      "isFree": true,
+      "logo": "https://alpitv.com/wp-content/uploads/2018/06/logo.png"
+    },
+    {
+      "name": "Rete Oro",
+      "isFree": true
+    },
+    {
+      "name": "Retemia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IbzQpfn.png"
+    },
+    {
+      "name": "Retesole Lazio",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ed853e31a921c25ac1edc214c57701e8.png"
+    },
+    {
+      "name": "Reteveneta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kEje57b.png"
+    },
+    {
+      "name": "Sardegna Uno",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/dcf75b97ccb5cda90b9796ce8dce6c50.png"
+    },
+    {
+      "name": "Senato TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f55faf5889bfc3177f827439778eb0ef.png"
+    },
+    {
+      "name": "Siena TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/ES+.png"
+    },
+    {
+      "name": "Sophia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HhrJ7a9.png"
+    },
+    {
+      "name": "Spike",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/c34c4a2d73e3df1f0d849473acd5ceb3.png"
+    },
+    {
+      "name": "Sportitalia",
+      "isFree": true,
+      "keywords": "sportitalia -24 -motori -solocalcio",
+      "logo": "https://epg.pw/media/images/channel/2015/11/27/large/20151127183722803275_13.jpg"
+    },
+    {
+      "name": "Sportitalia 24",
+      "isFree": true
+    },
+    {
+      "name": "Sportitalia Motori",
+      "isFree": true,
+      "shortName": "SM"
+    },
+    {
+      "name": "Sportitalia Solocalcio",
+      "isFree": true,
+      "shortName": "SS",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "priority": 4
+    },
+    {
+      "name": "Spotlight",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/9fd2c469077f3c377ccdb705ae38050c.png"
+    },
+    {
+      "name": "Stereo 5 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/88 STEREO.png"
+    },
+    {
+      "name": "Studio 100 Puglia",
+      "isFree": true,
+      "shortName": "S1P",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logoicona.png/200px-Logoicona.png"
+    },
+    {
+      "name": "Super",
+      "isFree": true,
+      "keywords": "super -j tv teramo -tv -tv oristano",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "Super J TV Teramo",
+      "isFree": true,
+      "shortName": "SJTT",
+      "logo": "https://images.iptvmate.net/tvglogo/e864a9098772dd08e47481ff5846d487.png"
+    },
+    {
+      "name": "Super TV",
+      "isFree": true,
+      "keywords": "super tv -oristano",
+      "logo": "https://i.imgur.com/pzxUE0O.png"
+    },
+    {
+      "name": "Super TV Oristano",
+      "isFree": true,
+      "shortName": "STO",
+      "logo": "https://i.imgur.com/nJxfROF.png"
+    },
+    {
+      "name": "Super!",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png"
+    },
+    {
+      "name": "SuperSix Lombardia",
+      "isFree": true,
+      "shortName": "SL"
+    },
+    {
+      "name": "Supertoons TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/A6vCYsC.png"
+    },
+    {
+      "name": "TG Norba 24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a2e3803c2bce5c4f80c5626060766499.png"
+    },
+    {
+      "name": "TGCOM24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3ca99693fbd44e0b86aafba14a7e6b4a.png"
+    },
+    {
+      "name": "TLN Tele Lazio Nord",
+      "isFree": true,
+      "shortName": "TTLN",
+      "logo": "https://images.iptvmate.net/tvglogo/ee4efb58fd647814396e32dbfd286a7c.png"
+    },
+    {
+      "name": "TRM TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TRM h24 Basilicata",
+      "isFree": true,
+      "shortName": "THB",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TV 2000",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/cea4deffc5ab223eb203b1421abb0530.png"
+    },
+    {
+      "name": "TV Luna",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Qui",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Sei",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Shows",
+      "isFree": true
+    },
+    {
+      "name": "TV UNO",
+      "isFree": true
+    },
+    {
+      "name": "TV7 Azzurra",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/313728431453d20419c6f0433cd106a2.png"
+    },
+    {
+      "name": "TV7 Benevento",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CM1bQ1I.png"
+    },
+    {
+      "name": "TV7 Triveneta",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1b4d84e133d69035b43a383d83de1026.png"
+    },
+    {
+      "name": "TVA",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"
+    },
+    {
+      "name": "TVL",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7666c775e02c2fd299ea955a72e5f419.png"
+    },
+    {
+      "name": "TVRS",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/Tvrs.png"
+    },
+    {
+      "name": "Tele Abruzzo",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Diogene",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Liguria Sud",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BeLAYJ6.jpg"
+    },
+    {
+      "name": "Tele Milano",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Tele Pavia",
+      "isFree": true,
+      "keywords": "tele pavia | telepavia"
+    },
+    {
+      "name": "Tele Pegaso Catania",
+      "isFree": true,
+      "shortName": "TPC"
+    },
+    {
+      "name": "Tele Pordenone",
+      "isFree": true,
+      "keywords": "tele pordenone | telepordenone"
+    },
+    {
+      "name": "Tele Quattro",
+      "isFree": true
+    },
+    {
+      "name": "Tele Studio Modena",
+      "isFree": true,
+      "shortName": "TSM",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "TeleArena",
+      "isFree": true
+    },
+    {
+      "name": "TeleBoario",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/2d3ff3104c3ef697e9938034d39880c5.png"
+    },
+    {
+      "name": "TeleFormula",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TeleGenova",
+      "isFree": true,
+      "logo": "https://i.imgur.com/D6HC0So.png"
+    },
+    {
+      "name": "TeleMia",
+      "isFree": true,
+      "keywords": "telemia -extra"
+    },
+    {
+      "name": "TeleMia Extra",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png"
+    },
+    {
+      "name": "TeleTerni",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/27d8e2217403cf05536ebd4734fb290c.png"
+    },
+    {
+      "name": "TeleTusciaSabina 2000",
+      "isFree": true,
+      "shortName": "T2",
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TeleVenezia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "TeleVideo Agrigento",
+      "isFree": true,
+      "shortName": "TA",
+      "logo": "https://images.iptvmate.net/tvglogo/4f748e012e26e75fb481539bd0beae3d.png"
+    },
+    {
+      "name": "Telebelluno",
+      "isFree": true
+    },
+    {
+      "name": "Tele Chiara",
+      "isFree": true,
+      "keywords": "tele chiara | telechiara",
+      "shortName": "Telechiara",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Telecolor Lombardia",
+      "isFree": true,
+      "shortName": "TL",
+      "logo": "https://i.imgur.com/QfJqBno.png"
+    },
+    {
+      "name": "Telecupole",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a4aa304ba492ef97e7b6f857d72317b2.png"
+    },
+    {
+      "name": "Telefoggia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/df17249f4e013fcf3ed63f4b2fb00e07.png"
+    },
+    {
+      "name": "Telefriuli",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/446e44417c9a2b8ba86ce2db8d78c851.png"
+    },
+    {
+      "name": "Telegranda",
+      "isFree": true
+    },
+    {
+      "name": "Teleliberta",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f33d2066009e92c78e746c529986369d.png"
+    },
+    {
+      "name": "Telemolise",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/11f6e86aa29d788545b99a1a78c27ee0.png"
+    },
+    {
+      "name": "Telenord",
+      "isFree": true
+    },
+    {
+      "name": "Telenuova",
+      "isFree": true
+    },
+    {
+      "name": "Telesud Trapani",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tpZvU1P.png"
+    },
+    {
+      "name": "Teleticino",
+      "isFree": true
+    },
+    {
+      "name": "Teletricolore",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GajzIN6.png"
+    },
+    {
+      "name": "Teletubbies",
+      "isFree": true,
+      "logo": "http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png"
+    },
+    {
+      "name": "Tevere TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6bac66fbda06a4d99af3b57fc0e80f8e.png"
+    },
+    {
+      "name": "Top Crime",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/512px-Top_Crime_-_Logo_2013.svg.png"
+    },
+    {
+      "name": "Top Crimine",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Top Series",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Trentino TV",
+      "isFree": true
+    },
+    {
+      "name": "Umbria TV",
+      "isFree": true
+    },
+    {
+      "name": "VH1 Italia",
+      "isFree": true
+    },
+    {
+      "name": "Vera TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/djMvkvN.png"
+    },
+    {
+      "name": "Video Brescia TV",
+      "isFree": true
+    },
+    {
+      "name": "Video Calabria",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Bc2AvIm.png"
+    },
+    {
+      "name": "Videolina",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/videolina.png"
+    },
+    {
+      "name": "Videonovara",
+      "isFree": true,
+      "logo": "https://i.imgur.com/NnO7E5I.png"
+    },
+    {
+      "name": "Videostar Canale 193",
+      "isFree": true,
+      "shortName": "VC1",
+      "logo": "https://images.iptvmate.net/tvglogo/9d961d206fdb6a2bcad470310088609f.png"
+    },
+    {
+      "name": "Vuemme",
+      "isFree": true
+    },
+    {
+      "name": "Wine Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg"
+    },
+    {
+      "name": "Yvii TV Sicilia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/434de9af3b04eb71e7269d662816ca74.png"
+    },
+    {
+      "name": "teleMonteneve",
+      "isFree": true
+    },
+    {
+      "name": "111 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png",
+      "website": "https://www.111tv.it/"
+    },
+    {
+      "name": "12 TV Parma",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e3c220eea8f49ff313c4bc7b73e6bb53.png",
+      "website": "https://www.12tvparma.it/"
+    },
+    {
+      "name": "50 Canale",
+      "isFree": true,
+      "logo": "http://epg.one/img2/743.png",
+      "website": "https://50canale.tv/"
+    },
+    {
+      "name": "7 Gold",
+      "isFree": true,
+      "website": "http://www.my7.tv/"
+    },
+    {
+      "name": "A2i TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png",
+      "website": "https://a2itv.com/"
+    },
+    {
+      "name": "ABC TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nVmIeTD.png",
+      "website": "https://abctv.it/",
+      "priority": 9
+    },
+    {
+      "name": "Agrigento TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/crMQmn4.png",
+      "website": "http://www.televideoagrigento.tv/"
+    },
+    {
+      "name": "Air Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
+    },
+    {
+      "name": "Alma TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Y8JiDwN.png",
+      "website": "https://almamediaitalia.it/televisione/"
+    },
+    {
+      "name": "Antenna 2 TV",
+      "isFree": true,
+      "website": "https://players.fluidstream.it/Antenna2TV/"
+    },
+    {
+      "name": "Antenna Sicilia",
+      "isFree": true,
+      "website": "https://www.lasiciliaweb.it/live-antennasicilia/"
+    },
+    {
+      "name": "Antenna Sud",
+      "isFree": true,
+      "keywords": "antenna sud -extra",
+      "website": "https://www.antennasud.com/streaming/"
+    },
+    {
+      "name": "Antenna Sud Extra",
+      "isFree": true,
+      "website": "https://www.antennasud.com/streaming-92/"
+    },
+    {
+      "name": "Antenna Tre",
+      "isFree": true,
+      "keywords": "antenna tre -veneto",
+      "website": "https://antennatre.medianordest.it/"
+    },
+    {
+      "name": "Apulia Web TV",
+      "isFree": true,
+      "website": "https://www.apuliawebtv.it/",
+      "priority": 4
+    },
+    {
+      "name": "Arezzo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.arezzotv.it/"
+    },
+    {
+      "name": "Bella Liguria TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg",
+      "website": "https://player.zerounocast.it/playerbellaliguria.html"
+    },
+    {
+      "name": "Bella TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg",
+      "website": "https://bellaradio.it/"
+    },
+    {
+      "name": "Bergamo TV",
+      "isFree": true,
+      "website": "https://bergamotv.it/"
+    },
+    {
+      "name": "BFC Forbes",
+      "isFree": true,
+      "website": "https://bfcvideo.com/category/forbes/"
+    },
+    {
+      "name": "Bike Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4IzVSQI.png",
+      "website": "https://bikechannel.it/"
+    },
+    {
+      "name": "Blaze",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcxhgZUJ2jpKhaCxOZXoJSECb9C.jpg",
+      "website": "http://www.blazetv.it/"
+    },
+    {
+      "name": "Bom Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/bomcine.png",
+      "website": "https://bomchannel.it/"
+    },
+    {
+      "name": "Brindiamo Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ec68b4a6fab3db2880d049e65a16dfc5.png"
+    },
+    {
+      "name": "Caccia e Pesca",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/Cacciatv.png",
+      "website": "http://www.cacciaepesca.tv/"
+    },
+    {
+      "name": "Calabria TV",
+      "isFree": true,
+      "website": "https://calabriatv.it/"
+    },
+    {
+      "name": "Cam Tele3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMWLGu9pFymqipN8yvISHsAaj72.jpg",
+      "website": "https://www.camtele3tv.it/"
+    },
+    {
+      "name": "Canale 162",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png"
+    },
+    {
+      "name": "Canale 165",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png"
+    },
+    {
+      "name": "Canale 21",
+      "isFree": true,
+      "keywords": "canale 21 -extra -lazio",
+      "logo": "https://i.imgur.com/mU6Cq89.png",
+      "website": "http://www.canale21.it/"
+    },
+    {
+      "name": "Canale 21 Extra",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "http://www.canale21.it/"
+    },
+    {
+      "name": "Canale 3 Toscana",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://canale3.tv/"
+    },
+    {
+      "name": "Canale 48",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://www.canale48.it/"
+    },
+    {
+      "name": "Canale 58",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://www.canale58.com/",
+      "priority": 9
+    },
+    {
+      "name": "Canale 88",
+      "isFree": true,
+      "logo": "https://i.imgur.com/47X44DD.png",
+      "website": "https://50canale.tv/streaming/canale-88-dtt-streaming"
+    },
+    {
+      "name": "Canale Dieci",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://canaledieci.it/"
+    },
+    {
+      "name": "Canale Europa TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://www.canaleeuropa.tv/"
+    },
+    {
+      "name": "Canale Italia",
+      "isFree": true,
+      "keywords": "canale italia -83 -84",
+      "website": "https://canaleitalia.it/"
+    },
+    {
+      "name": "Canale Italia 83",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1b28a24ade5e449139a4e300810dca59.png",
+      "website": "https://canaleitalia.it/"
+    },
+    {
+      "name": "Canale Italia 84",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://canaleitalia.it/"
+    },
+    {
+      "name": "Capri Casino",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg",
+      "website": "http://www.capri.tv/"
+    },
+    {
+      "name": "Capri Fashion",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg",
+      "website": "http://www.retecapri.it/"
+    },
+    {
+      "name": "CentoXCento TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.centoxcento.net/"
+    },
+    {
+      "name": "Channel 24",
+      "isFree": true
+    },
+    {
+      "name": "Cielo",
+      "isFree": true,
+      "keywords": "cielo -tv",
+      "logo": "https://go4.pw/ITALY/cielo0.png",
+      "website": "https://www.cielotv.it/"
+    },
+    {
+      "name": "Class TV Moda",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/512px-Class-tv-moda.png",
+      "website": "http://www.tvmoda.it/"
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "website": "http://www.comedycentral.it/"
+    },
+    {
+      "name": "Corallo Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "http://www.corallo.org/"
+    },
+    {
+      "name": "Deluxe 139",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kRexw3w.png"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "website": "https://discoverychannel.it/",
+      "priority": 10
+    },
+    {
+      "name": "DI.TV 80",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png",
+      "website": "http://www.di-tv.net/diretta-streaming/ditv-80/"
+    },
+    {
+      "name": "Di.TV 92",
+      "isFree": true,
+      "website": "http://www.di-tv.net/diretta-streaming/streaming-di-tv-92/"
+    },
+    {
+      "name": "DMAX",
+      "isFree": true,
+      "keywords": "dmax -it",
+      "logo": "https://epg.pw/media/images/channel/2022/06/27/large/20220627220620803027_25.png",
+      "website": "https://dmax.it/"
+    },
+    {
+      "name": "E!",
+      "isFree": true,
+      "website": "https://www.eonline.com/"
+    },
+    {
+      "name": "Emilia-Romagna 24",
+      "isFree": true,
+      "website": "https://www.modenaindiretta.it/"
+    },
+    {
+      "name": "Epiqa",
+      "isFree": true
+    },
+    {
+      "name": "Espansione TV",
+      "isFree": true
+    },
+    {
+      "name": "Extra TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KCBurST.png",
+      "website": "https://www.extratv.it/"
+    },
+    {
+      "name": "Fano TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/orqEzJ6.png",
+      "website": "https://www.fanotv.it/"
+    },
+    {
+      "name": "Fire TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nflONy2WMEui7uCGCAtkD1r9vnl.jpg"
+    },
+    {
+      "name": "FM TV",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "website": "https://www.fmtv.live/streaming/"
+    },
+    {
+      "name": "Fox",
+      "isFree": true,
+      "website": "http://www.foxtv.it/"
+    },
+    {
+      "name": "Gambero Rosso Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/gamberorosso.png",
+      "website": "https://www.gamberorosso.it/"
+    },
+    {
+      "name": "Genius 240",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
+      "website": "https://vaughn.live/geniussrl"
+    },
+    {
+      "name": "Gold TV",
+      "isFree": true,
+      "keywords": "gold tv -sat",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
+      "website": "https://www.goldtv.it/"
+    },
+    {
+      "name": "Gold TV Sat",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
+      "website": "https://www.grupposciscione.it/gold-tv-sat/"
+    },
+    {
+      "name": "GO-TV Canale 163",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png",
+      "website": "https://www.go-tv.org/it/"
+    },
+    {
+      "name": "Granducato TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.telegranducato.it/live-tv/"
+    },
+    {
+      "name": "GRP VERATV",
+      "isFree": true,
+      "website": "https://grp.it/diretta/"
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "keywords": "hgtv -italia",
+      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
+      "website": "https://homegardentv.it/"
+    },
+    {
+      "name": "Il13",
+      "isFree": true,
+      "website": "http://www.iltredici.it/"
+    },
+    {
+      "name": "Italia 7",
+      "isFree": true
+    },
+    {
+      "name": "Italia Channel",
+      "isFree": true,
+      "website": "https://www.italiachannel.it/"
+    },
+    {
+      "name": "Italian Fishing TV",
+      "isFree": true,
+      "website": "https://www.italianfishingtv.it/"
+    },
+    {
+      "name": "La4 Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGRbX0aOcmrqlCIMLq3yXInaGBf.jpg"
+    },
+    {
+      "name": "LA7",
+      "isFree": true,
+      "logo": "https://i.imgur.com/F90mpSa.png",
+      "website": "https://www.la7.it/",
+      "priority": 9
+    },
+    {
+      "name": "La7 Cinema",
+      "isFree": true,
+      "logo": "https://i.imgur.com/khPweok.png",
+      "website": "https://www.la7.it/la7cinema",
+      "priority": 9
+    },
+    {
+      "name": "LA7d",
+      "isFree": true,
+      "website": "https://www.la7.it/la7d",
+      "priority": 9
+    },
+    {
+      "name": "La 9",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "http://www.la9.it/"
+    },
+    {
+      "name": "Lab TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/OpRS6Fl.png",
+      "website": "https://www.labtv.net/"
+    },
+    {
+      "name": "LaC On Air",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/lactv.png",
+      "website": "https://www.lacplay.it/dirette/lac-onair/"
+    },
+    {
+      "name": "La F",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "La Nuova TV",
+      "isFree": true,
+      "website": "https://www.lanuova.net/la-nuova-tv/"
+    },
+    {
+      "name": "La Tr3",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+    },
+    {
+      "name": "Lazio TV",
+      "isFree": true,
+      "website": "https://www.laziotv.it/"
+    },
+    {
+      "name": "Le Cronache TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
+      "website": "http://www.lecronache.info/diretta/"
+    },
+    {
+      "name": "Life 120 Channel",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/997920.png",
+      "website": "https://life120.it/"
+    },
+    {
+      "name": "Lombardia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aksVy9f.jpg",
+      "website": "https://www.lombardiatv.com/"
+    },
+    {
+      "name": "Love in Venice",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lLBzzce.png",
+      "website": "https://live-tv-channels.org/livetv/love-in-venice-live-stream"
+    },
+    {
+      "name": "Luna TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png",
+      "website": "https://www.teleliguriasud.it/diretta-lunatv/"
+    },
+    {
+      "name": "MarcoPolo Travel TV",
+      "isFree": true,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
+      "website": "https://marcopolo.tv/"
+    },
+    {
+      "name": "MEDIA24",
+      "isFree": true,
+      "website": "https://media24tv.it/"
+    },
+    {
+      "name": "Mediaset Extra 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/mediaset20.png",
+      "website": "https://www.mediasetplay.mediaset.it/mediasetextra"
+    },
+    {
+      "name": "Mediaset Italia",
+      "isFree": true,
+      "logo": "https://i.imgur.com/F4gyqhw.png",
+      "website": "https://mediasetitalia.com/"
+    },
+    {
+      "name": "MediaText",
+      "isFree": true,
+      "website": "https://www.mediatext.it/"
+    },
+    {
+      "name": "Media TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png",
+      "website": "https://www.media-tv.it/"
+    },
+    {
+      "name": "MediterraniaTV",
+      "isFree": true,
+      "website": "https://www.mediterraneatv.it/"
+    },
+    {
+      "name": "Milanow",
+      "isFree": true,
+      "website": "https://www.mediapason.it/milanow/"
+    },
+    {
+      "name": "Motori TV",
+      "isFree": true,
+      "website": "https://motori.tv/"
+    },
+    {
+      "name": "MS Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/GOLDTV/gold tv.png",
+      "website": "http://mschannel.tv/"
+    },
+    {
+      "name": "MS Motor TV",
+      "isFree": true,
+      "logo": "https://go4.pw/GOLDTV/gold tv.png",
+      "website": "http://www.msmotor.tv/"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "keywords": "mtv -music",
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "https://www.mtv.it/",
+      "priority": 10
+    },
+    {
+      "name": "NewSignal",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UnZoS95.png",
+      "website": "https://www.newsignal.it/"
+    },
+    {
+      "name": "NoiTV",
+      "isFree": true,
+      "website": "https://www.noitv.it/live/"
+    },
+    {
+      "name": "Nove",
+      "isFree": true,
+      "keywords": "nove -it",
+      "logo": "https://i.imgur.com/Hp723RU.png",
+      "website": "https://www.nove.tv/"
+    },
+    {
+      "name": "NTN",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UKRAIN/NTN.png",
+      "website": "https://www.nuovatvnazionale.it/"
+    },
+    {
+      "name": "Nuova TV 1",
+      "isFree": true,
+      "website": "https://nuovatv.net/"
+    },
+    {
+      "name": "Nuova TV 2",
+      "isFree": true,
+      "website": "https://nuovatv.net/"
+    },
+    {
+      "name": "Odeon 24",
+      "isFree": true
+    },
+    {
+      "name": "Onda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/ONDAC.png",
+      "website": "https://www.ondatv.it/"
+    },
+    {
+      "name": "ORF 1 Sudtirol",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRIA/orf1.png",
+      "website": "https://tv.orf.at/"
+    },
+    {
+      "name": "Otto Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.ottochannel.tv/"
+    },
+    {
+      "name": "Paradise TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0aT45vk.png"
+    },
+    {
+      "name": "Partenope TV",
+      "isFree": true,
+      "website": "https://www.partenope.tv/"
+    },
+    {
+      "name": "Passione Lotto",
+      "isFree": true
+    },
+    {
+      "name": "Peer TV Alto Adige",
+      "isFree": true,
+      "website": "https://www.peer.tv/it"
+    },
+    {
+      "name": "Peer TV South Tyrol",
+      "isFree": true,
+      "website": "https://www.peer.tv/en"
+    },
+    {
+      "name": "Peer TV Sudtirol",
+      "isFree": true,
+      "website": "https://www.peer.tv/"
+    },
+    {
+      "name": "Pesca e Caccia",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/cacciapesca.png",
+      "website": "http://www.cacciaepesca.tv/pesca/"
+    },
+    {
+      "name": "Pink'O TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.pinkotv.com/"
+    },
+    {
+      "name": "Premium Stories",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Prima Free",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
+      "website": "https://www.primafree.net/"
+    },
+    {
+      "name": "PrimAntenna TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4Bx2321.png",
+      "website": "https://www.primantenna.tv/"
+    },
+    {
+      "name": "Prima Tivvu",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/57b856d1a4b47ccd24f268258f946f0e.png",
+      "website": "http://www.primativvu.it/"
+    },
+    {
+      "name": "Prima TV",
+      "isFree": true,
+      "keywords": "prima tv -napoli",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png",
+      "website": "https://www.primatv.tv/"
+    },
+    {
+      "name": "Prima TV Napoli",
+      "isFree": true,
+      "logo": "https://i.imgur.com/yPuQeEy.jpg",
+      "website": "http://www.primatvnapoli.com/"
+    },
+    {
+      "name": "Promovideo TV",
+      "isFree": true,
+      "website": "https://www.promovideotv.com/"
+    },
+    {
+      "name": "Quadrifoglio TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.quadrifogliotv.it/"
+    },
+    {
+      "name": "Quarto Canale Flegreo",
+      "isFree": true
+    },
+    {
+      "name": "Radio Cusano Italia TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://cusanoitaliatv.it/"
+    },
+    {
+      "name": "Radio Norba TV",
+      "isFree": true,
+      "website": "https://radionorba.it/"
+    },
+    {
+      "name": "Radio Roma Television",
+      "isFree": true,
+      "website": "https://www.radioroma.it/diretta-radio-roma-television/"
+    },
+    {
+      "name": "Radio Ticino Channel",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+    },
+    {
+      "name": "Rai 4K",
+      "isFree": true,
+      "logo": "https://i.imgur.com/O1K1fv4.png",
+      "website": "http://www.rai.it/",
+      "priority": 9
+    },
+    {
+      "name": "Rai Alto Adige",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "http://www.raialtoadige.rai.it/",
+      "priority": 9
+    },
+    {
+      "name": "Rai Italia",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG",
+      "website": "http://www.raitalia.it/",
+      "priority": 9
+    },
+    {
+      "name": "Rai Ladinia",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "http://www.railadinia.rai.it/la/index.php",
+      "priority": 9
+    },
+    {
+      "name": "Rainbow",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRlvr8nejfUa3DphrxNDBWTl55M.jpg"
+    },
+    {
+      "name": "Rai Radio 2 Visual",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://www.raiplay.it/dirette/rairadio2",
+      "priority": 9
+    },
+    {
+      "name": "Rai Sudtirol",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5a62a931d3c676afd9828b57704745ec.png",
+      "website": "http://www.raisudtirol.rai.it/de/index.php",
+      "priority": 9
+    },
+    {
+      "name": "Rai World Premium",
+      "isFree": true,
+      "logo": "https://i.imgur.com/tDuKkh3.png",
+      "website": "http://www.raicom.rai.it/canali-estero/",
+      "priority": 9
+    },
+    {
+      "name": "RDS Relax",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://rdsrelax.it/"
+    },
+    {
+      "name": "Rei TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YNRWFOo.png",
+      "website": "https://www.reitv.it/live_tv.html"
+    },
+    {
+      "name": "Rete 8",
+      "isFree": true,
+      "keywords": "rete 8 -sport -vga",
+      "logo": "https://i.imgur.com/jojCxg3.png",
+      "website": "https://www.rete8.it/"
+    },
+    {
+      "name": "Rete 82+",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/rete4.png"
+    },
+    {
+      "name": "Rete 8 VGA",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/rete4.png",
+      "website": "http://www.telerimini.it/"
+    },
+    {
+      "name": "Retecapri",
+      "isFree": true,
+      "website": "http://www.retecapri.it/"
+    },
+    {
+      "name": "Rete Chiara",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/rete4.png",
+      "website": "http://retechiara.it"
+    },
+    {
+      "name": "ReteSette",
+      "isFree": true,
+      "website": "https://www.rete7.cloud/"
+    },
+    {
+      "name": "Rete TV Italia",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/rete4.png",
+      "website": "https://www.retetvitalia.it"
+    },
+    {
+      "name": "Roma TV 82",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0hO0MzC7F6cyqysL4neoAguf0u.jpg",
+      "website": "https://www.grupposciscione.it/"
+    },
+    {
+      "name": "Rossini TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/K0Em0nx.jpg",
+      "website": "https://www.rossinitv.it/"
+    },
+    {
+      "name": "RTC Quarta Rete",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/e53c057a505a27c7e617f7292265f8af.png",
+      "website": "https://www.rtcquartarete.it"
+    },
+    {
+      "name": "RTI Canale 14",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/RTLTV.png",
+      "website": "https://www.rticalabria.tv/"
+    },
+    {
+      "name": "RTM TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png",
+      "website": "https://www.mediasetplay.mediaset.it/mediasetextra"
+    },
+    {
+      "name": "RTV Ilirida",
+      "isFree": true,
+      "keywords": "rtv ilirida -music",
+      "logo": "https://images.iptvmate.net/tvglogo/30058954870a8486ae6089ead2132d6f.png",
+      "website": "http://radioilirida.it/home/"
+    },
+    {
+      "name": "S1 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SWEDEN/s1.png",
+      "website": "https://www.soveratounotv.net/diretta-tv/"
+    },
+    {
+      "name": "Sardegna 1",
+      "isFree": true,
+      "website": "https://www.sardegna1.it/"
+    },
+    {
+      "name": "SCT",
+      "isFree": null
+    },
+    {
+      "name": "Seila TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://seilatv.tv/"
+    },
+    {
+      "name": "Sesta Rete",
+      "isFree": true,
+      "website": "https://sestarete.tv.it/"
+    },
+    {
+      "name": "Sextosenso",
+      "isFree": null
+    },
+    {
+      "name": "Sfera TV",
+      "isFree": true
+    },
+    {
+      "name": "Sharing TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKO3CPkP0ZrDpWMUdbD2i5bzmMZ.jpg",
+      "website": "http://www.sharingtv.it/index.html#Diretta"
+    },
+    {
+      "name": "Sicilia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/I5FoThW.png",
+      "website": "https://www.lyngsat.com/logo/tv/ss/sicilia_tv_it.png"
+    },
+    {
+      "name": "Sisal TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sisal.com/"
+    },
+    {
+      "name": "Sisal TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sisal.com/"
+    },
+    {
+      "name": "Sisal TV 3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sisal.com/"
+    },
+    {
+      "name": "Sisal TV 4",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sisal.com/"
+    },
+    {
+      "name": "Sisal TV 5",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.sisal.com/"
+    },
+    {
+      "name": "Sky Arte",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://arte.sky.it/"
+    },
+    {
+      "name": "Sky Atlantic",
+      "isFree": true,
+      "keywords": "sky atlantic -maratone",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://skyatlantic.sky.it/"
+    },
+    {
+      "name": "Sky Atlantic Maratone",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://skyatlantic.sky.it/"
+    },
+    {
+      "name": "Sky Investigation",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Sky Serie Anime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Sky Uno",
+      "isFree": true,
+      "keywords": "sky uno -vetrina",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://skyuno.sky.it/skyuno/"
+    },
+    {
+      "name": "Sky Uno Vetrina",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://skyuno.sky.it/skyuno/"
+    },
+    {
+      "name": "SNAI Virtuali 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "SNAI Virtuali 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "SNAI Virtuali 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "SNAI Virtuali 8",
+      "isFree": true
+    },
+    {
+      "name": "ST Europe Channel",
+      "isFree": true,
+      "website": "https://www.globusmagazine.it/st-europe-channel-radiotelevision/"
+    },
+    {
+      "name": "Super Six",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://www.supersixtv.net/"
+    },
+    {
+      "name": "T9",
+      "isFree": true,
+      "website": "https://www.grupposciscione.it/t9-2/"
+    },
+    {
+      "name": "Taurianova TV",
+      "isFree": true,
+      "logo": "https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg",
+      "website": "https://www.taurianovatv.it/"
+    },
+    {
+      "name": "TCI",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/28y6RgGn/tci.png",
+      "website": "https://www.tci-italia.it/"
+    },
+    {
+      "name": "Tele A",
+      "isFree": true,
+      "website": "https://palpro.it/telea/"
+    },
+    {
+      "name": "Teleacras",
+      "isFree": true,
+      "logo": "https://i.imgur.com/c3Kw2XT.png",
+      "website": "https://www.teleacras.it/"
+    },
+    {
+      "name": "Telebari",
+      "isFree": true,
+      "website": "https://www.telebari.it/diretta-tv"
+    },
+    {
+      "name": "Telecity Liguria",
+      "isFree": true,
+      "website": "https://www.telecity.it/canali/telecity-liguria/"
+    },
+    {
+      "name": "Telecity Lombardia",
+      "isFree": true,
+      "website": "https://www.telecity.it/canali/telecity-lombardia/"
+    },
+    {
+      "name": "Telecity Piemonte",
+      "isFree": true,
+      "website": "https://www.telecity.it/canali/telecity-piemonte/"
+    },
+    {
+      "name": "Telecity Valle d'Aosta",
+      "isFree": true,
+      "website": "https://www.telecity.it/canali/telecity-valle-daosta/"
+    },
+    {
+      "name": "Tele Clusone",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.teleclusone.com/"
+    },
+    {
+      "name": "Tele Costa Smeralda",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "http://www.telecostasmeralda.tv/"
+    },
+    {
+      "name": "Teleiblea 89",
+      "isFree": true,
+      "website": "https://reteiblea.it/streaming/"
+    },
+    {
+      "name": "TeleJonio",
+      "isFree": true,
+      "website": "http://www.telejonio.com/"
+    },
+    {
+      "name": "Telelombardia",
+      "isFree": true
+    },
+    {
+      "name": "TeleMajg",
+      "isFree": true,
+      "logo": "https://i.imgur.com/j5fnQ1h.png",
+      "website": "http://www.telemajg.com/"
+    },
+    {
+      "name": "Telemantova",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/08/25/20140825030919471970_91.jpg",
+      "website": "https://www.telemantova.it/"
+    },
+    {
+      "name": "TeleMistretta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/BLhvyEi.png",
+      "website": "https://www.telemistretta.it/"
+    },
+    {
+      "name": "Tele Moda",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Telemontecarlo",
+      "isFree": true
+    },
+    {
+      "name": "Telenorba",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/it/4/40/Telenorba.png",
+      "website": "https://norbaonline.it/"
+    },
+    {
+      "name": "TeleNordest",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/ab68de60ef28573a4e75427ff08ea4f8.png"
+    },
+    {
+      "name": "Telenova",
+      "isFree": true
+    },
+    {
+      "name": "Tele One 16",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/BbCgfcLb/teleone16.png",
+      "website": "https://www.mediaoneonline.it/diretta/"
+    },
+    {
+      "name": "TeleRama",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173720781635_58.png",
+      "website": "https://www.trnews.it/"
+    },
+    {
+      "name": "TeleReggio",
+      "isFree": true,
+      "website": "https://www.reggionline.com/telereggio-streaming-diretta/"
+    },
+    {
+      "name": "Teleregione",
+      "isFree": true,
+      "keywords": "teleregione -live",
+      "website": "https://www.teleregionecolor.com/teleregione-live-stream/"
+    },
+    {
+      "name": "Teleregione Live",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DBrt8L3.png",
+      "website": "https://www.teleregionelive.it/streaming/"
+    },
+    {
+      "name": "Teleromagna",
+      "isFree": true,
+      "website": "https://teleromagna.it/it/live/teleromagna"
+    },
+    {
+      "name": "Tele Roma Uno",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "http://www.teleromauno.com/"
+    },
+    {
+      "name": "Telesardegna",
+      "isFree": true,
+      "website": "https://telesardegna.it/"
+    },
+    {
+      "name": "Telesirio Web TV",
+      "isFree": true,
+      "website": "https://www.telesirio.it/",
+      "priority": 4
+    },
+    {
+      "name": "Telestense",
+      "isFree": true,
+      "website": "https://www.telestense.it/"
+    },
+    {
+      "name": "Telesud",
+      "isFree": true,
+      "keywords": "telesud -trapani",
+      "logo": "https://i.postimg.cc/yY23dfg2/telesud.png",
+      "website": "http://www.telesud.it/"
+    },
+    {
+      "name": "Teletruria",
+      "isFree": true,
+      "website": "https://www.teletruria.it/"
+    },
+    {
+      "name": "Teleuniverso",
+      "isFree": true,
+      "website": "https://www.teleuniverso.it/diretta-streaming/"
+    },
+    {
+      "name": "Televallo",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SfGVu6a.png",
+      "website": "https://www.televallo.it/"
+    },
+    {
+      "name": "Ten TV",
+      "isFree": true,
+      "logo": "https://btn.com/wp-content/uploads/2019/12/btn.png",
+      "website": "https://www.tenonline.tv/diretta-tv/#gsc.tab=0"
+    },
+    {
+      "name": "TLT Molise",
+      "isFree": true,
+      "website": "https://www.tltmolise.it/"
+    },
+    {
+      "name": "Top Calcio 24",
+      "isFree": true,
+      "website": "http://www.mediapason.it/topcalcio24/"
+    },
+    {
+      "name": "Top Planet",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.mediapason.it/top-planet/"
+    },
+    {
+      "name": "TRC Bologna",
+      "isFree": true,
+      "website": "https://www.bolognaindiretta.it/trc-bologna/"
+    },
+    {
+      "name": "TRC Modena",
+      "isFree": true,
+      "website": "https://www.bolognaindiretta.it/trc-modena/"
+    },
+    {
+      "name": "Tremedia TV",
+      "isFree": true,
+      "website": "https://www.tremedia.it/"
+    },
+    {
+      "name": "TRG Media",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.trgmedia.it/"
+    },
+    {
+      "name": "TriS",
+      "isFree": true,
+      "website": "https://www.teletris.it/"
+    },
+    {
+      "name": "TRM h24",
+      "isFree": true,
+      "keywords": "trm h24 -basilicata",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.trmtv.it/"
+    },
+    {
+      "name": "TSN Lecco",
+      "isFree": true,
+      "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
+      "website": "https://radiotsn.tv/tsn-lecco-live/"
+    },
+    {
+      "name": "TSN Visual Radio",
+      "isFree": true,
+      "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
+      "website": "https://radiotsn.tv/tsn-visual-radio/"
+    },
+    {
+      "name": "TT24 Teletutto",
+      "isFree": true,
+      "logo": "https://i.imgur.com/RhrJjD5.png",
+      "website": "https://www.teletutto.it/in_diretta/12556.html"
+    },
+    {
+      "name": "TT2 Teletutto",
+      "isFree": true,
+      "logo": "https://i.imgur.com/85BolCh.png",
+      "website": "https://www.teletutto.it/in_diretta/12550.html"
+    },
+    {
+      "name": "TT Teletutto",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/ttraces.png",
+      "website": "https://www.teletutto.it/in_diretta/"
+    },
+    {
+      "name": "TV1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",
+      "website": "https://www.1web.tv/"
+    },
+    {
+      "name": "TV8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QAyakkR.png",
+      "website": "https://www.tv8.it",
+      "priority": 8
+    },
+    {
+      "name": "TVA Vicenza",
+      "isFree": true,
+      "website": "https://tvavicenza.gruppovideomedia.it/"
+    },
+    {
+      "name": "TV Campane 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.tvcampane.com/"
+    },
+    {
+      "name": "TV Campane 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.tvcampane.com/"
+    },
+    {
+      "name": "TV Prato",
+      "isFree": true,
+      "website": "https://www.tvprato.it/"
+    },
+    {
+      "name": "TV Qui Modena",
+      "isFree": true
+    },
+    {
+      "name": "TV Yes Italia",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "UniNettuno University TV",
+      "isFree": true,
+      "website": "https://www.uninettuno.tv/"
+    },
+    {
+      "name": "Unire Blu",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/SYRI_TV.png",
+      "website": "http://www.unire.gov.it/"
+    },
+    {
+      "name": "Unire Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/globo.png",
+      "website": "http://www.unire.gov.it/"
+    },
+    {
+      "name": "Unire TV",
+      "isFree": true,
+      "keywords": "unire tv -1 -2",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.unire.gov.it/"
+    },
+    {
+      "name": "Unire TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.unire.gov.it/"
+    },
+    {
+      "name": "Unire TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.unire.gov.it/"
+    },
+    {
+      "name": "Uno4",
+      "isFree": true,
+      "website": "https://uno4.it/diretta/"
+    },
+    {
+      "name": "Value 24 TV",
+      "isFree": true,
+      "website": "https://www.value24.tv/"
+    },
+    {
+      "name": "Video 33",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg",
+      "website": "https://www.video33.it/"
+    },
+    {
+      "name": "Video Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg",
+      "website": "https://web.archive.org/web/20081205021909/http://www.videoitalia.it/"
+    },
+    {
+      "name": "Videolina Sardegna",
+      "isFree": true
+    },
+    {
+      "name": "Video Mediterraneo",
+      "isFree": true,
+      "website": "https://www.videomediterraneo.it/live/"
+    },
+    {
+      "name": "VideoRegione",
+      "isFree": true,
+      "website": "https://videoregione.it/"
+    },
+    {
+      "name": "VideoTouring",
+      "isFree": true,
+      "website": "https://progettotouring.it/videotouring/"
+    },
+    {
+      "name": "Well TV",
+      "isFree": true,
+      "website": "https://www.welltv.eu/"
+    },
+    {
+      "name": "Zelig",
+      "isFree": true,
+      "website": "https://www.areazelig.it/"
+    },
+    {
+      "name": "20",
+      "isFree": true,
+      "logo": "https://goo.gl/2b1DSg",
+      "website": "https://www.mediasetplay.mediaset.it/20mediaset"
+    },
+    {
+      "name": "AltoAdige TV",
+      "isFree": true,
+      "website": "https://www.altoadigetv.it/"
+    },
+    {
+      "name": "Canale 8",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/bdeb2b42d6070e1599660c20029ba3e9.png"
+    },
+    {
+      "name": "CarinaTV",
+      "isFree": true,
+      "website": "https://www.carinatv.it/"
+    },
+    {
+      "name": "Italia2TV",
+      "isFree": true,
+      "website": "https://www.italia2tv.it/"
+    },
+    {
+      "name": "La5",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/512px-La5_Mediaset.svg.png",
+      "website": "https://www.mediasetplay.mediaset.it/la5"
+    },
+    {
+      "name": "Telepavia",
+      "isFree": true
+    },
+    {
+      "name": "TelePordenone",
+      "isFree": true,
+      "website": "http://www.telepordenone.tv/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Company TV",
+      "isFree": true
+    },
+    {
+      "name": "DeeJay TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YV27Chs.png"
+    },
+    {
+      "name": "Euro Indie Music Chart TV",
+      "isFree": true,
+      "shortName": "EIMCT",
+      "logo": "https://go4.pw/germany/eurns.png"
+    },
+    {
+      "name": "RTL 102.5",
+      "isFree": true,
+      "keywords": "rtl 102.5 -best -tv",
+      "logo": "https://i.imgur.com/KdissvS.png"
+    },
+    {
+      "name": "Video Rola",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg"
+    },
+    {
+      "name": "m2o TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png"
+    },
+    {
+      "name": "70-80 TV",
+      "isFree": true,
+      "website": "https://www.70-80.it/tv-player/"
+    },
+    {
+      "name": "7 RadioVisione",
+      "isFree": true,
+      "website": "https://radio7note.com/"
+    },
+    {
+      "name": "7 YOU & ME",
+      "isFree": true,
+      "website": "https://radioyoume.com"
+    },
+    {
+      "name": "Babayaga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.babayaga.fun/"
+    },
+    {
+      "name": "Classica",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2017/11/23/large/20171123202358057725_47.png",
+      "website": "http://www.mondoclassica.it/"
+    },
+    {
+      "name": "Lombardia Radio TV",
+      "isFree": true,
+      "website": "http://www.lombardiaradiotv.it/"
+    },
+    {
+      "name": "Mojito TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.mojitotv.it/"
+    },
+    {
+      "name": "MTV Music",
+      "isFree": true,
+      "website": "http://www.mtv.it/",
+      "priority": 8
+    },
+    {
+      "name": "Otto FM TV",
+      "isFree": true,
+      "website": "https://ottofm.com/"
+    },
+    {
+      "name": "Radio Adige TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radioadige.tv/"
+    },
+    {
+      "name": "Radio Bruno TV",
+      "isFree": true,
+      "website": "http://www.radiobruno.it/radio-bruno-tv/"
+    },
+    {
+      "name": "Radio Capital TiVu",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.capital.it/tv/"
+    },
+    {
+      "name": "Radiofreccia",
+      "isFree": true,
+      "website": "https://play.rtl.it/live/17/radiofreccia-radiovisione/"
+    },
+    {
+      "name": "Radio Italia Anni 60 TV",
+      "isFree": true,
+      "website": "https://www.radioitaliaanni60.it/"
+    },
+    {
+      "name": "Radio Italia Trend TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radioitalia.it/radioitaliatrend.php"
+    },
+    {
+      "name": "Radiolina TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiolina.it/"
+    },
+    {
+      "name": "Radio Marte TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiomarte.it/marte/radio-marte-tv/"
+    },
+    {
+      "name": "Radio Millenium TV",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiomillennium.it/streaming/streaming-radiomillenniumtv"
+    },
+    {
+      "name": "RadioMusica TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://radiomusicatv.it/"
+    },
+    {
+      "name": "Radio Parsifal Radio Visione",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.parsifal.it/desktop/"
+    },
+    {
+      "name": "RTL 102.5 Best",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a93abee7612936f1776a98975f249f13.png",
+      "website": "https://play.rtl.it/live/2/rtl-1025-best-tv/"
+    },
+    {
+      "name": "RTL 102.5 Bro&Sis",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.it/live/16/bro-and-sis-tv/"
+    },
+    {
+      "name": "RTL 102.5 Caliente",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.it/live/44/rtl-1025-caliente-tv/"
+    },
+    {
+      "name": "RTL 102.5 Disco",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.it/live/21/rtl-1025-doc-tv/"
+    },
+    {
+      "name": "RTL 102.5 Napule",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://play.rtl.it/live/20/rtl-1025-napule-tv/"
+    },
+    {
+      "name": "RTL 102.5 Traffic",
+      "isFree": true,
+      "website": "https://play.rtl.it/live/35/rtl-1025-news-tv/"
+    },
+    {
+      "name": "RTV Ilirida Music",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://radioilirida.it/home/"
+    },
+    {
+      "name": "Sky Classica",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://skymedia.it/canali/classica/"
+    },
+    {
+      "name": "SL48 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "http://www.sl48.tv/web/home.asp"
+    },
+    {
+      "name": "Studio 7 TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
+      "website": "https://www.radiostudio7.net/tv"
+    },
+    {
+      "name": "VH1",
+      "isFree": true,
+      "keywords": "vh1 -italia",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png",
+      "website": "https://www.mtv.it/topic/vh1"
+    },
+    {
+      "name": "Zerouno TV Music",
+      "isFree": true,
+      "logo": "https://i.imgur.com/RMPVvGR.png"
+    }
+  ],
+  "News": [
+    {
+      "name": "Bloomberg",
+      "isFree": true
+    },
+    {
+      "name": "Canale 2",
+      "isFree": true,
+      "keywords": "canale 2 -altamura",
+      "logo": "https://go4.pw/EUROPE/ITALY/canal55.png"
+    },
+    {
+      "name": "Canale 7",
+      "isFree": true
+    },
+    {
+      "name": "Class CNBC",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3Ei5VHa.png"
+    },
+    {
+      "name": "ETV Marche",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6a67305e652672b265dc032524a5c22b.png"
+    },
+    {
+      "name": "Euronews",
+      "isFree": true,
+      "keywords": "euronews -italiano",
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "website": "https://www.euronews.com",
+      "priority": 10
+    },
+    {
+      "name": "Euronews Italiano",
+      "isFree": true,
+      "shortName": "EI",
+      "priority": 9
+    },
+    {
+      "name": "RAI News 24",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174021801258_80.png",
+      "priority": 9
+    },
+    {
+      "name": "Sky TG24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "TGCom 24",
+      "isFree": true,
+      "keywords": "tgcom 24 | tgcom24"
+    },
+    {
+      "name": "TSN Tele Sondrio News",
+      "isFree": true,
+      "keywords": "tsn tele sondrio news | tsn telesondrio news",
+      "shortName": "TTSN",
+      "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png"
+    },
+    {
+      "name": "TV7 News",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5858234a761f5b1b066686bd30279587.png"
+    },
+    {
+      "name": "Tele Sondrio News",
+      "isFree": true,
+      "shortName": "TSN"
+    },
+    {
+      "name": "A3",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/A3S.png",
+      "website": "https://antennatre.medianordest.it/live/"
+    },
+    {
+      "name": "Adnkronos",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mEoDAf1.png",
+      "website": "https://www.adnkronos.com/"
+    },
+    {
+      "name": "ByoBlu",
+      "isFree": true,
+      "website": "https://www.byoblu.com/diretta-tv/"
+    },
+    {
+      "name": "CalabriaUno TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://calabriauno.news/"
+    },
+    {
+      "name": "Etna Espresso Channel",
+      "isFree": true,
+      "website": "https://www.radioetnaespresso.com/"
+    },
+    {
+      "name": "eTv Rete 7",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
+      "website": "https://e-tv.it/"
+    },
+    {
+      "name": "Giornale Radio News TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2Y5qiao.png",
+      "website": "https://giornaleradio.fm/canali-tv/giornale-radio-news-tv"
+    },
+    {
+      "name": "Giornale Radio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2Y5qiao.png",
+      "website": "https://giornaleradio.fm/canali-tv/giornaleradio-tv"
+    },
+    {
+      "name": "Info Media News",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://infomedianews.com/"
+    },
+    {
+      "name": "LaC News 24",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/lactv.png",
+      "website": "https://www.lacplay.it/dirette/lac-news24/"
+    },
+    {
+      "name": "La Grande Italia",
+      "isFree": true,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "website": "https://grandeitaliatv.wordpress.com/"
+    },
+    {
+      "name": "L'altro Corriere TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/05YWVCq.png",
+      "website": "https://www.laltrocorriere.it/"
+    },
+    {
+      "name": "Minformo TV",
+      "isFree": true,
+      "website": "https://www.minformo.tv/"
+    },
+    {
+      "name": "Pop Economy",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.popeconomy.tv/"
+    },
+    {
+      "name": "Radio Roma News",
+      "isFree": true,
+      "website": "https://www.radioroma.it/"
+    },
+    {
+      "name": "Sky Meteo 24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://meteo.sky.it"
+    },
+    {
+      "name": "Sky TG24 Eventi",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/"
+    },
+    {
+      "name": "Sky TG24 Primo Piano",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/"
+    },
+    {
+      "name": "Sky TG24 Rassegne",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/"
+    },
+    {
+      "name": "TCF TV",
+      "isFree": true,
+      "website": "https://www.tcftv.it/"
+    },
+    {
+      "name": "Telegela 647",
+      "isFree": true,
+      "website": "https://www.quotidianodigela.it/telegela/"
+    },
+    {
+      "name": "Telejato",
+      "isFree": true,
+      "website": "https://www.telejato.it/"
+    },
+    {
+      "name": "Teleradio Futura Nissa",
+      "isFree": true,
+      "logo": "https://go4.pw/BRAZIL/FUTURA.png",
+      "website": "https://www.tfnweb.it/"
+    },
+    {
+      "name": "tv9 Telemaremma",
+      "isFree": true,
+      "logo": "https://go4.pw/INDONESIA/TV9.png",
+      "website": "https://www.tv9italia.it/"
+    },
+    {
+      "name": "Zerouno TV News",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vxRzyjE.png"
+    },
+    {
+      "name": "eTv Marche",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6a67305e652672b265dc032524a5c22b.png",
+      "website": "https://etvmarche.it/"
+    },
+    {
+      "name": "Rai News 24",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174021801258_80.png",
+      "website": "https://www.rainews.it/",
+      "priority": 9
+    },
+    {
+      "name": "TGCom24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/3ca99693fbd44e0b86aafba14a7e6b4a.png",
+      "website": "https://www.tgcom24.mediaset.it/"
+    },
+    {
+      "name": "TSN TeleSondrio News",
+      "isFree": true,
+      "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
+      "website": "https://radiotsn.tv/tsn-telesondrio-news-live/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Cielo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2PNw6BA.png"
+    },
+    {
+      "name": "Padre Pio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4tOxCnv1OZmAIWwaG5XwIa4n55.jpg"
+    },
+    {
+      "name": "Tele Padre Pio",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+    },
+    {
+      "name": "Giovanni Paolo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GH5eJE6.png",
+      "website": "https://diretta.giovannipaolotv.it/"
+    },
+    {
+      "name": "HopeMedia Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGRbX0aOcmrqlCIMLq3yXInaGBf.jpg",
+      "website": "https://hopemedia.it/"
+    },
+    {
+      "name": "Maria Vision Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xHKEYfrO1FpVZJJnKy5BhfWVCK.jpg",
+      "website": "https://www.mariavision.com/mvitaliaenvivo"
+    },
+    {
+      "name": "Medjugorje Italia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xUOspBx.png",
+      "website": "https://www.medjugorjeitaliatv.net/"
+    },
+    {
+      "name": "Tele Dehon",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.teledehon.it/"
+    },
+    {
+      "name": "Telepace 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.teleradiopace.tv/trasmissioni/"
+    },
+    {
+      "name": "Telepace 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.teleradiopace.tv/trasmissioni/"
+    },
+    {
+      "name": "Telepace 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.teleradiopace.tv/palinsesti-settimana/telepace-3-canale-115/"
+    },
+    {
+      "name": "Telepace 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.teleradiopace.tv/palinsesti-settimana/telepace-4-canale-218/"
+    },
+    {
+      "name": "Telepace News",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.teleradiopace.tv/trasmissioni/"
+    },
+    {
+      "name": "Telepace Trento",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TpdsPWG.png",
+      "website": "https://www.telepacetrento.it/diretta/"
+    },
+    {
+      "name": "TeleSanDomenico",
+      "isFree": true,
+      "website": "https://www.tsdtv.it/"
+    },
+    {
+      "name": "TV2000",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/TV2000.png",
+      "website": "https://www.tv2000.it/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "History Lab",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "Orler TV",
+      "isFree": true
+    },
+    {
+      "name": "7 STORIA",
+      "isFree": true
+    },
+    {
+      "name": "Arte Atelier",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
+      "website": "http://www.arteatelier.it/",
+      "priority": 9
+    },
+    {
+      "name": "Arte Network Orler Canale Due",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
+      "website": "https://www.artenetwork.it/streamingtv/",
+      "priority": 9
+    },
+    {
+      "name": "Arte Network Orler Canale Uno",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
+      "website": "https://www.artenetwork.it/streamingtv/",
+      "priority": 9
+    },
+    {
+      "name": "Explorer HD Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4NaJKHXpxuva6VWkKsKD99FL3a.jpg",
+      "website": "https://www.explorertv.it/"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "keywords": "history -lab",
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://www.historychannel.it/"
+    },
+    {
+      "name": "Nat Geo People",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.nationalgeographic.it/",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://www.natgeowild.it/",
+      "priority": 9
+    },
+    {
+      "name": "Paci Contemporary Channel",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/L8KNjsK4/pacicontemporarychannel.png",
+      "website": "https://www.pacicontemporary.com/"
+    },
+    {
+      "name": "Sky Adventure",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Documentaries",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Sky Nature",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Teatro TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GbyLSc2.png",
+      "website": "http://www.teatrotv.it/"
+    },
+    {
+      "name": "TeleAmbiente TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/c7w7DRL.png",
+      "website": "https://www.teleambiente.it/"
+    },
+    {
+      "name": "Telearte",
+      "isFree": true,
+      "website": "https://www.teleartetv.it/streaming/"
+    },
+    {
+      "name": "The Map Report TV",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "https://www.themapreport.com/the-map-report-tv/"
+    },
+    {
+      "name": "Wedding TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/dFCrfbk.png",
+      "website": "https://www.weddingtv.it/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Action Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/5d95cd1e3b92e98d9aeafb4bf728f27f.png"
+    },
+    {
+      "name": "Cine 34",
+      "isFree": false,
+      "keywords": "cine 34 | cine34",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png"
+    },
+    {
+      "name": "Comedy Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/4c64e13f3b9cb2a7c4f20145454adbe6.png"
+    },
+    {
+      "name": "Family Movies",
+      "isFree": false,
+      "logo": "https://images.iptvmate.net/tvglogo/830c4d282345c6a83d5dbadd6aa7426b.png"
+    },
+    {
+      "name": "Minerva Bizzarro Movies",
+      "isFree": false,
+      "shortName": "MBM",
+      "logo": "https://images.iptvmate.net/tvglogo/e7c9c5bf323949019c6aeb119bedb1df.png"
+    },
+    {
+      "name": "Minerva Cinema Segreto",
+      "isFree": false,
+      "shortName": "MCS",
+      "logo": "https://images.iptvmate.net/tvglogo/c09fdacc93140b9aa841694ba43a7759.png"
+    },
+    {
+      "name": "Rai Movie",
+      "isFree": false,
+      "keywords": "rai movie -tv",
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Rai Movie TV",
+      "isFree": false,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "AXN",
+      "isFree": true,
+      "logo": "https://imgur.com/EYAmbe4.png"
+    },
+    {
+      "name": "Bizzarro Movies",
+      "isFree": true,
+      "logo": "https://i.imgur.com/EbDLnZB.png"
+    },
+    {
+      "name": "Cinema Segreto",
+      "isFree": true
+    },
+    {
+      "name": "Crime + Investigation",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+    },
+    {
+      "name": "Horror Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74A18wH8B5QHMJlg1qMSXEMyMAm.jpg"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png"
+    },
+    {
+      "name": "Premium Action",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Premium Cinema 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Premium Cinema 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Premium Cinema 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Premium Crime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+    },
+    {
+      "name": "Sky Cinema 4K",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Action",
+      "isFree": true,
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Classics",
+      "isFree": true,
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Collection",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Comedy",
+      "isFree": true,
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Drama",
+      "isFree": true,
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Due",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Family",
+      "isFree": true,
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Mania",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Max",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Romance",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Suspense",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Cinema Uno",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://tg24.sky.it/spettacolo/skycinema/home.html"
+    },
+    {
+      "name": "Sky Crime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.com/tv/cinema"
+    },
+    {
+      "name": "Sky Primafila 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 10",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 11",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 12",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 13",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 14",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 15",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 16",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 17",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 18",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 19",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 20",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 21",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 22",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 23",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 25",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 26",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 27",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 28",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Primafila 9",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/offerta-sky/servizi/sky-primafila.html"
+    },
+    {
+      "name": "Sky Serie",
+      "isFree": true,
+      "keywords": "sky serie -anime",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Twentyseven",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/MALTA/Twentyseven.png",
+      "website": "https://www.mediasetplay.mediaset.it/27twentyseven"
+    },
+    {
+      "name": "Warner TV",
+      "isFree": true,
+      "website": "https://warnertv.it/"
+    },
+    {
+      "name": "Cine34",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/cine34.png",
+      "website": "https://www.mediasetplay.mediaset.it/cine34"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "RTV San Marino Sport",
+      "isFree": false,
+      "shortName": "RSMS",
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "Rete8 Sport",
+      "isFree": false,
+      "keywords": "rete 8 sport | rete8 sport",
+      "logo": "https://go4.pw/EUROPE/ITALY/rete4.png"
+    },
+    {
+      "name": "ACI Sport TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/U8cHMOt.png",
+      "website": "https://www.acisport.it/"
+    },
+    {
+      "name": "Class Horse TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
+      "website": "https://www.classhorse.tv/"
+    },
+    {
+      "name": "EQUtv",
+      "isFree": true
+    },
+    {
+      "name": "GoldBet League",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+      "website": "https://games.goldbet.it/Providers/MixedProvider/Casino-GenericCasinoMixed"
+    },
+    {
+      "name": "GoldBet Racing",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "website": "https://games.goldbet.it/Providers/MixedProvider/Casino-GenericCasinoMixed"
+    },
+    {
+      "name": "Horse TV",
+      "isFree": true,
+      "logo": "https://media.unreel.me/prod/rewardedtv/logo/f37895fb-2579-4ffd-acb3-fd229c073986",
+      "website": "https://www.classhorse.tv/"
+    },
+    {
+      "name": "Inter TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/FUTqh2L.png",
+      "website": "https://www.inter.it/it/intertv"
+    },
+    {
+      "name": "Lazio Style Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/latziotv.png",
+      "website": "https://www.sslazio.it/"
+    },
+    {
+      "name": "MadeinBO TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/TY4qcYz5/madeinbotv.png",
+      "website": "https://www.madeinbo.tv/"
+    },
+    {
+      "name": "Milan TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkwBgLD0mu6e9WxtVHynWRFViIa.jpg",
+      "website": "http://www.acmilan.com/"
+    },
+    {
+      "name": "Nautical Channel",
+      "isFree": true,
+      "website": "https://nauticalchannel.com/"
+    },
+    {
+      "name": "Radio Roma",
+      "isFree": true,
+      "keywords": "radio roma -news -television",
+      "website": "https://www.radioroma.it/diretta-radio-roma/"
+    },
+    {
+      "name": "Sky Calcio 10",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Calcio 11",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 24",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport 251",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 252",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 253",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 254",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 255",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 256",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 257",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 258",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 259",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport 4K",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport Action",
+      "isFree": true,
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Arena",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Bar 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport Bar 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport Bar 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport Basket",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Calcio",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport F1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://sport.sky.it/sport/formula1/home.html"
+    },
+    {
+      "name": "Sky Sport Football",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Golf",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Legend",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://www.sky.it/"
+    },
+    {
+      "name": "Sky Sport Max",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Mix",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://www.sky.de/"
+    },
+    {
+      "name": "Sky Sport Moto GP",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "http://sport.sky.it/sport/motogp/"
+    },
+    {
+      "name": "Sky Sport Tennis",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "Sky Sport Uno",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "website": "https://sport.sky.it/"
+    },
+    {
+      "name": "SporTVL",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/aaecdabac033c3b7a8835b0e653586e0.png",
+      "website": "https://www.tvl.it/it/diretta-sportvl"
+    },
+    {
+      "name": "SuperTennis",
+      "isFree": true,
+      "logo": "https://i.imgur.com/GzsPlbX.png",
+      "website": "https://www.supertennis.tv/"
+    },
+    {
+      "name": "TR Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/TURKEY.png",
+      "website": "https://teleromagna.it/it/live/tr-sport"
+    },
+    {
+      "name": "Udinese TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/DAZN.png",
+      "website": "https://www.udinesetv.it/"
+    },
+    {
+      "name": "Zona DAZN",
+      "isFree": true,
+      "keywords": "zona dazn -2 -3 -4 -5",
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.dazn.com/en-IT/schedule"
+    },
+    {
+      "name": "Zona DAZN 2",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.dazn.com/en-IT/schedule"
+    },
+    {
+      "name": "Zona DAZN 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.dazn.com/en-IT/schedule"
+    },
+    {
+      "name": "Zona DAZN 4",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.dazn.com/en-IT/schedule"
+    },
+    {
+      "name": "Zona DAZN 5",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
+      "website": "https://www.dazn.com/en-IT/schedule"
+    },
+    {
+      "name": "Rete 8 Sport",
+      "isFree": true,
+      "logo": "https://i.imgur.com/uUAjWlF.png",
+      "website": "https://www.rete8.it/canali-tv/rete8-sport/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Donna Shopping",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/eee7f3f32066a1e2df477ccaaa38b972.png"
+    },
+    {
+      "name": "QVC Italia",
+      "isFree": true
+    },
+    {
+      "name": "Antichita Chiossone",
+      "isFree": true,
+      "website": "https://www.chlw.it/"
+    },
+    {
+      "name": "Arte Investimenti",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
+      "website": "https://www.arteinvestimenti.it/",
+      "priority": 9
+    },
+    {
+      "name": "Casa Italia 53",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvTGWaQejnHQBZbEOrdbb38NBTC.jpg",
+      "website": "https://casaitalia.tv/streaming-tv/"
+    },
+    {
+      "name": "GM24",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PoXd0su.png",
+      "website": "https://www.gm24.it/"
+    },
+    {
+      "name": "InWild",
+      "isFree": true,
+      "website": "https://www.inwild.com/"
+    },
+    {
+      "name": "Juwelo",
+      "isFree": true,
+      "website": "https://www.juwelo.it/"
+    },
+    {
+      "name": "Linea Gem",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPlA81QP61aUBQHwLmei5X9EXub.jpg",
+      "website": "https://www.lineagem.it/"
+    },
+    {
+      "name": "Linea Italia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPlA81QP61aUBQHwLmei5X9EXub.jpg",
+      "website": "https://www.lineaitalia.com/en/contacts/"
+    },
+    {
+      "name": "QVC",
+      "isFree": true,
+      "keywords": "qvc -italia",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174951942025_45.png",
+      "website": "https://www.qvc.it/"
+    },
+    {
+      "name": "Tele Shopping",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+      "website": "https://www.tele-shopping.it/"
+    },
+    {
+      "name": "Tesory Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.prontogold.tv/tesory-cannel-live-stream"
+    },
+    {
+      "name": "Tiziana Lotto",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jYmy4G5.png",
+      "website": "https://tizianalotto.it/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "51 Radio TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5472234e3201a22844fcebebd3c7421f.png",
+      "priority": 4
+    },
+    {
+      "name": "RADIO FRECCIA",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5d13f28c4390ac64eff48f045f3bec5c.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio 105 TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/img/logo/1_121.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Radio 24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/da4dd9ec8c1e164273eac6a87bc53c50.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio 51",
+      "isFree": true,
+      "keywords": "radio 51 -tv",
+      "priority": 4
+    },
+    {
+      "name": "Radio 51 TV",
+      "isFree": true,
+      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radio51.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Birikina TV",
+      "isFree": true,
+      "shortName": "RBT",
+      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radiobirikina.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Capital TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/762a930944458ac33780ca597a74905b.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Ibiza TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KfFqYQi.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Iglesias",
+      "isFree": true,
+      "keywords": "radio iglesias -sardegna",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Iglesias Sardegna",
+      "isFree": true,
+      "shortName": "RIS",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Italia TV",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radio Lombardia TV",
+      "isFree": true,
+      "shortName": "RLT",
+      "logo": "https://images.iptvmate.net/tvglogo/c631f38c695cefabc9f6c9c133b9fdff.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Monte Carlo TV",
+      "isFree": true,
+      "shortName": "RMCT",
+      "logo": "https://epg.pw/media/img/logo/1_115.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Radio Number One",
+      "isFree": true,
+      "priority": 4
+    },
+    {
+      "name": "Radio Piter Pan TV",
+      "isFree": true,
+      "shortName": "RPPT",
+      "priority": 4
+    },
+    {
+      "name": "Radio Radicale TV",
+      "isFree": true,
+      "shortName": "RRT",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Radio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iKuRg2b.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Studio Delta TV",
+      "isFree": true,
+      "shortName": "RSDT",
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Taormina Sicilia",
+      "isFree": true,
+      "shortName": "RTS",
+      "priority": 4
+    },
+    {
+      "name": "Radio Zeta",
+      "isFree": true,
+      "keywords": "radio zeta -tv",
+      "logo": "https://i.imgur.com/K2xLMin.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio Zeta TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/7fca06a85daeb6e516dd4960d784b84b.png",
+      "priority": 4
+    },
+    {
+      "name": "Radio m2o TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/6c0ec53fa21ea53cd6c0dcae02d456ef.png",
+      "priority": 4
+    },
+    {
+      "name": "Tele Radio Sciacca",
+      "isFree": true,
+      "shortName": "TRS",
+      "logo": "https://i.imgur.com/suhz5mE.png",
+      "priority": 4
+    },
+    {
+      "name": "Virgin Radio TV",
+      "isFree": true,
+      "keywords": "virgin radio tv -hd - music",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Virgin Radio TV HD - Music",
+      "isFree": true,
+      "shortName": "VRTHM",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Visual Radio",
+      "isFree": true,
+      "priority": 4
+    }
+  ],
+  "Kids": [
+    {
+      "name": "BeJoy.kids",
+      "isFree": true,
+      "website": "https://www.bejoy.kids"
+    },
+    {
+      "name": "Boing",
+      "isFree": true,
+      "keywords": "boing -africa -italia -plus",
+      "logo": "https://go4.pw/EUROPE/ITALY/boing.png",
+      "website": "https://www.boingtv.it/"
+    },
+    {
+      "name": "Boing Africa",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/boing.png"
+    },
+    {
+      "name": "Boing Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ITALY/boing.png",
+      "website": "https://www.boingtv.it/"
+    },
+    {
+      "name": "Boomerang",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xF8jZoR.png",
+      "website": "http://www.boomerangtv.it/"
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": true,
+      "website": "http://www.cartoonnetwork.it/"
+    },
+    {
+      "name": "DeA Junior",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/deakids.png",
+      "website": "https://www.deajunior.it/"
+    },
+    {
+      "name": "DeA Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/deakids.png",
+      "website": "https://www.deakids.it/"
+    },
+    {
+      "name": "Frisbee",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9y1zIAe.png",
+      "website": "https://www.frisbeetv.it/"
+    },
+    {
+      "name": "K2",
+      "isFree": true,
+      "website": "https://www.discoveryplus.com/it/channel/k2"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nicktv.it/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "http://www.nickjr.it/"
+    },
+    {
+      "name": "Rai Yoyo",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "http://www.raiyoyo.rai.it/",
+      "priority": 9
+    }
+  ]
+}

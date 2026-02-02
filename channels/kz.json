@@ -1,0 +1,491 @@
+{
+  "News": [
+    {
+      "name": "Atameken Business",
+      "isFree": true,
+      "shortName": "AB"
+    },
+    {
+      "name": "Caspian News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg"
+    },
+    {
+      "name": "24KZ",
+      "isFree": true,
+      "website": "https://24.kz/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "31 канал",
+      "isFree": true
+    },
+    {
+      "name": "7 канал",
+      "isFree": true
+    },
+    {
+      "name": "Asyl Arna",
+      "isFree": true
+    },
+    {
+      "name": "Dombyra TV",
+      "isFree": true
+    },
+    {
+      "name": "Gakku",
+      "isFree": true
+    },
+    {
+      "name": "Hit TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/1MDrKkK/image-1.png"
+    },
+    {
+      "name": "Алматы",
+      "isFree": true
+    },
+    {
+      "name": "Астана",
+      "isFree": true
+    },
+    {
+      "name": "КМА",
+      "isFree": true
+    },
+    {
+      "name": "КТК",
+      "isFree": true
+    },
+    {
+      "name": "МТРК",
+      "isFree": true
+    },
+    {
+      "name": "СТВ",
+      "isFree": true
+    },
+    {
+      "name": "Хабар 24",
+      "isFree": true
+    },
+    {
+      "name": "1 Severnyy",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://1severniy.kz/"
+    },
+    {
+      "name": "31 Kanal",
+      "isFree": true,
+      "logo": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg",
+      "website": "https://31.kz/"
+    },
+    {
+      "name": "5 Kanal",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/480px-Logo_5_Channel.svg.png",
+      "website": "https://5tv.kz/"
+    },
+    {
+      "name": "Aigak TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://aigak.kz/"
+    },
+    {
+      "name": "Alatau TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9768.png",
+      "website": "https://alatautv.kz/"
+    },
+    {
+      "name": "Alau TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gK6ZRzp.png"
+    },
+    {
+      "name": "Almaty TV",
+      "isFree": true,
+      "website": "https://31.kz/"
+    },
+    {
+      "name": "Altai",
+      "isFree": true,
+      "website": "https://altaitv.kz/ru"
+    },
+    {
+      "name": "Alva TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alvatv.kz/"
+    },
+    {
+      "name": "Aqjaiyq",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZqIzzmf.png",
+      "website": "http://oraltv.kz/"
+    },
+    {
+      "name": "Aqsham TV",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9174.png"
+    },
+    {
+      "name": "Aqtobe",
+      "isFree": true,
+      "logo": "https://i.imgur.com/csKl1z6.png",
+      "website": "http://aktobetv.kz/"
+    },
+    {
+      "name": "Assembly TV",
+      "isFree": true,
+      "logo": "https://go4.pw/CANADA/LEGISLATIVE-ASSEMBLY-OF-ONTARIO.png"
+    },
+    {
+      "name": "Astana TV",
+      "isFree": true,
+      "website": "https://astanatv.kz/"
+    },
+    {
+      "name": "Atyray",
+      "isFree": true,
+      "website": "http://atyrautv.kz/"
+    },
+    {
+      "name": "Channel 7 Kazakhstan",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://tv7.kz/"
+    },
+    {
+      "name": "Channel One Eurasia",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://1tv.kz/"
+    },
+    {
+      "name": "Ertis",
+      "isFree": true,
+      "website": "http://pavlodartv.kz/"
+    },
+    {
+      "name": "Han TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPBXeKEKW4IAxrgwD2bLjmlhjBs.jpg",
+      "website": "https://hantv.kz/"
+    },
+    {
+      "name": "Irbis TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://irbistv.kz/"
+    },
+    {
+      "name": "Jambyl",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9172.png",
+      "website": "https://jambyltv.kz/kz"
+    },
+    {
+      "name": "Jibek Joly",
+      "isFree": true,
+      "website": "https://jjtv.kz/en"
+    },
+    {
+      "name": "Khabar",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304145514747657_29.jpg",
+      "website": "https://khabar.kz/"
+    },
+    {
+      "name": "Kokshe",
+      "isFree": true,
+      "logo": "https://i.imgur.com/pOR3FSR.png",
+      "website": "http://kokshetautv.kz/"
+    },
+    {
+      "name": "KTK",
+      "isFree": true,
+      "website": "https://www.ktk.kz/"
+    },
+    {
+      "name": "Mangystay",
+      "isFree": true,
+      "logo": "https://i.imgur.com/9JfLseu.png",
+      "website": "https://mangystautv.kz/kz"
+    },
+    {
+      "name": "MTRK",
+      "isFree": true,
+      "website": "https://mtrk.kz/ru/"
+    },
+    {
+      "name": "Novoe televidenie",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
+      "website": "https://novoetv.kz/smotret-onlajn/"
+    },
+    {
+      "name": "NTK",
+      "isFree": true,
+      "logo": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",
+      "website": "http://www.ntk.kz/"
+    },
+    {
+      "name": "Ontustik",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9169.png",
+      "website": "http://shymkenttv.kz/"
+    },
+    {
+      "name": "OTAU TV Channel",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://otautv.kz/"
+    },
+    {
+      "name": "Otyrar TV",
+      "isFree": true,
+      "website": "https://otyrar.kz/"
+    },
+    {
+      "name": "Qazaqstan",
+      "isFree": true,
+      "keywords": "qazaqstan -international",
+      "website": "https://qazaqstan.tv/"
+    },
+    {
+      "name": "Qazaqstan International",
+      "isFree": true,
+      "website": "https://qazaqstan.tv/live"
+    },
+    {
+      "name": "QOGAM TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://kogamtv.kz/"
+    },
+    {
+      "name": "Qonaev Media",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
+      "website": "https://qonaevtv.kz/"
+    },
+    {
+      "name": "Qostanai",
+      "isFree": true,
+      "logo": "https://i.imgur.com/eOz4xJ8.png",
+      "website": "http://kostanaytv.kz/"
+    },
+    {
+      "name": "Qyzyljar",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7l1WSDJ.png",
+      "website": "http://petropavltv.kz/kz"
+    },
+    {
+      "name": "Qyzylorda",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9171.png",
+      "website": "http://kyzylordatv.kz/"
+    },
+    {
+      "name": "Rika TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rikatv.kz"
+    },
+    {
+      "name": "SANUR TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://sanur.kz/"
+    },
+    {
+      "name": "Saryarqa",
+      "isFree": true,
+      "logo": "http://epg.one/img2/7802.png",
+      "website": "http://kartv.kz/"
+    },
+    {
+      "name": "Semei",
+      "isFree": true,
+      "website": "https://semeitv.kz/"
+    },
+    {
+      "name": "Setanta Qazaqstan",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/UKRAIN/SETANTA SPORTS 2 FHD.png",
+      "website": "https://setanta.kz/"
+    },
+    {
+      "name": "SHOW KZ",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Silk Way",
+      "isFree": true,
+      "logo": "https://i.imgur.com/SJNDksF.png",
+      "website": "https://silkwaytv.kz/en"
+    },
+    {
+      "name": "STV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png",
+      "website": "http://stv-online.kz/"
+    },
+    {
+      "name": "Talim TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://asylarna.kz/"
+    },
+    {
+      "name": "TDK 42",
+      "isFree": true,
+      "website": "http://www.tdk42.kz/"
+    },
+    {
+      "name": "Toi Duman",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkJYOMRVeuAvRd0ZDMnzqVKQ86V.jpg",
+      "website": "https://toiduman.kz/"
+    },
+    {
+      "name": "Turan TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Turkistan",
+      "isFree": true,
+      "website": "https://turkistan.tv/kz"
+    },
+    {
+      "name": "TVK-6",
+      "isFree": true,
+      "website": "https://tvk-6.kz/"
+    },
+    {
+      "name": "Ulytau",
+      "isFree": true,
+      "website": "https://ulytau.tv/"
+    },
+    {
+      "name": "Zhetysu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://zhetysutv.kz/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Ел Арна",
+      "isFree": false
+    },
+    {
+      "name": "El Arna",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://elarna.kz/"
+    },
+    {
+      "name": "Q KinoAlem",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+    },
+    {
+      "name": "Q KinoHit",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Abai TV",
+      "isFree": true,
+      "website": "https://abaitv.kz/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Balapan",
+      "isFree": true,
+      "website": "https://balapan.kaztrk.kz/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "CNL America",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/fa09241cec2c9d0673f90b8e6cfb9d4e.png",
+      "website": "https://cnl.tv/"
+    },
+    {
+      "name": "CNL Europe",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/fa09241cec2c9d0673f90b8e6cfb9d4e.png",
+      "website": "https://cnl.tv/"
+    },
+    {
+      "name": "Munara TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Gakku TV",
+      "isFree": true,
+      "website": "https://gakku.kz/"
+    },
+    {
+      "name": "Hit TV Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/00agTJO.png",
+      "website": "http://hittv.kz/"
+    },
+    {
+      "name": "MuzLife",
+      "isFree": true,
+      "website": "https://vk.com/muzlifetvkz"
+    },
+    {
+      "name": "MuzzOne",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nHVABXh.png",
+      "website": "https://muzzone.tv/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "QazSport",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UDJ0P5Q.png",
+      "website": "https://qazsporttv.kz/"
+    },
+    {
+      "name": "Q Football",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+      "website": "https://qfootball.kz/"
+    },
+    {
+      "name": "Q League",
+      "isFree": true
+    },
+    {
+      "name": "Q Sport",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+    },
+    {
+      "name": "Sport+ Qazaqstan",
+      "isFree": true,
+      "website": "https://www.sportplustv.kz/"
+    }
+  ]
+}

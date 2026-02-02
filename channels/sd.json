@@ -1,0 +1,182 @@
+{
+  "Entertainment": [
+    {
+      "name": "Sudan TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png"
+    },
+    {
+      "name": "Al Gezira TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al-Hilal TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Ashorooq TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://ashorooq.net.sd/"
+    },
+    {
+      "name": "Blue Nile Channel",
+      "isFree": true,
+      "keywords": "blue nile channel -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "website": "http://bnile.tv/"
+    },
+    {
+      "name": "Blue Nile Channel 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "website": "http://bnile.tv/"
+    },
+    {
+      "name": "Kanon TV Sudan",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Karari TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.karari.info/"
+    },
+    {
+      "name": "Kassala TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Khartoum TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/KHARTOUM TV.png"
+    },
+    {
+      "name": "Nile River TV Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "Red Sea Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "Shamalia TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/SHAMALIA TV.png"
+    },
+    {
+      "name": "Sniper TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "website": "https://sipergroup.com/"
+    },
+    {
+      "name": "Sudania 24 TV",
+      "isFree": true
+    },
+    {
+      "name": "TA Seti Almareefa",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCmfK1K7aTbSwciXxwnC0dn1yQO.jpg"
+    },
+    {
+      "name": "Tayba TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tayba.tv/livestream/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Al Alamiya 2",
+      "isFree": true
+    },
+    {
+      "name": "ML TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://medialivetv.net/"
+    },
+    {
+      "name": "Sudan Edu TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png"
+    }
+  ],
+  "News": [
+    {
+      "name": "Albalad TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+      "website": "https://albaldnews.net/"
+    },
+    {
+      "name": "Aleunwan 24",
+      "isFree": true,
+      "website": "https://aleunwan.com/"
+    },
+    {
+      "name": "Alzarga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://alzargatv.com/"
+    },
+    {
+      "name": "Dabanga TV",
+      "isFree": true,
+      "website": "https://www.dabangasudan.org/"
+    },
+    {
+      "name": "Sudan Bukra",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png"
+    },
+    {
+      "name": "Sudan Now 24",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png",
+      "website": "https://24mediagroup.net/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Alistijabah TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Al-Merrikh TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Sudan Sport",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png",
+      "website": "https://www.taseti.net/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Sudan Drama",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Sudan Music",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/SUDAN.png",
+      "website": "https://www.taseti.net/"
+    }
+  ]
+}

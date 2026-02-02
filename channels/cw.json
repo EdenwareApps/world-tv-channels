@@ -1,0 +1,48 @@
+{
+  "Entertainment": [
+    {
+      "name": "Bonce TV",
+      "isFree": true
+    },
+    {
+      "name": "Nos Pais",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "TV Direct 13",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png"
+    },
+    {
+      "name": "TeleCuraçao",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_TELECURACAO.png"
+    },
+    {
+      "name": "TeleCuracao",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_TELECURACAO.png",
+      "website": "https://xn--telecuraao-v6a.com/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Hype Radio TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edcE61BiUQM8tzpxpApRvEX8yu5.jpg",
+      "website": "https://hyperadio.nl/"
+    },
+    {
+      "name": "Rumbera Curacao 107.9 FM",
+      "isFree": true,
+      "logo": "https://go4.pw/CARIBBIEAN/_DIRECTMEDIAC.png",
+      "website": "https://rumberacuracao.com/"
+    },
+    {
+      "name": "VAM TV",
+      "isFree": true,
+      "website": "https://vamcuracao.com/"
+    }
+  ]
+}

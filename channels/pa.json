@@ -1,0 +1,381 @@
+{
+  "Religious": [
+    {
+      "name": "Hosanna Vision",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173813571454_94.png"
+    },
+    {
+      "name": "A&R Canal",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
+      "website": "http://arministerio.com/"
+    },
+    {
+      "name": "FETV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/fetv.png",
+      "website": "https://fetv.org/"
+    },
+    {
+      "name": "Istmo TV Panama",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://istmotv.com/"
+    },
+    {
+      "name": "MINFAV TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png",
+      "website": "https://minfav.tv/"
+    },
+    {
+      "name": "Radio Hogar",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radiohogar.org/"
+    },
+    {
+      "name": "RCTV Digital",
+      "isFree": true,
+      "website": "https://radioclaret.net/"
+    },
+    {
+      "name": "Vision Latina",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://visionlatinapanama.com/"
+    },
+    {
+      "name": "Viva Canal 33",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "RPC",
+      "isFree": true,
+      "priority": 10
+    },
+    {
+      "name": "TVN",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "priority": 10
+    },
+    {
+      "name": "Telemetro",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/HONDURAS/TELEMETRO.png",
+      "priority": 9
+    },
+    {
+      "name": "ANTV",
+      "isFree": true,
+      "website": "https://www.asamblea.gob.pa/"
+    },
+    {
+      "name": "ATV Panama",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png"
+    },
+    {
+      "name": "BTV Panama",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "website": "https://www.btvpanama.com/"
+    },
+    {
+      "name": "Caribeteve",
+      "isFree": true
+    },
+    {
+      "name": "Hispania TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/647WCF8.png",
+      "website": "https://hispaniaweb.tv/"
+    },
+    {
+      "name": "Luar TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Nex TV Canal 21",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/HONDURAS/NEXCANAL.png",
+      "website": "https://nexpanama.com/"
+    },
+    {
+      "name": "SerTV",
+      "isFree": true,
+      "keywords": "sertv -deportes",
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://sertv.gob.pa/",
+      "priority": 9
+    },
+    {
+      "name": "Tropical Moon Eventos TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn85WeAehNAZFbf4rapcwjYGVr7.jpg",
+      "website": "https://tropicalmoontv.com/eventos-tv/"
+    },
+    {
+      "name": "TVMax",
+      "isFree": true,
+      "logo": "https://i.imgur.com/XcrkfGh.png",
+      "website": "https://www.tvmax-9.com/"
+    },
+    {
+      "name": "TVP Geek",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/ARGENTINA/TVP.png"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Dreiko TV",
+      "isFree": true,
+      "keywords": "dreiko tv | dreikotv",
+      "shortName": "DreikoTv",
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Recreo TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUDP58pE7VW3PeUVGNRbdXxpJfz.jpg",
+      "website": "https://sertv.gob.pa/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Oye TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TVoTQBX.png"
+    },
+    {
+      "name": "A Son de Salsa",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "https://asondesalsa.com.pa/tv-online/"
+    },
+    {
+      "name": "Drumba Bachata TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Dembow TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Merengue TV",
+      "isFree": true,
+      "logo": "http://i.imgur.com/X5kjTCy.jpg",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Mix Music TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Reggaeton TV",
+      "isFree": true,
+      "logo": "https://go4.pw/Mexico/Reggaetón.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Reggae TV",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Salsa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jL1kLyS.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Drumba Tipico TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://drumba.online/"
+    },
+    {
+      "name": "Fabulosa Estereo 100.5 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YFmzkOp.png",
+      "website": "https://fabulosaestereo.com/"
+    },
+    {
+      "name": "LaXitosa Panama",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Pt4F9Xz.png",
+      "website": "https://laxitosapanama.com/"
+    },
+    {
+      "name": "Mas23 TV",
+      "isFree": true,
+      "website": "https://mas23tv.com/"
+    },
+    {
+      "name": "Pindin TV",
+      "isFree": true
+    },
+    {
+      "name": "Planet 100.9 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/8ZIBs8l.png",
+      "website": "https://planet1009.net/"
+    },
+    {
+      "name": "Radio Reforma Se Oye",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioreformaseoye.com/"
+    },
+    {
+      "name": "Salsa 106 TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jL1kLyS.png",
+      "website": "https://salsa106.com/salsa106-tv/"
+    },
+    {
+      "name": "Super Q Panama",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://superqpanama.net/superqdigital/"
+    },
+    {
+      "name": "Tropical Moon Cumbia TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jL1kLyS.png",
+      "website": "https://tropicalmoontv.com/cumbia-tv/"
+    },
+    {
+      "name": "Tropical Moon Salsa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jL1kLyS.png",
+      "website": "https://tropicalmoontv.com/musica-tv/"
+    },
+    {
+      "name": "Tropical Moon Somos Cultura TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn85WeAehNAZFbf4rapcwjYGVr7.jpg",
+      "website": "https://somoscultura247.com/"
+    },
+    {
+      "name": "Tropical Moon Urban TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WcM7BP5.png",
+      "website": "https://tropicalmoontv.com/urban-tv/"
+    },
+    {
+      "name": "Tropi Q 99.7 FM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5rPdHhb.png",
+      "website": "https://tropiq.com/"
+    }
+  ],
+  "Radios": [
+    {
+      "name": "Cabina RPC Radio",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/HONDURAS/RPC.png",
+      "priority": 9
+    },
+    {
+      "name": "Cabina Telemetro Radio",
+      "isFree": true,
+      "shortName": "CTR",
+      "logo": "https://go4.pw/LATINO/HONDURAS/TELEMETRO.png",
+      "priority": 9
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Cable Onda Sports",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "website": "https://www.cospanama.com/",
+      "priority": 4
+    },
+    {
+      "name": "Hipodromo Presidente Remon",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wc8MlGw.png",
+      "website": "https://www.hipodromo.com/index.php/carreras-en-vivo-2/"
+    },
+    {
+      "name": "RPC TV",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/HONDURAS/RPC.png",
+      "website": "http://www.rpctv.com/",
+      "priority": 9
+    },
+    {
+      "name": "SerTV Deportes",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://sertv.gob.pa/",
+      "priority": 9
+    },
+    {
+      "name": "Tigo Sports",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/tego.png",
+      "website": "https://www.tigosports.com.pa/"
+    },
+    {
+      "name": "UniCOS",
+      "isFree": true,
+      "website": "https://www.cospanama.com/"
+    }
+  ],
+  "News": [
+    {
+      "name": "ECO TV",
+      "isFree": true,
+      "website": "https://www.ecotvpanama.com/"
+    },
+    {
+      "name": "Plus TV",
+      "isFree": true,
+      "website": "https://plustucanaldeopinion.com/"
+    },
+    {
+      "name": "Radio Ancon",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://radioancon.com/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Somos Cultura TV",
+      "isFree": true,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "website": "https://somoscultura247.com/"
+    },
+    {
+      "name": "Tu Canal TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvMNvJAehgJHnRow7YklgSlB1f.jpg",
+      "website": "https://pancanal.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Teleclasicos",
+      "isFree": true,
+      "website": "https://www.teleclasico.com/"
+    }
+  ]
+}

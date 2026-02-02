@@ -1,0 +1,418 @@
+{
+  "Entertainment": [
+    {
+      "name": "RTK 1",
+      "isFree": true
+    },
+    {
+      "name": "RTK 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/g6k6xyO.png"
+    },
+    {
+      "name": "RTK 3",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/8CzGVGkG/rtk3.png"
+    },
+    {
+      "name": "RTK 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Urm4XDR.png"
+    },
+    {
+      "name": "21 Mix",
+      "isFree": true,
+      "website": "https://rtv21.tv/"
+    },
+    {
+      "name": "21 Plus",
+      "isFree": true,
+      "website": "https://rtv21.tv/"
+    },
+    {
+      "name": "AMOL TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ALBANIA/AMOL.png",
+      "website": "https://amoltv.net/"
+    },
+    {
+      "name": "DTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UpsLEAV.png",
+      "website": "https://dtvmedia.net/"
+    },
+    {
+      "name": "First Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
+      "website": "https://www.first-channel.tv/"
+    },
+    {
+      "name": "Istogu Channel",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/632d0c2878c65aaeee5b50bbdb4b2de2.png"
+    },
+    {
+      "name": "Klan Kosova",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/KLAN.png",
+      "website": "https://klankosova.tv/"
+    },
+    {
+      "name": "Prime TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "PRO1 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://pro1.tv/"
+    },
+    {
+      "name": "RTK 1 Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/ALBANIA/rtk1.png",
+      "website": "https://www.rtklive.com/"
+    },
+    {
+      "name": "RTV21",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/cC3bw9h6/rtv21.png",
+      "website": "https://rtv21.tv/"
+    },
+    {
+      "name": "RTV Besa",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvbesa.com/live/"
+    },
+    {
+      "name": "RTV Dukagjini",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.dukagjini.com/tv/"
+    },
+    {
+      "name": "RTV Fontana",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://radiofontana.org/"
+    },
+    {
+      "name": "RTV Iliria",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rti.tv/"
+    },
+    {
+      "name": "RTV Mir",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.rtvmir.com/"
+    },
+    {
+      "name": "RTV Vizioni",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "http://www.radio-vizioni.com/"
+    },
+    {
+      "name": "Syri Vision",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ALBANIA/Syri-TV.png",
+      "website": "https://www.syri-vision.tv/live-tv/"
+    },
+    {
+      "name": "T7",
+      "isFree": true,
+      "website": "https://www.televizioni7.com/"
+    },
+    {
+      "name": "Tema TV",
+      "isFree": true,
+      "website": "https://www.tvtema.net/"
+    },
+    {
+      "name": "Teve1",
+      "isFree": true,
+      "website": "https://teve1.info/"
+    },
+    {
+      "name": "Travelingo TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Arberia 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rtvarberia.com/rtv-arberia-live/"
+    },
+    {
+      "name": "TV Arberia 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rtvarberia.com/live-tv2/"
+    },
+    {
+      "name": "TV Arberia 5",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rtvarberia.com/tv-arberia-5/"
+    },
+    {
+      "name": "TV Dielli",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/d558845b351cba8d1fe54277a6f7f698.png",
+      "website": "http://stream.tvdielli.com/"
+    },
+    {
+      "name": "TV Festina",
+      "isFree": true
+    },
+    {
+      "name": "TV Llapi",
+      "isFree": true,
+      "website": "https://visionpress.tv/"
+    },
+    {
+      "name": "TV Malisheva",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.malisheva.tv/"
+    },
+    {
+      "name": "TV Mitrovica",
+      "isFree": true,
+      "website": "https://rtvmitrovica.com/tv-mitrovica/"
+    },
+    {
+      "name": "TV Opinion",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Opoja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Prizreni",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvprizreni.net/"
+    },
+    {
+      "name": "TV Syri",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.syri-vision.tv/"
+    },
+    {
+      "name": "Zeri TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/ZËRI.png"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "21 Junior",
+      "isFree": true,
+      "website": "https://rtv21.tv/"
+    },
+    {
+      "name": "TV Arberia 3 Femije",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rtvarberia.com/live-femije/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "21 Popullore",
+      "isFree": true,
+      "website": "https://rtv21.tv/"
+    },
+    {
+      "name": "Antena 1 Vushtrri",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://antena-vushtrri.com/"
+    },
+    {
+      "name": "RTV Ulpiana",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://rtvulpiana.net/"
+    },
+    {
+      "name": "TV Arberia 4 Muzike",
+      "isFree": true,
+      "website": "https://www.rtvarberia.com/tv-arberia-4-muzike/"
+    },
+    {
+      "name": "TV Arberia Retro Hits",
+      "isFree": true,
+      "website": "http://www.rtvarberia.com/tv-arberia-retro-hits/"
+    }
+  ],
+  "News": [
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://atvlive.tv/"
+    },
+    {
+      "name": "Kanal 10",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/19069e7d4b5a53d0c76dec69be943297.png",
+      "website": "https://kanal10.live/"
+    },
+    {
+      "name": "Kohavision",
+      "isFree": true,
+      "website": "https://www.koha.net/ktv/"
+    },
+    {
+      "name": "TV Arta",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MAhJkK9.png",
+      "website": "https://www.koha.net/arta-tv/14427/tv-arta-live/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Doku 1",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRIA/Kabeleins.png",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Doku 2",
+      "isFree": true,
+      "logo": "https://go4.pw/AUSTRIA/Kabeleins.png",
+      "website": "https://www.artmotion.net/tv/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Episode",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Kino 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Kino 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
+      "website": "https://www.artmotion.net/tv/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "K Sport 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://www.kujtesa.com/"
+    },
+    {
+      "name": "K Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://www.kujtesa.com/"
+    },
+    {
+      "name": "K Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://www.kujtesa.com/"
+    },
+    {
+      "name": "K Sport 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://www.kujtesa.com/"
+    },
+    {
+      "name": "K Sport 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+      "website": "https://www.kujtesa.com/"
+    },
+    {
+      "name": "Sport 1",
+      "isFree": true,
+      "logo": "https://picserve.netplus.ch/channels/sport1.png",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Sport 2",
+      "isFree": true,
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Sport 4",
+      "isFree": true,
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Sport 5",
+      "isFree": true,
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "Sport 6",
+      "isFree": true,
+      "website": "https://www.artmotion.net/tv/"
+    },
+    {
+      "name": "SuperSport Kosova 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png"
+    },
+    {
+      "name": "SuperSport Kosova 2",
+      "isFree": true
+    },
+    {
+      "name": "SuperSport Kosova 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/su1su2.png"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Peace TV Albanian",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
+      "website": "https://peacetv.tv/"
+    },
+    {
+      "name": "TV Arberia Arshi i Allahut",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvarberia.com/tv-arberia-arshi-i-allahut/"
+    },
+    {
+      "name": "TV Arberia Shpresa e Perendise",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.rtvarberia.com/rtv-arberia-shpresa-e-perendise/"
+    }
+  ]
+}

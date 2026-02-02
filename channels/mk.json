@@ -1,0 +1,390 @@
+{
+  "Music Videos": [
+    {
+      "name": "Sky Folk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ya5xpUL.png"
+    },
+    {
+      "name": "Balkan Music TV",
+      "isFree": true,
+      "website": "http://www.balkanika.tv/"
+    },
+    {
+      "name": "Folk TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4b9aZ9P.png",
+      "website": "https://stream.nasatv.com.mk/folktv/"
+    },
+    {
+      "name": "Hi Music TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uH5HeMmSy04H0hx7L7mma0NRHKS.jpg",
+      "website": "https://www.himusic.tv"
+    },
+    {
+      "name": "Jazz TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://stream.nasatv.com.mk/jazztv/"
+    },
+    {
+      "name": "Love TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/B8iaejQ.png",
+      "website": "https://stream.nasatv.com.mk/lovetv/"
+    },
+    {
+      "name": "MRT Sobraniski kanal",
+      "isFree": true,
+      "logo": "https://i.imgur.com/fyNQ8Nf.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "Rock TV",
+      "isFree": true,
+      "website": "https://stream.nasatv.com.mk/rocktv/"
+    },
+    {
+      "name": "Star Folk TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "website": "https://starfolk.net/"
+    },
+    {
+      "name": "Star Plus Televizija",
+      "isFree": true,
+      "website": "https://starplustv.com/"
+    },
+    {
+      "name": "TopEstrada TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0Dh1FJZ.png",
+      "website": "https://topestrada.tv/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Alfa TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png",
+      "website": "https://alfa.mk/"
+    },
+    {
+      "name": "Alsat",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/512px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+      "website": "http://alsat-m.tv"
+    },
+    {
+      "name": "Cool TV",
+      "isFree": true,
+      "website": "https://stream.nasatv.com.mk/cooltv/"
+    },
+    {
+      "name": "Kanal 5",
+      "isFree": true,
+      "website": "https://www.kanal5.com.mk/"
+    },
+    {
+      "name": "Kanal 8",
+      "isFree": true,
+      "logo": "https://go4.pw/TURKIYE/KANALD.png",
+      "website": "http://www.kanal8.mk/"
+    },
+    {
+      "name": "Klan Macedonia",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/5e3e520a1f78a40fd35065b2b514d081.png",
+      "website": "http://klanmacedonia.mk/"
+    },
+    {
+      "name": "Koha TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/71c958a8341577d53fb6f4966420ca01.png",
+      "website": "https://tvkoha.tv/"
+    },
+    {
+      "name": "KTV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
+      "website": "https://ktv.mk/"
+    },
+    {
+      "name": "Makedonsko Sonce",
+      "isFree": true,
+      "logo": "https://i.imgur.com/uDokcwS.jpg",
+      "website": "http://makedonskosonce.com/"
+    },
+    {
+      "name": "M-Net HD",
+      "isFree": true,
+      "logo": "https://go4.pw/UK/skyns.png",
+      "website": "https://mnet.mk/"
+    },
+    {
+      "name": "MRT 1",
+      "isFree": true,
+      "keywords": "mrt 1 -sat",
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "MRT 1 Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "MRT 4",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "MRT 5",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "MTM",
+      "isFree": true,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/mtm-tv.png",
+      "website": "https://mtm.mk/"
+    },
+    {
+      "name": "Nasa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://nasatv.com.mk/"
+    },
+    {
+      "name": "Prva Skopska TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "https://prvaskopska.mk/"
+    },
+    {
+      "name": "Sitel",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/SITEL-1.png",
+      "website": "https://sitel.com.mk/"
+    },
+    {
+      "name": "Spektra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://spektra.com.mk/"
+    },
+    {
+      "name": "Sutel TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hk3lhuF.png"
+    },
+    {
+      "name": "Televizija Kobra",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png"
+    },
+    {
+      "name": "Televizija Protel",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png"
+    },
+    {
+      "name": "Televizija Star",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "https://tvstar.com.mk/"
+    },
+    {
+      "name": "Telma TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/TELMA-1.png",
+      "website": "https://telma.com.mk/"
+    },
+    {
+      "name": "Tera TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/TERA%20BITOLA.png"
+    },
+    {
+      "name": "TV21",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IC1f4h3.png",
+      "website": "https://mk.tv21.tv/"
+    },
+    {
+      "name": "TV 24",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.24.mk/"
+    },
+    {
+      "name": "TV2 Gostivar",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "website": "https://tvdue.blogspot.com/"
+    },
+    {
+      "name": "TV Edo",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV ERA",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ds0uf7A.png"
+    },
+    {
+      "name": "TV Festa",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvfesta.mk/"
+    },
+    {
+      "name": "TV Globi",
+      "isFree": true,
+      "website": "https://globi.mk/"
+    },
+    {
+      "name": "TV Gurra",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Iris",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Kaltrina",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Kanal VIS",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.kanalvis.com/"
+    },
+    {
+      "name": "TV KISS & Menada",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TVM Televizija",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png",
+      "website": "https://tvm.mk/"
+    },
+    {
+      "name": "TV NOVA 12",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvnova12.mk/"
+    },
+    {
+      "name": "TV Orbis",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvorbis.com.mk/"
+    },
+    {
+      "name": "TVPlus",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png"
+    },
+    {
+      "name": "TV Pollogu",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://pollogu.mk"
+    },
+    {
+      "name": "TV Shenja",
+      "isFree": true,
+      "logo": "https://i.imgur.com/JsdUpB8.png"
+    },
+    {
+      "name": "TV Sonce",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tv-sonce.com/tv-sonce.com"
+    },
+    {
+      "name": "TV Svet",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "TV Uskana",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.uskana.mk/"
+    },
+    {
+      "name": "TV Zdravkin",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    }
+  ],
+  "News": [
+    {
+      "name": "M-Net Info",
+      "isFree": true,
+      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+      "website": "https://info.mnet.mk/"
+    },
+    {
+      "name": "News33.tv",
+      "isFree": true,
+      "website": "https://www.news33.tv/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "M-Net Kids",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
+      "website": "https://kids.mnet.mk/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "M-Net Sport",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7k8ar1Z.png",
+      "website": "http://sport.mnet.mk/"
+    },
+    {
+      "name": "MRT 3",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "MRT 2",
+      "isFree": true,
+      "keywords": "mrt 2 -sat",
+      "logo": "https://i.imgur.com/YvOrUnN.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "MRT 2 Sat",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png",
+      "website": "https://www.mrt.com.mk/"
+    },
+    {
+      "name": "V TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "website": "https://vtv.mk/"
+    }
+  ]
+}

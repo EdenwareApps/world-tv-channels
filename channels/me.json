@@ -1,0 +1,198 @@
+{
+  "Entertainment": [
+    {
+      "name": "TVCG 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QORHrXu.png"
+    },
+    {
+      "name": "TVCG 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/WECmUKH.png"
+    },
+    {
+      "name": "TVCG Sat",
+      "isFree": true,
+      "logo": "https://i.imgur.com/QORHrXu.png"
+    },
+    {
+      "name": "Adria TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/MTV_ADRIA.png",
+      "website": "https://adria.tv/"
+    },
+    {
+      "name": "A Plus TV",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png",
+      "website": "https://aplusme.me/"
+    },
+    {
+      "name": "Gradska Televizija",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/Gradska TV.png",
+      "website": "https://gradski.me/"
+    },
+    {
+      "name": "LH TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://lifeandholiday.com/"
+    },
+    {
+      "name": "Nova TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8c67e97d5b4f7c352d20104a84509ba3.png",
+      "website": "https://novam.tv/"
+    },
+    {
+      "name": "Pink M",
+      "isFree": true
+    },
+    {
+      "name": "Prva Montenegro",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
+      "website": "http://www.prvatv.me/"
+    },
+    {
+      "name": "Radio televizija Rozaje",
+      "isFree": true,
+      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
+      "website": "https://www.radiorozaje.me/"
+    },
+    {
+      "name": "RTV Budva",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png",
+      "website": "https://www.rtvbudva.me/"
+    },
+    {
+      "name": "Srpska TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/DOBRA.png",
+      "website": "https://srpskartv.com/"
+    },
+    {
+      "name": "Televizija E",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png",
+      "website": "https://etv.me/"
+    },
+    {
+      "name": "Televizija TV7",
+      "isFree": true,
+      "logo": "https://go4.pw/EXYU/BDC.png"
+    },
+    {
+      "name": "TVCG 3",
+      "isFree": true,
+      "website": "https://rtcg.me/tv/gledaj-tvcg3.html"
+    },
+    {
+      "name": "TVCG MNE",
+      "isFree": true,
+      "website": "http://www.rtcg.me/"
+    },
+    {
+      "name": "TV Herceg Novi",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://rthn.co.me/"
+    },
+    {
+      "name": "TV Niksic",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.rtnk.me/"
+    },
+    {
+      "name": "TV Pljevlja",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvpljevlja.me/"
+    },
+    {
+      "name": "TV Teuta",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvteuta.com/"
+    },
+    {
+      "name": "TV Vijesti",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.vijesti.me/tv"
+    },
+    {
+      "name": "WOW Montenegro",
+      "isFree": true,
+      "logo": "https://go4.pw/India/WOW_CINEMA.png",
+      "website": "https://wowmontenegro.me/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Arena Sport 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/2qf67zW.png",
+      "website": "https://www.tvarenasport.com/me"
+    },
+    {
+      "name": "Arena Sport 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/me"
+    },
+    {
+      "name": "Arena Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/me"
+    },
+    {
+      "name": "Arena Sport 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/me"
+    },
+    {
+      "name": "Arena Sport 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
+      "website": "https://www.tvarenasport.com/me"
+    },
+    {
+      "name": "MNE sport 1",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png",
+      "website": "https://www.mnesport.tv/"
+    },
+    {
+      "name": "MNE sport 2",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png",
+      "website": "https://www.mnesport.tv/"
+    },
+    {
+      "name": "MNE sport 3",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png",
+      "website": "https://www.mnesport.tv/"
+    },
+    {
+      "name": "TV Boin",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tvboin.com/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Euronews Montenegro",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/eurns.png",
+      "priority": 9
+    }
+  ]
+}

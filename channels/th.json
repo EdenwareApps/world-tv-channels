@@ -1,0 +1,3105 @@
+{
+  "Local": [
+    {
+      "name": "ABC Australia (Asia-Pacific TV channel)",
+      "isFree": null,
+      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
+      "priority": 9
+    },
+    {
+      "name": "ABC News Live",
+      "isFree": null,
+      "logo": "https://epg.pw/media/",
+      "priority": 9
+    },
+    {
+      "name": "ABP News",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Al Arabiya",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/AL_Arabiya.PNG",
+      "priority": 4
+    },
+    {
+      "name": "Al Jazeera Arabic",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 10
+    },
+    {
+      "name": "Al Jazeera English",
+      "isFree": null,
+      "logo": "http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",
+      "priority": 10
+    },
+    {
+      "name": "ABS-CBN News Channel",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "And TV",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Anhui Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png",
+      "priority": 4
+    },
+    {
+      "name": "Animal Planet",
+      "isFree": null,
+      "keywords": "animal planet -(asia)",
+      "logo": "http://epg.one/img2/365.png",
+      "priority": 4
+    },
+    {
+      "name": "Animax (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://imgur.com/BatygW5.png",
+      "priority": 4
+    },
+    {
+      "name": "Arirang TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2021/01/02/large/20210102201441051240_32.png",
+      "priority": 4
+    },
+    {
+      "name": "Asian Food Network",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Astro (company)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 4
+    },
+    {
+      "name": "AXN (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "priority": 4
+    },
+    {
+      "name": "B4U Movies",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "B4U Music",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/b4u-music.png",
+      "priority": 4
+    },
+    {
+      "name": "BBC Earth (TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "BBC Lifestyle",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "BBC News (international TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Bloomberg Television",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Cartoon Network (Asia)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png",
+      "priority": 4
+    },
+    {
+      "name": "Cartoonito (Asia)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png",
+      "priority": 4
+    },
+    {
+      "name": "Celestial Movies",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png",
+      "priority": 4
+    },
+    {
+      "name": "Channel V",
+      "isFree": null,
+      "keywords": "channel v -thailand",
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Cinemax (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+      "priority": 4
+    },
+    {
+      "name": "Colors Cineplex",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KueYME8A449pxaKTJZp3cWKKSX.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Colors TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KueYME8A449pxaKTJZp3cWKKSX.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Cubavisión International",
+      "isFree": null,
+      "logo": "https://go4.pw/LATINO/CUBAVISION.png",
+      "priority": 4
+    },
+    {
+      "name": "Celestial Classic Movies",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "priority": 4
+    },
+    {
+      "name": "CNA (TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/SINGAPORE/CNA.png",
+      "priority": 4
+    },
+    {
+      "name": "CNN International",
+      "isFree": null,
+      "logo": "https://i.imgur.com/05S3yYZ.png",
+      "priority": 10
+    },
+    {
+      "name": "Christian Television Network",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "CCTV-4",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "China Education Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "priority": 4
+    },
+    {
+      "name": "CGTN (TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cgtn.png",
+      "priority": 4
+    },
+    {
+      "name": "CGTN Documentary",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png",
+      "priority": 4
+    },
+    {
+      "name": "CNBC Asia",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png",
+      "priority": 4
+    },
+    {
+      "name": "Crime & Investigation Network (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Daystar TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "DD India",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/GIRNAR.png",
+      "priority": 4
+    },
+    {
+      "name": "DD News",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/GIRNAR.png",
+      "priority": 4
+    },
+    {
+      "name": "DD Sports",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Discovery Asia",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Discovery Channel (Southeast Asian TV channel)",
+      "isFree": null,
+      "keywords": "discovery channel (south east asian tv channel) | discovery channel (southeast asian tv channel)",
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "Dragon Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7HY9butbuO8XwB3uBxQ98MBxd4.jpg",
+      "priority": 4
+    },
+    {
+      "name": "DreamWorks Channel",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/DREAMWORKS.png",
+      "priority": 4
+    },
+    {
+      "name": "DW-TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "DZRH News Television",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Al Ekhbariya",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 4
+    },
+    {
+      "name": "EuroNews",
+      "isFree": null,
+      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
+      "priority": 9
+    },
+    {
+      "name": "Fashion TV",
+      "isFree": null,
+      "keywords": "fashion tv | fashiontv",
+      "priority": 4
+    },
+    {
+      "name": "Food Network (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png",
+      "priority": 4
+    },
+    {
+      "name": "Fox Business",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Fox News",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/05/17/large/20220517053232753908_86.png",
+      "priority": 10
+    },
+    {
+      "name": "France 24",
+      "isFree": null,
+      "keywords": "france 24 -english",
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "priority": 10
+    },
+    {
+      "name": "GMA Life TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/gmanews.png",
+      "priority": 4
+    },
+    {
+      "name": "GMA News TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/gmanews.png",
+      "priority": 4
+    },
+    {
+      "name": "GMA Pinoy TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/gmanews.png",
+      "priority": 4
+    },
+    {
+      "name": "God TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Guangdong Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVS.png",
+      "priority": 4
+    },
+    {
+      "name": "HBO Asia",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "HBO Family (Asian TV channel)",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "HBO Hits (Asia)",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "HBO Signature (Asian TV channel)",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Henan Television",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "History (Southeast Asian TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png",
+      "priority": 4
+    },
+    {
+      "name": "Hunan Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/CHINA/HNSTV_logo.png",
+      "priority": 4
+    },
+    {
+      "name": "i24NEWS (Israeli TV channel)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+      "priority": 4
+    },
+    {
+      "name": "Kartoon Channel",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "KBS World (TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/kbsworld.png",
+      "priority": 4
+    },
+    {
+      "name": "Kix (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/INDONESIA/KIX.png",
+      "priority": 4
+    },
+    {
+      "name": "KTV (India)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
+      "priority": 4
+    },
+    {
+      "name": "Kuwait TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/KUWAIT/KUWAIT.png",
+      "priority": 4
+    },
+    {
+      "name": "Jiangsu Satellite TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/JSBC.png",
+      "priority": 4
+    },
+    {
+      "name": "Lifetime (Southeast Asian TV channel)",
+      "isFree": null,
+      "logo": "https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",
+      "priority": 4
+    },
+    {
+      "name": "Lotus TV Macau",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3AeW200hqGLxoPyHMDHpzudylz.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Luxe.tv",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Mezzo TV",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/MEZL.png",
+      "priority": 4
+    },
+    {
+      "name": "Myanmar International",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "priority": 4
+    },
+    {
+      "name": "NDTV 24x7",
+      "isFree": null,
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png",
+      "priority": 4
+    },
+    {
+      "name": "NHK World-Japan",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/nhk.png",
+      "priority": 4
+    },
+    {
+      "name": "NHK World Premium",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Nickelodeon (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
+      "priority": 4
+    },
+    {
+      "name": "Nick Jr. (Southeast Asian TV channel)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Sultanate of Oman Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Phoenix Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Phoenix Hong Kong Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Phoenix InfoNews Channel",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Qatar TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313145531758833_64.png",
+      "priority": 4
+    },
+    {
+      "name": "Rai Italia",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG",
+      "priority": 4
+    },
+    {
+      "name": "Red Bull TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Reuters TV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/AbvCnoH.png",
+      "priority": 4
+    },
+    {
+      "name": "Rock Action (TV channel)",
+      "isFree": null,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "priority": 4
+    },
+    {
+      "name": "Rock Entertainment",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",
+      "priority": 4
+    },
+    {
+      "name": "RT (TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png",
+      "priority": 4
+    },
+    {
+      "name": "RTM TV1",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png",
+      "priority": 4
+    },
+    {
+      "name": "RTP Internacional",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173750013761_42.png",
+      "priority": 4
+    },
+    {
+      "name": "Sahara One",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwt6dTKixLjkh2T3UGtfGh4yszO.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Saudi TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ISLAMIC/SUNNA.png",
+      "priority": 4
+    },
+    {
+      "name": "Sony Entertainment Television",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Sharjah TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/img/logo/2013/10/30/ee845cb062153eeaac19a2ffcd61d4cf.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Shenzhen Satellite TV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/shenzhen.png",
+      "priority": 4
+    },
+    {
+      "name": "Sky News",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",
+      "priority": 10
+    },
+    {
+      "name": "Sony Max",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Sony SAB",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Sony Sports Ten 5",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "SPOTV",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/SPOTV.png",
+      "priority": 4
+    },
+    {
+      "name": "StarPlus",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Stingray CMusic",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
+      "priority": 4
+    },
+    {
+      "name": "Sudan TV",
+      "isFree": null,
+      "logo": "https://go4.pw/EXYU/SUDAN.png",
+      "priority": 4
+    },
+    {
+      "name": "Sun TV (India)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Supreme Master Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3JAOCNjJYO3NdECnnijKYadr8N.jpg",
+      "priority": 4
+    },
+    {
+      "name": "TaiwanPlus",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Trinity Broadcasting Network",
+      "isFree": null,
+      "logo": "https://go4.pw/CARIBBIEAN/_TRINITY.png",
+      "priority": 4
+    },
+    {
+      "name": "The Filipino Channel",
+      "isFree": null,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "priority": 4
+    },
+    {
+      "name": "Thrill (TV channel)",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Tianjin Television And Radio Station",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "TLC (Asian TV channel)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Trace Sport Stars",
+      "isFree": null,
+      "logo": "https://i.imgur.com/7HTxrEq.png",
+      "priority": 4
+    },
+    {
+      "name": "Trace Urban",
+      "isFree": null,
+      "logo": "https://i.imgur.com/xRJDVR3.png",
+      "priority": 4
+    },
+    {
+      "name": "Travel Channel International",
+      "isFree": null,
+      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
+      "priority": 4
+    },
+    {
+      "name": "TRT World",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164224699889_88.png",
+      "priority": 4
+    },
+    {
+      "name": "TV3 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://lo1.in/MALAY/tv3.png",
+      "priority": 4
+    },
+    {
+      "name": "TV5 Monde",
+      "isFree": null,
+      "keywords": "tv5 monde | tv5monde",
+      "priority": 4
+    },
+    {
+      "name": "TVB Jade",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 4
+    },
+    {
+      "name": "TVB Xing He",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 4
+    },
+    {
+      "name": "TVE Internacional",
+      "isFree": null,
+      "logo": "https://1.bp.blogspot.com/-pKs_F0tjwUw/XztMfpaAWLI/AAAAAAAABHE/_8sjXpxnPq8YKMZaaa3U3pbE6GQtXSkhgCLcBGAsYHQ/w200-h200/95%2BTve%2Bin.png",
+      "priority": 4
+    },
+    {
+      "name": "TVN (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "priority": 4
+    },
+    {
+      "name": "TVRI (TV channel)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+      "priority": 4
+    },
+    {
+      "name": "TVRI Sport",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "TVRI World",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png",
+      "priority": 4
+    },
+    {
+      "name": "UNTV",
+      "isFree": null,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 4
+    },
+    {
+      "name": "Vatican Media",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Vietnam Today",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yKDeMvvGfPtqdTJt071urVWTBU.jpg",
+      "priority": 4
+    },
+    {
+      "name": "VTV1",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "VTV4",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "VTV7",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Warner TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "WION",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Xing Kong",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "priority": 4
+    },
+    {
+      "name": "Yunnan Television",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Zee News",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/277e5c97e78104dfe138c6071ed565b9.png",
+      "priority": 4
+    },
+    {
+      "name": "Zee TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Zhejiang Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/CHANNEL-2.png",
+      "priority": 4
+    },
+    {
+      "name": "ZooMoo",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/e26149f29df0b885f54b4cb2bf1f5b32.png",
+      "priority": 4
+    },
+    {
+      "name": "TrueVisions",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "True Spark",
+      "isFree": null,
+      "keywords": "true spark -jump -play",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "priority": 4
+    },
+    {
+      "name": "True Sport",
+      "isFree": null,
+      "keywords": "true sport -5 -7 -hd 1 -hd 2 -hd 3 -hd 4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "priority": 4
+    },
+    {
+      "name": "TNN (Thai TV channel)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "ABC Australia",
+      "isFree": null,
+      "keywords": "abc australia -(asia-pacific tv channel)",
+      "logo": "https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png",
+      "priority": 9
+    },
+    {
+      "name": "Al Jazeera Media Network",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "priority": 10
+    },
+    {
+      "name": "AXN Asia",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "priority": 4
+    },
+    {
+      "name": "Cartoon Network (Southeast Asia)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png",
+      "priority": 4
+    },
+    {
+      "name": "CGTN",
+      "isFree": null,
+      "keywords": "cgtn -(tv channel) -documentary",
+      "priority": 10
+    },
+    {
+      "name": "DW News",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Animal Planet (Asia)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png",
+      "priority": 4
+    },
+    {
+      "name": "TLC (Asia)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Food Network Asia",
+      "isFree": null,
+      "logo": "https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png",
+      "priority": 4
+    },
+    {
+      "name": "KBS World",
+      "isFree": null,
+      "keywords": "kbs world -(tv channel)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",
+      "priority": 4
+    },
+    {
+      "name": "Lifetime (TV network)",
+      "isFree": null,
+      "logo": "https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",
+      "priority": 4
+    },
+    {
+      "name": "NHK World Japan",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png",
+      "priority": 4
+    },
+    {
+      "name": "Phoenix InfoNews",
+      "isFree": null,
+      "keywords": "phoenix infonews -channel",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
+      "priority": 4
+    },
+    {
+      "name": "AMC (Asian TV channel)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "BBC Earth (international TV channel)",
+      "isFree": null,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+      "priority": 10
+    },
+    {
+      "name": "BeTV (Asia Pacific)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "CBeebies",
+      "isFree": null,
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+      "priority": 4
+    },
+    {
+      "name": "Channel V Thailand",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Cinemax (Asia)",
+      "isFree": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+      "priority": 4
+    },
+    {
+      "name": "DMAX (Asia)",
+      "isFree": null,
+      "logo": "https://go4.pw/germany/20.png",
+      "priority": 4
+    },
+    {
+      "name": "Discovery Kids",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "Disney XD (Southeast Asia)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney Junior (Southeast Asia)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Disney Channel (Southeast Asia)",
+      "isFree": null,
+      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
+      "priority": 9
+    },
+    {
+      "name": "Eve (TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Fashion One",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Fox Action Movies",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Fox Family Movies",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Fox Movies (Southeast Asian TV channel)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Fox Sports (Asian TV network)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 9
+    },
+    {
+      "name": "Gem (Southeast Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/IRAN/GEMONYX.png",
+      "priority": 4
+    },
+    {
+      "name": "HBO (Asia)",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "KMTV Asia",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/abc1.png",
+      "priority": 4
+    },
+    {
+      "name": "MTV Thailand",
+      "isFree": null,
+      "priority": 8
+    },
+    {
+      "name": "National Geographic (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "priority": 9
+    },
+    {
+      "name": "Nickelodeon (Asia)",
+      "isFree": null,
+      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
+      "priority": 4
+    },
+    {
+      "name": "Outdoor Channel",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061422478101_60.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Paramount Network (international)",
+      "isFree": null,
+      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
+      "priority": 4
+    },
+    {
+      "name": "Red by HBO",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Sony Channel (Southeast Asian TV channel)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Sports Illustrated Television (Asia)",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "SundanceTV",
+      "isFree": null,
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true",
+      "priority": 4
+    },
+    {
+      "name": "Turner Classic Movies (Asia)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxMGkFdwEkvcm4vGe0EaIaeZg34.jpg",
+      "priority": 4
+    },
+    {
+      "name": "YTN",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/7a2b25566d1bc634d7f88b95899eae0b.png",
+      "priority": 4
+    },
+    {
+      "name": "FX (TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png",
+      "priority": 4
+    },
+    {
+      "name": "Baby TV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "FOX Crime",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Fox (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "priority": 4
+    },
+    {
+      "name": "FOX Life",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Nat Geo Wild",
+      "isFree": null,
+      "priority": 10
+    },
+    {
+      "name": "Star Chinese Movies",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Star World",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "priority": 4
+    },
+    {
+      "name": "T Sports",
+      "isFree": null,
+      "keywords": "t sports -7",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+      "priority": 4
+    },
+    {
+      "name": "Channel 3 (Thailand)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 9
+    },
+    {
+      "name": "Spring News",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SQQ5REuAz7k0FMQ9mSCT40T2LN.jpg",
+      "priority": 4
+    },
+    {
+      "name": ":th:อาร์เอส",
+      "isFree": null,
+      "keywords": ":th:อารเอส",
+      "priority": 4
+    },
+    {
+      "name": ":th:สปริง 26",
+      "isFree": null,
+      "keywords": ":th:สปรง 26",
+      "priority": 4
+    },
+    {
+      "name": "Toonami",
+      "isFree": null,
+      "logo": "https://i.imgur.com/aSjhZK7.png",
+      "priority": 4
+    },
+    {
+      "name": "CCTV 4",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": ":th:มีเดีย ออฟ มีเดียส์",
+      "isFree": null,
+      "keywords": ":th:มเดย ออฟ มเดยส",
+      "priority": 4
+    },
+    {
+      "name": ":th:แคท แชนแนล",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Channel M",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": ":th:แฟน ทีวี",
+      "isFree": null,
+      "keywords": ":th:แฟน ทว | :th:แฟนทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:มิราเคิล (ช่องโทรทัศน์)",
+      "isFree": null,
+      "keywords": ":th:มราเคล (ชองโทรทศน)",
+      "priority": 4
+    },
+    {
+      "name": ":th:มันนีแชนแนล",
+      "isFree": null,
+      "keywords": ":th:มนนแชนแนล",
+      "priority": 4
+    },
+    {
+      "name": ":th:เอ็มวีทีวี",
+      "isFree": null,
+      "keywords": ":th:เอมวทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:สถานีวิทยุโทรทัศน์เพื่อการศึกษา",
+      "isFree": null,
+      "keywords": ":th:สถานวทยโทรทศนเพอการศกษา",
+      "priority": 4
+    },
+    {
+      "name": ":th:ของดี ประเทศไทย",
+      "isFree": null,
+      "keywords": ":th:ของด ประเทศไทย",
+      "priority": 4
+    },
+    {
+      "name": "Doxzilla",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": ":th:บูมเมอแรง (ประเทศไทย)",
+      "isFree": null,
+      "keywords": ":th:บมเมอแรง (ประเทศไทย)",
+      "priority": 4
+    },
+    {
+      "name": "Budsaba Cafe",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDzPQTJQyTwePZNh6PoZIcgBtvO.jpg",
+      "priority": 4
+    },
+    {
+      "name": "France 24 English",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png",
+      "priority": 9
+    },
+    {
+      "name": "Television of Thailand",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Channel 5 (Thailand)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "Channel 9 MCOT HD",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 4
+    },
+    {
+      "name": "ITV (Thailand)",
+      "isFree": null,
+      "logo": "https://go4.pw/UK/itvquiz.png",
+      "priority": 4
+    },
+    {
+      "name": ":th:ช่อง 3 แฟมิลี",
+      "isFree": null,
+      "keywords": ":th:ชอง 3 แฟมล",
+      "logo": "https://lo1.in/uk/247.png",
+      "priority": 4
+    },
+    {
+      "name": ":th:เอ็มคอตแฟมิลี",
+      "isFree": null,
+      "keywords": ":th:เอมคอตแฟมล",
+      "priority": 4
+    },
+    {
+      "name": ":th:เอ็มวีทีวีแฟมิลี",
+      "isFree": null,
+      "keywords": ":th:เอมวทวแฟมล",
+      "priority": 4
+    },
+    {
+      "name": ":th:ไทยทีวี",
+      "isFree": null,
+      "keywords": ":th:ไทยทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:ช่อง 18",
+      "isFree": null,
+      "keywords": ":th:ชอง 18",
+      "priority": 4
+    },
+    {
+      "name": ":th:ไบรต์ทีวี",
+      "isFree": null,
+      "keywords": ":th:ไบรตทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:ช่อง 3 เอสดี",
+      "isFree": null,
+      "keywords": ":th:ชอง 3 เอสด",
+      "logo": "https://lo1.in/uk/247.png",
+      "priority": 4
+    },
+    {
+      "name": ":th:มงคลแชนแนล",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": ":th:เอ็นบีทีเวิลด์",
+      "isFree": null,
+      "keywords": ":th:เอนบทเวลด",
+      "priority": 4
+    },
+    {
+      "name": ":th:นิวส์วัน",
+      "isFree": null,
+      "keywords": ":th:นวสวน",
+      "priority": 4
+    },
+    {
+      "name": ":th:ทรู ช็อปปิ้ง",
+      "isFree": null,
+      "keywords": ":th:ทร ชอปปง",
+      "priority": 4
+    },
+    {
+      "name": ":th:แอนิแมกซ์เอเชีย",
+      "isFree": null,
+      "keywords": ":th:แอนแมกซเอเชย",
+      "priority": 4
+    },
+    {
+      "name": ":th:ป๊อปทีวี",
+      "isFree": null,
+      "keywords": ":th:ปอปทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:วัน วาไรตี้",
+      "isFree": null,
+      "keywords": ":th:วน วาไรต",
+      "priority": 4
+    },
+    {
+      "name": ":th:เอิร์ธ (สถานีโทรทัศน์)",
+      "isFree": null,
+      "keywords": ":th:เอรธ (สถานโทรทศน)",
+      "priority": 4
+    },
+    {
+      "name": ":th:อาเซียนทีวี",
+      "isFree": null,
+      "keywords": ":th:อาเซยนทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:เอเอสทีวี",
+      "isFree": null,
+      "keywords": ":th:เอเอสทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:ช่อง 6",
+      "isFree": null,
+      "keywords": ":th:ชอง 6",
+      "priority": 4
+    },
+    {
+      "name": ":th:แอ็กซ์ แชนแนล",
+      "isFree": null,
+      "keywords": ":th:แอกซ แชนแนล",
+      "priority": 4
+    },
+    {
+      "name": ":th:จีทีเอชออนแอร์",
+      "isFree": null,
+      "keywords": ":th:จทเอชออนแอร",
+      "priority": 4
+    },
+    {
+      "name": ":th:ตูนแชนแนล",
+      "isFree": null,
+      "keywords": ":th:ตนแชนแนล",
+      "priority": 4
+    },
+    {
+      "name": ":th:แก๊งการ์ตูนแชนเนล",
+      "isFree": null,
+      "keywords": ":th:แกงการตนแชนเนล",
+      "priority": 4
+    },
+    {
+      "name": ":th:ทีวี 24",
+      "isFree": null,
+      "keywords": ":th:ทว 24",
+      "priority": 4
+    },
+    {
+      "name": ":th:การ์ตูนคลับแชนเนล",
+      "isFree": null,
+      "keywords": ":th:การตนคลบแชนเนล",
+      "priority": 4
+    },
+    {
+      "name": ":th:พีซทีวี",
+      "isFree": null,
+      "keywords": ":th:พซทว",
+      "priority": 4
+    },
+    {
+      "name": ":th:จ๊ะทิงจา",
+      "isFree": null,
+      "keywords": ":th:จะทงจา",
+      "priority": 4
+    },
+    {
+      "name": ":th:ไทยทีวีโกลบอลเน็ตเวิร์ก",
+      "isFree": null,
+      "keywords": ":th:ไทยทวโกลบอลเนตเวรก",
+      "priority": 4
+    },
+    {
+      "name": ":th:ทรูอินไซด์",
+      "isFree": null,
+      "keywords": ":th:ทรอนไซด",
+      "priority": 4
+    },
+    {
+      "name": ":th:ทรูสปาร์ก",
+      "isFree": null,
+      "keywords": ":th:ทรสปารก",
+      "priority": 4
+    },
+    {
+      "name": ":th:ทรู มิวสิค",
+      "isFree": null,
+      "keywords": ":th:ทร มวสค",
+      "priority": 4
+    },
+    {
+      "name": ":th:ไทยไทแชนแนล",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": ":th:วอยซ์ทีวี",
+      "isFree": null,
+      "keywords": ":th:วอยซทว",
+      "priority": 4
+    },
+    {
+      "name": "Media of Thailand",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
+      "priority": 4
+    },
+    {
+      "name": "FashionTV",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "TV5Monde",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": "Discovery Channel (South East Asian TV channel)",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/997920.png",
+      "priority": 9
+    },
+    {
+      "name": "tvN (Asian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/tvmovies.png",
+      "priority": 4
+    },
+    {
+      "name": "FOX Family Movies",
+      "isFree": null,
+      "priority": 4
+    },
+    {
+      "name": ":th:แฟนทีวี",
+      "isFree": null,
+      "priority": 4
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Golf Channel Thailand",
+      "isFree": false,
+      "shortName": "GCT"
+    },
+    {
+      "name": "NBA TV",
+      "isFree": false,
+      "logo": "https://i.ibb.co/ccZmV9J0/NBATV.png"
+    },
+    {
+      "name": "Sky Net Sports",
+      "isFree": false,
+      "keywords": "sky net sports -1 -2 -3 -4 -5 -6",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 1",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 2",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 3",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 4",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 5",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "Sky Net Sports 6",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+    },
+    {
+      "name": "True Premier Football HD 1",
+      "isFree": false,
+      "shortName": "TPFH1",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Premier Football HD 2",
+      "isFree": false,
+      "shortName": "TPFH2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Premier Football HD 3",
+      "isFree": false,
+      "shortName": "TPFH3",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Premier Football HD 4",
+      "isFree": false,
+      "shortName": "TPFH4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Premier Football HD 5",
+      "isFree": false,
+      "shortName": "TPFH5",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport 5",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport 7",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport HD 1",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport HD 2",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport HD 3",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Sport HD 4",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "True Tennis HD",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+    },
+    {
+      "name": "Golf Channel",
+      "isFree": true,
+      "keywords": "golf channel -thailand",
+      "website": "https://golfchannel-th.com/"
+    },
+    {
+      "name": "Sports One",
+      "isFree": true
+    },
+    {
+      "name": "True Premier Football 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd1"
+    },
+    {
+      "name": "True Premier Football 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd2"
+    },
+    {
+      "name": "True Premier Football 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd3"
+    },
+    {
+      "name": "True Premier Football 4",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd4"
+    },
+    {
+      "name": "True Premier Football 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd5"
+    },
+    {
+      "name": "True Premier Football 6",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd6"
+    },
+    {
+      "name": "True Premier Football 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd7"
+    },
+    {
+      "name": "True Premier Football 8",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/truepremierfootballhd8"
+    },
+    {
+      "name": "TrueSports 1",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://tv.trueid.net/live/truesport-hd"
+    },
+    {
+      "name": "TrueSports 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://tv.trueid.net/live/truesport-hd-2"
+    },
+    {
+      "name": "TrueSports 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://tv.trueid.net/live/truesport-hd-3"
+    },
+    {
+      "name": "TrueSports 4",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://tv.trueid.net/live/truesport-hd-4"
+    },
+    {
+      "name": "TrueSports 5",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://tv.trueid.net/live/truesport-5"
+    },
+    {
+      "name": "TrueSports 7",
+      "isFree": true,
+      "website": "https://tv.trueid.net/live/truesport-7"
+    },
+    {
+      "name": "True Tennis",
+      "isFree": true,
+      "keywords": "true tennis -hd",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-tennis-hd"
+    },
+    {
+      "name": "T Sports 7",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+      "website": "http://www.tsportschannel.com/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ALTV",
+      "isFree": true
+    },
+    {
+      "name": "Channel 5",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png"
+    },
+    {
+      "name": "Channel 7",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "priority": 10
+    },
+    {
+      "name": "Channel 8",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png"
+    },
+    {
+      "name": "DLTV 1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 10",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 11",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 12",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 13",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 14",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 15",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 3",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 6",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 7",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 8",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "DLTV 9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/nLzdGeX.png"
+    },
+    {
+      "name": "Mono 29",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png"
+    },
+    {
+      "name": "NBT Bangkok",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "TPTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "TV Muslim",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Thai PBS",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
+      "priority": 9
+    },
+    {
+      "name": "Thairath TV 32",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "White Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "3HD",
+      "isFree": true,
+      "logo": "https://i.imgur.com/YRiulCU.png",
+      "website": "https://ch3plus.com/"
+    },
+    {
+      "name": "4050 Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "54 Unity TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/my71DaP.png",
+      "website": "https://artv.watch/hy/TH/54UnityTV.th"
+    },
+    {
+      "name": "A'lure Channel",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://monomax.page.link/q5pY"
+    },
+    {
+      "name": "Amarin TV",
+      "isFree": true,
+      "website": "https://www.amarintv.com/"
+    },
+    {
+      "name": "Ani+",
+      "isFree": true,
+      "website": "http://www.ipmtv.tv/"
+    },
+    {
+      "name": "Baan Baan TV 73",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://baanbaantv73.com/"
+    },
+    {
+      "name": "Bangkok Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTRftxHW8i4H7ONaOiCIwEXjNDJ.jpg"
+    },
+    {
+      "name": "Bluesky Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.blueskychanneltv.com/"
+    },
+    {
+      "name": "Boonjan Pannee TV 123",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Boonma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.boonmaonline.com/"
+    },
+    {
+      "name": "Budsaba",
+      "isFree": true,
+      "website": "http://www.nextsteptv.com/budsaba/"
+    },
+    {
+      "name": "Chic Station",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j001jrNNlOBXPyCPcldtSQqVWYv.jpg"
+    },
+    {
+      "name": "Cool Channel",
+      "isFree": true
+    },
+    {
+      "name": "CSat North",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "DDTV",
+      "isFree": true,
+      "website": "http://www.8875fm.com/"
+    },
+    {
+      "name": "Doonee TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.doonee.com/"
+    },
+    {
+      "name": "Dopa Channel",
+      "isFree": true,
+      "website": "http://www.comdopa.com/dopachannel/"
+    },
+    {
+      "name": "Eakkaluk Thai TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png"
+    },
+    {
+      "name": "E-San Banhouw",
+      "isFree": true
+    },
+    {
+      "name": "Esan TV",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/K8VDGs9k/esantv.png",
+      "website": "https://www.mvtv.co.th/channel/esan-tv"
+    },
+    {
+      "name": "Fahhai TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "GMM 25",
+      "isFree": true,
+      "logo": "https://i.imgur.com/uARba6N.png",
+      "website": "https://www.gmm25.com/",
+      "priority": 9
+    },
+    {
+      "name": "Good Idea TV",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+      "website": "http://www.goodideatv.tv/"
+    },
+    {
+      "name": "Happy TV 65",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg",
+      "website": "https://www.mvtv.co.th/channel/happy-tv"
+    },
+    {
+      "name": "Heart",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Hero",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png"
+    },
+    {
+      "name": "Hit station",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
+      "website": "http://www.mvtv.co.th/wp/index.php/hitstation_page"
+    },
+    {
+      "name": "I-Asia",
+      "isFree": true,
+      "website": "https://www.iasiaonline.com/"
+    },
+    {
+      "name": "ID Station",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/id.png",
+      "website": "https://tv.trueid.net/live/idstation"
+    },
+    {
+      "name": "IPM Show 2",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://www.ipmtv.tv/"
+    },
+    {
+      "name": "IPM Show 3",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://www.ipmtv.tv/"
+    },
+    {
+      "name": "IPM Show 4",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "http://www.ipmtv.tv/"
+    },
+    {
+      "name": "Just Fun",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg"
+    },
+    {
+      "name": "Kaset Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png",
+      "website": "http://kasettv.com/"
+    },
+    {
+      "name": "Khongdee",
+      "isFree": true,
+      "website": "http://www.nextsteptv.com/khongdee/"
+    },
+    {
+      "name": "Lanthung TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png"
+    },
+    {
+      "name": "Lido Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.mvtv.co.th/channel/lidochannell"
+    },
+    {
+      "name": "Live Sky 1",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Live Sky 3",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Live Sky 4",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+    },
+    {
+      "name": "Major Channel Mix",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJOfJuyQVZPwNQ8g21Qv0lojQhC.jpg",
+      "website": "https://www.mvtv.co.th/channel/mix-major-channel"
+    },
+    {
+      "name": "Mangorn",
+      "isFree": true
+    },
+    {
+      "name": "Maruay TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Maya Channel",
+      "isFree": true,
+      "website": "http://www.maya-channel.com/"
+    },
+    {
+      "name": "M Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg"
+    },
+    {
+      "name": "MCOT HD",
+      "isFree": true,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051054870094_61.jpg",
+      "website": "https://tv.mcot.net/mcothd"
+    },
+    {
+      "name": "Media TV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png"
+    },
+    {
+      "name": "Mirror Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg"
+    },
+    {
+      "name": "MONO29 Plus",
+      "isFree": true,
+      "website": "https://mono29.com/"
+    },
+    {
+      "name": "Mono Plus",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+      "website": "https://monoplus.mthai.com/"
+    },
+    {
+      "name": "MVM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "https://www.mvtv.co.th/channel/v2h8-mvm"
+    },
+    {
+      "name": "MV TV Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/36.png",
+      "website": "https://www.mvtv.co.th/channel/mvtv_home"
+    },
+    {
+      "name": "MySci",
+      "isFree": true,
+      "website": "http://www.nextsteptv.com/mysci/"
+    },
+    {
+      "name": "NBT 11",
+      "isFree": true,
+      "website": "http://nbt2hd.prd.go.th/"
+    },
+    {
+      "name": "NBT 2 HD",
+      "isFree": true,
+      "website": "http://nbt2hd.prd.go.th/"
+    },
+    {
+      "name": "NBT TV Chiang Mai",
+      "isFree": true,
+      "website": "http://nbt2hd.prd.go.th/"
+    },
+    {
+      "name": "NBT TV Phitsanulok",
+      "isFree": true,
+      "website": "http://nbt2hd.prd.go.th/"
+    },
+    {
+      "name": "NBT TV Yala",
+      "isFree": true,
+      "website": "http://nbt2hd.prd.go.th/"
+    },
+    {
+      "name": "NBT World",
+      "isFree": true,
+      "website": "https://thainews.prd.go.th/en/live"
+    },
+    {
+      "name": "New Explorer",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "New TM",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+    },
+    {
+      "name": "Next Kid",
+      "isFree": true,
+      "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png"
+    },
+    {
+      "name": "One 31",
+      "isFree": true,
+      "logo": "https://i.imgur.com/HXFNbuc.png",
+      "website": "https://www.one31.net/",
+      "priority": 9
+    },
+    {
+      "name": "Online Media TV 69",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg",
+      "website": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99"
+    },
+    {
+      "name": "People TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/a9fb9922f63181386d28e530b35f6ca3.png"
+    },
+    {
+      "name": "Ploen TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Police TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lbzMcGYSvBTDmhw6JkliWEBGUM.jpg",
+      "website": "https://www.policetv.tv/"
+    },
+    {
+      "name": "PPTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "https://www.pptvhd36.com/"
+    },
+    {
+      "name": "PSI AEC",
+      "isFree": true
+    },
+    {
+      "name": "PSI Saradee 99",
+      "isFree": true,
+      "website": "https://psisaradee99.com/"
+    },
+    {
+      "name": "Rama Channel",
+      "isFree": true,
+      "website": "https://med.mahidol.ac.th/ramachannel/"
+    },
+    {
+      "name": "RS Mall",
+      "isFree": true,
+      "logo": "http://epg.one/img2/9269.png",
+      "website": "https://www.rsmall.co.th/"
+    },
+    {
+      "name": "RUSH Stories",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg"
+    },
+    {
+      "name": "Sakala Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://www.mvtv.co.th/channel/sakalachannel"
+    },
+    {
+      "name": "Samrujlok",
+      "isFree": true,
+      "website": "http://www.nextsteptv.com/"
+    },
+    {
+      "name": "Sanook TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.mvtv.co.th/channel/sanook-tv"
+    },
+    {
+      "name": "SBB TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/B1tyK1Z.png",
+      "website": "https://www.watsanghathan.com/content/5475/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99-sbbtv"
+    },
+    {
+      "name": "SBT TV",
+      "isFree": true
+    },
+    {
+      "name": "Siam Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/FvEp1S2.png",
+      "website": "https://www.mvtv.co.th/channel/siamchannel"
+    },
+    {
+      "name": "Smart SME Channel",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4diO35a0NM9H1M44zSDtRuQuEXa.jpg",
+      "website": "https://www.smartsme.co.th/"
+    },
+    {
+      "name": "STOU Channel",
+      "isFree": true,
+      "website": "http://stouonline.stou.ac.th/tv/"
+    },
+    {
+      "name": "Super Bun-Terng",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+    },
+    {
+      "name": "Suwannabhumi Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "website": "http://suwannabhumi.tv/"
+    },
+    {
+      "name": "TCNN 47",
+      "isFree": true
+    },
+    {
+      "name": "Thaiban 83",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/tt/thaiban-83.png",
+      "website": "https://www.mvtv.co.th/channel/thaiban"
+    },
+    {
+      "name": "Thai Chaiyo",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png"
+    },
+    {
+      "name": "Thai Channel 2 142",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
+      "website": "http://thaich2.com/"
+    },
+    {
+      "name": "Thai Lite TV 135",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png"
+    },
+    {
+      "name": "Thainess TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://thainesstv.com/"
+    },
+    {
+      "name": "Thai Parliament Television",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
+      "website": "https://www.tpchannel.org/"
+    },
+    {
+      "name": "Thairath TV",
+      "isFree": true,
+      "keywords": "thairath tv -32",
+      "website": "https://www.thairath.co.th/tv"
+    },
+    {
+      "name": "Thai TV Global Network",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png"
+    },
+    {
+      "name": "Thai Variety Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
+      "website": "https://www.mvtv.co.th/channel/thaivariety"
+    },
+    {
+      "name": "Thai Visions Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png"
+    },
+    {
+      "name": "TNN16",
+      "isFree": true,
+      "website": "https://www.tnnthailand.com/"
+    },
+    {
+      "name": "TNN 2",
+      "isFree": true,
+      "website": "https://www.tnnthailand.com/"
+    },
+    {
+      "name": "Topline TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.toplinetv.com/"
+    },
+    {
+      "name": "True4U",
+      "isFree": true,
+      "website": "https://true4u.com/"
+    },
+    {
+      "name": "True Asian More",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-asian-more"
+    },
+    {
+      "name": "True Chinese More",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-chinese-more-hd"
+    },
+    {
+      "name": "True Explore Life",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-explore-life"
+    },
+    {
+      "name": "True Explore Sci",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-explore-3"
+    },
+    {
+      "name": "True Explore Wild",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-explore-wild"
+    },
+    {
+      "name": "True Inside",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-inside-hd"
+    },
+    {
+      "name": "True Korean More",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-korean-more-hd"
+    },
+    {
+      "name": "True Plookpanya",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/trueplookpanya"
+    },
+    {
+      "name": "True Select",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-select"
+    },
+    {
+      "name": "True Spark Jump",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/toon-channel"
+    },
+    {
+      "name": "True Spark Play",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-spark"
+    },
+    {
+      "name": "True X-Zyte",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-x-zyte-hd"
+    },
+    {
+      "name": "TTD1",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=1&channel=TTD1"
+    },
+    {
+      "name": "T Variety",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg"
+    },
+    {
+      "name": "TVB Thai",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://www.mvtv.co.th/channel/tvb-thai"
+    },
+    {
+      "name": "TV Direct 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 10",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 3",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 4",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 7",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 8",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TV Direct 9",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.tvdirect.tv/"
+    },
+    {
+      "name": "TVD Momo 5",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3G9NiWt.png",
+      "website": "https://www.tvdmomo.com/"
+    },
+    {
+      "name": "TV Market",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Umm TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5AV0JpL.png",
+      "website": "https://ummtv.com/"
+    },
+    {
+      "name": "Very TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z2diknhwzqvozQ8XvNzI9vY0at.jpg"
+    },
+    {
+      "name": "Vip TV",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/vip-events.png"
+    },
+    {
+      "name": "Voice TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
+      "website": "https://www.voicetv.co.th/"
+    },
+    {
+      "name": "Wisdom TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neFQlILZLL7U6XfH5hI7nKsLHiM.jpg"
+    },
+    {
+      "name": "Wish Channel 68",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg"
+    },
+    {
+      "name": "Workpoint TV",
+      "isFree": true,
+      "website": "http://www.workpointtv.com/"
+    },
+    {
+      "name": "World Entertainment TV 42",
+      "isFree": true,
+      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+    },
+    {
+      "name": "Yateem TV",
+      "isFree": true,
+      "website": "https://yateem.tv/"
+    },
+    {
+      "name": "Zabb Channel",
+      "isFree": true,
+      "logo": "https://i.imgur.com/4TMtUjW.png",
+      "website": "http://www.zabbtv.com/"
+    },
+    {
+      "name": "Zee Nung",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
+      "website": "https://www.zeenung.com/"
+    },
+    {
+      "name": "MONO 29",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+      "website": "https://mono29.com/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Fox Thai",
+      "isFree": false,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "A Film",
+      "isFree": true,
+      "logo": "https://logodix.com/logo/619307.png"
+    },
+    {
+      "name": "Asian Hits",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg"
+    },
+    {
+      "name": "@TV",
+      "isFree": true,
+      "website": "http://attvthai.com/"
+    },
+    {
+      "name": "BOX FILM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg"
+    },
+    {
+      "name": "Drama Channel",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://www.mvtv.co.th/channel/ramachannel"
+    },
+    {
+      "name": "Fox Movies Asia",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "I-Movie",
+      "isFree": true
+    },
+    {
+      "name": "Movies & sat Asia",
+      "isFree": true
+    },
+    {
+      "name": "MOVIES WORLD 1",
+      "isFree": true
+    },
+    {
+      "name": "MOVIES WORLD 2",
+      "isFree": true
+    },
+    {
+      "name": "MOVIES WORLD 3",
+      "isFree": true
+    },
+    {
+      "name": "MV TV Series",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/36.png",
+      "website": "https://www.mvtv.co.th/channel/mvtv-series"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "https://www.paramountnetwork.com/"
+    },
+    {
+      "name": "Series + HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
+      "website": "http://www.ipmtv.tv/"
+    },
+    {
+      "name": "True Film 1",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-film-hd"
+    },
+    {
+      "name": "True Film 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-film-hd-2"
+    },
+    {
+      "name": "True Film Asia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/film-asia-hd"
+    },
+    {
+      "name": "True Movie Hits",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-movie-hits"
+    },
+    {
+      "name": "True Series",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-series"
+    },
+    {
+      "name": "True Thai Film",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/thai-film"
+    },
+    {
+      "name": "White Flix",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wEVked59Y00NKK4Vj0FgzUzdPH.jpg",
+      "website": "https://whiteflix.tv/livestream"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "H2",
+      "isFree": true,
+      "logo": "https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png"
+    },
+    {
+      "name": "History Asia",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png"
+    },
+    {
+      "name": "Animal Show",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
+    },
+    {
+      "name": "ETV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
+      "website": "http://www.etvthai.tv/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 9
+    },
+    {
+      "name": "OBEC TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.obectv.tv/"
+    },
+    {
+      "name": "Panyapiwat TV 1",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.panyapiwat.ac.th/"
+    },
+    {
+      "name": "Panyapiwat TV 2",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.panyapiwat.ac.th/"
+    }
+  ],
+  "News": [
+    {
+      "name": "ASTV News 1",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/ASTV_FHD.png"
+    },
+    {
+      "name": "13 Siam Thai",
+      "isFree": true,
+      "website": "https://www.13livetv.com/"
+    },
+    {
+      "name": "Hi News",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uH5HeMmSy04H0hx7L7mma0NRHKS.jpg"
+    },
+    {
+      "name": "JKN 18",
+      "isFree": true,
+      "logo": "https://i.imgur.com/m4nPR2L.png",
+      "website": "https://www.jknglobal.com/"
+    },
+    {
+      "name": "Kaset News Channel",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png",
+      "website": "http://www.mvtv.co.th/"
+    },
+    {
+      "name": "Nation TV",
+      "isFree": true,
+      "website": "https://www.nationtv.tv/"
+    },
+    {
+      "name": "News1",
+      "isFree": true,
+      "website": "https://news1live.com/"
+    },
+    {
+      "name": "Top News",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.topnews.co.th/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Boomerang",
+      "isFree": true,
+      "logo": "https://i.imgur.com/xF8jZoR.png"
+    },
+    {
+      "name": "Toonee",
+      "isFree": true,
+      "website": "https://toonee.tv/"
+    },
+    {
+      "name": "Toon Toon",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ojbUahh8McTbR92Qf69ocWnggE.jpg"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Boonniyom TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/KvdFCD5.png",
+      "website": "https://www.boonniyom.net/"
+    },
+    {
+      "name": "CGNTV Thai",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/japon/jp_CGNTV.png",
+      "website": "https://thaicgntv.net/"
+    },
+    {
+      "name": "Dharma TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://dharmatelevision.tv/"
+    },
+    {
+      "name": "TV Muslim Thailand",
+      "isFree": true,
+      "website": "http://tvmuslim.org/"
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Chomyut Channel",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "GCJ O Shopping",
+      "isFree": true,
+      "keywords": "gcj o shopping -2",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg"
+    },
+    {
+      "name": "GCJ O Shopping 2",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg"
+    },
+    {
+      "name": "MVC",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=15&channel=MVC"
+    },
+    {
+      "name": "MV Mall 1",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/36.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=30&channel=MVMALL%201"
+    },
+    {
+      "name": "MV Mall 2",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/36.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=19&channel=MV%20Mall%202"
+    },
+    {
+      "name": "MV Mall 4",
+      "isFree": true,
+      "logo": "https://go4.pw/germany/36.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=4&channel=MV%20Mall%204_TTD%2014"
+    },
+    {
+      "name": "Shop Ch",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
+      "website": "https://www.shopch.in.th/"
+    },
+    {
+      "name": "Tiger Shopping TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR9crRlVqZUti3EPMyUyox24bsJ.jpg",
+      "website": "https://www.tigershoppingtv.com/"
+    },
+    {
+      "name": "True Shopping",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-select-hd"
+    },
+    {
+      "name": "True Store",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-store"
+    },
+    {
+      "name": "TTD 2",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=22&channel=TTD2"
+    },
+    {
+      "name": "TTD 3",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=23&channel=TTD3"
+    },
+    {
+      "name": "TTD 4",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=22&channel=TTD4"
+    },
+    {
+      "name": "TTD 5",
+      "isFree": true,
+      "logo": "https://lo1.in/uk/247.png",
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=25&channel=TTD5"
+    },
+    {
+      "name": "TTD 6",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=24&channel=TTD6"
+    },
+    {
+      "name": "TTD 7",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=27&channel=TTD7"
+    },
+    {
+      "name": "TTD 8",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=26&channel=TTD8"
+    },
+    {
+      "name": "TTD 9",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=27&channel=TTD9"
+    },
+    {
+      "name": "V2H10",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=38&channel=V2H10"
+    },
+    {
+      "name": "V2H11",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=40&channel=V2V11"
+    },
+    {
+      "name": "V2H12",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=41&channel=V2V12"
+    },
+    {
+      "name": "V2H13",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=41&channel=V2H13"
+    },
+    {
+      "name": "V2H14",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=42&channel=V2H14"
+    },
+    {
+      "name": "V2H15",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=43&channel=V2H15"
+    },
+    {
+      "name": "V2H2",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=30&channel=V2H2"
+    },
+    {
+      "name": "V2H3",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=32&channel=V2H3"
+    },
+    {
+      "name": "V2H4",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/?no=32&channel=V2H4"
+    },
+    {
+      "name": "V2H5",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=34&channel=V2H5"
+    },
+    {
+      "name": "V2H6",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=35&channel=V2H6"
+    },
+    {
+      "name": "V2H7",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=36&channel=V2H7"
+    },
+    {
+      "name": "V2H8",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=36&channel=V2H8"
+    },
+    {
+      "name": "V2H9",
+      "isFree": true,
+      "website": "https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=37&channel=V2H9"
+    },
+    {
+      "name": "WorkShop TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yOXo0zWbR1HRKWO5Zn8CNl3Pac.jpg"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Sweet Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg"
+    },
+    {
+      "name": "True Music",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
+      "website": "https://tv.trueid.net/live/true-music-channel-hd"
+    }
+  ]
+}

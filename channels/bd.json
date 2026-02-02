@@ -1,0 +1,791 @@
+{
+  "News": [
+    {
+      "name": "ATN News",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/8394b42f608c4cdfef24a7cf602ede1a.png",
+      "priority": 9
+    },
+    {
+      "name": "Channel 24",
+      "isFree": true
+    },
+    {
+      "name": "DBC News",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/DBC-NEWS.png"
+    },
+    {
+      "name": "Ekushey TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lRpkGHj.png"
+    },
+    {
+      "name": "Independent TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png"
+    },
+    {
+      "name": "Jamuna TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/JAMUNA.png"
+    },
+    {
+      "name": "News 24",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/88eb2399dfb95514af981ee169e8e747.png"
+    },
+    {
+      "name": "Somoy News TV",
+      "isFree": true,
+      "logo": "https://go4.pw/India/SOMOY.png"
+    },
+    {
+      "name": "Bayanno TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://bayanno.com/"
+    },
+    {
+      "name": "Channel T1",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/b3496059dd240666fdd79a09904bdcdd.png"
+    },
+    {
+      "name": "CNN Bangla TV",
+      "isFree": true,
+      "website": "https://cnnbangla.com.bd/",
+      "priority": 10
+    },
+    {
+      "name": "Desh TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53VStqbu6cS6HlfswFsSe4WMOm1.jpg",
+      "website": "https://www.desh.tv/"
+    },
+    {
+      "name": "Ekattor TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/EKATTOR-TV.png",
+      "website": "https://ekattor.tv/",
+      "priority": 9
+    },
+    {
+      "name": "Ekhon TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ekhon.tv/"
+    },
+    {
+      "name": "Falguni TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Jago News 24",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://www.jagonews24.com/"
+    },
+    {
+      "name": "NAN TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "News 21 Bangla TV",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+      "website": "https://news21bangla.tv/"
+    },
+    {
+      "name": "Mass media in Bangladesh",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqaqsMTLmNaM50tQG4k8EkR6AxY.jpg"
+    },
+    {
+      "name": "Telecommunications in Bangladesh",
+      "isFree": null,
+      "logo": "https://logodix.com/logo/1104724.png"
+    },
+    {
+      "name": "Bangladesh Television",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "BTV News",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2021/06/26/large/20210626150218508620_73.png",
+      "priority": 9
+    },
+    {
+      "name": "Sangsad Bangladesh Television",
+      "isFree": null,
+      "logo": "https://i.imgur.com/jkouxLg.png"
+    },
+    {
+      "name": "BTV Khulna",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "BTV Mymensingh",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "BTV Rajshahi",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "BTV Rangpur",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "BTV Sylhet",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "Channel i",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 9
+    },
+    {
+      "name": "Ekushey Television",
+      "isFree": null,
+      "logo": "https://i.imgur.com/lRpkGHj.png"
+    },
+    {
+      "name": "NTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/AFRICA/NTV.png"
+    },
+    {
+      "name": "RTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    },
+    {
+      "name": "Banglavision",
+      "isFree": null
+    },
+    {
+      "name": "My TV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg"
+    },
+    {
+      "name": "Mohona Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/MOHONA.png"
+    },
+    {
+      "name": "Maasranga Television",
+      "isFree": null
+    },
+    {
+      "name": "Channel 9 (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "GTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/Africa/GTV.png"
+    },
+    {
+      "name": "Global Television (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
+    },
+    {
+      "name": "Green TV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
+    },
+    {
+      "name": "Channel S (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Somoy TV",
+      "isFree": null,
+      "logo": "https://go4.pw/India/SOMOY.png"
+    },
+    {
+      "name": "Independent Television (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png"
+    },
+    {
+      "name": "Channel 24 (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Ekattor",
+      "isFree": null,
+      "keywords": "ekattor -tv",
+      "logo": "https://go4.pw/ASIA/INDIA/EKATTOR-TV.png",
+      "priority": 9
+    },
+    {
+      "name": "Jamuna Television",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/JAMUNA.png"
+    },
+    {
+      "name": "News24 (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.imgur.com/dak9AtV.png"
+    },
+    {
+      "name": "Star News (Bangladesh)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+    },
+    {
+      "name": "Nexus Television",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bK9DrDwkSZNE02Zf2QuI7weaQsN.jpg"
+    },
+    {
+      "name": "Ekhon",
+      "isFree": null,
+      "keywords": "ekhon -tv"
+    },
+    {
+      "name": "Gaan Bangla",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/GAAN-BANGLA-MUSIC.png"
+    },
+    {
+      "name": "STV-US",
+      "isFree": null
+    },
+    {
+      "name": "Channel 1 (Bangladesh)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "CSB News",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Islamic TV",
+      "isFree": null,
+      "logo": "https://go4.pw/India/ATN ISLAMIC TV.png"
+    },
+    {
+      "name": "Diganta Television",
+      "isFree": null
+    },
+    {
+      "name": "Channel 16 (Bangladesh)",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Amar TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGZgpYMBC3eIxQpYZt4DuZVAuek.jpg"
+    },
+    {
+      "name": "Cambrian TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Channel 21",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Channel 52",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Khela TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Live TV",
+      "isFree": null,
+      "logo": "https://images.iptvmate.net/tvglogo/093e6973a56bfcf0eb1454d05e85061a.png"
+    },
+    {
+      "name": "Next TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png"
+    },
+    {
+      "name": "Prime TV",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
+    },
+    {
+      "name": "TV Today",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Bangladesh Television",
+      "isFree": null
+    },
+    {
+      "name": "[[Sangsad Bangladesh Television",
+      "isFree": null,
+      "logo": "https://go4.pw/USA/FloSport.png"
+    },
+    {
+      "name": "[[NTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[RTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[My TV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Channel 9 (Bangladeshi TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "[[GTV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Global Television (Bangladeshi TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "[[Green TV (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Channel S (Bangladeshi TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "[[Independent Television (Bangladeshi TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "[[Channel 24 (Bangladeshi TV channel)",
+      "isFree": null
+    },
+    {
+      "name": "[[News24 (Bangladeshi TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[Star News (Bangladesh)",
+      "isFree": null,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Gaan Bangla {{Efn",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/INDIA/GAAN-BANGLA-MUSIC.png"
+    },
+    {
+      "name": "[[Channel 1 (Bangladesh)",
+      "isFree": null,
+      "logo": "https://lo1.in/uk/247.png"
+    },
+    {
+      "name": "[[Channel 16 (Bangladesh)",
+      "isFree": null
+    }
+  ],
+  "Local": [
+    {
+      "name": "BTV Chittagong",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "Channel 9",
+      "isFree": true,
+      "logo": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+      "priority": 4
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "AB TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/AB11.png"
+    },
+    {
+      "name": "ATN Bangla",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/aryananews.png",
+      "priority": 9
+    },
+    {
+      "name": "BTV World",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "priority": 9
+    },
+    {
+      "name": "Bangla Vision",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_bangladesh.png"
+    },
+    {
+      "name": "Bijoy TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Boishakhi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gxL05Y4.png"
+    },
+    {
+      "name": "Channel B",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "Channel I",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "priority": 9
+    },
+    {
+      "name": "Colosal TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png"
+    },
+    {
+      "name": "Nexus TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bK9DrDwkSZNE02Zf2QuI7weaQsN.jpg"
+    },
+    {
+      "name": "Nokshi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "RTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/c8wAvxC.png"
+    },
+    {
+      "name": "SA TV",
+      "isFree": true,
+      "keywords": "sa tv | satv",
+      "shortName": "SATV",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIPcRlVTl9Lb1gYDJC95LLjvYC0.jpg"
+    },
+    {
+      "name": "Sangshad TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Ananda TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/BANGALAABPANANDA.png",
+      "website": "http://anandatv.tv/"
+    },
+    {
+      "name": "Asian TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
+      "website": "https://www.asiantv.com.bd/"
+    },
+    {
+      "name": "B24C",
+      "isFree": true
+    },
+    {
+      "name": "Bangla21 TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://bangla21.tv/"
+    },
+    {
+      "name": "Bangla TV",
+      "isFree": true,
+      "keywords": "bangla tv -europe",
+      "logo": "https://go4.pw/FLAGS/flag_bangladesh.png",
+      "website": "https://banglatv.tv/"
+    },
+    {
+      "name": "Bangla TV Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/FLAGS/flag_bangladesh.png",
+      "website": "https://banglatv.tv/"
+    },
+    {
+      "name": "Boishakhi TV Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/India/BOISHAKHI_TV.png"
+    },
+    {
+      "name": "BTV Chattogram",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "website": "https://btv.portal.gov.bd/",
+      "priority": 9
+    },
+    {
+      "name": "BTV National",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
+      "website": "https://btv.portal.gov.bd/",
+      "priority": 9
+    },
+    {
+      "name": "Channel A1",
+      "isFree": true,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+      "website": "https://channela1.com/"
+    },
+    {
+      "name": "Deepto TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.deepto.tv/"
+    },
+    {
+      "name": "E Ten TV",
+      "isFree": true,
+      "website": "https://etentvbd.com/"
+    },
+    {
+      "name": "Gazi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://gazitv.com/",
+      "priority": 9
+    },
+    {
+      "name": "Global Television",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "website": "https://www.globaltvbd.com/"
+    },
+    {
+      "name": "Green TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "website": "https://greentelevision.tv/"
+    },
+    {
+      "name": "HerNet TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://hernet.tv/"
+    },
+    {
+      "name": "Jagoroni TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://jagoroni.tv/"
+    },
+    {
+      "name": "Maasranga TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://maasranga.tv/"
+    },
+    {
+      "name": "MC TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuAti3pkylfx0EyhfRUPpxK6Xkm.jpg",
+      "website": "https://mctvbd.com/"
+    },
+    {
+      "name": "Mohona TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/MOHONA.png",
+      "website": "http://www.mohona.tv/"
+    },
+    {
+      "name": "My TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/lhxRefQ.png",
+      "website": "https://mytvbd.tv/"
+    },
+    {
+      "name": "Nagorik TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://nagorik.com/"
+    },
+    {
+      "name": "NTV",
+      "isFree": true,
+      "keywords": "ntv -europe",
+      "logo": "https://i.imgur.com/SoBhuIb.png",
+      "website": "https://www.ntvbd.com/"
+    },
+    {
+      "name": "NTV Europe",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/NTV.png",
+      "website": "https://europentv.ntvbd.com/"
+    },
+    {
+      "name": "QTV Bangla",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/QTV.png"
+    },
+    {
+      "name": "Rajdhani TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://rajdhani.tv/"
+    },
+    {
+      "name": "Rupashi Bangla TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/BANGLA/RUPASHI.png",
+      "website": "https://rupashibangla.tv/"
+    },
+    {
+      "name": "Sangsad TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jkouxLg.png",
+      "website": "http://www.parliament.gov.bd/index.php/en/medias/video-gallery/41-media-category/89-parliament-tv"
+    },
+    {
+      "name": "Varendra TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "VOICE TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg"
+    },
+    {
+      "name": "Vokta TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/szAGBCU.png",
+      "website": "https://vokta.tv/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Peace TV Bangla",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f1b509a1f672e8f7c082b1caa90cd1a3.png"
+    },
+    {
+      "name": "Al Dawah TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "ATN Islamic TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/aryananews.png",
+      "priority": 9
+    },
+    {
+      "name": "Madani Channel Bangla",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png",
+      "website": "https://madanichannelbangla.tv/"
+    },
+    {
+      "name": "Makkah Live",
+      "isFree": true,
+      "logo": "https://go4.pw/BAHRAIN/QURAN.png",
+      "website": "https://www.jagobd.com/makkahlive"
+    },
+    {
+      "name": "Medina Live",
+      "isFree": true,
+      "logo": "https://go4.pw/ISLAMIC/quraan.png",
+      "website": "https://www.jagobd.com/medinalive"
+    },
+    {
+      "name": "Panvision TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://main.panvision.tv/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Gaan Bangla",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/GAAN-BANGLA-MUSIC.png"
+    },
+    {
+      "name": "ATN Music",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/aryananews.png",
+      "website": "http://atnmusic.tv/",
+      "priority": 9
+    },
+    {
+      "name": "RTV Music",
+      "isFree": true,
+      "logo": "https://go4.pw/Africa/RTV.png"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Channel S",
+      "isFree": true,
+      "website": "https://www.channels.com.bd/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Duronto TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/gXsddRK.png",
+      "website": "http://www.duronto.tv/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Movie Bangla",
+      "isFree": true,
+      "website": "https://moviebangla.tv/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "T Sports",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+      "website": "https://www.tsports.com.bd/"
+    }
+  ]
+}

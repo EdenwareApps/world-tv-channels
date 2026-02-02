@@ -1,0 +1,1858 @@
+{
+  "Religious": [
+    {
+      "name": "Bonum TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/LdsRz2E.png"
+    },
+    {
+      "name": "EWTN/Bonum TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://katolikus.tv/musorok/"
+    },
+    {
+      "name": "Gran TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+      "website": "http://www.grantv.hu/"
+    },
+    {
+      "name": "Light Channel Transylvania",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg",
+      "website": "https://ltvhu.org/"
+    },
+    {
+      "name": "Pax TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/R8qQGoZ.png",
+      "website": "http://www.pax-tv.hu/"
+    },
+    {
+      "name": "RemenyTV",
+      "isFree": true,
+      "website": "https://remenytv.hu/"
+    },
+    {
+      "name": "Duna TV",
+      "isFree": true
+    },
+    {
+      "name": "M1 (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "M2 (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "M5 (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "RTL (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "TV2 (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Max4",
+      "isFree": true
+    },
+    {
+      "name": "Galaxy TV Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Story4 Hungary",
+      "isFree": true
+    },
+    {
+      "name": "TV4 Hungary",
+      "isFree": true
+    },
+    {
+      "name": "M3 (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "M6 (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "TV2 Séf",
+      "isFree": true
+    },
+    {
+      "name": "M5 (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "RTL Kettő",
+      "isFree": true
+    },
+    {
+      "name": "RTL Három",
+      "isFree": true
+    },
+    {
+      "name": "Prime TV hu",
+      "isFree": true
+    },
+    {
+      "name": "AXN (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "d1 TV",
+      "isFree": true
+    },
+    {
+      "name": "LifeTV",
+      "isFree": true
+    },
+    {
+      "name": "OzoneTV",
+      "isFree": true
+    },
+    {
+      "name": "Neshama TV",
+      "isFree": true
+    },
+    {
+      "name": "Hír TV",
+      "isFree": true
+    },
+    {
+      "name": "ATV (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "EuroNews",
+      "isFree": true
+    },
+    {
+      "name": "Sport 1 (Europe)",
+      "isFree": true
+    },
+    {
+      "name": "Extreme Sports Channel",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport",
+      "isFree": true
+    },
+    {
+      "name": "Eurosport 2",
+      "isFree": true
+    },
+    {
+      "name": "Auto Motor Sport",
+      "isFree": true
+    },
+    {
+      "name": "Spíler TV",
+      "isFree": true
+    },
+    {
+      "name": "Arena4 Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox (Europe)",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox Extra HD",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox Premium",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox Family",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox Stars",
+      "isFree": true
+    },
+    {
+      "name": "AMC (European TV Channel)",
+      "isFree": true
+    },
+    {
+      "name": "Film4 Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Viasat 2",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Channel Hungary",
+      "isFree": true
+    },
+    {
+      "name": "National Geographic Channel",
+      "isFree": true
+    },
+    {
+      "name": "BBC Earth",
+      "isFree": true
+    },
+    {
+      "name": "Spektrum (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Fishing & Hunting",
+      "isFree": true
+    },
+    {
+      "name": "History (U.S. TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Da Vinci Learning",
+      "isFree": true
+    },
+    {
+      "name": "FIXHD",
+      "isFree": true
+    },
+    {
+      "name": "Animal Planet",
+      "isFree": true
+    },
+    {
+      "name": "Nat Geo Wild",
+      "isFree": true
+    },
+    {
+      "name": "TV2 Klub",
+      "isFree": true
+    },
+    {
+      "name": "TLC Europe",
+      "isFree": true
+    },
+    {
+      "name": "Travel Channel",
+      "isFree": true
+    },
+    {
+      "name": "Travelxp",
+      "isFree": true
+    },
+    {
+      "name": "Fashion TV",
+      "isFree": true
+    },
+    {
+      "name": "Minimax (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Jim Jam",
+      "isFree": true
+    },
+    {
+      "name": "Nickelodeon (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Nick Jr. Channel",
+      "isFree": true
+    },
+    {
+      "name": "Cartoon Network Central & Eastern Europe",
+      "isFree": true
+    },
+    {
+      "name": "Cartoonito",
+      "isFree": true
+    },
+    {
+      "name": "Disney Channel (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Sláger TV",
+      "isFree": true
+    },
+    {
+      "name": "MTV Global",
+      "isFree": true
+    },
+    {
+      "name": "UTV Romania",
+      "isFree": true
+    },
+    {
+      "name": "Stingray CMusic",
+      "isFree": true
+    },
+    {
+      "name": "Stingray iConcerts",
+      "isFree": true
+    },
+    {
+      "name": "Mooz Dance",
+      "isFree": true
+    },
+    {
+      "name": "Mezzo (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "EWTN Hungary",
+      "isFree": true
+    },
+    {
+      "name": "PAX TV (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Local TV channels in Hungary",
+      "isFree": true
+    },
+    {
+      "name": "SuperOne HD",
+      "isFree": true
+    },
+    {
+      "name": "Dorcel TV",
+      "isFree": true
+    },
+    {
+      "name": "Private TV",
+      "isFree": true
+    },
+    {
+      "name": "Hustler TV (Europe)",
+      "isFree": true
+    },
+    {
+      "name": "Dusk TV",
+      "isFree": true
+    },
+    {
+      "name": "Film+ (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Moziverzum HD",
+      "isFree": true
+    },
+    {
+      "name": "Film Cafe HD",
+      "isFree": true
+    },
+    {
+      "name": "Animal Planet HD",
+      "isFree": true
+    },
+    {
+      "name": "TLC (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "National Geographic Central Europe",
+      "isFree": true
+    },
+    {
+      "name": "AXN",
+      "isFree": true
+    },
+    {
+      "name": "Filmbox HD",
+      "isFree": true
+    },
+    {
+      "name": "Spektrum HD",
+      "isFree": true
+    },
+    {
+      "name": "Nat Geo HD",
+      "isFree": true
+    },
+    {
+      "name": "HISTORY HD",
+      "isFree": true
+    },
+    {
+      "name": "RTL Spike",
+      "isFree": true
+    },
+    {
+      "name": "FilmBox Plus",
+      "isFree": true
+    },
+    {
+      "name": "Fine Living (Europe)",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Showcase HD",
+      "isFree": true
+    },
+    {
+      "name": "History 2",
+      "isFree": true
+    },
+    {
+      "name": "LiChi TV",
+      "isFree": true
+    },
+    {
+      "name": "KiWI TV",
+      "isFree": true
+    },
+    {
+      "name": "Humor+",
+      "isFree": true
+    },
+    {
+      "name": "Megamax",
+      "isFree": true
+    },
+    {
+      "name": "ID Xtra",
+      "isFree": true
+    },
+    {
+      "name": "C8 (Eastern Europe)",
+      "isFree": true
+    },
+    {
+      "name": "Fox (Hungarian TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Sport TV",
+      "isFree": true
+    },
+    {
+      "name": "Chili TV",
+      "isFree": true
+    },
+    {
+      "name": "Story 4",
+      "isFree": true
+    },
+    {
+      "name": "Story 5",
+      "isFree": true
+    },
+    {
+      "name": "Echo TV",
+      "isFree": true
+    },
+    {
+      "name": "DOQ TV",
+      "isFree": true
+    },
+    {
+      "name": "VIVA Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central Extra",
+      "isFree": true
+    },
+    {
+      "name": "Comedy Central Family (Hungary)",
+      "isFree": true
+    },
+    {
+      "name": "Digi Film",
+      "isFree": true
+    },
+    {
+      "name": "FilmNOW",
+      "isFree": true
+    },
+    {
+      "name": "Disney Junior Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Ozone Network",
+      "isFree": true
+    },
+    {
+      "name": "Life Network",
+      "isFree": true
+    },
+    {
+      "name": "Film+2",
+      "isFree": true
+    },
+    {
+      "name": "AXN White",
+      "isFree": true
+    },
+    {
+      "name": "Sony Max",
+      "isFree": true
+    },
+    {
+      "name": "AXN Black",
+      "isFree": true
+    },
+    {
+      "name": "Sony Movie Channel",
+      "isFree": true
+    },
+    {
+      "name": "Universal Channel",
+      "isFree": true
+    },
+    {
+      "name": "PRO4",
+      "isFree": true
+    },
+    {
+      "name": "Cartoon Network Too",
+      "isFree": true
+    },
+    {
+      "name": "Animax",
+      "isFree": true
+    },
+    {
+      "name": "Discovery World (international TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Travel&Living",
+      "isFree": true
+    },
+    {
+      "name": "DTX (TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Science (European TV channel)",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Civilization Channel",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Sci-Trek Channel",
+      "isFree": true
+    },
+    {
+      "name": "BBC Knowledge",
+      "isFree": true
+    },
+    {
+      "name": "TV3 Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Prizma TV",
+      "isFree": true
+    },
+    {
+      "name": "Reflektor TV",
+      "isFree": true
+    },
+    {
+      "name": "AXN Sci-Fi",
+      "isFree": true
+    },
+    {
+      "name": "AXN Crime",
+      "isFree": true
+    },
+    {
+      "name": "Hallmark Channel",
+      "isFree": true
+    },
+    {
+      "name": "Kids Co.",
+      "isFree": true
+    },
+    {
+      "name": "Írisz TV",
+      "isFree": true
+    },
+    {
+      "name": "MTVA Info",
+      "isFree": true
+    },
+    {
+      "name": "M3D",
+      "isFree": true
+    },
+    {
+      "name": "A+ Hungary",
+      "isFree": true
+    },
+    {
+      "name": "A+ Music",
+      "isFree": true
+    },
+    {
+      "name": "Best Of Music",
+      "isFree": true
+    },
+    {
+      "name": "Budapest Európa Televízió",
+      "isFree": true
+    },
+    {
+      "name": "Cherry Music",
+      "isFree": true
+    },
+    {
+      "name": "Szív TV",
+      "isFree": true
+    },
+    {
+      "name": "MSat",
+      "isFree": true
+    },
+    {
+      "name": "Fény TV",
+      "isFree": true
+    },
+    {
+      "name": "FilmBox Extra",
+      "isFree": true
+    },
+    {
+      "name": "FilmNet Hungary",
+      "isFree": true
+    },
+    {
+      "name": "Fox Kids",
+      "isFree": true
+    },
+    {
+      "name": "Galaxia TV",
+      "isFree": true
+    },
+    {
+      "name": "Game One TV",
+      "isFree": true
+    },
+    {
+      "name": "Hálózat TV",
+      "isFree": true
+    },
+    {
+      "name": "HungaroSport",
+      "isFree": true
+    },
+    {
+      "name": "Humor 1",
+      "isFree": true
+    },
+    {
+      "name": "Jetix",
+      "isFree": true
+    },
+    {
+      "name": "Joker TV",
+      "isFree": true
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "1Mus",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PozF9MT.png"
+    },
+    {
+      "name": "1Music Channel Hungary",
+      "isFree": true,
+      "shortName": "1CH"
+    },
+    {
+      "name": "H!T Music Channel",
+      "isFree": true,
+      "shortName": "HMC"
+    },
+    {
+      "name": "MUSIC +",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Music Channel",
+      "isFree": true,
+      "logo": "http://media.boni-records.com/logo.png",
+      "website": "http://1music.hu/"
+    },
+    {
+      "name": "Muzsika TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/kmQ5vYC.png",
+      "website": "https://rtl.hu/"
+    },
+    {
+      "name": "Slager TV",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/CZECH/SLAGER MUZIKA.png",
+      "website": "https://slagertv.tv/"
+    },
+    {
+      "name": "H!t Music Channel",
+      "isFree": true,
+      "website": "http://hitmusic.hu/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "1Music Hungary",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aOaSv3i.png"
+    },
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "Apostol TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4nesLMUtlGRKCAf3ItjCASQ66P.jpg"
+    },
+    {
+      "name": "Balaton TV",
+      "isFree": true,
+      "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png"
+    },
+    {
+      "name": "Budakalasz",
+      "isFree": true
+    },
+    {
+      "name": "Cool TV",
+      "isFree": true
+    },
+    {
+      "name": "DTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/UpsLEAV.png"
+    },
+    {
+      "name": "FEM3",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Film+",
+      "isFree": true
+    },
+    {
+      "name": "H!T Music HU",
+      "isFree": true,
+      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+    },
+    {
+      "name": "Halom TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png"
+    },
+    {
+      "name": "Hatoscsatorna",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vraAfd7.png"
+    },
+    {
+      "name": "Hegyvidek Tv Budapest",
+      "isFree": true,
+      "shortName": "HTB"
+    },
+    {
+      "name": "Izaura TV",
+      "isFree": true
+    },
+    {
+      "name": "Kecskemeti TV",
+      "isFree": true
+    },
+    {
+      "name": "Komlos TV",
+      "isFree": true
+    },
+    {
+      "name": "Komlós TV",
+      "isFree": true
+    },
+    {
+      "name": "Life TV",
+      "isFree": true
+    },
+    {
+      "name": "Lóverseny közvetítés",
+      "isFree": true,
+      "shortName": "LK",
+      "logo": "https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png"
+    },
+    {
+      "name": "M3",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/M3ANNO.png",
+      "priority": 9
+    },
+    {
+      "name": "Ozdi Varosi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5cOpdRp.jpg"
+    },
+    {
+      "name": "Pannon RTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/iD5tCjX.png"
+    },
+    {
+      "name": "RTL II",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "priority": 9
+    },
+    {
+      "name": "Sorozat+",
+      "isFree": true
+    },
+    {
+      "name": "TV7 Bekescsaba",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png"
+    },
+    {
+      "name": "Tisza TV",
+      "isFree": true
+    },
+    {
+      "name": "VTV Füzesabony",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7ZPYJJ0.jpg"
+    },
+    {
+      "name": "Ózdi Városi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5cOpdRp.jpg"
+    },
+    {
+      "name": "16tv Budapest",
+      "isFree": true,
+      "website": "http://www.16tv.hu/"
+    },
+    {
+      "name": "7.TV",
+      "isFree": true,
+      "website": "https://behir.hu/tv"
+    },
+    {
+      "name": "Alfold TV",
+      "isFree": true,
+      "website": "http://www.hajdupress.hu/alfoldtv"
+    },
+    {
+      "name": "ATV Spirit",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
+      "website": "http://www.atv.hu/"
+    },
+    {
+      "name": "AXN Spin",
+      "isFree": true,
+      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png",
+      "website": "http://www.axnspin.com/"
+    },
+    {
+      "name": "Bajai TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/cyReGWh.png",
+      "website": "http://www.bajaitelevizio.hu/"
+    },
+    {
+      "name": "Berente TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/3H3Ct9f.png",
+      "website": "https://berente.hu"
+    },
+    {
+      "name": "BTV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
+      "website": "http://www.btv.hu/"
+    },
+    {
+      "name": "Budapest Europa Televizio",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+      "website": "https://www.bpetv.org/"
+    },
+    {
+      "name": "C8",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/C8.png",
+      "website": "http://www.c8tv.hu/"
+    },
+    {
+      "name": "Cegledi Varosi Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PF3BP4X.png",
+      "website": "https://ctv.hu/"
+    },
+    {
+      "name": "City TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png",
+      "website": "https://citytv.hu/"
+    },
+    {
+      "name": "Comedy Central",
+      "isFree": true,
+      "keywords": "comedy central -family",
+      "website": "http://www.comedycentral.hu/"
+    },
+    {
+      "name": "Comedy Central Family",
+      "isFree": true,
+      "website": "http://comedycentralfamily.hu/"
+    },
+    {
+      "name": "Csurgo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/vVOEYuj.png",
+      "website": "http://www.csurgotv.hu/"
+    },
+    {
+      "name": "D1 TV",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/FloSport.png",
+      "website": "http://www.d1tv.hu/"
+    },
+    {
+      "name": "Daru TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0P7QHde.png",
+      "website": "https://balmazujvaros.hu/daru-tv"
+    },
+    {
+      "name": "Digi Animal World",
+      "isFree": true,
+      "website": "https://www.digi-animalworld.tv/"
+    },
+    {
+      "name": "Digi Life",
+      "isFree": true,
+      "website": "https://www.digilife.hu/"
+    },
+    {
+      "name": "Digi World",
+      "isFree": true,
+      "website": "https://www.digiworld.hu/"
+    },
+    {
+      "name": "Discovery Channel",
+      "isFree": true,
+      "logo": "http://epg.one/img2/325.png",
+      "website": "http://www.discoverychannel.hu/",
+      "priority": 10
+    },
+    {
+      "name": "DSTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/mGFVwkB.png",
+      "website": "http://dstv.hu/"
+    },
+    {
+      "name": "DTX",
+      "isFree": true,
+      "website": "http://discoverychannel.hu/"
+    },
+    {
+      "name": "Duna",
+      "isFree": true,
+      "keywords": "duna -world",
+      "logo": "https://go4.pw/HUNGARIAN/DUNATV.png",
+      "website": "https://mediaklikk.hu/duna"
+    },
+    {
+      "name": "Duna World",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/DUNATV.png",
+      "website": "https://mediaklikk.hu/dunaworld/"
+    },
+    {
+      "name": "Egyker TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://media1.hu/cimke/egyker-tv/"
+    },
+    {
+      "name": "ESTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Anlb1SP.png",
+      "website": "http://estv.hu/"
+    },
+    {
+      "name": "Fehervar TV",
+      "isFree": true,
+      "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+      "website": "https://www.fehervartv.hu/"
+    },
+    {
+      "name": "FIX TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7bY2xZymoIOti4WM5K29OMzCS.jpg",
+      "website": "https://www.fixhd.tv/"
+    },
+    {
+      "name": "Fonix TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/ZMRpGqY/6171.png",
+      "website": "http://www.fonixtv.hu/"
+    },
+    {
+      "name": "Food Network",
+      "isFree": true,
+      "website": "http://www.foodnetworktv.com/"
+    },
+    {
+      "name": "Galaxy4",
+      "isFree": true,
+      "website": "https://galaxy4.network4.hu/"
+    },
+    {
+      "name": "Globo TV",
+      "isFree": true,
+      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
+      "website": "http://www.globotv.hu/"
+    },
+    {
+      "name": "Golya TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TeK6Pzb.png",
+      "website": "https://cuttingroom.hu/"
+    },
+    {
+      "name": "Gyongyosi TV",
+      "isFree": true,
+      "website": "https://gyongyostv.hu/"
+    },
+    {
+      "name": "Hangulat TV",
+      "isFree": true,
+      "logo": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+      "website": "https://onlinestream.live/hangulat-tv/online/9001-1"
+    },
+    {
+      "name": "Hegyvidek TV",
+      "isFree": true,
+      "website": "https://hegyvidektv.hu/"
+    },
+    {
+      "name": "Heti TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://heti.tv/"
+    },
+    {
+      "name": "Hevizi TV",
+      "isFree": true,
+      "website": "https://hevizitv.hu"
+    },
+    {
+      "name": "HGTV",
+      "isFree": true,
+      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
+      "website": "https://www.hgtv.co.hu/"
+    },
+    {
+      "name": "Jaszsagi Tersegi TV",
+      "isFree": true,
+      "website": "http://jttv.hu"
+    },
+    {
+      "name": "Jocky TV",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/JOCKY TV.png",
+      "website": "https://tv2play.hu/jockytv"
+    },
+    {
+      "name": "Kanizsa TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/l02znlE.png",
+      "website": "https://kanizsatv.hu/"
+    },
+    {
+      "name": "Kapos TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ZMrj2C5.png",
+      "website": "https://kapos.hu/kapostv/"
+    },
+    {
+      "name": "Karcag TV",
+      "isFree": true,
+      "website": "http://www.karcagtv.hu"
+    },
+    {
+      "name": "Kiskoros TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Y74Mve1.png",
+      "website": "http://www.kiskorostv.hu"
+    },
+    {
+      "name": "Kolcsey TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://kolcseytv.hu/"
+    },
+    {
+      "name": "KolorTV",
+      "isFree": true,
+      "website": "https://kolorline.hu/kolortv"
+    },
+    {
+      "name": "Komaromi Televizio",
+      "isFree": true,
+      "website": "http://www.komaromtv.hu/"
+    },
+    {
+      "name": "Ladany TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.ladanytv.hu/"
+    },
+    {
+      "name": "Light Channel",
+      "isFree": true,
+      "keywords": "light channel -transylvania",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg"
+    },
+    {
+      "name": "M2",
+      "isFree": true,
+      "keywords": "m2 -petofi",
+      "website": "https://mediaklikk.hu/m2/",
+      "priority": 9
+    },
+    {
+      "name": "Makoi Varosi Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/PF3BP4X.png",
+      "website": "https://makotv.hu/"
+    },
+    {
+      "name": "Mezokovesdi Televizio",
+      "isFree": true,
+      "website": "https://www.kovesdimedia.com/mezokovesdi-televizio.html"
+    },
+    {
+      "name": "Miskolc TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/IoiNus2.png",
+      "website": "https://minap.hu/miskolc-tv"
+    },
+    {
+      "name": "Mora-Net TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://moranettv.hu/"
+    },
+    {
+      "name": "MTV",
+      "isFree": true,
+      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
+      "website": "http://mtv.co.hu/",
+      "priority": 10
+    },
+    {
+      "name": "NYTV",
+      "isFree": true,
+      "website": "http://nyiregyhazitv.hu/"
+    },
+    {
+      "name": "Obuda TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/42C026p/6172.png",
+      "website": "http://obudatv.hu/"
+    },
+    {
+      "name": "Oroszlanyi Varosi Televizio",
+      "isFree": true,
+      "website": "http://www.oroszlanyimedia.hu/"
+    },
+    {
+      "name": "Orszaggyules: OGY plenaris",
+      "isFree": true,
+      "website": "https://www.parlament.hu/elo-kozvetitesek"
+    },
+    {
+      "name": "Orszaggyules: OGY TAB",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxW0ZWf3YBBPshn2XguUsD5ZonF.jpg",
+      "website": "https://www.parlament.hu/elo-kozvetitesek"
+    },
+    {
+      "name": "Ozone TV",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/OZONE.png",
+      "website": "https://ozonetv.hu/"
+    },
+    {
+      "name": "PestiTV",
+      "isFree": true,
+      "website": "https://pestitv.pestisracok.hu/"
+    },
+    {
+      "name": "PilisTV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/5L01wRi.png",
+      "website": "http://www.pilistelevizio.hu/"
+    },
+    {
+      "name": "Prime",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
+      "website": "https://tv2play.hu/prime"
+    },
+    {
+      "name": "PVTV",
+      "isFree": true,
+      "website": "http://pvtv.hu/"
+    },
+    {
+      "name": "Rabakozi Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "website": "http://www.molnarkft.hu/rabakozi-tv"
+    },
+    {
+      "name": "Rakosmente TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/n39a2DT.png",
+      "website": "http://www.rakosmentetv.hu/"
+    },
+    {
+      "name": "RegioPlusz TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VXPpukf.png",
+      "website": "http://www.regioplusztv.hu"
+    },
+    {
+      "name": "Romance TV",
+      "isFree": true
+    },
+    {
+      "name": "RTL",
+      "isFree": true,
+      "keywords": "rtl -gold -harom -ii -ketto",
+      "logo": "https://i.imgur.com/94K94k2.png",
+      "website": "https://rtl.hu",
+      "priority": 10
+    },
+    {
+      "name": "RTL Gold",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://rtl.hu/",
+      "priority": 9
+    },
+    {
+      "name": "RTL Harom",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://rtl.hu/",
+      "priority": 9
+    },
+    {
+      "name": "RTL Ketto",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "https://rtl.hu",
+      "priority": 9
+    },
+    {
+      "name": "SIXO TV",
+      "isFree": true,
+      "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
+      "website": "https://szikszo.hu/"
+    },
+    {
+      "name": "Soltvadkerti Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ihdk45P.png",
+      "website": "http://www.soltvadkertitv.hu/"
+    },
+    {
+      "name": "Spektrum Home",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_spektrumhome.png",
+      "website": "https://www.spektrumhome.hu/"
+    },
+    {
+      "name": "Spektrum Home+",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_spektrumhome.png",
+      "website": "https://www.spektrumhome.hu/"
+    },
+    {
+      "name": "Story4",
+      "isFree": true,
+      "website": "https://story4.network4.hu/"
+    },
+    {
+      "name": "SuperONE",
+      "isFree": null,
+      "logo": "http://epg.one/img2/3266.png"
+    },
+    {
+      "name": "Super TV2",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+      "website": "https://tv2play.hu/supertv2",
+      "priority": 9
+    },
+    {
+      "name": "Szarvasi Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "website": "http://videotar.szarvasnet.hu/"
+    },
+    {
+      "name": "Szecseny TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ilRmZtF.png",
+      "website": "http://szecseny.hu/szecsenytv/"
+    },
+    {
+      "name": "Szeged TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://tv.szeged.hu/"
+    },
+    {
+      "name": "Szolnok TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Eiab9MP.png",
+      "website": "https://www.szolnoktv.hu/"
+    },
+    {
+      "name": "Szombathelyi Televizio",
+      "isFree": true,
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "website": "https://www.sztv.hu/online/elo-adas"
+    },
+    {
+      "name": "Tatai TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/skXYntc.png",
+      "website": "http://tataitv.hu/"
+    },
+    {
+      "name": "TelePaks",
+      "isFree": true,
+      "logo": "https://i.imgur.com/T8ueztB.png",
+      "website": "https://www.telepaks.net/"
+    },
+    {
+      "name": "The Fishing & Hunting Channel",
+      "isFree": true,
+      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+      "website": "http://www.fishingandhuntingtv.com/"
+    },
+    {
+      "name": "TLC",
+      "isFree": true,
+      "website": "http://www.tlctv.hu/"
+    },
+    {
+      "name": "Total Dance TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
+      "website": "http://totaldancetv.hu/"
+    },
+    {
+      "name": "Trimedio TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/P4hxWVZ.png",
+      "website": "https://trimedio.tv"
+    },
+    {
+      "name": "TV13",
+      "isFree": true,
+      "website": "https://tv13.hu/"
+    },
+    {
+      "name": "TV2",
+      "isFree": true,
+      "keywords": "tv2 -comedy -kids -sef",
+      "logo": "https://i.imgur.com/VEb631f.png",
+      "website": "https://tv2play.hu/",
+      "priority": 9
+    },
+    {
+      "name": "TV2040",
+      "isFree": true,
+      "website": "https://tv2040.hu/",
+      "priority": 9
+    },
+    {
+      "name": "TV2 Comedy",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "website": "https://tv2play.hu/tv2comedy",
+      "priority": 9
+    },
+    {
+      "name": "TV2 Sef",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "website": "https://tv2play.hu/tv2sef",
+      "priority": 9
+    },
+    {
+      "name": "TV4",
+      "isFree": true,
+      "website": "https://tv4.network4.hu/"
+    },
+    {
+      "name": "TV Budakalasz",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.szentendre.media.hu/tv-budakalasz"
+    },
+    {
+      "name": "TV Eger",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tveger.hu/"
+    },
+    {
+      "name": "TV Keszthely",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvkeszthely.hu/"
+    },
+    {
+      "name": "TV Paprika",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://www.tvpaprika.hu/"
+    },
+    {
+      "name": "TV Szentendre",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://tvszentendre.hu/"
+    },
+    {
+      "name": "Ujbuda TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ujbuda.hu/"
+    },
+    {
+      "name": "Vasarhelyi Televizio",
+      "isFree": true,
+      "website": "https://vasarhelyitelevizio.hu/"
+    },
+    {
+      "name": "Viasat2",
+      "isFree": true,
+      "website": "https://www.viasat2.hu/"
+    },
+    {
+      "name": "Viasat 3",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png",
+      "website": "https://www.viasat3.hu/"
+    },
+    {
+      "name": "Viasat 6",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png",
+      "website": "https://www.viasat6.hu/"
+    },
+    {
+      "name": "Volgyhid TV",
+      "isFree": true,
+      "website": "https://mediakft.hu"
+    },
+    {
+      "name": "VTV Fuzesabony",
+      "isFree": true,
+      "logo": "https://i.imgur.com/7ZPYJJ0.jpg",
+      "website": "http://www.fuzesabonytv.hu/"
+    },
+    {
+      "name": "VTV Mor",
+      "isFree": true,
+      "logo": "https://go4.pw/LATINO/vtv.png",
+      "website": "http://morvtv.hu/"
+    },
+    {
+      "name": "Williams TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtBMLT6qb0r6bvYiS1Jcop2pyIx.jpg",
+      "website": "https://www.williams.hu/"
+    },
+    {
+      "name": "XV TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGMgspge6uYoypRiasAmlluDlXH.jpg",
+      "website": "https://csokonai15.hu/"
+    },
+    {
+      "name": "Zalaegerszegi TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MLVPf0i.png",
+      "website": "https://zegtv.hu/"
+    },
+    {
+      "name": "Zenebutik",
+      "isFree": true,
+      "website": "https://tv2play.hu/zenebutik"
+    },
+    {
+      "name": "Zuglo TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wPqCtwR.png",
+      "website": "http://zuglotv.hu/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Arena4",
+      "isFree": true,
+      "website": "https://arena4.network4.hu/"
+    },
+    {
+      "name": "Digi Sport 1",
+      "isFree": true,
+      "logo": "https://go4.pw/VIP/4k_ultra.png",
+      "website": "http://digisport.hu/"
+    },
+    {
+      "name": "Digi Sport 2",
+      "isFree": true,
+      "website": "http://digisport.hu/"
+    },
+    {
+      "name": "Digi Sport 3",
+      "isFree": true,
+      "website": "http://digisport.hu/"
+    },
+    {
+      "name": "FitHD",
+      "isFree": true,
+      "website": "http://www.fithd.hu/"
+    },
+    {
+      "name": "Loverseny kozvetites",
+      "isFree": true,
+      "logo": "https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png",
+      "website": "https://lovifogadas.hu/"
+    },
+    {
+      "name": "M4 Sport",
+      "isFree": true,
+      "logo": "https://i.imgur.com/TQ4uJZk.png",
+      "website": "https://m4sport.hu/",
+      "priority": 9
+    },
+    {
+      "name": "M4 Sport+",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_M4.png",
+      "website": "https://m4sport.hu/",
+      "priority": 9
+    },
+    {
+      "name": "Match4",
+      "isFree": true
+    },
+    {
+      "name": "Spiler 1",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_SPILER1.png",
+      "website": "https://tv2play.hu/spilertv/kiemelt_tartalmak"
+    },
+    {
+      "name": "Spiler 2",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/_SPILER1.png",
+      "website": "https://tv2play.hu/spilertv/kiemelt_tartalmak"
+    },
+    {
+      "name": "Sport 1",
+      "isFree": true,
+      "logo": "https://picserve.netplus.ch/channels/sport1.png",
+      "website": "http://www.sport1tv.hu/"
+    },
+    {
+      "name": "Sport 2",
+      "isFree": true,
+      "website": "http://www.sport1tv.hu/"
+    },
+    {
+      "name": "Sport 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
+      "website": "http://www.sport1tv.hu/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Cinemax 2 Central Europe",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+      "website": "http://www.cinemax.eu/"
+    },
+    {
+      "name": "Cinemax Central Europe",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+      "website": "http://www.cinemax.eu/"
+    },
+    {
+      "name": "Film4",
+      "isFree": true,
+      "logo": "https://i.imgur.com/MTSgoGI.png",
+      "website": "https://film4.network4.hu/",
+      "priority": 9
+    },
+    {
+      "name": "Film Cafe",
+      "isFree": true,
+      "website": "https://www.filmcafetv.hu/"
+    },
+    {
+      "name": "Film Mania",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
+      "website": "http://www.filmmaniatv.hu/"
+    },
+    {
+      "name": "Film Now",
+      "isFree": true,
+      "website": "http://www.digi-film.hu/"
+    },
+    {
+      "name": "HBO 2 Central Europe",
+      "isFree": true,
+      "website": "http://www.hbo-europe.com/",
+      "priority": 9
+    },
+    {
+      "name": "HBO 3 Central Europe",
+      "isFree": true,
+      "website": "http://www.hbo-europe.com/",
+      "priority": 9
+    },
+    {
+      "name": "HBO Central Europe",
+      "isFree": true,
+      "website": "http://www.hbo-europe.com/",
+      "priority": 9
+    },
+    {
+      "name": "Magyar Mozi TV",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/MOZI+.png",
+      "website": "https://magyarmozitv.hu/"
+    },
+    {
+      "name": "MAX4",
+      "isFree": true,
+      "website": "https://net4.network4.hu/"
+    },
+    {
+      "name": "Mozi+",
+      "isFree": true,
+      "website": "https://tv2play.hu/moziplusz"
+    },
+    {
+      "name": "Moziverzum",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/MOZIVERZUM.png",
+      "website": "https://tv2play.hu/moziverzum"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "https://www.paramountnetwork.hu/"
+    },
+    {
+      "name": "Viasat Film",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png",
+      "website": "https://www.viasatfilm.hu/"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Da Vinci",
+      "isFree": true,
+      "website": "https://www.davincikids.tv/"
+    },
+    {
+      "name": "Dikh TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/aAcORTL.png",
+      "website": "https://www.dikhtv.hu/"
+    },
+    {
+      "name": "History",
+      "isFree": true,
+      "logo": "https://i.imgur.com/0rNNqVy.png",
+      "website": "https://www.historychannel.co.hu/hu"
+    },
+    {
+      "name": "Investigation Discovery",
+      "isFree": true,
+      "logo": "http://epg.one/img2/2507.png",
+      "website": "http://www.investigationdiscovery.com/"
+    },
+    {
+      "name": "Liceum TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Hf122ZD.png",
+      "website": "http://www.liceumtv.hu/"
+    },
+    {
+      "name": "M5",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/M5HD.png",
+      "website": "https://www.mediaklikk.hu/m5/"
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://www.natgeotv.com/hu",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/hu/wild",
+      "priority": 9
+    },
+    {
+      "name": "Spektrum",
+      "isFree": true,
+      "keywords": "spektrum -home -home+",
+      "logo": "https://go4.pw/HUNGARIAN/_spektrumhome.png",
+      "website": "https://www.spektrumtv.hu/"
+    },
+    {
+      "name": "Viasat Explore",
+      "isFree": true,
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "website": "https://viasatexplore.hu/"
+    },
+    {
+      "name": "Viasat History",
+      "isFree": true,
+      "website": "http://viasat-history.hu/"
+    },
+    {
+      "name": "Viasat Nature",
+      "isFree": true,
+      "website": "http://viasat-nature.hu/"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Disney Channel",
+      "isFree": true,
+      "logo": "http://i.imgur.com/ETxffjm.png",
+      "website": "http://www.disney.hu/DisneyChannel",
+      "priority": 10
+    },
+    {
+      "name": "Disney Junior",
+      "isFree": true,
+      "logo": "http://i.imgur.com/H9AY5z4.png",
+      "website": "http://disneyjunior.disney.com/",
+      "priority": 9
+    },
+    {
+      "name": "JimJam",
+      "isFree": true,
+      "logo": "http://epg.one/img2/494.png",
+      "website": "http://hu.jimjam.tv/"
+    },
+    {
+      "name": "M2 Petofi",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/M2 HD.png",
+      "priority": 9
+    },
+    {
+      "name": "Minimax",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png",
+      "website": "https://www.minimax.hu/"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nickelodeon.hu/"
+    },
+    {
+      "name": "Nick Jr.",
+      "isFree": true,
+      "website": "http://www.nickelodeon.hu/"
+    },
+    {
+      "name": "Nicktoons",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
+      "website": "http://www.nickelodeon.hu/"
+    },
+    {
+      "name": "TeenNick",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
+      "website": "http://www.nickelodeon.hu/"
+    },
+    {
+      "name": "TV2 Kids",
+      "isFree": true,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "website": "https://tv2play.hu/tv2kids",
+      "priority": 9
+    }
+  ],
+  "News": [
+    {
+      "name": "Hir TV",
+      "isFree": true,
+      "website": "https://hirtv.hu/"
+    },
+    {
+      "name": "M1",
+      "isFree": true,
+      "logo": "https://i.imgur.com/wbRdUw8.png",
+      "website": "https://mediaklikk.hu/m1/",
+      "priority": 10
+    }
+  ]
+}

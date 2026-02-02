@@ -1,0 +1,1129 @@
+{
+  "Sports": [
+    {
+      "name": "Astro Arena",
+      "isFree": false,
+      "keywords": "astro arena -2",
+      "priority": 9
+    },
+    {
+      "name": "Astro Arena 2",
+      "isFree": false,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro Cricket",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Football",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro Premier League",
+      "isFree": true,
+      "keywords": "astro premier league -2 -3",
+      "logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Astro_PL.webp",
+      "priority": 9
+    },
+    {
+      "name": "Astro Premier League 2",
+      "isFree": true,
+      "logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Astro_Premier_League_2.webp",
+      "priority": 9
+    },
+    {
+      "name": "Astro Premier League 3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro SuperSport",
+      "isFree": true,
+      "keywords": "astro supersport -2 -3 -4 -5",
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro SuperSport 2",
+      "isFree": true,
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro SuperSport 3",
+      "isFree": true,
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro SuperSport 4",
+      "isFree": true,
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro SuperSport 5",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "eGG Network",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7z0doFkXHcvo8QQWHLFnkEPXRU.jpg",
+      "website": "http://www.egg.network/"
+    },
+    {
+      "name": "Golf Channel",
+      "isFree": true,
+      "website": "https://www.golfchannel.com/"
+    },
+    {
+      "name": "PRO Sport International",
+      "isFree": true,
+      "logo": "https://i.postimg.cc/7hjCP4mf/PROSport-International.png"
+    },
+    {
+      "name": "SPOTV 2 Stadia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/SPOTV.png"
+    },
+    {
+      "name": "SPOTV Stadia",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/06/14/large/20240614195004287052_86.png"
+    },
+    {
+      "name": "Unifi Sports 1",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Unifi Sports 2",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Unifi Sports 3",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Unifi Sports 4",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Astro (company)",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro NJOI",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "MYTV Broadcasting",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/USA/USA.png"
+    },
+    {
+      "name": "Unifi TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Asia Media",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/tvbs.png"
+    },
+    {
+      "name": "Vision Four",
+      "isFree": null,
+      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+    },
+    {
+      "name": "TV1 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/TV1.png",
+      "priority": 9
+    },
+    {
+      "name": "TV2 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
+      "priority": 9
+    },
+    {
+      "name": "TV Okey",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "TV6 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png"
+    },
+    {
+      "name": "Media Prima Berhad",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "TV3 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://lo1.in/MALAY/tv3.png",
+      "priority": 9
+    },
+    {
+      "name": "TV Pendidikan",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "8TV (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/SPAIN/rakutentv.png",
+      "priority": 9
+    },
+    {
+      "name": "TV9 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://go4.pw/INDONESIA/TV9.png"
+    },
+    {
+      "name": "SUKE TV",
+      "isFree": null
+    },
+    {
+      "name": "Enjoy TV5",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fntmDlqxGHx1IO4NohyEeC1iW8.jpg"
+    },
+    {
+      "name": "TV Alhijrah",
+      "isFree": null
+    },
+    {
+      "name": "Bernama TV",
+      "isFree": null,
+      "logo": "https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg"
+    },
+    {
+      "name": "TVS (Malaysian TV channel)",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/TVS.png"
+    },
+    {
+      "name": "[[TV1 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "[[TV2 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "[[TV Okey",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/OKEY.png",
+      "priority": 9
+    },
+    {
+      "name": "[[TV6 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "Media Prima Berhad]]===",
+      "isFree": null,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+    },
+    {
+      "name": "[[TV3 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "[[TV Pendidikan",
+      "isFree": null
+    },
+    {
+      "name": "[[8TV (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 9
+    },
+    {
+      "name": "[[TV9 (Malaysian TV network)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "SUKE TV{{cite web",
+      "isFree": null
+    },
+    {
+      "name": "[[TV Alhijrah",
+      "isFree": null,
+      "logo": "https://go4.pw/ASIA/Hijrah.png"
+    },
+    {
+      "name": "[[Bernama TV",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "[[TVS (Malaysian TV channel)",
+      "isFree": null,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+    },
+    {
+      "name": "beIN Sports 1 MY",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 2 MY",
+      "isFree": true
+    },
+    {
+      "name": "beIN Sports 3 MY",
+      "isFree": true
+    },
+    {
+      "name": "Golf Channel MY",
+      "isFree": true
+    },
+    {
+      "name": "RugbyPass MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Sports UHD MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Grandstand 2 MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Premier League MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Premier League 2 MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Premier League 3 MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Premier League 4 MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Football MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Badminton MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Sports+ MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Arena MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Arena 2 MY",
+      "isFree": true
+    },
+    {
+      "name": "Showcase Movies MY",
+      "isFree": true
+    },
+    {
+      "name": "TVN Movies MY",
+      "isFree": true
+    },
+    {
+      "name": "HBO Hits MY",
+      "isFree": true
+    },
+    {
+      "name": "Ria MY",
+      "isFree": true
+    },
+    {
+      "name": "Prima MY",
+      "isFree": true
+    },
+    {
+      "name": "Citra MY",
+      "isFree": true
+    },
+    {
+      "name": "Awani MY",
+      "isFree": true
+    },
+    {
+      "name": "Bernama TV MY",
+      "isFree": true
+    },
+    {
+      "name": "Tutor TV MY",
+      "isFree": true
+    },
+    {
+      "name": "Ceria MY",
+      "isFree": true
+    },
+    {
+      "name": "Vaanavil MY",
+      "isFree": true
+    },
+    {
+      "name": "Hua Hee Dai MY",
+      "isFree": true
+    },
+    {
+      "name": "AEC MY",
+      "isFree": true
+    },
+    {
+      "name": "Discovery Asia MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Cricket MY",
+      "isFree": true
+    },
+    {
+      "name": "NTV7 MY",
+      "isFree": true
+    },
+    {
+      "name": "TV 1 MY",
+      "isFree": true
+    },
+    {
+      "name": "TV 3 MY",
+      "isFree": true
+    },
+    {
+      "name": "TV 8 MY",
+      "isFree": true
+    },
+    {
+      "name": "TV 9 MY",
+      "isFree": true
+    },
+    {
+      "name": "AFN MY",
+      "isFree": true
+    },
+    {
+      "name": "Al-Hijrah MY",
+      "isFree": true
+    },
+    {
+      "name": "Okey MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Aura MY",
+      "isFree": true
+    },
+    {
+      "name": "Astro Rania MY",
+      "isFree": true
+    },
+    {
+      "name": "HBO MY",
+      "isFree": true
+    },
+    {
+      "name": "HGTV MY",
+      "isFree": true
+    },
+    {
+      "name": "Food Network MY",
+      "isFree": true
+    },
+    {
+      "name": "Nickelodeon MY",
+      "isFree": true
+    },
+    {
+      "name": "Hits Movies MY",
+      "isFree": true
+    },
+    {
+      "name": "Hits MY",
+      "isFree": true
+    },
+    {
+      "name": "Boo MY",
+      "isFree": true
+    },
+    {
+      "name": "Oasis MY",
+      "isFree": true
+    },
+    {
+      "name": "TV2 MY",
+      "isFree": true
+    },
+    {
+      "name": "SPO TV 1 MY",
+      "isFree": true
+    },
+    {
+      "name": "SPO TV 2 MY",
+      "isFree": true
+    },
+    {
+      "name": "TV6 MY",
+      "isFree": true
+    },
+    {
+      "name": "Sukan RTM MY",
+      "isFree": true
+    },
+    {
+      "name": "Dewan Rakyat MY",
+      "isFree": true
+    },
+    {
+      "name": "Dewan Negara MY",
+      "isFree": true
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "Astro Awani",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro Ceria",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Astro Vaanavil",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Berita RTM",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "Boo",
+      "isFree": true
+    },
+    {
+      "name": "Hello",
+      "isFree": true
+    },
+    {
+      "name": "Kix",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114164852936879_83.png"
+    },
+    {
+      "name": "Maah TV",
+      "isFree": true,
+      "logo": "https://images.iptvmate.net/tvglogo/f1d1735b4fb495cf593665121383aee8.png"
+    },
+    {
+      "name": "OKEY",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/OKEY.png"
+    },
+    {
+      "name": "Sukan RTM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/1pYYSu2.png",
+      "priority": 9
+    },
+    {
+      "name": "TV1",
+      "isFree": true,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",
+      "priority": 10
+    },
+    {
+      "name": "TV2",
+      "isFree": true,
+      "logo": "https://i.imgur.com/VEb631f.png",
+      "priority": 9
+    },
+    {
+      "name": "TV6",
+      "isFree": true
+    },
+    {
+      "name": "TV9",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "TVB Xing He 星河",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png"
+    },
+    {
+      "name": "TVIKIM",
+      "isFree": true,
+      "logo": "https://i.imgur.com/X6JKNEE.png"
+    },
+    {
+      "name": "TVS",
+      "isFree": true
+    },
+    {
+      "name": "8TV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "website": "https://www.xtra.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AEC",
+      "isFree": true,
+      "website": "http://www.astro.com.my/channels/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD",
+      "isFree": true,
+      "keywords": "astro aod -311 -352 -353 -354 -355",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.watchod.com/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD 311",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD 352",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.watchod.com/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD 353",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.watchod.com/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD 354",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.watchod.com/",
+      "priority": 9
+    },
+    {
+      "name": "Astro AOD 355",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.watchod.com/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Aura",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Ch 100",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro Hua Hee Dai",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "priority": 9
+    },
+    {
+      "name": "Astro Prima",
+      "isFree": true,
+      "website": "http://www.astro.com.my/channels/",
+      "priority": 9
+    },
+    {
+      "name": "Astro QJ",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/10/26/large/20231026184205607217_59.png",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Rania",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Ria",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/channels/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Shuang Xing",
+      "isFree": true,
+      "website": "https://www.astro.com.my",
+      "priority": 9
+    },
+    {
+      "name": "Astro Thangathirai",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro UHD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Vinmeen",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astroulagam.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Wah Lai Toi",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.xuan.com.my/channels/wlt",
+      "priority": 9
+    },
+    {
+      "name": "Awesome TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2023/11/28/large/20231128184149398211_42.png",
+      "website": "https://awesometv.my/"
+    },
+    {
+      "name": "Bernama TV",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg",
+      "website": "https://www.bernama.com/"
+    },
+    {
+      "name": "Colors Malaysia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KueYME8A449pxaKTJZp3cWKKSX.jpg",
+      "website": "http://www.colorstv.com/"
+    },
+    {
+      "name": "Inspirasi",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Laku Mall",
+      "isFree": true,
+      "logo": "https://i.imgur.com/ill1Ux6.png",
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Njoi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.njoi.com.my/"
+    },
+    {
+      "name": "NTV7",
+      "isFree": true,
+      "logo": "https://i.imgur.com/jDWR3xI.png",
+      "website": "https://www.xtra.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Parlimen Malaysia",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "PRIMEtime",
+      "isFree": true
+    },
+    {
+      "name": "RTM Parlimen Dewan Negara",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png",
+      "website": "https://rtmparlimen.rtm.gov.my/",
+      "priority": 9
+    },
+    {
+      "name": "RTM Parlimen Dewan Rakyat",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png",
+      "website": "https://rtmparlimen.rtm.gov.my/",
+      "priority": 9
+    },
+    {
+      "name": "SelangorTV",
+      "isFree": true,
+      "website": "https://selangortv.my/"
+    },
+    {
+      "name": "Sensasi",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Seri",
+      "isFree": true,
+      "website": "https://www.siriusmalaysia.tv/"
+    },
+    {
+      "name": "Sun TV Malaysia",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg"
+    },
+    {
+      "name": "TA-DAA!",
+      "isFree": true,
+      "website": "https://www.astro.com.my/"
+    },
+    {
+      "name": "TV3",
+      "isFree": true,
+      "website": "https://www.xtra.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "TV Alhijrah",
+      "isFree": true,
+      "website": "https://www.tvalhijrah.com/"
+    },
+    {
+      "name": "Okey",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/OKEY.png",
+      "website": "https://okey.rtm.gov.my/"
+    }
+  ],
+  "Movies & Series": [
+    {
+      "name": "Celestial Classic 天映经典",
+      "isFree": false,
+      "shortName": "CC"
+    },
+    {
+      "name": "CinemaWorld",
+      "isFree": false,
+      "logo": "https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png"
+    },
+    {
+      "name": "Astro BollyOne HD",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/whats-on/channel/astro-bollyone-hd/251",
+      "priority": 9
+    },
+    {
+      "name": "Astro Box Office Tayangan Hebat",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Box Office Thangathirai",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Citra",
+      "isFree": true,
+      "website": "http://www.astro.com.my/epg/channel.php?id=413046",
+      "priority": 9
+    },
+    {
+      "name": "Astro Vellithirai",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Astro Warna",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Celestial Classic Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "website": "https://www.cmclassic.tv/index.php?location/MY"
+    },
+    {
+      "name": "Celestial Movies Malaysia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/fra.png",
+      "website": "https://www.celestialmovies.com/schedule.php?location/MY"
+    },
+    {
+      "name": "Drama Sangat",
+      "isFree": true,
+      "logo": "https://go4.pw/ITALY/_skycindr.png",
+      "website": "https://www.xtra.com.my/"
+    },
+    {
+      "name": "Dunia Sinema",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Paramount Network",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
+      "website": "https://www.paramountnetwork.com/"
+    },
+    {
+      "name": "Pesona",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "Showcase Movies",
+      "isFree": true,
+      "logo": "https://go4.pw/USA/SD/24.png",
+      "website": "https://www.astro.com.my/"
+    },
+    {
+      "name": "SIAR",
+      "isFree": true,
+      "website": "https://unifi.com.my/tv"
+    },
+    {
+      "name": "TVB Classic Malaysia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/TVB.png",
+      "website": "https://xuan.com.my/"
+    }
+  ],
+  "Religious": [
+    {
+      "name": "Astro Oasis",
+      "isFree": true,
+      "website": "http://www.astro.com.my/channels/",
+      "priority": 9
+    },
+    {
+      "name": "Jom Ngaji",
+      "isFree": true,
+      "website": "https://sooka.my/en/watch/channel/jom-ngaji/1552956"
+    },
+    {
+      "name": "Naura",
+      "isFree": true
+    },
+    {
+      "name": "Salam Baitullah TV",
+      "isFree": true,
+      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png",
+      "website": "https://rtmklik.rtm.gov.my/live/salambaitullah"
+    }
+  ],
+  "Education & Culture": [
+    {
+      "name": "Astro Tutor TV PT3",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://content.astro.com.my/channels/Astro-Tutor-TV-PT3-127",
+      "priority": 9
+    },
+    {
+      "name": "Astro Tutor TV SPM",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://content.astro.com.my/channels/Astro-Tutor-TV-SPM-128",
+      "priority": 9
+    },
+    {
+      "name": "Astro Tutor TV UPSR",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "https://content.astro.com.my/channels/Astro-Tutor-TV-SPM-128",
+      "priority": 9
+    },
+    {
+      "name": "Astro TVIQ",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "DidikTV KPM",
+      "isFree": true,
+      "website": "https://didik.tv/"
+    },
+    {
+      "name": "Nat Geo People",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "National Geographic",
+      "isFree": true,
+      "keywords": "national geographic -wild",
+      "logo": "http://epg.one/img2/102.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 10
+    },
+    {
+      "name": "National Geographic Wild",
+      "isFree": true,
+      "logo": "http://epg.one/img2/223.png",
+      "website": "http://natgeotv.com/asia",
+      "priority": 9
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Astro Xiao Tai Yang",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
+      "website": "http://www.astro.com.my/",
+      "priority": 9
+    },
+    {
+      "name": "Chutti TV Malaysia",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/INDIA/CHUTTI_TV.png",
+      "website": "http://www.sunnetwork.in/tv-channel-details.aspx?Channelid=14&channelname=CHUTTI%20TV&type=1"
+    },
+    {
+      "name": "Nickelodeon",
+      "isFree": true,
+      "website": "http://www.nick-asia.com/"
+    }
+  ],
+  "News": [
+    {
+      "name": "Bloomberg TV Malaysia",
+      "isFree": true
+    },
+    {
+      "name": "RTM ASEAN",
+      "isFree": true,
+      "website": "https://rtmklik.rtm.gov.my/live/rtmasean",
+      "priority": 9
+    }
+  ],
+  "Shop": [
+    {
+      "name": "Enjoy Shopping TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fntmDlqxGHx1IO4NohyEeC1iW8.jpg",
+      "website": "http://www.enjoytv.com.my/"
+    },
+    {
+      "name": "Go Shop Chinese",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+      "website": "https://www.goshop.com.my/"
+    },
+    {
+      "name": "Go Shop Malay 111",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+      "website": "https://www.goshop.com.my/"
+    },
+    {
+      "name": "Go Shop Malay 118",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+      "website": "https://www.goshop.com.my/"
+    },
+    {
+      "name": "Go Shop Malay 120",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+      "website": "https://www.goshop.com.my/"
+    },
+    {
+      "name": "Go Shop Malay MyFreeview",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+      "website": "https://www.goshop.com.my/"
+    },
+    {
+      "name": "Suke TV",
+      "isFree": true,
+      "website": "https://suketv.com/"
+    },
+    {
+      "name": "WowShop Chinese",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg",
+      "website": "https://www.cjwowshop.com.my/"
+    },
+    {
+      "name": "WowShop Malay",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqnfqeCILvgKGWKOut5lVdxdeJh.jpg",
+      "website": "https://www.cjwowshop.com.my/"
+    }
+  ],
+  "Music Videos": [
+    {
+      "name": "Hot TV",
+      "isFree": true,
+      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+      "website": "https://www.hotfm.audio/"
+    }
+  ]
+}

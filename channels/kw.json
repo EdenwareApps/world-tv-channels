@@ -1,0 +1,166 @@
+{
+  "Religious": [
+    {
+      "name": "Al Maali TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al Maaref",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Ch4Teen",
+      "isFree": true
+    },
+    {
+      "name": "Ch4Teen Clip",
+      "isFree": true,
+      "website": "https://www.twitch.tv/ch4teenclip"
+    },
+    {
+      "name": "Ch4Teen Documentary",
+      "isFree": true,
+      "website": "https://www.twitch.tv/ch4teendoc"
+    }
+  ],
+  "News": [
+    {
+      "name": "Al Sabah",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "KTV News",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
+      "website": "https://media.gov.kw/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "name": "ATV",
+      "isFree": true,
+      "logo": "https://i.imgur.com/hAHhu2y.png"
+    },
+    {
+      "name": "Al Rai",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+    },
+    {
+      "name": "Al-Bawadi",
+      "isFree": true
+    },
+    {
+      "name": "Al-Shahed",
+      "isFree": true
+    },
+    {
+      "name": "Alrai TV",
+      "isFree": true
+    },
+    {
+      "name": "Funoon",
+      "isFree": true
+    },
+    {
+      "name": "KTV 1",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "KTV 2",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2017/02/07/large/20170207153204472062_32.jpg"
+    },
+    {
+      "name": "KTV Al Majlis",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "KTV Al Qurain",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "KTV Arabe",
+      "isFree": true,
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174740188682_91.png"
+    },
+    {
+      "name": "KTV Ethraa",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "KTV Khallik Bilbait",
+      "isFree": true,
+      "shortName": "KKB",
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "KTV Sport Plus",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+    },
+    {
+      "name": "Marina TV",
+      "isFree": true
+    },
+    {
+      "name": "Al Anwar TV",
+      "isFree": true,
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "website": "https://alanwar.tv/"
+    },
+    {
+      "name": "Al-Bawadi TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.bawaditv.com/"
+    },
+    {
+      "name": "Alshahed TV",
+      "isFree": true,
+      "website": "https://alshahed.tv/"
+    },
+    {
+      "name": "Bahry",
+      "isFree": true,
+      "logo": "https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png",
+      "website": "https://bahry.com/"
+    },
+    {
+      "name": "Funoon TV",
+      "isFree": true,
+      "logo": "https://go4.pw/ASIA/KUWAIT/FUNOON.png"
+    },
+    {
+      "name": "Ritmu TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "https://www.ritmu.tv/"
+    },
+    {
+      "name": "Scope TV",
+      "isFree": true
+    },
+    {
+      "name": "Soutalarab TV",
+      "isFree": true,
+      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "website": "http://arabnewstv.net/"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "KTV Sport",
+      "isFree": false,
+      "keywords": "ktv sport -plus",
+      "logo": "https://i.imgur.com/R1hGX1d.png"
+    }
+  ]
+}
