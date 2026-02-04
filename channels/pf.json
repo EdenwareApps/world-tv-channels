@@ -2,8 +2,7 @@
   "Entertainment": [
     {
       "name": "TNTV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TNT_.png"
+      "isFree": true
     },
     {
       "name": "Canal+ Polynesie",
@@ -13,15 +12,13 @@
     {
       "name": "Polynesie 1ere",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_GUYANE1ÈRE .png",
       "website": "https://la1ere.francetvinfo.fr/polynesie/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Tahiti Web Radio TV",
+      "name": "Tahiti Web Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
       "website": "https://www.tahitiwebradio.pf/",
       "priority": 4
     }

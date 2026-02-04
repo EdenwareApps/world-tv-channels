@@ -1,19 +1,16 @@
 {
   "Entertainment": [
     {
-      "name": "KNR1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8Pf5SJb.png"
+      "name": "KNR",
+      "isFree": true
     },
     {
-      "name": "KNR2",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8Pf5SJb.png"
+      "name": "KNR 2",
+      "isFree": true
     },
     {
       "name": "Nanoq Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://nanoqmedia.gl/"
     }
   ]

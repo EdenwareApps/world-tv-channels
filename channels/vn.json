@@ -3,163 +3,136 @@
     {
       "name": "Cartoon Network Vietnam",
       "isFree": true,
-      "shortName": "CNV",
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png",
       "priority": 9
     },
     {
       "name": "Ant",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCLSI3prRqzsCnVqiyS8TLJZ1B8.jpg"
+      "isFree": true
     },
     {
       "name": "Binh Phuoc TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "https://bptv.vn/"
     },
     {
       "name": "K+ Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "https://www.kplus.vn/"
     },
     {
       "name": "ON BiBi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://bibi.vn/"
     },
     {
       "name": "ON Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     }
   ],
   "Entertainment": [
     {
       "name": "BRT",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Bến Tre",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Channel V",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "Cà Mau TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Cà Mau",
+      "isFree": true
     },
     {
-      "name": "Da Nang TV1",
+      "name": "Da Nang TV",
       "isFree": true,
-      "keywords": "da nang tv 1 | da nang tv1",
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "da nang tv 1 | da nang tv1"
     },
     {
-      "name": "Da Nang TV2",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Da Nang TV 2",
+      "isFree": true
     },
     {
       "name": "Dao Lane Xang",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/DAO.png"
+      "isFree": true
     },
     {
-      "name": "Dhammasapha TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dhammasapha",
+      "isFree": true
     },
     {
       "name": "FBNC",
       "isFree": true
     },
     {
-      "name": "Gia Lai TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png"
+      "name": "Gia Lai",
+      "isFree": true
     },
     {
-      "name": "Good Idea TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "name": "Good Idea",
+      "isFree": true
     },
     {
       "name": "HBTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "HTV Thể Thao",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/htv.png",
       "priority": 9
     },
     {
-      "name": "HTV1",
+      "name": "HTV",
       "isFree": true,
       "priority": 9
     },
     {
-      "name": "HTV2",
-      "isFree": true,
-      "logo": "https://go4.pw/EXYU/htv.png",
-      "priority": 9
-    },
-    {
-      "name": "HTV3",
+      "name": "HTV 2",
       "isFree": true,
       "priority": 9
     },
     {
-      "name": "HTV4",
+      "name": "HTV 3",
+      "isFree": true,
+      "priority": 9
+    },
+    {
+      "name": "HTV 4",
       "isFree": true,
       "priority": 9
     },
     {
       "name": "HTVC Ca Nhạc",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
       "name": "HTVC Du Lịch Cuộc Sống",
       "isFree": true,
-      "shortName": "HDLCS",
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
       "name": "HTVC Gia Đình",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
       "name": "HTVC Phim",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
       "name": "HTVC Phụ Nữ",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
       "name": "HTVC Thuần Việt",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "priority": 9
     },
     {
@@ -169,156 +142,127 @@
     },
     {
       "name": "Hmong TV Network",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/HMONG.png"
+      "isFree": true
     },
     {
-      "name": "HmongUSA TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "HmongUSA",
+      "isFree": true
     },
     {
       "name": "Houng Fa",
-      "isFree": true,
-      "logo": "https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png"
+      "isFree": true
     },
     {
       "name": "ISTV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719183008642095_72.png"
+      "isFree": true
     },
     {
       "name": "KhmerTV",
       "isFree": true
     },
     {
-      "name": "Khomsanh TV",
+      "name": "Khomsanh",
+      "isFree": true
+    },
+    {
+      "name": "Kien Giang",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "keywords": "kien giang tv -1 | kiengiangtv",
+      "shortName": "Kien Giang TV"
     },
     {
       "name": "Kien Giang TV",
       "isFree": true,
-      "keywords": "kien giang tv -1 | kiengiangtv",
-      "shortName": "KienGiangTV",
-      "logo": "https://go4.pw/ASIA/VIETNAM/TIEN_GIANG.png"
-    },
-    {
-      "name": "Kien Giang TV 1",
-      "isFree": true,
       "keywords": "kien giang tv 1 | kiengiangtv1",
-      "shortName": "KienGiangTV1",
-      "logo": "https://go4.pw/ASIA/VIETNAM/TIEN_GIANG.png"
+      "shortName": "Kien Giang TV"
     },
     {
       "name": "LA34 Long An",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLHGciBl5kwUVJCUj8xKtDqkP7V.jpg"
+      "isFree": true
     },
     {
-      "name": "Lao Champa TV 1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Champa TV",
+      "isFree": true
     },
     {
       "name": "Lao Champa TV 2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "isFree": true
     },
     {
       "name": "Lao Champa TV 3",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "isFree": true
     },
     {
-      "name": "Lao Heritage Foundation TV",
-      "isFree": true,
-      "shortName": "LHFT",
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Heritage Foundation",
+      "isFree": true
     },
     {
-      "name": "Lao Muslim TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Muslim",
+      "isFree": true
     },
     {
-      "name": "Lao Net TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Net",
+      "isFree": true
     },
     {
-      "name": "Lao SV TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao SV",
+      "isFree": true
     },
     {
-      "name": "Lao-Thai US TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/664zGUmaPp8vskmfh3XZvDIG4IO.jpg"
+      "name": "Lao-Thai US",
+      "isFree": true
     },
     {
-      "name": "Laos Planet TV",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "name": "Laos Planet",
+      "isFree": true
     },
     {
-      "name": "Look Thoong TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+      "name": "Look Thoong",
+      "isFree": true
     },
     {
-      "name": "NAT TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png"
+      "name": "NAT",
+      "isFree": true
     },
     {
-      "name": "Oh Muang Lao TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFRpY2Jfc8Aov91mLG4Pf04Rpuq.jpg"
+      "name": "Oh Muang Lao",
+      "isFree": true
     },
     {
       "name": "PNTV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/PNTV.png"
+      "isFree": true
     },
     {
       "name": "PTP Phú Yên",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "QRT",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Quốc Hội",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
-      "name": "Supreme Master TV",
-      "isFree": true,
-      "shortName": "SMT",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3JAOCNjJYO3NdECnnijKYadr8N.jpg"
+      "name": "Supreme Master",
+      "isFree": true
     },
     {
-      "name": "Tea TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Tea",
+      "isFree": true
     },
     {
       "name": "Tien Giang",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "website": "http://www.thtg.vn/"
     },
     {
       "name": "VITV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
-      "name": "VTC4",
+      "name": "VTC 4",
       "isFree": true,
       "keywords": "vtc4 -yeah1 family",
       "priority": 9
@@ -326,16 +270,15 @@
     {
       "name": "VTC4 Yeah1 Family",
       "isFree": true,
-      "shortName": "VYF",
       "priority": 9
     },
     {
-      "name": "VTC5",
+      "name": "VTC 5",
       "isFree": true,
       "priority": 9
     },
     {
-      "name": "VTC6",
+      "name": "VTC 6",
       "isFree": true,
       "priority": 9
     },
@@ -344,274 +287,230 @@
       "isFree": true
     },
     {
-      "name": "Vanphenh TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vanphenh",
+      "isFree": true
     },
     {
-      "name": "Vati Lao TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NwxXABV.png"
+      "name": "Vati Lao",
+      "isFree": true
     },
     {
-      "name": "Việt Mỹ TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_THUAN_VIET.png"
+      "name": "Việt Mỹ",
+      "isFree": true
     },
     {
-      "name": "Vĩnh Long 1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png"
+      "name": "Vĩnh Long",
+      "isFree": true
     },
     {
       "name": "Vĩnh Long 2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png"
+      "isFree": true
     },
     {
-      "name": "Đồng Nai 1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/DONG_NAI_2.png"
+      "name": "Đồng Nai",
+      "isFree": true
     },
     {
       "name": "Đồng Nai 2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/DONG_NAI_2.png"
+      "isFree": true
     },
     {
-      "name": "Air TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
+      "name": "Air",
+      "isFree": true
     },
     {
-      "name": "An Giang TV 1",
+      "name": "An Giang TV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://angiangtv.vn/"
     },
     {
       "name": "An Giang TV 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://angiangtv.vn/"
     },
     {
       "name": "An Giang TV 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://angiangtv.vn/"
     },
     {
       "name": "An Ninh The Gioi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://antg.cand.com.vn/"
     },
     {
-      "name": "An Ninh TV",
+      "name": "An Ninh",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://www.antv.gov.vn/"
     },
     {
-      "name": "An Vien TV",
+      "name": "An Vien",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOg92xVWjBRmALsHCJsz2lWnmsG.jpg",
       "website": "https://www.avg.vn/"
     },
     {
-      "name": "Bac Giang TV",
+      "name": "Bac Giang",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BAC_NINH.png",
       "website": "http://www.bacgiangtv.vn/"
     },
     {
-      "name": "Bac Kan TV",
+      "name": "Bac Kan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BAC_NINH.png",
       "website": "http://backantv.vn/"
     },
     {
-      "name": "Bac Lieu TV",
+      "name": "Bac Lieu",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BAC_NINH.png",
       "website": "https://thbl.vn/"
     },
     {
-      "name": "Bac Ninh TV",
+      "name": "Bac Ninh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BAC_NINH.png",
       "website": "https://bacninhtv.vn/"
     },
     {
-      "name": "Ba Ria Vung Tau TV",
+      "name": "Ba Ria Vung Tau",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A391JdMbawnXqBsVQWtHOKRqOuE.jpg",
       "website": "http://www.brt.vn/"
     },
     {
-      "name": "Ben Tre TV",
+      "name": "Ben Tre",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoILNllyC6YXHyT4V9YOhMJlPuO.jpg",
       "website": "http://thbt.vn/"
     },
     {
-      "name": "Binh Dinh TV",
+      "name": "Binh Dinh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://binhdinhtv.vn/"
     },
     {
-      "name": "Binh Duong TV 1",
+      "name": "Binh Duong TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "Binh Duong TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "Binh Duong TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "Binh Duong TV 4",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
-      "name": "Binh Phuoc TV 1",
+      "name": "Binh Phuoc TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "https://bptv.vn/"
     },
     {
       "name": "Binh Phuoc TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "https://bptv.vn/"
     },
     {
-      "name": "Binh Thuan TV",
+      "name": "Binh Thuan",
       "isFree": true,
       "keywords": "binh thuan tv -6",
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://binhthuantv.vn/"
     },
     {
-      "name": "Ca Mau TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Ca Mau",
+      "isFree": true
     },
     {
-      "name": "Can Tho TV",
+      "name": "Can Tho",
       "isFree": true,
       "keywords": "can tho tv -2 -3",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
       "website": "https://canthotv.vn/"
     },
     {
       "name": "Can Tho TV 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
       "website": "https://thst.vn/"
     },
     {
-      "name": "Cao Bang TV",
+      "name": "Cao Bang",
       "isFree": true,
-      "logo": "http://i.imgur.com/43433RA.jpg",
       "website": "http://caobangtv.vn/"
     },
     {
-      "name": "Dak Lak TV",
+      "name": "Dak Lak",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.drt.org.vn/"
     },
     {
-      "name": "Dak Nong TV",
+      "name": "Dak Nong",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.truyenhinhdaknong.vn/"
     },
     {
-      "name": "Dien Bien TV",
+      "name": "Dien Bien",
       "isFree": true,
-      "logo": "https://i.imgur.com/u308o8q.png",
       "website": "https://dienbientv.vn/"
     },
     {
-      "name": "Dong Nai TV 1",
+      "name": "Dong Nai TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png",
       "website": "http://dnrtv.org.vn/"
     },
     {
       "name": "Dong Nai TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png",
       "website": "http://dnrtv.org.vn/"
     },
     {
       "name": "Dong Nai TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png",
       "website": "http://dnrtv.org.vn/"
     },
     {
-      "name": "Dong Thap TV",
+      "name": "Dong Thap",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png",
       "website": "http://thdt.vn/"
     },
     {
-      "name": "E Channel",
+      "name": "E",
       "isFree": true,
       "website": "http://echannel.vn/"
     },
     {
-      "name": "Ha Giang TV",
+      "name": "Ha Giang",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HA_TINH.png",
       "website": "http://hagiangtv.vn/"
     },
     {
-      "name": "Hai Phong TV",
+      "name": "Hai Phong",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQPWcvQiv1D1xBlpnn5o0hepXkX.jpg",
       "website": "https://thhp.vn/"
     },
     {
-      "name": "Ha Nam TV",
+      "name": "Ha Nam",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HA_TINH.png",
       "website": "http://hanamtv.vn/"
     },
     {
-      "name": "HanoiTV1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Je3K25E.png",
-      "website": "https://hanoitv.vn/"
-    },
-    {
-      "name": "HanoiTV2",
+      "name": "HanoiTV",
       "isFree": true,
       "website": "https://hanoitv.vn/"
     },
     {
-      "name": "Ha Tinh TV",
+      "name": "HanoiTV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HA_TINH.png",
+      "website": "https://hanoitv.vn/"
+    },
+    {
+      "name": "Ha Tinh",
+      "isFree": true,
       "website": "https://hatinhtv.vn/"
     },
     {
-      "name": "Hau Giang TV",
+      "name": "Hau Giang",
       "isFree": true,
       "website": "https://haugiangtivi.vn/"
     },
@@ -621,18 +520,13 @@
       "website": "http://www.haiduongtv.com.vn/truyen-hinh-truc-tuyen.html"
     },
     {
-      "name": "Houng Fa TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png"
-    },
-    {
-      "name": "HTV7",
+      "name": "HTV 7",
       "isFree": true,
       "website": "https://htv.com.vn/",
       "priority": 9
     },
     {
-      "name": "HTV9",
+      "name": "HTV 9",
       "isFree": true,
       "website": "https://htv.com.vn/",
       "priority": 9
@@ -640,134 +534,114 @@
     {
       "name": "HTVC Family",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "HTV Co.op",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/htv.png",
       "website": "https://htvcoop.com.vn/",
       "priority": 9
     },
     {
       "name": "HTVC Plus",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "HTVC Pure Vietnamese",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "HTVC Travel and Life",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "HTVC Women",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
-      "name": "Hung Yen TV",
+      "name": "Hung Yen",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/21298.jpg",
       "website": "https://www.hungyentv.vn/"
     },
     {
-      "name": "Info TV",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png"
+      "name": "Info",
+      "isFree": true
     },
     {
-      "name": "Khanh Hoa TV",
+      "name": "Khanh Hoa",
       "isFree": true,
-      "logo": "https://i.imgur.com/qLMcGPT.png",
       "website": "http://khanhhoa.tv/"
     },
     {
-      "name": "Kon Tum TV",
+      "name": "Kon Tum",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KONTVKONYA.png",
       "website": "https://kontumtv.vn/"
     },
     {
       "name": "K+ Life",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://www.kplus.vn/"
     },
     {
-      "name": "Lai Chau TV",
+      "name": "Lai Chau",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/GIA_LAI.png",
       "website": "http://laichautv.vn/"
     },
     {
-      "name": "Lam Dong TV",
+      "name": "Lam Dong",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/lam_dong.png",
       "website": "http://lamdongtv.vn/"
     },
     {
-      "name": "Lang Son TV",
+      "name": "Lang Son",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
       "website": "http://www.langsontv.vn/"
     },
     {
-      "name": "Lao Cai TV",
+      "name": "Lao Cai",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png",
       "website": "http://laocaitv.vn/"
     },
     {
-      "name": "Mien Tay TV",
+      "name": "Mien Tay",
       "isFree": true
     },
     {
-      "name": "Nam Dinh TV",
+      "name": "Nam Dinh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/NAM_DINH.png",
       "website": "http://www.namdinhtv.vn/"
     },
     {
-      "name": "Nghe An TV",
+      "name": "Nghe An",
       "isFree": true,
-      "logo": "https://i.imgur.com/d9YEEwC.png",
       "website": "https://truyenhinhnghean.vn/"
     },
     {
-      "name": "Ninh Binh TV",
+      "name": "Ninh Binh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "https://nbtv.vn/"
     },
     {
-      "name": "Ninh Thuan TV",
+      "name": "Ninh Thuan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://www.ninhthuantv.vn/"
     },
     {
       "name": "ON Life",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
-      "name": "ON Style TV",
+      "name": "ON Style",
       "isFree": true,
       "website": "https://vtvcab.vn"
     },
@@ -777,20 +651,17 @@
       "website": "https://vtvcab.vn"
     },
     {
-      "name": "Oy Lao TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Oy Lao",
+      "isFree": true
     },
     {
-      "name": "Phu Tho TV",
+      "name": "Phu Tho",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "https://phuthotv.vn/"
     },
     {
-      "name": "Phu Yen TV",
+      "name": "Phu Yen",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://www.ptpphuyen.vn/"
     },
     {
@@ -799,130 +670,122 @@
       "website": "http://www.qpvn.vn/"
     },
     {
-      "name": "Quang Binh TV",
+      "name": "Quang Binh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://www.qbtv.vn/"
     },
     {
-      "name": "Quang Nam TV",
+      "name": "Quang Nam",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://qrt.vn/"
     },
     {
-      "name": "Quang Ngai TV",
+      "name": "Quang Ngai",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://quangngaitv.vn/"
     },
     {
-      "name": "Quang Ninh TV 1",
+      "name": "Quang Ninh TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://baoquangninh.com.vn/"
     },
     {
       "name": "Quang Ninh TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://baoquangninh.com.vn/"
     },
     {
-      "name": "Quang Tri TV",
+      "name": "Quang Tri",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png",
       "website": "http://quangtritv.vn/"
     },
     {
-      "name": "Quoc Hoi TV",
+      "name": "Quoc Hoi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/QUOC_PHONG.png",
       "website": "http://quochoitv.vn/"
     },
     {
-      "name": "SCTV1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/UcMXcHF.png",
-      "website": "http://www.sctv.com.vn/"
-    },
-    {
-      "name": "SCTV10",
+      "name": "SCTV",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV11",
+      "name": "SCTV 10",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV12",
+      "name": "SCTV 11",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV13",
+      "name": "SCTV 12",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV14",
+      "name": "SCTV 13",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV15",
+      "name": "SCTV 14",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV16",
+      "name": "SCTV 15",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV17",
+      "name": "SCTV 16",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV18",
+      "name": "SCTV 17",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV19",
+      "name": "SCTV 18",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV2",
+      "name": "SCTV 19",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV20",
+      "name": "SCTV 2",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV21",
+      "name": "SCTV 20",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV22",
+      "name": "SCTV 21",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV3",
+      "name": "SCTV 22",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV4",
+      "name": "SCTV 3",
+      "isFree": true,
+      "website": "http://www.sctv.com.vn/"
+    },
+    {
+      "name": "SCTV 4",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
@@ -932,125 +795,105 @@
       "website": "https://sctv.com.vn"
     },
     {
-      "name": "SCTV5",
+      "name": "SCTV 5",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV6",
-      "isFree": true,
-      "logo": "https://i.imgur.com/2oOVS42.png",
-      "website": "http://www.sctv.com.vn/"
-    },
-    {
-      "name": "SCTV7",
-      "isFree": true,
-      "logo": "https://i.imgur.com/xbIUZYd.png",
-      "website": "http://www.sctv.com.vn/"
-    },
-    {
-      "name": "SCTV8",
+      "name": "SCTV 6",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "SCTV9",
+      "name": "SCTV 7",
+      "isFree": true,
+      "website": "http://www.sctv.com.vn/"
+    },
+    {
+      "name": "SCTV 8",
+      "isFree": true,
+      "website": "http://www.sctv.com.vn/"
+    },
+    {
+      "name": "SCTV 9",
       "isFree": true,
       "website": "http://www.sctv.com.vn/"
     },
     {
       "name": "SCTV Phim Tong Hop",
       "isFree": true,
-      "logo": "https://i.imgur.com/EMmOvnQ.png",
       "website": "http://www.sctv.com.vn/"
     },
     {
-      "name": "Soc Trang TV 1",
+      "name": "Soc Trang TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/SOC_TRANG.png",
       "website": "http://thst.vn/"
     },
     {
       "name": "Soc Trang TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/SOC_TRANG.png",
       "website": "https://thst.vn/"
     },
     {
-      "name": "Son La TV",
+      "name": "Son La",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VPbtaiyPdCMKz0BKP00xtSJmok.jpg",
       "website": "http://sonlatv.vn/"
     },
     {
-      "name": "Tay Ninh TV",
+      "name": "Tay Ninh",
       "isFree": true,
       "website": "http://ttv11.vn/"
     },
     {
-      "name": "Tay Ninh TV1",
+      "name": "Tay Ninh TV",
       "isFree": true,
       "website": "https://la34.com.vn/"
     },
     {
-      "name": "Thai Binh TV",
+      "name": "Thai Binh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
       "website": "http://thaibinhtv.vn/"
     },
     {
-      "name": "Thai Nguyen TV",
+      "name": "Thai Nguyen",
       "isFree": true,
       "keywords": "thai nguyen tv -2",
-      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
       "website": "https://thainguyentv.vn/"
     },
     {
       "name": "Thai Nguyen TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png",
       "website": "https://thainguyentv.vn/"
     },
     {
-      "name": "Thanh Hoa TV",
+      "name": "Thanh Hoa",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/THANH_HOA.png",
       "website": "http://truyenhinhthanhhoa.vn/"
     },
     {
-      "name": "Thua Thien Hue TV",
+      "name": "Thua Thien Hue",
       "isFree": true,
       "website": "https://www.trt.com.vn/"
     },
     {
-      "name": "Tien Giang TV",
+      "name": "Today",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TIEN_GIANG.png",
-      "website": "http://www.thtg.vn/"
-    },
-    {
-      "name": "Today TV",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.todaytv.vn/"
     },
     {
-      "name": "Tra Vinh TV",
+      "name": "Tra Vinh",
       "isFree": true,
       "keywords": "tra vinh tv -2",
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://www.thvli.vn/live/thvl5-hd"
     },
     {
       "name": "TTXVN",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "http://vnanet.vn/"
     },
     {
-      "name": "Tuyen Quang TV",
+      "name": "Tuyen Quang",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TUYEN_QUANG.png",
       "website": "https://tuyenquangtv.vn/"
     },
     {
@@ -1058,146 +901,137 @@
       "isFree": true
     },
     {
-      "name": "Viet My TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_THUAN_VIET.png"
+      "name": "Viet My",
+      "isFree": true
     },
     {
       "name": "Vietnam Today",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yKDeMvvGfPtqdTJt071urVWTBU.jpg",
       "website": "https://vietnamtoday.vtv.vn/",
       "priority": 9
     },
     {
-      "name": "Vinh Long TV 1",
+      "name": "Vinh Long TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://www.thvl.vn/"
     },
     {
       "name": "Vinh Long TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://www.thvl.vn/"
     },
     {
       "name": "Vinh Long TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://www.thvli.vn/live/thvl3-hd"
     },
     {
       "name": "Vinh Long TV 4",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://www.thvli.vn/live/thvl4-hd"
     },
     {
-      "name": "Vinh Phuc TV",
+      "name": "Vinh Phuc",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "http://vinhphuctv.vn/"
     },
     {
-      "name": "VTC1",
+      "name": "VTC",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC10",
+      "name": "VTC 10",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC11",
+      "name": "VTC 11",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC12",
+      "name": "VTC 12",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC13",
+      "name": "VTC 13",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC14",
+      "name": "VTC 14",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC16",
+      "name": "VTC 16",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/vtc.png",
-      "website": "https://vtc.gov.vn/live/",
-      "priority": 9
-    },
-    {
-      "name": "VTC3",
+      "name": "VTC 2",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC7",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/vtc.png",
-      "website": "https://vtc.gov.vn/live/",
-      "priority": 9
-    },
-    {
-      "name": "VTC8",
+      "name": "VTC 3",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTC9",
+      "name": "VTC 7",
       "isFree": true,
       "website": "https://vtc.gov.vn/live/",
       "priority": 9
     },
     {
-      "name": "VTV1",
+      "name": "VTC 8",
+      "isFree": true,
+      "website": "https://vtc.gov.vn/live/",
+      "priority": 9
+    },
+    {
+      "name": "VTC 9",
+      "isFree": true,
+      "website": "https://vtc.gov.vn/live/",
+      "priority": 9
+    },
+    {
+      "name": "VTV",
       "isFree": true,
       "website": "https://vtv.vn/",
       "priority": 10
     },
     {
-      "name": "VTV2",
+      "name": "VTV 2",
       "isFree": true,
       "website": "https://vtv.vn/",
       "priority": 10
     },
     {
-      "name": "VTV3",
+      "name": "VTV 3",
       "isFree": true,
       "website": "https://vtv.vn/",
       "priority": 9
     },
     {
-      "name": "VTV4",
+      "name": "VTV 4",
       "isFree": true,
       "website": "http://vtv4.vtv.vn/"
     },
     {
-      "name": "VTV5",
+      "name": "VTV 5",
       "isFree": true,
       "keywords": "vtv5 -tay nam bo -tay nguyen",
       "website": "http://www.vtv5.net.vn/"
@@ -1213,60 +1047,54 @@
       "website": "http://www.vtv5.net.vn/"
     },
     {
-      "name": "VTV7",
+      "name": "VTV 7",
       "isFree": true,
       "website": "https://vtv.vn/"
     },
     {
-      "name": "VTV8",
+      "name": "VTV 8",
       "isFree": true,
       "website": "https://vtv.vn/"
     },
     {
-      "name": "VTV9",
+      "name": "VTV 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/QiY55sy.png",
       "website": "https://vtv.vn/"
     },
     {
-      "name": "VTVCab1",
+      "name": "VTVCab",
       "isFree": true,
       "website": "http://giaitritv.vn/"
     },
     {
-      "name": "VTVCab7",
+      "name": "VTVCab 7",
       "isFree": true,
       "website": "https://vtv.vn/vtvcab-7.html"
     },
     {
       "name": "VTV Can Tho",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/vtv.png",
       "website": "https://vtv.vn/",
       "priority": 10
     },
     {
-      "name": "Yeah 1 TV",
+      "name": "Yeah",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/20310.jpg",
       "website": "https://yeah1.com/"
     },
     {
-      "name": "Yen Bai TV",
+      "name": "Yen Bai",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/YEN_BAI.png",
       "website": "https://yenbaitv.org.vn/"
     },
     {
-      "name": "You TV",
+      "name": "You",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg",
       "website": "http://youtv.vn/"
     },
     {
-      "name": "Da Nang TV 1",
+      "name": "Da Nang TV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9lsWwnIDN2ZNtqZcE1x2o4ZKyI.jpg",
       "website": "http://www.drt.danang.vn/"
     }
   ],
@@ -1278,46 +1106,38 @@
     {
       "name": "ARICO Shopping",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg",
       "website": "http://arico.vn/dn"
     },
     {
       "name": "Binh Duong TV 11",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "Binh Thuan TV 6",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "https://newatv.vn/"
     },
     {
       "name": "GS Shop",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/GSTV.png",
       "website": "https://gsshop.vn/"
     },
     {
       "name": "Shopping 24h",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg"
+      "isFree": true
     },
     {
       "name": "Tea TV Khmer",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYmFGMi1KpzJi3JAYvcW9LlaMmp.jpg"
+      "isFree": true
     },
     {
       "name": "Uniquely Thai",
-      "isFree": true,
-      "logo": "https://i.imgur.com/cTSDB8O.png"
+      "isFree": true
     },
     {
       "name": "VTV Hyundai Home Shopping",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/vtv.png",
       "website": "https://www.vtvhyundai.vn/",
       "priority": 10
     }
@@ -1326,26 +1146,22 @@
     {
       "name": "Binh Duong TV 5",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "HTV Sports",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/htv.png",
       "website": "https://htv.com.vn/",
       "priority": 9
     },
     {
-      "name": "K+ Sport 1",
+      "name": "K+ Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.kplus.vn/"
     },
     {
       "name": "K+ Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.kplus.vn/"
     },
     {
@@ -1356,20 +1172,17 @@
     {
       "name": "ON Golf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
       "name": "ON Sports",
       "isFree": true,
       "keywords": "on sports -news",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
       "name": "ON Sports News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     }
   ],
@@ -1377,135 +1190,114 @@
     {
       "name": "Binh Duong TV 6",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "http://www.btv.org.vn/"
     },
     {
       "name": "Binh Duong TV 9",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/BINH_PHUOC1.png",
       "website": "https://bchannel.vn/"
     },
     {
       "name": "Can Tho TV 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
       "website": "http://haugiangtivi.vn/"
     },
     {
       "name": "HTV Key",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/htv.png",
       "website": "https://htv.com.vn/",
       "priority": 9
     },
     {
-      "name": "Khmer TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/KH.png"
+      "name": "Khmer",
+      "isFree": true
     },
     {
-      "name": "Nhan Dan TV",
+      "name": "Nhan Dan",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png",
       "website": "https://nhandantv.vn/"
     },
     {
       "name": "Tra Vinh TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/TRA_VINH.png",
       "website": "https://travinhtv.vn/"
     }
   ],
   "Movies & Series": [
     {
-      "name": "Box Movie 1",
+      "name": "Box Movie",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg",
       "website": "https://www.intheboxtv.eu/"
     },
     {
       "name": "HTVC Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "K+ Cine",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/becine.png",
       "website": "https://www.kplus.vn/"
     },
     {
       "name": "ON Cine",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
       "name": "ON Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
       "name": "ON Phim Viet",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "https://www.paramountnetwork.com/"
     },
     {
       "name": "Phim Hay",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/PHIM.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "HTVC Music",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png",
       "website": "http://htvc.vn",
       "priority": 9
     },
     {
       "name": "MTV",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://mtvwe.com",
       "priority": 10
     },
     {
       "name": "ON Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "https://vtvcab.vn"
     }
   ],
   "News": [
     {
-      "name": "VCAL TV",
+      "name": "VCAL",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.vcal.tv/"
     },
     {
       "name": "V News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
       "website": "https://vnews.gov.vn/?v=live"
     },
     {
-      "name": "VOV TV",
+      "name": "VOV",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://truyenhinhvov.vn/live.htm"
     }
   ]

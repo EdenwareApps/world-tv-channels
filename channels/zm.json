@@ -1,102 +1,85 @@
 {
   "Entertainment": [
     {
-      "name": "TV1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png"
-    },
-    {
-      "name": "TV4",
+      "name": "TV",
       "isFree": true
     },
     {
-      "name": "ABN TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106034442314754_15.png"
+      "name": "TV 4",
+      "isFree": true
+    },
+    {
+      "name": "ABN",
+      "isFree": true
     },
     {
       "name": "Astro Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
       "website": "https://astrorixgroup.co.zm/astro-television/"
     },
     {
-      "name": "Beats TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg"
+      "name": "Beats",
+      "isFree": true
     },
     {
       "name": "BTN-TV",
       "isFree": true
     },
     {
-      "name": "Bulozi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bulozi",
+      "isFree": true
     },
     {
-      "name": "Camnet TV",
+      "name": "Camnet",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://camnettvafrica.com/"
     },
     {
-      "name": "CBC TV",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
+      "name": "CBC",
+      "isFree": true
     },
     {
-      "name": "Chipata TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Chipata",
+      "isFree": true
     },
     {
-      "name": "City TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png"
+      "name": "City",
+      "isFree": true
     },
     {
-      "name": "Crown TV",
+      "name": "Crown",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg",
       "website": "https://crowntv.co.zm/"
     },
     {
-      "name": "Flava TV",
+      "name": "Flava",
       "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/assets.streams/6914dcc141cb53328fbd1fd2",
       "website": "https://flavaradioandtv.com/"
     },
     {
-      "name": "Fresh TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gcFSxrm.png"
+      "name": "Fresh",
+      "isFree": true
     },
     {
-      "name": "HOT TV",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "HOT",
+      "isFree": true
     },
     {
-      "name": "Ingoma TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ingoma",
+      "isFree": true
     },
     {
-      "name": "KNC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "KNC",
+      "isFree": true
     },
     {
-      "name": "Mafken TV",
+      "name": "Mafken",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mafken.fm/"
     },
     {
-      "name": "MOZO TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "MOZO",
+      "isFree": true
     },
     {
       "name": "Muvi Nyimbo",
@@ -104,103 +87,86 @@
       "website": "https://www.muvitv.com/"
     },
     {
-      "name": "Muvi TV",
+      "name": "Muvi",
       "isFree": true,
       "keywords": "muvi tv -2 -sports",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.muvitv.com/"
     },
     {
       "name": "Muvi TV 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.muvitv.com/"
     },
     {
       "name": "Northern Eagle Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GGWK9BTu3rMv4IxucJsvrELAXa.jpg"
+      "isFree": true
     },
     {
-      "name": "North West TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay0dOKJgyK4VEh3xakV15UgvJMF.jpg"
+      "name": "North West",
+      "isFree": true
     },
     {
-      "name": "Parliament TV",
+      "name": "Parliament",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174535846051_22.png",
       "website": "http://www.parliament.gov.zm/"
     },
     {
-      "name": "Prime TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
+      "name": "Prime",
+      "isFree": true
     },
     {
       "name": "Q TV Zambia",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg"
+      "isFree": true
     },
     {
-      "name": "Sun FM TV",
+      "name": "Sun FM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
       "website": "https://www.sunfmzambia.net/"
     },
     {
-      "name": "Zambian TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Zambian",
+      "isFree": true
     },
     {
-      "name": "Zed TV",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/Zed Plus.png"
+      "name": "Zed",
+      "isFree": true
     },
     {
-      "name": "ZNBC TV 1",
+      "name": "ZNBC TV",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.znbc.co.zm/tv1/"
     },
     {
       "name": "ZNBC TV 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.znbc.co.zm/tv2/"
     },
     {
       "name": "ZNBC TV 3",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.znbc.co.zm/tv3/"
     },
     {
       "name": "ZNBC TV 4",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.znbc.co.zm/tv4/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Africa Unite TV",
+      "name": "Africa Unite",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.africaunitetv.com/"
     },
     {
-      "name": "Musanza TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Musanza",
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "Diamond TV",
+      "name": "Diamond",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqNW0KFNBFD3BtLNkgipmYqgz4b.jpg",
       "website": "https://diamondtvzambia.com/"
     },
     {
@@ -208,63 +174,55 @@
       "isFree": true
     },
     {
-      "name": "Maluba TV",
+      "name": "Maluba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.malubamedia.com/"
     },
     {
       "name": "Millennium TV Zambia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZQD3spxBfmDt9W5kbchGluSwi4.jpg",
       "website": "https://www.millenniumtv.news/"
     },
     {
-      "name": "ZANIS TV",
+      "name": "ZANIS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zanis.gov.zm/index.php/zanis-tv/"
     }
   ],
   "Religious": [
     {
-      "name": "Edge TV",
+      "name": "Edge",
       "isFree": true
     },
     {
-      "name": "Healing Center TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71EiO2SHQs2VvO3lp9n0sojpbdA.jpg"
+      "name": "Healing Center",
+      "isFree": true
     },
     {
       "name": "Hope Channel Zambia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "http://zambia.hopechannel.de/"
     },
     {
-      "name": "Litovia TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Litovia",
+      "isFree": true
     },
     {
       "name": "Loyola",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/ES+.png"
+      "isFree": true
     },
     {
       "name": "Lumen TV-Z",
       "isFree": true
     },
     {
-      "name": "NAC 28 TV",
+      "name": "NAC 28",
       "isFree": true,
       "website": "https://naczam.org.zm/en/"
     },
     {
-      "name": "Revelation TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Revelation",
+      "isFree": true
     },
     {
       "name": "TBN Zambia",
@@ -282,26 +240,22 @@
     {
       "name": "Muvi TV Sports",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.muvitv.com/"
     },
     {
-      "name": "Sun Sports TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg"
+      "name": "Sun Sports",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "Power TV",
+      "name": "Power",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://powertv.powerhousemediazm.com/"
     },
     {
       "name": "Prism Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "http://prismafrica.net/"
     }
   ]

@@ -2,8 +2,7 @@
   "Entertainment": [
     {
       "name": "KVF",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f59c751d7c87d8616bcb666d2c6b17a5.png"
+      "isFree": true
     },
     {
       "name": "Kringvarp Foroya",
@@ -13,13 +12,11 @@
     {
       "name": "KVF Sjonvarp",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
       "website": "https://kvf.fo/live/1"
     },
     {
       "name": "KVF Tingvarp",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
       "website": "https://kvf.fo/live/tingvarp"
     }
   ]

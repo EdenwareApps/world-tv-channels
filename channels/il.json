@@ -7,69 +7,58 @@
     {
       "name": "Channel 2",
       "isFree": true,
-      "keywords": "channel 2 -news",
-      "logo": "https://iwf1.com/scrapekod/icons/plugin.video.mflive.png"
+      "keywords": "channel 2 -news"
     },
     {
       "name": "i24NEWS Arabic",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
       "website": "https://www.i24news.tv/ar/"
     },
     {
       "name": "i24NEWS English USA",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
       "website": "https://www.i24news.tv/en/"
     },
     {
       "name": "i24NEWS English World",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
       "website": "https://www.i24news.tv/en/"
     },
     {
       "name": "i24NEWS French",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
       "website": "https://www.i24news.tv/fr/"
     },
     {
       "name": "i24NEWS Hebrew",
       "isFree": true,
-      "logo": "https://www.i24news.tv/images/favicon.png",
       "website": "https://www.i24news.tv/he"
     },
     {
       "name": "i24NEWS Updates",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
       "website": "https://www.i24news.tv/en/channels/i24news-updates"
     },
     {
-      "name": "Relevant TV",
+      "name": "Relevant",
       "isFree": true,
-      "logo": "https://i.imgur.com/jCZ5gFO.png",
       "website": "https://relevant.co.il/"
     },
     {
       "name": "TV7 Israel News",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png",
       "website": "https://www.tv7israelnews.com/"
     },
     {
       "name": "Yes News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     }
   ],
   "Religious": [
     {
       "name": "Hidabroot",
-      "isFree": true,
-      "logo": "https://i.imgur.com/CTH4Hu2.png"
+      "isFree": true
     },
     {
       "name": "Kabbalah for the People Israel",
@@ -78,7 +67,6 @@
     {
       "name": "Or Hachaim",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg",
       "website": "https://orhachaim.co.il/"
     },
     {
@@ -99,15 +87,14 @@
     },
     {
       "name": "Sport 3",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+      "isFree": false
     },
     {
       "name": "Sport 4",
       "isFree": false
     },
     {
-      "name": "Sports Channel",
+      "name": "Sports",
       "isFree": false
     },
     {
@@ -123,7 +110,6 @@
     {
       "name": "5Plus",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/5+.png",
       "website": "http://www.sport5.co.il/"
     },
     {
@@ -148,42 +134,36 @@
       "website": "http://www.one.co.il/"
     },
     {
-      "name": "Sport 1",
+      "name": "Sport",
       "isFree": true,
-      "logo": "https://picserve.netplus.ch/channels/sport1.png",
       "website": "https://sport1.maariv.co.il/"
     }
   ],
   "Entertainment": [
     {
       "name": "As a Child",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1752e3656c9bce97479e36a510e9f553.png"
+      "isFree": true
     },
     {
       "name": "Channel 9",
-      "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png"
+      "isFree": true
     },
     {
-      "name": "Hala TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg"
+      "name": "Hala",
+      "isFree": true
     },
     {
-      "name": "Israel Pars TV",
+      "name": "Israel Pars",
       "isFree": true
     },
     {
       "name": "KAN 11 Israel",
       "isFree": true,
-      "logo": "http://epg.one/img2/2673.png",
       "priority": 9
     },
     {
       "name": "Kabbalah for the People",
-      "isFree": true,
-      "shortName": "KFTP"
+      "isFree": true
     },
     {
       "name": "Keshet 12",
@@ -191,13 +171,12 @@
       "priority": 10
     },
     {
-      "name": "Knesset Channel",
+      "name": "Knesset",
       "isFree": true
     },
     {
       "name": "Makan 33",
-      "isFree": true,
-      "logo": "https://go4.pw/HEBREW/YES CH 20.png"
+      "isFree": true
     },
     {
       "name": "Musayof",
@@ -215,13 +194,11 @@
     {
       "name": "Big Brother Israel",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "http://www.mako.co.il/tv-bigbrother"
     },
     {
       "name": "Channel 13",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://13tv.co.il/",
       "priority": 9
     },
@@ -247,37 +224,31 @@
       "website": "https://www.ananey.com/channels/ego/"
     },
     {
-      "name": "Food Channel",
+      "name": "Food",
       "isFree": true,
-      "logo": "https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png",
       "website": "https://xnet.ynet.co.il/home/0"
     },
     {
       "name": "Good Life",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://xnet.ynet.co.il/home/0"
     },
     {
       "name": "GTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png",
       "website": "http://www.g-tv.co.il/"
     },
     {
       "name": "Home +",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg"
+      "isFree": true
     },
     {
-      "name": "Humour Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QwNDX9aa1CAZzZ7sGdMXq6YYug.jpg"
+      "name": "Humour",
+      "isFree": true
     },
     {
       "name": "ILTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/457179171576ea870c7c2b30f41f3727.png",
       "website": "https://iltv.tv/"
     },
     {
@@ -289,7 +260,6 @@
     {
       "name": "Now 14",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
       "website": "https://www.now14.co.il/"
     },
     {
@@ -301,66 +271,56 @@
     {
       "name": "Ran TV Israel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uokgPzBWakgGkktUWm40SkaLk4W.jpg",
       "website": "http://www.radioran.co.il/"
     },
     {
       "name": "The Israeli Network",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://tin.tv/"
     },
     {
       "name": "Viva",
       "isFree": true,
       "keywords": "viva -plus -sheli",
-      "logo": "https://webchnl.com/assets/img/channelicons/VIVA.png?v=1767092057",
       "website": "https://viva.walla.co.il/item/1683908"
     },
     {
       "name": "Viva Plus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
       "website": "https://viva.walla.co.il/item/1888338"
     },
     {
       "name": "Viva Sheli",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
       "website": "https://viva.walla.co.il/"
     },
     {
-      "name": "Wiz TV",
+      "name": "Wiz",
       "isFree": true,
       "website": "http://www.wiztv.co.il/"
     },
     {
       "name": "Yam Tichoni 25",
-      "isFree": true,
-      "logo": "https://go4.pw/HEBREW/Yam Tichoni 25.png"
+      "isFree": true
     },
     {
       "name": "Yes Docu",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes DVDbox",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes Israeli",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes TV Comedy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     }
   ],
@@ -371,8 +331,7 @@
     },
     {
       "name": "Music IL",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     }
   ],
   "Kids": [
@@ -382,16 +341,14 @@
       "website": "https://www.kidstv.co.il/"
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://www.disney.co.il/",
       "priority": 10
     },
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "http://www.disney.co.il/disney-junior/",
       "priority": 9
     },
@@ -402,8 +359,7 @@
     },
     {
       "name": "Junior",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg"
+      "isFree": true
     },
     {
       "name": "Nickelodeon",
@@ -418,21 +374,18 @@
     {
       "name": "TeenNick",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
       "website": "http://nick.co.il/"
     },
     {
       "name": "Zoom",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://zoomtv.co.il/"
     }
   ],
   "Movies & Series": [
     {
       "name": "AXN",
-      "isFree": true,
-      "logo": "https://imgur.com/EYAmbe4.png"
+      "isFree": true
     },
     {
       "name": "Bollyshow",
@@ -441,45 +394,38 @@
     {
       "name": "Yes Movies Action",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes Movies Comedy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes Movies Drama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes Movies Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes TV Action",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     },
     {
       "name": "Yes TV Drama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "https://www.yes.co.il/"
     }
   ],
   "Education & Culture": [
     {
       "name": "IETV",
-      "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_IETV.png"
+      "isFree": true
     },
     {
       "name": "Kan Educational",
@@ -490,23 +436,20 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com/asia",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/asia",
       "priority": 9
     }
   ],
   "Shop": [
     {
-      "name": "The Shopping Channel",
+      "name": "The Shopping",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.21.tv/"
     }
   ]

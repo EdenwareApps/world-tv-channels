@@ -2,71 +2,59 @@
   "News": [
     {
       "name": "Avenues Khabar",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miq2i3QPQPdAYc3kpfXVRQONzwj.jpg"
+      "isFree": true
     },
     {
-      "name": "AamNepali TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "AamNepali",
+      "isFree": true
     },
     {
       "name": "ABC News Nepal",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://www.abcnepal.tv/",
       "priority": 9
     },
     {
       "name": "Anews Nepal",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NEPAL-1.png",
       "website": "https://aonetelevision.com.np/"
     },
     {
-      "name": "Bhadagaun TV",
+      "name": "Bhadagaun",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bhadgauntv.com.np/"
     },
     {
       "name": "BTV Business",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
       "website": "https://businesstvnepal.com/"
     },
     {
       "name": "Business Plus",
       "isFree": true,
-      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
       "website": "https://emountaintv.com/"
     },
     {
       "name": "Galaxy 4K",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
       "website": "https://gmn.com.np/"
     },
     {
-      "name": "Global TV",
+      "name": "Global",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png",
       "website": "https://globaltvnepal.com/"
     },
     {
       "name": "ITV Nepal",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png"
+      "isFree": true
     },
     {
-      "name": "Janasanchar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Janasanchar",
+      "isFree": true
     },
     {
-      "name": "Kalika TV",
+      "name": "Kalika",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kalikanews.com/"
     },
     {
@@ -77,62 +65,52 @@
     {
       "name": "Koshi 4K Television",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png",
       "website": "https://koshitelevision.com/"
     },
     {
-      "name": "Mountain TV",
+      "name": "Mountain",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/VNZ9KmSG9W1v2qbTZcNQ65mWN3.jpg",
       "website": "https://emountaintv.com/"
     },
     {
       "name": "News 24",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/88eb2399dfb95514af981ee169e8e747.png",
       "website": "https://www.news24nepal.tv/"
     },
     {
-      "name": "News Nepal TV",
+      "name": "News Nepal",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://newsnepaltv.com/"
     },
     {
       "name": "NTV News",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://nepaltvonline.com/"
     },
     {
-      "name": "Sutra TV",
+      "name": "Sutra",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/20313.jpg",
       "website": "https://www.sutranews.com/"
     },
     {
       "name": "TV Today",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "Zee Nepal",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
       "website": "https://zeenepaltv.com/"
     }
   ],
   "Entertainment": [
     {
-      "name": "AP1 TV",
+      "name": "AP",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ap1.tv/"
     },
     {
-      "name": "Appan TV",
+      "name": "Appan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.appantv.com.np/"
     },
     {
@@ -142,33 +120,29 @@
     {
       "name": "Arena Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.arenatelevision.com.np/"
     },
     {
-      "name": "AVASS TV",
+      "name": "AVASS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://avasstv.com/"
     },
     {
-      "name": "Bagmati TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bagmati",
+      "isFree": true
     },
     {
       "name": "Bhairahawa Television",
       "isFree": true
     },
     {
-      "name": "Bhakti Darshan TV",
+      "name": "Bhakti Darshan",
       "isFree": true,
       "website": "http://bhaktidarshantv.com/en/"
     },
     {
       "name": "Bhojpuri Magic",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/BHOJPURI_CINEMA.png",
       "website": "https://dishhome.com.np/exclusive-channels/bhojpuri-magic"
     },
     {
@@ -176,26 +150,22 @@
       "isFree": true
     },
     {
-      "name": "Buddha TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAia8POGJHaSLL9RCdo99ZNClKG.jpg"
+      "name": "Buddha",
+      "isFree": true
     },
     {
-      "name": "Capital TV HD",
+      "name": "Capital",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CFQrSUUss1rnFqSpzLf4tx2TDo.jpg",
       "website": "https://www.capitaltvhd.com/"
     },
     {
       "name": "City One Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityonetv.com/"
     },
     {
-      "name": "Deep TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "name": "Deep",
+      "isFree": true
     },
     {
       "name": "Dhaulagiri Television",
@@ -211,19 +181,16 @@
       "name": "DishHome Showcase",
       "isFree": true,
       "keywords": "dishhome showcase -2",
-      "logo": "https://go4.pw/USA/SD/24.png",
       "website": "http://www.dishhome.com.np/"
     },
     {
       "name": "DishHome Showcase 2",
       "isFree": true,
-      "logo": "https://go4.pw/USA/SD/24.png",
       "website": "http://www.dishhome.com.np/"
     },
     {
-      "name": "Everest TV",
+      "name": "Everest",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jKOu2bjpLP6NXJcm7Ep14bDGtA.jpg",
       "website": "https://everesthd.tv/"
     },
     {
@@ -231,18 +198,16 @@
       "isFree": true
     },
     {
-      "name": "Gorkha TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Gorkha",
+      "isFree": true
     },
     {
-      "name": "Hamro Kisan TV",
+      "name": "Hamro Kisan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/DD-KISAN.png",
       "website": "https://hamrokisantv.com/"
     },
     {
-      "name": "Health TV",
+      "name": "Health",
       "isFree": true,
       "website": "https://healthtvonline.com/"
     },
@@ -252,24 +217,17 @@
       "website": "https://himshikhartv.com.np/"
     },
     {
-      "name": "Image Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-      "website": "https://imagechannel.com.np/"
-    },
-    {
       "name": "Indigenous Television",
       "isFree": true,
       "website": "https://www.indigenoustelevision.com/"
     },
     {
-      "name": "Janata TV",
+      "name": "Janata",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.janatasamachar.com/"
     },
     {
-      "name": "Kantipur TV",
+      "name": "Kantipur",
       "isFree": true,
       "website": "https://kantipurtv.com/"
     },
@@ -280,7 +238,6 @@
     {
       "name": "K World",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
       "website": "https://dishhome.com.np/exclusive-channels/k-world"
     },
     {
@@ -290,172 +247,143 @@
     {
       "name": "Life OK",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://lifeoktvnepal.com/"
     },
     {
-      "name": "Lumbini TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Lumbini",
+      "isFree": true
     },
     {
-      "name": "Makalu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Makalu",
+      "isFree": true
     },
     {
-      "name": "Mega TV",
+      "name": "Mega",
       "isFree": true,
-      "logo": "http://i.imgur.com/saCbNDR.png",
       "website": "https://megatv.com.np/"
     },
     {
-      "name": "Mero Online TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Q7z0QzgInemAyQ2NCzrThxYJa.jpg"
+      "name": "Mero Online",
+      "isFree": true
     },
     {
-      "name": "METV HD",
+      "name": "METV",
       "isFree": true,
       "website": "https://metvhd.com/"
     },
     {
-      "name": "Mithila Nepal TV",
+      "name": "Mithila Nepal",
       "isFree": true,
       "website": "http://mtvnepal.tv/"
     },
     {
-      "name": "Moonlight HD TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4911T5FbJ9eD2Faz5Z8cT3SUhU3.jpg"
+      "name": "Moonlight HD",
+      "isFree": true
     },
     {
-      "name": "Mukundasen TV",
+      "name": "Mukundasen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mukundasentv.com/"
     },
     {
-      "name": "Namaste Khwoopa TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx3p97KAUDaz7PXt9xwlEWn8CZd.jpg"
+      "name": "Namaste Khwoopa",
+      "isFree": true
     },
     {
-      "name": "Nari TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nari",
+      "isFree": true
     },
     {
-      "name": "National Gold TV",
+      "name": "National Gold",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
       "website": "https://nationalgoldhd.com/"
     },
     {
-      "name": "Nepa Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Nepa",
+      "isFree": true
     },
     {
-      "name": "Nepal Network TV",
+      "name": "Nepal Network",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NEPAL-1.png",
       "website": "https://nepalnetworktv.com/"
     },
     {
       "name": "Nepal Television",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NEPAL-1.png",
       "website": "https://nepaltvonline.com/"
     },
     {
-      "name": "Newa TV HD",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Newa",
+      "isFree": true
     },
     {
-      "name": "Nice TV",
+      "name": "Nice",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2020/10/01/large/20201001123754394603_13.png",
       "website": "https://nicetvnepal.com/"
     },
     {
       "name": "NTV Itahari",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://nepaltvonline.com/"
     },
     {
       "name": "NTV Kohalpur",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://nepaltvonline.com/"
     },
     {
       "name": "NTV Plus",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://nepaltvonline.com/"
     },
     {
-      "name": "Pokhara TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Pokhara",
+      "isFree": true
     },
     {
       "name": "Prime Times",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
       "website": "https://primetimes.tv/"
     },
     {
-      "name": "Rajya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Rajya",
+      "isFree": true
     },
     {
-      "name": "Rapti Darpan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Rapti Darpan",
+      "isFree": true
     },
     {
-      "name": "Reality TV",
+      "name": "Reality",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg",
       "website": "https://dishhome.com.np/exclusive-channels/reality-tv"
     },
     {
       "name": "RED Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+      "isFree": true
     },
     {
-      "name": "Sagarmatha TV",
+      "name": "Sagarmatha",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sagarmatha.tv/"
     },
     {
-      "name": "Sajha TV",
+      "name": "Sajha",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://nepalhighlight.com/"
     },
     {
-      "name": "Sarokar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sarokar",
+      "isFree": true
     },
     {
-      "name": "Seven Star TV",
+      "name": "Seven Star",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
       "website": "https://sevenstartv.com/"
     },
     {
-      "name": "Space 4K TV",
+      "name": "Space 4K",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43EQZnWP9znGqTKfO4BsPALXVYa.jpg",
       "website": "https://www.space4ktv.com/Home"
     },
     {
@@ -464,18 +392,16 @@
     },
     {
       "name": "TV Birgunj",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Universal TV HD",
+      "name": "Universal",
       "isFree": true,
       "website": "https://universalsamachar.com/"
     },
     {
-      "name": "Upahar TV",
+      "name": "Upahar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.radioupahar.com/"
     },
     {
@@ -483,21 +409,18 @@
       "isFree": true
     },
     {
-      "name": "Yoho TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Yoho",
+      "isFree": true
     }
   ],
   "Religious": [
     {
-      "name": "Bodhi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bodhi",
+      "isFree": true
     },
     {
-      "name": "Buddha Awaaz TV",
+      "name": "Buddha Awaaz",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAia8POGJHaSLL9RCdo99ZNClKG.jpg",
       "website": "https://buddhaawaaztv.com.np/"
     },
     {
@@ -506,21 +429,19 @@
       "website": "https://dharmatelevision.tv/"
     },
     {
-      "name": "Divya Darshan TV",
+      "name": "Divya Darshan",
       "isFree": true,
       "website": "https://divyadarshantv.com/"
     },
     {
-      "name": "Nepal Mandal TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NEPAL-1.png"
+      "name": "Nepal Mandal",
+      "isFree": true
     }
   ],
   "Sports": [
     {
       "name": "DishHome Action Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
       "website": "http://www.dishhome.com.np/"
     }
   ],
@@ -538,19 +459,16 @@
     {
       "name": "D Movies",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://dishhome.com.np/exclusive-channels/dmovies"
     },
     {
       "name": "Kantipur Cineplex",
       "isFree": true,
-      "logo": "https://i.imgur.com/EZUyzhG.jpg",
       "website": "https://kantipurtv.com/"
     },
     {
       "name": "Kantipur Max",
       "isFree": true,
-      "logo": "https://i.imgur.com/EZUyzhG.jpg",
       "website": "https://kantipurtv.com/"
     },
     {
@@ -560,60 +478,51 @@
     },
     {
       "name": "TV Filmy",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "Kids": [
     {
       "name": "DishHome Junior",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg",
       "website": "http://www.dishhome.com.np/"
     }
   ],
   "Education & Culture": [
     {
       "name": "Education Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizz5FphOtfSnLaGpRALOZgILd5.jpg"
+      "isFree": true
     },
     {
-      "name": "Himalaya TV",
+      "name": "Himalaya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.himalayatv.com/"
     },
     {
-      "name": "Krishi TV",
+      "name": "Krishi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://krishitelevision.com/"
     },
     {
-      "name": "Omkar TV",
+      "name": "Omkar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.omkartv.com/"
     },
     {
-      "name": "Paryawaran TV",
+      "name": "Paryawaran",
       "isFree": true,
-      "logo": "https://i.imgur.com/H10qamt.png",
       "website": "https://paryawarantv.com/"
     }
   ],
   "Music Videos": [
     {
-      "name": "J Music TV",
+      "name": "J Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHFPhGvCvfHbZCxJSR3n6GsXIf.jpg",
       "website": "https://jayventure.com.np/jmusictelevision/"
     },
     {
       "name": "Rhymes",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23088/kids-tv-et/logo_20231219_214719_61.png",
       "website": "http://www.dishhome.com.np/"
     }
   ]

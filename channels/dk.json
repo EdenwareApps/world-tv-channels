@@ -1,74 +1,61 @@
 {
   "Entertainment": [
     {
-      "name": "KKR TV",
+      "name": "KKR",
       "isFree": true,
-      "keywords": "kkr tv | kkrtv",
-      "logo": "https://images.iptvmate.net/tvglogo/86e7a7a001c274612c2e28bfb4a192ce.png"
+      "keywords": "kkr tv | kkrtv"
     },
     {
       "name": "KVF",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f59c751d7c87d8616bcb666d2c6b17a5.png"
+      "isFree": true
     },
     {
       "name": "Kanal Hovedstaden",
-      "isFree": true,
-      "shortName": "KH",
-      "logo": "https://images.iptvmate.net/tvglogo/f6eb79fb0ac019742826b340b9f17b7e.png"
+      "isFree": true
     },
     {
       "name": "TV 2 Nord Salto",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 9
     },
     {
       "name": "TV2 Bornholm",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/531a5945a062da23d854bf02e415f5bc.png"
+      "isFree": true
     },
     {
       "name": "TV2 Fyn",
       "isFree": true,
-      "keywords": "tv 2 fyn | tv2 fyn",
-      "logo": "https://images.iptvmate.net/tvglogo/7308b6038418452b3697e31b6103b868.png"
+      "keywords": "tv 2 fyn | tv2 fyn"
     },
     {
       "name": "TV2 Lorry",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/be321890b0cdcb11dce550d2bf976c0b.png"
+      "isFree": true
     },
     {
       "name": "TV2 Ost",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f9ead3a3339def8f784eb050ce2524f2.png"
+      "isFree": true
     },
     {
       "name": "TV2 Ostjylland",
-      "isFree": true,
-      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png"
+      "isFree": true
     },
     {
       "name": "TV 2/Bornholm",
       "isFree": true,
       "keywords": "tv 2/bornholm | tv2/bornholm",
-      "shortName": "TV2/Bornholm",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "shortName": "TV 2/Bornholm"
     },
     {
       "name": "TV 2/Lorry",
       "isFree": true,
       "keywords": "tv 2/lorry | tv2/lorry",
-      "shortName": "TV2/Lorry",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "shortName": "TV 2/Lorry"
     },
     {
       "name": "TV 2/Østjylland",
       "isFree": true,
       "keywords": "tv 2/østjylland | tv2/østjylland",
-      "shortName": "TV2/Østjylland",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "shortName": "TV 2/Østjylland"
     },
     {
       "name": "0-TV",
@@ -88,55 +75,47 @@
     {
       "name": "Canal 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://canal9.dk/"
     },
     {
-      "name": "Christiania TV",
+      "name": "Christiania",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://christiania.tv/"
     },
     {
-      "name": "DanmarkC TV",
+      "name": "DanmarkC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://danmarkc.tv/"
     },
     {
-      "name": "Deaf TV",
+      "name": "Deaf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbTq1jfuGtLo1pdAY0gcbJcCWlF.jpg",
       "website": "https://deaftv.dk/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "https://www.discoveryplus.dk/kanaler/discovery/",
       "priority": 10
     },
     {
-      "name": "Dit lokal tv",
+      "name": "Dit lokal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xiklPAAUlRgcWntU1ZYAL2Tpmd.jpg",
       "website": "https://www.ditlokaltv.dk/"
     },
     {
-      "name": "dk4",
+      "name": "dk 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/DENMARK/DK4.png",
       "website": "http://www.dk4.dk/"
     },
     {
-      "name": "DR1",
+      "name": "DR",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/DENMARK/DR1.png",
       "website": "http://www.dr.dk/dr1/",
       "priority": 10
     },
     {
-      "name": "DR3",
+      "name": "DR 3",
       "isFree": true,
       "website": "http://dr.dk/dr3",
       "priority": 10
@@ -144,31 +123,26 @@
     {
       "name": "DRTV",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DR.png",
       "website": "https://www.dr.dk/drtv/"
     },
     {
-      "name": "Frederiksberg Lokal TV",
+      "name": "Frederiksberg Lokal",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png",
       "website": "https://frederiksberglokaltv.dk/"
     },
     {
-      "name": "Fynbo TV",
+      "name": "Fynbo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://fynbotv.dk/"
     },
     {
-      "name": "HAS TV",
+      "name": "HAS",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg",
       "website": "https://hastv.dk/"
     },
     {
-      "name": "KANAL 1",
+      "name": "KANAL",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://kanal-1.dk/"
     },
     {
@@ -188,9 +162,8 @@
       "website": "https://www.kanalvest.dk/"
     },
     {
-      "name": "KIP TV",
+      "name": "KIP",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kiptv.dk/"
     },
     {
@@ -204,9 +177,8 @@
       "website": "https://kultur-kanalen.dk"
     },
     {
-      "name": "Middelfart Lokal TV",
+      "name": "Middelfart Lokal",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png",
       "website": "https://middelfart.tv/"
     },
     {
@@ -216,21 +188,18 @@
       "priority": 8
     },
     {
-      "name": "Provins TV",
+      "name": "Provins",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.provinstv.dk/"
     },
     {
-      "name": "Roskilde TV",
+      "name": "Roskilde",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://roskildetv.dk/"
     },
     {
-      "name": "Sydfyn TV",
+      "name": "Sydfyn",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sydfyntv.dk/"
     },
     {
@@ -242,14 +211,12 @@
       "name": "TV 2",
       "isFree": true,
       "keywords": "tv 2 -charlie -fri -fyn -kosmopol -news -nord salto -sport -sport x -zulu",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506163756123824_29.png",
       "website": "https://tv2.dk/",
       "priority": 10
     },
     {
       "name": "TV 2 Charlie",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://charlie.tv2.dk/",
       "priority": 8
     },
@@ -268,7 +235,6 @@
     {
       "name": "TV2 Nord",
       "isFree": true,
-      "logo": "https://go4.pw/HUNGARIAN/TV2 Suf.png",
       "website": "https://www.tv2nord.dk/"
     },
     {
@@ -278,7 +244,7 @@
       "priority": 9
     },
     {
-      "name": "TV3",
+      "name": "TV 3",
       "isFree": true,
       "keywords": "tv3 -max -puls -sport",
       "website": "https://www.viafree.dk/kanal/tv3"
@@ -296,7 +262,6 @@
     {
       "name": "TV3 Puls",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://www.viafree.dk/kanal/tv3"
     },
     {
@@ -307,49 +272,41 @@
     {
       "name": "TV Avisen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dr.dk/drtv/kanal/drtv_192099"
     },
     {
       "name": "TV Fano",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvfano.dk/"
     },
     {
       "name": "TV Fionia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvfionia.dk/"
     },
     {
       "name": "TV from the Danish Parliament",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ft.dk/da/aktuelt/tv-fra-folketinget"
     },
     {
       "name": "TV Glad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tv-glad.dk/"
     },
     {
       "name": "TV Kant",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvkant.dk/"
     },
     {
       "name": "TV Kobenhavn",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvkobenhavn.dk/"
     },
     {
       "name": "TV Kronjylland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tv-kronjylland.dk/"
     },
     {
@@ -365,37 +322,31 @@
     {
       "name": "TV Nordkysten",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvnordkysten.dk/"
     },
     {
       "name": "TV Storbyen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.kanalnordvest.dk/"
     },
     {
       "name": "TV SYD",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvsyd.dk/"
     },
     {
       "name": "TV Vestjylland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvvestjylland.dk/"
     },
     {
       "name": "TV Vestsjaelland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvvestsjaelland.dk/"
     },
     {
-      "name": "Vesterbro Lokal TV",
+      "name": "Vesterbro Lokal",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png",
       "website": "https://vesterbrolokaltv.dk/"
     },
     {
@@ -403,39 +354,28 @@
       "isFree": true
     },
     {
-      "name": "DR HD",
+      "name": "DR",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
       "priority": 10
     },
     {
       "name": "DR Update",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
       "priority": 10
-    },
-    {
-      "name": "TV 2 (Denmark)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "priority": 9
     },
     {
       "name": "TV 2 Echo",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 9
     },
     {
-      "name": "TV 2 Sport (Denmark)",
+      "name": "TV 2 Sport",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 9
     },
     {
       "name": "TV 2/Fyn",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "TV/Midt-Vest",
@@ -443,77 +383,55 @@
     },
     {
       "name": "TV 2/Nord",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "TV 2 Øst",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 9
     },
     {
       "name": "TV 2 Film",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 9
     },
     {
-      "name": "TV3 (Denmark)",
-      "isFree": null,
-      "logo": "https://lo1.in/MALAY/tv3.png"
+      "name": "TV 3",
+      "isFree": null
     },
     {
-      "name": "TV3+ Denmark",
-      "isFree": null,
-      "logo": "https://i.iheart.com/v3/re/new_assets/61a5d4fdcb1f0d77e431701b"
-    },
-    {
-      "name": "See (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg"
+      "name": "See",
+      "isFree": null
     },
     {
       "name": "V Film",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+      "isFree": null
     },
     {
-      "name": "V Series (Swedish TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+      "name": "V Series",
+      "isFree": null
     },
     {
       "name": "V Sport Golf",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+      "isFree": null
     },
     {
       "name": "V Sport",
       "isFree": null,
-      "keywords": "v sport -golf",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg"
+      "keywords": "v sport -golf"
     },
     {
       "name": "Sportkanalen",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/sportkanalen_.png"
-    },
-    {
-      "name": "TV6 (1994)",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png"
+      "isFree": null
     },
     {
       "name": "Viasat Film",
       "isFree": null,
-      "keywords": "viasat film -classic -comedy -drama -nordic",
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+      "keywords": "viasat film -classic -comedy -drama -nordic"
     },
     {
       "name": "Viasat Film Classic",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+      "isFree": null
     },
     {
       "name": "Viasat Film Comedy",
@@ -521,62 +439,56 @@
     },
     {
       "name": "Viasat Film Drama",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+      "isFree": null
     },
     {
       "name": "Viasat Film Nordic",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+      "isFree": null
     },
     {
       "name": "TV3 Sport 2",
-      "isFree": null,
-      "logo": "https://lo1.in/MALAY/tv3.png"
+      "isFree": null
     },
     {
-      "name": "MTV (European TV channel)",
+      "name": "MTV",
       "isFree": null,
       "priority": 8
     },
     {
       "name": "Nickelodeon Global",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
-    },
-    {
-      "name": "Nick Jr. (Scandinavian TV channel)",
       "isFree": null
     },
     {
-      "name": "Nicktoons (European TV channel)",
+      "name": "Nick Jr.",
       "isFree": null
     },
     {
-      "name": "Paramount Network (international)",
-      "isFree": null,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
-    },
-    {
-      "name": "VH1 (Danish TV channel)",
+      "name": "Nicktoons",
       "isFree": null
     },
     {
-      "name": "VH1 Classic (European TV channel)",
+      "name": "Paramount Network",
       "isFree": null
     },
     {
-      "name": "Club MTV (European TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+      "name": "VH",
+      "isFree": null
     },
     {
-      "name": "MTV Hits (European TV channel)",
+      "name": "VH1 Classic",
+      "isFree": null
+    },
+    {
+      "name": "Club MTV",
+      "isFree": null
+    },
+    {
+      "name": "MTV Hits",
       "isFree": null,
       "priority": 8
     },
     {
-      "name": "MTV Live (International TV channel)",
+      "name": "MTV Live",
       "isFree": null,
       "priority": 8
     },
@@ -597,46 +509,39 @@
     },
     {
       "name": "NickMusic EMEA",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": null
     },
     {
       "name": "SkyShowtime",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+      "isFree": null
     },
     {
       "name": "TV4 Hits",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/TV4.png"
+      "isFree": null
     },
     {
       "name": "SF-kanalen",
       "isFree": null
     },
     {
-      "name": "Kiosk (TV)",
+      "name": "Kiosk",
       "isFree": null
     },
     {
       "name": "C More Sport",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": null
     },
     {
       "name": "C More Action",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": null
     },
     {
       "name": "C More Emotion",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": null
     },
     {
       "name": "C More Film",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": null
     },
     {
       "name": "MTV Aitio",
@@ -645,13 +550,11 @@
     },
     {
       "name": "C More Kids",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": null
     },
     {
       "name": "TV4 Hockey",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/TV4.png"
+      "isFree": null
     },
     {
       "name": "MTV Viihde",
@@ -660,124 +563,89 @@
     },
     {
       "name": "C More Tennis",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
-    },
-    {
-      "name": "Kanal 5 (Denmark)",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
-    },
-    {
-      "name": "Canal 9 (Denmark)",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Investigation Discovery Europe",
       "isFree": null,
-      "logo": "https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png",
       "priority": 9
     },
     {
-      "name": "Eurosport 1",
+      "name": "Eurosport",
       "isFree": null
     },
     {
       "name": "Eurosport 2",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Q3WjH1Q.png"
+      "isFree": null
     },
     {
-      "name": "TLC (TV network)",
+      "name": "TLC",
       "isFree": null
     },
     {
       "name": "Discovery Channel Denmark",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Animal Planet Nordic",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
-    },
-    {
-      "name": "Discovery Science (European TV channel)",
-      "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
-      "priority": 9
-    },
-    {
-      "name": "Discovery HD",
+      "name": "Discovery Science",
       "isFree": null,
       "priority": 9
     },
     {
-      "name": "Cartoon Network (Western European TV channel)",
+      "name": "Discovery",
       "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+      "priority": 9
     },
     {
-      "name": "Cartoonito (European TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+      "name": "Cartoonito",
+      "isFree": null
     },
     {
       "name": "CNN International",
       "isFree": null,
-      "logo": "https://i.imgur.com/05S3yYZ.png",
       "priority": 10
     },
     {
       "name": "Travel Channel International",
-      "isFree": null,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+      "isFree": null
     },
     {
       "name": "7'eren",
       "isFree": null
     },
     {
-      "name": "Discovery World (international TV channel)",
+      "name": "Discovery World",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
       "name": "Boomerang Europe#Nordics",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
+      "isFree": null
     },
     {
-      "name": "Disney Channel (Scandinavian TV channel)",
+      "name": "Disney",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney Junior (Scandinavia)",
+      "name": "Disney Junior",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney XD (Scandinavia)",
+      "name": "Disney XD",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "National Geographic (Scandinavian TV channel)",
+      "name": "National Geographic",
       "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
       "priority": 9
     },
     {
-      "name": "National Geographic Wild (European TV channel)",
+      "name": "National Geographic Wild",
       "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
       "priority": 9
     },
     {
@@ -786,15 +654,13 @@
       "priority": 9
     },
     {
-      "name": "BBC News (international TV channel)",
+      "name": "BBC News",
       "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
       "name": "BBC Nordic",
       "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
@@ -803,15 +669,13 @@
       "priority": 10
     },
     {
-      "name": "BBC Earth (TV channel)",
+      "name": "BBC Earth",
       "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
       "name": "BBC Entertainment",
       "isFree": null,
-      "logo": "https://epg.pw/media/",
       "priority": 10
     },
     {
@@ -822,7 +686,6 @@
     {
       "name": "Al Jazeera English",
       "isFree": null,
-      "logo": "http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",
       "priority": 10
     },
     {
@@ -836,7 +699,6 @@
     {
       "name": "Euronews",
       "isFree": null,
-      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
       "priority": 10
     },
     {
@@ -846,53 +708,44 @@
     {
       "name": "France 24",
       "isFree": null,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 10
     },
     {
-      "name": "Mezzo TV",
-      "isFree": null,
-      "logo": "https://go4.pw/SPAIN/MEZL.png"
+      "name": "Mezzo",
+      "isFree": null
     },
     {
-      "name": "History (European TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png"
+      "name": "History",
+      "isFree": null
     },
     {
-      "name": "H2 (A&E Networks)",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png"
+      "name": "H 2",
+      "isFree": null
     },
     {
       "name": "Viasat Explore",
-      "isFree": null,
-      "logo": "https://i.imgur.com/DyT5pKB.png"
+      "isFree": null
     },
     {
       "name": "Viasat History",
       "isFree": null
     },
     {
-      "name": "E! (European TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "E!",
+      "isFree": null
     },
     {
       "name": "CNBC Europe",
-      "isFree": null,
-      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"
+      "isFree": null
     },
     {
       "name": "Sky News",
       "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",
       "priority": 10
     },
     {
       "name": "Glad Foundation",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f06n8vO4sevRsWwwzlkfTa3eRXt.jpg"
+      "isFree": null
     },
     {
       "name": "24Nordjyske",
@@ -903,9 +756,8 @@
       "isFree": null
     },
     {
-      "name": "Aabenraa Lokal TV",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png"
+      "name": "Aabenraa Lokal",
+      "isFree": null
     },
     {
       "name": "Aalborg+",
@@ -913,18 +765,15 @@
     },
     {
       "name": "Kanal København",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": null
     },
     {
       "name": "KTV Kolding",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png"
+      "isFree": null
     },
     {
       "name": "Boxer TV A/S",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHIKeUXQ0N8icn0KIyXDEsvHYmx.jpg"
+      "isFree": null
     },
     {
       "name": "Allente",
@@ -943,15 +792,14 @@
       "isFree": null
     },
     {
-      "name": "TV 2 Fyn",
+      "name": "TV2 Fyn",
       "isFree": true,
       "website": "https://www.tv2fyn.dk/",
       "priority": 9
     },
     {
       "name": "TV Syd",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "TV3 MAX",
@@ -965,9 +813,8 @@
       "website": "http://www.6-eren.dk/"
     },
     {
-      "name": "DR2",
+      "name": "DR 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/DENMARK/DR2.png",
       "website": "http://www.dr.dk/dr2/",
       "priority": 9
     },
@@ -981,29 +828,25 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.natgeotv.com/dk",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/dk/wild",
       "priority": 9
     }
   ],
   "Kids": [
     {
-      "name": "Disney Channel HD",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "priority": 9
     },
     {
       "name": "DR Ramasjang",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
       "website": "http://www.dr.dk/Ramasjang/",
       "priority": 10
     },
@@ -1023,7 +866,6 @@
     {
       "name": "Hope Channel Danmark",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopechannel.dk/"
     },
     {
@@ -1048,36 +890,31 @@
   "Movies & Series": [
     {
       "name": "Paramount Network",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png"
+      "isFree": true
     }
   ],
   "Sports": [
     {
       "name": "Sport Live",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.sport-live.dk/"
     },
     {
       "name": "TV 2 Sport",
       "isFree": true,
       "keywords": "tv 2 sport -x",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sport.tv2.dk/",
       "priority": 9
     },
     {
       "name": "TV 2 Sport X",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sport.tv2.dk/sportx",
       "priority": 9
     },
     {
       "name": "TV3 Sport",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://www.tv3sport.dk/"
     }
   ],
@@ -1085,7 +922,6 @@
     {
       "name": "Uptown Classic",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://uptown.tv/"
     },
     {
@@ -1094,15 +930,13 @@
       "website": "https://uptown.tv/"
     },
     {
-      "name": "Uptown Music TV",
+      "name": "Uptown Music",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://uptown.tv/"
     },
     {
-      "name": "VH1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
+      "name": "VH",
+      "isFree": true
     }
   ]
 }

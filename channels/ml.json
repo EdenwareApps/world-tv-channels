@@ -1,145 +1,120 @@
 {
   "Entertainment": [
     {
-      "name": "ORTM 1",
+      "name": "ORTM",
       "isFree": true,
       "keywords": "ortm 1 | ortm1",
-      "shortName": "ORTM1",
-      "logo": "https://go4.pw/AFRICA/MALI/ORTM.png"
+      "shortName": "ORTM"
     },
     {
       "name": "9TV",
       "isFree": true
     },
     {
-      "name": "Advance TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3dJAkDtcGAKCxFmMy9zHVzZaVo.jpg"
+      "name": "Advance",
+      "isFree": true
     },
     {
-      "name": "Africable TV",
+      "name": "Africable",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/MALI/AFRICABLE.png",
       "website": "http://www.africabletelevision.com/",
       "priority": 4
     },
     {
-      "name": "Alafia TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/alafia.png"
+      "name": "Alafia",
+      "isFree": true
     },
     {
-      "name": "Balanzan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Balanzan",
+      "isFree": true
     },
     {
-      "name": "Beledougou TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Beledougou",
+      "isFree": true
     },
     {
-      "name": "Bouctou TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bouctou",
+      "isFree": true
     },
     {
-      "name": "Cherifla TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CHERIFAL.png"
+      "name": "Cherifla",
+      "isFree": true
     },
     {
-      "name": "Danaya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Danaya",
+      "isFree": true
     },
     {
-      "name": "Energie TV",
+      "name": "Energie",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://energietv271817064.wordpress.com/"
     },
     {
-      "name": "Jiguiya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Jiguiya",
+      "isFree": true
     },
     {
-      "name": "Kayes TV",
+      "name": "Kayes",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kayesinfos.com/"
     },
     {
-      "name": "Kene TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kene",
+      "isFree": true
     },
     {
-      "name": "Liberte TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lX5Vd9xoAswfr2fRrheJ9sksJxs.jpg"
+      "name": "Liberte",
+      "isFree": true
     },
     {
-      "name": "Mi TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12qaWw3KntFPoOCEJFSCLAuL7rN.jpg"
+      "name": "Mi",
+      "isFree": true
     },
     {
-      "name": "Mousso TV",
+      "name": "Mousso",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://i.imgur.com/egQqztS.jpg"
     },
     {
-      "name": "Ndaar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ndaar",
+      "isFree": true
     },
     {
       "name": "ORTM 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/GQ4fHsv.png",
       "website": "https://www.ortm.ml/ortm2"
     },
     {
-      "name": "Renouveau TV",
+      "name": "Renouveau",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/MALI/RENOUVEAU TV.png",
       "website": "https://renouveautv.africa/"
     },
     {
-      "name": "Segou TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Segou",
+      "isFree": true
     },
     {
-      "name": "Stella TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g10YPJa9ePy1kKmTusAeDXBTeAl.jpg"
+      "name": "Stella",
+      "isFree": true
     },
     {
-      "name": "Tafing TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tafing",
+      "isFree": true
     },
     {
-      "name": "TM1 TV",
+      "name": "TM",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/MALI/TM1 TV.png",
       "website": "https://www.tm1tv.com/"
     },
     {
-      "name": "Tropic TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg"
+      "name": "Tropic",
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "AES TV",
+      "name": "AES",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://aes.ml/"
     },
     {
@@ -150,41 +125,34 @@
     {
       "name": "Joliba TV News",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/MALI/JOLIBA.png",
       "website": "https://www.jolibatv.com/"
     },
     {
-      "name": "M7 TV",
+      "name": "M 7",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/M7 TV.png",
       "website": "https://m7tv.ml/"
     },
     {
-      "name": "Mande TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/MALI/MANDE TV.png"
+      "name": "Mande",
+      "isFree": true
     }
   ],
   "Religious": [
     {
-      "name": "Ambiance TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/51898f68270bee2d6f7b87087a37c833.png"
+      "name": "Ambiance",
+      "isFree": true
     },
     {
-      "name": "Anwar TV",
-      "isFree": true,
-      "logo": "https://go4.pw/bein/AL ANWAR 2.png"
+      "name": "Anwar",
+      "isFree": true
     },
     {
-      "name": "Bachir TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bachir",
+      "isFree": true
     },
     {
-      "name": "Dambe TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dambe",
+      "isFree": true
     },
     {
       "name": "ECF-TV",
@@ -197,41 +165,34 @@
       "website": "https://ftntv.tv/"
     },
     {
-      "name": "Horonya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Horonya",
+      "isFree": true
     },
     {
-      "name": "Nieta TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/5RoXTaN.png"
+      "name": "Nieta",
+      "isFree": true
     },
     {
       "name": "Tele Frequence Sante",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
-      "name": "ZAHRA TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/ALZAHRA.png"
+      "name": "ZAHRA",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
-      "name": "Benkouma TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Benkouma",
+      "isFree": true
     },
     {
       "name": "ETV Afrique",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png"
+      "isFree": true
     },
     {
-      "name": "Pinal TV",
+      "name": "Pinal",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://pinaltv.ml/"
     },
     {
@@ -241,9 +202,8 @@
   ],
   "Music Videos": [
     {
-      "name": "D3 TV",
+      "name": "D 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFEIBtB.png",
       "website": "https://d3tv.net/"
     }
   ],
@@ -251,7 +211,6 @@
     {
       "name": "MANDEKA",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/mand.png",
       "website": "https://www.canalplus.com/ml/chaines/mandeka"
     }
   ]

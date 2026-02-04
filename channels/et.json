@@ -1,61 +1,51 @@
 {
   "Entertainment": [
     {
-      "name": "Addis TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ADDIS_TV.png"
+      "name": "Addis",
+      "isFree": true
     },
     {
       "name": "Abbay TV Entertainment",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://abbaytv.com/"
     },
     {
       "name": "Addis Media Network",
       "isFree": true,
       "keywords": "addis media network -plus",
-      "logo": "https://go4.pw/AFRICA/ADDIS_TV.png",
       "website": "https://www.amn.gov.et/"
     },
     {
       "name": "Addis Media Network Plus",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ADDIS_TV.png",
       "website": "https://www.amn.gov.et/"
     },
     {
-      "name": "Afri Health TV",
+      "name": "Afri Health",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D7qEdPHCKVHihtaJDAys2HAi0L.jpg",
       "website": "https://afrihealth.net/"
     },
     {
-      "name": "Amhara TV",
+      "name": "Amhara",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/AFRICA.png",
       "website": "https://www.amharaweb.com/"
     },
     {
-      "name": "A Plus TV",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/619307.png"
+      "name": "A Plus",
+      "isFree": true
     },
     {
-      "name": "Balageru TV",
+      "name": "Balageru",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.balagerutv.com/"
     },
     {
-      "name": "BGM TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "BGM",
+      "isFree": true
     },
     {
-      "name": "Bisrat TV",
+      "name": "Bisrat",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bisrattv.com/"
     },
     {
@@ -69,520 +59,434 @@
     },
     {
       "name": "Channel 29",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "Debub TV",
+      "name": "Debub",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://srta.gov.et/"
     },
     {
-      "name": "Dimtsi Weyane TV",
+      "name": "Dimtsi Weyane",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://dimtsiweyane.co/"
     },
     {
-      "name": "Dire TV",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png"
+      "name": "Dire",
+      "isFree": true
     },
     {
       "name": "EBC",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://www.ebc.et/"
     },
     {
       "name": "ETV Afaan Oromoo",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
       "website": "https://ebc.et/",
       "priority": 9
     },
     {
       "name": "ETV Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
       "website": "http://www.ebc.et/",
       "priority": 9
     },
     {
-      "name": "Fana TV",
+      "name": "Fana",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/FANA_TV.png",
       "website": "https://www.fanabc.com/%e1%8d%8b%e1%8a%93-%e1%89%b2%e1%89%aa/",
       "priority": 9
     },
     {
-      "name": "FIB TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "FIB",
+      "isFree": true
     },
     {
-      "name": "GAMO TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "GAMO",
+      "isFree": true
     },
     {
       "name": "Hadiya.TV",
       "isFree": true
     },
     {
-      "name": "Harari TV",
+      "name": "Harari",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://hararimassmedia.gov.et/"
     },
     {
-      "name": "Kaffa TV",
+      "name": "Kaffa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kaffatelevision.com/"
     },
     {
-      "name": "Kana TV",
+      "name": "Kana",
       "isFree": true,
       "website": "https://kanatelevision.com/",
       "priority": 9
     },
     {
-      "name": "Kegeberew TV",
+      "name": "Kegeberew",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kegeberew.com/"
     },
     {
-      "name": "Kembata TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kembata",
+      "isFree": true
     },
     {
       "name": "Menelik Television",
       "isFree": true
     },
     {
-      "name": "MO'AA TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "MO'AA",
+      "isFree": true
     },
     {
-      "name": "Nahoo TV",
+      "name": "Nahoo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.thenahootv.com/"
     },
     {
       "name": "NBC Ethiopia",
       "isFree": true,
-      "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
       "website": "https://nbcethiopia.com/",
       "priority": 9
     },
     {
       "name": "Oromia Broadcasting Service",
       "isFree": true,
-      "logo": "https://i.imgur.com/ZkBEAp7.png",
       "priority": 9
     },
     {
       "name": "Prime Media",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
+      "isFree": true
     },
     {
-      "name": "Qubee TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Qubee",
+      "isFree": true
     },
     {
-      "name": "River TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg"
+      "name": "River",
+      "isFree": true
     },
     {
       "name": "Sidaama Media Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://www.sidamamedianetwork.org/"
     },
     {
-      "name": "Somali Region TV",
-      "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/SOMALI_NATIONAL_TV.png"
+      "name": "Somali Region",
+      "isFree": true
     },
     {
-      "name": "TBS TV",
+      "name": "TBS",
       "isFree": true,
       "website": "https://tvtbs.com/"
     },
     {
-      "name": "Tigrai TV",
+      "name": "Tigrai",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tigraitv.com/en/home/"
     },
     {
       "name": "TV 9 Ethio",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Ifa Fayyinaa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvifa.org/"
     },
     {
-      "name": "Vision TV Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Vision",
+      "isFree": true
     },
     {
-      "name": "Waliif TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Waliif",
+      "isFree": true
     },
     {
-      "name": "Winners Way TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngFYme3fGnwkssHkPXZr3peI6iW.jpg"
+      "name": "Winners Way",
+      "isFree": true
     },
     {
-      "name": "Wolaita TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Wolaita",
+      "isFree": true
     },
     {
-      "name": "YA TV",
+      "name": "YA",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/MANO YA NA MANO TV.png",
       "website": "https://www.yaet.tv/"
     },
     {
-      "name": "Ye Ethiopia Lijoch TV",
+      "name": "Ye Ethiopia Lijoch",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/YEMEN/YEMEN.png",
       "website": "http://www.yeethiopialijoch.com/"
     },
     {
-      "name": "Yegna TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Yegna",
+      "isFree": true
     }
   ],
   "Religious": [
     {
-      "name": "7 Spirits TV",
+      "name": "7 Spirits",
       "isFree": true
     },
     {
-      "name": "Africa TV1",
+      "name": "Africa TV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "http://africatv1.tv/"
     },
     {
-      "name": "Anointing TV Channel",
+      "name": "Anointing",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.anointingtv.org/"
     },
     {
-      "name": "Arara TV",
+      "name": "Arara",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.araratv.tv/"
     },
     {
-      "name": "As-Sunnah TV",
+      "name": "As-Sunnah",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.as-sunnah.tv/"
     },
     {
-      "name": "Bethel TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/g2PmhMXQ/betheltv.png"
+      "name": "Bethel",
+      "isFree": true
     },
     {
-      "name": "Bilal TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bilal",
+      "isFree": true
     },
     {
       "name": "Catholic TV Ethiopia",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "isFree": true
     },
     {
-      "name": "Christ Army TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg"
+      "name": "Christ Army",
+      "isFree": true
     },
     {
-      "name": "Christ Jesus TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg"
+      "name": "Christ Jesus",
+      "isFree": true
     },
     {
-      "name": "Christ Mission TV",
+      "name": "Christ Mission",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg",
       "website": "https://christmissionministry.org/cmtv/"
     },
     {
-      "name": "Daewa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Daewa",
+      "isFree": true
     },
     {
-      "name": "EOTC TV",
+      "name": "EOTC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ethiopianorthodox.org/"
     },
     {
-      "name": "Evangelical TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Evangelical",
+      "isFree": true
     },
     {
-      "name": "Fares TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Fares",
+      "isFree": true
     },
     {
-      "name": "Glory of God TV",
+      "name": "Glory of God",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
       "website": "https://www.gloryofgod.tv/contact/"
     },
     {
-      "name": "GMM TV",
+      "name": "GMM",
       "isFree": true,
-      "logo": "https://i.imgur.com/uARba6N.png",
       "website": "https://gmmtv.org/"
     },
     {
-      "name": "Gohe TV",
+      "name": "Gohe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.gohetv.com/"
     },
     {
-      "name": "Gospel TV",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Gospel",
+      "isFree": true
     },
     {
-      "name": "Hamiltan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Hamiltan",
+      "isFree": true
     },
     {
-      "name": "Harima TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Harima",
+      "isFree": true
     },
     {
-      "name": "Heaven TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJOk8iJ3OUauwB8Oxn1tVQSL13J.jpg"
+      "name": "Heaven",
+      "isFree": true
     },
     {
-      "name": "Heywet TV",
+      "name": "Heywet",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ekhc.net/"
     },
     {
-      "name": "Holy Spirit TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg"
+      "name": "Holy Spirit",
+      "isFree": true
     },
     {
       "name": "Hope Channel Ethiopia",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg"
+      "isFree": true
     },
     {
-      "name": "Jesus TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg"
+      "name": "Jesus",
+      "isFree": true
     },
     {
-      "name": "JPS TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "JPS",
+      "isFree": true
     },
     {
-      "name": "JSL TV",
+      "name": "JSL",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.jslchurch.com/"
     },
     {
-      "name": "Kale Awadi TV",
+      "name": "Kale Awadi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kaleawadi.tv/contact-us/"
     },
     {
       "name": "LJ TV Worldwide",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Marsil TV",
+      "name": "Marsil",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.marsiltv.com/"
     },
     {
-      "name": "Minber TV",
+      "name": "Minber",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://minbertv.com/"
     },
     {
-      "name": "Nesiha TV",
+      "name": "Nesiha",
       "isFree": true,
-      "logo": "https://i.imgur.com/rqEyzjE.png",
       "website": "http://www.nesiha.tv/"
     },
     {
-      "name": "Nuuralhudaa TV",
+      "name": "Nuuralhudaa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://nuuralhudaa.com/"
     },
     {
-      "name": "Nuur TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nuur",
+      "isFree": true
     },
     {
       "name": "Oromia Clergy Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng11hk3cduAXHXcEYL8mCx6xkxt.jpg",
       "priority": 9
     },
     {
-      "name": "Presence TV Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fM9CbvF6wCsZakDrA72OtKfwXfG.jpg"
+      "name": "Presence",
+      "isFree": true
     },
     {
-      "name": "Zawya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Zawya",
+      "isFree": true
     }
   ],
   "News": [
     {
       "name": "Abbay TV News",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://abbaytv.com/"
     },
     {
-      "name": "Afar TV",
+      "name": "Afar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.afmma.gov.et/"
     },
     {
-      "name": "Asham TV",
+      "name": "Asham",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.ashamtv.com/"
     },
     {
       "name": "ETV Languages",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
       "website": "http://www.ebc.et/",
       "priority": 9
     },
     {
       "name": "ETV News",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
       "website": "http://www.ebc.et/",
       "priority": 9
     },
     {
-      "name": "Hagerie TV",
+      "name": "Hagerie",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://hagerie.tv/"
     },
     {
-      "name": "Jeilu TV",
+      "name": "Jeilu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.jeilumedia.com/"
     },
     {
-      "name": "Mereja TV",
+      "name": "Mereja",
       "isFree": true,
-      "logo": "https://i.imgur.com/PaAacxF.png",
       "website": "https://mereja.com/main/"
     },
     {
-      "name": "Nabad TV",
+      "name": "Nabad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://nabadnews.com/"
     },
     {
       "name": "OBN",
       "isFree": true,
       "keywords": "obn -gaammee -horn of africa",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/09/29/20140929061634138690_60.jpg",
       "website": "https://obn.com.et/"
     },
     {
       "name": "OBN Horn of Africa",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/OBNBIH.png",
       "website": "https://obn.com.et/"
     },
     {
-      "name": "Walta TV",
+      "name": "Walta",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://waltainfo.com/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Ahadu TV",
+      "name": "Ahadu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ahaduradio.com/%e1%8a%a0%e1%88%90%e1%8b%b1-%e1%89%b2%e1%89%aa/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "ARTS TV",
+      "name": "ARTS",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gk38G7JcGJY6aR4cdrZ8sftSsv.jpg",
       "website": "http://www.artstv.tv/"
     },
     {
       "name": "Canal+ Discover",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/DP-Shadow-Logo.png",
       "website": "https://www.canalplus-ethiopia.com/"
     },
     {
-      "name": "Ministry of Education TV",
+      "name": "Ministry of Education",
       "isFree": true,
-      "logo": "https://i.imgur.com/pEqDDHl.png",
       "website": "http://www.moe.gov.et/"
     },
     {
@@ -595,11 +499,10 @@
     {
       "name": "Canal+ Action",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
       "website": "https://www.canalplus-ethiopia.com/"
     },
     {
-      "name": "Canal+ Cinema 1",
+      "name": "Canal+ Cinema",
       "isFree": true,
       "website": "https://www.canalplus-ethiopia.com/"
     },
@@ -609,15 +512,13 @@
       "website": "https://www.canalplus-ethiopia.com/"
     },
     {
-      "name": "Canal+ Novela 1",
+      "name": "Canal+ Novela",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NOVELA MAGIC.png",
       "website": "https://www.canalplus-ethiopia.com/"
     },
     {
       "name": "Canal+ Novela 2",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NOVELA MAGIC.png",
       "website": "https://www.canalplus-ethiopia.com/"
     }
   ],
@@ -630,20 +531,17 @@
     {
       "name": "Canal+ Jumbo",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTrDxlTrqojxyNt82BbTSbJHhWU.jpg",
       "website": "https://www.canalplus-ethiopia.com/"
     },
     {
       "name": "ETV Yelijochalem",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png",
       "website": "http://www.ebc.et/",
       "priority": 9
     },
     {
       "name": "OBN Gaammee",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/OBNBIH.png",
       "website": "https://obn.com.et/"
     }
   ],
@@ -651,7 +549,6 @@
     {
       "name": "Canal+ Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/Q3WjH1Q.png",
       "website": "https://www.canalplus-ethiopia.com/"
     }
   ]

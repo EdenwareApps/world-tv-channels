@@ -1,69 +1,56 @@
 {
   "Entertainment": [
     {
-      "name": "Africa TV1",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Africa TV",
+      "isFree": true
     },
     {
-      "name": "Africa TV2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Africa TV 2",
+      "isFree": true
     },
     {
-      "name": "Africa TV3",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Africa TV 3",
+      "isFree": true
     },
     {
-      "name": "Emmanuel TV",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "name": "Emmanuel",
+      "isFree": true
     },
     {
       "name": "Lagos Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiwJyJtZZbRewTGm5UrI9stI0E6.jpg"
+      "isFree": true
     },
     {
       "name": "NTA International",
-      "isFree": true,
-      "shortName": "NI",
-      "logo": "https://go4.pw/AFRICA/NTA.png"
+      "isFree": true
     },
     {
-      "name": "ABS TV",
+      "name": "ABS",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/abscbn.png",
       "website": "https://absradiotelevision.com/"
     },
     {
-      "name": "Afia TV",
+      "name": "Afia",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/AL AFIA TV.png",
       "website": "https://www.afiatv.net/"
     },
     {
-      "name": "Africa Health TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Africa Health",
+      "isFree": true
     },
     {
       "name": "Africa Magic Family",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-family"
     },
     {
       "name": "Africa Magic Hausa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-hausa"
     },
     {
       "name": "Africa Magic Igbo",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-igbo"
     },
     {
@@ -74,68 +61,57 @@
     {
       "name": "Africa Magic Urban",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-urban"
     },
     {
       "name": "Africa Magic Yoruba",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-yoruba"
     },
     {
-      "name": "Al-Irshaad TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Al-Irshaad",
+      "isFree": true
     },
     {
-      "name": "Alu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Alu",
+      "isFree": true
     },
     {
-      "name": "Approval TV",
+      "name": "Approval",
       "isFree": true,
       "website": "https://live.approvaltv.com"
     },
     {
-      "name": "ARCN TV",
+      "name": "ARCN",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://arcn.gov.ng/"
     },
     {
-      "name": "Area Ten TV",
+      "name": "Area Ten",
       "isFree": true,
-      "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
       "website": "https://areaten.tv/"
     },
     {
       "name": "Arewa 24",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/AREWA 24.png",
       "website": "https://arewa24.com/"
     },
     {
       "name": "ARTV Kano",
-      "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/3.png"
+      "isFree": true
     },
     {
-      "name": "Aso Radio TV",
+      "name": "Aso Radio",
       "isFree": true,
-      "logo": "https://go4.pw/KURDISH/ASO SPORT HD.png",
       "website": "https://www.asoradiotv.com/"
     },
     {
-      "name": "BCOS TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "BCOS",
+      "isFree": true
     },
     {
-      "name": "BCS StarCross TV",
+      "name": "BCS StarCross",
       "isFree": true,
-      "logo": "https://i.imgur.com/VKv1Y6p.png",
       "website": "http://ooo-bcsonline.org/starcross-tv/"
     },
     {
@@ -172,225 +148,187 @@
     {
       "name": "Betbiga Premier League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "https://www.betbiga.com/"
     },
     {
       "name": "BetBonanza Colour",
       "isFree": true,
-      "logo": "https://media.unreel.me/prod/rewardedtv/logo/8285be60-cb98-453f-a10e-c29579c5bda2",
       "website": "https://betbonanza.com/"
     },
     {
       "name": "BetBonanza EPL",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://betbonanza.com/"
     },
     {
       "name": "BetKing Italiano",
       "isFree": true,
-      "logo": "http://epg.one/img2/88021.png",
       "website": "https://www.betking.com/"
     },
     {
       "name": "BetKing Live League",
       "isFree": true,
-      "logo": "http://epg.one/img2/88021.png",
       "website": "https://www.betking.com/"
     },
     {
       "name": "BigiBet EPL",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.bigibet.com/"
     },
     {
       "name": "BigiBet Lucky 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg",
       "website": "https://www.bigibet.com/"
     },
     {
-      "name": "Blackdrum TV",
+      "name": "Blackdrum",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://blackdrumtv.com/"
     },
     {
       "name": "Bonanza Ballz",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://betbonanza.com/bonanzaballz"
     },
     {
-      "name": "Bride TV",
+      "name": "Bride",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYglNgV8BYrDxaXPMwi7jCecAdt.jpg",
       "website": "https://bridetv.org/"
     },
     {
-      "name": "Bright Radio TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7ik01FJKBSEoy0L0PKz7eEf9kI.jpg"
+      "name": "Bright Radio",
+      "isFree": true
     },
     {
       "name": "BRTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9f1bfe0500eebc4c26120d69ed93f530.png",
       "website": "https://brtv24.live/"
     },
     {
-      "name": "CAC TV",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "name": "CAC",
+      "isFree": true
     },
     {
-      "name": "Capital TV",
+      "name": "Capital",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/28/20150928130434713658_68.png",
       "website": "https://capitaltvnigeria.com/"
     },
     {
-      "name": "Champions TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg"
+      "name": "Champions",
+      "isFree": true
     },
     {
-      "name": "DBN World TV",
+      "name": "DBN World",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "http://atechgroupuk.com/DBNTV/DBNTV.html"
     },
     {
-      "name": "Dexterity TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dexterity",
+      "isFree": true
     },
     {
       "name": "DRTV Warri",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DR.png",
       "website": "https://www.dbswarri.com/"
     },
     {
-      "name": "EbonyLife TV",
+      "name": "EbonyLife",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://ebonylifetv.com/"
     },
     {
-      "name": "Estars TV",
+      "name": "Estars",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://estarstv.telly4africa.com/"
     },
     {
-      "name": "Fortis TV",
+      "name": "Fortis",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://fortistv.com/"
     },
     {
       "name": "GoTV Guide",
       "isFree": true,
-      "logo": "https://i.imgur.com/11V0QSp.png",
       "website": "https://www.gotvafrica.com/"
     },
     {
-      "name": "Hi-Impact TV",
+      "name": "Hi-Impact",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.hi-impactstudios.com/tv"
     },
     {
-      "name": "Hijrah TV",
+      "name": "Hijrah",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/HIJRAH.png",
       "website": "http://hijrahtv.com/"
     },
     {
-      "name": "Hip TV",
+      "name": "Hip",
       "isFree": true,
       "keywords": "hip tv | hiptv",
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "http://www.hiphopworldmagazine.com/"
     },
     {
-      "name": "Hits TV",
-      "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+      "name": "Hits",
+      "isFree": true
     },
     {
       "name": "ITV Benin",
       "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png",
       "website": "https://www.itvradiong.com/live-benin/"
     },
     {
-      "name": "JKD TV",
+      "name": "JKD",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.jkdtv.com/"
     },
     {
-      "name": "KAFTAN TV",
+      "name": "KAFTAN",
       "isFree": true,
       "keywords": "kaftan tv -hausa -yoruba",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kaftan.tv/"
     },
     {
       "name": "KAFTAN TV Hausa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kaftan.tv/"
     },
     {
       "name": "KAFTAN TV Yoruba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kaftan.tv/"
     },
     {
-      "name": "Kingsview TV",
+      "name": "Kingsview",
       "isFree": true,
       "website": "https://kingsview.tv/"
     },
     {
       "name": "KTTV",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/FOX.png"
+      "isFree": true
     },
     {
-      "name": "Kwara TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kwara",
+      "isFree": true
     },
     {
       "name": "Life Center Network",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png"
+      "isFree": true
     },
     {
       "name": "Mama Africa Hausa",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ6TOtV6WdWHphZfJldvsCdjmb1.jpg"
+      "isFree": true
     },
     {
       "name": "Mama Africa Igbo",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ6TOtV6WdWHphZfJldvsCdjmb1.jpg"
+      "isFree": true
     },
     {
       "name": "Mama Africa Yoruba",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ6TOtV6WdWHphZfJldvsCdjmb1.jpg"
+      "isFree": true
     },
     {
-      "name": "Manara TV",
+      "name": "Manara",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.manaratv.com/"
     },
     {
@@ -398,13 +336,12 @@
       "isFree": true
     },
     {
-      "name": "Muhasa TV",
+      "name": "Muhasa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://muhasatvr.ng/"
     },
     {
-      "name": "NBS TV",
+      "name": "NBS",
       "isFree": true,
       "website": "https://nbs.na.gov.ng/"
     },
@@ -420,67 +357,57 @@
     {
       "name": "Nigezie Xtreme",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg",
       "website": "https://nigezie.tv/"
     },
     {
-      "name": "Nollywood Capital TV",
+      "name": "Nollywood Capital",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NEGIRIA/NOLLYWOOD .png",
       "website": "https://nollywoodcapitaltv.com/watch/46626541"
     },
     {
       "name": "NTA",
       "isFree": true,
       "keywords": "nta -2 -entertainment -hausa -igbo -international -knowledge -lagos channel 10 -news 24 -parliament -sports 24 -yoruba",
-      "logo": "https://images.iptvmate.net/tvglogo/2f92813a48b91448a4793bcb6fd57cbb.png",
       "website": "https://www.nta.ng/",
       "priority": 9
     },
     {
       "name": "NTA 2",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "NTA Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "NTA Hausa",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "NTA Igbo",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "NTA Lagos Channel 10",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.ntalagoschannel10.gov.ng/"
     },
     {
       "name": "NTA Parliament",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "NTA Yoruba",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
-      "name": "Ogun State TV",
+      "name": "Ogun State",
       "isFree": true,
       "website": "http://ogtv.com.ng/about-new/"
     },
@@ -492,48 +419,40 @@
     {
       "name": "ONTV Nigeria",
       "isFree": true,
-      "logo": "https://i.imgur.com/EzODUBO.png",
       "website": "https://ontvsite.com/"
     },
     {
-      "name": "Orisun TV",
+      "name": "Orisun",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.orisun.tv/"
     },
     {
-      "name": "OSBC TV",
+      "name": "OSBC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://osbcng.org/"
     },
     {
-      "name": "Our Root TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg"
+      "name": "Our Root",
+      "isFree": true
     },
     {
       "name": "Our Yotomi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-yotomi/"
     },
     {
       "name": "Our Zone",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-zone/"
     },
     {
-      "name": "Pathway TV",
+      "name": "Pathway",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://pathwaytv.com/"
     },
     {
-      "name": "Peoples TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Peoples",
+      "isFree": true
     },
     {
       "name": "Plus TV Africa",
@@ -543,18 +462,15 @@
     {
       "name": "Pop Central",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.popcentraltv.com/"
     },
     {
-      "name": "Praise TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKARMA.png"
+      "name": "Praise",
+      "isFree": true
     },
     {
-      "name": "Quest TV",
+      "name": "Quest",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
       "website": "https://questfmtv.com/"
     },
     {
@@ -562,253 +478,206 @@
       "isFree": true
     },
     {
-      "name": "Rahma TV",
+      "name": "Rahma",
       "isFree": true,
-      "logo": "https://go4.pw/ISLAMIC/ALRAHMATV.png",
       "website": "https://rahmatv.com/"
     },
     {
-      "name": "Rapid TV",
+      "name": "Rapid",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpm03Dh3qpfbX7BqiMGw9boVZvC.jpg",
       "website": "https://www.rapidtvnetwork.com/"
     },
     {
-      "name": "Rave TV",
+      "name": "Rave",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/RAVE TV.png",
       "website": "http://raveng.tv/"
     },
     {
       "name": "Remite TV Plus",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "RSTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4ada0e1cc084dc0ecbcc4cf61a77aa08.png"
-    },
-    {
-      "name": "Salvation TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
-      "website": "https://www.salvationtv.tv/"
-    },
-    {
-      "name": "Sebioba Royal TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znk6frNlEd90QATu40qsh997KvU.jpg"
-    },
-    {
-      "name": "Shalom TV",
       "isFree": true
     },
     {
-      "name": "Shekinah TV",
+      "name": "RSTV",
+      "isFree": true
+    },
+    {
+      "name": "Salvation",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/Shekinah.png",
+      "website": "https://www.salvationtv.tv/"
+    },
+    {
+      "name": "Sebioba Royal",
+      "isFree": true
+    },
+    {
+      "name": "Shalom",
+      "isFree": true
+    },
+    {
+      "name": "Shekinah",
+      "isFree": true,
       "website": "https://www.saigmt.org/"
     },
     {
-      "name": "Silverbird TV",
+      "name": "Silverbird",
       "isFree": true,
-      "logo": "https://i.imgur.com/9jcV9oG.png",
       "website": "https://silverbirdtv.com/"
     },
     {
-      "name": "Soundcity TV",
+      "name": "Soundcity",
       "isFree": true,
-      "logo": "https://i.imgur.com/fKtPcT4.png",
       "website": "https://soundcity.tv/"
     },
     {
-      "name": "Spice TV",
+      "name": "Spice",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRPviMZG6PdAFDHQ1fFnWE9f25B.jpg",
       "website": "https://myspice.tv/"
     },
     {
       "name": "Spirit & Bride Network",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg"
+      "isFree": true
     },
     {
-      "name": "SUM TV",
+      "name": "SUM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbs33BhAYI9rdzpwsWCt6L6Z3PI.jpg",
       "website": "https://www.supamediatv.com/"
     },
     {
-      "name": "Sunna TV",
+      "name": "Sunna",
       "isFree": true,
-      "keywords": "sunna tv -2 -savana",
-      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png"
+      "keywords": "sunna tv -2 -savana"
     },
     {
       "name": "Sunna TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png",
       "website": "http://sunnah-tv.com/"
     },
     {
       "name": "Sunna TV Savana",
       "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png",
       "website": "http://sunnah-tv.com/"
     },
     {
       "name": "Surebet 247 Num Games",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.surebet247.com/"
     },
     {
-      "name": "Synagogue TV",
+      "name": "Synagogue",
       "isFree": true,
-      "logo": "https://i.imgur.com/MOaBr9M.png",
       "website": "https://synagoguetv.org/"
     },
     {
-      "name": "Tambarin Hausa TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png"
+      "name": "Tambarin Hausa",
+      "isFree": true
     },
     {
-      "name": "Tattase TV",
+      "name": "Tattase",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tattase.tv/"
     },
     {
-      "name": "Televista TV",
+      "name": "Temple",
       "isFree": true,
-      "website": "https://www.televista.me/"
-    },
-    {
-      "name": "Temple TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://jctm.org/"
     },
     {
-      "name": "The Church TV",
-      "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "name": "The Church",
+      "isFree": true
     },
     {
-      "name": "The Wedding Channel",
+      "name": "The Wedding",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://weddingchannelafrica.com/"
     },
     {
-      "name": "TNT TV",
+      "name": "TNT",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
       "website": "https://tnttv247.com/"
     },
     {
-      "name": "Tozali TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tozali",
+      "isFree": true
     },
     {
-      "name": "Trust TV",
+      "name": "Trust",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uhA9ZCJMJlZWnlW3e3b53GC7EQ.jpg",
       "website": "https://trusttv.com/"
     },
     {
-      "name": "Trybe TV",
+      "name": "Trybe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.trybe.tv/"
     },
     {
       "name": "TVC",
       "isFree": true,
       "keywords": "tvc -news",
-      "logo": "https://i.imgur.com/bUVp1U1.png",
       "website": "https://www.tvcentertainment.tv/"
     },
     {
       "name": "TV Taraba",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Ulaff TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ulaff",
+      "isFree": true
     },
     {
-      "name": "Urban TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBmON7qbru3VvV6AaorgtXhMmF.jpg"
+      "name": "Urban",
+      "isFree": true
     },
     {
-      "name": "Viewer TV",
+      "name": "Viewer",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://viewertv.com.ng/"
     },
     {
-      "name": "Views Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Views",
+      "isFree": true
     },
     {
-      "name": "Waffi TV",
+      "name": "Waffi",
       "isFree": true,
-      "logo": "https://i.imgur.com/3uEuzVH.jpeg",
       "website": "https://waffitv.com/"
     },
     {
-      "name": "Wakaati TV",
+      "name": "Wakaati",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.wakaati.com/"
     },
     {
-      "name": "Wap TV",
+      "name": "Wap",
       "isFree": true,
-      "logo": "https://i.postimg.cc/T1nSs4XD/waptv.png",
       "website": "https://waptvchannel.com/"
     },
     {
       "name": "Wazobia Max TV Abuja",
       "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/WAZOBIA_MAX.png",
       "website": "https://www.wazobiamax.ng/abuja"
     },
     {
       "name": "Wazobia Max TV Nigeria",
       "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/WAZOBIA_MAX.png",
       "website": "https://www.wazobiamax.ng/"
     },
     {
       "name": "Wazobia Max TV Port-Harcourt",
       "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/WAZOBIA_MAX.png",
       "website": "https://www.wazobiamax.ng/ph"
     },
     {
-      "name": "Wazobia TV",
-      "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/WAZOBIA_MAX.png"
+      "name": "Wazobia",
+      "isFree": true
     },
     {
-      "name": "Western Spring TV",
+      "name": "Western Spring",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
       "website": "https://westernspring.tv/"
     },
     {
       "name": "WGB Champions League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
       "website": "https://www.winnersgoldenbet.com/"
     },
     {
@@ -824,41 +693,34 @@
     {
       "name": "WGB Live Dog Race",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.winnersgoldenbet.com/"
     },
     {
       "name": "WGB Lucky Balls",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg",
       "website": "https://www.winnersgoldenbet.com/"
     },
     {
       "name": "WGB Spin & Win",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQ3EWU329YDGi4BOrEHpopq0BZi.jpg",
       "website": "https://www.winnersgoldenbet.com/"
     },
     {
-      "name": "Wonderland TV",
+      "name": "Wonderland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
       "website": "https://wtvnigeria.com/"
     },
     {
-      "name": "World Agro TV",
-      "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+      "name": "World Agro",
+      "isFree": true
     },
     {
-      "name": "Zamani TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Zamani",
+      "isFree": true
     },
     {
       "name": "Africa Independent Television",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "isFree": null
     },
     {
       "name": "AKBC",
@@ -869,24 +731,16 @@
       "isFree": null
     },
     {
-      "name": "Capital TV (Nigeria)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CFQrSUUss1rnFqSpzLf4tx2TDo.jpg"
-    },
-    {
       "name": "Degue Broadcasting Network",
-      "isFree": null,
-      "logo": "https://i.imgur.com/ZkBEAp7.png"
+      "isFree": null
     },
     {
-      "name": "Galaxy Television (Nigeria)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+      "name": "Galaxy Television",
+      "isFree": null
     },
     {
-      "name": "News Central TV (Nigeria)",
-      "isFree": null,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "name": "News Central",
+      "isFree": null
     },
     {
       "name": "Nigerian Television Authority",
@@ -898,29 +752,27 @@
     },
     {
       "name": "Silverbird Television",
-      "isFree": null,
-      "logo": "https://i.imgur.com/9jcV9oG.png"
+      "isFree": null
     },
     {
       "name": "Superscreen",
       "isFree": null,
-      "keywords": "superscreen -tv",
-      "logo": "https://i.imgur.com/uTNmSWE.png"
+      "keywords": "superscreen",
+      "website": "https://superscreen.tv/"
     },
     {
       "name": "Televista",
       "isFree": null,
-      "keywords": "televista -tv"
+      "keywords": "televista",
+      "website": "https://www.televista.me/"
     },
     {
       "name": "Wale Adenuga Production",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png"
+      "isFree": null
     },
     {
       "name": "Media of Nigeria",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "isFree": null
     },
     {
       "name": "Nigerian newspapers",
@@ -932,87 +784,71 @@
     },
     {
       "name": "Telecommunications in Nigeria",
-      "isFree": null,
-      "logo": "https://logodix.com/logo/1104724.png"
-    },
-    {
-      "name": "Daawa TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "1TV Network",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/1tv.png"
-    },
-    {
-      "name": "El-zion Global Network Tv",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
-    },
-    {
-      "name": "Gamji TV, Gusau",
       "isFree": null
     },
     {
-      "name": "Koga TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Daawa",
+      "isFree": null
+    },
+    {
+      "name": "1TV Network",
+      "isFree": null
+    },
+    {
+      "name": "El-zion Global Network",
+      "isFree": null
+    },
+    {
+      "name": "Gamji TV - Gusau",
+      "isFree": null
+    },
+    {
+      "name": "Koga",
+      "isFree": null
     },
     {
       "name": "Minaj Systems Tv Obosi",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "Minaj Broadcast Network Obosi",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMv5Fgm718QB8anCBpJZIKj17hX.jpg"
+      "isFree": null
     },
     {
-      "name": "Minaj Broadcasting International (MBI)",
-      "isFree": null,
-      "logo": "https://i.imgur.com/ZkBEAp7.png"
+      "name": "Minaj Broadcasting International",
+      "isFree": null
     },
     {
-      "name": "Murhi International Television (MITV)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+      "name": "Murhi International Television",
+      "isFree": null
     },
     {
       "name": "Nassarawa Broadcasting Service",
-      "isFree": null,
-      "logo": "https://i.imgur.com/ZkBEAp7.png"
+      "isFree": null
     },
     {
       "name": "Odenigbo FM Obosi Anambra state",
-      "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+      "isFree": null
     },
     {
       "name": "Ondo State Radiovision Corporation",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu2F22TEzk3eK0rsjFDoARyFmCw.jpg"
+      "isFree": null
     },
     {
-      "name": "OYJ TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "OYJ",
+      "isFree": null
     },
     {
-      "name": "Rhema TV",
-      "isFree": null,
-      "logo": "https://i.imgur.com/5o821rT.png"
+      "name": "Rhema",
+      "isFree": null
     },
     {
       "name": "Sunna trcv",
-      "isFree": null,
-      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png"
+      "isFree": null
     },
     {
       "name": "TVC Entertainment",
-      "isFree": null,
-      "logo": "https://go4.pw/Mexico/deportes.png"
+      "isFree": null
     },
     {
       "name": "HipTV",
@@ -1020,200 +856,168 @@
       "website": "http://www.hiphopworldmagazine.com/"
     },
     {
-      "name": "RAPID TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpm03Dh3qpfbX7BqiMGw9boVZvC.jpg"
+      "name": "RAPID",
+      "isFree": null
     }
   ],
   "Kids": [
     {
       "name": "A1 Kids",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "Branama TV",
+      "name": "Branama",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://branamatv.com/"
     },
     {
-      "name": "Lovetoons TV",
+      "name": "Lovetoons",
       "isFree": true,
-      "logo": "https://i.imgur.com/omsvAEM.png",
       "website": "https://lovetoons.org/"
     },
     {
       "name": "Our Kiddies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-kiddies/"
     },
     {
-      "name": "Teen Africa TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg"
+      "name": "Teen Africa",
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "ABN TV",
+      "name": "ABN",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106034442314754_15.png",
       "website": "https://abntv.com.ng/"
     },
     {
       "name": "Advocate Broadcasting Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
       "website": "https://www.abn.ng/"
     },
     {
       "name": "AIT International",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TOGO/AIT.png",
       "website": "https://ait.live/"
     },
     {
       "name": "AIT Lagos",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TOGO/AIT.png",
       "website": "https://ait.live/"
     },
     {
       "name": "AIT National",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TOGO/AIT.png",
       "website": "https://ait.live/"
     },
     {
       "name": "AIT Partners",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TOGO/AIT.png",
       "website": "https://ait.live/"
     },
     {
       "name": "ATN",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "https://atlanticnetwork.tv/"
     },
     {
       "name": "Channels 24",
       "isFree": true,
-      "logo": "https://i.postimg.cc/TwGKcr7Y/channels24.png",
       "website": "https://www.channelstv.com/"
     },
     {
-      "name": "Channels TV",
+      "name": "Channels",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
       "website": "https://www.channelstv.com/",
       "priority": 9
     },
     {
       "name": "Core TV News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaG2vih2z4V5fP9pnYSIL65lr8d.jpg",
       "website": "https://www.coretvnews.com/"
     },
     {
-      "name": "Eagles TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg"
+      "name": "Eagles",
+      "isFree": true
     },
     {
-      "name": "Galaxy TV",
+      "name": "Galaxy",
       "isFree": true,
       "keywords": "galaxy tv -lagos",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
       "website": "https://www.galaxytvonline.com/"
     },
     {
       "name": "Galaxy TV Lagos",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
       "website": "https://www.galaxytvonline.com/"
     },
     {
-      "name": "Global TV",
+      "name": "Global",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png",
       "website": "https://globaltvabuja.com/"
     },
     {
       "name": "Housing TV Africa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.housingtvafrica.com/"
     },
     {
-      "name": "Human Rights TV",
+      "name": "Human Rights",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEbwgT6fgKCJJWky77Q4TMErvmZ.jpg",
       "website": "https://www.humanrightsradiotv.com/"
     },
     {
-      "name": "IDEA TV",
+      "name": "IDEA",
       "isFree": true,
       "website": "https://ideatv.live/"
     },
     {
-      "name": "Impact Africa TV",
+      "name": "Impact Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqkQxYFE3G9Oic02SK72gbHRpwe.jpg",
       "website": "https://iatvafrica.com/"
     },
     {
-      "name": "KSMC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "KSMC",
+      "isFree": true
     },
     {
-      "name": "Liberty TV",
+      "name": "Liberty",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
       "website": "https://libertytvradio.com/"
     },
     {
       "name": "LN247",
       "isFree": true,
-      "logo": "https://i.imgur.com/s6PUehQ.jpg",
       "website": "https://ln247.news/"
     },
     {
       "name": "News Central",
       "isFree": true,
-      "logo": "https://i.postimg.cc/9fsJWPPp/newscentral.png",
       "website": "http://newscentral.africa/"
     },
     {
       "name": "NTA News 24",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "https://www.nta.ng/"
     },
     {
       "name": "Silverbird News 24",
-      "isFree": true,
-      "logo": "https://i.imgur.com/9jcV9oG.png"
+      "isFree": true
     },
     {
-      "name": "Spectrum TV",
+      "name": "Spectrum",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png",
       "website": "https://spectrumtvlive.ng/live-tv/"
     },
     {
       "name": "TV360 Nigeria",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TV360 NIGERIA HD.png",
       "website": "https://www.tv360nigeria.com/"
     },
     {
       "name": "TVC News",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/deportes.png",
       "website": "https://tvcnews.tv/"
     }
   ],
@@ -1227,13 +1031,11 @@
     {
       "name": "AccessBet League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
       "website": "https://sport.accessbet.com/"
     },
     {
       "name": "AfroSport Nigeria",
       "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
       "website": "https://www.afrosportgroup.com/"
     },
     {
@@ -1254,31 +1056,26 @@
     {
       "name": "Betbiga LaLiga",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
       "website": "https://www.betbiga.com/"
     },
     {
       "name": "Betbiga mosaic",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgih9iZOi0JaY6MVSzxLaXTzvUQ.jpg",
       "website": "https://www.betbiga.com/"
     },
     {
       "name": "BigiBet LaLiga",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
       "website": "https://www.bigibet.com/"
     },
     {
       "name": "Gibet Dog Racing",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://www.gibet.ng/"
     },
     {
       "name": "Gibet EPL",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://www.gibet.ng/"
     },
     {
@@ -1289,24 +1086,20 @@
     {
       "name": "Gibet La Liga",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "http://www.gibet.ng/"
     },
     {
       "name": "Grande Sports Football",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg"
+      "isFree": true
     },
     {
       "name": "LuckyBet EPL",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://www.luckybet.ng/"
     },
     {
       "name": "LuckyBet LaLiga",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
       "website": "http://www.luckybet.ng/"
     },
     {
@@ -1317,35 +1110,30 @@
     {
       "name": "NTA Sports 24",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "http://www.nta.ng/channels/nta-sports-24/"
     },
     {
       "name": "Our Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://ourtv.ng/our-sports/"
     },
     {
-      "name": "Sporty TV",
+      "name": "Sporty",
       "isFree": true
     },
     {
       "name": "Surebet 247 Horse Racing",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.surebet247.com/"
     },
     {
       "name": "WGB Dog Racing",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "https://www.winnersgoldenbet.com/"
     },
     {
       "name": "WGB Global Football",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "https://www.winnersgoldenbet.com/"
     }
   ],
@@ -1353,463 +1141,385 @@
     {
       "name": "ACNN",
       "isFree": true,
-      "logo": "https://i.imgur.com/91JLpxr.png",
       "website": "https://www.acnntv.com/"
     },
     {
-      "name": "Albaniy TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Albaniy",
+      "isFree": true
     },
     {
-      "name": "Alminhaj TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Alminhaj",
+      "isFree": true
     },
     {
-      "name": "Altar of Divine Mercy TV",
+      "name": "Altar of Divine Mercy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5JEzIZ9ibVltkf8XtDG0VWTF2h.jpg",
       "website": "https://altarofdivinemercy.com/"
     },
     {
-      "name": "Ambience TV",
+      "name": "Ambience",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ambiencetvofficial.com/"
     },
     {
-      "name": "APTIM TV",
+      "name": "APTIM",
       "isFree": true,
-      "logo": "https://i.imgur.com/gWgvm0I.png",
       "website": "https://www.aptimministries.com/"
     },
     {
-      "name": "Catholic TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/2013/10/30/5ecf5c1d66f3f71ed8088b49e763c19c.png"
+      "name": "Catholic",
+      "isFree": true
     },
     {
-      "name": "Caught-Up TV",
+      "name": "Caught-Up",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gewcministry.org/caught-up-tv/"
     },
     {
-      "name": "Champions of Fire TV",
+      "name": "Champions of Fire",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
       "website": "https://live.championoffiretv.org.championoffiretv.org/"
     },
     {
-      "name": "Chosen Testimonies TV",
+      "name": "Chosen Testimonies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x02EEkwMpV0TlFMpwB65F9jlLZQ.jpg",
       "website": "https://cttv.tv/"
     },
     {
       "name": "Chosen TV English",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x02EEkwMpV0TlFMpwB65F9jlLZQ.jpg",
       "website": "https://www.tlccrm.org/"
     },
     {
       "name": "Chosen TV French",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x02EEkwMpV0TlFMpwB65F9jlLZQ.jpg",
       "website": "https://www.tlccrm.org/"
     },
     {
-      "name": "Christian Reformed TV",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Christian Reformed",
+      "isFree": true
     },
     {
-      "name": "cLoveworld TV",
+      "name": "cLoveworld",
       "isFree": true,
-      "logo": "https://i.imgur.com/MKKap2F.png",
       "website": "https://cloveworld.org/"
     },
     {
-      "name": "Coza TV",
+      "name": "Coza",
       "isFree": true,
-      "logo": "https://i.imgur.com/QVBdpuF.png",
       "website": "https://coza.org.ng/"
     },
     {
       "name": "Deeper Christian Life Ministry",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciLziMBBQQfqwtQ5gmGAIROJRyY.jpg"
+      "isFree": true
     },
     {
-      "name": "Divine Hand TV",
+      "name": "Divine Hand",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/20574.jpg",
       "website": "https://www.divinehandofgod.org/"
     },
     {
-      "name": "Dove TV",
+      "name": "Dove",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DOVE TV.png",
       "website": "https://dovevision.org/"
     },
     {
-      "name": "Dunamis TV",
+      "name": "Dunamis",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DUNAMIS TV.png",
       "website": "https://www.dunamisgospel.org/"
     },
     {
-      "name": "ECWA TV",
+      "name": "ECWA",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.ecwatv.org/"
     },
     {
-      "name": "Elijah's Voice TV",
+      "name": "Elijah's Voice",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
       "website": "https://www.elijahfaithassembly.com.ng/"
     },
     {
-      "name": "Elohim Global TV",
+      "name": "Elohim Global",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "https://elohimglobal.tv/"
     },
     {
-      "name": "Encounter Jesus TV",
+      "name": "Encounter Jesus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10OUQ2xdpDGJPiYahlbm70n7gWt.jpg",
       "website": "https://www.encounterjesusministriesinternational.org/"
     },
     {
-      "name": "Evangel TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Evangel",
+      "isFree": true
     },
     {
-      "name": "Flame TV",
+      "name": "Flame",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqhHIdI90EQfrKx3WGS13I6yjqb.jpg",
       "website": "https://flametv.tv/"
     },
     {
-      "name": "Foursquare TV",
+      "name": "Foursquare",
       "isFree": true,
-      "logo": "https://i.imgur.com/ORer9ag.png",
       "website": "http://foursquare.org.ng/"
     },
     {
-      "name": "Free Indeed TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+      "name": "Free Indeed",
+      "isFree": true
     },
     {
-      "name": "Full Life TV",
+      "name": "Full Life",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
       "website": "https://fulllifefoundation.org/"
     },
     {
-      "name": "Glamour TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Glamour",
+      "isFree": true
     },
     {
-      "name": "Glorious Vision TV",
+      "name": "Glorious Vision",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg",
       "website": "http://gloriousvisiontv.org/"
     },
     {
       "name": "GMTV",
-      "isFree": true,
-      "logo": "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg"
+      "isFree": true
     },
     {
       "name": "Grande Gospel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg"
+      "isFree": true
     },
     {
-      "name": "Holy Ghost Miracle TV",
+      "name": "Holy Ghost Miracle",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg",
       "website": "https://holyghostmiracletestifierschurch.org/"
     },
     {
       "name": "HoremowTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/LzTqsW9.png",
       "website": "https://www.horemowtv.com/"
     },
     {
-      "name": "Liberation TV",
+      "name": "Liberation",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6XcLA28xlQP5nDW1Mfm3rSH92Y.jpg",
       "website": "https://gracenation.ng/liberationtv"
     },
     {
       "name": "LoveWorld Arabic",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://loveworldarabic.tv/"
     },
     {
       "name": "LoveWorld Asia",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://cloveworld.org/?tv=5a098fdb0c4105wjug1qiet7v"
     },
     {
       "name": "LoveWorld CASA",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://cloveworld.org/?tv=5a099019dcdbax4kpil9ujrzy"
     },
     {
       "name": "LoveWorld Euro",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://cloveworld.org/?tv=5a098ffad71f9cy8g5uns1x70"
     },
     {
       "name": "LoveWorld India",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.lbntv.org/"
     },
     {
       "name": "LoveWorld Italia",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://cloveworld.org/?tv=60f97930bc0830lwf4sx1zrnc"
     },
     {
       "name": "LoveWorld Jerusalem",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://loveworldjerusalem.org/"
     },
     {
       "name": "LoveWorld Pacifics",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://cloveworld.org/?tv=5a382af71148549pde562zf0y"
     },
     {
       "name": "LoveWorld Persia",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://loveworldpersia.org/"
     },
     {
       "name": "LoveworldSAT",
       "isFree": true,
-      "logo": "https://i.postimg.cc/VN3VZW2M/loveworldsat.png",
       "website": "http://www.loveworldsat.org/"
     },
     {
       "name": "LoveWorld UK",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://loveworlduk.org/"
     },
     {
       "name": "LoveWorld USA",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.loveworldusa.org/"
     },
     {
       "name": "Loveworld XP",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.lxp.tv/watch/"
     },
     {
       "name": "Lumen Christi TV Network",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png",
       "website": "https://www.lumenchristitv.com/"
     },
     {
-      "name": "Master's TV",
+      "name": "Master's",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://themastersplace.org/"
     },
     {
       "name": "Mercy TV Plus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg",
       "website": "https://www.christmercyland.org/"
     },
     {
-      "name": "MFM TV",
+      "name": "MFM",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mountainoffire.org/"
     },
     {
-      "name": "More Grace TV",
+      "name": "More Grace",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
       "website": "https://moregrace.tv/"
     },
     {
-      "name": "New Frontiers TV",
+      "name": "New Frontiers",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "http://newfrontierstv.info/"
     },
     {
-      "name": "New Vision TV",
+      "name": "New Vision",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://crichurch.org/"
     },
     {
-      "name": "OPM TV",
+      "name": "OPM",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://opmworldwide.com/"
     },
     {
-      "name": "Oracle TV",
+      "name": "Oracle",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/laOpPREcTlDukttovlUGJ3Wmtb6.jpg",
       "website": "https://www.oracletv.org/"
     },
     {
-      "name": "PCM Media TV",
+      "name": "PCM Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://pcmglobalchurch.org/"
     },
     {
-      "name": "Phenomenal Life TV",
+      "name": "Phenomenal Life",
       "isFree": true
     },
     {
-      "name": "Praiseland TV",
+      "name": "Praiseland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://praiselandtv.org/"
     },
     {
       "name": "TV Sapientia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sapientiaonitsha.com/"
     },
     {
-      "name": "Voice of One TV",
+      "name": "Voice of One",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
       "website": "https://www.voiceofonetv.org/live.php"
     },
     {
-      "name": "Whole Word TV",
+      "name": "Whole Word",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fbglyCpPqK1u40fhncLXKAF74A.jpg",
       "website": "https://godhouse.org/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Aforevo Music TV",
+      "name": "Aforevo Music",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://tv.aforevo.com/"
     },
     {
-      "name": "Aforevo TV",
+      "name": "Aforevo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://tv.aforevo.com/"
     },
     {
-      "name": "AMusic Channel",
+      "name": "AMusic",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23195/amusic-channel/logo_20241211_003016_70.png",
       "website": "http://amusic.tv/"
     },
     {
       "name": "Hits Africa",
-      "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+      "isFree": true
     },
     {
-      "name": "Kennis Music Channel",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "name": "Kennis Music",
+      "isFree": true
     },
     {
       "name": "Our Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-music/"
     },
     {
-      "name": "X2D TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/GXDHtVT.png"
+      "name": "X2D",
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "Africa Magic Epic",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.dstv.com/africamagic/en-ng/channel/africa-magic-epic"
     },
     {
       "name": "African Movie Net",
-      "isFree": true,
-      "logo": "https://m.media-amazon.com/images/S/pv-target-images/be4027c55f458ac9e13b6affea7c3a67920bc699ab642760dc6d025892b6f3e0.jpg"
+      "isFree": true
     },
     {
       "name": "Grande Bolly",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg"
+      "isFree": true
     },
     {
-      "name": "Itage TV",
+      "name": "Itage",
       "isFree": true,
-      "logo": "https://i.imgur.com/FP1aUPw.jpg",
       "website": "http://itagetv.com/"
     },
     {
       "name": "Mama Africa Movies",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ6TOtV6WdWHphZfJldvsCdjmb1.jpg"
+      "isFree": true
     },
     {
       "name": "Our Movies Globe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-movie-globe/"
     },
     {
       "name": "Our Movies Nolly",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-movie-nolly/"
     },
     {
       "name": "Our Series",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
       "website": "https://www.ourtv.ng/our-series/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Awa TV",
-      "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/new_assets/60242439914c3860de7da794"
+      "name": "Awa",
+      "isFree": true
     },
     {
       "name": "ESBS",
@@ -1824,68 +1534,58 @@
     {
       "name": "Isi Mbido",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg",
       "website": "https://isimbido.tv/"
     },
     {
       "name": "Naija Farmer",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPExVpBnDwB8kL9buIqGVNDzYrb.jpg",
       "website": "https://naijafarmer.org/"
     },
     {
       "name": "Nigbati",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
       "website": "https://www.nigbati.tv/"
     },
     {
       "name": "NTA Knowledge",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTA.png",
       "website": "http://www.nta.ng/channels/nta-knowledge/"
     },
     {
       "name": "Nupe TV Africa",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Qausain TV",
+      "name": "Qausain",
       "isFree": true,
-      "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
       "website": "https://www.qausaintv.com/"
     },
     {
-      "name": "Superscreen TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/uTNmSWE.png",
+      "name": "Superscreen",
+      "isFree": null,
+      "keywords": "superscreen",
       "website": "https://superscreen.tv/"
     }
   ],
   "Shop": [
     {
-      "name": "Baba Ijebu 1",
+      "name": "Baba Ijebu",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
       "website": "https://babaijebu.ng/"
     },
     {
       "name": "Baba Ijebu 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
       "website": "https://babaijebu.ng/"
     },
     {
       "name": "Baba Ijebu 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
       "website": "https://babaijebu.ng/"
     },
     {
       "name": "Baba Ijebu 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
       "website": "https://babaijebu.ng/"
     }
   ]

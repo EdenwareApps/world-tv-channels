@@ -2,47 +2,41 @@
   "Entertainment": [
     {
       "name": "A2i Music",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "isFree": true
     },
     {
-      "name": "A2i TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "name": "A2i",
+      "isFree": true
     },
     {
       "name": "ARTE Français",
       "isFree": true,
       "retransmits": "Arte",
       "shortName": "Arte",
-      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
       "website": "https://www.arte.tv",
       "priority": 10
     },
     {
       "name": "Alpe d'Huez",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/98af12f07f74e5bafb445dbc149db332.png"
+      "website": "https://www.alpe.tv/a-propos"
     },
     {
-      "name": "Alpe d’Huez TV",
+      "name": "Alpe d’Huez",
       "isFree": true
     },
     {
       "name": "Amuse Animation",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2f9b99eee4198edadf9d101a655a2730.png"
+      "isFree": true
     },
     {
       "name": "Antenne Reunion",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/74eeee9216e4c44716b6cc6ea2b3d14c.png"
+      "isFree": true
     },
     {
       "name": "Arte",
       "isFree": true,
       "keywords": "arte -france",
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
       "website": "https://www.arte.tv",
       "priority": 10
     },
@@ -51,68 +45,53 @@
       "isFree": true,
       "retransmits": "Arte",
       "shortName": "Arte",
-      "logo": "https://images.iptvmate.net/tvglogo/deae866cafcaf314ff0d60225515f6d8.png",
       "website": "https://www.arte.tv",
       "priority": 9
     },
     {
       "name": "Atelier des chefs",
-      "isFree": true,
-      "shortName": "ADC",
-      "logo": "https://images.iptvmate.net/tvglogo/3f709b18a61a507d58b3bc4f69d26f19.png"
+      "isFree": true
     },
     {
-      "name": "BIP TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a2d264d18827f1b16b9fa4aa288c747c.png"
+      "name": "BIP",
+      "isFree": true
     },
     {
       "name": "Big Names",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/de0c47188cb5293498677e1c90a93ded.png"
+      "isFree": true
     },
     {
       "name": "Bob l'éponge",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ITwU1yZ.png"
+      "isFree": true
     },
     {
-      "name": "CATFISH TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75d29774367a66719f7e43c7cb8163ed.png"
+      "name": "CATFISH",
+      "isFree": true
     },
     {
       "name": "CGTN France",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6debdca8fa0f31a28e4c66ddde8f9503.png"
+      "isFree": true
     },
     {
       "name": "C Star",
       "isFree": true,
-      "keywords": "c star -hits france | cstar",
-      "shortName": "CSTAR",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "keywords": "c star -hits france | cstar"
     },
     {
       "name": "Caillou",
-      "isFree": true,
-      "logo": "https://i.imgur.com/RgKaoe4.png"
+      "isFree": true
     },
     {
-      "name": "Central TV",
-      "isFree": true,
-      "logo": "https://imgur.com/secIlPU.png"
+      "name": "Central",
+      "isFree": true
     },
     {
       "name": "Classical Harmony",
-      "isFree": true,
-      "shortName": "CH",
-      "logo": "https://images.iptvmate.net/tvglogo/c8dc76526730222e5390688554ecfde8.png"
+      "isFree": true
     },
     {
-      "name": "Clubbing TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8giAFx5.png"
+      "name": "Clubbing",
+      "isFree": true
     },
     {
       "name": "D5TV",
@@ -121,48 +100,36 @@
     {
       "name": "DBM",
       "isFree": true,
-      "keywords": "dbm -tv",
-      "logo": "https://images.iptvmate.net/tvglogo/1dcd0a1c72662fb9e45953ee67d098d4.png"
+      "keywords": "dbm"
     },
     {
-      "name": "DBM TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ab6p2SW.png"
+      "name": "Dieu",
+      "isFree": true
     },
     {
-      "name": "Dieu TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173820438012_69.png"
-    },
-    {
-      "name": "Dora TV",
+      "name": "Dora",
       "isFree": true
     },
     {
       "name": "Dossiers FBI",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8Zx6dA7.png"
+      "isFree": true
     },
     {
-      "name": "EMCI TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/27a50eb5e1feda3da6d594e14a0b2630.png"
+      "name": "EMCI",
+      "isFree": true
     },
     {
       "name": "FailArmy",
-      "isFree": true,
-      "logo": "https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png"
+      "isFree": true
     },
     {
       "name": "Femmes De Loi",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/68edb4401a59d9fe44cad88684e6a1b7.png"
+      "isFree": true
     },
     {
       "name": "France 2",
       "isFree": true,
-      "shortName": "F2",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220752317893_19.png",
+      "shortName": "F 2",
       "website": "https://www.france.tv/france-2",
       "priority": 10
     },
@@ -170,277 +137,227 @@
       "name": "France 24",
       "isFree": true,
       "keywords": "france 24 -english -francais",
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 10
     },
     {
       "name": "France 3",
       "isFree": true,
-      "shortName": "F3",
-      "logo": "https://static.epg.best/fr/France3.fr.png",
+      "shortName": "F 3",
       "website": "https://www.france.tv/france-3",
       "priority": 10
     },
     {
       "name": "France 5",
       "isFree": true,
-      "shortName": "F5",
-      "logo": "https://static.epg.best/fr/France5.fr.png",
+      "shortName": "F 5",
       "website": "https://www.france.tv/france-5",
       "priority": 9
     },
     {
       "name": "France Inter",
-      "isFree": true,
-      "logo": "https://i.imgur.com/MgBeU52.png"
+      "isFree": true
     },
     {
       "name": "Francophonie",
       "isFree": true
     },
     {
-      "name": "Francophonie24",
+      "name": "Francophonie 24",
       "isFree": true
     },
     {
-      "name": "Fuel TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/I8mviBy.png"
+      "name": "Fuel",
+      "isFree": true
     },
     {
-      "name": "Gaming TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c22799bb0d34197164788ff07e3e4bd3.png"
+      "name": "Gaming",
+      "isFree": true
     },
     {
-      "name": "Generations TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/35ee8c4c653d6b7905e3a39c4ee45aaf.png"
+      "name": "Generations",
+      "isFree": true
     },
     {
       "name": "Humanity",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0048d9da8657859e0caab35a518dc6af.png"
+      "isFree": true
     },
     {
       "name": "IGN",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/255fb98b83a13e0cfbc1db4ba9312ab9.png"
+      "isFree": true
     },
     {
       "name": "ILTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/457179171576ea870c7c2b30f41f3727.png"
+      "isFree": true
     },
     {
       "name": "KTO",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d587b50c3db5219b81630a92304430e8.png"
+      "isFree": true
     },
     {
-      "name": "LEEEKO TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "LEEEKO",
+      "isFree": true
     },
     {
       "name": "La Chaine Normande",
-      "isFree": true,
-      "shortName": "LCN",
-      "logo": "https://images.iptvmate.net/tvglogo/ce9c114f3e84ad51707ee6a5b20bddc9.png"
+      "isFree": true
     },
     {
       "name": "La Chaîne normande",
-      "isFree": true,
-      "shortName": "LCN",
-      "logo": "https://images.iptvmate.net/tvglogo/ce9c114f3e84ad51707ee6a5b20bddc9.png"
+      "isFree": true
     },
     {
       "name": "Les Cordier",
-      "isFree": true,
-      "logo": "https://i.imgur.com/JmAYoJH.png"
+      "isFree": true
     },
     {
       "name": "Les Nouveaux Detectives",
-      "isFree": true,
-      "shortName": "LND",
-      "logo": "https://i.imgur.com/ego8ozn.png"
+      "isFree": true
     },
     {
       "name": "Louis La Brocante",
-      "isFree": true,
-      "shortName": "LLB",
-      "logo": "https://i.imgur.com/I1w7rFb.png"
+      "isFree": true
     },
     {
-      "name": "Luxe TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/06/07/large/20220607013307266751_37.png"
+      "name": "Luxe",
+      "isFree": true
     },
     {
-      "name": "M6",
+      "name": "M 6",
       "isFree": true,
       "keywords": "m6 -international",
       "website": "https://www.6play.fr",
-      "priority": 9
+      "priority": 9,
+      "_alt_origName": [
+        "M6 (TV channel)"
+      ]
     },
     {
       "name": "M6 International",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
-      "name": "MADE TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/464dd9c0df8c58352befc030f61630f7.png"
+      "name": "MADE",
+      "isFree": true
     },
     {
       "name": "MDL",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MDL.png"
+      "isFree": true
     },
     {
       "name": "MTV CLASSICS",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1b7eaa96ce804e6fe3366c5a266b9489.png",
       "priority": 8
     },
     {
       "name": "Moods",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/37df301af2c64b0d515cc3534a592b33.png"
+      "isFree": true
     },
     {
-      "name": "My Surf TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5204e194865d640dcae96c3acb180ad3.png"
+      "name": "My Surf",
+      "isFree": true
     },
     {
       "name": "MyComedy",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/11d50049a94d298555d1d913a91ae8c2.png"
+      "isFree": true
     },
     {
-      "name": "Nancy Web TV",
+      "name": "Nancy Web",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3bac6c45385454d07f57f9c96f58e780.png",
       "priority": 4
     },
     {
       "name": "ONE GOLF",
-      "isFree": true,
-      "logo": "https://i.imgur.com/7JhaEW5.png"
+      "isFree": true
     },
     {
-      "name": "Obosso TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d3b1a6e8e8e5715ca38ba2320c165854.png"
+      "name": "Obosso",
+      "isFree": true
     },
     {
-      "name": "P2M TV",
+      "name": "P2M",
       "isFree": true
     },
     {
       "name": "Passion Fiction",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0082cfe4a48f2c83afc887568e2a1067.png"
+      "isFree": true
     },
     {
       "name": "People are Awesome",
-      "isFree": true,
-      "shortName": "PAA",
-      "logo": "https://i.imgur.com/BWfmUwV.png"
+      "isFree": true
     },
     {
       "name": "Plus Belle La Vie",
-      "isFree": true,
-      "shortName": "PBLV",
-      "logo": "https://images.iptvmate.net/tvglogo/1bc73a345d9e48aaf3da0bd0b70e795a.png"
+      "isFree": true
     },
     {
       "name": "Qwest Classical",
-      "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png"
+      "isFree": true
     },
     {
       "name": "Qwest Jazz and Beyond",
-      "isFree": true,
-      "shortName": "QJAB",
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png"
+      "isFree": true
     },
     {
       "name": "Qwest TV MIX",
-      "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png"
+      "isFree": true
     },
     {
       "name": "RMC",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/85c32a9e695c23f8550163eeb8209eea.png"
+      "isFree": true
     },
     {
-      "name": "Sofy TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3539116f6d18f2ff8311faf2967dfdf7.png"
+      "name": "Sofy",
+      "isFree": true
     },
     {
       "name": "Sport en France",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/46c6339ecbf927a26be99404f60a61b5.png"
+      "isFree": true
     },
     {
       "name": "Spotlight",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9fd2c469077f3c377ccdb705ae38050c.png"
+      "isFree": true
     },
     {
-      "name": "Stormcast Novelas TV",
-      "isFree": true,
-      "shortName": "SNT"
+      "name": "Stormcast Novelas",
+      "isFree": true
     },
     {
-      "name": "Supertoons TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/A6vCYsC.png"
+      "name": "Supertoons",
+      "isFree": true
     },
     {
-      "name": "TF1",
+      "name": "TF",
       "isFree": true,
       "keywords": "tf1 -series films",
-      "logo": "https://static.epg.best/fr/TF1.fr.png",
       "website": "https://www.tf1.fr",
       "priority": 10
     },
     {
       "name": "TF1 Series Films",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/eee6ab23bd16e546b1de552efb155419.png",
       "priority": 10
     },
     {
       "name": "TFX",
-      "isFree": true,
-      "logo": "https://static.epg.best/fr/TFX.fr.png"
+      "isFree": true
     },
     {
       "name": "TMA",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "TMC",
-      "isFree": true,
-      "logo": "https://static.epg.best/fr/TMC.fr.png"
+      "isFree": true
     },
     {
-      "name": "TROLL TV",
+      "name": "TROLL",
       "isFree": true
     },
     {
       "name": "TV5 Monde Europe",
       "isFree": true,
-      "keywords": "tv5 monde europe | tv5monde europe",
-      "logo": "https://i.imgur.com/uPmwTo9.png"
+      "keywords": "tv5 monde europe | tv5monde europe"
     },
     {
       "name": "TV5 Monde Info",
@@ -448,45 +365,36 @@
     },
     {
       "name": "TV5Monde Francia FR",
-      "isFree": true,
-      "shortName": "TFF"
+      "isFree": true
     },
     {
       "name": "TVPI",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/469414fac67b39d5c7951182cdeaae44.png"
+      "isFree": true
     },
     {
       "name": "The Pet Collective",
-      "isFree": true,
-      "shortName": "TPC",
-      "logo": "https://i.imgur.com/yH7n2dF.png"
+      "isFree": true
     },
     {
-      "name": "Tortues Ninja TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/d2ACbkV.png"
+      "name": "Tortues Ninja",
+      "isFree": true
     },
     {
       "name": "Trace Urban",
-      "isFree": true,
-      "logo": "https://i.imgur.com/xRJDVR3.png"
+      "isFree": true
     },
     {
-      "name": "W9",
+      "name": "W 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/reYeMuE.png",
       "priority": 8
     },
     {
       "name": "WPT",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/363107a3082f737d9d93ace3bd3d384a.png"
+      "isFree": true
     },
     {
-      "name": "iCarly TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6768172c23bea4ad9232126eb6c3b490.png"
+      "name": "iCarly",
+      "isFree": true
     },
     {
       "name": "viaMirabelle",
@@ -494,40 +402,35 @@
     },
     {
       "name": "viàMATÉLÉ",
-      "isFree": true,
-      "logo": "https://i.imgur.com/kmna9PU.png"
+      "isFree": true
     },
     {
       "name": "13eme Rue",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/13-EME-RUE.png",
       "website": "https://www.13emerue.fr/"
     },
     {
-      "name": "20 Minutes TV",
+      "name": "20 Minutes",
       "isFree": true,
       "website": "https://20minutes.tv"
     },
     {
       "name": "4 Afghanistan",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/Pr634RNN/4-Afghanistan.png"
+      "isFree": true
     },
     {
       "name": "4 Turk",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://4turk.persiana.live/"
     },
     {
       "name": "6ter",
       "isFree": true,
-      "logo": "https://static.epg.best/fr/6ter.fr.png",
       "website": "https://www.6play.fr/6ter",
       "priority": 8
     },
     {
-      "name": "AB1",
+      "name": "AB",
       "isFree": true,
       "website": "http://www.ab1.tv/"
     },
@@ -539,18 +442,11 @@
     {
       "name": "A la une",
       "isFree": true,
-      "logo": "https://logodix.com/logo/619307.png",
       "website": "http://www.canalsat.fr/"
     },
     {
-      "name": "Al-Faydatou Tidjania TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Alpe d'Huez TV",
-      "isFree": true,
-      "website": "https://www.alpe.tv/a-propos"
+      "name": "Al Faydatou Tidjania",
+      "isFree": true
     },
     {
       "name": "Angers Tele",
@@ -560,43 +456,36 @@
     {
       "name": "AraBel",
       "isFree": true,
-      "logo": "https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png",
       "website": "https://www.arabel.fm/"
     },
     {
       "name": "Assemblee Nationale",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/ASSEMBLENATIONAL.png",
       "website": "http://videos.assemblee-nationale.fr/"
     },
     {
-      "name": "Astrocenter TV",
+      "name": "Astrocenter",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mon.astrocenter.fr/tv/en-direct"
     },
     {
       "name": "ASTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f9225f4e8fa3311b4ef604549ad9302d.png",
       "website": "https://www.tele-astv.fr/"
     },
     {
       "name": "Automoto la chaine",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AUTOMOTO.png",
       "website": "https://www.automoto-lachaine.fr/"
     },
     {
       "name": "Beffroi Vision",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.beffroi-vision.fr/"
     },
     {
       "name": "Berbere Jeunesse",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/BERBERETV-1.png",
       "website": "https://www.brtvpro.tv/"
     },
     {
@@ -605,50 +494,42 @@
       "website": "https://www.betchannel.fr/"
     },
     {
-      "name": "Beur TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b67lCN8bDcxx5jnssvEzPwK12GB.jpg"
+      "name": "Beur",
+      "isFree": true
     },
     {
       "name": "BFM Alsace",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/alsace/"
     },
     {
-      "name": "Brionnais TV",
+      "name": "Brionnais",
       "isFree": true,
-      "logo": "https://i.imgur.com/y94bhqX.jpg",
       "website": "https://brionnais.tv/"
     },
     {
-      "name": "B Smart TV",
+      "name": "B Smart",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.bsmart.fr/"
     },
     {
-      "name": "C8",
+      "name": "C 8",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/C8.png",
       "website": "http://c8.fr/"
     },
     {
       "name": "Canal 32",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal32.fr/"
     },
     {
       "name": "Canal Gambsheim",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalgambsheim.fr/"
     },
     {
       "name": "Canal Local Grosblie",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canallocalgrosblie.tv/",
       "priority": 4
     },
@@ -656,35 +537,30 @@
       "name": "Canal+",
       "isFree": false,
       "keywords": "canal+ -action centre -action myanmar -action ouest -box office -caraibes -cinema centre -cinema ouest -cinema reunion -cinemas -decale -docs -elles centre -elles ouest -family -family centre -family ouest -foot -formula 1 -grand ecran -ha ha! -kids -motogp -pop centre -pop ouest -premier league -premiere centre -premiere ouest -series -series reunion -sport -sport 1 -sport 2 -sport 3 -sport 360 -sport 4 -sport 5 -sport reunion -sports myanmar -top 14",
-      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/Canal+_Premium.png",
       "website": "https://www.canalplus.com",
       "priority": 10
     },
     {
       "name": "Canal+ Caraibes",
       "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_haiti.png",
       "website": "http://www.canalplus-caraibes.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Decale",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/PARAMOUNTCHANNEL.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Elles Centre",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal+elles.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Elles Ouest",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal+elles.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
@@ -710,72 +586,61 @@
     {
       "name": "Canal+ Ha Ha!",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/HA_TINH.png",
       "priority": 10
     },
     {
       "name": "Canal+ MotoGP",
       "isFree": true,
-      "logo": "https://go4.pw/FORMULA/obii.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Premiere Centre",
       "isFree": true,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png",
       "website": "http://www.canalplus-afrique.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Premiere Ouest",
       "isFree": true,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png",
       "website": "http://www.canalplus-afrique.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Premier League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "http://www.canalplus.fr",
       "priority": 10
     },
     {
       "name": "Canal+ Top 14",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.canalplus.fr",
       "priority": 10
     },
     {
       "name": "Canal Schilick",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.ville-schiltigheim.fr/canal-schilick/"
     },
     {
-      "name": "Cannes Lerins TV",
+      "name": "Cannes Lerins",
       "isFree": true,
-      "logo": "https://i.imgur.com/atlgnum.png",
       "website": "https://lerins-radio.fr/"
     },
     {
       "name": "Chasse & Peche",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MOSs0MxE8MNVxwT8MJZXNrRHMI.jpg",
       "website": "http://www.chasseetpechetv.fr/"
     },
     {
-      "name": "Clique TV",
+      "name": "Clique",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.clique.tv/"
     },
     {
-      "name": "Colmax TV",
+      "name": "Colmax",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.colmax.com/"
     },
     {
@@ -790,21 +655,21 @@
     },
     {
       "name": "Cuisines",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CUISINE.png"
+      "isFree": true
     },
     {
-      "name": "Demain TV",
+      "name": "Demain",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.demain.fr/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "https://discoveryfrance.fr/discoverychannel",
-      "priority": 10
+      "priority": 10,
+      "_alt_origName": [
+        "Discovery Channel (French TV channel)"
+      ]
     },
     {
       "name": "Dreamsee Television",
@@ -836,14 +701,8 @@
       "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "FashionTV F-Men",
+      "name": "FashionTV F Men",
       "isFree": true,
-      "website": "https://www.fashiontv.com/"
-    },
-    {
-      "name": "Fashion TV HD",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2491.png",
       "website": "https://www.fashiontv.com/"
     },
     {
@@ -878,12 +737,12 @@
       "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "FashionTV PG13",
+      "name": "FashionTV PG 13",
       "isFree": true,
       "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "FashionTV PG16",
+      "name": "FashionTV PG 16",
       "isFree": true,
       "website": "https://www.fashiontv.com/"
     },
@@ -908,35 +767,30 @@
       "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "French Lover TV",
+      "name": "French Lover",
       "isFree": null,
-      "keywords": "french lover tv | frenchlover tv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5QqqxA2OQgeP8fVwXNVjnPT9Qb.jpg"
+      "keywords": "french lover tv | frenchlover tv"
     },
     {
-      "name": "FX 1",
+      "name": "FX",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png",
       "website": "https://fxtv.wns.live/"
     },
     {
       "name": "FX 2",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png",
       "website": "https://toonix.wns.live/"
     },
     {
-      "name": "Game One Music HD",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suASijYyJ3jwwEfPki1V3R8vuO9.jpg"
+      "name": "Game One Music",
+      "isFree": true
     },
     {
-      "name": "Grand Geneve TV",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
+      "name": "Grand Geneve",
+      "isFree": true
     },
     {
-      "name": "HANDICAP TV",
+      "name": "HANDICAP",
       "isFree": true,
       "website": "https://www.handicaptv.tv/"
     },
@@ -945,178 +799,147 @@
       "isFree": true
     },
     {
-      "name": "Hotbird 4K1",
+      "name": "Hotbird 4K",
       "isFree": true,
       "website": "http://www.eutelsat.com/en/services/broadcast/ultra-hd/hotbird-4k1.html"
     },
     {
       "name": "ici Elsass",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg",
       "website": "https://www.francebleu.fr/elsass"
     },
     {
       "name": "IMEARTH",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/IMEARTH_FHD.png",
       "website": "https://www.imearth.tv/"
     },
     {
       "name": "Iran Nama",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/kgZwjW5W/iran-nama.jpg"
+      "isFree": true
     },
     {
-      "name": "Ivoire TV5",
+      "name": "Ivoire TV 5",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png",
       "website": "https://www.ivoiretv5.com/"
     },
     {
-      "name": "Jacquie & Michel TV",
+      "name": "Jacquie & Michel",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkoTGFiqrNjnypWbe4DwbtoqVoR.jpg",
       "website": "https://www.jacquieetmicheltv.net/"
     },
     {
       "name": "La Chaine 32",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://www.ville-coudekerque-branche.fr/"
     },
     {
       "name": "LCP – AN",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/lcpna.png",
       "website": "http://www.lcp.fr/"
     },
     {
-      "name": "Le Figaro TV Ile-de-France",
+      "name": "Le Figaro TV Ile de France",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
       "website": "https://video.lefigaro.fr/"
     },
     {
-      "name": "L'intelligent TV",
+      "name": "L'intelligent",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://lintelligent.tv/"
     },
     {
       "name": "Loupe",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1e66e36c9d29677ba20b51dedd4fb4c7.png"
+      "isFree": true
     },
     {
-      "name": "Maison & Travaux TV",
+      "name": "Maison & Travaux",
       "isFree": true,
-      "logo": "https://i.imgur.com/uYpc6nE.png",
       "website": "https://www.maison-travaux.fr/"
     },
     {
-      "name": "Mandarin TV",
+      "name": "Mandarin",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BABYTV-1.png",
       "website": "https://www.mandarintv.fr/"
     },
     {
-      "name": "Maritima TV",
+      "name": "Maritima",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://maritima.fr/"
     },
     {
-      "name": "Marmiton TV",
+      "name": "Marmiton",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/marmitonn.png",
       "website": "https://tv.marmiton.org/"
     },
     {
-      "name": "Maurienne TV",
+      "name": "Maurienne",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.maurienne.tv/"
     },
     {
-      "name": "Men's UP TV",
+      "name": "Men's UP",
       "isFree": true,
       "website": "https://www.mensup.fr/"
     },
     {
-      "name": "Mistral TV",
+      "name": "Mistral",
       "isFree": true,
       "website": "https://mistraltv.fr/"
     },
     {
       "name": "Monte Carlo Digital Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg"
+      "isFree": true
     },
     {
       "name": "Mosaik Cristal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmqocSNKCgMY5yrVOOmfCUHdXkl.jpg",
       "website": "https://www.mosaik-cristal.tv/"
     },
     {
-      "name": "Moselle TV",
+      "name": "Moselle",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MOSELLETV.png",
       "website": "https://moselle.tv/"
     },
     {
       "name": "MTV",
       "isFree": true,
       "keywords": "mtv -classics -hits",
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://www.mtv.fr/",
       "priority": 10
     },
     {
       "name": "MyZen Nature",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.myzen.tv/"
     },
     {
-      "name": "MyZen TV",
+      "name": "My Zen",
       "isFree": true,
       "keywords": "my zen tv | myzen tv -4k",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/04/03/20150403222251317649_98.jpg",
       "website": "https://www.myzen.tv/"
     },
     {
       "name": "MyZen TV 4K",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.myzen.tv/"
     },
     {
-      "name": "N31",
-      "isFree": true,
-      "website": "https://www.n31.tv/"
+      "name": "Nathan",
+      "isFree": true
     },
     {
-      "name": "Nathan TV",
+      "name": "NA",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/23230.jpg"
-    },
-    {
-      "name": "NA TV",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/MANO YA NA MANO TV.png",
       "website": "https://natv.fr/"
     },
     {
       "name": "Nina TV English",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg",
       "website": "http://www.nina-tv.com/en"
     },
     {
       "name": "Nina TV French",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg",
       "website": "http://www.nina-tv.com/"
     },
     {
@@ -1127,20 +950,17 @@
     {
       "name": "Nollywood TV Epic",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NEGIRIA/NOLLYWOOD .png",
       "website": "https://www.nollywoodtv.fr/"
     },
     {
       "name": "Non Stop People",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg",
       "website": "http://non-stop-tv.fr/"
     },
     {
       "name": "Novo 19",
       "isFree": true,
-      "keywords": "novo 19 | novo19",
-      "logo": "https://go4.pw/BRAZIL/NOVO.png"
+      "keywords": "novo 19 | novo19"
     },
     {
       "name": "Novocomedy",
@@ -1150,24 +970,20 @@
     {
       "name": "NRJ 12",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png",
       "website": "https://www.nrj-play.fr/nrj12"
     },
     {
       "name": "OCS",
       "isFree": true,
-      "keywords": "ocs -choc -city -city generation hbo -geants -happy -max -novo -pulp",
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png"
+      "keywords": "ocs -choc -city -city generation hbo -geants -happy -max -novo -pulp"
     },
     {
       "name": "OCS City generation HBO",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png"
+      "isFree": true
     },
     {
       "name": "OCS Happy",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/"
     },
     {
@@ -1176,57 +992,48 @@
       "website": "https://www.octele.com/"
     },
     {
-      "name": "Olympia TV",
+      "name": "Olympia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBgHbdny0L8IQNt7AnMye6IENjD.jpg",
       "website": "https://www.canalplus.com/chaines/olympia-tv/"
     },
     {
       "name": "Paris Premiere",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUg0HDLhTEDcXGBU2iK6QRBILv4.jpg",
       "website": "https://www.6play.fr/pp"
     },
     {
       "name": "Persiana Comedy",
       "isFree": true,
-      "logo": "https://i.imgur.com/DBZ3Pi5.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Game & Tech",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6c61b94517087df7099860c437273ba1.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Reality",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Science",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://www.persianagroup.tv/live/persiana-science"
     },
     {
       "name": "Persiana Turkiye",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
       "website": "https://www.persianagroup.tv/live/persiana-turkiye"
     },
     {
       "name": "Persiana Two",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://www.persianagroup.tv/live/persiana-two"
     },
     {
-      "name": "Pink TV",
+      "name": "Pink",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg",
       "website": "http://www.pinktv.fr/"
     },
     {
@@ -1248,7 +1055,6 @@
     {
       "name": "Planete+ Aventure",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ykhrtuB9m3GAxVuf9IyKYqiZ0M.jpg",
       "website": "https://www.canalplus.com/chaines/les-chaines-planete"
     },
     {
@@ -1262,8 +1068,7 @@
     },
     {
       "name": "Private Spice",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
+      "isFree": null
     },
     {
       "name": "Proximus TV RegInfo",
@@ -1271,15 +1076,13 @@
       "website": "https://www.pickx.be/"
     },
     {
-      "name": "Public Senat 24/24",
+      "name": "Public Senat 24/ 24",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.publicsenat.fr/"
     },
     {
-      "name": "Puissance TV",
+      "name": "Puissance",
       "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg",
       "website": "https://www.puissancetelevision.fr/play/direct"
     },
     {
@@ -1290,13 +1093,11 @@
     {
       "name": "Radio Mont Blanc",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radiomontblanc.fr/"
     },
     {
-      "name": "RFM TV",
+      "name": "RFM",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/RFMTV.png",
       "website": "http://www.rfm.fr/videos/RFMTV"
     },
     {
@@ -1312,36 +1113,30 @@
     {
       "name": "RMC Story",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "http://www.numero23.fr/"
     },
     {
-      "name": "Science & Vie TV",
+      "name": "Science & Vie",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
       "website": "http://www.science-et-vie.tv/"
     },
     {
       "name": "Seasons",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/SEASONS.png"
+      "isFree": true
     },
     {
       "name": "Senat Direct",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/PUBLICSENAT.png",
       "website": "https://videos.senat.fr/direct"
     },
     {
       "name": "Serie Club",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/ITALY.png",
       "website": "https://pro.m6.fr/serieclub/"
     },
     {
-      "name": "Sikka TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fd0aa1a2a20b13ff91550c743ddb327c.png"
+      "name": "Sikka",
+      "isFree": true
     },
     {
       "name": "Studiocanal",
@@ -1355,7 +1150,6 @@
     {
       "name": "Sud Radio",
       "isFree": true,
-      "logo": "https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png",
       "website": "https://www.sudradio.fr/"
     },
     {
@@ -1364,20 +1158,13 @@
       "website": "http://www.syfy.fr/"
     },
     {
-      "name": "T18",
+      "name": "Tebeo",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/T18.png"
-    },
-    {
-      "name": "Tebeo TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TEBEO.png",
       "website": "https://www.tebeo.bzh/"
     },
     {
       "name": "TebeSud",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a9e931994b1d7006aeb9333dcbc55636.png"
+      "isFree": true
     },
     {
       "name": "TeleAntilles",
@@ -1387,13 +1174,11 @@
     {
       "name": "Tele Bocal",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://telebocal.org/"
     },
     {
       "name": "TeleGohelle",
       "isFree": true,
-      "logo": "https://i.imgur.com/Oa3Pwbf.png",
       "website": "https://telegohelle.agglo-lenslievin.fr/"
     },
     {
@@ -1404,13 +1189,11 @@
     {
       "name": "Telenantes",
       "isFree": true,
-      "logo": "https://i.imgur.com/G1SCqNI.png",
       "website": "https://telenantes.ouest-france.fr/"
     },
     {
       "name": "Telesud",
       "isFree": true,
-      "logo": "https://i.postimg.cc/yY23dfg2/telesud.png",
       "website": "https://www.telesud.com/"
     },
     {
@@ -1422,18 +1205,15 @@
     {
       "name": "Teva",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TEVA_SD.png",
       "website": "https://www.6play.fr/teva"
     },
     {
       "name": "TiVi5 Monde",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/L8kHKJv7/tivi5monde.png"
+      "isFree": true
     },
     {
-      "name": "TL7",
+      "name": "TL 7",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TL7.png",
       "website": "https://www.tl7.fr/"
     },
     {
@@ -1447,27 +1227,23 @@
       "website": "https://www.tlva.fr/"
     },
     {
-      "name": "Top Sante TV",
+      "name": "Top Sante",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.topsante.com/"
     },
     {
       "name": "Toute l'Histoire",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/4.png",
       "website": "http://www.toutelhistoire.com/"
     },
     {
       "name": "Trek",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "http://www.trekhd.tv/"
     },
     {
-      "name": "TTN TV",
+      "name": "TTN",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.ttn.tv"
     },
     {
@@ -1478,7 +1254,6 @@
     {
       "name": "TV3V",
       "isFree": true,
-      "logo": "https://i.imgur.com/0wgzN59.png",
       "website": "https://www.tv3v.fr/"
     },
     {
@@ -1505,11 +1280,10 @@
     {
       "name": "TV5Monde Latin America",
       "isFree": true,
-      "logo": "https://i.imgur.com/x8rjGhp.png",
       "website": "https://latina.tv5monde.com/"
     },
     {
-      "name": "TV5Monde Maghreb-Orient",
+      "name": "TV5Monde Maghreb Orient",
       "isFree": true,
       "website": "https://maghreb-orient.tv5monde.com/"
     },
@@ -1526,80 +1300,67 @@
     {
       "name": "TV5 Monde USA",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png",
       "website": "http://usa.tv5monde.com/"
     },
     {
       "name": "TV7 Bordeaux",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a75f9b9efe21a47d7b8487fa755c35da.png"
+      "isFree": true
     },
     {
-      "name": "TV8 Moselle-Est",
+      "name": "TV8 Moselle Est",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png",
       "website": "https://tv8.fr/"
     },
     {
       "name": "TV Breizh",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvbreizh.fr/"
     },
     {
       "name": "TV Erstein",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tverstein.fr/"
     },
     {
       "name": "TV Pitchoun",
       "isFree": true,
-      "keywords": "tv pitchoun -kids music",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "keywords": "tv pitchoun -kids music"
     },
     {
       "name": "TV Pitchoun Kids Music",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Sud Provence",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://tvsudprovence.fr/"
     },
     {
       "name": "TV Tarn",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvtarn.fr/"
     },
     {
       "name": "TV Tours",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvtours.fr/"
     },
     {
       "name": "TV Vendee",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvvendee.fr/"
     },
     {
       "name": "Unearth",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/261242e223303af819b541b5dcda7606.png"
+      "isFree": true
     },
     {
-      "name": "Ushuaia TV",
+      "name": "Ushuaia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/USHUAIA_FHD.png",
       "website": "https://www.ushuaiatv.fr/"
     },
     {
-      "name": "Via93",
+      "name": "Via 93",
       "isFree": true,
       "website": "https://via93.tv/"
     },
@@ -1616,14 +1377,12 @@
     {
       "name": "ViaMatele",
       "isFree": true,
-      "logo": "https://i.imgur.com/kmna9PU.png",
       "website": "https://viamatele.tv/"
     },
     {
       "name": "Via Occitanie",
       "isFree": true,
       "keywords": "via occitanie | viaoccitanie -montpellier -pays catalan -pays gardois -toulouse",
-      "logo": "https://go4.pw/AFRICA/VIA.png",
       "website": "https://viaoccitanie.tv/"
     },
     {
@@ -1649,7 +1408,6 @@
     {
       "name": "viaTelePaese",
       "isFree": true,
-      "logo": "https://i.imgur.com/TLZsAKK.png",
       "website": "https://viatelepaese.tv/"
     },
     {
@@ -1662,91 +1420,82 @@
       "isFree": true
     },
     {
-      "name": "Vosges TV",
+      "name": "Vosges",
       "isFree": true,
-      "logo": "https://i.imgur.com/7y7ancc.png",
       "website": "https://www.viavosges.tv/"
     },
     {
-      "name": "Wataaa TV",
+      "name": "Wataaa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.wataaatv.com/"
     },
     {
-      "name": "WatsUp TV",
+      "name": "WatsUp",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://watsup.tv/"
     },
     {
       "name": "Weo",
       "isFree": true,
       "keywords": "weo -picardie",
-      "logo": "https://go4.pw/EUROPE/FRANCE/WEO_FHD.png",
       "website": "https://www.weo.fr/"
     },
     {
       "name": "Weo Picardie",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/WEO_FHD.png",
       "website": "https://www.weo.fr/"
     },
     {
       "name": "XXL",
       "isFree": null,
-      "logo": "http://epg.one/img2/2775.png",
       "website": "https://www.xxltv.fr/"
     },
     {
       "name": "Automoto La chaîne",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AUTOMOTO.png"
-    },
-    {
-      "name": "AB3",
-      "isFree": null,
-      "logo": "http://static.epg.best/fr/AB3.fr.png"
-    },
-    {
-      "name": "ABX (TV channel)",
       "isFree": null
     },
     {
-      "name": "Action (French TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
+      "name": "AB 3",
+      "isFree": null
     },
     {
-      "name": "beIN Sports (French TV channel)",
+      "name": "ABX",
+      "isFree": null
+    },
+    {
+      "name": "Action",
       "isFree": null,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png"
+      "_alt_origName": [
+        "Action (TV)"
+      ]
+    },
+    {
+      "name": "beIN Sports",
+      "isFree": null,
+      "_alt_origName": [
+        "beIN Sports (France)"
+      ]
     },
     {
       "name": "BabyFirst",
-      "isFree": null,
-      "logo": "http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"
+      "isFree": null
     },
     {
       "name": "Chasse et Pêche",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MOSs0MxE8MNVxwT8MJZXNrRHMI.jpg"
+      "isFree": null
     },
     {
-      "name": "Dorcel TV",
-      "isFree": null,
-      "logo": "http://epg.one/img2/2324.png"
+      "name": "Dorcel",
+      "isFree": null
     },
     {
-      "name": ":fr:France 3 Via Stella",
+      "name": "France 3 Via Stella",
       "isFree": null,
-      "logo": "https://lo1.in/uk/247.png",
       "priority": 9
     },
     {
-      "name": "France Info (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "name": "France Info",
+      "isFree": null
     },
     {
       "name": "Golf Channel France",
@@ -1755,172 +1504,112 @@
     {
       "name": "TF1 Séries Films",
       "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/eee6ab23bd16e546b1de552efb155419.png",
       "priority": 10
     },
     {
       "name": "La Chaîne parlementaire",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
-      "name": "Lucky Jack.tv",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg"
+      "name": "Lucky Jack",
+      "isFree": null
     },
     {
-      "name": "M6 (television channel)",
+      "name": "Mangas",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
-      "priority": 8
-    },
-    {
-      "name": "Mangas (TV)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MANGAS.png"
+      "_alt_origName": [
+        "Mangas (TV network)"
+      ]
     },
     {
       "name": "RMC Découverte",
       "isFree": null
     },
     {
-      "name": "RTL9",
-      "isFree": null,
-      "logo": "https://i.imgur.com/nFqjVNW.png"
+      "name": "RTL 9",
+      "isFree": null
     },
     {
-      "name": "Science et Vie TV",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png"
+      "name": "Science et Vie",
+      "isFree": null
     },
     {
       "name": "La Chaîne Info",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
-      "name": "T18 (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/T18.png"
+      "name": "T 18",
+      "isFree": null
     },
     {
-      "name": "TFX (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/CANAL+/TFX.png"
+      "name": "TFX",
+      "isFree": null
     },
     {
-      "name": "TMC (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TMC_1.png"
+      "name": "Trek",
+      "isFree": null
     },
     {
-      "name": "Trek (TV channel)",
+      "name": "W 9",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
-    },
-    {
-      "name": "Téva",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TEVA_SD.png"
-    },
-    {
-      "name": "W9 (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/SWITZERLAND/w9.png",
       "priority": 8
-    },
-    {
-      "name": "XXL (French TV)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg"
     },
     {
       "name": "Al Jazeera English",
       "isFree": null,
-      "logo": "http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",
       "priority": 10
     },
     {
-      "name": "beIN Sports (France)",
-      "isFree": null,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png"
+      "name": "Boomerang",
+      "isFree": null
     },
     {
-      "name": "Boomerang (French TV channel)",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
-    },
-    {
-      "name": "Canal+ (French TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "priority": 10
-    },
-    {
-      "name": ":fr:Canal+ Box Office",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg",
-      "priority": 10
-    },
-    {
-      "name": "Canal+ Cinéma(s)",
+      "name": "Canal+",
       "isFree": null,
       "priority": 10
     },
     {
-      "name": ":fr:Canal+ Foot",
+      "name": "Canal+ Cinéma",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
       "priority": 10
     },
     {
-      "name": ":fr:Canal+ Grand Écran",
+      "name": "Canal+ Foot",
       "isFree": null,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
       "priority": 10
     },
     {
-      "name": ":fr:Canal+ Live",
+      "name": "Canal+ Sport",
       "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "priority": 10
     },
     {
-      "name": "Canal+ Sport (French TV channel)",
+      "name": "Canal+ Sport 360",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "priority": 10
     },
     {
-      "name": ":fr:Canal+ Sport 360",
+      "name": "Cartoon Network",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
-      "priority": 10
+      "_alt_origName": [
+        "Cartoon Network (France)"
+      ]
     },
     {
-      "name": "Cartoon Network (French TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
-    },
-    {
-      "name": "Cartoonito (French TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+      "name": "Cartoonito",
+      "isFree": null
     },
     {
       "name": "Ciné+ OCS",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png"
+      "isFree": null
     },
     {
       "name": "CNBC Europe",
-      "isFree": null,
-      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"
+      "isFree": null
     },
     {
       "name": "CNN International",
       "isFree": null,
-      "logo": "https://i.imgur.com/05S3yYZ.png",
       "priority": 10
     },
     {
@@ -1928,286 +1617,112 @@
       "isFree": null
     },
     {
-      "name": "Comedy Central (French TV channel)",
-      "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+      "name": "Comedy Central",
+      "isFree": null
     },
     {
       "name": "DAZN",
-      "isFree": null,
-      "logo": "https://1.bp.blogspot.com/-gw9UY-FHXco/XxPVkr-E4eI/AAAAAAAAAe0/zbRRoLzjjegaDlohvmGUFA1MsL0zeCl8QCLcBGAsYHQ/w200-h200/DAZN.png"
+      "isFree": null
     },
     {
       "name": "Discovery Channel France",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": ":fr:Equidia",
+      "name": "Equidia",
       "isFree": null
     },
     {
-      "name": "Europe 1",
+      "name": "Europe",
       "isFree": null,
-      "keywords": "europe 1 -tv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg"
+      "keywords": "europe 1",
+      "website": "https://www.europe1.fr/"
     },
     {
-      "name": ":fr:Europe 2 Pop TV",
-      "isFree": null,
-      "logo": "https://lo1.in/uk/247.png"
-    },
-    {
-      "name": ":fr:Golf+",
+      "name": "Golf +",
       "isFree": null
     },
     {
-      "name": ":fr:Gong (chaîne de télévision)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
-    },
-    {
-      "name": ":fr:InfoSport+",
+      "name": "Gong",
       "isFree": null
     },
     {
-      "name": "Investigation Discovery (European TV channel)",
+      "name": "InfoSport+",
+      "isFree": null
+    },
+    {
+      "name": "Investigation Discovery",
       "isFree": null,
-      "logo": "https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png",
       "priority": 9
     },
     {
       "name": "I24news",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
-    },
-    {
-      "name": "KTO (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/SWITZERLAND/kto.png"
+      "isFree": null
     },
     {
       "name": "La Chaîne Météo",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
-    },
-    {
-      "name": "L'Équipe (TV channel)",
       "isFree": null
     },
     {
-      "name": "M6 (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
-      "priority": 8
-    },
-    {
-      "name": "Mangas (TV network)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MANGAS.png"
-    },
-    {
-      "name": ":fr:MGG TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Mezzo TV",
-      "isFree": null,
-      "logo": "https://go4.pw/SPAIN/MEZL.png"
-    },
-    {
-      "name": "Mezzo Live HD",
+      "name": "L'Équipe",
       "isFree": null
     },
     {
-      "name": "MTV (French TV channel)",
+      "name": "M 6",
       "isFree": null,
       "priority": 8
     },
     {
-      "name": "MTV Hits (French TV channel)",
+      "name": "MGG",
+      "isFree": null
+    },
+    {
+      "name": "MTV",
       "isFree": null,
       "priority": 8
     },
     {
-      "name": "National Geographic Channel (France)",
+      "name": "MTV Hits",
       "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
+      "priority": 8
+    },
+    {
+      "name": "National Geographic",
+      "isFree": null,
       "priority": 9
     },
     {
-      "name": "Nickelodeon (French TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
+      "name": "Nickelodeon",
+      "isFree": null
     },
     {
-      "name": ":fr:NRJ Hits",
-      "isFree": null,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+      "name": "NRJ Hits",
+      "isFree": null
     },
     {
-      "name": "OCS (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png"
-    },
-    {
-      "name": ":fr:Olympia TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "OCS",
+      "isFree": null
     },
     {
       "name": "Paris Première",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUg0HDLhTEDcXGBU2iK6QRBILv4.jpg"
+      "isFree": null
     },
     {
-      "name": "Pink TV (France)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg"
+      "name": "Pink",
+      "isFree": null
     },
     {
-      "name": "Planète+",
-      "isFree": null,
-      "keywords": "planete+ -a&e -ci -thalassa"
+      "name": "Public Sénat",
+      "isFree": null
     },
     {
-      "name": ":fr:Public Sénat",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/PUBLICSENAT.png"
-    },
-    {
-      "name": ":fr:RFM TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": ":fr:Seasons (chaîne de télévision)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
-    },
-    {
-      "name": ":fr:Série Club",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+      "name": "Série Club",
+      "isFree": null
     },
     {
       "name": "Turner Classic Movies",
       "isFree": null
-    },
-    {
-      "name": "Télétoon+ (France)",
-      "isFree": null
-    },
-    {
-      "name": "TLC (French TV channel)",
-      "isFree": null
-    },
-    {
-      "name": "TVMonaco",
-      "isFree": null
-    },
-    {
-      "name": "Ushuaïa TV",
-      "isFree": null,
-      "keywords": "ushuaia tv -for change",
-      "logo": "https://go4.pw/EUROPE/FRANCE/USHUAIA_FHD.png"
-    },
-    {
-      "name": "13ème Rue",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/13-EME-RUE.png"
-    },
-    {
-      "name": "Action (TV)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
-    },
-    {
-      "name": "Baby TV",
-      "isFree": null
-    },
-    {
-      "name": ":fr:BFM2",
-      "isFree": null
-    },
-    {
-      "name": "BFM Locales",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
-      "priority": 4
-    },
-    {
-      "name": ":fr:Canal+ Kids",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
-      "priority": 10
-    },
-    {
-      "name": "Cartoon Network (France)",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
-    },
-    {
-      "name": "Discovery Channel (French TV channel)",
-      "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
-      "priority": 9
-    },
-    {
-      "name": "DreamWorks Channel",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/DREAMWORKS.png"
-    },
-    {
-      "name": "E! (French TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Hustler TV (Europe)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fgpf0luNrgDlEQMZucKHzCIMa.jpg"
-    },
-    {
-      "name": "i24NEWS (Israeli TV channel)",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
-    },
-    {
-      "name": ":fr:Ligue 1+",
-      "isFree": null
-    },
-    {
-      "name": "MCM (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MCM_FHD.png"
-    },
-    {
-      "name": "Penthouse TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9yZC2bWYJNkUmiwedrUy9L5hxn.jpg"
-    },
-    {
-      "name": ":fr:Planète+ Crime",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
-    },
-    {
-      "name": ":fr:Planète+ Aventure",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ykhrtuB9m3GAxVuf9IyKYqiZ0M.jpg"
-    },
-    {
-      "name": ":fr:RMC Sport",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
-    },
-    {
-      "name": "Syfy (French TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/SYFY.png"
     },
     {
       "name": "Télétoon+",
@@ -2215,44 +1730,100 @@
       "keywords": "teletoon+ -(france)"
     },
     {
-      "name": ":fr:Trace Caribbean",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
+      "name": "TVMonaco",
+      "isFree": null
     },
     {
-      "name": ":fr:Trace Gospel",
+      "name": "Ushuaïa",
       "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "keywords": "ushuaia tv -for change"
     },
     {
-      "name": ":fr:Trace Toca",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TRACE TOCA.png"
+      "name": "Action",
+      "isFree": null
     },
     {
-      "name": ":fr:B SMART",
+      "name": "Baby",
+      "isFree": null
+    },
+    {
+      "name": "BFM 2",
+      "isFree": null
+    },
+    {
+      "name": "Canal+ Kids",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4diO35a0NM9H1M44zSDtRuQuEXa.jpg"
+      "priority": 10
+    },
+    {
+      "name": "Cartoon Network",
+      "isFree": null
+    },
+    {
+      "name": "Discovery",
+      "isFree": null,
+      "priority": 9
+    },
+    {
+      "name": "DreamWorks",
+      "isFree": null
+    },
+    {
+      "name": "Hustler",
+      "isFree": null
+    },
+    {
+      "name": "i24NEWS",
+      "isFree": null
+    },
+    {
+      "name": "Ligue 1+",
+      "isFree": null
+    },
+    {
+      "name": "MCM",
+      "isFree": null
+    },
+    {
+      "name": "Penthouse",
+      "isFree": null
+    },
+    {
+      "name": "Planète+ Aventure",
+      "isFree": null
+    },
+    {
+      "name": "Télétoon+",
+      "isFree": null,
+      "keywords": "teletoon+ -(france)"
+    },
+    {
+      "name": "Trace Caribbean",
+      "isFree": null
+    },
+    {
+      "name": "Trace Gospel",
+      "isFree": null
+    },
+    {
+      "name": "Trace Toca",
+      "isFree": null
+    },
+    {
+      "name": "B SMART",
+      "isFree": null
     },
     {
       "name": "Canal+ Séries",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
       "priority": 10
     },
     {
-      "name": "Club MTV (European TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+      "name": "Club MTV",
+      "isFree": null
     },
     {
-      "name": "Disney Channel (France)",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
-      "priority": 9
-    },
-    {
-      "name": ":fr:NickToons (France)",
+      "name": "NickToons",
       "isFree": null
     },
     {
@@ -2261,116 +1832,89 @@
     },
     {
       "name": "Stingray CMusic",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": null
     },
     {
       "name": "Stingray Djazz",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png"
+      "isFree": null
     },
     {
       "name": "Stingray iConcerts",
       "isFree": null
     },
     {
-      "name": ":fr:Trace Africa",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Trace Vanilla",
+      "isFree": null
     },
     {
-      "name": ":fr:Trace Vanilla",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg"
-    },
-    {
-      "name": "Canal+ S.A.",
+      "name": "Canal+ S.A",
       "isFree": null,
       "priority": 10
     },
     {
-      "name": "AlloCiné TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "AlloCiné",
+      "isFree": null
     },
     {
-      "name": "Boing (France)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ITALY/boing.png"
+      "name": "Boing",
+      "isFree": null
     },
     {
       "name": "Cap 24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lenJMRtzvNODRRcx2Y2C24rFlAt.jpg"
+      "isFree": null
     },
     {
       "name": "Ciné Box",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
       "name": "Ciné First",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
       "name": "Ciné Palace",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
-      "name": "Ciné Pop",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "name": "CLP",
+      "isFree": null
     },
     {
-      "name": "CLP TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Fit",
+      "isFree": null
     },
     {
-      "name": "Fit TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLwtsKUBhPcZKtrFQfVMpTxa7Of.jpg"
-    },
-    {
-      "name": "Foot School TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg"
+      "name": "Foot School",
+      "isFree": null
     },
     {
       "name": "HGTV",
-      "isFree": null,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png"
+      "isFree": null
     },
     {
-      "name": "IDF1",
+      "name": "IDF",
       "isFree": null
     },
     {
       "name": "Musique classique",
-      "isFree": null,
-      "logo": "http://i.imgur.com/EdTZ0ba.png"
+      "isFree": null
     },
     {
       "name": "Nat Geo Music",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "priority": 9
     },
     {
-      "name": "OM TV",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/INDIA/OM_SHANTI.png"
+      "name": "OM",
+      "isFree": null
     },
     {
       "name": "RFO Sat",
       "isFree": null
     },
     {
-      "name": "Salto (streaming service)",
-      "isFree": null,
-      "logo": "https://go4.pw/LATINO/Canal 4 Salto.png"
+      "name": "Salto",
+      "isFree": null
     },
     {
       "name": "TFJ",
@@ -2382,29 +1926,24 @@
     },
     {
       "name": "France Ô",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "isFree": null
     },
     {
       "name": "Direct 8",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZe5EwKTiE5tNpFZfaM4vP1wAAB.jpg"
+      "isFree": null
     },
     {
       "name": "Direct Star",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZe5EwKTiE5tNpFZfaM4vP1wAAB.jpg"
+      "isFree": null
     },
     {
       "name": "Antennes Locales",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/SPAIN.png",
       "priority": 4
     },
     {
       "name": "Discovery Real Time France",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
@@ -2413,16 +1952,15 @@
       "priority": 9
     },
     {
-      "name": "Voyage (French TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg"
+      "name": "Voyage",
+      "isFree": null
     },
     {
       "name": "Téléfoot",
       "isFree": null
     },
     {
-      "name": "Motors TV",
+      "name": "Motors",
       "isFree": null
     },
     {
@@ -2430,16 +1968,16 @@
       "isFree": null
     },
     {
-      "name": "Escales (TV)",
+      "name": "Escales",
       "isFree": null
     },
     {
-      "name": "MTV Pulse (French TV channel)",
+      "name": "MTV Pulse",
       "isFree": null,
       "priority": 8
     },
     {
-      "name": "MTV Base (French TV channel)",
+      "name": "MTV Base",
       "isFree": null,
       "priority": 8
     },
@@ -2462,169 +2000,139 @@
     },
     {
       "name": "La Cinq",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
       "name": "La Sept",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
-      "name": "TV6 (France)",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/tv6_logo.png"
+      "name": "TV 6",
+      "isFree": null
     },
     {
       "name": "Virgin 17",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg"
+      "isFree": null
     },
     {
-      "name": "Europe 2 TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg"
+      "name": "Europe 2",
+      "isFree": null
     },
     {
-      "name": "June (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkAR2KzmZOUY9fq3rzztkdKEBNR.jpg"
+      "name": "June",
+      "isFree": null
     },
     {
       "name": "TPS Star",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Foot",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
-      "name": "Canal+ 3D (France)",
+      "name": "Canal+ 3D",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwIQ7WDCSiIcNdbferTcU7uI0KV.jpg",
       "priority": 10
     },
     {
-      "name": "Campagnes TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Campagnes",
+      "isFree": null
     },
     {
       "name": "Campus",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97L0aiVbc2SOJbbiPYY8vZzTVzA.jpg"
+      "isFree": null
     },
     {
       "name": "Stingray Brava",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": null
     },
     {
-      "name": "Girondins TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Girondins",
+      "isFree": null
     },
     {
       "name": "Penthouse HDTV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9yZC2bWYJNkUmiwedrUy9L5hxn.jpg"
+      "isFree": null
     },
     {
       "name": "M6 Boutique & Co",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
       "name": "M6 Boutique",
       "isFree": null,
       "keywords": "m6 boutique -& co",
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
-      "name": "Sundance Channel (United States)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg"
+      "name": "Sundance",
+      "isFree": null
     },
     {
       "name": "AB Moteurs",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AB11.png"
+      "isFree": null
     },
     {
-      "name": "AB4",
+      "name": "AB 4",
       "isFree": null
     },
     {
       "name": "Ciné FX",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
       "name": "Ciné Polar",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
-      "name": "Polar (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
+      "name": "Polar",
+      "isFree": null
     },
     {
       "name": "Numéro 23",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mW7AIsZQoj0o20Jr6CkW2pM2qjv.jpg"
+      "isFree": null
     },
     {
       "name": "M6 Music Black",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
       "name": "Ciné+",
       "isFree": null,
-      "keywords": "cine+ -ocs",
-      "logo": "http://i.imgur.com/4pROafv.png"
+      "keywords": "cine+ -ocs"
     },
     {
       "name": "QVC",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174951942025_45.png"
-    },
-    {
-      "name": "Sport+ (French TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "TF6",
       "isFree": null
     },
     {
-      "name": "Jimmy (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg"
+      "name": "Sport+",
+      "isFree": null
     },
     {
-      "name": "Discovery Science (European TV channel)",
+      "name": "TF 6",
+      "isFree": null
+    },
+    {
+      "name": "Jimmy",
+      "isFree": null
+    },
+    {
+      "name": "Discovery Science",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Disney XD (Europe)",
+      "name": "Disney XD",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney Jr. (France)",
+      "name": "Disney Jr",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
@@ -2633,37 +2141,28 @@
       "priority": 10
     },
     {
-      "name": "C8 (French TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/C8.png"
+      "name": "C 8",
+      "isFree": null
     },
     {
       "name": "BFM Régions",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
+      "isFree": null
     },
     {
       "name": "Vià",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/VIA.png"
-    },
-    {
-      "name": "BET (France)",
       "isFree": null
     },
     {
-      "name": "Paramount Network (international)",
-      "isFree": null,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
-    },
-    {
-      "name": ":fr:Wéo Nord-Pas-de-Calais",
+      "name": "BET",
       "isFree": null
     },
     {
-      "name": ":fr:Wéo Picardie",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/WEO_FHD.png"
+      "name": "Paramount Network",
+      "isFree": null
+    },
+    {
+      "name": "Wéo Nord Pas de Calais",
+      "isFree": null
     },
     {
       "name": "Fox Life",
@@ -2671,116 +2170,68 @@
     },
     {
       "name": "Touche pas à mon poste !",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0OIgvhWjQ08SaxwczYn5eil8o3.jpg"
-    },
-    {
-      "name": "La Latina TV",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
-    },
-    {
-      "name": "2/3/4",
-      "isFree": null
-    },
-    {
-      "name": "3/4/5",
-      "isFree": null
-    },
-    {
-      "name": "4/5/6",
-      "isFree": null
-    },
-    {
-      "name": "5/6/7",
-      "isFree": null
-    },
-    {
-      "name": "7/8/9",
-      "isFree": null
-    },
-    {
-      "name": "8/9/10",
       "isFree": null
     },
     {
       "name": "BFM Lyon",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/fe6fe87c152f1aa0f9a727e6780a3811.png"
+      "isFree": null
     },
     {
       "name": "BFM DICI",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
+      "isFree": null
     },
     {
       "name": "BFM Nice Côte d'Azur",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
-    },
-    {
-      "name": ":fr:Tébéo",
       "isFree": null
     },
     {
-      "name": ":fr:Télénantes",
+      "name": "Tébéo",
       "isFree": null
     },
     {
-      "name": ":fr:TL7",
+      "name": "Télénantes",
       "isFree": null
     },
     {
-      "name": ":fr:Canal 31",
+      "name": "Canal 31",
       "isFree": null
     },
     {
-      "name": ":fr:Via Stella",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g10YPJa9ePy1kKmTusAeDXBTeAl.jpg"
+      "name": "Via Stella",
+      "isFree": null
     },
     {
-      "name": ":fr:LDV Média",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "name": "LDV Média",
+      "isFree": null
     },
     {
       "name": "LMtv Sarthe",
       "isFree": null
     },
     {
-      "name": ":fr:Moselle TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": ":fr:TébéSud",
+      "name": "TébéSud",
       "isFree": null
     },
     {
-      "name": ":fr:Télévision locale du Choletais",
+      "name": "Télévision locale du Choletais",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9aJCzqkl30J7BnGysyyrx1f6o.jpg",
       "priority": 4
     },
     {
-      "name": ":fr:TV7 (Bordeaux)",
+      "name": "TV 7",
       "isFree": null
     },
     {
       "name": "MATÉLÉ",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/db8eb4988bff7ede8876c1896e4a8f42.png"
+      "isFree": null
     },
     {
       "name": "TV Vendée",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
-      "name": ":fr:Berry Issoudun Première",
-      "isFree": null,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png"
+      "name": "Berry Issoudun Première",
+      "isFree": null
     },
     {
       "name": "téléGrenoble Isère",
@@ -2788,156 +2239,121 @@
     },
     {
       "name": "Guadeloupe",
-      "isFree": null,
-      "logo": "https://go4.pw/CARIBBIEAN/_GUADELOUPE1ERE.png"
+      "isFree": null
     },
     {
-      "name": "style=\"text-align:center;\"",
+      "name": "style=\"text align:center - \"",
       "isFree": null
     },
     {
       "name": "Martinique",
-      "isFree": null,
-      "logo": "https://go4.pw/CARIBBIEAN/_MARTINIQUE1ERE.png"
+      "isFree": null
     },
     {
       "name": "Mayotte",
-      "isFree": null,
-      "logo": "https://i.imgur.com/7oLUSeO.png"
+      "isFree": null
     },
     {
       "name": "New Caledonia",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "isFree": null
     },
     {
       "name": "French Polynesia",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5QqqxA2OQgeP8fVwXNVjnPT9Qb.jpg"
+      "isFree": null
     },
     {
       "name": "Réunion",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etg1pHDwJfWbr5XeOkVxErjBRld.jpg"
+      "isFree": null
     },
     {
-      "name": "Saint-Martin",
+      "name": "Saint Martin",
       "isFree": null
     },
     {
       "name": "CNews Prime",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal_News.png"
+      "isFree": null
     },
     {
       "name": "Deutsche Grammophon+",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/DEUTSCHE WELLE DEUTSCH.png"
-    },
-    {
-      "name": "Eurosport 360 (1-32)",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
-    },
-    {
-      "name": "Le Figaro TV",
-      "isFree": null,
-      "keywords": "le figaro tv -ile-de-france",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg"
-    },
-    {
-      "name": "Man-X",
       "isFree": null
     },
     {
-      "name": "Museum TV",
-      "isFree": null,
-      "keywords": "museum tv -english -french",
-      "logo": "https://i.imgur.com/WbjURLo.png"
+      "name": "Eurosport 360",
+      "isFree": null
     },
     {
-      "name": "8 Mont-Blanc",
+      "name": "Le Figaro",
       "isFree": null,
-      "logo": "https://static.epg.best/fr/TV8MontBlanc.fr.png"
+      "keywords": "le figaro tv -ile-de-france"
     },
     {
-      "name": "Union TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg"
+      "name": "Man X",
+      "isFree": null
     },
     {
-      "name": "Vixen TV",
+      "name": "Museum",
       "isFree": null,
-      "logo": "http://epg.one/img2/3234.png"
+      "keywords": "museum tv -english -french"
     },
     {
-      "name": "After Foot TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg"
+      "name": "8 Mont Blanc",
+      "isFree": null
+    },
+    {
+      "name": "Union",
+      "isFree": null
+    },
+    {
+      "name": "Vixen",
+      "isFree": null
+    },
+    {
+      "name": "After Foot",
+      "isFree": null
     },
     {
       "name": "Bblack Africa",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BBLACK AFRICA.png"
-    },
-    {
-      "name": "Bblack Caribbean",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BBLACK AFRICA.png"
-    },
-    {
-      "name": "Bblack Classic",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BBLACK AFRICA.png"
-    },
-    {
-      "name": "Hot Video TV",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
-    },
-    {
-      "name": "Journal Du Golf TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/L0PuzTxS6W3YrzWS5cQ9upV4th.jpg"
-    },
-    {
-      "name": "Ligue 1+ (2-10)",
-      "isFree": null,
-      "logo": "https://go4.pw/57.png"
-    },
-    {
-      "name": "Luxe.TV",
       "isFree": null
     },
     {
-      "name": "Men TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i83Ykng2HVY5EF043zMmeQdLUQY.jpg"
+      "name": "Bblack Caribbean",
+      "isFree": null
+    },
+    {
+      "name": "Bblack Classic",
+      "isFree": null
+    },
+    {
+      "name": "Hot Video",
+      "isFree": null
+    },
+    {
+      "name": "Luxe",
+      "isFree": null
+    },
+    {
+      "name": "Men",
+      "isFree": null
     },
     {
       "name": "Mieux",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QwNDX9aa1CAZzZ7sGdMXq6YYug.jpg"
+      "isFree": null
     },
     {
       "name": "OL Play",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewjG2A3dStbYppYxyCkrDJRal9c.jpg"
+      "isFree": null
     },
     {
-      "name": "Private TV",
-      "isFree": null,
-      "logo": "http://epg.one/img2/2321.png"
+      "name": "Private",
+      "isFree": null
     },
     {
       "name": "360 Tunebox",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/360.png"
+      "isFree": null
     },
     {
-      "name": "Drive In Movie Channel",
-      "isFree": null,
-      "logo": "https://logodix.com/logo/1104724.png"
+      "name": "Drive In Movie",
+      "isFree": null
     },
     {
       "name": "Eurochannel",
@@ -2945,33 +2361,27 @@
     },
     {
       "name": "Free Foot",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+      "isFree": null
     },
     {
       "name": "Souvenirs From Earth",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTXsqcQsfp2B1J9LSmBFoN9NeAh.jpg"
+      "isFree": null
     },
     {
       "name": "Stingray Festival 4K",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": null
     },
     {
       "name": "Trace Teranga",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg"
+      "isFree": null
     },
     {
       "name": "Alice Nevers : Le juge est une femme",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg"
+      "isFree": null
     },
     {
       "name": "Baby Boom",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3nPjrNXdDTG9d0mJcLwwUI9EiA.jpg"
+      "isFree": null
     },
     {
       "name": "Balthazar",
@@ -2979,8 +2389,7 @@
     },
     {
       "name": "Camping Paradis",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JK12rt0xERGMg1YxLA17zF955Q.jpg"
+      "isFree": null
     },
     {
       "name": "Cédric",
@@ -2992,13 +2401,11 @@
     },
     {
       "name": "Comédie Fiction",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/COMEDIE.png"
+      "isFree": null
     },
     {
       "name": "Cry Babies BFF",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzJBmh8U5ofExJara4nrdqlW8f3.jpg"
+      "isFree": null
     },
     {
       "name": "Danse avec les stars",
@@ -3006,13 +2413,11 @@
     },
     {
       "name": "Demain nous appartient",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrVlCtaYWY9b8kawD62nLqmVCbf.jpg"
+      "isFree": null
     },
     {
       "name": "Famille d'accueil",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZArXlELd5tQXcXOHW64gFGTuEF.jpg"
+      "isFree": null
     },
     {
       "name": "Foudre",
@@ -3020,58 +2425,47 @@
     },
     {
       "name": "Ici tout commence",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": null
     },
     {
       "name": "Je te promets",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg"
+      "isFree": null
     },
     {
-      "name": "Joséphine, ange gardien",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYVlLd6YupbK1nFvHPCGlKe2okD.jpg"
+      "name": "Joséphine - ange gardien",
+      "isFree": null
     },
     {
       "name": "La Villa des cœurs brisés",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
       "name": "Le Destin de Lisa",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg"
+      "isFree": null
     },
     {
       "name": "Les Bracelets rouges",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
+      "isFree": null
     },
     {
       "name": "Les caméras cachées de François Damiens",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
+      "isFree": null
     },
     {
       "name": "Les Enfoirés",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
+      "isFree": null
     },
     {
       "name": "Les Mystères de l'amour",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
+      "isFree": null
     },
     {
       "name": "Les Restaurants du Cœur",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
+      "isFree": null
     },
     {
-      "name": "Lolywood TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AT93hcB9k3M58axhzmoH34JrU5.jpg"
+      "name": "Lolywood",
+      "isFree": null
     },
     {
       "name": "Mamans & célèbres",
@@ -3079,36 +2473,30 @@
     },
     {
       "name": "Mask Singer France",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewFEIWkszzZbZ2aJOSQlb4ffVgI.jpg"
+      "isFree": null
     },
     {
       "name": "Mighty Express",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg"
+      "isFree": null
     },
     {
       "name": "Naruto",
-      "isFree": null,
-      "logo": "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png"
+      "isFree": null
     },
     {
       "name": "Nos chers voisins",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOzZv2tBX6SRExVCKnbBfV139C.jpg"
+      "isFree": null
     },
     {
-      "name": "Palmashow TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Palmashow",
+      "isFree": null
     },
     {
       "name": "Pas de secrets entre nou",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0OIgvhWjQ08SaxwczYn5eil8o3.jpg"
+      "isFree": null
     },
     {
-      "name": "Plus belle la vie, encore plus belle",
+      "name": "Plus belle la vie - encore plus belle",
       "isFree": null
     },
     {
@@ -3117,145 +2505,116 @@
     },
     {
       "name": "Secret Story",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg"
+      "isFree": null
     },
     {
       "name": "Section de recherches",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg"
+      "isFree": null
     },
     {
       "name": "Sous le soleil",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHgRbVEBF9QqL0RDKhqYKSfnpYy.jpg"
+      "isFree": null
     },
     {
-      "name": "Star Academy France 2001-2008",
+      "name": "Star Academy France 2001 2008",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "priority": 9
     },
     {
       "name": "Ushuaïa TV For Change",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/USHUAIA_FHD.png"
+      "isFree": null
     },
     {
       "name": "France TV Docs",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "isFree": null
     },
     {
       "name": "France TV Roland Garros",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "isFree": null
     },
     {
       "name": "France TV Séries",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "isFree": null
     },
     {
       "name": "INA",
-      "isFree": null,
-      "logo": "https://i.imgur.com/30HzeQe.png"
-    },
-    {
-      "name": "Enquêtes criminelles 24/24",
-      "isFree": null,
-      "logo": "https://i.imgur.com/30HzeQe.png"
-    },
-    {
-      "name": "Incroyables Transformations 24/24",
       "isFree": null
     },
     {
-      "name": "NFL 24/24",
+      "name": "Enquêtes criminelles 24/ 24",
       "isFree": null
     },
     {
-      "name": "Le Live by M6+ 24/24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg"
-    },
-    {
-      "name": "Le Reines du Shopping 24/24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg"
-    },
-    {
-      "name": "Les Marseillais 24/24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nwlxu9EbWV5ymyg5v4C1ySdgxd.jpg"
-    },
-    {
-      "name": "Téléfilm 24/24",
+      "name": "Incroyables Transformations 24/ 24",
       "isFree": null
     },
     {
-      "name": "Turbo 24/24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg"
+      "name": "Le Live by M6+ 24/ 24",
+      "isFree": null
     },
     {
-      "name": "Zone Interdite 24/24",
+      "name": "Le Reines du Shopping 24/ 24",
+      "isFree": null
+    },
+    {
+      "name": "Les Marseillais 24/ 24",
+      "isFree": null
+    },
+    {
+      "name": "Téléfilm 24/ 24",
+      "isFree": null
+    },
+    {
+      "name": "Turbo 24/ 24",
+      "isFree": null
+    },
+    {
+      "name": "Zone Interdite 24/ 24",
       "isFree": null
     },
     {
       "name": "BFM Grands Reportages",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
+      "isFree": null
     },
     {
       "name": "RMC Alerte Secours",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
       "name": "RMC J'irai dormir chez vous",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
       "name": "RMC Mecanic",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
       "name": "RMC Mystère",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
       "name": "RMC Talk Info",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
       "name": "RMC Wow",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/15.png"
+      "isFree": null
     },
     {
-      "name": "L'Équipe Live 1",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "L'Équipe Live",
+      "isFree": null
     },
     {
       "name": "L'Équipe Live 2",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": null
     },
     {
       "name": "Angers 7",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/ANGERS_TV.png"
+      "isFree": null
     },
     {
-      "name": "Aqui TV",
-      "isFree": null,
-      "logo": "https://go4.pw/SPAIN/DIRECTOAQUÍ.png"
+      "name": "Aqui",
+      "isFree": null
     },
     {
       "name": "Bandiagara",
@@ -3263,8 +2622,7 @@
     },
     {
       "name": "Bravo",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2023/02/12/large/20230212225528892223_79.png"
+      "isFree": null
     },
     {
       "name": "C9 Télévision",
@@ -3272,38 +2630,31 @@
     },
     {
       "name": "C'était Hier",
-      "isFree": null,
-      "logo": "https://images.pluto.tv/channels/609539fa709d6b0007b19887/colorLogoPNG.png"
+      "isFree": null
     },
     {
       "name": "Canal 15",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Canal 28",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Canal Bis",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Canal Infos",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
-      "name": "Cash TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xGDaxBE8NazccpXN6oiwoOe67b.jpg"
+      "name": "Cash",
+      "isFree": null
     },
     {
-      "name": "Célà TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Célà",
+      "isFree": null
     },
     {
       "name": "CFoot",
@@ -3311,101 +2662,83 @@
     },
     {
       "name": "Ciné Folies",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": null
     },
     {
-      "name": "Contact TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg"
+      "name": "Contact",
+      "isFree": null
     },
     {
-      "name": "Elle Girl TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY4x1ArhTFekVdcf5XazhrtKwyR.jpg"
+      "name": "Elle Girl",
+      "isFree": null
     },
     {
       "name": "Eurêka !",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twDgeuiSxIWcNuPGvGOaLxv1mK0.jpg"
+      "isFree": null
     },
     {
-      "name": "Fun TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umYcH5zxDndSio5QUXSQu44hHQ5.jpg"
+      "name": "Fun",
+      "isFree": null
     },
     {
-      "name": "Gourmet TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg"
+      "name": "Gourmet",
+      "isFree": null
     },
     {
       "name": "Humour",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QwNDX9aa1CAZzZ7sGdMXq6YYug.jpg"
+      "isFree": null
     },
     {
-      "name": "iC1",
+      "name": "iC",
       "isFree": null
     },
     {
       "name": "JET",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d31LKiVdfztUlY8MF1oE30wl4iO.jpg"
+      "isFree": null
     },
     {
       "name": "KZTV",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/USA/CBS.png"
+      "isFree": null
     },
     {
       "name": "La Chaîne du père Noël",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
       "name": "Ma planète",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3D78h2j6JVmGFThKbueTZIVKki.jpg"
+      "isFree": null
     },
     {
-      "name": "Match TV",
+      "name": "Match",
       "isFree": null
     },
     {
       "name": "Muzzik",
-      "isFree": null,
-      "logo": "https://i.imgur.com/9dz8MsD.png"
+      "isFree": null
     },
     {
       "name": "Nantes 7",
-      "isFree": null,
-      "logo": "https://go4.pw/57.png"
+      "isFree": null
     },
     {
-      "name": "Normandie TV",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/france.png"
+      "name": "Normandie",
+      "isFree": null
     },
     {
       "name": "Nostalgie la télé",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/4c3fe53c512fa8e68d23aa66e11aea18.png"
+      "isFree": null
     },
     {
       "name": "NRJ Paris",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NRJHITS.png"
+      "isFree": null
     },
     {
-      "name": "Orléans TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRULXsd0rb1lVfnSyQkYPi2nLcB.jpg"
+      "name": "Orléans",
+      "isFree": null
     },
     {
       "name": "Planète Juniors",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KZKv9GCdUc3kzRWTwv9KXVkFYW.jpg"
+      "isFree": null
     },
     {
       "name": "Régions",
@@ -3413,88 +2746,72 @@
     },
     {
       "name": "Romance",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c82d614caaf34bf4fc0a9f12ec8c77eb.png"
+      "isFree": null
     },
     {
       "name": "Santé Vie",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw0Y4KX5czrv1txfykQtvpK3Qh7.jpg"
+      "isFree": null
     },
     {
       "name": "Spectacle",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3UtsYyDbYPTqrewC0qNsUVeQXG.jpg"
+      "isFree": null
     },
     {
       "name": "Télé Bleue",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": null
     },
     {
       "name": "Télé locale Provence",
       "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "priority": 4
     },
     {
       "name": "Télé Toulouse",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": null
     },
     {
       "name": "Télé Sud Vendée",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": null
     },
     {
       "name": "Tempo",
-      "isFree": null,
-      "logo": "https://go4.pw/CARIBBIEAN/TEMPO .png"
+      "isFree": null
     },
     {
-      "name": "Territorial TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Territorial",
+      "isFree": null
     },
     {
-      "name": "Tfou TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tfou",
+      "isFree": null
     },
     {
       "name": "TV10 Angers",
-      "isFree": null,
-      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png"
+      "isFree": null
     },
     {
-      "name": "TV77",
+      "name": "TV 77",
       "isFree": null
     },
     {
       "name": "TV Club",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "Télé emploi",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": null
     },
     {
-      "name": "Villages tv",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Villages",
+      "isFree": null
     },
     {
-      "name": "Virgin Radio TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg"
+      "name": "Virgin Radio",
+      "isFree": null
     },
     {
-      "name": "Voo TV",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/vod11.png"
+      "name": "Voo",
+      "isFree": null
     },
     {
       "name": "Wishline",
@@ -3503,13 +2820,11 @@
     {
       "name": "Canal+ A la demande",
       "isFree": null,
-      "logo": "https://logodix.com/logo/619307.png",
       "priority": 10
     },
     {
       "name": "Equidia Live",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/frlog.png"
+      "isFree": null
     },
     {
       "name": "MCS Tennis",
@@ -3517,8 +2832,7 @@
     },
     {
       "name": "Equidia Life",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/frlog.png"
+      "isFree": null
     },
     {
       "name": "Kombat Sport",
@@ -3526,13 +2840,11 @@
     },
     {
       "name": "SFR Sport",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+      "isFree": null
     },
     {
-      "name": "Renault TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Renault",
+      "isFree": null
     },
     {
       "name": "Onzéo",
@@ -3548,8 +2860,7 @@
     },
     {
       "name": "MCM Africa",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MCM_FHD.png"
+      "isFree": null
     },
     {
       "name": "MyCuisine",
@@ -3557,43 +2868,35 @@
     },
     {
       "name": "TPS Cinéstar",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Homecinéma",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinéculte",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinétoile",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinextrême",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinéfamily",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinéclub",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "TPS Cinécomedy",
-      "isFree": null,
-      "logo": "https://img.redtraffic.xyz/20346.jpg"
+      "isFree": null
     },
     {
       "name": "Planète+ A&E",
@@ -3601,28 +2904,23 @@
     },
     {
       "name": "Planète+ CI",
-      "isFree": null,
-      "logo": "https://go4.pw/FRANCE/avent.png"
+      "isFree": null
     },
     {
       "name": "Ma Chaîne Sport",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3D78h2j6JVmGFThKbueTZIVKki.jpg"
+      "isFree": null
     },
     {
       "name": "MCS Bien Etre",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2Jn5oGcs31nm7BzQx8Yy04Nsed.jpg"
+      "isFree": null
     },
     {
       "name": "MCS Extreme",
-      "isFree": null,
-      "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png"
+      "isFree": null
     },
     {
-      "name": "Liberty TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg"
+      "name": "Liberty",
+      "isFree": null
     },
     {
       "name": "MN+",
@@ -3631,13 +2929,11 @@
     {
       "name": "M6 Music Club",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
       "name": "M6 Music Rock",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
@@ -3645,14 +2941,12 @@
       "isFree": null
     },
     {
-      "name": "Libido TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Libido",
+      "isFree": null
     },
     {
-      "name": "Maison+ - defunct lifestyle commercial station",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png"
+      "name": "Maison+ defunct lifestyle commercial station",
+      "isFree": null
     },
     {
       "name": "RMC Sport News",
@@ -3660,171 +2954,88 @@
     },
     {
       "name": "France TV Paris 2024",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg"
+      "isFree": null
     },
     {
-      "name": "Canal+ Ligue 1",
+      "name": "Canal+ Ligue",
       "isFree": null,
-      "logo": "https://go4.pw/57.png",
       "priority": 10
     },
     {
       "name": "Game One Music 3D",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suASijYyJ3jwwEfPki1V3R8vuO9.jpg"
+      "isFree": null
     },
     {
-      "name": "Terre d'Infos TV",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "name": "Terre d'Infos",
+      "isFree": null
     },
     {
-      "name": "Télim TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Télim",
+      "isFree": null
     },
     {
       "name": "La Chaîne de la fin du monde",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
       "name": "La Chaîne Disco",
-      "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": null
     },
     {
-      "name": "arte",
-      "isFree": true,
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
-      "website": "https://www.arte.tv/"
+      "name": "NOVO 19",
+      "isFree": true
     },
     {
-      "name": "D5tv",
+      "name": "TV5 Monde Europe",
       "isFree": true,
-      "website": "https://d5tv.fr/"
-    },
-    {
-      "name": "NOVO19",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/langfr-512px-Logo_NOVO19_-_2025.svg.png"
-    },
-    {
-      "name": "TV5Monde Europe",
-      "isFree": true,
-      "logo": "https://static.epg.best/fr/TV5MondeEurope.fr.png",
       "website": "https://europe.tv5monde.com/"
     },
     {
-      "name": "ViaOccitanie",
+      "name": "Via Occitanie",
       "isFree": true,
       "website": "https://viaoccitanie.tv/"
     },
     {
-      "name": "CStar",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/C_STAR.png"
-    },
-    {
-      "name": "TV5Monde",
+      "name": "C Star",
       "isFree": null
     },
     {
-      "name": ":fr:Infosport+",
+      "name": "TV5 Monde",
       "isFree": null
     },
     {
-      "name": "BFM Alsace]]",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
-    },
-    {
-      "name": "BFM Lyon]]",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png"
-    },
-    {
-      "name": "TVPI]]",
+      "name": "TV 7",
       "isFree": null
     },
     {
-      "name": "[[BFM DICI",
-      "isFree": null,
-      "logo": "https://i.imgur.com/bV77l68.png"
-    },
-    {
-      "name": "[[:fr:Tébéo",
+      "name": "My Zen",
       "isFree": null
     },
     {
-      "name": "[[:fr:Télénantes",
+      "name": "Frenchlover",
       "isFree": null
     },
     {
-      "name": "[[:fr:TL7",
-      "isFree": null
+      "name": "Journal Du Golf",
+      "isFree": true,
+      "website": "http://www.journaldugolf.fr/"
     },
     {
-      "name": "[[:fr:Canal 31",
-      "isFree": null
+      "name": "Mezzo",
+      "isFree": true,
+      "keywords": "mezzo -live",
+      "website": "https://www.mezzo.tv/"
     },
     {
-      "name": "[[:fr:Via Stella",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g10YPJa9ePy1kKmTusAeDXBTeAl.jpg"
+      "name": "Fashion",
+      "isFree": true,
+      "keywords": "fashion tv -new york -paris -paris-mumbai -pg13 -pg16 -singapore -tokyo -uhd",
+      "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "[[:fr:LDV Média",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
-    },
-    {
-      "name": "[[:fr:Moselle TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "[[:fr:TébéSud",
-      "isFree": null
-    },
-    {
-      "name": "[[:fr:Télévision locale du Choletais",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9aJCzqkl30J7BnGysyyrx1f6o.jpg",
-      "priority": 4
-    },
-    {
-      "name": "[[:fr:TV7 (Bordeaux)",
-      "isFree": null
-    },
-    {
-      "name": "MATÉLÉ]]",
-      "isFree": null
-    },
-    {
-      "name": "TV Vendée]]",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "[[:fr:Berry Issoudun Première",
-      "isFree": null,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png"
-    },
-    {
-      "name": "Saint-Martin]]",
-      "isFree": null
-    },
-    {
-      "name": "My Zen TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg"
-    },
-    {
-      "name": "Frenchlover TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mezzo Live",
+      "isFree": true,
+      "website": "https://www.mezzo.tv/"
     }
   ],
   "Local": [
@@ -3836,50 +3047,41 @@
     {
       "name": "Alsace 20",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3371d653ba177b13b7fa303156da1cb8.png",
       "priority": 4
     },
     {
       "name": "BFM Grand Lille",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3d4f975f915824342622bfa520556f23.png",
       "priority": 4
     },
     {
       "name": "BFM Grand Littoral",
       "isFree": true,
-      "shortName": "BGL",
-      "logo": "https://images.iptvmate.net/tvglogo/9e3fd95499ab3b7ae4c170c00f426b4f.png",
       "priority": 4
     },
     {
       "name": "BFM Lyon",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fe6fe87c152f1aa0f9a727e6780a3811.png",
       "priority": 4
     },
     {
       "name": "BFM Paris",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2ddbfe606a36429081ad45b92640eb53.png",
       "priority": 4
     },
     {
       "name": "TV7 Colmar",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fd278da63c5af39bc96ef9f6708c191c.png",
       "priority": 4
     },
     {
-      "name": "TV78",
+      "name": "TV 78",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bfda5db3652e6e843d0da2091c0d85cc.png",
       "priority": 4
     },
     {
-      "name": "TV8 Mont-Blanc",
+      "name": "TV8 Mont Blanc",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TV8 MONT-BLANC.png",
       "priority": 4
     },
     {
@@ -3890,19 +3092,16 @@
     {
       "name": "TébéSud",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a9e931994b1d7006aeb9333dcbc55636.png",
       "priority": 4
     },
     {
       "name": "Wéo",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/WEO_FHD.png",
       "priority": 4
     },
     {
       "name": "viàMoselleTV",
       "isFree": true,
-      "logo": "https://i.postimg.cc/8km61C52/moselletv.png",
       "priority": 4
     },
     {
@@ -3919,105 +3118,86 @@
   "News": [
     {
       "name": "BFM Business",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722023356555432_88.jpg"
+      "isFree": true
     },
     {
-      "name": "BFM TV",
+      "name": "BFM",
       "isFree": true,
       "keywords": "bfm tv -vertical | bfmtv",
-      "shortName": "BFMTV",
-      "logo": "https://static.epg.best/fr/BFMTV.fr.png",
       "priority": 9
     },
     {
       "name": "Bloomberg TV+",
-      "isFree": true,
-      "logo": "https://i.imgur.com/OuogLHx.png"
+      "isFree": true
     },
     {
       "name": "Cnews",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal_News.png"
+      "isFree": true
     },
     {
       "name": "Euronews",
       "isFree": true,
       "keywords": "euronews -francais",
-      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
       "website": "https://www.euronews.com",
       "priority": 10
     },
     {
       "name": "Euronews Français",
       "isFree": true,
-      "shortName": "EF",
-      "logo": "https://go4.pw/germany/eurns.png",
       "priority": 9
     },
     {
       "name": "France 24 English",
       "isFree": true,
       "shortName": "F2E",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png",
       "priority": 9
     },
     {
       "name": "France 24 Français",
       "isFree": true,
       "shortName": "F2F",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg",
       "priority": 9
     },
     {
       "name": "Franceinfo",
       "isFree": true,
-      "logo": "https://i.imgur.com/eITXz6A.png",
       "website": "https://www.francetvinfo.fr"
     },
     {
       "name": "LCI",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c093b85fc005ea20e89788c1bac56d81.png"
+      "isFree": true
     },
     {
       "name": "LCP",
-      "isFree": true,
-      "logo": "https://i.imgur.com/k7UImOJ.png"
+      "isFree": true
     },
     {
       "name": "Public Sénat",
-      "isFree": true,
-      "logo": "https://i.imgur.com/bJOdFT1.png"
+      "isFree": true
     },
     {
       "name": "RT France",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/47fd58c20ab5813b71570b80bc83cfba.png"
+      "isFree": true
     },
     {
-      "name": "AFP TV",
+      "name": "AFP",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.afp.com/fr/afp-tv"
     },
     {
       "name": "Africa 24",
       "isFree": true,
       "keywords": "africa 24 -english -sport",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821104534160761_51.png",
       "website": "https://africa24tv.com/"
     },
     {
       "name": "Africa 24 English",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://africa24tv.com/english"
     },
     {
       "name": "Africa 24 Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://africa24tv.com/sport"
     },
     {
@@ -4031,81 +3211,68 @@
       "website": "https://fr.africanews.com"
     },
     {
-      "name": "BFM2",
+      "name": "BFM 2",
       "isFree": true,
-      "logo": "https://i.postimg.cc/PrbrSsjT/bfm2.png",
       "website": "https://www.bfmtv.com/en-direct/bfm2/"
     },
     {
       "name": "BFM Cote d'Azur",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/cote-d-azur/"
     },
     {
       "name": "BFM DICI Alpes du Sud",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/bfm-dici/alpes-du-sud/"
     },
     {
-      "name": "BFM DICI Haute-Provence",
+      "name": "BFM DICI Haute Provence",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/bfm-dici/haute-provence/"
     },
     {
       "name": "BFM Marseille",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/marseille/"
     },
     {
       "name": "BFM Normandie",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/normandie/"
     },
     {
-      "name": "BFM Paris Ile-de-France",
+      "name": "BFM Paris Ile de France",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/paris/"
     },
     {
       "name": "BFM Tech & Co",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/tech/"
     },
     {
       "name": "BFM TV Vertical",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/"
     },
     {
       "name": "BFM Var",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png",
       "website": "https://www.bfmtv.com/var/"
     },
     {
       "name": "CNEWS PRIME",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal_News.png",
       "website": "https://www.cnews.fr/le-direct-cnews-prime"
     },
     {
-      "name": "Euromed TV",
+      "name": "Euromed",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://euromedtv.net/"
     },
     {
       "name": "Euronews English",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519055858083746_84.png",
       "website": "https://www.euronews.com/",
       "priority": 10
     },
@@ -4124,106 +3291,86 @@
     {
       "name": "Euronews Greek",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://gr.euronews.com/",
       "priority": 9
     },
     {
       "name": "Euronews Hungarian",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://hu.euronews.com/",
       "priority": 9
     },
     {
       "name": "Euronews Italian",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://it.euronews.com/",
       "priority": 9
     },
     {
       "name": "Euronews Portuguese",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://pt.euronews.com/",
       "priority": 9
     },
     {
       "name": "Euronews Russian",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://ru.euronews.com/",
       "priority": 9
     },
     {
       "name": "Euronews Spanish",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/04/19/large/20220419010749751376_23.png",
       "website": "https://es.euronews.com/",
       "priority": 9
     },
     {
-      "name": "Europe 1 TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
-      "website": "https://www.europe1.fr/"
-    },
-    {
       "name": "Geneve Region Television",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://grtv.news/"
     },
     {
       "name": "Kanal Turan",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://www.kanalturan.com/"
     },
     {
       "name": "La Chaine Meteo",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://www.lachainemeteo.com/"
     },
     {
       "name": "Le Figaro Live",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
       "website": "https://video.lefigaro.fr/"
     },
     {
-      "name": "Le Media TV",
+      "name": "Le Media",
       "isFree": true,
-      "logo": "https://i.imgur.com/OK20oyl.png",
       "website": "https://www.lemediatv.fr/"
     },
     {
-      "name": "Lyon Capitale TV",
+      "name": "Lyon Capitale",
       "isFree": true,
-      "logo": "https://i.imgur.com/4WfnEaj.png",
       "website": "https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct"
     },
     {
-      "name": "NCA-TV",
+      "name": "NCA",
       "isFree": true,
       "website": "https://nca-tv.com/"
     },
     {
       "name": "Tele Toulouse",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
-      "name": "TV5Monde Info",
+      "name": "TV5 Monde Info",
       "isFree": true,
       "website": "https://maghreb-orient.tv5monde.com/en/direct-tv5monde-info"
     },
     {
       "name": "TV Finance",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvfmedia.fr/"
     },
     {
@@ -4232,140 +3379,119 @@
       "website": "https://tvl.fr"
     },
     {
-      "name": "Ubiznews TV",
+      "name": "Ubiznews",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ubiznewstv.com/"
     },
     {
-      "name": "CNews",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/Canal_News.png",
-      "website": "https://www.cnews.fr/",
-      "priority": 8
+      "name": "Europe",
+      "isFree": null,
+      "keywords": "europe 1",
+      "website": "https://www.europe1.fr/"
     }
   ],
   "Kids": [
     {
       "name": "Boing France",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ITALY/boing.png"
+      "isFree": true
     },
     {
       "name": "France 4",
       "isFree": true,
-      "logo": "https://static.epg.best/fr/France4.fr.png",
       "priority": 9
     },
     {
       "name": "Gulli",
       "isFree": true,
-      "keywords": "gulli -bil arabi",
-      "logo": "https://static.epg.best/fr/Gulli.fr.png"
+      "keywords": "gulli -bil arabi"
     },
     {
       "name": "Gulli Bil Arabi",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/GULLI.png"
+      "isFree": true
     },
     {
       "name": "ADN TV+",
       "isFree": true,
-      "logo": "https://i.imgur.com/HQZQyWt.png",
       "website": "https://animationdigitalnetwork.fr/live"
     },
     {
       "name": "Al Rawda",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
       "name": "Boing",
       "isFree": true,
       "keywords": "boing -france",
-      "logo": "https://go4.pw/EUROPE/ITALY/boing.png",
       "website": "http://www.boingtv.fr/"
     },
     {
       "name": "Boomerang",
       "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png",
       "website": "http://www.boomerangtv.fr/"
     },
     {
       "name": "Canal J",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalj.fr/"
     },
     {
       "name": "Canal+ Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://www.disneychannel.fr/",
       "priority": 10
     },
     {
-      "name": "Disney Jr.",
+      "name": "Disney Jr",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "http://www.disney.fr/disney-junior/",
       "priority": 9
     },
     {
       "name": "DreamWorks",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DREAMWORKS.png",
       "website": "http://dreamworkstv.com/"
     },
     {
       "name": "Game One",
       "isFree": true,
       "keywords": "game one -music hd",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suASijYyJ3jwwEfPki1V3R8vuO9.jpg",
       "website": "https://gameone.net"
     },
     {
       "name": "Gong",
       "isFree": true,
       "keywords": "gong -max",
-      "logo": "https://go4.pw/EUROPE/FRANCE/Gong(1).png",
       "website": "http://www.gongnetworks.com/"
     },
     {
       "name": "Gong Max",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/Gong(1).png",
       "website": "http://www.gongnetworks.com/"
     },
     {
       "name": "Gulli Africa",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/GULLI.png",
       "website": "http://www.gulli.fr/"
     },
     {
-      "name": "J-One",
+      "name": "J One",
       "isFree": true,
       "website": "https://www.j-one.com/"
     },
     {
       "name": "Ludikids",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/LUDIKIDS.png",
       "website": "https://ludikids.com/"
     },
     {
       "name": "Mangas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/MANGAS.png",
       "website": "https://www.mangas.fr/"
     },
     {
@@ -4377,31 +3503,26 @@
     {
       "name": "Nickelodeon Junior",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png",
       "website": "https://www.nickelodeonjunior.fr/"
     },
     {
       "name": "Nickelodeon Teen",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nickelodeon.fr/"
     },
     {
       "name": "Persiana Junior",
       "isFree": true,
-      "logo": "https://i.imgur.com/zeKHZYG.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Teen",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-teen-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "TeleToon Africa",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/canadafr/dark.png",
       "website": "http://www.teletoonplus.fr/"
     },
     {
@@ -4417,59 +3538,49 @@
     {
       "name": "Toonami",
       "isFree": true,
-      "logo": "https://i.imgur.com/aSjhZK7.png",
       "website": "https://www.adultswim.com/videos/toonami"
     },
     {
       "name": "Warner TV Next",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_WARNER.png",
       "website": "https://www.warnertvnext.fr"
     },
     {
       "name": "XilamTV",
       "isFree": true,
-      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj",
       "website": "https://xilam.com/en/"
     }
   ],
   "Cooking": [
     {
       "name": "Tastemade France",
-      "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/Tastemade International.png"
+      "isFree": true
     }
   ],
   "Sports": [
     {
       "name": "Trace Sport Stars",
-      "isFree": false,
-      "shortName": "TSS",
-      "logo": "https://i.imgur.com/7HTxrEq.png"
+      "isFree": false
     },
     {
       "name": "4 Sports",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://persianagroup.tv/"
     },
     {
-      "name": "Africa Sports TV",
+      "name": "Africa Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://africasports.tv/"
     },
     {
       "name": "Canal+ Foot",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
       "website": "https://www.canalplus.com/sport/",
       "priority": 10
     },
     {
-      "name": "Canal+ Formula 1",
+      "name": "Canal+ Formula",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnPDLq35sRuaJsjPmwFMjrqqXGP.jpg",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
@@ -4477,56 +3588,48 @@
       "name": "Canal+ Sport",
       "isFree": true,
       "keywords": "canal+ sport -1 -2 -3 -360 -4 -5 -reunion",
-      "logo": "https://i.imgur.com/Q3WjH1Q.png",
       "website": "http://www.canalplus.fr/pid1747-c-sport.html",
       "priority": 10
     },
     {
-      "name": "Canal+ Sport 1",
+      "name": "Canal+ Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/Q3WjH1Q.png",
       "website": "https://www.mycanal.fr/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.mycanal.fr/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.mycanal.fr/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport 360",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.canalplus.com/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.mycanal.fr/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.mycanal.fr/sport/",
       "priority": 10
     },
     {
       "name": "Canal+ Sport Reunion",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://www.canalplus.fr/pid1747-c-sport.html",
       "priority": 10
     },
@@ -4539,145 +3642,122 @@
       "name": "Equidia",
       "isFree": true,
       "keywords": "equidia -pro 1 -pro 2",
-      "logo": "https://go4.pw/FRANCE/frlog.png",
       "website": "https://www.equidia.fr/"
     },
     {
-      "name": "Equidia Pro 1",
+      "name": "Equidia Pro",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/frlog.png",
       "website": "https://www.equidia.fr/"
     },
     {
       "name": "Equidia Pro 2",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/frlog.png",
       "website": "https://www.equidia.fr/"
     },
     {
       "name": "Eurosport",
       "isFree": true,
       "keywords": "eurosport -1 -2 -3 -360 hd 1 -360 hd 2 -360 hd 3 -360 hd 4 -360 hd 5 -360 hd 6 -360 hd 7 -360 hd 8 -360 hd 9 -4 -4k -5 -6 -7 -8 -9",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png",
       "website": "https://www.eurosport.fr/"
     },
     {
-      "name": "Eurosport 1",
+      "name": "Eurosport",
       "isFree": true,
       "website": "https://www.eurosport.fr/"
     },
     {
       "name": "Eurosport 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/Q3WjH1Q.png",
       "website": "https://www.eurosport.fr/"
     },
     {
       "name": "Eurosport 3",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
-      "name": "Eurosport 360 HD 1",
+      "name": "Eurosport 360 HD",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 2",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 3",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 4",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 5",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 6",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 7",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 8",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 360 HD 9",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 4",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 4K",
       "isFree": true,
-      "logo": "http://epg.one/img2/2747.png",
       "website": "https://4k.eurosport.ru/"
     },
     {
       "name": "Eurosport 5",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 6",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 7",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 8",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Eurosport 9",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://eurosport.com/"
     },
     {
       "name": "Fighting Spirit",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75e5d00ddda6d617bec2a1c711d96bf1.png",
       "website": "https://fighting.fr/"
     },
     {
@@ -4687,18 +3767,12 @@
       "website": "http://www.canalsat.fr/"
     },
     {
-      "name": "Foot+ 24/24",
-      "isFree": true,
-      "website": "http://www.canalsat.fr/"
-    },
-    {
       "name": "France TV PARIS 2024",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg",
       "website": "https://www.france.tv/"
     },
     {
-      "name": "Golf Channel",
+      "name": "Golf",
       "isFree": true,
       "website": "http://www.golfchannel.fr/"
     },
@@ -4715,13 +3789,11 @@
     {
       "name": "Journal Du Golf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/L0PuzTxS6W3YrzWS5cQ9upV4th.jpg",
       "website": "http://www.journaldugolf.fr/"
     },
     {
-      "name": "Kozoom TV",
+      "name": "Kozoom",
       "isFree": true,
-      "logo": "https://i.imgur.com/M1Ee79b.png",
       "website": "https://tv.kozoom.com/"
     },
     {
@@ -4730,45 +3802,38 @@
       "website": "https://www.lequipe.fr/lachainelequipe/"
     },
     {
-      "name": "MGG TV",
+      "name": "MGG",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.millenium.gg/"
     },
     {
-      "name": "Motorsport.tv",
+      "name": "Motorsport",
       "isFree": true,
-      "logo": "https://i.imgur.com/qmczb2N.png",
       "website": "https://motorsport.tv/"
     },
     {
-      "name": "MultiSports 1",
+      "name": "MultiSports",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.canalsat.fr/"
     },
     {
       "name": "MultiSports 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.canalsat.fr/"
     },
     {
       "name": "MultiSports 3",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.canalsat.fr/"
     },
     {
       "name": "MultiSports 4",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.canalsat.fr/"
     },
     {
       "name": "MultiSports 5",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.canalsat.fr/"
     },
     {
@@ -4777,130 +3842,109 @@
       "website": "http://www.canalsat.fr/"
     },
     {
-      "name": "OL TV",
+      "name": "OL",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewjG2A3dStbYppYxyCkrDJRal9c.jpg",
       "website": "https://olplay.ol.fr/en/"
     },
     {
       "name": "Persiana Fight",
       "isFree": true,
-      "logo": "https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Sports",
       "isFree": true,
       "keywords": "persiana sports -2 -3 -4",
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Sports 2",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Sports 3",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Sports 4",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
-      "name": "Poker TV",
+      "name": "Poker",
       "isFree": true,
-      "logo": "https://i.imgur.com/tArvcvj.png",
       "website": "https://persianagroup.tv/"
     },
     {
-      "name": "RMC Sport 1",
+      "name": "RMC Sport",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport 2",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport 3",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport 4",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
-      "name": "RMC Sport Access 1",
+      "name": "RMC Sport Access",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Access 2",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 10",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 11",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 12",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 13",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 14",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 15",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 16",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 5",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
@@ -4911,72 +3955,61 @@
     {
       "name": "RMC Sport Live 7",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 8",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
       "name": "RMC Sport Live 9",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/15.png",
       "website": "https://rmcsport.bfmtv.com/"
     },
     {
-      "name": "RugbyZone.TV",
+      "name": "RugbyZone",
       "isFree": true,
       "website": "https://rugbyzone.tv/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Fashion TV",
+      "name": "Fashion",
       "isFree": true,
-      "keywords": "fashion tv -new york -paris -paris-mumbai -pg13 -pg16 -singapore -tokyo -uhd"
+      "keywords": "fashion tv -new york -paris -paris-mumbai -pg13 -pg16 -singapore -tokyo -uhd",
+      "website": "https://www.fashiontv.com/"
     },
     {
-      "name": "Fashion TV New York",
-      "isFree": true,
-      "shortName": "FTNY",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
-    },
-    {
-      "name": "Fashion TV PG13",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
-    },
-    {
-      "name": "Fashion TV PG16",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
-    },
-    {
-      "name": "Fashion TV Paris",
+      "name": "FashionTV New York",
       "isFree": true
     },
     {
-      "name": "Fashion TV Paris-Mumbai",
-      "isFree": true,
-      "shortName": "FTP",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
+      "name": "FashionTV PG 13",
+      "isFree": true
     },
     {
-      "name": "Fashion TV Singapore",
-      "isFree": true,
-      "shortName": "FTS",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
+      "name": "FashionTV PG 16",
+      "isFree": true
     },
     {
-      "name": "Fashion TV Tokyo",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg"
+      "name": "FashionTV Paris",
+      "isFree": true
     },
     {
-      "name": "Fashion TV UHD",
+      "name": "Fashion TV Paris Mumbai",
+      "isFree": true
+    },
+    {
+      "name": "FashionTV Singapore",
+      "isFree": true
+    },
+    {
+      "name": "FashionTV Tokyo",
+      "isFree": true
+    },
+    {
+      "name": "FashionTV UHD",
       "isFree": true
     },
     {
@@ -4986,7 +4019,6 @@
     {
       "name": "Animaux",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/04/19/large/20240419014406169987_83.PNG",
       "website": "http://www.animauxtv.fr/"
     },
     {
@@ -4998,19 +4030,16 @@
     {
       "name": "A+ International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "https://www.a-plus.com/"
     },
     {
-      "name": "Berbere TV",
+      "name": "Berbere",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/BERBERETV-1.png",
       "website": "http://www.brtvpro.tv/"
     },
     {
       "name": "Canal+ Docs",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/canal+.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
@@ -5019,33 +4048,29 @@
       "isFree": true
     },
     {
-      "name": "ESA Web TV",
+      "name": "ESA Web",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
       "website": "https://www.esa.int/ESA_Multimedia/ESA_Web_TV",
       "priority": 4
     },
     {
-      "name": "Histoire TV",
+      "name": "Histoire",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gcZof0oqJ4Xgr2MDemRvDaIC2x.jpg",
       "website": "http://www.histoire.fr/"
     },
     {
-      "name": "Horyaal 24 TV",
+      "name": "Horyaal 24",
       "isFree": true,
       "website": "https://horyaal24tv.com/"
     },
     {
       "name": "Into Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
       "website": "https://communityzylo7.wixsite.com/intocrime"
     },
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "http://www.discoveryfrance.fr/discoveryinvestigation"
     },
     {
@@ -5054,163 +4079,138 @@
       "website": "https://kanaldude.eus/"
     },
     {
-      "name": "L'Esprit Sorcier TV",
+      "name": "L'Esprit Sorcier",
       "isFree": true,
       "website": "https://lespritsorcier.tv/"
     },
     {
       "name": "LM TV Sarthe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.lmtv.fr/"
     },
     {
       "name": "Museum TV English",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU4EJcA4w0Mo7GwA2W9GC236157.jpg",
       "website": "https://www.museumtv.art/"
     },
     {
       "name": "Museum TV French",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU4EJcA4w0Mo7GwA2W9GC236157.jpg",
       "website": "https://www.museumtv.art/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.nationalgeographic.fr/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/fr",
       "priority": 9
     },
     {
       "name": "Persiana Docs",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Medical",
       "isFree": true,
-      "logo": "https://i.postimg.cc/9FPhHF94/persiana-medical.jpg",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Travel",
       "isFree": true,
-      "logo": "https://i.postimg.cc/RF9L97qj/persiana-Travel.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
-      "name": "SQOOL TV",
+      "name": "SQOOL",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/sqool.png",
       "website": "https://www.sqooltv.com/"
     },
     {
       "name": "Tech & Co",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.01net.com/tag/01nettv/"
     },
     {
       "name": "Ultra Nature",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9JX6RZQoTInDJhbrKItnOr47qr.jpg"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "MCM Top",
-      "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/497.png"
+      "isFree": true
     },
     {
       "name": "TZiK",
-      "isFree": true,
-      "logo": "https://i.imgur.com/TAagRkn.png"
+      "isFree": true
     },
     {
       "name": "4Kurd",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/KRDVIP/4kurd-hd.png",
       "website": "https://4kurd.persiana.live/"
     },
     {
       "name": "4 Music",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://4music.persiana.live/"
     },
     {
-      "name": "BAZIK TV",
+      "name": "BAZIK",
       "isFree": true,
       "keywords": "bazik tv -hot -rumba",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bazik.tv/"
     },
     {
       "name": "BAZIK TV Hot",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bazik.tv/"
     },
     {
       "name": "BAZIK TV Rumba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bazik.tv/"
     },
     {
       "name": "Bblack! Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.bblackafrica-tv.com/"
     },
     {
       "name": "Bblack! Caribbean",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
       "website": "https://www.bblackcruise.com/media"
     },
     {
       "name": "Bblack! Classik",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/BBLACK CLASSIK.png",
       "website": "https://www.bblackcruise.com/media"
     },
     {
       "name": "Berbere Music",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/BERBERETV-1.png",
       "website": "https://www.brtvpro.tv/"
     },
     {
       "name": "Canal+ Pop Centre",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.canalplus-afrique.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Pop Ouest",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.canalplus-afrique.com/",
       "priority": 10
     },
     {
       "name": "C Star Hits France",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+      "isFree": true
     },
     {
       "name": "D5Music",
@@ -5220,19 +4220,16 @@
     {
       "name": "Fun Radio",
       "isFree": true,
-      "logo": "https://i.imgur.com/wgxuYsQ.png",
       "website": "https://www.funradio.fr/"
     },
     {
-      "name": "Littoral FM TV",
+      "name": "Littoral FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/DCZKAQ1.png",
       "website": "https://littoral.fm/"
     },
     {
       "name": "M6 Music",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.6play.fr/m6",
       "priority": 8
     },
@@ -5240,26 +4237,22 @@
       "name": "MCM",
       "isFree": true,
       "keywords": "mcm -pop -top",
-      "logo": "https://go4.pw/EUROPE/FRANCE/MCM_FHD.png",
       "website": "http://www.mcm.fr/"
     },
     {
       "name": "MCM Pop",
       "isFree": true,
-      "logo": "https://i.imgur.com/j31lBL7.png",
       "website": "http://www.mcm.fr/mcm-pop/"
     },
     {
       "name": "Melody",
       "isFree": true,
       "keywords": "melody -d'afrique",
-      "logo": "https://i.imgur.com/9GVyQ6x.png",
       "website": "https://www.melody.tv/"
     },
     {
       "name": "Melody d'Afrique",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "website": "https://melodydafrique.tv/"
     },
     {
@@ -5274,9 +4267,8 @@
       "website": "https://www.mezzo.tv/"
     },
     {
-      "name": "Mouv' TV",
+      "name": "Mouv'",
       "isFree": true,
-      "logo": "https://i.imgur.com/64nzKEu.jpg",
       "website": "https://www.mouv.fr/"
     },
     {
@@ -5286,44 +4278,38 @@
       "priority": 8
     },
     {
-      "name": "My Gospel TV",
+      "name": "My Gospel",
       "isFree": true,
-      "logo": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png",
       "website": "https://mygospeltv.fr/"
     },
     {
       "name": "NRJ Hits",
       "isFree": true,
-      "logo": "https://i.imgur.com/aOaSv3i.png",
       "website": "https://www.nrj-play.fr/nrj-hits"
     },
     {
-      "name": "OFIVE TV",
+      "name": "OFIVE",
       "isFree": true,
       "website": "https://www.ofive.tv/"
     },
     {
       "name": "Persiana Billboard",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/05dfcf43fd36e976ba9316821c1bc7f2.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Folk",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Music",
       "isFree": true,
-      "logo": "https://i.imgur.com/SHxxi5I.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Nostalgia",
       "isFree": true,
-      "logo": "https://i.imgur.com/SWO9CKA.png",
       "website": "https://persianagroup.tv/"
     },
     {
@@ -5334,62 +4320,52 @@
     {
       "name": "Persiana Sonnati",
       "isFree": true,
-      "logo": "https://i.imgur.com/yqq5PlP.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Vibe",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
-      "name": "Playloud TV",
+      "name": "Playloud",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.playloud.fr/index.php/playloud-tv/"
     },
     {
-      "name": "Qwest TV",
+      "name": "Qwest",
       "isFree": true,
       "keywords": "qwest tv -classical -jazz & beyond -mix",
-      "logo": "https://i.imgur.com/DjgNNHK.png",
       "website": "https://www.qwest.tv/"
     },
     {
       "name": "Qwest TV Classical",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png",
       "website": "https://qwest.tv/"
     },
     {
       "name": "Qwest TV Jazz & Beyond",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png",
       "website": "https://qwest.tv/"
     },
     {
       "name": "Qwest TV Mix",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/QWEST_TV.png",
       "website": "https://qwest.tv/"
     },
     {
       "name": "Radio Karaoke",
       "isFree": true,
-      "logo": "https://i.imgur.com/9uRggjD.png",
       "website": "https://www.radio-karaoke.com/"
     },
     {
       "name": "Radio Soleil des Tropiques",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radio-soleil-des-tropiques.fr/"
     },
     {
-      "name": "RTL2",
+      "name": "RTL 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/deC4z34.png",
       "website": "https://www.rtl2.fr/"
     },
     {
@@ -5400,85 +4376,71 @@
     {
       "name": "Trace Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "http://trace.tv/trace-africa/"
     },
     {
       "name": "Trace Afrikora",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-afrikora/"
     },
     {
       "name": "Trace Ayiti",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-ayiti/"
     },
     {
       "name": "Trace Brazuca",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png",
       "website": "https://trace.company/activities/television/trace-brazuca/"
     },
     {
       "name": "Trace Caribbean",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-caribbean/"
     },
     {
       "name": "Trace Gospel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "http://tracegospel.tv/"
     },
     {
-      "name": "Trace Hip-Hop",
+      "name": "Trace Hip Hop",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "http://fr.trace.tv/trace-urban/"
     },
     {
       "name": "Trace Jama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-jama/"
     },
     {
       "name": "Trace Kitoko",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-kitoko/"
     },
     {
       "name": "Trace Latina",
       "isFree": true,
-      "logo": "https://i.imgur.com/CUVAi4u.png",
       "website": "https://trace.company/television/trace-latina"
     },
     {
       "name": "Trace Mboa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://fr.trace.tv/"
     },
     {
       "name": "Trace Muzika",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.tv/traceprime/"
     },
     {
       "name": "Trace Mziki",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.tv/trace-mziki/"
     },
     {
       "name": "Trace Naija",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "http://trace.tv/trace-naija/"
     },
     {
@@ -5489,41 +4451,34 @@
     {
       "name": "Trace Vanilla Islands",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
       "website": "https://trace.company/activities/television/trace-vanillaislands/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Action Movies",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/5d95cd1e3b92e98d9aeafb4bf728f27f.png"
+      "isFree": false
     },
     {
       "name": "Comedy Movies",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/4c64e13f3b9cb2a7c4f20145454adbe6.png"
+      "isFree": false
     },
     {
       "name": "Drama Movies",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/07467316c0dd76fdb033c50fd1eb3a51.png"
+      "isFree": false
     },
     {
       "name": "Family Movies",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/830c4d282345c6a83d5dbadd6aa7426b.png"
+      "isFree": false
     },
     {
       "name": "Movies Central",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/06c7697b5bfa9d9459cc6b27c3f446db.png"
+      "isFree": false
     },
     {
-      "name": "Wildside TV",
+      "name": "Wildside",
       "isFree": false,
-      "keywords": "wild side tv | wildside tv",
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png"
+      "keywords": "wild side tv | wildside tv"
     },
     {
       "name": "Action",
@@ -5534,39 +4489,33 @@
     {
       "name": "Afro Novelas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png",
       "website": "https://www.novelas.tv/"
     },
     {
       "name": "Altice Studio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
       "website": "http://altice.net/"
     },
     {
       "name": "Canal+ Action Centre",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Action Myanmar",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
       "priority": 10
     },
     {
       "name": "Canal+ Action Ouest",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
     {
       "name": "Canal+ Box Office",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg",
       "website": "https://www.canalplus.com/chaines/canal-plus-box-office/",
       "priority": 10
     },
@@ -5597,7 +4546,6 @@
     {
       "name": "Canal+ Grand Ecran",
       "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
       "website": "https://www.canalplus.com/",
       "priority": 10
     },
@@ -5605,39 +4553,33 @@
       "name": "Canal+ Series",
       "isFree": true,
       "keywords": "canal+ series -reunion",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
       "website": "https://www.canalplus.com/series/",
       "priority": 10
     },
     {
       "name": "Canal+ Series Reunion",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
       "website": "https://www.canalplus.com/series/",
       "priority": 10
     },
     {
       "name": "Cine Nanar",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/becine.png",
       "website": "https://communityzylo7.wixsite.com/cine-nanar"
     },
     {
       "name": "Cine+ Classic",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.canalplus.com/chaines/cine-plus-ocs/"
     },
     {
       "name": "Cine+ Club",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
       "website": "https://www.canalplus.com/chaines/cineplus"
     },
     {
       "name": "Cine+ Emotion",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/cinee.png",
       "website": "https://www.canalplus.com/chaines/cine-plus-ocs/"
     },
     {
@@ -5648,172 +4590,144 @@
     {
       "name": "Cine+ Festival",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umYcH5zxDndSio5QUXSQu44hHQ5.jpg",
       "website": "https://www.canalplus.com/chaines/cine-plus-ocs/"
     },
     {
       "name": "Cine+ Frisson",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CINEFRISSON.png",
       "website": "https://www.canalplus.com/chaines/cine-plus-ocs/"
     },
     {
       "name": "Cine+ OCS",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "https://www.ocs.fr/"
     },
     {
       "name": "Cine+ Premier",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "https://www.canalplus.com/chaines/cineplus"
     },
     {
       "name": "Cine Western",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/becine.png",
       "website": "https://communityzylo7.wixsite.com/cine-western-fr"
     },
     {
       "name": "Crime District",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
       "website": "http://www.crimedistrict.tv/"
     },
     {
       "name": "Disney Cinema",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "http://tv.disney.fr/disney-cinema",
       "priority": 9
     },
     {
       "name": "Emotion L",
       "isFree": true,
-      "logo": "https://go4.pw/FRANCE/cinee.png",
       "website": "https://communityzylo7.wixsite.com/emotionl"
     },
     {
       "name": "France TV Series",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOb5Pqxuy4W94No8FfEixVNstr6.jpg",
       "website": "https://www.france.tv/"
     },
     {
       "name": "Frequence Novelas",
       "isFree": true,
-      "logo": "https://i.imgur.com/fEjNAps.png",
       "website": "https://communityzylo7.wixsite.com/frequence-novelas"
     },
     {
       "name": "La Chaine FreeTV",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://oqee.tv/home/channels/1231/play"
     },
     {
-      "name": "Nollywood TV",
+      "name": "Nollywood",
       "isFree": true,
       "keywords": "nollywood tv -epic",
-      "logo": "https://go4.pw/AFRICA/NEGIRIA/NOLLYWOOD .png",
       "website": "https://www.nollywoodtv.fr/"
     },
     {
-      "name": "Novelas TV",
+      "name": "Novelas",
       "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_haiti.png",
       "website": "https://www.novelas.tv/"
     },
     {
       "name": "OCS Choc",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/ocschoc/"
     },
     {
       "name": "OCS City",
       "isFree": true,
       "keywords": "ocs city -generation hbo",
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/ocscity/"
     },
     {
       "name": "OCS Geants",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/ocsgeants/"
     },
     {
       "name": "OCS Max",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/ocsmax/"
     },
     {
       "name": "OCS Novo",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/"
     },
     {
       "name": "OCS Pulp",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/OCS_MAX_HD.png",
       "website": "http://www.ocs.fr/"
     },
     {
       "name": "Paramount Channel Offset",
       "isFree": true,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
       "website": "http://www.paramountchannel.fr/"
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "http://www.paramountchannel.fr/"
     },
     {
-      "name": "Persiana 1",
+      "name": "Persiana",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Cinema",
       "isFree": true,
-      "logo": "https://i.imgur.com/hgIro9r.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Classic",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c563e2ad90835137c675b9c588e7ec5b.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Emirates",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Family",
       "isFree": true,
-      "logo": "https://i.imgur.com/lMZsuWi.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Family+",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://persianagroup.tv/"
     },
     {
-      "name": "Persiana HD",
+      "name": "Persiana",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://persianagroup.tv/"
     },
     {
@@ -5824,44 +4738,37 @@
     {
       "name": "Persiana Korea",
       "isFree": true,
-      "logo": "https://i.imgur.com/si2ZnIA.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Latino",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Plus",
       "isFree": true,
       "keywords": "persiana plus -one",
-      "logo": "https://i.imgur.com/0xttibX.png",
       "website": "https://persianagroup.tv/"
     },
     {
       "name": "Persiana Plus One",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Persiana Series",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
       "website": "https://www.persianagroup.tv/"
     },
     {
       "name": "Planete+ Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
       "website": "https://www.canalplus.com/chaines/les-chaines-planete"
     },
     {
       "name": "ScreamIN",
       "isFree": true,
-      "logo": "https://i.imgur.com/tGmKbil.png",
       "website": "https://communityzylo7.wixsite.com/screamin"
     },
     {
@@ -5889,26 +4796,24 @@
       "isFree": true
     },
     {
-      "name": "Sundance TV",
+      "name": "Sundance",
       "isFree": true,
       "website": "http://www.sundancetvglobal.com/"
     },
     {
       "name": "TCM Cinema",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/TCM.png",
       "website": "https://www.canalplus.com/chaines/tcm-cinema"
     },
     {
-      "name": "Warner TV",
+      "name": "Warner",
       "isFree": true,
       "keywords": "warner tv -next",
       "website": "http://www.warnertv.fr/"
     },
     {
-      "name": "Wild Side TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/cQkfRhH.png"
+      "name": "Wild Side",
+      "isFree": true
     }
   ],
   "Radios": [
@@ -5921,24 +4826,20 @@
   "Religious": [
     {
       "name": "A2i Religion",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "isFree": true
     },
     {
-      "name": "Holygod TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/db03136b8b548257031f1403a5426cbf.png"
+      "name": "Holygod",
+      "isFree": true
     },
     {
-      "name": "Bostra TV",
+      "name": "Bostra",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.bostratv.fr/"
     },
     {
-      "name": "Chretiens TV",
+      "name": "Chretiens",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.chretienstv.com/"
     },
     {
@@ -5949,87 +4850,68 @@
     {
       "name": "EMCI TV Europe",
       "isFree": true,
-      "logo": "https://i.imgur.com/KagDKKB.png",
       "website": "https://emcitv.com/direct/paris/"
     },
     {
-      "name": "Ere TV",
+      "name": "Ere",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://eretv.fr/"
     },
     {
-      "name": "ESJ TV",
+      "name": "ESJ",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.egliseduseigneurjesus.com/"
     },
     {
-      "name": "Evandis Gospel TV",
+      "name": "Evandis Gospel",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://evandis-gospel.tv/"
     },
     {
       "name": "Evangelisation des Nations",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zZZFE72QQws94VuQTxeLvjCqoX.jpg",
       "website": "https://www.evdn.org/"
     },
     {
-      "name": "Evangile TV",
+      "name": "Evangile",
       "isFree": true,
-      "logo": "https://i.imgur.com/CL32kFA.png",
       "website": "https://evangile.tv/direct/androidtv/chaine-evtv.php"
     },
     {
       "name": "Hope Channel Francais",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hcf.tv/"
     },
     {
-      "name": "NLM TV",
+      "name": "NLM",
       "isFree": true,
-      "logo": "https://i.postimg.cc/7YbGVvr5/nlmtv.png",
       "website": "http://www.newlivingministries.org/index.php/nlm-tv"
     },
     {
       "name": "Radio Tele Silo",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://www.radiotelesilo.fr/"
     },
     {
       "name": "Reveil TV SAT",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.reveiltvsat.com/"
     },
     {
       "name": "TV Lourdes",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://directfromlourdes.com/"
     },
     {
-      "name": "VOIE TV",
+      "name": "VOIE",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://voie-tv.com/"
-    },
-    {
-      "name": "HolyGod TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/db03136b8b548257031f1403a5426cbf.png",
-      "website": "https://www.holygod.tv/"
     }
   ],
   "Shop": [
     {
       "name": "Pearl Diffusion",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
       "website": "https://www.pearl.fr/"
     }
   ]

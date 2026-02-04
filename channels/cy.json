@@ -2,94 +2,80 @@
   "Sports": [
     {
       "name": "Alfa Sport",
-      "isFree": false,
-      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png"
+      "isFree": false
     },
     {
-      "name": "Cablenet Sports 1",
+      "name": "Cablenet Sports",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/Cablenet.png",
       "website": "https://cablenet.com.cy/en/sports/"
     },
     {
       "name": "Cablenet Sports 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/Cablenet.png",
       "website": "https://cablenet.com.cy/en/sports/"
     },
     {
       "name": "Cablenet Sports 3",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/Cablenet.png",
       "website": "https://cablenet.com.cy/en/sports/"
     },
     {
-      "name": "Cytavision Sports 1",
+      "name": "Cytavision Sports",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 2",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 3",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 4",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 4K",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 5",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 6",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 7",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
       "name": "Cytavision Sports 8",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports"
     },
     {
       "name": "Cytavision Sports MV",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png",
       "website": "https://www.cyta.com.cy/cytavision-sports/"
     },
     {
-      "name": "OMONOIA TV",
+      "name": "OMONOIA",
       "isFree": true,
       "website": "https://primetel.com.cy/omonoia-tv-el"
     },
     {
-      "name": "Primetel Sports 1",
+      "name": "Primetel Sports",
       "isFree": true,
       "website": "https://primetel.com.cy/"
     },
@@ -106,251 +92,200 @@
   ],
   "Entertainment": [
     {
-      "name": "Ada TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7a21b97b67a1c726f13117c12238c722.png"
-    },
-    {
-      "name": "BRT 1 HD",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c97e018d9daabecda736cf33d430f432.png"
-    },
-    {
-      "name": "BRT 2 HD",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/TURKEY/BRT1.png"
+      "name": "Ada",
+      "isFree": true
     },
     {
       "name": "BRT 3",
       "isFree": true
     },
     {
-      "name": "City Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
-    },
-    {
-      "name": "Digital TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg"
-    },
-    {
-      "name": "Kuzey Kibris TV",
+      "name": "City",
       "isFree": true
     },
     {
-      "name": "RIK 1",
-      "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/12.png"
+      "name": "Digital",
+      "isFree": true
+    },
+    {
+      "name": "Kuzey Kibris",
+      "isFree": true
+    },
+    {
+      "name": "RIK",
+      "isFree": true
     },
     {
       "name": "RIK 2",
-      "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/12.png"
+      "isFree": true
     },
     {
-      "name": "RIK HD",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/el/7/7d/RIKHD2.png"
+      "name": "RIK",
+      "isFree": true
     },
     {
       "name": "RΙΚ Sat",
-      "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png"
-    },
-    {
-      "name": "TV 2020",
       "isFree": true
     },
     {
-      "name": "Vouli TV",
+      "name": "Vouli",
       "isFree": true
     },
     {
-      "name": "Alfa TV",
+      "name": "Alfa",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png",
       "website": "https://www.alphacyprus.com.cy"
     },
     {
       "name": "Alpha TV Cyprus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "https://www.alphacyprus.com.cy/"
     },
     {
       "name": "ANT1 Cyprus",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/ant1.png",
       "website": "https://www.ant1.com.cy/"
     },
     {
-      "name": "AST.TV 1",
+      "name": "AST.TV",
       "isFree": null,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.ast.tv/"
     },
     {
       "name": "AST.TV 2",
       "isFree": null,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.ast.tv/channel-2"
     },
     {
-      "name": "BRT 1",
+      "name": "BRT",
       "isFree": true,
-      "keywords": "brt 1 -hd",
-      "logo": "https://go4.pw/ASIA/TURKEY/BRT1.png",
+      "keywords": "brt 1",
       "website": "https://brtk.net/"
     },
     {
       "name": "BRT 2",
       "isFree": true,
-      "keywords": "brt 2 -hd",
-      "logo": "https://images.iptvmate.net/tvglogo/67eac186256e133ae0b48e1b96a2538d.png",
+      "keywords": "brt 2",
       "website": "https://brtk.net/"
     },
     {
-      "name": "Capital TV",
+      "name": "Capital",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/28/20150928130434713658_68.png",
       "website": "https://capitaltv.cy/"
     },
     {
-      "name": "Fotohandy TV",
+      "name": "Fotohandy",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.fotohandy.tv/"
     },
     {
       "name": "Kanal Sim",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "http://www.kanalsim.com/"
     },
     {
       "name": "Kibris Kanal T",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALTKIBRIS.png",
       "website": "http://www.kanalt.com/"
     },
     {
-      "name": "Kibris TV",
+      "name": "Kibris",
       "isFree": true,
       "website": "https://www.kibristv.com/"
     },
     {
-      "name": "Mena TV",
+      "name": "Mena",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mena24tv.com/"
     },
     {
       "name": "MyCam TV Anal",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Arab",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Asian",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Big Ass",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Big Tits",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Blonde",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Blowjob",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Brunette",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Ebony",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Latina",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Medium",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV MILF",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Skinny",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Squirt",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Teen",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV White",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
       "name": "MyCam TV Young",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mycamtv.com/"
     },
     {
-      "name": "Omega Channel",
+      "name": "Omega",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "https://www.omegatv.com.cy/"
     },
     {
@@ -358,7 +293,7 @@
       "isFree": true
     },
     {
-      "name": "Plus TV",
+      "name": "Plus",
       "isFree": true
     },
     {
@@ -369,13 +304,11 @@
     {
       "name": "Sat 7 Arabic",
       "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png",
       "website": "https://sat7.org/our-channels/channel-overview/sat-7-arabic"
     },
     {
       "name": "Sat 7 Turk",
       "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png",
       "website": "https://www.sat7turk.com/"
     },
     {
@@ -384,56 +317,50 @@
       "website": "https://www.sexart.com/"
     },
     {
-      "name": "Sigma TV",
+      "name": "Sigma",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/13.png",
       "website": "https://www.sigmatv.com/"
     },
     {
       "name": "TNT Cyprus",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"
+      "isFree": true
     },
     {
       "name": "TV Gunes",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "Reload",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg"
+      "isFree": true
     },
     {
-      "name": "Magic TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/n7bcrrp.png"
+      "name": "Magic",
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "Cablenet Cinema",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/Cablenet.png"
+      "isFree": true
     },
     {
-      "name": "Movies Best HD",
+      "name": "Movies Best",
       "isFree": true,
       "website": "http://www.mesimvria.com/en/home/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "DAU TV",
+      "name": "DAU",
       "isFree": true,
       "website": "https://www.emu.edu.tr/"
     }
   ],
   "News": [
     {
-      "name": "Kibris Genc TV",
+      "name": "Kibris Genc",
       "isFree": true,
       "website": "https://www.kibrisgenctv.com/"
     },
@@ -446,33 +373,28 @@
     {
       "name": "Masha y el Oso",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://www.mashabear.com/"
     },
     {
       "name": "Sat 7 Kids",
       "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png",
       "website": "http://sat7kids.com/"
     },
     {
       "name": "Smile TV Cyprus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
       "website": "https://www.smiletvcyprus.com/gr/"
     }
   ],
   "Religious": [
     {
-      "name": "Middle East TV",
+      "name": "Middle East",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlcvuGlLETfGCq0aaVD526Emlc.jpg",
       "website": "http://metv.org/"
     },
     {
       "name": "Sat 7 Pars",
       "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png",
       "website": "https://www.sat7pars.com/"
     }
   ],
@@ -480,7 +402,6 @@
     {
       "name": "TV Mall",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvmall.cy/"
     }
   ]

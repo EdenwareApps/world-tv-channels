@@ -1,22 +1,19 @@
 {
   "Auto": [
     {
-      "name": "100% Auto Moto TV",
+      "name": "100% Auto Moto",
       "isFree": true,
-      "shortName": "1AMT",
-      "logo": "https://go4.pw/FRANCE/frlog.png"
+      "shortName": "1AMT"
     }
   ],
   "News": [
     {
       "name": "Bulgaria On Air",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "BBG News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://bbgnews.bg/"
     },
     {
@@ -27,29 +24,25 @@
     {
       "name": "Bulgaria 24",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/BULGARIA.png",
       "website": "http://bulgaria24.tv/"
     },
     {
       "name": "Euronews Bulgaria",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "website": "https://euronewsbulgaria.com/",
       "priority": 9
     },
     {
-      "name": "newsONE TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/38da9b173ff899437ef02f64625909d7.png"
+      "name": "newsONE",
+      "isFree": true
     },
     {
       "name": "Nova News",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/819f371de06d4a9ee80e83950dbe7631.png",
       "website": "https://nova.bg/novanews"
     },
     {
-      "name": "PIK TV",
+      "name": "PIK",
       "isFree": true,
       "website": "https://pik.bg/"
     },
@@ -72,76 +65,64 @@
     {
       "name": "B1B Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://b1bsport.bg/"
     },
     {
       "name": "Diema Sport",
       "isFree": true,
       "keywords": "diema sport -2 -2 4k -3 -3 4k",
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemaxtra.nova.bg/diemasport"
     },
     {
       "name": "Diema Sport 2",
       "isFree": true,
       "keywords": "diema sport 2 -4k",
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemaxtra.nova.bg/diemasport2"
     },
     {
       "name": "Diema Sport 2 4K",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemaxtra.nova.bg/diemasport2"
     },
     {
       "name": "Diema Sport 3",
       "isFree": true,
       "keywords": "diema sport 3 -4k",
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemaxtra.nova.bg/diemasport3"
     },
     {
       "name": "Diema Sport 3 4K",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemaxtra.nova.bg/diemasport3"
     },
     {
-      "name": "Max Sport 1",
+      "name": "Max Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/0ohnpql.png",
       "website": "https://maxsport.live/"
     },
     {
       "name": "Max Sport 2",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
       "website": "https://maxsport.live/"
     },
     {
       "name": "Max Sport 3",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
       "website": "https://maxsport.live/"
     },
     {
       "name": "Max Sport 4",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
       "website": "https://maxsport.live/"
     },
     {
       "name": "Nova Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/w8k0Lbg.png",
       "website": "http://www.sport.novatv.bg/"
     },
     {
-      "name": "Sportal TV",
+      "name": "Sportal",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sportal.bg/"
     },
     {
@@ -153,32 +134,27 @@
   "Entertainment": [
     {
       "name": "BTK",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bab73751745fee7d48c2dfb270d9dc23.png"
+      "isFree": true
     },
     {
-      "name": "City TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png"
+      "name": "City",
+      "isFree": true
     },
     {
       "name": "DSTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/mGFVwkB.png"
+      "isFree": true
     },
     {
       "name": "Evrokom",
       "isFree": true
     },
     {
-      "name": "Light Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg"
+      "name": "Light",
+      "isFree": true
     },
     {
-      "name": "MM TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c248b1fa3500bb171c1aa01746fa0e35.png"
+      "name": "MM",
+      "isFree": true
     },
     {
       "name": "TV+",
@@ -187,45 +163,33 @@
     {
       "name": "This is Bulgaria",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/180ced1d6ef2c85c23ad6cd45acd7a3c.png"
+      "website": "http://hd.traveltv.bg/"
     },
     {
-      "name": "Travel TV",
-      "isFree": true,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+      "name": "Travel",
+      "isFree": true
     },
     {
-      "name": "Vibee TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vibee",
+      "isFree": true
     },
     {
-      "name": "Wness TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ef25288a077111c9c4f394aa8bcbccb1.png"
+      "name": "Wness",
+      "isFree": true
     },
     {
-      "name": "7/8 TV",
+      "name": "Agro",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "website": "https://sedemosmi.tv/"
-    },
-    {
-      "name": "Agro TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png",
       "website": "https://agrotv.bg/"
     },
     {
-      "name": "Alfa TV",
+      "name": "Alfa",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png",
       "website": "http://alfatv.online/"
     },
     {
-      "name": "BG-Dnes TV",
+      "name": "BG-Dnes",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bg-dnes.tv/"
     },
     {
@@ -234,30 +198,26 @@
       "website": "https://bgplus.bg/"
     },
     {
-      "name": "BNT 1",
+      "name": "BNT",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/BNT1.png",
       "website": "https://bnt1.bnt.bg/",
       "priority": 10
     },
     {
       "name": "BNT 2",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/BNT1.png",
       "website": "https://bnt2.bnt.bg/",
       "priority": 9
     },
     {
       "name": "BNT 3",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/BNT1.png",
       "website": "https://bnthd.bnt.bg/",
       "priority": 10
     },
     {
       "name": "BNT 4",
       "isFree": true,
-      "logo": "https://i.imgur.com/Lw8b3yu.png",
       "website": "https://bntworld.bnt.bg/",
       "priority": 10
     },
@@ -270,7 +230,6 @@
       "name": "bTV",
       "isFree": true,
       "keywords": "btv -action -cinema -comedy -lady",
-      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
       "website": "https://www.btv.bg/",
       "priority": 10
     },
@@ -281,21 +240,18 @@
       "priority": 9
     },
     {
-      "name": "Bulsat Info Channel",
+      "name": "Bulsat Info",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://www.bulsatcom.bg/televiziya/televizionni-kanali/"
     },
     {
-      "name": "Code Fashion TV",
+      "name": "Code Fashion",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YLv9S84WyPZ5uxty989Duhzi5u.jpg",
       "website": "https://tv.codefashion.bg/"
     },
     {
-      "name": "Code Health TV",
+      "name": "Code Health",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YLv9S84WyPZ5uxty989Duhzi5u.jpg",
       "website": "https://www.codehealth.bg/"
     },
     {
@@ -308,33 +264,28 @@
       "isFree": true
     },
     {
-      "name": "Diana Kabel TV",
+      "name": "Diana Kabel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpMTlCDyDJptBQg935Q9LzaB9j8.jpg",
       "website": "https://dtv.bg/"
     },
     {
       "name": "Diema Family",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/DIEMA.png",
       "website": "https://diemafamily.nova.bg/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "priority": 10
     },
     {
       "name": "Dr. Fit",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLwtsKUBhPcZKtrFQfVMpTxa7Of.jpg",
       "website": "https://www.intheboxtv.eu/"
     },
     {
       "name": "eTV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
       "website": "https://www.etv.bg/"
     },
     {
@@ -343,37 +294,31 @@
       "website": "https://eurocom.bg/"
     },
     {
-      "name": "EuroFolk TV",
+      "name": "EuroFolk",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tv.eurofolk.com/en"
     },
     {
-      "name": "Fantazzy TV",
+      "name": "Fantazzy",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://fantazzy.tv/"
     },
     {
       "name": "Hobby Lov",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJBN4wBSa9ZZUmyw75R8UzT3c9.jpg"
+      "isFree": true
     },
     {
-      "name": "Hobby TV",
+      "name": "Hobby",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJBN4wBSa9ZZUmyw75R8UzT3c9.jpg",
       "website": "http://www.hobbytv.bg/"
     },
     {
-      "name": "Home One TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg"
+      "name": "Home One",
+      "isFree": true
     },
     {
-      "name": "Kanal 0",
+      "name": "Kanal",
       "isFree": true,
-      "logo": "https://i.postimg.cc/85th310v/kanal0.png",
       "website": "https://rn-tv.com/%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-0/"
     },
     {
@@ -384,7 +329,6 @@
     {
       "name": "Kanal 6",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://kanal6.tv/"
     },
     {
@@ -401,13 +345,11 @@
       "name": "Nova",
       "isFree": true,
       "keywords": "nova -news -sport",
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://nova.bg/"
     },
     {
       "name": "Planet Earth",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
       "name": "POTV",
@@ -415,19 +357,16 @@
     },
     {
       "name": "RMTV",
-      "isFree": true,
-      "logo": "https://rmtv.bg/img/logo.png"
+      "isFree": true
     },
     {
       "name": "SKAT",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/SKAT TV HD.png",
       "website": "http://www.skat.bg/"
     },
     {
       "name": "Soul & Pepper",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg",
       "website": "https://soulandpepper.tv/"
     },
     {
@@ -435,25 +374,13 @@
       "isFree": true
     },
     {
-      "name": "This is Bulgaria HD",
-      "isFree": true,
-      "logo": "https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",
-      "website": "http://hd.traveltv.bg/"
-    },
-    {
       "name": "TLC",
       "isFree": true
     },
     {
-      "name": "TV 1",
+      "name": "TV",
       "isFree": true,
       "website": "https://tv1.bg/"
-    },
-    {
-      "name": "TV 999",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "website": "http://tv999.bg/"
     },
     {
       "name": "TVart",
@@ -463,37 +390,31 @@
     {
       "name": "TV Darts",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bbgnews.bg/"
     },
     {
       "name": "TV Dobrudzha",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://dobrudjatv.net/"
     },
     {
       "name": "TV Evropa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvevropa.com/"
     },
     {
       "name": "TV Shumen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvshumen.tv/"
     },
     {
       "name": "TV Stara Zagora",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvstz.com/"
     },
     {
       "name": "TV Stoychev",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvstoichev.com/"
     },
     {
@@ -503,19 +424,16 @@
     },
     {
       "name": "TV Vraca",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Zagora",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zagoranews.bg/category/%D1%82%D0%B2-%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B0/"
     },
     {
       "name": "Vivacom Arena",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.vivacom.bg/bg/tv/ceni-i-oferti/vivacom-arena"
     },
     {
@@ -525,8 +443,7 @@
     },
     {
       "name": "Woman",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg"
+      "isFree": true
     }
   ],
   "Music Videos": [
@@ -536,100 +453,87 @@
       "website": "https://359hiphop.com/live/"
     },
     {
-      "name": "Balkanika TV",
+      "name": "Balkanika",
       "isFree": true,
-      "logo": "https://go4.pw/ALBANIA/Balkanika-Music.jpg",
       "website": "http://www.balkanika.tv/"
     },
     {
-      "name": "BG Music Channel",
+      "name": "BG Music",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/RINGBG.png",
       "website": "https://bgmusic.tv/"
     },
     {
-      "name": "BOX TV",
+      "name": "BOX",
       "isFree": true,
       "website": "https://box-tv.bg/"
     },
     {
-      "name": "Fen Folk TV",
+      "name": "Fen Folk",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/FEN TV.png",
       "website": "https://fenfolktv.bg/"
     },
     {
-      "name": "Fen TV",
+      "name": "Fen",
       "isFree": true,
       "website": "http://www.fentv.bg/"
     },
     {
-      "name": "Folklor TV",
+      "name": "Folklor",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/FOLKLOR TV.png",
       "website": "http://folklor.tv/"
     },
     {
       "name": "Hit Mix Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
       "website": "http://hitmixmusic.bg/"
     },
     {
-      "name": "Magic TV",
+      "name": "Magic",
       "isFree": true,
-      "logo": "https://i.imgur.com/n7bcrrp.png",
       "website": "https://www.magic.bg/"
     },
     {
       "name": "Planeta 4K",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
       "website": "http://planeta.tv/"
     },
     {
       "name": "Planeta Folk",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
       "website": "http://planeta.tv/bg/planeta-folk/"
     },
     {
-      "name": "Planeta TV",
+      "name": "Planeta",
       "isFree": true,
       "website": "http://planeta.tv/"
     },
     {
-      "name": "Roma TV",
+      "name": "Roma",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0hO0MzC7F6cyqysL4neoAguf0u.jpg",
       "website": "http://www.romatv.bg/"
     },
     {
       "name": "The Voice",
       "isFree": true,
-      "logo": "https://i.imgur.com/OoJSmoj.png",
       "website": "https://thevoice.bg/"
     },
     {
       "name": "Tiankov Folk",
       "isFree": true,
-      "logo": "https://i.imgur.com/VKY4q64.png",
       "website": "http://tiankov.com/watch-online/"
     },
     {
       "name": "Tiankov Orient Folk",
       "isFree": true,
-      "logo": "https://i.imgur.com/33LexyP.png",
       "website": "http://tiankov.com/watch-online/"
     },
     {
       "name": "TV Rodina",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvrodina.com/"
     },
     {
-      "name": "V2Beat TV",
+      "name": "V2Beat",
       "isFree": true,
       "website": "https://www.vibee.tv/webpage-player/"
     }
@@ -648,7 +552,6 @@
     {
       "name": "bTV Action",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
       "website": "https://www.btv.bg/action",
       "priority": 9
     },
@@ -661,7 +564,6 @@
     {
       "name": "bTV Lady",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
       "website": "https://www.btv.bg/lady/",
       "priority": 9
     },
@@ -696,56 +598,45 @@
       "website": "http://nostalgia.bg/"
     },
     {
-      "name": "Star Channel",
+      "name": "Star",
       "isFree": true,
       "website": "http://starchannel-bg.com/"
     },
     {
       "name": "Star Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://www.starchannel-bg.com/"
     },
     {
       "name": "Star Life",
       "isFree": true,
       "website": "https://www.starchannel-bg.com/"
-    },
-    {
-      "name": "TV1000",
-      "isFree": true,
-      "website": "https://tv1000.bg/"
     }
   ],
   "Religious": [
     {
       "name": "BHTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.bhtv.eu/"
     },
     {
-      "name": "Eparhiyski Glas TV",
+      "name": "Eparhiyski Glas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/GLASDRINE-1.png",
       "website": "https://mitropolia-sofia.org/glastv/"
     },
     {
       "name": "Hope Channel Bulgaria",
       "isFree": true,
-      "logo": "https://i.imgur.com/bxzeEML.png",
       "website": "https://hopetv.bg/%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d0%b9/"
     },
     {
       "name": "HTV",
       "isFree": true,
-      "logo": "http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png",
       "website": "https://www.htv.bg/"
     },
     {
-      "name": "Plovdiv Orthodox TV",
+      "name": "Plovdiv Orthodox",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.plovdivskamitropolia.bg/"
     }
   ],
@@ -753,58 +644,49 @@
     {
       "name": "Crime + Investigation",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
       "website": "http://www.historytv.eu/bg/crime-investigation-bg"
     },
     {
-      "name": "H2",
+      "name": "H 2",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png",
       "website": "http://www.historytv.eu/bg/h2-bg"
     },
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "http://www.historytv.eu/bg/history-bg"
     },
     {
       "name": "ID",
       "isFree": true,
-      "logo": "https://i.imgur.com/lH1Srp9.png",
       "website": "https://www.wbd.com/"
     },
     {
-      "name": "Live 7 TV",
+      "name": "Live 7",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.live7.tv/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.natgeotv.com/bg",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/bg/wild",
       "priority": 9
     },
     {
       "name": "The World",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://theworld.bg/"
     },
     {
       "name": "Viasat Explore",
       "isFree": true,
-      "logo": "https://i.imgur.com/DyT5pKB.png",
       "website": "https://viasatexplore.bg/"
     },
     {
@@ -820,16 +702,14 @@
   ],
   "Kids": [
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "https://tv.disney.bg/",
       "priority": 10
     },
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "https://tv.disney.bg/whats-on/disney-junior",
       "priority": 9
     },
@@ -851,27 +731,23 @@
     {
       "name": "Nicktoons",
       "isFree": true,
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
       "website": "https://nicktoons.bg/"
     },
     {
       "name": "RING",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
       "website": "https://www.btv.bg/ring/"
     },
     {
       "name": "Super Toons",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://supertoons.bg/"
     }
   ],
   "Shop": [
     {
-      "name": "Home Mall TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg"
+      "name": "Home Mall",
+      "isFree": true
     }
   ]
 }

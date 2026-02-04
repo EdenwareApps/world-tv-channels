@@ -5,9 +5,8 @@
       "isFree": true
     },
     {
-      "name": "N4",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d1d705aa28ceefee54380697417b34a6.png"
+      "name": "N 4",
+      "isFree": true
     },
     {
       "name": "Althingi",
@@ -23,48 +22,41 @@
       "name": "RUV",
       "isFree": true,
       "keywords": "ruv -2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png",
       "website": "https://www.ruv.is/ruv/",
       "priority": 10
     },
     {
       "name": "RUV 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png",
       "website": "https://www.ruv.is/ruv2/",
       "priority": 10
     },
     {
       "name": "Sjonvarp Simans",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
       "website": "https://www.siminn.is/"
     },
     {
-      "name": "Skjar 1",
+      "name": "Skjar",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://skjar1.is/"
     },
     {
       "name": "Stod 2",
       "isFree": true,
       "keywords": "stod 2 -bio -esport -fjolskylda -golf -sport -sport 2 -sport 3 -sport 4 -sport 5 -sport 6",
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Bio",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Fjolskylda",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
@@ -77,11 +69,11 @@
       "isFree": true
     },
     {
-      "name": "NFS (news service)",
+      "name": "NFS",
       "isFree": true
     },
     {
-      "name": "Stöð 1",
+      "name": "Stöð",
       "isFree": true
     },
     {
@@ -97,19 +89,7 @@
       "isFree": true
     },
     {
-      "name": "Nova TV (Iceland)",
-      "isFree": true
-    },
-    {
-      "name": "Hringbraut (Icelandic TV station)",
-      "isFree": true
-    },
-    {
-      "name": "N4 (TV channel)",
-      "isFree": true
-    },
-    {
-      "name": "RÚV HD]]",
+      "name": "Nova",
       "isFree": true
     },
     {
@@ -117,15 +97,11 @@
       "isFree": true
     },
     {
-      "name": "Sýn]] HD",
+      "name": "Sýn",
       "isFree": true
     },
     {
-      "name": "Sýn Sport]] HD{{ref",
-      "isFree": true
-    },
-    {
-      "name": "Morgunblaðið",
+      "name": "Sýn Sport",
       "isFree": true
     },
     {
@@ -133,11 +109,11 @@
       "isFree": true
     },
     {
-      "name": "[[Sýn (media corporation)",
+      "name": "Sýn",
       "isFree": true
     },
     {
-      "name": "[[Politics of Iceland",
+      "name": "Politics of Iceland",
       "isFree": true
     },
     {
@@ -145,49 +121,44 @@
       "isFree": true
     },
     {
-      "name": "Sýn Sport]]",
+      "name": "Sýn Sport",
       "isFree": true
     },
     {
-      "name": "Sýn Sport 2]]",
+      "name": "Sýn Sport 2",
       "isFree": true
     },
     {
-      "name": "Sýn Sport 3]]",
+      "name": "Sýn Sport 3",
       "isFree": true
     }
   ],
   "Sports": [
     {
-      "name": "Eidfaxi TV",
+      "name": "Eidfaxi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.eidfaxitv.is/"
     },
     {
       "name": "Siminn Sport",
       "isFree": true,
       "keywords": "siminn sport -2",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.siminn.is/siminn-sport"
     },
     {
       "name": "Siminn Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.siminn.is/siminn-sport"
     },
     {
       "name": "Stod 2 Esport",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Golf",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
@@ -195,42 +166,36 @@
       "name": "Stod 2 Sport",
       "isFree": true,
       "keywords": "stod 2 sport -2 -3 -4 -5 -6",
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Sport 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Sport 3",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Sport 4",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Sport 5",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     },
     {
       "name": "Stod 2 Sport 6",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://stod2.is/",
       "priority": 9
     }
@@ -239,29 +204,20 @@
     {
       "name": "Gospel Channel Scandinavia",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.gospel.tv/contact"
     },
     {
       "name": "Hope Channel Iceland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopechannel.is/"
     },
     {
       "name": "Omega",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "https://omega.is/"
     }
   ],
-  "Music Videos": [
-    {
-      "name": "K100",
-      "isFree": true,
-      "website": "https://k100.mbl.is/"
-    }
-  ],
+  "Music Videos": [],
   "News": [
     {
       "name": "Visir",

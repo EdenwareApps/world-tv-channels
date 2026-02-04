@@ -1,10 +1,6 @@
 {
   "Kids": [
     {
-      "name": "Баластан",
-      "isFree": true
-    },
-    {
       "name": "Balastan",
       "isFree": true,
       "website": "https://www.utrk.kg/kg/live/tv?channel=49"
@@ -18,34 +14,21 @@
   "Entertainment": [
     {
       "name": "TV1 KG",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/TV1.png"
-    },
-    {
-      "name": "Любимый HD/ТНТ4",
       "isFree": true
     },
     {
-      "name": "312 TV",
+      "name": "Aprel",
       "isFree": true,
-      "website": "http://312tv.kg"
-    },
-    {
-      "name": "Aprel TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://april.kg/"
     },
     {
       "name": "Channel 5 Kyrgyzstan",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://5tv.kg/"
     },
     {
       "name": "Channel 7 Kyrgyzstan",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://7tv.kg/"
     },
     {
@@ -54,31 +37,27 @@
       "website": "https://eltr.kg"
     },
     {
-      "name": "Lubimyi HD",
+      "name": "Lubimyi",
       "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://lctv.kg"
     },
     {
-      "name": "Manas TV",
+      "name": "Manas",
       "isFree": true,
       "website": "http://mediamanas.kg/"
     },
     {
-      "name": "New TV",
+      "name": "New",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/11/13/20161113074721279475_71.jpg",
       "website": "http://newtv.kg/"
     },
     {
-      "name": "Next TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png"
+      "name": "Next",
+      "isFree": true
     },
     {
       "name": "NTS",
       "isFree": true,
-      "logo": "http://epg.one/img2/9786.png",
       "website": "http://nts.kg/"
     },
     {
@@ -96,9 +75,8 @@
       "isFree": true
     },
     {
-      "name": "TV15",
+      "name": "TV 15",
       "isFree": true,
-      "logo": "https://i.ibb.co/1byxRtp/tv15.png",
       "website": "https://pyramida.kg"
     },
     {
@@ -128,7 +106,6 @@
     {
       "name": "Music",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.utrk.kg/kg/live/tv?channel=45"
     }
   ],
@@ -139,36 +116,31 @@
       "website": "https://www.utrk.kg/kg/live/tv?channel=42"
     },
     {
-      "name": "Nomad TV",
+      "name": "Nomad",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dacx3E91IFXQ66fJLIhTVGSSxDw.jpg",
       "website": "https://nomadtv.kg/"
     },
     {
-      "name": "Region TV",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "name": "Region",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
-      "name": "Asia TV",
+      "name": "Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "http://asiatv.kg/"
     },
     {
       "name": "Madaniyat",
       "isFree": true,
-      "logo": "http://epg.one/img2/2648.png",
       "website": "https://www.utrk.kg/kg"
     }
   ],
   "Sports": [
     {
-      "name": "Kyrgyz Sport TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+      "name": "Kyrgyz Sport",
+      "isFree": true
     },
     {
       "name": "Sport",

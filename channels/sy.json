@@ -2,18 +2,15 @@
   "News": [
     {
       "name": "ANN",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fI9bke5O0Tc9FUUPs722VRKwqI.jpg"
+      "isFree": true
     },
     {
-      "name": "Halab Today TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/HALAB TODAY.png"
+      "name": "Halab Today",
+      "isFree": true
     },
     {
-      "name": "Syrian News Channel",
-      "isFree": true,
-      "shortName": "SNC"
+      "name": "Syrian News",
+      "isFree": true
     },
     {
       "name": "Alalam News Channel Syria",
@@ -23,19 +20,16 @@
     {
       "name": "Alikhbaria Syria",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/SYRIA/SYRIA.png",
       "website": "http://alikhbaria.net/"
     },
     {
-      "name": "Radio Alkul TV",
+      "name": "Radio Alkul",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://www.radioalkul.com/"
     },
     {
-      "name": "Welat TV",
+      "name": "Welat",
       "isFree": true,
-      "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
       "website": "https://www.welattv.net/"
     },
     {
@@ -57,14 +51,12 @@
       "isFree": true
     },
     {
-      "name": "Suboro TV",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/Suboro_Tv_logo_png..png"
+      "name": "Suboro",
+      "isFree": true
     },
     {
       "name": "Nour El-Sham",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/Al Nahar.png",
       "website": "http://nour-elsham.sy/"
     }
   ],
@@ -76,60 +68,50 @@
   ],
   "Entertainment": [
     {
-      "name": "Lana TV",
+      "name": "Lana",
       "isFree": true,
-      "keywords": "lana tv -plus",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAGRGnsVIdCntuHLpnKl672rBrv.jpg"
+      "keywords": "lana tv -plus"
     },
     {
       "name": "Lana TV Plus",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAGRGnsVIdCntuHLpnKl672rBrv.jpg"
+      "isFree": true
     },
     {
-      "name": "Rojava TV",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/ROJAVA TV.png"
+      "name": "Rojava",
+      "isFree": true
     },
     {
-      "name": "Ronahî TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019011334872258_44.png"
+      "name": "Ronahî",
+      "isFree": true
     },
     {
-      "name": "Sama TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/UAE/SAMADUBAI.png"
+      "name": "Sama",
+      "isFree": true
     },
     {
       "name": "Sham IPTV",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/SHAM TV.png"
+      "isFree": true
     },
     {
-      "name": "Syria Satellite Channel",
-      "isFree": true,
-      "shortName": "SSC"
+      "name": "Syria Satellite",
+      "isFree": true
     },
     {
-      "name": "Syria TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174356062960_50.png"
+      "name": "Syria",
+      "isFree": true
     },
     {
-      "name": "Ugarit TV",
+      "name": "Ugarit",
       "isFree": true
     },
     {
       "name": "Al-Khabar Tele Site",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://alkhabar-sy.com/"
     },
     {
-      "name": "Almahaliya TV",
+      "name": "Almahaliya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://almahaliya.com/"
     },
     {
@@ -138,82 +120,69 @@
       "website": "https://www.althania.tv/"
     },
     {
-      "name": "Massaya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Massaya",
+      "isFree": true
     },
     {
       "name": "Prime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
       "website": "https://prime1tv.com/"
     },
     {
-      "name": "Raqqa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Raqqa",
+      "isFree": true
     },
     {
-      "name": "Ronahi TV",
+      "name": "Ronahi",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019011334872258_44.png",
       "website": "http://ronahi.tv/"
     },
     {
-      "name": "Souryana TV",
+      "name": "Souryana",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/SOURYANA FM.png",
       "website": "http://www.ortas.online/RadioSouryana/"
     },
     {
-      "name": "Syrian Satellite Channel",
+      "name": "Syrian Satellite",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://www.ortas.online//SyrianTV/"
     },
     {
       "name": "Syria One",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/SYRIA/SYRIA.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "Sham FM TV",
+      "name": "Sham FM",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/SHAM TV.png",
+      "priority": 4,
       "website": "https://sham.fm/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Syria Drama",
-      "isFree": false,
-      "logo": "https://go4.pw/ASIA/SYRIA/SYRIA.png"
+      "isFree": false
     },
     {
       "name": "Syria Drama 24",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/SYRIA/SYRIA.png"
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
-      "name": "Syrian Education TV",
-      "isFree": true,
-      "shortName": "SET",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Syrian Education",
+      "isFree": true
     },
     {
-      "name": "Alyaum Channel",
+      "name": "Alyaum",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://alyaumtv.net/"
     },
     {
-      "name": "Syrian Educational TV",
+      "name": "Syrian Educational",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://www.ortas.online//SEduTV/"
     }
   ],
@@ -221,8 +190,8 @@
     {
       "name": "Sham FM",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/SHAM TV.png",
-      "priority": 4
+      "priority": 4,
+      "website": "https://sham.fm/"
     },
     {
       "name": "Souryana Radio",
@@ -232,9 +201,8 @@
   ],
   "Sports": [
     {
-      "name": "Syria Sports TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/SYRIA/SYRIA.png"
+      "name": "Syria Sports",
+      "isFree": true
     }
   ]
 }

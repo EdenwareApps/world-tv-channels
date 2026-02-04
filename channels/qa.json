@@ -4,7 +4,6 @@
       "name": "Al Jazeera",
       "isFree": true,
       "keywords": "al jazeera -english",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png",
       "website": "https://www.aljazeera.com",
       "priority": 10
     },
@@ -13,21 +12,18 @@
       "isFree": true,
       "retransmits": "Al Jazeera",
       "shortName": "AJ English",
-      "logo": "http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",
       "website": "https://www.aljazeera.com",
       "priority": 10
     },
     {
-      "name": "Al Araby TV",
+      "name": "Al Araby",
       "isFree": true,
       "keywords": "al araby tv -2",
-      "logo": "https://i.imgur.com/YMqWEe4.png",
       "website": "https://www.alaraby.com/"
     },
     {
       "name": "Al Araby TV 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alaraby.com/alaraby2"
     },
     {
@@ -42,19 +38,17 @@
     {
       "name": "Al Jazeera Mubasher 24",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.aljazeeramubasher.net/",
       "priority": 10
     },
     {
       "name": "Al Jazeera Mubasher Broadcast 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.aljazeeramubasher.net/",
       "priority": 10
     },
     {
-      "name": "Libya Al Ahrar TV",
+      "name": "Libya Al Ahrar",
       "isFree": true,
       "website": "https://libyaalahrar.tv/"
     }
@@ -63,19 +57,16 @@
     {
       "name": "Al Kass Five",
       "isFree": false,
-      "keywords": "al kass five | alkass five",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "keywords": "al kass five | alkass five"
     },
     {
       "name": "Alkass Eight",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "https://www.alkass.net/"
     },
     {
       "name": "Alkass Eleven",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "http://www.alkass.net/"
     },
     {
@@ -86,7 +77,6 @@
     {
       "name": "Alkass Nine",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "http://www.alkass.net/"
     },
     {
@@ -97,37 +87,31 @@
     {
       "name": "Alkass Seven",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "https://www.alkass.net/"
     },
     {
       "name": "Alkass SHOOF",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "https://shoof.alkass.net/live?ch=shoof"
     },
     {
       "name": "Alkass Six",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "https://www.alkass.net/"
     },
     {
       "name": "Alkass Ten",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "http://www.alkass.net/"
     },
     {
       "name": "Alkass Three",
       "isFree": true,
-      "logo": "https://i.imgur.com/d57BdFh.png",
       "website": "https://www.alkass.net/"
     },
     {
       "name": "Alkass Two",
       "isFree": true,
-      "logo": "https://i.imgur.com/8w61kFX.png",
       "website": "https://www.alkass.net/"
     },
     {
@@ -139,7 +123,7 @@
       "priority": 9
     },
     {
-      "name": "beIN Sports 1",
+      "name": "beIN Sports",
       "isFree": true,
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
@@ -159,35 +143,30 @@
     {
       "name": "beIN Sports 4",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports 5",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports 6",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports 7",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports 8",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
@@ -195,28 +174,24 @@
       "name": "beIN Sports AFC",
       "isFree": true,
       "keywords": "bein sports afc -1 -2 -3",
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
-      "name": "beIN Sports AFC 1",
+      "name": "beIN Sports AFC",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports AFC 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports AFC 3",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
@@ -227,187 +202,161 @@
       "priority": 9
     },
     {
-      "name": "beIN Sports English 1",
+      "name": "beIN Sports English",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports English 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports English 3",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
-      "name": "beIN Sports French 1",
+      "name": "beIN Sports French",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports French 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports French 3",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
-      "name": "beIN Sports Max 1",
+      "name": "beIN Sports Max",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 10",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/france/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 3",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 4",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 5",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 6",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 7",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/france/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 8",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/france/",
       "priority": 9
     },
     {
       "name": "beIN Sports Max 9",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/france/",
       "priority": 9
     },
     {
       "name": "beIN Sports NBA",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports News",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.beinsports.com/ar/",
       "priority": 9
     },
     {
-      "name": "beIN Sports Premium 1",
+      "name": "beIN Sports Premium",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Premium 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
       "name": "beIN Sports Premium 3",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://www.beinsports.com/ar/",
       "priority": 9
     },
     {
-      "name": "beIN Sports Xtra 1",
+      "name": "beIN Sports Xtra",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.beinsportsxtra.com/",
       "priority": 9
     },
     {
       "name": "beIN Sports Xtra 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.beinsportsxtra.com/",
       "priority": 9
     },
     {
       "name": "Alkass Five",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKASS.png",
       "website": "https://www.alkass.net/"
     }
   ],
   "Religious": [
     {
       "name": "Al Rassoul",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
-      "name": "Al Maaref TV",
+      "name": "Al Maaref",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://almaaref.ch/"
     },
     {
-      "name": "Dohat Alquran TV",
+      "name": "Dohat Alquran",
       "isFree": true
     }
   ],
@@ -416,44 +365,33 @@
       "name": "Al Rayyan",
       "isFree": true,
       "keywords": "al rayyan -al qadeem",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174053788102_27.png"
+      "website": "https://www.alrayyan.tv/"
     },
     {
-      "name": "Qatar TV",
+      "name": "Qatar",
       "isFree": true,
       "keywords": "qatar tv -2",
-      "logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313145531758833_64.png",
       "priority": 9
     },
     {
       "name": "Qatar TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/QATAR/QATAR.png",
       "priority": 9
     },
     {
-      "name": "Al Rayyan Old TV",
+      "name": "Al Rayyan Old",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
-      "website": "https://www.alrayyan.tv/"
-    },
-    {
-      "name": "Al Rayyan TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alrayyan.tv/"
     },
     {
       "name": "beIN 4K",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.bein.com/",
       "priority": 9
     },
     {
       "name": "beIN Gourmet",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.bein.com/",
       "priority": 9
     },
@@ -461,40 +399,33 @@
       "name": "Qatar Television",
       "isFree": true,
       "keywords": "qatar television -2",
-      "logo": "https://i.imgur.com/N5RB4sp.png",
       "website": "http://www.qtv.qa/"
     },
     {
       "name": "Qatar Television 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/QATAR/QATAR.png",
       "website": "http://www.qtv.qa/"
     },
     {
-      "name": "Qatar Today 1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/QATAR/QATAR.png"
+      "name": "Qatar Today",
+      "isFree": true
     },
     {
       "name": "Qatar Today 2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/QATAR/QATAR.png"
+      "isFree": true
     },
     {
-      "name": "Sama Alkhaleej TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/UAE/SAMADUBAI.png"
+      "name": "Sama Alkhaleej",
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "Al Rayyan Al Qadeem",
-      "isFree": false,
-      "shortName": "ARAQ",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": false
     },
     {
-      "name": "beIN Box Office 1",
+      "name": "beIN Box Office",
       "isFree": true,
       "website": "https://www.bein.com/",
       "priority": 9
@@ -502,56 +433,48 @@
     {
       "name": "beIN Box Office 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.bein.com/",
       "priority": 9
     },
     {
-      "name": "beIN Drama 1",
+      "name": "beIN Drama",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "https://www.bein.com/",
       "priority": 9
     },
     {
       "name": "beIN Movies 1 Premiere",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     },
     {
       "name": "beIN Movies 2 Action",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     },
     {
       "name": "beIN Movies 3 Drama",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     },
     {
       "name": "beIN Movies 4 Family",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     },
     {
-      "name": "beIN Series 1",
+      "name": "beIN Series",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     },
     {
       "name": "beIN Series 2",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN SPORTS 1.png",
       "website": "http://bein.net/",
       "priority": 9
     }
@@ -560,7 +483,6 @@
     {
       "name": "Al Jazeera Documentary",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "http://doc.aljazeera.net/",
       "priority": 10
     }
@@ -569,13 +491,11 @@
     {
       "name": "Baraem",
       "isFree": true,
-      "logo": "https://go4.pw/KIDS/BARAEMKIDSEUROPE.png",
       "website": "https://baraem.tv/"
     },
     {
       "name": "Be Junior",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "website": "https://www.bein.com/en/bejunior/"
     },
     {

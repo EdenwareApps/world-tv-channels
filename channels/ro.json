@@ -5,9 +5,8 @@
       "isFree": true
     },
     {
-      "name": "B1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "B",
+      "isFree": true
     },
     {
       "name": "Aleph Business",
@@ -17,12 +16,11 @@
     {
       "name": "Antena 3 CNN",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.antena3.ro/",
       "priority": 9
     },
     {
-      "name": "Canal33",
+      "name": "Canal 33",
       "isFree": true
     },
     {
@@ -31,7 +29,7 @@
       "website": "https://www.digi24.ro/"
     },
     {
-      "name": "Dotto TV",
+      "name": "Dotto",
       "isFree": true,
       "website": "https://dottotv.ro/"
     },
@@ -42,20 +40,18 @@
       "priority": 9
     },
     {
-      "name": "Informatia TV",
+      "name": "Informatia",
       "isFree": true,
       "website": "https://informatia-zilei.ro/live-informatia-tv/"
     },
     {
       "name": "Info TV Romania",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://www.infotvromania.ro/"
     },
     {
-      "name": "JOB TV",
+      "name": "JOB",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayrGDJDsSBczjztGUWKqmzL97xg.jpg",
       "website": "https://jobtv.ro/"
     },
     {
@@ -69,26 +65,22 @@
       "website": "https://observatornews.ro/"
     },
     {
-      "name": "Ploiesti TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ploiesti",
+      "isFree": true
     },
     {
       "name": "Prima News",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "https://www.primaplay.ro/live/primanews"
     },
     {
       "name": "Profit News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NDTV_PROFIT.png",
       "website": "https://www.profit.ro/"
     },
     {
       "name": "PROTV News",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRO TV.png",
       "website": "https://stirileprotv.ro/protvnews/"
     },
     {
@@ -105,201 +97,162 @@
     {
       "name": "TV SUD",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvsud.ro/"
     },
     {
       "name": "TVRi",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"
+      "isFree": null
     },
     {
       "name": "TVR Moldova",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
       "priority": 10
     },
     {
       "name": "Acasă",
       "isFree": null,
-      "keywords": "acasa -gold",
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ACASA.png"
+      "keywords": "acasa -gold"
     },
     {
       "name": "Acasă Gold",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ACASA.png"
+      "isFree": null
     },
     {
       "name": "Pro TV Chișinău",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Internațional",
       "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/dcf9a6251cee07e1ae01b7f8deb13df0.png",
       "priority": 9
     },
     {
-      "name": "Antena 1 (Romania)",
+      "name": "Antena",
       "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "priority": 9
     },
     {
-      "name": "Happy Channel (Romania)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg"
+      "name": "Happy",
+      "isFree": null
     },
     {
       "name": "Antena 5",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": null
     },
     {
       "name": "Kanal D Romania",
       "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "priority": 9
     },
     {
       "name": "Cinemaraton",
       "isFree": null,
-      "keywords": "cinemaraton -moldova",
-      "logo": "https://go4.pw/AMERICA/USA/CINEMAX.png"
+      "keywords": "cinemaraton -moldova"
     },
     {
       "name": "Cinemaraton Moldova",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/USA/CINEMAX.png"
+      "isFree": null
     },
     {
-      "name": "Medika TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Medika",
+      "isFree": null
     },
     {
-      "name": "Nostalgia TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvexHHFLEonIuXul2AVpnwgrZw.jpg"
+      "name": "Nostalgia",
+      "isFree": null
     },
     {
       "name": "Prima History",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png"
+      "isFree": null
     },
     {
       "name": "Prima Sport",
       "isFree": null,
-      "keywords": "prima sport -1 -2 -3 -4 -5",
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png"
+      "keywords": "prima sport -1 -2 -3 -4 -5"
     },
     {
       "name": "Prima TV Moldova",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png"
+      "isFree": null
     },
     {
       "name": "Național 24 Plus",
-      "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png"
+      "isFree": null
     },
     {
       "name": "Atomic Academy",
       "isFree": null,
-      "keywords": "atomic academy -tv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg"
+      "keywords": "atomic academy",
+      "website": "https://atomicacademytv.ro/"
     },
     {
-      "name": "Angelus TV (Romania)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ANGELUS TV.png"
-    },
-    {
-      "name": "B1 TV",
+      "name": "Angelus",
       "isFree": null
     },
     {
-      "name": "Canal 33 (Romania)",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "name": "Canal 33",
+      "isFree": null
     },
     {
       "name": "Cinethronix",
-      "isFree": null,
-      "logo": "http://epg.one/img2/5703.png"
-    },
-    {
-      "name": "Nașul TV",
-      "isFree": null,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/02/01/20160201060018966826_86.png"
-    },
-    {
-      "name": "OTV (Romanian TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/LEBANON/OTVTV.png"
-    },
-    {
-      "name": "România TV",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ROMANIATV.png"
-    },
-    {
-      "name": "Sens TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Speranța TV",
       "isFree": null
     },
     {
-      "name": "Telestar 1",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Nașul",
+      "isFree": null
     },
     {
-      "name": "Top Shop TV",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "OTV",
+      "isFree": null
     },
     {
-      "name": "Digi Sport (Romania)",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "name": "România",
+      "isFree": null
+    },
+    {
+      "name": "Sens",
+      "isFree": null
+    },
+    {
+      "name": "Speranța",
+      "isFree": null
+    },
+    {
+      "name": "Telestar",
+      "isFree": null
+    },
+    {
+      "name": "Top Shop",
+      "isFree": null
+    },
+    {
+      "name": "Digi Sport",
+      "isFree": null
     },
     {
       "name": "Music Channel Romania",
-      "isFree": null,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "isFree": null
     },
     {
       "name": "UTV Romania",
-      "isFree": null,
-      "logo": "https://go4.pw/Africa/UTV.png"
+      "isFree": null
     },
     {
       "name": "Animal Planet Europe",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
+      "isFree": null
     },
     {
-      "name": "Cartoon Network (Central and Eastern Europe)",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+      "name": "Cartoon Network",
+      "isFree": null
     },
     {
-      "name": "Cartoonito (Central and Eastern European TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+      "name": "Cartoonito",
+      "isFree": null
     },
     {
       "name": "Cinemax",
       "isFree": null,
-      "keywords": "cinemax -2",
-      "logo": "https://imgur.com/v3a4Afr.png"
+      "keywords": "cinemax -2"
     },
     {
       "name": "Cinemax 2",
@@ -308,48 +261,42 @@
     {
       "name": "CNN International",
       "isFree": null,
-      "logo": "https://i.imgur.com/05S3yYZ.png",
       "priority": 10
     },
     {
       "name": "Discovery Channel Romania",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Eurosport 1",
+      "name": "Eurosport",
       "isFree": null
     },
     {
       "name": "Eurosport 2",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Q3WjH1Q.png"
+      "isFree": null
     },
     {
-      "name": "HBO (Central Europe)",
+      "name": "HBO",
       "isFree": null,
       "priority": 9
     },
     {
       "name": "HGTV",
-      "isFree": null,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png"
+      "isFree": null
     },
     {
       "name": "Investigation Discovery",
-      "isFree": null,
-      "logo": "http://epg.one/img2/2507.png"
+      "isFree": null
     },
     {
-      "name": "TLC (TV network)",
+      "name": "TLC",
       "isFree": null
     },
     {
       "name": "AXN",
       "isFree": null,
-      "keywords": "axn -black -crime -sci fi -spin -white",
-      "logo": "https://imgur.com/EYAmbe4.png"
+      "keywords": "axn -black -crime -sci fi -spin -white"
     },
     {
       "name": "AXN Black",
@@ -357,37 +304,38 @@
     },
     {
       "name": "AXN Spin",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": null
     },
     {
       "name": "AXN White",
       "isFree": null
     },
     {
-      "name": "Kiss TV (Romania)",
+      "name": "Kiss",
       "isFree": null
     },
     {
-      "name": "MTV (European TV channel)",
+      "name": "MTV",
       "isFree": null,
-      "priority": 8
+      "priority": 8,
+      "_alt_origName": [
+        "MTV (Romanian TV channel)"
+      ]
     },
     {
-      "name": "Nick Jr. Channel",
+      "name": "Nick Jr.",
       "isFree": null
     },
     {
       "name": "Nickelodeon Global",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
-    },
-    {
-      "name": "AMC (European TV channel)",
       "isFree": null
     },
     {
-      "name": "Extreme Sports Channel",
+      "name": "AMC",
+      "isFree": null
+    },
+    {
+      "name": "Extreme Sports",
       "isFree": null
     },
     {
@@ -395,29 +343,26 @@
       "isFree": null
     },
     {
-      "name": "Minimax (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/MINIMAX.png"
-    },
-    {
-      "name": "Baby TV",
+      "name": "Minimax",
       "isFree": null
     },
     {
-      "name": "National Geographic Channel",
+      "name": "Baby",
+      "isFree": null
+    },
+    {
+      "name": "National Geographic",
       "isFree": null,
       "priority": 9
     },
     {
-      "name": "Disney Channel (Romania)",
+      "name": "Disney",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney Junior (Romania)",
+      "name": "Disney Junior",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
@@ -426,35 +371,30 @@
     },
     {
       "name": "Viasat Explore",
-      "isFree": null,
-      "logo": "https://i.imgur.com/DyT5pKB.png"
+      "isFree": null
     },
     {
       "name": "Viasat History",
       "isFree": null
     },
     {
-      "name": "BBC News (international TV channel)",
+      "name": "BBC News",
       "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
       "name": "BBC Earth",
       "isFree": null,
-      "logo": "https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png",
       "priority": 10
     },
     {
       "name": "BBC First",
       "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2019/03/04/large/20190304000008060329_57.png",
       "priority": 10
     },
     {
       "name": "Diva Universal",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/DIVA.png"
+      "isFree": null
     },
     {
       "name": "E! Entertainment",
@@ -462,58 +402,49 @@
     },
     {
       "name": "Crime & Investigation Network",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg"
+      "isFree": null
     },
     {
-      "name": "The History Channel",
-      "isFree": null,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "name": "The History",
+      "isFree": null
     },
     {
       "name": "Bollywood Stars",
       "isFree": null
     },
     {
-      "name": "FightBox (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png"
+      "name": "FightBox",
+      "isFree": null
     },
     {
       "name": "Orange Info",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+      "isFree": null
     },
     {
-      "name": "SkyShowtime 1",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+      "name": "SkyShowtime",
+      "isFree": null
     },
     {
       "name": "SkyShowtime 2",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+      "isFree": null
     },
     {
       "name": "Al Jazeera Media Network",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "priority": 10
     },
     {
       "name": "Arte",
       "isFree": null,
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
       "priority": 10
     },
     {
-      "name": "Auto Motor und Sport Channel",
+      "name": "Auto Motor und Sport",
       "isFree": null
     },
     {
       "name": "Balkanika MTV",
-      "isFree": null,
-      "logo": "https://go4.pw/ALBANIA/Balkanika-Music.jpg"
+      "isFree": null
     },
     {
       "name": "Bloomberg Television",
@@ -521,85 +452,73 @@
     },
     {
       "name": "China Global Television Network",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg"
+      "isFree": null
     },
     {
       "name": "Deutsche Welle",
       "isFree": null,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 10
     },
     {
-      "name": "Duna TV",
-      "isFree": null,
-      "logo": "https://i.imgur.com/b4RXacY.png"
-    },
-    {
-      "name": "Duck TV",
+      "name": "Duna",
       "isFree": null
     },
     {
-      "name": "Fashion TV",
+      "name": "Duck",
+      "isFree": null
+    },
+    {
+      "name": "Fashion",
       "isFree": null
     },
     {
       "name": "France 24",
       "isFree": null,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 10
     },
     {
       "name": "KBS World",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"
+      "isFree": null
     },
     {
-      "name": "Mezzo TV",
-      "isFree": null,
-      "logo": "https://go4.pw/SPAIN/MEZL.png"
+      "name": "Mezzo",
+      "isFree": null
     },
     {
       "name": "ProSieben",
       "isFree": null
     },
     {
-      "name": "Rai 1",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813045644655731_74.png"
+      "name": "Rai",
+      "isFree": null
     },
     {
       "name": "Rai 3",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813050016777983_50.png"
+      "isFree": null
     },
     {
-      "name": "RT (TV network)",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png"
+      "name": "RT",
+      "isFree": null
     },
     {
       "name": "RTL Television",
       "isFree": null
     },
     {
-      "name": "Sat.1",
+      "name": "Sat.",
       "isFree": null
     },
     {
       "name": "Trace Sport Stars",
-      "isFree": null,
-      "logo": "https://i.imgur.com/7HTxrEq.png"
+      "isFree": null
     },
     {
       "name": "TV5Monde Europe",
-      "isFree": null,
-      "logo": "https://static.epg.best/fr/TV5MondeEurope.fr.png"
+      "isFree": null
     },
     {
       "name": "TVR Tîrgu-Mureș",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
       "priority": 10
     },
     {
@@ -608,13 +527,11 @@
     },
     {
       "name": "Jetix",
-      "isFree": null,
-      "logo": "https://tvtm.one/images/chIcons/3096.png"
+      "isFree": null
     },
     {
-      "name": "Hallmark Channel",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2024/03/26/large/20240326210433916848_24.png"
+      "name": "Hallmark",
+      "isFree": null
     },
     {
       "name": "MTV Two",
@@ -624,8 +541,7 @@
     {
       "name": "Boom Sport",
       "isFree": null,
-      "keywords": "boom sport -four -one -three -two",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+      "keywords": "boom sport -four -one -three -two"
     },
     {
       "name": "Telesport",
@@ -633,30 +549,25 @@
     },
     {
       "name": "Playhouse Disney",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cF4tZH8VQ6Lic3bi4WKwWDJODQf.jpg"
+      "isFree": null
     },
     {
       "name": "Sport Klub",
       "isFree": null,
-      "keywords": "sport klub -prime",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+      "keywords": "sport klub -prime"
     },
     {
       "name": "Discovery Travel & Living",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
       "name": "AXN Crime",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": null
     },
     {
       "name": "AXN Sci Fi",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": null
     },
     {
       "name": "KidsCo",
@@ -668,23 +579,19 @@
     },
     {
       "name": "Animax",
-      "isFree": null,
-      "logo": "https://imgur.com/BatygW5.png"
+      "isFree": null
     },
     {
-      "name": "MGM (TV channel)",
-      "isFree": null,
-      "logo": "https://i.imgur.com/FRbtrxo.png"
+      "name": "MGM",
+      "isFree": null
     },
     {
-      "name": "The Money Channel",
-      "isFree": null,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "name": "The Money",
+      "isFree": null
     },
     {
       "name": "TVR News",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
       "priority": 10
     },
     {
@@ -694,34 +601,25 @@
     {
       "name": "Eurosport",
       "isFree": null,
-      "keywords": "eurosport -1 -2 -3 -3d -4 -5",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png"
+      "keywords": "eurosport -1 -2 -3 -3d -4 -5"
     },
     {
-      "name": "C8 (Eastern Europe)",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/C8.png"
+      "name": "C 8",
+      "isFree": null
     },
     {
       "name": "Comedy Central Extra",
       "isFree": null
     },
     {
-      "name": "Discovery World (international TV channel)",
+      "name": "Discovery World",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Shorts TV",
+      "name": "Shorts",
       "isFree": null,
-      "keywords": "shorts tv | shortstv",
-      "logo": "https://i.imgur.com/lyBkCzB.png"
-    },
-    {
-      "name": "MTV (Romanian TV channel)",
-      "isFree": null,
-      "priority": 8
+      "keywords": "shorts tv | shortstv"
     },
     {
       "name": "Nat Geo Wild",
@@ -729,9 +627,8 @@
       "priority": 10
     },
     {
-      "name": "TVR HD",
+      "name": "TVR",
       "isFree": null,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
@@ -739,66 +636,59 @@
       "isFree": null
     },
     {
-      "name": "MTV Rocks (European TV channel)",
+      "name": "MTV Rocks",
       "isFree": null,
       "priority": 8
     },
     {
-      "name": "VH1 Classic (European TV channel)",
+      "name": "VH1 Classic",
       "isFree": null
     },
     {
-      "name": "Fine Living (European TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyuWgxf18c6GjiiVWsmNezxhgnG.jpg"
+      "name": "Fine Living",
+      "isFree": null
     },
     {
       "name": "Televiziunea Târgu-Mureș",
       "isFree": null
     },
     {
-      "name": "VH1 (European TV channel)",
+      "name": "VH",
       "isFree": null
     },
     {
-      "name": "TNT (American TV network)",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"
+      "name": "TNT",
+      "isFree": null
     },
     {
-      "name": "Boomerang (TV network)",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
+      "name": "Boomerang",
+      "isFree": null
     },
     {
-      "name": "Discovery Science (European TV channel)",
+      "name": "Discovery Science",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "DTX (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/DTX UHD.png"
-    },
-    {
-      "name": "Orange Sport (Romania)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
-    },
-    {
-      "name": "Travel Channel",
+      "name": "DTX",
       "isFree": null
     },
     {
-      "name": "MTV Hits (European TV channel)",
+      "name": "Orange Sport",
+      "isFree": null
+    },
+    {
+      "name": "Travel",
+      "isFree": null
+    },
+    {
+      "name": "MTV Hits",
       "isFree": null,
       "priority": 8
     },
     {
       "name": "Club MTV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg"
+      "isFree": null
     },
     {
       "name": "MTV 00s",
@@ -816,14 +706,13 @@
       "priority": 8
     },
     {
-      "name": "MTV Live (International TV channel)",
+      "name": "MTV Live",
       "isFree": null,
       "priority": 8
     },
     {
       "name": "BBC Entertainment",
       "isFree": null,
-      "logo": "https://epg.pw/media/",
       "priority": 10
     },
     {
@@ -838,73 +727,65 @@
     },
     {
       "name": "Motorsport.tv",
-      "isFree": null,
-      "logo": "https://i.imgur.com/qmczb2N.png"
+      "isFree": null
     },
     {
       "name": "Movies 24",
       "isFree": null
     },
     {
-      "name": "Outdoor Channel",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061422478101_60.jpg"
-    },
-    {
-      "name": "Sci Fi (Romanian TV channel)",
+      "name": "Outdoor",
       "isFree": null
     },
     {
-      "name": "Sundance TV",
+      "name": "Sci Fi",
+      "isFree": null
+    },
+    {
+      "name": "Sundance",
       "isFree": null
     },
     {
       "name": "Tele7ABC",
       "isFree": null,
-      "keywords": "tele7abc -hd",
-      "logo": "https://i.imgur.com/pzxUE0O.png"
+      "keywords": "tele7abc",
+      "website": "https://tele7abc.ro/"
     },
     {
-      "name": "Transilvania TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg"
+      "name": "Transilvania",
+      "isFree": null
     },
     {
       "name": "(HD)",
       "isFree": null
     },
     {
-      "name": "Party Mix (HD)",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "name": "Party Mix",
+      "isFree": null
     },
     {
-      "name": "Boom TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+      "name": "Boom",
+      "isFree": null
     },
     {
       "name": "Exploris",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/EXPLORIS.png"
+      "isFree": null
     },
     {
       "name": "NCN",
       "isFree": null
     },
     {
-      "name": "Zoom TV",
+      "name": "Zoom",
       "isFree": null
     },
     {
-      "name": "HIT Music Channel (HD)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg"
+      "name": "HIT Music",
+      "isFree": null
     },
     {
-      "name": "Hora TV (HD)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/HORA.png"
+      "name": "Hora",
+      "isFree": null
     },
     {
       "name": "DocuBox",
@@ -912,8 +793,7 @@
     },
     {
       "name": "Erox",
-      "isFree": null,
-      "logo": "http://epg.one/img2/2193.png"
+      "isFree": null
     },
     {
       "name": "Eroxxx",
@@ -921,8 +801,7 @@
     },
     {
       "name": "FashionBox",
-      "isFree": null,
-      "logo": "https://go4.pw/MBCGROUP/Fashion-Box.png"
+      "isFree": null
     },
     {
       "name": "Fast&FunBox",
@@ -938,9 +817,8 @@
       "isFree": null
     },
     {
-      "name": "Filmbox Extra (HD)",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/FILMBOX.png"
+      "name": "Filmbox Extra",
+      "isFree": null
     },
     {
       "name": "Filmbox Family",
@@ -952,18 +830,15 @@
     },
     {
       "name": "GameToon",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/POLONIA/GAMETOON.png"
+      "isFree": null
     },
     {
-      "name": "Timeless Drama Channel",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW6jwqUxXhojjKZ54OGu6KbCcWa.jpg"
+      "name": "Timeless Drama",
+      "isFree": null
     },
     {
       "name": "Mooz RO",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/MOOZ RO.png"
+      "isFree": null
     },
     {
       "name": "Motorvision",
@@ -974,32 +849,28 @@
       "isFree": null
     },
     {
-      "name": "Nautical Channel",
+      "name": "Nautical",
       "isFree": null
     },
     {
       "name": "A+ Anime",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg"
+      "isFree": null
     },
     {
       "name": "Info Dolce",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png"
+      "isFree": null
     },
     {
-      "name": "Cosmos TV",
+      "name": "Cosmos",
       "isFree": null
     },
     {
       "name": "Vox News",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg"
+      "isFree": null
     },
     {
       "name": "CineStar",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png"
+      "isFree": null
     },
     {
       "name": "ActionStar",
@@ -1010,118 +881,100 @@
       "isFree": null
     },
     {
-      "name": "10 TV (now Digi24)",
+      "name": "10",
       "isFree": null,
       "priority": 9
     },
     {
-      "name": "Romantica (now Film Cafe)",
+      "name": "Romantica",
       "isFree": null
     },
     {
-      "name": "TVH 2.0",
+      "name": "TVH 2.",
       "isFree": null
     },
     {
-      "name": "Money.ro TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Giga TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Mynele TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Universal Channel",
+      "name": "Money.ro",
       "isFree": null
     },
     {
-      "name": "HBO Comedy (now HBO 3)",
+      "name": "Giga",
+      "isFree": null
+    },
+    {
+      "name": "Mynele",
+      "isFree": null
+    },
+    {
+      "name": "Universal",
+      "isFree": null
+    },
+    {
+      "name": "HBO Comedy",
       "isFree": null,
       "priority": 9
     },
     {
-      "name": "Dolce Info (now Orange Info)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg"
+      "name": "Dolce Info",
+      "isFree": null
     },
     {
-      "name": "Digi Film (now Film Now)",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "name": "Digi Film",
+      "isFree": null
     },
     {
-      "name": "TVH Kids Channel",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+      "name": "TVH Kids",
+      "isFree": null
     },
     {
-      "name": "Neptun TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Neptun",
+      "isFree": null
     },
     {
       "name": "Discovery HD Showcase",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Comedy Est (now Prima History)",
-      "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+      "name": "Comedy Est",
+      "isFree": null
     },
     {
-      "name": "PRO Gold (now Acasă Gold)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg"
+      "name": "PRO Gold",
+      "isFree": null
     },
     {
-      "name": "Telekom Info (now Orange Info)",
-      "isFree": null,
-      "logo": "https://go4.pw/FLAGS/flag_germany.png"
+      "name": "Telekom Info",
+      "isFree": null
     },
     {
-      "name": "București TV (now Kanal D2)",
+      "name": "București",
       "isFree": null,
-      "logo": "http://epg.one/img2/3736.png",
       "priority": 9
     },
     {
-      "name": "Arcadia TV World (now )",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ARCADIA WORLD FHD.png"
+      "name": "Arcadia TV World",
+      "isFree": null
     },
     {
-      "name": "Linkpress TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Linkpress",
+      "isFree": null
     },
     {
       "name": "Global News",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png"
+      "isFree": null
     },
     {
-      "name": "Melos TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Melos",
+      "isFree": null
     },
     {
       "name": "Money News",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg"
+      "isFree": null
     },
     {
-      "name": "Apollonia TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Apollonia",
+      "isFree": null
     },
     {
       "name": "A+",
@@ -1129,188 +982,153 @@
       "keywords": "a+ -anime"
     },
     {
-      "name": "Absolut TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Absolut",
+      "isFree": null
     },
     {
-      "name": "Alpha TV",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/b002547282633c037f6ecde529bce57f.png"
+      "name": "Alpha",
+      "isFree": null
     },
     {
       "name": "AKTA Info",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png"
+      "isFree": null
     },
     {
       "name": "Antena News",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": null
     },
     {
       "name": "Antena TV Novela",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": null
     },
     {
-      "name": "Bah TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bah",
+      "isFree": null
     },
     {
       "name": "BBC Prime",
       "isFree": null,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
       "name": "Boom Action",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Base",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Cinema 1",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Cinema 2",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Comedy",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Classic",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Drama",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Hop!",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Indian",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Karaoke",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom KidZone",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Music",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Public",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Romance",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Secrets",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Smarty",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Sport One",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Sport Two",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Sport Three",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Boom Sport Four",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
-    },
-    {
-      "name": "Brava TV",
       "isFree": null
     },
     {
-      "name": "Canal 1",
-      "isFree": null,
-      "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg"
+      "name": "Boom Base",
+      "isFree": null
+    },
+    {
+      "name": "Boom Cinema",
+      "isFree": null
+    },
+    {
+      "name": "Boom Cinema 2",
+      "isFree": null
+    },
+    {
+      "name": "Boom Comedy",
+      "isFree": null
+    },
+    {
+      "name": "Boom Classic",
+      "isFree": null
+    },
+    {
+      "name": "Boom Drama",
+      "isFree": null
+    },
+    {
+      "name": "Boom Hop!",
+      "isFree": null
+    },
+    {
+      "name": "Boom Indian",
+      "isFree": null
+    },
+    {
+      "name": "Boom Karaoke",
+      "isFree": null
+    },
+    {
+      "name": "Boom KidZone",
+      "isFree": null
+    },
+    {
+      "name": "Boom Music",
+      "isFree": null
+    },
+    {
+      "name": "Boom Public",
+      "isFree": null
+    },
+    {
+      "name": "Boom Romance",
+      "isFree": null
+    },
+    {
+      "name": "Boom Secrets",
+      "isFree": null
+    },
+    {
+      "name": "Boom Smarty",
+      "isFree": null
+    },
+    {
+      "name": "Boom Sport One",
+      "isFree": null
+    },
+    {
+      "name": "Boom Sport Two",
+      "isFree": null
+    },
+    {
+      "name": "Boom Sport Three",
+      "isFree": null
+    },
+    {
+      "name": "Boom Sport Four",
+      "isFree": null
+    },
+    {
+      "name": "Brava",
+      "isFree": null
+    },
+    {
+      "name": "Canal",
+      "isFree": null
     },
     {
       "name": "Canal M",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Canal Teleshop",
-      "isFree": null,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": null
     },
     {
       "name": "Cherry Music",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg"
+      "isFree": null
     },
     {
       "name": "CMT",
       "isFree": null
     },
     {
-      "name": "Diaspora TV",
-      "isFree": null,
-      "logo": "https://go4.pw/ALBANIA/DIASPORA.png"
+      "name": "Diaspora",
+      "isFree": null
     },
     {
       "name": "Digi Film 2",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "Digi Info",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "Digi Premium",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "DoQ",
@@ -1322,120 +1140,99 @@
     },
     {
       "name": "Eurosport 3",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "Eurosport 4",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "Eurosport 5",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "Eurosport 3D",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": null
     },
     {
       "name": "F+",
       "isFree": null
     },
     {
-      "name": "Flux TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg"
+      "name": "Flux",
+      "isFree": null
     },
     {
-      "name": "GoodLife Channel",
+      "name": "GoodLife",
       "isFree": null
     },
     {
       "name": "GSP TV 2",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "GSP TV 3",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "GSP TV 4",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
-      "name": "Guide Channel",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg"
+      "name": "Guide",
+      "isFree": null
     },
     {
-      "name": "IDA TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJfvxFlbTKzbJSiFrDl5PvUpqM.jpg"
+      "name": "IDA",
+      "isFree": null
     },
     {
-      "name": "Interac TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Interac",
+      "isFree": null
     },
     {
       "name": "Magic Action",
-      "isFree": null,
-      "logo": "https://tvtm.one/images/chIcons/1556.png"
+      "isFree": null
     },
     {
       "name": "Magic Box",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
       "name": "Magic Classic",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
-      "name": "Magic PPV 1",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "name": "Magic PPV",
+      "isFree": null
     },
     {
       "name": "Magic PPV 2",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
       "name": "Magic PPV 3",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
       "name": "Magic PPV 4",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
       "name": "Magic Promo",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
       "name": "Magic X",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": null
     },
     {
-      "name": "Meteo TV",
+      "name": "Meteo",
       "isFree": null
     },
     {
       "name": "Mooz 4K",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/MOOZ RO.png"
+      "isFree": null
     },
     {
       "name": "MusicMix",
@@ -1447,100 +1244,83 @@
     },
     {
       "name": "News Romania",
-      "isFree": null,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": null
     },
     {
-      "name": "Noll TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Noll",
+      "isFree": null
     },
     {
-      "name": "One TV",
+      "name": "One",
       "isFree": null
     },
     {
       "name": "Orion",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHiXFLMlnl5jBjtfOliapN16yBD.jpg"
+      "isFree": null
     },
     {
-      "name": "Partener TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Partener",
+      "isFree": null
     },
     {
-      "name": "Party TV",
-      "isFree": null,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "name": "Party",
+      "isFree": null
     },
     {
-      "name": "Pax TV",
-      "isFree": null,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "name": "Pax",
+      "isFree": null
     },
     {
-      "name": "Pratech TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Pratech",
+      "isFree": null
     },
     {
       "name": "Pro TV Brașov",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Arad",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Buzău",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Constanța",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Iași",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Oradea",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Satu Mare",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
       "name": "Pro TV Tg. Mureș",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "priority": 9
     },
     {
-      "name": "PV TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "PV",
+      "isFree": null
     },
     {
       "name": "România Ta",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ROMANIATV.png"
+      "isFree": null
     },
     {
       "name": "Senso",
@@ -1548,8 +1328,7 @@
     },
     {
       "name": "Spark",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zj2KfykL4qvYCrbMv46Yd5vnYM.jpg"
+      "isFree": null
     },
     {
       "name": "Sport1 RO",
@@ -1561,68 +1340,56 @@
     },
     {
       "name": "Sport Klub Prime",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
+      "isFree": null
     },
     {
       "name": "Stingray",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": null
     },
     {
       "name": "Style Network",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MDxGMofE4mO9345xlLrrIKo6pW.jpg"
+      "isFree": null
     },
     {
       "name": "Teleshop 24",
       "isFree": null
     },
     {
-      "name": "The Medical Channel",
-      "isFree": null,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "name": "The Medical",
+      "isFree": null
     },
     {
-      "name": "Top 1 TV",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "Top",
+      "isFree": null
     },
     {
-      "name": "Tradiții TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tradiții",
+      "isFree": null
     },
     {
       "name": "TV OK",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "TVR București",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
       "priority": 10
     },
     {
       "name": "TVRM Cultural",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/ES+.png"
+      "isFree": null
     },
     {
       "name": "UTV 3D",
-      "isFree": null,
-      "logo": "https://go4.pw/Africa/UTV.png"
+      "isFree": null
     },
     {
-      "name": "Vacanța TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vacanța",
+      "isFree": null
     },
     {
       "name": "Voyo Action",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
+      "isFree": null
     },
     {
       "name": "Voyo Cinema",
@@ -1630,13 +1397,11 @@
     },
     {
       "name": "Voyo Comedy",
-      "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+      "isFree": null
     },
     {
-      "name": "Zeus TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Zeus",
+      "isFree": null
     },
     {
       "name": "Zone Reality",
@@ -1649,31 +1414,27 @@
   ],
   "Religious": [
     {
-      "name": "Alfa Omega TV",
+      "name": "Alfa Omega",
       "isFree": true
     },
     {
-      "name": "Angelus TV",
+      "name": "Angelus",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ANGELUS TV.png",
       "website": "https://angelustv.ro/"
     },
     {
-      "name": "Maria TV",
+      "name": "Maria",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xHKEYfrO1FpVZJJnKy5BhfWVCK.jpg",
       "website": "https://www.radiomaria.ro/"
     },
     {
-      "name": "MISA TV",
+      "name": "MISA",
       "isFree": true,
-      "logo": "https://i.imgur.com/2RxQNm6.png",
       "website": "https://misatv.ro/"
     },
     {
       "name": "SperantaTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/KUyqQCX.png",
       "website": "http://www.sperantatv.ro/"
     }
   ],
@@ -1683,9 +1444,8 @@
       "isFree": false
     },
     {
-      "name": "Digi Sport 1",
+      "name": "Digi Sport",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://digisport.ro/"
     },
     {
@@ -1706,105 +1466,88 @@
     {
       "name": "Liga Portugal",
       "isFree": true,
-      "logo": "https://go4.pw/UK/supersport.png",
       "website": "https://antenaplay.ro/"
     },
     {
-      "name": "Orange Sport 1",
+      "name": "Orange Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "website": "https://www.orangesport.ro/"
     },
     {
       "name": "Orange Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "website": "https://www.orangesport.ro/"
     },
     {
       "name": "Orange Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "website": "https://www.orangesport.ro/"
     },
     {
       "name": "Orange Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "website": "https://www.orangesport.ro/"
     },
     {
       "name": "Prima 4K",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://www.primasport.ro/"
     },
     {
-      "name": "Prima Sport 1",
+      "name": "Prima Sport",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://primasport.ro/"
     },
     {
       "name": "Prima Sport 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://primasport.ro/"
     },
     {
       "name": "Prima Sport 3",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://primasport.ro/"
     },
     {
       "name": "Prima Sport 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://primasport.ro/"
     },
     {
       "name": "Prima Sport 5",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "http://primasport.ro/"
     },
     {
       "name": "Realitatea Sportiva",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/REALITATEA.png",
       "website": "https://www.realitateasportiva.net/"
     },
     {
       "name": "Serie B",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/ITALY.png",
       "website": "https://antenaplay.ro/"
     },
     {
       "name": "Sport Extra",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.sportextra.ro/"
     }
   ],
   "Local": [
     {
-      "name": "Columna TV",
+      "name": "Columna",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/COLUMNA TV UHD.png",
       "priority": 4
     },
     {
-      "name": "Est TV",
+      "name": "Est",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png",
       "priority": 4
     },
     {
       "name": "GTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png",
       "priority": 4
     }
   ],
@@ -1817,232 +1560,184 @@
   "Entertainment": [
     {
       "name": "7TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c171695684ee6faa3565b559e785c64d.png"
+      "isFree": true
     },
     {
       "name": "A7TV",
       "isFree": true
     },
     {
-      "name": "Agro TV",
+      "name": "Agro",
       "isFree": true,
       "keywords": "agro tv | agrotv",
-      "shortName": "AgroTV",
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png"
+      "shortName": "AgroTV"
     },
     {
       "name": "Antena Comedy",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3edcaa7e33e6e33378435f44cb9299be.png"
+      "isFree": true
     },
     {
       "name": "Antena Cook and PLay",
-      "isFree": true,
-      "shortName": "ACAP",
-      "logo": "https://images.iptvmate.net/tvglogo/5595f3c71a02a88f5c4792ea8fae76b3.png"
+      "isFree": true
     },
     {
       "name": "Antena Monden",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ed73cfb496e05adf02cbb344c54d34e4.png"
+      "isFree": true
     },
     {
-      "name": "Bucovina TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Bucovina",
+      "isFree": true
     },
     {
       "name": "CBN Family Romania",
-      "isFree": true,
-      "shortName": "CFR",
-      "logo": "https://go4.pw/CARIBBIEAN/_cbn (1).png"
+      "isFree": true
     },
     {
       "name": "Canal 33",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d89c44773d520bb6d8f81f80ce064917.png"
+      "isFree": true
     },
     {
-      "name": "Cornea TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/66637b82168924c80fdafc9adb2024cc.png"
+      "name": "Cornea",
+      "isFree": true
     },
     {
-      "name": "Credo TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Credo",
+      "isFree": true
     },
     {
-      "name": "Cromtel TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Cromtel",
+      "isFree": true
     },
     {
-      "name": "EST TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png"
+      "name": "EST",
+      "isFree": true
     },
     {
       "name": "H!t Music Channel Romania",
-      "isFree": true,
-      "shortName": "HMCR",
-      "logo": "https://images.iptvmate.net/tvglogo/2d7b12b46ea0c5fe7dbb44046587c81d.png"
+      "isFree": true
     },
     {
-      "name": "HD 365",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/175d0ed0cc2c9f033f9f079247aafe97.png"
-    },
-    {
-      "name": "Happy Channel",
+      "name": "Happy",
       "isFree": true
     },
     {
       "name": "Iasi TV Life",
       "isFree": true,
-      "keywords": "iasi tv life | iasitv life",
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "keywords": "iasi tv life | iasitv life"
     },
     {
-      "name": "Infinit TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7c844650da2aaa45c91ac637bf6687bd.png"
+      "name": "Infinit",
+      "isFree": true
     },
     {
-      "name": "Info HD",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/adcf01a3610ee96b39d0126a49d524b8.png"
+      "name": "Info",
+      "isFree": true
     },
     {
-      "name": "Intermedia TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Intermedia",
+      "isFree": true
     },
     {
       "name": "Kanal D",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175021665970_15.png",
       "priority": 9
     },
     {
-      "name": "Kapital TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/60dcd251784220b5b855215c9e7536ac.png"
+      "name": "Kapital",
+      "isFree": true
     },
     {
-      "name": "Light Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg"
+      "name": "Light",
+      "isFree": true
     },
     {
-      "name": "Lira TV",
+      "name": "Lira",
       "isFree": true
     },
     {
       "name": "MEDIA REGIONAL",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "priority": 4
     },
     {
-      "name": "Music Channel",
-      "isFree": true,
-      "logo": "http://media.boni-records.com/logo.png"
+      "name": "Music",
+      "isFree": true
     },
     {
-      "name": "NEst TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "NEst",
+      "isFree": true
     },
     {
-      "name": "Nasul TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/02/01/20160201060018966826_86.png"
+      "name": "Nasul",
+      "isFree": true
     },
     {
-      "name": "Naşul TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/02/01/20160201060018966826_86.png"
+      "name": "Naşul",
+      "isFree": true
     },
     {
       "name": "Nova TV Brasov",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/39f2f395ce1dfb4ebab4f307af0252ad.png"
+      "isFree": true
     },
     {
-      "name": "Prima TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png"
+      "name": "Prima",
+      "isFree": true
     },
     {
       "name": "Pro 2",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/91832b4645d464f3fd25bb6232363066.png"
+      "isFree": true
     },
     {
       "name": "Pro Gold",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b5cbdad340aed92fcfe69328a92238bb.png"
+      "isFree": true
     },
     {
-      "name": "Pro TV",
+      "name": "Pro",
       "isFree": true,
       "keywords": "pro tv -international",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174717633593_44.png",
       "priority": 10
     },
     {
       "name": "Pro TV International",
       "isFree": true,
-      "shortName": "PTI",
-      "logo": "https://images.iptvmate.net/tvglogo/dcf9a6251cee07e1ae01b7f8deb13df0.png",
       "priority": 9
     },
     {
       "name": "Pro X",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/cf7a7ac875f298fefe724d4c2c22a232.png"
+      "isFree": true
     },
     {
       "name": "Profit",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NDTV_PROFIT.png"
+      "isFree": true
     },
     {
       "name": "Profit.ro",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "isFree": true
     },
     {
-      "name": "Realitatea TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Realitatea",
+      "isFree": true
     },
     {
-      "name": "Sangeorz TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sangeorz",
+      "isFree": true
     },
     {
-      "name": "Somax TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png"
+      "name": "Somax",
+      "isFree": true
     },
     {
-      "name": "Speranta TV",
+      "name": "Speranta",
       "isFree": true
     },
     {
       "name": "Stars",
       "isFree": true,
-      "keywords": "stars -direct",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/viR50oQCs8ObciADFGWHUyChexZ.jpg"
+      "keywords": "stars -direct"
     },
     {
       "name": "Stars Direct",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/viR50oQCs8ObciADFGWHUyChexZ.jpg"
+      "isFree": true
     },
     {
       "name": "SuperTV",
@@ -2054,62 +1749,51 @@
     },
     {
       "name": "TVPlus Suceava",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/139b706fe0798417181f18990294f0e7.png"
+      "isFree": true
     },
     {
-      "name": "TVR 1",
+      "name": "TVR",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
       "name": "TVR 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 9
     },
     {
       "name": "TVR 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
       "name": "TVR Cluj",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
       "name": "TVR Craiova",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
       "name": "TVR Iași",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "priority": 10
     },
     {
       "name": "TVR International",
       "isFree": true,
-      "shortName": "TI",
-      "logo": "https://i.imgur.com/w28wcHs.png",
       "priority": 10
     },
     {
       "name": "TVR Timișoara",
       "isFree": true,
-      "logo": "https://i.imgur.com/0x6Edei.png",
       "priority": 10
     },
     {
       "name": "TVR Târgu Mureș",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVR_SD.png",
       "priority": 10
     },
     {
@@ -2117,55 +1801,46 @@
       "isFree": true
     },
     {
-      "name": "Telestar1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/BTKh5ef.png"
+      "name": "Telestar",
+      "isFree": true
     },
     {
-      "name": "TravelMix",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2d6f1bdcb363a13caa4ec8f2fc3dd2c3.png"
+      "name": "Travel Mix",
+      "isFree": true
     },
     {
       "name": "UTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png"
+      "isFree": true
     },
     {
-      "name": "VP TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ffe190eb5bb9cad2bd78a792cd8443f0.png"
+      "name": "VP",
+      "isFree": true
     },
     {
       "name": "Acasa",
       "isFree": true,
       "keywords": "acasa -gold",
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ACASA.png",
       "website": "https://acasatv.ro/"
     },
     {
       "name": "Acasa Gold",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ACASA.png",
       "website": "http://www.acasagold.ro/"
     },
     {
-      "name": "Alba Carolina TV",
+      "name": "Alba Carolina",
       "isFree": true,
-      "logo": "https://go4.pw/UK/bbcalba.png",
       "website": "https://www.carolinatv.ro/"
     },
     {
-      "name": "Antena 1",
+      "name": "Antena",
       "isFree": true,
-      "logo": "https://i.imgur.com/gFE3Qih.png",
       "website": "http://a1.ro/",
       "priority": 10
     },
     {
       "name": "Antena International",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://antenainternational.ro/"
     },
     {
@@ -2176,36 +1851,30 @@
     {
       "name": "Arcadia Television",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ARCADIA WORLD FHD.png",
       "website": "http://www.arcadiatelevision.ro/"
     },
     {
-      "name": "Ardeal TV",
+      "name": "Ardeal",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ARDEAL TV.png",
       "website": "https://ardealtv.ro/"
     },
     {
-      "name": "Arges TV",
+      "name": "Arges",
       "isFree": true,
-      "logo": "https://i.imgur.com/qufz6nk.png",
       "website": "https://argestv.ro/"
     },
     {
-      "name": "Banat TV",
+      "name": "Banat",
       "isFree": true,
-      "logo": "https://i.imgur.com/yVsocid.png",
       "website": "https://www.btv.ro/"
     },
     {
-      "name": "C8",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/C8.png"
+      "name": "C 8",
+      "isFree": true
     },
     {
       "name": "Cardio TV SRC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.cardiotvsrc.ro/"
     },
     {
@@ -2227,13 +1896,11 @@
     {
       "name": "Comedy Play",
       "isFree": true,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png",
       "website": "https://antenaplay.ro/"
     },
     {
       "name": "Digi 4K",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.digi4k.ro/"
     },
     {
@@ -2252,9 +1919,8 @@
       "website": "https://www.digi-world.tv/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "http://www.discovery.ro/",
       "priority": 10
     },
@@ -2264,9 +1930,8 @@
       "website": "http://www.divaromania.tv/"
     },
     {
-      "name": "Dobrogea TV",
+      "name": "Dobrogea",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dobrogea.tv/"
     },
     {
@@ -2275,24 +1940,21 @@
       "website": "https://www.eonline.com/"
     },
     {
-      "name": "Erdely TV",
+      "name": "Erdely",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.erdely.tv"
     },
     {
       "name": "Est TV Neamt",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg"
+      "isFree": true
     },
     {
-      "name": "Etno TV",
+      "name": "Etno",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/02/01/20160201064922524939_57.png",
       "website": "https://www.etno.ro/"
     },
     {
-      "name": "Favorit TV",
+      "name": "Favorit",
       "isFree": true,
       "website": "http://www.favorittv.ro/"
     },
@@ -2308,56 +1970,49 @@
       "priority": 9
     },
     {
-      "name": "HD365 TV",
+      "name": "HD365",
       "isFree": true,
-      "logo": "https://i.imgur.com/2cLx4ja.png",
       "website": "https://www.hd365.tv/"
     },
     {
       "name": "Hello Taste",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mBMhOieTGqnsDpAW3AKQ3M7eDe.jpg",
       "website": "https://hellotaste.ro/"
     },
     {
-      "name": "Hunedoara 1",
+      "name": "Hunedoara",
       "isFree": true,
       "website": "https://netstreaming.eu/hunedoara1.htm"
     },
     {
-      "name": "Inedit TV",
+      "name": "Inedit",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "website": "http://inedittv.ro/"
     },
     {
-      "name": "Kanal D2",
+      "name": "Kanal D 2",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://www.kanald2.ro",
       "priority": 9
     },
     {
       "name": "M9TV Romania",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ROMANIATV.png",
       "website": "http://m9tv.ro/"
     },
     {
-      "name": "MediCOOL TV",
+      "name": "MediCOOL",
       "isFree": true,
       "website": "https://antenaplay.ro/live/medicool-tv"
     },
     {
-      "name": "Metropola TV",
+      "name": "Metropola",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/METROPOLA HD.png",
       "website": "https://www.metropolatv.ro/"
     },
     {
       "name": "Mireasa Extra",
       "isFree": true,
-      "logo": "https://i.imgur.com/k0VO0LH.png",
       "website": "https://antenaplay.ro/live/mireasa-extra"
     },
     {
@@ -2366,84 +2021,72 @@
       "website": "https://antenaplay.ro/live/mireasa-plus"
     },
     {
-      "name": "Muscel TV",
+      "name": "Muscel",
       "isFree": true,
-      "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
       "website": "http://musceltv.ro/site/"
     },
     {
       "name": "National 24 Plus",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
       "website": "http://www.n24plus.ro/"
     },
     {
-      "name": "National TV",
+      "name": "National",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/02/01/20160201055651175436_93.jpg",
       "website": "https://www.nationaltv.ro/"
     },
     {
       "name": "Pro Arena",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "website": "http://www.proarena.ro/"
     },
     {
-      "name": "PROFI 24 TV",
+      "name": "PROFI 24",
       "isFree": true,
       "website": "https://profi24.ro/"
     },
     {
-      "name": "Qub TV",
+      "name": "Qub",
       "isFree": true,
-      "logo": "https://i.imgur.com/GvyF2Wh.png",
       "website": "https://www.qubtv.ro/"
     },
     {
       "name": "Radio Televizunea Diasporei",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "http://www.rtvd.ro/"
     },
     {
-      "name": "Rapsodia TV",
+      "name": "Rapsodia",
       "isFree": true,
-      "logo": "https://i.imgur.com/mwMG7BB.png",
       "website": "https://www.rapsodiatv.ro/"
     },
     {
       "name": "Realitatea Plus",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/REALITATEA.png",
       "website": "https://www.realitatea.net/"
     },
     {
       "name": "Realitatea Star",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/REALITATEA.png",
       "website": "https://realitateastar.net/"
     },
     {
-      "name": "Romance TV",
+      "name": "Romance",
       "isFree": true
     },
     {
-      "name": "Romania TV",
+      "name": "Romania",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ROMANIATV.png",
       "website": "https://www.romaniatv.net/"
     },
     {
-      "name": "Roman TV",
+      "name": "Roman",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
       "website": "https://romantv.ro/"
     },
     {
       "name": "Salajeanul INFO",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://salajeanul.ro/"
     },
     {
@@ -2454,25 +2097,17 @@
     {
       "name": "Senate of Romania",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
       "website": "https://www.senat.ro/"
     },
     {
-      "name": "Smart TV",
+      "name": "Smart",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4diO35a0NM9H1M44zSDtRuQuEXa.jpg",
       "website": "https://smartv.media/"
     },
     {
-      "name": "Taraf TV",
+      "name": "Taraf",
       "isFree": true,
       "website": "https://www.taraftv.ro/"
-    },
-    {
-      "name": "Tele7ABC HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/pzxUE0O.png",
-      "website": "https://tele7abc.ro/"
     },
     {
       "name": "TeleM Botosani",
@@ -2485,7 +2120,7 @@
       "website": "https://telem.ro/"
     },
     {
-      "name": "Timeless Dizi Channel",
+      "name": "Timeless Dizi",
       "isFree": true,
       "website": "https://timelessdramachannel.com/dizi-romania/"
     },
@@ -2497,31 +2132,26 @@
     {
       "name": "Travel Mix 4K",
       "isFree": true,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
       "website": "https://www.travelmix.ro/"
     },
     {
-      "name": "Trinitas TV",
+      "name": "Trinitas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/TRINITAS.png",
       "website": "https://www.trinitas.tv/"
     },
     {
       "name": "TV Arad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvarad.ro/"
     },
     {
       "name": "TV Buzau",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvbuzau.ro/"
     },
     {
       "name": "TV Paprika",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvpaprika.ro/"
     },
     {
@@ -2533,114 +2163,103 @@
     {
       "name": "TVR Iasi",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "website": "http://www.tvr.ro/",
       "priority": 10
     },
     {
       "name": "TVR Sport",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/320px-TVR_Sport_Logo_2023.svg.png",
       "website": "http://sport.tvr.ro/",
       "priority": 10
     },
     {
       "name": "TVR Targu-Mures",
       "isFree": true,
-      "logo": "https://i.imgur.com/9Hptdqj.png",
       "website": "http://www.tvr.ro/",
       "priority": 10
     },
     {
       "name": "TVR Timisoara",
       "isFree": true,
-      "logo": "https://i.imgur.com/0x6Edei.png",
       "website": "http://www.tvr.ro/",
       "priority": 10
     },
     {
       "name": "VTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png",
       "website": "https://vtv.ro/"
     },
     {
       "name": "White Boxxx",
       "isFree": null,
-      "logo": "http://epg.one/img2/3236.png",
       "website": "https://thewhiteboxxx.com/"
     },
     {
-      "name": "IasiTV Life",
+      "name": "Iasi TV Life",
       "isFree": true,
       "website": "https://iasitvlife.ro/"
     },
     {
-      "name": "PRO TV",
+      "name": "PRO",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174717633593_44.png",
       "website": "http://www.protv.ro/",
       "priority": 9
     },
     {
       "name": "PRO TV International",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/dcf9a6251cee07e1ae01b7f8deb13df0.png",
       "website": "http://www.protv.ro/",
       "priority": 9
+    },
+    {
+      "name": "Tele7ABC",
+      "isFree": null,
+      "keywords": "tele7abc",
+      "website": "https://tele7abc.ro/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Kiss TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NKfVymH.png"
+      "name": "Kiss",
+      "isFree": true
     },
     {
       "name": "Mooz Dance",
       "isFree": true,
       "keywords": "mooz dance | moozdance",
-      "shortName": "MoozDance"
+      "shortName": "Mooz Dance"
     },
     {
       "name": "Mooz Hits",
       "isFree": true,
       "keywords": "mooz hits | moozhits",
-      "shortName": "MoozHits",
-      "logo": "https://i.imgur.com/GwATd3Y.png"
+      "shortName": "Mooz Hits"
     },
     {
       "name": "MoozRo",
       "isFree": true
     },
     {
-      "name": "Rock TV",
+      "name": "Rock",
       "isFree": true
     },
     {
-      "name": "Atomic Academy TV",
-      "isFree": true,
-      "website": "https://atomicacademytv.ro/"
-    },
-    {
-      "name": "Atomic TV",
+      "name": "Atomic",
       "isFree": true,
       "website": "https://www.atomictv.ro/"
     },
     {
-      "name": "EMI TV",
+      "name": "EMI",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.emitv.ro/"
     },
     {
-      "name": "Exclusiv TV",
+      "name": "Exclusiv",
       "isFree": true,
-      "logo": "https://i.imgur.com/EfNHNts.png",
       "website": "https://www.exclusivtv.ro/"
     },
     {
-      "name": "H!t Music Channel",
+      "name": "H!t Music",
       "isFree": true,
       "keywords": "h!t music channel -romania",
       "website": "http://hitmusic.hu/"
@@ -2656,91 +2275,83 @@
       "website": "http://tvimpact.live/"
     },
     {
-      "name": "Magic TV",
+      "name": "Magic",
       "isFree": true,
-      "logo": "https://i.imgur.com/n7bcrrp.png",
       "website": "https://www.magicfm.ro/magictv"
     },
     {
-      "name": "Moinesti TV",
+      "name": "Moinesti",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://moinestifm.ro"
     },
     {
-      "name": "Mooz HD",
+      "name": "Mooz",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/MOOZ RO.png",
       "website": "https://mooz.tv/mooz-hd/"
     },
     {
       "name": "Mooz Ro!",
       "isFree": true,
-      "logo": "https://i.imgur.com/Ft24x5T.png",
       "website": "https://mooz.tv/mooz-ro/"
     },
     {
       "name": "Party Mix",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.partymixtv.ro/"
     },
     {
-      "name": "Super TV",
+      "name": "Super",
       "isFree": true,
-      "logo": "https://i.imgur.com/pzxUE0O.png",
       "website": "https://www.supertv.ro/"
     },
     {
       "name": "Tele7music",
       "isFree": true,
-      "logo": "https://i.imgur.com/11b5W8u.png",
       "website": "https://tele7music.ro/"
     },
     {
-      "name": "Tezaur TV",
+      "name": "Tezaur",
       "isFree": true,
-      "logo": "https://i.imgur.com/G0eQuH9.png",
       "website": "http://www.tezaurtv.ro/"
     },
     {
-      "name": "Traditional TV",
+      "name": "Traditional",
       "isFree": true,
-      "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
       "website": "https://traditionaltv.net/"
     },
     {
-      "name": "VH1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
+      "name": "VH",
+      "isFree": true
     },
     {
-      "name": "ZU TV",
+      "name": "ZU",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/telezuri.png",
       "website": "https://zutv.ro/"
+    },
+    {
+      "name": "Atomic Academy",
+      "isFree": null,
+      "keywords": "atomic academy",
+      "website": "https://atomicacademytv.ro/"
     }
   ],
   "Travel": [
     {
       "name": "Travel Mix",
-      "isFree": true,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+      "isFree": true
     }
   ],
   "Radios": [
     {
       "name": "Realitatea FM",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/REALITATEA.png",
       "priority": 4
     }
   ],
   "Movies & Series": [
     {
       "name": "Pro Cinema",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/53a2a5ab6318a6e95e7173197d9a17f3.png"
+      "isFree": false
     },
     {
       "name": "Bollywood Classic",
@@ -2753,21 +2364,18 @@
       "website": "http://www.bollywoodtv.ro/"
     },
     {
-      "name": "Bollywood HD",
+      "name": "Bollywood",
       "isFree": true,
-      "logo": "http://epg.one/img2/1395.png",
       "website": "https://www.isgmedia.com/channels.php?channel=bollywood-hd"
     },
     {
-      "name": "Bollywood TV",
+      "name": "Bollywood",
       "isFree": true,
-      "logo": "https://media.unreel.me/prod/rewardedtv/logo/e3c85f0a-48ba-4933-8ef8-775267fe00ee",
       "website": "http://www.bollywoodtv.ro/"
     },
     {
       "name": "CineMaraton",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/CINEMAX.png",
       "website": "https://www.cinemaraton.ro/"
     },
     {
@@ -2779,7 +2387,6 @@
       "name": "HBO",
       "isFree": true,
       "keywords": "hbo -2 -3",
-      "logo": "https://imgur.com/IKjcTJH.png",
       "website": "http://www.hbo.ro/",
       "priority": 10
     },
@@ -2793,22 +2400,15 @@
       "name": "Mireasa",
       "isFree": true,
       "keywords": "mireasa -extra",
-      "logo": "https://i.imgur.com/k0VO0LH.png",
       "website": "https://antenaplay.ro/live/mireasa"
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "https://www.paramountnetwork.hu/"
     },
     {
-      "name": "TV1000",
-      "isFree": true,
-      "website": "https://tv1000.com.ro/"
-    },
-    {
-      "name": "Warner TV",
+      "name": "Warner",
       "isFree": true,
       "website": "https://warnertv.ro/"
     }
@@ -2829,11 +2429,10 @@
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://www.historytv.ro/"
     },
     {
-      "name": "Hora TV",
+      "name": "Hora",
       "isFree": true,
       "website": "https://www.horatv.ro/"
     },
@@ -2846,44 +2445,38 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.natgeotv.com/ro/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://www.natgeowild.ro/",
       "priority": 9
     },
     {
       "name": "TVR Cultural",
       "isFree": true,
-      "logo": "https://i.imgur.com/U9i70C9.png",
       "website": "http://www.tvr.ro/",
       "priority": 10
     }
   ],
   "Kids": [
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://tv.disney.ro/",
       "priority": 10
     },
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "http://www.disney.ro/disney-junior/",
       "priority": 9
     },
     {
       "name": "JimJam",
       "isFree": true,
-      "logo": "http://epg.one/img2/494.png",
       "website": "http://ro.jimjam.tv/"
     },
     {
@@ -2899,19 +2492,16 @@
     {
       "name": "Nicktoons",
       "isFree": true,
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
       "website": "http://www.nicktoons.ro/"
     },
     {
       "name": "TeenNick",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
       "website": "http://www.nickelodeon.ro/"
     },
     {
-      "name": "TraLaLa TV",
+      "name": "TraLaLa",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/TRALALA HD.png",
       "website": "https://tv.tralala.ro/"
     }
   ]

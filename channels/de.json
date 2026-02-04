@@ -1,13 +1,8 @@
 {
   "Entertainment": [
     {
-      "name": "1-2-3 TV",
-      "isFree": true
-    },
-    {
       "name": "3Sat",
       "isFree": true,
-      "logo": "https://go4.pw/germany/3sat.png",
       "priority": 8
     },
     {
@@ -19,84 +14,70 @@
       "name": "ARTE",
       "isFree": true,
       "shortName": "Arte",
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
       "website": "https://www.arte.tv",
       "priority": 10
     },
     {
-      "name": "ARTI TV",
+      "name": "ARTI",
       "isFree": true
     },
     {
       "name": "Alex Berlin",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/186f1ceb4b374213706c2d005e2bd30c.png"
+      "isFree": true
     },
     {
-      "name": "Anixe HD",
+      "name": "Anixe",
       "isFree": true
     },
     {
       "name": "Antenne Vorarlberg",
-      "isFree": true,
-      "shortName": "AV",
-      "logo": "https://go4.pw/AFRICA/ANTEM.png"
+      "isFree": true
     },
     {
       "name": "Arte Deutsch",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/ARTEHD.png",
       "priority": 9
     },
     {
-      "name": "BLK Regional TV",
+      "name": "BLK Regional",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 4
     },
     {
-      "name": "BLK TV",
+      "name": "BLK",
       "isFree": true,
       "keywords": "blk tv -hohenmolsen"
     },
     {
       "name": "BLK TV Hohenmölsen",
-      "isFree": true,
-      "shortName": "BTH",
-      "logo": "https://images.iptvmate.net/tvglogo/61fde9d253e7890290811a17899ab484.png"
+      "isFree": true
     },
     {
       "name": "BR Fernsehen",
       "isFree": true,
-      "keywords": "br fernsehen -nord -sud",
-      "logo": "https://images.iptvmate.net/tvglogo/b04d3d08cbf1219597b27357cbdc2722.png"
+      "keywords": "br fernsehen -nord -sud"
     },
     {
       "name": "BR Fernsehen Nord",
-      "isFree": true,
-      "shortName": "BFN"
+      "isFree": true
     },
     {
       "name": "BR Fernsehen Süd",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/br_sued.png"
+      "isFree": true
     },
     {
-      "name": "Baden TV",
+      "name": "Baden",
       "isFree": true,
       "keywords": "baden tv -karlsruhe"
     },
     {
       "name": "Baden TV Karlsruhe",
-      "isFree": true,
-      "shortName": "BTK",
-      "logo": "https://images.iptvmate.net/tvglogo/4ff455962a19c265be4d9f72d0212e5c.png"
+      "isFree": true
     },
     {
-      "name": "Bibel TV",
+      "name": "Bibel",
       "isFree": true,
-      "keywords": "bibel tv -impuls -musik",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173736374467_66.png"
+      "keywords": "bibel tv -impuls -musik"
     },
     {
       "name": "Bibel TV Impuls",
@@ -107,14 +88,12 @@
       "isFree": true
     },
     {
-      "name": "CIRA TV",
+      "name": "CIRA",
       "isFree": true
     },
     {
       "name": "Campus TV Magdeburg",
-      "isFree": true,
-      "shortName": "CTM",
-      "logo": "https://images.iptvmate.net/tvglogo/094bcf2f8fc85c0f9cd5e2d382559325.png"
+      "isFree": true
     },
     {
       "name": "Campus-TV-Magdeburg+",
@@ -122,106 +101,79 @@
     },
     {
       "name": "Chemnitz Fernsehen",
-      "isFree": true,
-      "shortName": "CF"
+      "isFree": true
     },
     {
-      "name": "DASDING 90.8",
+      "name": "DASDING 90. 8",
       "isFree": true
     },
     {
       "name": "Das Erste",
       "isFree": true,
-      "keywords": "das erste -hd",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nV5YlX05MHC7zZzffY9kgc8r5d.jpg",
+      "keywords": "das erste",
       "website": "https://www.daserste.de",
       "priority": 10
     },
     {
-      "name": "Das Erste HD",
-      "isFree": true,
-      "logo": "https://picserve.netplus.ch/channels/daserstehd.png",
-      "priority": 9
-    },
-    {
       "name": "Der Serienkanal AT",
-      "isFree": true,
-      "shortName": "DSA",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg"
+      "isFree": true
     },
     {
       "name": "Der Serienkanal CH",
-      "isFree": true,
-      "shortName": "DSC",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg"
+      "isFree": true
     },
     {
       "name": "Der Serienkanal DE",
-      "isFree": true,
-      "shortName": "DSD",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg"
+      "isFree": true
     },
     {
       "name": "Deutsche Welle",
       "isFree": true,
       "keywords": "deutsche welle -english",
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 10
     },
     {
       "name": "Deutsche Welle English",
       "isFree": true,
-      "shortName": "DWE",
-      "logo": "https://go4.pw/TURKIYE/DEUTSCHE WELLE DEUTSCH.png",
       "priority": 9
     },
     {
       "name": "Deutsche Welle+",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f87d9c0b8acc7b79ca3df4c6c0978579.png",
       "priority": 9
     },
     {
       "name": "Deutsches Musik Fernsehen",
-      "isFree": true,
-      "shortName": "DMF"
+      "isFree": true
     },
     {
       "name": "Drama AT",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bd0d0eee34d1ecb1c151605737c16f41.png"
+      "isFree": true
     },
     {
       "name": "Drama CH",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bd0d0eee34d1ecb1c151605737c16f41.png"
+      "isFree": true
     },
     {
       "name": "Drama DE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bd0d0eee34d1ecb1c151605737c16f41.png"
+      "isFree": true
     },
     {
       "name": "Dresden Fernsehen",
-      "isFree": true,
-      "shortName": "DF"
+      "isFree": true
     },
     {
       "name": "EOTV Germany",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxmEDn8V9SPD7LNBAhz87l0mZYn.jpg"
+      "isFree": true
     },
     {
       "name": "Elbekanal",
       "isFree": true,
-      "keywords": "elbekanal -schonebeck",
-      "logo": "https://i.imgur.com/IRNtpKZ.png"
+      "keywords": "elbekanal -schonebeck"
     },
     {
       "name": "Elbekanal Schönebeck",
-      "isFree": true,
-      "shortName": "ES",
-      "logo": "https://images.iptvmate.net/tvglogo/23ea93d34369edef6c4af16cbc90f6e4.png"
+      "isFree": true
     },
     {
       "name": "Erz-TV Stollberg",
@@ -229,13 +181,11 @@
     },
     {
       "name": "FIFA Club WM",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b6c8feeabd76ae0856d9175216034385.png"
+      "isFree": true
     },
     {
       "name": "Family AT",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/830c4d282345c6a83d5dbadd6aa7426b.png"
+      "isFree": true
     },
     {
       "name": "Family CH",
@@ -243,8 +193,7 @@
     },
     {
       "name": "Family DE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/830c4d282345c6a83d5dbadd6aa7426b.png"
+      "isFree": true
     },
     {
       "name": "Filstalwelle",
@@ -253,37 +202,28 @@
     },
     {
       "name": "Filstalwelle Göppingen",
-      "isFree": true,
-      "shortName": "FG",
-      "logo": "https://images.iptvmate.net/tvglogo/7f6a6116448a16e14c44ea95f32f1dd7.png"
+      "isFree": true
     },
     {
-      "name": "Finest TV",
+      "name": "Finest",
       "isFree": true
     },
     {
       "name": "Franken Fernsehen",
       "isFree": true,
-      "keywords": "franken fernsehen -nurnberg",
-      "shortName": "FF",
-      "logo": "https://go4.pw/germany/franken.png"
+      "keywords": "franken fernsehen -nurnberg"
     },
     {
       "name": "Franken Fernsehen Nürnberg",
-      "isFree": true,
-      "shortName": "FFN",
-      "logo": "https://go4.pw/germany/franken.png"
+      "isFree": true
     },
     {
       "name": "Friesischer Rundfunk Friedeburg",
-      "isFree": true,
-      "shortName": "FRF",
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": true
     },
     {
       "name": "GERMANY",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxmEDn8V9SPD7LNBAhz87l0mZYn.jpg"
+      "isFree": true
     },
     {
       "name": "HR",
@@ -291,8 +231,7 @@
     },
     {
       "name": "HSE",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/HSE245.png"
+      "isFree": true
     },
     {
       "name": "HSE24 Extra",
@@ -303,48 +242,41 @@
       "isFree": true
     },
     {
-      "name": "Haldensleben TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/30cf74169f84bca46100af1e23f19277.png"
+      "name": "Haldensleben",
+      "isFree": true
     },
     {
-      "name": "Hamburg 1",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174159147164_26.png"
+      "name": "Hamburg",
+      "isFree": true
     },
     {
       "name": "Handystar",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/HANDYSTAR.png"
+      "isFree": true
     },
     {
-      "name": "Hauptstadt TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7e81b5556dcb71e67ca5a9f0cac1edc5.png"
+      "name": "Hauptstadt",
+      "isFree": true
     },
     {
       "name": "Hauptstadt.TV",
       "isFree": true
     },
     {
-      "name": "Health TV",
+      "name": "Health",
       "isFree": true
     },
     {
       "name": "Health.TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/67029f3f13b34f66824505cf1068cf6e.png"
+      "isFree": true
     },
     {
-      "name": "Isar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Isar",
+      "isFree": true
     },
     {
-      "name": "Jena TV",
+      "name": "Jena",
       "isFree": true,
-      "keywords": "jena tv | jenatv",
-      "logo": "https://images.iptvmate.net/tvglogo/eaecd629932bd504297efa665922bf9d.png"
+      "keywords": "jena tv | jenatv"
     },
     {
       "name": "KW TV Wildau",
@@ -355,16 +287,14 @@
       "isFree": true
     },
     {
-      "name": "Kanal 12 Spremberg TV",
+      "name": "Kanal 12 Spremberg",
       "isFree": true,
       "keywords": "kanal 12 spremberg tv | kanal12 spremberg tv",
-      "shortName": "K1ST",
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "shortName": "K1ST"
     },
     {
       "name": "KiKA",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2017/07/17/large/20170717220340396292_28.png",
       "priority": 8
     },
     {
@@ -374,14 +304,11 @@
     },
     {
       "name": "KulturMD Magdeburg",
-      "isFree": true,
-      "shortName": "KM",
-      "logo": "https://images.iptvmate.net/tvglogo/657bf4a5c5812c28bcca43e916a8d8a0.png"
+      "isFree": true
     },
     {
       "name": "L-TV Ludwigsburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bccadc7dd50bc993bd3ceb12ed3a769d.png"
+      "isFree": true
     },
     {
       "name": "Lausitzwelle",
@@ -390,148 +317,114 @@
     },
     {
       "name": "Lausitzwelle Fernsehen",
-      "isFree": true,
-      "shortName": "LF",
-      "logo": "https://images.iptvmate.net/tvglogo/4ab7f09146766b0d1b7312ed08e400f8.png"
+      "isFree": true
     },
     {
       "name": "Leipzig Fernsehen",
-      "isFree": true,
-      "shortName": "LF",
-      "logo": "https://go4.pw/56.png"
+      "isFree": true
     },
     {
-      "name": "Light Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg"
+      "name": "Light",
+      "isFree": true
     },
     {
-      "name": "MDF.1",
+      "name": "MDF.",
       "isFree": true,
       "keywords": "mdf.1 -magdeburg"
     },
     {
       "name": "MDF.1 Magdeburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fce000836ce785600c11b990b11b5dbc.png"
+      "isFree": true
     },
     {
       "name": "MDR SACHSEN",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png"
+      "isFree": true
     },
     {
       "name": "MDR SACHSEN-ANHALT",
-      "isFree": true,
-      "shortName": "MS",
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png"
+      "isFree": true
     },
     {
       "name": "MDR THÜRINGEN",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png"
+      "isFree": true
     },
     {
       "name": "Muxx.tv",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b9e3483309091cfdf00f00ca35e503ca.png"
+      "isFree": true
     },
     {
       "name": "MyTVplus",
       "isFree": true,
-      "keywords": "mytvplus -dresden",
-      "logo": "https://images.iptvmate.net/tvglogo/7ecf0c38dc399ec667b15ac5f43b5ffa.png"
+      "keywords": "mytvplus -dresden"
     },
     {
       "name": "MyTVplus Dresden",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7ecf0c38dc399ec667b15ac5f43b5ffa.png"
+      "isFree": true
     },
     {
-      "name": "München TV",
-      "isFree": true,
-      "logo": "https://go4.pw/56.png"
+      "name": "München",
+      "isFree": true
     },
     {
       "name": "München.tv",
       "isFree": true
     },
     {
-      "name": "NDR Event 1",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NDR Event 2",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NDR Event 3",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NDR Fernsehen",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"
-    },
-    {
-      "name": "NDR Hamburg",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NDR International",
-      "isFree": true,
-      "shortName": "NI",
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NDR Mecklenburg-Vorpommern",
-      "isFree": true,
-      "shortName": "NM"
-    },
-    {
-      "name": "NDR Niedersachsen",
-      "isFree": true,
-      "shortName": "NN",
-      "logo": "https://images.iptvmate.net/tvglogo/daaf844e2c4d23b1b1a937c6bb32a5ba.png"
-    },
-    {
-      "name": "NDR Schleswig-Holstein",
-      "isFree": true,
-      "shortName": "NS"
-    },
-    {
-      "name": "NDR Weltweiter",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/36.png"
-    },
-    {
-      "name": "NRT 2",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/11/11/20151111084451048357_50.jpg"
-    },
-    {
-      "name": "NRWISION",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
-    },
-    {
-      "name": "Nahe TV",
-      "isFree": true,
-      "keywords": "nahe tv | nahetv",
-      "logo": "https://images.iptvmate.net/tvglogo/7a88e24cfbd9f22095c2e27ece68b608.png"
-    },
-    {
-      "name": "Nickelodeon",
+      "name": "NDR Event",
       "isFree": true
     },
     {
-      "name": "Niederbayern TV",
+      "name": "NDR Event 2",
+      "isFree": true
+    },
+    {
+      "name": "NDR Event 3",
+      "isFree": true
+    },
+    {
+      "name": "NDR Fernsehen",
+      "isFree": true
+    },
+    {
+      "name": "NDR Hamburg",
+      "isFree": true
+    },
+    {
+      "name": "NDR International",
+      "isFree": true
+    },
+    {
+      "name": "NDR Mecklenburg-Vorpommern",
+      "isFree": true
+    },
+    {
+      "name": "NDR Niedersachsen",
+      "isFree": true
+    },
+    {
+      "name": "NDR Schleswig-Holstein",
+      "isFree": true
+    },
+    {
+      "name": "NDR Weltweiter",
+      "isFree": true
+    },
+    {
+      "name": "NRT 2",
+      "isFree": true
+    },
+    {
+      "name": "NRWISION",
+      "isFree": true
+    },
+    {
+      "name": "Nahe",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0c875ee714b035c86bd850ca0a06e49c.png"
+      "keywords": "nahe tv | nahetv"
+    },
+    {
+      "name": "Niederbayern",
+      "isFree": true
     },
     {
       "name": "Noa 4 Hamburg",
@@ -546,38 +439,31 @@
     },
     {
       "name": "OF-TV Offenbach",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2e9a243ae796e425298083798f536ca5.png"
+      "isFree": true
     },
     {
       "name": "OK Dessau",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/39dde0d7a60618fed54ecc1cad875182.png"
+      "isFree": true
     },
     {
       "name": "OK Flensburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/23940b59710f5ecc5c3c21ff5444b6bd.png"
+      "isFree": true
     },
     {
       "name": "OK Gießen",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK Kaiserslautern",
-      "isFree": true,
-      "shortName": "OK"
+      "isFree": true
     },
     {
       "name": "OK Kassel",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK Kiel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/146e1555c0a60af025668e86f4add37a.png"
+      "isFree": true
     },
     {
       "name": "OK Koblenz",
@@ -585,60 +471,47 @@
     },
     {
       "name": "OK Ludwigshafen",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK Magdeburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/94301a0f937b7716dafe433295b9d2fb.png"
+      "isFree": true
     },
     {
       "name": "OK Mainz",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/047ef2c23a75f04aa943f528caedc3ab.png"
+      "isFree": true
     },
     {
       "name": "OK Merseburg",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "OK Merseburg-Querfurt",
-      "isFree": true,
-      "shortName": "OM",
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK Rhein-Main",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK RheinLokal",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK Salzwedel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/64f3ddd0362de496cff8c6f79f5bd864.png"
+      "isFree": true
     },
     {
       "name": "OK Stendal",
-      "isFree": true,
-      "logo": "https://epg.pw/media/"
+      "isFree": true
     },
     {
       "name": "OK Suedwestpfalz",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK TV Südwestpfalz",
-      "isFree": true,
-      "shortName": "OTS",
-      "logo": "https://images.iptvmate.net/tvglogo/ea2422cf6480cefed1afc5828f522736.png"
+      "isFree": true
     },
     {
       "name": "OK Trier",
@@ -646,64 +519,52 @@
     },
     {
       "name": "OK Weinstrasse Landau",
-      "isFree": true,
-      "shortName": "OWL"
-    },
-    {
-      "name": "OK Weinstraße",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
-    },
-    {
-      "name": "OK Wernigerode",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/583628bb186e3d93d000fa457a965577.png"
-    },
-    {
-      "name": "ONE HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
-    },
-    {
-      "name": "Oberlausitz TV",
       "isFree": true
     },
     {
-      "name": "Oberpfalz TV",
+      "name": "OK Weinstraße",
+      "isFree": true
+    },
+    {
+      "name": "OK Wernigerode",
+      "isFree": true
+    },
+    {
+      "name": "ONE",
+      "isFree": true
+    },
+    {
+      "name": "Oberlausitz",
+      "isFree": true
+    },
+    {
+      "name": "Oberpfalz",
       "isFree": true,
       "keywords": "oberpfalz tv -amberg"
     },
     {
       "name": "Oberpfalz TV Amberg",
-      "isFree": true,
-      "shortName": "OTA"
+      "isFree": true
     },
     {
       "name": "Offener Kanal Fulda",
-      "isFree": true,
-      "shortName": "OKF",
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": true
     },
     {
       "name": "Offener Kanal Gießen",
-      "isFree": true,
-      "shortName": "OKG",
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": true
     },
     {
       "name": "Offener Kanal Kassel",
-      "isFree": true,
-      "shortName": "OKK"
+      "isFree": true
     },
     {
       "name": "Offener Kanal Rhein-Main",
-      "isFree": true,
-      "shortName": "OKR"
+      "isFree": true
     },
     {
       "name": "Oscar am Freitag",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7e502fe0e893cced1fbf24a097c506c5.png"
+      "isFree": true
     },
     {
       "name": "PUNKTum",
@@ -712,82 +573,62 @@
     },
     {
       "name": "PUNKTum Fernsehen",
-      "isFree": true,
-      "shortName": "PF",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
-      "name": "Parlamentsfernsehen 1",
+      "name": "Parlamentsfernsehen",
       "isFree": true,
-      "shortName": "P1",
-      "logo": "https://images.iptvmate.net/tvglogo/411c2fc53efc22ad2f5b9137367c4003.png"
+      "shortName": "P"
     },
     {
       "name": "Parlamentsfernsehen 2",
       "isFree": true,
-      "shortName": "P2",
-      "logo": "https://images.iptvmate.net/tvglogo/411c2fc53efc22ad2f5b9137367c4003.png"
+      "shortName": "P 2"
     },
     {
       "name": "Phoenix",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
       "priority": 8
     },
     {
       "name": "PunktUm Hettstedt",
-      "isFree": true,
-      "shortName": "PH",
-      "logo": "https://images.iptvmate.net/tvglogo/42c34e913b7412ac1aa8ce8eb4e2fdaa.png"
+      "isFree": true
     },
     {
       "name": "Punkteins",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/86ade73aca4ab60b9bb88d088e9d5319.png"
+      "isFree": true
     },
     {
       "name": "Punktum S�dharz",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
-      "name": "Ran 1",
+      "name": "Ran",
       "isFree": true,
       "keywords": "ran 1 | ran1 -regionalfernsehen",
-      "shortName": "RAN1",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uokgPzBWakgGkktUWm40SkaLk4W.jpg"
+      "shortName": "RAN"
     },
     {
       "name": "RAN1 Regionalfernsehen",
       "isFree": true,
-      "shortName": "RR",
       "priority": 4
     },
     {
       "name": "RBW",
       "isFree": true,
-      "keywords": "rbw -bitterfeld-wolfen",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "keywords": "rbw -bitterfeld-wolfen"
     },
     {
       "name": "RBW Bitterfeld-Wolfen",
-      "isFree": true,
-      "shortName": "RB",
-      "logo": "https://images.iptvmate.net/tvglogo/0e17423968c4bb5a4243ab062f05a31d.png"
+      "isFree": true
     },
     {
       "name": "RFH",
       "isFree": true,
-      "keywords": "rfh -harz -tv",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "keywords": "rfh -harz"
     },
     {
       "name": "RFH Harz",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
-    },
-    {
-      "name": "RFH TV",
       "isFree": true
     },
     {
@@ -799,14 +640,12 @@
       "isFree": true
     },
     {
-      "name": "RON TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gq9sEE2iDRqKx8OiZP6mYSTq4.jpg"
+      "name": "RON",
+      "isFree": true
     },
     {
       "name": "RTL Gold",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
@@ -817,7 +656,6 @@
     {
       "name": "RTL West",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
@@ -826,106 +664,79 @@
     },
     {
       "name": "RWE Erfurt",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4354dc6a693eb974a3c8102ae6d882d4.png"
+      "isFree": true
     },
     {
       "name": "Ran1 Dessau-Roßlau",
-      "isFree": true,
-      "shortName": "RD",
-      "logo": "https://images.iptvmate.net/tvglogo/2c217c0ea2d79aa85ed5291c97ee5fc8.png"
+      "isFree": true
     },
     {
       "name": "Regio TV Bodensee",
-      "isFree": true,
-      "shortName": "RTB"
+      "isFree": true
     },
     {
       "name": "Regio TV Schwaben",
-      "isFree": true,
-      "shortName": "RTS",
-      "logo": "https://images.iptvmate.net/tvglogo/315e9c9321a779b2817f6174a72c1199.png"
+      "isFree": true
     },
     {
       "name": "Regio TV Stuttgart",
-      "isFree": true,
-      "shortName": "RTS",
-      "logo": "https://go4.pw/LATINO/REGIO NIEUWS SURINAME.png"
+      "isFree": true
     },
     {
       "name": "Rhein Lokal Worms",
-      "isFree": true,
-      "shortName": "RLW",
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png"
+      "isFree": true
     },
     {
       "name": "Rhein Neckar Fernsehen",
-      "isFree": true,
-      "shortName": "RNF",
-      "logo": "https://images.iptvmate.net/tvglogo/ffb37baa3390c69a142771792a1b436f.png"
+      "isFree": true
     },
     {
-      "name": "RheinMain TV",
+      "name": "RheinMain",
       "isFree": true,
-      "keywords": "rheinmain tv | rheinmaintv",
-      "logo": "https://images.iptvmate.net/tvglogo/ff424d9515c6e71dd6e51215ac63206d.png"
+      "keywords": "rheinmain tv | rheinmaintv"
     },
     {
       "name": "Rock Antenne",
       "isFree": true
     },
     {
-      "name": "Rockland TV",
+      "name": "Rockland",
       "isFree": true,
       "keywords": "rockland tv -- mainz"
     },
     {
       "name": "Rockland TV - Mainz",
-      "isFree": true,
-      "shortName": "RTM",
-      "logo": "https://images.iptvmate.net/tvglogo/a485c2133ce61add322697f427bbd890.png"
+      "isFree": true
     },
     {
       "name": "SR Fernsehen",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b6dab2341b809904274044fa3bc33651.png"
+      "isFree": true
     },
     {
       "name": "SWR BW",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/836683cb015273f763177bd9fb221385.png"
+      "isFree": true
     },
     {
-      "name": "Saarland Fernsehen 1",
+      "name": "Saarland Fernsehen",
       "isFree": true,
-      "shortName": "SF1",
-      "logo": "https://images.iptvmate.net/tvglogo/733fc12da283bb25f323ab89a3d93fda.png"
+      "shortName": "SF"
     },
     {
       "name": "Saarland Fernsehen 2",
       "isFree": true,
-      "shortName": "SF2",
-      "logo": "https://images.iptvmate.net/tvglogo/733fc12da283bb25f323ab89a3d93fda.png"
+      "shortName": "SF 2"
     },
     {
       "name": "Santhora Short Film",
-      "isFree": true,
-      "shortName": "SSF",
-      "logo": "https://images.iptvmate.net/tvglogo/9491e352a6914973961df504caaaebee.png"
-    },
-    {
-      "name": "Seenluft24",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ca2c7a2c6753624e22935b97efca356b.png"
-    },
-    {
-      "name": "ServusTV HD",
       "isFree": true
     },
     {
-      "name": "Sofy TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3539116f6d18f2ff8311faf2967dfdf7.png"
+      "name": "Seenluft 24",
+      "isFree": true
+    },
+    {
+      "name": "Sofy",
+      "isFree": true
     },
     {
       "name": "Sonnenklar.TV",
@@ -933,167 +744,128 @@
     },
     {
       "name": "Spotlight AT",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d26a9ca11cb02bc4d1865ccd7571517c.png"
+      "isFree": true
     },
     {
       "name": "Spotlight CH",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d26a9ca11cb02bc4d1865ccd7571517c.png"
+      "isFree": true
     },
     {
       "name": "Spotlight DE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d26a9ca11cb02bc4d1865ccd7571517c.png"
+      "isFree": true
     },
     {
       "name": "Studio 47",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg"
+      "isFree": true
     },
     {
-      "name": "Sylt1",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fca154162a17e649f8bee8a2b3cba7a1.png"
+      "name": "Sylt",
+      "isFree": true
     },
     {
-      "name": "SÃ¼dtirol TV",
+      "name": "SÃ¼dtirol",
       "isFree": true
     },
     {
       "name": "Südthüringer Regionalfernsehen",
       "isFree": true,
-      "shortName": "SR",
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
       "priority": 4
     },
     {
-      "name": "Südtirol TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8578830a2e1430401912617fcba15e88.png"
+      "name": "Südtirol",
+      "isFree": true
     },
     {
       "name": "TV Bayern Live",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b468acbcc5cb3dec472cb91c047eb391.png"
+      "isFree": true
     },
     {
       "name": "TV Berlin",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d7aa3830746048d6e755c9253871439a.png"
+      "isFree": true
     },
     {
       "name": "TV Halle",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/416281877f279d6b562ac623e498e0b3.png"
+      "isFree": true
     },
     {
       "name": "TV Ingolstadt",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1ad07bc782174a83e9a5c7bde60d87ed.png"
+      "isFree": true
     },
     {
       "name": "TV Mainfranken",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2d5815de5034ec1c738d0b6a4280c418.png"
+      "isFree": true
     },
     {
       "name": "TV Mittelrhein",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/51e7f0d26a958fe08e586cc29dd232e8.png"
+      "isFree": true
     },
     {
       "name": "TV Oberfranken",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9b87093d84c45227704b8251bc9b6121.png"
+      "isFree": true
     },
     {
       "name": "TV38 Südost-Niedersachen",
-      "isFree": true,
-      "shortName": "TS",
-      "logo": "https://images.iptvmate.net/tvglogo/69fdebfd4e4f8370a3bb42cea7ae1167.png"
+      "isFree": true
     },
     {
       "name": "TVA",
       "isFree": true,
-      "keywords": "tva -ostbayern",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"
+      "keywords": "tva -ostbayern"
     },
     {
       "name": "TVA Ostbayern",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/563258228c21733f260aa56fefb604e6.png"
+      "isFree": true
     },
     {
       "name": "TVO",
-      "isFree": true,
-      "logo": "https://i.imgur.com/wFC6Xxq.png"
+      "isFree": true
     },
     {
-      "name": "Tagesschau24",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0778467648779f0cdaceece67a29694d.png"
+      "name": "Tagesschau 24",
+      "isFree": true
     },
     {
-      "name": "Teins TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e2ba5d34f48e66419e4d84679bc7aa3a.png"
+      "name": "Teins",
+      "isFree": true
     },
     {
-      "name": "Tesas TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f97aa267f138b51aea026ed964c839b6.png"
+      "name": "Tesas",
+      "isFree": true
     },
     {
-      "name": "Tide TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg"
+      "name": "Tide",
+      "isFree": true
     },
     {
       "name": "UnserDing Saarbrücken",
-      "isFree": true,
-      "shortName": "US"
+      "isFree": true
     },
     {
       "name": "Unserding",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png"
+      "isFree": true
     },
     {
       "name": "WDR Köln",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7944d40593d42ac138e93c1feeff780d.png"
+      "isFree": true
     },
     {
       "name": "WELT Live Stream",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/70d11dedf6afee3440c59313a555f437.png"
+      "isFree": true
     },
     {
       "name": "WTV Wettin",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/24830232c44a1cbfe3200a6250bb0104.png"
+      "isFree": true
     },
     {
-      "name": "Westerwald TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/44b6871ce84faac6a5074f839c6b29ff.png"
+      "name": "Westerwald",
+      "isFree": true
     },
     {
       "name": "ZDF",
       "isFree": true,
-      "keywords": "zdf -hd",
-      "logo": "https://go4.pw/EUROPE/GERMANY/ZDFHD.png",
+      "keywords": "zdf",
       "website": "https://www.zdf.de",
       "priority": 10
-    },
-    {
-      "name": "ZDF HD",
-      "isFree": true,
-      "retransmits": "ZDF",
-      "shortName": "ZDF",
-      "website": "https://www.zdf.de",
-      "priority": 9
     },
     {
       "name": "ZDFinfo",
@@ -1113,115 +885,86 @@
     },
     {
       "name": "a.tv Augsburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3516a8515ea9bba5503d35bc8b19e084.png"
+      "isFree": true
     },
     {
       "name": "allgäu.tv Kempten",
-      "isFree": true,
-      "shortName": "AK",
-      "logo": "https://images.iptvmate.net/tvglogo/ccfc0816cb0614ab77ad0f719ee15daa.png"
+      "isFree": true
     },
     {
       "name": "ems TV Lingen",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/94f2ee70c973232479e379478aa70d9a.png"
+      "isFree": true
     },
     {
-      "name": "eo TV",
+      "name": "eo",
       "isFree": true
     },
     {
       "name": "n-tv Event",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6bbaf9fc5b139c09373a6a4edbaf5244.png"
-    },
-    {
-      "name": "noa4 Hamburg HD",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/00163cf56cfb01f42ea48e1f4ec5f0c1.png"
-    },
-    {
-      "name": "noa4 Norderstedt HD",
-      "isFree": true,
-      "shortName": "NNH",
-      "logo": "https://images.iptvmate.net/tvglogo/00163cf56cfb01f42ea48e1f4ec5f0c1.png"
+      "isFree": true
     },
     {
       "name": "nrwision Dortmund",
-      "isFree": true,
-      "shortName": "ND",
-      "logo": "https://images.iptvmate.net/tvglogo/063db26caf5717fb0f1c2358a825b51d.png"
+      "isFree": true
     },
     {
       "name": "oeins",
       "isFree": true,
-      "keywords": "oeins -oldenburg",
-      "logo": "https://images.iptvmate.net/tvglogo/75156d5408d3e5cd9e0d7d741eefd201.png"
+      "keywords": "oeins -oldenburg"
     },
     {
       "name": "oeins Oldenburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75156d5408d3e5cd9e0d7d741eefd201.png"
+      "isFree": true
     },
     {
       "name": "oldenburg eins",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75156d5408d3e5cd9e0d7d741eefd201.png"
+      "isFree": true
     },
     {
       "name": "rbb Berlin",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/347.png"
+      "isFree": true
     },
     {
       "name": "teltOwkanal",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d0d879b2864c104441f9848a0a19f5c7.png"
+      "isFree": true
     },
     {
       "name": "13th Street Universal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
       "website": "http://www.13thstreet.de/"
     },
     {
-      "name": "Allgau TV",
+      "name": "Allgau",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
       "website": "https://www.xn--allgu-jra.tv/"
     },
     {
-      "name": "Altenburg TV",
+      "name": "Altenburg",
       "isFree": true,
       "website": "https://www.altenburg.tv/"
     },
     {
       "name": "ANIMAL KINGDOM",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
+      "isFree": true
     },
     {
       "name": "Anixe HD Serie",
       "isFree": true,
-      "logo": "https://go4.pw/germany/ANIXEE.png",
       "website": "http://www.anixehd.tv/index.php?hdsd=HD"
     },
     {
       "name": "Anixe +",
       "isFree": true,
-      "logo": "https://go4.pw/germany/ANIXEE.png",
       "website": "http://www.anixehd.tv/index.php?hdsd=SD"
     },
     {
-      "name": "ARD Event 1",
+      "name": "ARD Event",
       "isFree": true,
-      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",
       "website": "https://www.ard.de/",
       "priority": 9
     },
     {
-      "name": "Aristo TV",
+      "name": "Aristo",
       "isFree": true,
       "website": "http://www.aristo-tv.de/"
     },
@@ -1231,19 +974,17 @@
       "website": "https://www.astrotv.de/"
     },
     {
-      "name": "Augsburg TV",
+      "name": "Augsburg",
       "isFree": true,
-      "logo": "https://go4.pw/56.png",
       "website": "https://www.augsburg.tv/"
     },
     {
       "name": "Autentic Travel",
       "isFree": true,
-      "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
       "website": "https://www.autentic.com/117/Channels.htm#autentic_travel"
     },
     {
-      "name": "auto motor und sport channel",
+      "name": "auto motor und sport",
       "isFree": true,
       "website": "https://www.auto-motor-und-sport.de/"
     },
@@ -1260,19 +1001,16 @@
     {
       "name": "Bergblick",
       "isFree": true,
-      "logo": "https://go4.pw/germany/BERGBLICK.png",
       "website": "https://www.bergblick-tv.de/"
     },
     {
       "name": "Bild",
       "isFree": true,
-      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",
       "website": "https://www.bild.de/tv/mediathek/livestream/startseite-77204148.bild.html"
     },
     {
       "name": "BonGusto",
       "isFree": true,
-      "logo": "https://go4.pw/germany/BONGUSTO.png",
       "website": "https://www.bongusto.de/"
     },
     {
@@ -1283,19 +1021,16 @@
     {
       "name": "BW TV Alpha",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/swr.png",
       "website": "https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr"
     },
     {
       "name": "BW TV Bravo",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/swr.png",
       "website": "https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr"
     },
     {
-      "name": "ClipMyHorse TV",
+      "name": "ClipMyHorse",
       "isFree": true,
-      "logo": "https://go4.pw/germany/CLIPMYHORSE2.png",
       "website": "https://www.clipmyhorse.tv/"
     },
     {
@@ -1306,19 +1041,16 @@
     {
       "name": "Crime + Investigation",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
       "website": "https://www.crimeandinvestigation.de/"
     },
     {
-      "name": "CroTV HD",
+      "name": "CroTV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090402700319_25.png",
       "website": "https://crotvhd.net/"
     },
     {
-      "name": "Dabei TV",
+      "name": "Dabei",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dabei-tv.de/"
     },
     {
@@ -1332,16 +1064,8 @@
       "priority": 10
     },
     {
-      "name": "Discovery Channel",
-      "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
-      "website": "http://discoverychannel.de/",
-      "priority": 10
-    },
-    {
       "name": "DMAX",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/06/27/large/20220627220620803027_25.png",
       "website": "http://www.dmax.de/"
     },
     {
@@ -1352,11 +1076,10 @@
     {
       "name": "Elbe Elster Fernsehen",
       "isFree": true,
-      "logo": "https://go4.pw/germany/38.png",
       "website": "https://www.ee-fernsehen.de/"
     },
     {
-      "name": "EuroAl TV",
+      "name": "EuroAl",
       "isFree": true
     },
     {
@@ -1372,25 +1095,21 @@
     {
       "name": "Genius Exklusiv",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
       "website": "https://www.genius.tv/"
     },
     {
       "name": "Genius Family",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
       "website": "https://www.genius.tv/"
     },
     {
-      "name": "Greifswald TV",
+      "name": "Greifswald",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.greifswald-tv.de/"
     },
     {
-      "name": "h1",
+      "name": "h",
       "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/H1 HD AM.png",
       "website": "https://h-eins.tv/"
     },
     {
@@ -1401,13 +1120,11 @@
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://de.hgtv.com/"
     },
     {
       "name": "Hip Trips!",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://www.highview.com/"
     },
     {
@@ -1429,53 +1146,45 @@
     {
       "name": "Kanal 9 Erzgebirge",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://www.kanal9.de/"
     },
     {
-      "name": "labor14",
+      "name": "labor 14",
       "isFree": true,
       "website": "https://www.tlm.de/medienbildung/thueringer-lernsender-labor14"
     },
     {
-      "name": "Lalish TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Lalish",
+      "isFree": true
     },
     {
       "name": "Landtag BW",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/swr.png",
       "website": "https://www.landtag-bw.de/cms/home/mediathek/landtag-live.html"
     },
     {
-      "name": "Lausitz TV",
+      "name": "Lausitz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.lausitz.tv/"
     },
     {
-      "name": "Lilo TV",
+      "name": "Lilo",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
       "website": "https://lilotv.de/"
     },
     {
-      "name": "L TV",
+      "name": "L",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
       "website": "https://www.l-tv.de/"
     },
     {
       "name": "Lust Pur",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pI12cBmY6lHmOxrpQlz0d8GDydw.jpg",
       "website": "http://www.lustpur.tv/"
     },
     {
-      "name": "Marco Polo TV",
+      "name": "Marco Polo",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://www.marcopolo.de/tv.html"
     },
     {
@@ -1484,27 +1193,23 @@
       "website": "http://mceu.tv/"
     },
     {
-      "name": "MC TV",
+      "name": "MC",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuAti3pkylfx0EyhfRUPpxK6Xkm.jpg",
       "website": "https://mceu.tv/"
     },
     {
       "name": "MDR Fernsehen",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613201217441963_83.png",
       "website": "http://www.mdr.de/tv/"
     },
     {
       "name": "Meissen Fernsehen",
       "isFree": true,
-      "logo": "https://go4.pw/germany/38.png",
       "website": "https://www.meissen-fernsehen.de/"
     },
     {
       "name": "Mittel Erzgebirgs Fernsehen",
       "isFree": true,
-      "logo": "https://go4.pw/germany/38.png",
       "website": "https://mef-line.de/"
     },
     {
@@ -1520,42 +1225,36 @@
     {
       "name": "MTV",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://www.mtv.de/",
       "priority": 10
     },
     {
-      "name": "Muldental TV",
+      "name": "Muldental",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://muldentaltv.de/"
     },
     {
-      "name": "Munchen TV",
+      "name": "Munchen",
       "isFree": true,
-      "logo": "https://go4.pw/56.png",
       "website": "https://www.muenchen.tv/"
     },
     {
-      "name": "MV1",
+      "name": "MV",
       "isFree": true,
       "website": "https://mv1.tv/"
     },
     {
       "name": "My Dirty Mobile",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg"
+      "isFree": null
     },
     {
       "name": "NDR Fernsehen International",
       "isFree": true,
-      "logo": "https://go4.pw/germany/36.png",
       "website": "https://www.ndr.de/fernsehen/livestream/livestreaminternational100.html"
     },
     {
       "name": "Neisse Welle Guben",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/DEUTSCHE WELLE DEUTSCH.png",
       "website": "https://tv-nwg.de/"
     },
     {
@@ -1564,32 +1263,27 @@
       "website": "https://www.neueins.tv/"
     },
     {
-      "name": "Nick/Comedy Central +1",
-      "isFree": true,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+      "name": "Nick/Comedy Central +",
+      "isFree": true
     },
     {
       "name": "Niederbayern TV Deggendorf & Straubing",
       "isFree": true,
-      "logo": "https://go4.pw/germany/35.png",
       "website": "https://deggendorf.niederbayerntv.de/"
     },
     {
       "name": "Niederbayern TV Landshut",
       "isFree": true,
-      "logo": "https://go4.pw/germany/35.png",
       "website": "https://landshut.niederbayerntv.de/"
     },
     {
       "name": "Niederbayern TV Passau",
       "isFree": true,
-      "logo": "https://go4.pw/germany/35.png",
       "website": "https://passau.niederbayerntv.de/"
     },
     {
       "name": "Niederbayern TV Satellit",
       "isFree": true,
-      "logo": "https://go4.pw/germany/35.png",
       "website": "https://www.niederbayerntv.de/"
     },
     {
@@ -1600,13 +1294,12 @@
     {
       "name": "Noviy Mir",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://n-w.tv/"
     },
     {
       "name": "n-tv",
       "isFree": true,
-      "keywords": "n-tv -event",
+      "keywords": "n-event",
       "website": "https://www.n-tv.de",
       "priority": 8
     },
@@ -1618,35 +1311,30 @@
     {
       "name": "Offener Kanal Wernigerode",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png",
       "website": "https://www.ok-wernigerode.de/"
     },
     {
-      "name": "OK4",
+      "name": "OK 4",
       "isFree": true,
       "website": "https://www.ok4.tv/"
     },
     {
-      "name": "OK54",
+      "name": "OK 54",
       "isFree": true,
-      "logo": "https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png",
       "website": "https://ok54.de/"
     },
     {
       "name": "OK Fulda",
       "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png",
       "website": "https://www.medienanstalt-hessen.de/medienprojektzentren-offener-kanal/fulda/"
     },
     {
       "name": "OK Giessen",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "OK RheinLokal Worms",
       "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png",
       "website": "https://rheinlokal.de/"
     },
     {
@@ -1657,13 +1345,11 @@
     {
       "name": "OK:TV Mainz",
       "isFree": true,
-      "logo": "https://go4.pw/56.png",
       "website": "https://www.ok-mainz.de/"
     },
     {
       "name": "OK Weinstrasse Neustadt",
       "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png",
       "website": "https://www.ok-weinstrasse.de/neustadt/oeffnungszeiten-kontakt/"
     },
     {
@@ -1675,7 +1361,6 @@
     {
       "name": "Oscar am Freitag-TV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OHOjlLZUFgvXWeKWanpaYvmAwR.jpg",
       "website": "https://www.oscar-am-freitag.de/"
     },
     {
@@ -1692,67 +1377,58 @@
       "isFree": true
     },
     {
-      "name": "Pirna TV",
+      "name": "Pirna",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.pirna-tv.de/"
     },
     {
       "name": "ProSieben",
       "isFree": true,
       "keywords": "prosieben -fun -maxx",
-      "shortName": "Pro7",
+      "shortName": "Pro 7",
       "website": "https://www.prosieben.de",
       "priority": 9
     },
     {
       "name": "ProSieben Fun",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "https://www.prosiebenfun.de/",
       "priority": 8
     },
     {
       "name": "ProSieben Maxx",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "https://www.prosiebenmaxx.de/",
       "priority": 8
     },
     {
       "name": "ProSiebenSat.1 Welt",
       "isFree": true,
-      "logo": "https://go4.pw/germany/WELT5.png",
       "website": "http://www.prosiebensat1welt.com/",
       "priority": 8
     },
     {
       "name": "Punkteins Oberlausitz",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/86ade73aca4ab60b9bb88d088e9d5319.png"
+      "isFree": true
     },
     {
       "name": "Radio Bremen Fernsehen",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://dein.radiobremen.de/"
     },
     {
       "name": "rbb Fernsehen",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613200745453113_72.png",
       "website": "https://www.rbb-online.de/fernsehen/"
     },
     {
       "name": "Regio TV Rostock",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/REGIO NIEUWS SURINAME.png",
       "website": "https://www.regiotv-rostock.de/"
     },
     {
-      "name": "Rennsteig TV",
+      "name": "Rennsteig",
       "isFree": true,
-      "logo": "https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png",
       "website": "https://www.rennsteig.tv/"
     },
     {
@@ -1762,13 +1438,12 @@
       "website": "https://www.rfo.de/"
     },
     {
-      "name": "Riesa TV",
+      "name": "Riesa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.riesa-tv.de/"
     },
     {
-      "name": "Romance TV",
+      "name": "Romance",
       "isFree": true,
       "website": "https://www.romance-tv.de/"
     },
@@ -1776,14 +1451,12 @@
       "name": "RTL",
       "isFree": true,
       "keywords": "rtl -crime -gold -hessen -klub -living -nord hamburg & schleswig-holstein -nord niedersachsen & bremen -passion -super -west -zwei",
-      "logo": "https://i.imgur.com/94K94k2.png",
       "website": "https://www.rtl.de",
       "priority": 9
     },
     {
       "name": "RTL Hessen",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.de/rtl-hessen/",
       "priority": 8
     },
@@ -1796,21 +1469,18 @@
     {
       "name": "RTL Nord Hamburg & Schleswig-Holstein",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.de/news/rtl-nord/",
       "priority": 8
     },
     {
       "name": "RTL Nord Niedersachsen & Bremen",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.de/news/rtl-nord/",
       "priority": 8
     },
     {
       "name": "RTL Passion",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://www.rtlpassion.de/",
       "priority": 8
     },
@@ -1824,77 +1494,66 @@
       "name": "RTL Up",
       "isFree": true,
       "keywords": "rtl up | rtlup",
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl-up.de/",
       "priority": 8
     },
     {
       "name": "RTL Zwei",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl2.de/",
       "priority": 8
     },
     {
-      "name": "Rugen TV",
+      "name": "Rugen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ruegentv.de/"
     },
     {
-      "name": "Saale Info TV",
+      "name": "Saale Info",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://saaleinfo.tv/"
     },
     {
       "name": "Sachsen Eins",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/"
     },
     {
       "name": "Sachsen Fernsehen Chemnitz",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/kategorie/chemnitz/"
     },
     {
       "name": "Sachsen Fernsehen Dresden",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/kategorie/dresden/"
     },
     {
       "name": "Sachsen Fernsehen Lausitz",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/lausitz/"
     },
     {
       "name": "Sachsen Fernsehen Leipzig",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/kategorie/leipzig/"
     },
     {
       "name": "Sachsen Fernsehen Vogtland",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png",
       "website": "https://www.sachsen-fernsehen.de/kategorie/vogtland/"
     },
     {
-      "name": "Salve TV",
+      "name": "Salve",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "http://www.salve.tv/"
     },
     {
-      "name": "Santhora TV",
+      "name": "Santhora",
       "isFree": true
     },
     {
-      "name": "SAT.1",
+      "name": "SAT.",
       "isFree": true,
       "keywords": "sat.1 -emotions -gold -nrw",
       "website": "https://video.sat1.de/",
@@ -1903,7 +1562,6 @@
     {
       "name": "SAT.1 emotions",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZR6Vn83eNKfBWrTNjkGAPLedJ.jpg",
       "website": "http://www.sat1emotions.de/",
       "priority": 8
     },
@@ -1916,7 +1574,6 @@
     {
       "name": "SAT.1 NRW",
       "isFree": true,
-      "logo": "https://go4.pw/germany/SAT1.png",
       "website": "https://www.sat1nrw.de/",
       "priority": 8
     },
@@ -1928,25 +1585,21 @@
     {
       "name": "Sender Neu Jerusalem",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lYe79lR80Ty5avD549lsTLuXUo.jpg",
       "website": "https://www.neu-jerusalem.de/"
     },
     {
       "name": "sixx",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/512px-Sixx_Logo.svg.png",
       "website": "http://www.sixx.de/"
     },
     {
       "name": "Sky Atlantic",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Comedy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/sky-comedy"
     },
     {
@@ -1957,19 +1610,16 @@
     {
       "name": "Sky One",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "http://sky.de/sky1"
     },
     {
       "name": "Sky Replay",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Serien & Shows",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": true
     },
     {
       "name": "Sky Showcase",
@@ -1977,9 +1627,8 @@
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Sonnenklar TV",
+      "name": "Sonnenklar",
       "isFree": true,
-      "logo": "https://go4.pw/germany/SONNENKLAR.png",
       "website": "https://www.sonnenklar.tv/"
     },
     {
@@ -1989,57 +1638,48 @@
       "website": "https://www.sonus.fm/"
     },
     {
-      "name": "Sony Channel",
+      "name": "Sony",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png",
       "website": "https://www.sonychannel.de/"
     },
     {
       "name": "Sophia TV Espanol",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81GHYaP1pzUTWICK5brp5rCW3c0.jpg",
       "website": "https://radio-santec.com/es/"
     },
     {
       "name": "Spiegel Geschichte",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/SPIEGELGESCHICHTE.png",
       "website": "http://www.spiegel-geschichte.tv/"
     },
     {
       "name": "SRF",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/srf1.png",
       "website": "https://www.srf-online.de/"
     },
     {
-      "name": "Stralsund TV",
+      "name": "Stralsund",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.fas-tv.de/"
     },
     {
-      "name": "Strausberg TV",
+      "name": "Strausberg",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://strausberg.tv/"
     },
     {
       "name": "SWR Fernsehen Baden-Wurttemberg",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png",
       "website": "https://www.swrfernsehen.de/"
     },
     {
-      "name": "SWR Fernsehen HD",
+      "name": "SWR Fernsehen",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/swr.png",
       "website": "https://www.swrfernsehen.de/"
     },
     {
       "name": "SWR Fernsehen Rheinland-Pfalz",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GERMANY/swr.png",
       "website": "https://www.swrfernsehen.de/"
     },
     {
@@ -2050,7 +1690,6 @@
     {
       "name": "TELE 5",
       "isFree": true,
-      "logo": "https://picserve.netplus.ch/channels/tele5.png",
       "website": "https://www.tele5.de/"
     },
     {
@@ -2089,8 +1728,7 @@
     },
     {
       "name": "TV38 Sudost-Niedersachen",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/69fdebfd4e4f8370a3bb42cea7ae1167.png"
+      "isFree": true
     },
     {
       "name": "TV-BB",
@@ -2110,25 +1748,21 @@
     {
       "name": "TV Westsachsen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.westsachsen.tv/"
     },
     {
-      "name": "Universal TV",
+      "name": "Universal",
       "isFree": true,
-      "logo": "https://i.ibb.co/r2rvwTsT/image.png",
       "website": "http://www.universaltv.de/"
     },
     {
-      "name": "Usedom TV",
+      "name": "Usedom",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.usedomtv.de/"
     },
     {
-      "name": "Vodafone TV",
+      "name": "Vodafone",
       "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_germany.png",
       "website": "https://www.vodafone.de/"
     },
     {
@@ -2144,110 +1778,91 @@
     {
       "name": "Waidwerk",
       "isFree": true,
-      "logo": "https://go4.pw/germany/WAIDWERKK.png",
       "website": "https://waidwerk.tv/"
     },
     {
       "name": "WDR 1 Live",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/1.png"
+      "isFree": true
     },
     {
       "name": "WDR Fernsehen",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png",
       "website": "https://www1.wdr.de/unternehmen/der-wdr/standorte/studios/bonn/studio-bonn-102.html"
     },
     {
-      "name": "Welt der Wunder TV",
+      "name": "Welt der Wunder",
       "isFree": true,
-      "logo": "https://go4.pw/germany/WELT5.png",
       "website": "https://www.weltderwunder.de/"
     },
     {
-      "name": "Wetter.com TV",
+      "name": "Wetter.com",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.wetter.com/tv/"
     },
     {
-      "name": "Wir24 TV",
+      "name": "Wir 24",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://wir24.tv/"
     },
     {
-      "name": "Wismar TV",
+      "name": "Wismar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://wismar-tv.de/"
     },
     {
       "name": "WTV",
       "isFree": true,
       "keywords": "wtv -wettin",
-      "logo": "https://i.imgur.com/NwIolMu.png",
       "website": "https://www.wettintv.de/"
     },
     {
-      "name": "WW TV",
+      "name": "WW",
       "isFree": true,
       "keywords": "ww tv | wwtv",
-      "logo": "https://i.imgur.com/tEzppGC.png",
       "website": "https://www.ww-tv.de/"
     },
     {
       "name": "Xplore",
       "isFree": true,
-      "logo": "https://i.imgur.com/WaGRlFO.png",
       "website": "https://xplore-tv.de/"
     },
     {
       "name": "XXX Cartoons",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg"
+      "isFree": null
     },
     {
-      "name": "YOL TV",
+      "name": "YOL",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6c12e4d1a97e8e2e6038d738d7bd0c1f.png",
       "website": "https://www.yoltv.eu/"
     },
     {
       "name": "Bayerischer Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Hessischer Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Mitteldeutscher Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Norddeutscher Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Radio Bremen",
       "isFree": null,
-      "keywords": "radio bremen -fernsehen -tv hd",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "keywords": "radio bremen -fernsehen hd"
     },
     {
       "name": "Rundfunk Berlin-Brandenburg",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Saarländischer Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
       "name": "Südwestrundfunk",
@@ -2255,16 +1870,10 @@
     },
     {
       "name": "Westdeutscher Rundfunk",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "isFree": null
     },
     {
-      "name": "Phoenix (German TV station)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg"
-    },
-    {
-      "name": "Deutscher Fernsehfunk",
+      "name": "Phoenix",
       "isFree": null
     },
     {
@@ -2273,32 +1882,20 @@
       "priority": 8
     },
     {
-      "name": "VOX (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg"
+      "name": "VOX",
+      "isFree": null
     },
     {
-      "name": "Nitro (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xndXcYyZ3OePSLKdVBevQZKPsXE.jpg"
+      "name": "Nitro",
+      "isFree": null
     },
     {
       "name": "Super RTL",
       "isFree": null
     },
     {
-      "name": ":de:VOXup",
-      "isFree": null
-    },
-    {
-      "name": "Comedy Central Germany",
-      "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
-    },
-    {
-      "name": "Nickelodeon (Germany)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png"
+      "name": "Nickelodeon",
+      "isFree": true
     },
     {
       "name": "MTV Germany",
@@ -2306,197 +1903,143 @@
       "priority": 8
     },
     {
-      "name": "DMAX (TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/20.png"
-    },
-    {
-      "name": "Eurosport 1",
+      "name": "DMAX",
       "isFree": null
     },
     {
-      "name": "TLC (Germany)",
+      "name": "Eurosport",
       "isFree": null
     },
     {
-      "name": "Welt (German TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/WELT5.png"
+      "name": "TLC",
+      "isFree": null
     },
     {
       "name": "QVC Germany",
-      "isFree": null,
-      "logo": "https://go4.pw/UK/qvc.png"
+      "isFree": null
     },
     {
-      "name": "Disney Channel (Germany)",
+      "name": "Disney",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
       "name": "Euronews",
       "isFree": null,
       "keywords": "euronews -deutsch",
-      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
       "priority": 10
     },
     {
-      "name": "Sport1 (Germany)",
+      "name": "Xite",
       "isFree": null
     },
     {
-      "name": "Xite",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/3bc59eae85ab6256779ca95ab4506ac9.png"
+      "name": "Sky Atlantic",
+      "isFree": null
     },
     {
-      "name": "Sky Atlantic (Germany)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky Cinema",
+      "isFree": null
     },
     {
-      "name": "Sky Cinema (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky Crime",
+      "isFree": null
     },
     {
-      "name": "Sky Crime (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky One",
+      "isFree": null
     },
     {
-      "name": "Sky One (Germany)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky Sci-Fi",
+      "isFree": null
     },
     {
-      "name": "Sky Sci-Fi (Germany)",
+      "name": "RTL Crime",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
-    },
-    {
-      "name": "Sky Sport (Germany)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
-    },
-    {
-      "name": "RTL Crime (German TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
-      "name": "Geo Television (Germany)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png"
+      "name": "Geo Television",
+      "isFree": null
     },
     {
       "name": "Animal Planet Germany",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png"
-    },
-    {
-      "name": "Discovery Channel Germany",
-      "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
-      "priority": 9
+      "isFree": null
     },
     {
       "name": "Eurosport 2",
       "isFree": null,
-      "keywords": "eurosport 2 -xtra",
-      "logo": "https://i.imgur.com/Q3WjH1Q.png"
+      "keywords": "eurosport 2 -xtra"
     },
     {
-      "name": "Cartoonito (Central and Eastern European TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+      "name": "Cartoonito",
+      "isFree": null
     },
     {
-      "name": "Cartoon Network (Germany)",
-      "isFree": null,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png"
+      "name": "Cartoon Network",
+      "isFree": null
     },
     {
       "name": "WarnerTV Comedy",
-      "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png"
+      "isFree": null
     },
     {
       "name": "WarnerTV Film",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg"
+      "isFree": null
     },
     {
       "name": "WarnerTV Serie",
-      "isFree": null,
-      "logo": "https://go4.pw/MAGFLAGS/ITALY.png"
-    },
-    {
-      "name": "Nicktoons (Central and Eastern European TV channel)",
       "isFree": null
     },
     {
-      "name": "Nick Jr. (German TV channel)",
+      "name": "Nicktoons",
       "isFree": null
     },
     {
-      "name": "13th Street (Germany)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HzrPn1gEHWixfMOvOehOTlHROo.jpg"
+      "name": "Nick Jr.",
+      "isFree": null
     },
     {
-      "name": "Universal TV (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg"
+      "name": "13th Street",
+      "isFree": null
     },
     {
-      "name": "AXN Black (German TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "name": "Universal",
+      "isFree": null
     },
     {
-      "name": "AXN White (German TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "name": "AXN Black",
+      "isFree": null
     },
     {
-      "name": "History (Germany)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png"
+      "name": "AXN White",
+      "isFree": null
+    },
+    {
+      "name": "History",
+      "isFree": null
     },
     {
       "name": "DAZN",
       "isFree": null,
-      "keywords": "dazn -fast",
-      "logo": "https://1.bp.blogspot.com/-gw9UY-FHXco/XxPVkr-E4eI/AAAAAAAAAe0/zbRRoLzjjegaDlohvmGUFA1MsL0zeCl8QCLcBGAsYHQ/w200-h200/DAZN.png"
+      "keywords": "dazn -fast"
     },
     {
       "name": "Sportdigital",
       "isFree": null,
-      "keywords": "sportdigital -edge -fussball -fussball 2",
-      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png"
+      "keywords": "sportdigital -edge -fussball -fussball 2"
     },
     {
-      "name": "Extreme Sports Channel",
+      "name": "Extreme Sports",
       "isFree": null
     },
     {
-      "name": "Fix & Foxi (TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7bY2xZymoIOti4WM5K29OMzCS.jpg"
+      "name": "Fix & Foxi",
+      "isFree": null
     },
     {
-      "name": "National Geographic Channel (Germany)",
+      "name": "Nat Geo Wild",
       "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
-      "priority": 9
-    },
-    {
-      "name": "Nat Geo Wild (Europe)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "priority": 9
     },
     {
@@ -2508,19 +2051,12 @@
       "isFree": null
     },
     {
-      "name": "A&E (German TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "A&E",
+      "isFree": null
     },
     {
-      "name": "Bahn TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Bild TV",
-      "isFree": null,
-      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png"
+      "name": "Bahn",
+      "isFree": null
     },
     {
       "name": "center.tv",
@@ -2528,13 +2064,11 @@
     },
     {
       "name": "Das Vierte",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nV5YlX05MHC7zZzffY9kgc8r5d.jpg"
+      "isFree": null
     },
     {
       "name": "Discovery Geschichte",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
@@ -2545,29 +2079,24 @@
     {
       "name": "Disney Jr.",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney XD (international)",
+      "name": "Disney XD",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Düzgün TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Düzgün",
+      "isFree": null
     },
     {
-      "name": "E! (European TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "E!",
+      "isFree": null
     },
     {
       "name": "ARD 1 Plus",
       "isFree": null,
-      "logo": "https://go4.pw/NEDERLAND/ard.png",
       "priority": 9
     },
     {
@@ -2576,51 +2105,35 @@
     },
     {
       "name": "Fernsehen aus Berlin",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/38.png"
+      "isFree": null
     },
     {
       "name": "Fernsehsender Paul Nipkow",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8nTgFJwkiwqhQQZEtjLgtXgY6U.jpg"
+      "isFree": null
     },
     {
       "name": "Focus Gesundheit",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/ITALY/FOCUS.png"
+      "isFree": null
     },
     {
-      "name": "Fox Channel (Germany)",
-      "isFree": null,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "name": "Fox",
+      "isFree": null
     },
     {
-      "name": "Gems TV (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+      "name": "Gems",
+      "isFree": null
     },
     {
       "name": "GIGA Television",
       "isFree": null
     },
     {
-      "name": "Hit24",
+      "name": "Hit 24",
       "isFree": null
     },
     {
-      "name": "Junior (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg"
-    },
-    {
-      "name": "K1010 TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
       "name": "MTV2 Pop",
-      "isFree": null,
-      "logo": "https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png"
+      "isFree": null
     },
     {
       "name": "MTV Brand New",
@@ -2628,14 +2141,12 @@
       "priority": 8
     },
     {
-      "name": "musicbox (German TV channel)",
-      "isFree": null,
-      "logo": "https://go4.pw/RUSSIA/MUSIC BOX.png"
+      "name": "musicbox",
+      "isFree": null
     },
     {
       "name": "NBC Europe",
       "isFree": null,
-      "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
       "priority": 9
     },
     {
@@ -2644,81 +2155,65 @@
     },
     {
       "name": "Premiere Serie",
-      "isFree": null,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png"
+      "isFree": null
     },
     {
       "name": "RBB Brandenburg",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/347.png"
+      "isFree": null
     },
     {
       "name": "RTL International",
       "isFree": null,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "priority": 8
     },
     {
       "name": "ServusTV",
       "isFree": null,
-      "keywords": "servustv -deutschland -hd"
+      "keywords": "servustv -deutschland"
     },
     {
-      "name": "Sky 3D (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
-    },
-    {
-      "name": "Sky Comedy (Germany)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
-    },
-    {
-      "name": "Terranova (TV)",
+      "name": "Sky 3D",
       "isFree": null
     },
     {
-      "name": "TIMM (TV)",
+      "name": "Sky Comedy",
       "isFree": null
     },
     {
-      "name": "tm3",
+      "name": "Terranova",
+      "isFree": null
+    },
+    {
+      "name": "TIMM",
+      "isFree": null
+    },
+    {
+      "name": "tm 3",
       "isFree": null
     },
     {
       "name": "Toon Disney",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ojbUahh8McTbR92Qf69ocWnggE.jpg"
+      "isFree": null
     },
     {
-      "name": "Traumpartner TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Traumpartner",
+      "isFree": null
     },
     {
       "name": "Travel Channel International",
-      "isFree": null,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png"
+      "isFree": null
     },
     {
-      "name": "VH-1 (German TV channel)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "VIVA (German TV channel)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg"
+      "name": "VIVA",
+      "isFree": null
     },
     {
       "name": "VIVA Plus",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg"
+      "isFree": null
     },
     {
       "name": "VIVA Zwei",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg"
+      "isFree": null
     },
     {
       "name": "XXP",
@@ -2727,7 +2222,6 @@
     {
       "name": "ZDF 2",
       "isFree": null,
-      "logo": "https://go4.pw/EUROPE/GERMANY/ZDFHD.png",
       "priority": 9
     },
     {
@@ -2742,7 +2236,6 @@
       "name": "ZDF Musikkanal",
       "isFree": null,
       "retransmits": "ZDF",
-      "logo": "https://go4.pw/EUROPE/GERMANY/ZDFHD.png",
       "priority": 9
     },
     {
@@ -2751,13 +2244,11 @@
     },
     {
       "name": "Zee One",
-      "isFree": null,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": null
     },
     {
       "name": "Media of Germany",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "isFree": null
     },
     {
       "name": "Crime Time",
@@ -2765,8 +2256,7 @@
     },
     {
       "name": "Deluxe Dance by Kontor",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p53pe9ar21XEaUrxwsGqtsE3Pm3.jpg"
+      "isFree": null
     },
     {
       "name": "Höhenrausch",
@@ -2774,13 +2264,11 @@
     },
     {
       "name": "Just Cooking",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg"
+      "isFree": null
     },
     {
       "name": "Just Fishing",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg"
+      "isFree": null
     },
     {
       "name": "OneTerra",
@@ -2791,24 +2279,20 @@
       "isFree": null
     },
     {
-      "name": "GeniusPlus TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Genius Plus",
+      "isFree": null
     },
     {
-      "name": "Sky Cinema Premiere +24",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky Cinema Premiere + 24",
+      "isFree": null
     },
     {
       "name": "Sky Cinema Highlights",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": null
     },
     {
       "name": "Sky Sport Bundesliga 1 - 10",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": null
     },
     {
       "name": "Sky Sport UHD",
@@ -2820,18 +2304,15 @@
     },
     {
       "name": "Sportdigital EDGE",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png"
+      "isFree": null
     },
     {
       "name": "Sportdigital Fussball 2",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png"
+      "isFree": null
     },
     {
-      "name": "HD Campus TV",
-      "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png"
+      "name": "HD Campus",
+      "isFree": null
     },
     {
       "name": "KraichgauTV",
@@ -2840,15 +2321,14 @@
     {
       "name": "L-TV",
       "isFree": null,
-      "keywords": "l-tv -ludwigsburg"
+      "keywords": "l-ludwigsburg"
     },
     {
       "name": "Rhein-Neckar Fernsehen",
-      "isFree": null,
-      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png"
+      "isFree": null
     },
     {
-      "name": "RTF.1",
+      "name": "RTF.",
       "isFree": null
     },
     {
@@ -2857,8 +2337,7 @@
     },
     {
       "name": "Niederbayern TV Deggendorf-Straubing",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/35.png"
+      "isFree": null
     },
     {
       "name": "Herzo.TV",
@@ -2866,27 +2345,23 @@
     },
     {
       "name": "intv",
-      "isFree": null,
-      "logo": "https://i.imgur.com/1nJl0Pv.png"
+      "isFree": null
     },
     {
       "name": "ITV Coburg + ITV info",
-      "isFree": null,
-      "logo": "https://go4.pw/UK/itvquiz.png"
+      "isFree": null
     },
     {
-      "name": "Kulmbach TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kulmbach",
+      "isFree": null
     },
     {
-      "name": "münchen2",
+      "name": "münchen 2",
       "isFree": null
     },
     {
       "name": "Regionalfernsehen Oberbayern",
       "isFree": null,
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
       "priority": 4
     },
     {
@@ -2895,18 +2370,12 @@
       "keywords": "allgau.tv -kempten"
     },
     {
-      "name": "TV Mainfranken (tvm)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "TV Mainfranken",
+      "isFree": null
     },
     {
       "name": "TVA - TVAktuell",
       "isFree": null
-    },
-    {
-      "name": "Alex Offener Kanal Berlin (Wedding)",
-      "isFree": null,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
     },
     {
       "name": "Spreekanal",
@@ -2929,28 +2398,24 @@
       "isFree": null
     },
     {
-      "name": "Neiße Welle Guben (NWG)",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/DEUTSCHE WELLE DEUTSCH.png"
+      "name": "Neiße Welle Guben",
+      "isFree": null
     },
     {
       "name": "Oderland.TV",
       "isFree": null
     },
     {
-      "name": "Oder-Spree Fernsehen (OSF)",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/38.png"
+      "name": "Oder-Spree Fernsehen",
+      "isFree": null
     },
     {
-      "name": "Fernsehen für Ostbrandenburg (ODF)",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/38.png"
+      "name": "Fernsehen für Ostbrandenburg",
+      "isFree": null
     },
     {
-      "name": "OHV TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "OHV",
+      "isFree": null
     },
     {
       "name": "PotsdamTV",
@@ -2966,48 +2431,41 @@
     },
     {
       "name": "SKB Stadtfernsehen Brandenburg",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/347.png"
+      "isFree": null
     },
     {
       "name": "tv-lu",
       "isFree": null
     },
     {
-      "name": "WMZ TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "WMZ",
+      "isFree": null
     },
     {
       "name": "Radio Weser.TV",
-      "isFree": null,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": null
     },
     {
-      "name": "Tide (Bürger- und Ausbildungskanal)Tide TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg"
+      "name": "TideTide",
+      "isFree": null
     },
     {
-      "name": "noa4",
+      "name": "noa 4",
       "isFree": null,
-      "keywords": "noa4 -hamburg -hamburg hd -norderstedt -norderstedt hd",
-      "logo": "https://images.iptvmate.net/tvglogo/00163cf56cfb01f42ea48e1f4ec5f0c1.png"
+      "keywords": "noa4 -hamburg -hamburg hd -norderstedt -norderstedt hd"
     },
     {
       "name": "Offener Kanal Offenbach/Frankfurt",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": null
     },
     {
       "name": "OF-TV",
       "isFree": null,
-      "keywords": "of-tv -offenbach"
+      "keywords": "of-offenbach"
     },
     {
       "name": "Rok-tv - FiSCH - TV Fernsehen in Schwerin",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "Greifswald-TV",
@@ -3026,9 +2484,8 @@
       "isFree": null
     },
     {
-      "name": "Rügen TV & Stralsund TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Rügen TV & Stralsund",
+      "isFree": null
     },
     {
       "name": "tv.rostock",
@@ -3039,24 +2496,21 @@
       "isFree": null
     },
     {
-      "name": "Vorpommern TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vorpommern",
+      "isFree": null
     },
     {
-      "name": "Ems TV",
+      "name": "Ems",
       "isFree": null
     },
     {
       "name": "Friesischer Rundfunk",
       "isFree": null,
-      "keywords": "friesischer rundfunk -friedeburg",
-      "logo": "https://images.iptvmate.net/tvglogo/7cff6e969f1d10ca58cf0390d8251349.png"
+      "keywords": "friesischer rundfunk -friedeburg"
     },
     {
-      "name": "H1 (Fernsehen)",
-      "isFree": null,
-      "logo": "https://go4.pw/ARMENIA/H1 HD AM.png"
+      "name": "H",
+      "isFree": null
     },
     {
       "name": "os1.tv",
@@ -3067,7 +2521,7 @@
       "isFree": null
     },
     {
-      "name": "TV38",
+      "name": "TV 38",
       "isFree": null,
       "keywords": "tv38 -sudost-niedersachen -sudost-niedersachen"
     },
@@ -3077,13 +2531,11 @@
     },
     {
       "name": ":OKTV Südwestpfalz",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/ea2422cf6480cefed1afc5828f522736.png"
+      "isFree": null
     },
     {
       "name": "Offener Kanal Kirchheimbolanden",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": null
     },
     {
       "name": "RheinLokal",
@@ -3095,15 +2547,14 @@
     },
     {
       "name": "OK54 Bürgerrundfunk",
-      "isFree": null,
-      "logo": "https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png"
+      "isFree": null
     },
     {
       "name": "rheinahr.tv",
       "isFree": null
     },
     {
-      "name": "Coswiger Infokanal K3",
+      "name": "Coswiger Infokanal K 3",
       "isFree": null
     },
     {
@@ -3112,17 +2563,15 @@
     },
     {
       "name": "eff 3",
-      "isFree": null,
-      "logo": "https://lo1.in/uk/247.png"
+      "isFree": null
     },
     {
       "name": "Elsterwelle",
       "isFree": null
     },
     {
-      "name": "eRtv - euro-Regional tv",
+      "name": "eRtv - euro-Regional",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 4
     },
     {
@@ -3139,68 +2588,56 @@
     },
     {
       "name": "kanal 8 dresden",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": null
     },
     {
       "name": "kanal 8 sport",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": null
     },
     {
       "name": "Kanal Eins",
-      "isFree": null,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": null
     },
     {
-      "name": "Mittelsachsen TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mittelsachsen",
+      "isFree": null
     },
     {
       "name": "mwdigital",
       "isFree": null
     },
     {
-      "name": "Nordsachsen TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nordsachsen",
+      "isFree": null
     },
     {
-      "name": "Pirna TV/Prohlis TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Pirna TV/Prohlis",
+      "isFree": null
     },
     {
-      "name": "punkteins oberlausitz TV",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/86ade73aca4ab60b9bb88d088e9d5319.png"
+      "name": "punkteins oberlausitz",
+      "isFree": null
     },
     {
       "name": "Regio TV Borna",
-      "isFree": null,
-      "logo": "https://go4.pw/LATINO/REGIO NIEUWS SURINAME.png"
+      "isFree": null
     },
     {
       "name": "Sachsen Fernsehen",
       "isFree": null,
-      "keywords": "sachsen fernsehen -chemnitz -dresden -lausitz -leipzig -vogtland",
-      "logo": "https://go4.pw/EUROPE/GERMANY/MDR.png"
+      "keywords": "sachsen fernsehen -chemnitz -dresden -lausitz -leipzig -vogtland"
     },
     {
-      "name": "TV Westsachsen (TV W)",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "TV Westsachsen",
+      "isFree": null
     },
     {
-      "name": "Torgau TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Torgau",
+      "isFree": null
     },
     {
       "name": "TV Zwönitztal/tele-Journal",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": null
     },
     {
       "name": "TV-Laußig",
@@ -3208,11 +2645,10 @@
     },
     {
       "name": "tvM Meissen Fernsehen",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png"
+      "isFree": null
     },
     {
-      "name": "Vogtland Regional Fernsehen (VRF)",
+      "name": "Vogtland Regional Fernsehen",
       "isFree": null,
       "priority": 4
     },
@@ -3226,45 +2662,32 @@
     },
     {
       "name": "Offener Kanal Merseburg-Querfurt",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": null
     },
     {
       "name": "Offener Kanal Wettin",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": null
     },
     {
-      "name": "Regionalfernsehen Bitterfeld-Wolfen (RBW Regionalfernsehen)",
+      "name": "Regionalfernsehen Bitterfeld-Wolfen",
       "isFree": null,
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
       "priority": 4
     },
     {
-      "name": "Regionalfernsehen Harz (RFH)",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
-      "priority": 4
-    },
-    {
-      "name": "Kiel TV",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/ES+.png"
+      "name": "Kiel",
+      "isFree": null
     },
     {
       "name": "Offener Kanal Flensburg",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/c926b8145b2aed80d3009c46e6ab3ca6.png"
+      "isFree": null
     },
     {
-      "name": "Bad Berka TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
+      "name": "Bad Berka",
+      "isFree": null
     },
     {
       "name": "Kabel Plus",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/KABEL.png"
+      "isFree": null
     },
     {
       "name": "Rennsteig.TV",
@@ -3283,9 +2706,8 @@
       "isFree": null
     },
     {
-      "name": "Südthüringer Regionalfernsehen (SRF)",
+      "name": "Südthüringer Regionalfernsehen",
       "isFree": null,
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
       "priority": 4
     },
     {
@@ -3293,23 +2715,16 @@
       "isFree": null
     },
     {
-      "name": "tv.altenburg",
+      "name": "Blue Movie",
       "isFree": null
     },
     {
-      "name": "Blue Movie",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
-    },
-    {
       "name": "Deluxe Rock",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p53pe9ar21XEaUrxwsGqtsE3Pm3.jpg"
+      "isFree": null
     },
     {
       "name": "DSF Action",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
+      "isFree": null
     },
     {
       "name": "DSF Golf",
@@ -3320,14 +2735,12 @@
       "isFree": null
     },
     {
-      "name": "Flux TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg"
+      "name": "Flux",
+      "isFree": null
     },
     {
       "name": "Hip Trips",
-      "isFree": null,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "isFree": null
     },
     {
       "name": "MTV Music",
@@ -3336,13 +2749,11 @@
     },
     {
       "name": "Sky Arts",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": null
     },
     {
       "name": "Sky Info",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": null
     },
     {
       "name": "Sky Select",
@@ -3350,28 +2761,25 @@
     },
     {
       "name": "Sky Sport Fanzone",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": null
     },
     {
       "name": "3sat",
       "isFree": true,
-      "logo": "https://go4.pw/germany/3sat.png",
       "website": "https://www.3sat.de/"
     },
     {
       "name": "arte",
       "isFree": true,
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
       "website": "https://www.arte.tv/"
     },
     {
-      "name": "Arti TV",
+      "name": "Arti",
       "isFree": true,
       "website": "https://artitv.tv/"
     },
     {
-      "name": "Cira TV",
+      "name": "Cira",
       "isFree": true,
       "website": "http://cira.tv/"
     },
@@ -3381,7 +2789,7 @@
       "website": "https://www.jenatv.de/"
     },
     {
-      "name": "Kanal12 Spremberg TV",
+      "name": "Kanal 12 Spremberg",
       "isFree": true,
       "website": "https://www.sprembergtv.de/"
     },
@@ -3393,25 +2801,21 @@
     {
       "name": "noa4 Hamburg",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/00163cf56cfb01f42ea48e1f4ec5f0c1.png",
       "website": "https://www.noa4.de/hamburg.html"
     },
     {
       "name": "noa4 Norderstedt",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/00163cf56cfb01f42ea48e1f4ec5f0c1.png",
       "website": "https://www.noa4.de/norderstedt.html"
     },
     {
       "name": "phoenix",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg",
       "website": "https://www.phoenix.de/"
     },
     {
-      "name": "RAN1",
+      "name": "RAN",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.ran1.de/"
     },
     {
@@ -3420,15 +2824,13 @@
       "website": "https://www.rtl-up.de/"
     },
     {
-      "name": "tagesschau24",
+      "name": "tagesschau 24",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0778467648779f0cdaceece67a29694d.png",
       "website": "https://www.tagesschau.de/"
     },
     {
       "name": "Arte",
       "isFree": null,
-      "logo": "https://static.epg.best/fr/ARTE.fr.png",
       "priority": 10
     },
     {
@@ -3436,7 +2838,7 @@
       "isFree": null
     },
     {
-      "name": "Sat.1",
+      "name": "Sat.",
       "isFree": null,
       "priority": 9
     },
@@ -3447,13 +2849,11 @@
     },
     {
       "name": "Tele 5",
-      "isFree": null,
-      "logo": "https://picserve.netplus.ch/channels/tele5.png"
+      "isFree": null
     },
     {
       "name": "Sat.1 emotions",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZR6Vn83eNKfBWrTNjkGAPLedJ.jpg",
       "priority": 8
     },
     {
@@ -3461,13 +2861,12 @@
       "isFree": null
     },
     {
-      "name": "Eo TV",
+      "name": "Eo",
       "isFree": null
     },
     {
       "name": "RBB Berlin",
-      "isFree": null,
-      "logo": "https://go4.pw/germany/347.png"
+      "isFree": null
     },
     {
       "name": "filstalwelle",
@@ -3479,18 +2878,15 @@
     },
     {
       "name": "rheinmaintv",
-      "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/72d9c70d1c5ef944d3333516647453ed.png"
+      "isFree": null
     },
     {
       "name": "nrwision",
-      "isFree": null,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": null
     },
     {
       "name": "wwtv",
-      "isFree": null,
-      "logo": "https://go4.pw/AMERICA/USA/CBS.png"
+      "isFree": null
     },
     {
       "name": "punktum",
@@ -3499,91 +2895,72 @@
   ],
   "News": [
     {
-      "name": "Bloomberg TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128060606937621_37.png"
+      "name": "Bloomberg",
+      "isFree": true
     },
     {
       "name": "CNN International",
       "isFree": true,
       "keywords": "cnn international -germany",
-      "shortName": "CI",
-      "logo": "https://i.imgur.com/05S3yYZ.png",
       "priority": 10
     },
     {
       "name": "CNN International Germany",
       "isFree": true,
-      "shortName": "CIG",
       "priority": 10
     },
     {
       "name": "DW Deutsch",
       "isFree": true,
-      "logo": "https://go4.pw/NEWS%26FACTUAL/DWARABIC.png",
       "priority": 9
     },
     {
       "name": "DW Deutsch+",
       "isFree": true,
-      "logo": "https://go4.pw/NEWS%26FACTUAL/DWARABIC.png",
       "priority": 9
     },
     {
       "name": "EURONEWS",
       "isFree": true,
-      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
       "priority": 9
     },
     {
       "name": "Euronews Deutsch",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "priority": 9
-    },
-    {
-      "name": "Sky Sport News HD",
-      "isFree": true,
-      "shortName": "SSNH"
     },
     {
       "name": "WELT",
       "isFree": true,
-      "keywords": "welt -live stream",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png"
+      "keywords": "welt -live stream"
     },
     {
       "name": "17:30 SAT.1 Bayern",
       "isFree": true,
-      "logo": "https://go4.pw/56.png",
       "website": "https://www.sat1.de/serien/regional-bayern",
       "priority": 8
     },
     {
       "name": "17:30 SAT.1 LIVE",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.1730live.de/",
       "priority": 8
     },
     {
       "name": "17:30 SAT.1 REGIONAL Hamburg & Schleswig-Holstein",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.sat1regional.de/livestream-hamburg/",
       "priority": 8
     },
     {
       "name": "17:30 SAT.1 REGIONAL Lower Saxony & Bremen",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.sat1regional.de/livestream-niedersachsen-und-bremen/",
       "priority": 8
     },
     {
-      "name": "Der Aktionaer TV",
+      "name": "Der Aktionaer",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg",
       "website": "https://www.deraktionaer.de/"
     },
     {
@@ -3595,13 +2972,11 @@
     },
     {
       "name": "Kanal 13",
-      "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": true
     },
     {
-      "name": "Meydan TV",
+      "name": "Meydan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.meydan.tv/az/"
     },
     {
@@ -3611,137 +2986,122 @@
     {
       "name": "Ost West",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/svt01_.png",
       "website": "https://ostwest.tv/"
     },
     {
       "name": "RT DE",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png",
       "website": "https://de.rt.com/"
     },
     {
       "name": "SchwarzRotGoldTV",
       "isFree": true,
       "website": "http://schwarzrotgold.tv/"
+    },
+    {
+      "name": "Sky Sport News",
+      "isFree": true,
+      "keywords": "sky sport news",
+      "website": "https://sport.sky.de/"
     }
   ],
   "Religious": [
     {
-      "name": "EWTN katholisches TV",
+      "name": "EWTN katholisches",
       "isFree": true,
-      "shortName": "EKT",
       "priority": 8
     },
     {
-      "name": "Sophia TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/HhrJ7a9.png"
+      "name": "Sophia",
+      "isFree": true
     },
     {
-      "name": "EchtJetzt TV",
+      "name": "EchtJetzt",
       "isFree": true,
       "website": "https://echtjetzt.tv/"
     },
     {
-      "name": "ERF 1",
+      "name": "ERF",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/de/2/2f/ERF_1_Logo_2011.png",
       "website": "http://www.erf.de"
     },
     {
       "name": "ERF Web-TV",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/de/2/2f/ERF_1_Logo_2011.png",
       "website": "https://www.erf.de/erf-mediathek/erf-web-tv/4072?reset=1"
     },
     {
       "name": "EWTN",
       "isFree": true,
       "keywords": "ewtn -katholisches tv",
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.ewtn.de/",
       "priority": 10
     },
     {
       "name": "Gabriele TV Africa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.gabriele.tv/"
     },
     {
       "name": "Hope Channel German",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopetv.de/"
     },
     {
       "name": "K-TV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ccbae46dbdc7c18de35a5cc3cb36e81a.png",
       "website": "https://www.k-tv.org/"
     },
     {
       "name": "Mission Erweckung der Welt",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X9rNpLLPklX8uGRUgbdYHPfter.jpg",
       "website": "https://revival-mission.de/"
     },
     {
       "name": "New Jerusalem",
       "isFree": true,
       "keywords": "new jerusalem -broadcasts",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.neu-jerusalem.de/"
     },
     {
       "name": "New Jerusalem Broadcasts",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.neu-jerusalem.de/"
     },
     {
       "name": "Sophia TV Francais",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81GHYaP1pzUTWICK5brp5rCW3c0.jpg",
       "website": "https://radio-santec.com/fr/"
     },
     {
       "name": "Sophia TV Portugues",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81GHYaP1pzUTWICK5brp5rCW3c0.jpg",
       "website": "https://radio-santec.com/pt-br/"
     }
   ],
   "Cooking": [
     {
       "name": "Tastemade Deutschland",
-      "isFree": true,
-      "shortName": "TD",
-      "logo": "https://go4.pw/AUSTRALIA/Tastemade International.png"
+      "isFree": true
     }
   ],
   "Sports": [
     {
       "name": "World of Freesports",
-      "isFree": false,
-      "shortName": "WOF"
+      "isFree": false
     },
     {
       "name": "DAZN FAST",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png"
+      "isFree": true
     },
     {
-      "name": "DF1",
+      "name": "DF",
       "isFree": true,
-      "logo": "https://go4.pw/germany/df1.png",
       "website": "https://www.df1.de/"
     },
     {
-      "name": "eSports1",
+      "name": "eSports",
       "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/215.png",
       "website": "https://www.esports1.de/"
     },
     {
@@ -3752,23 +3112,20 @@
     {
       "name": "FC Bayern.TV",
       "isFree": true,
-      "logo": "https://go4.pw/UK/RANGERSTV.png",
       "website": "https://fcbayern.com/fcbayerntv/en"
     },
     {
-      "name": "German Tote TV",
+      "name": "German Tote",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QdwtewKuJe8f08f9frvMOmI3cr.jpg",
       "website": "https://www.germantote.tv/#/"
     },
     {
       "name": "Magenta Sport",
       "isFree": true,
-      "logo": "https://go4.pw/germany/MAGENTA.png",
       "website": "https://www.magentasport.de/"
     },
     {
-      "name": "More Than Sports TV",
+      "name": "More Than Sports",
       "isFree": true,
       "website": "https://morethansports.tv/contact/"
     },
@@ -3776,42 +3133,36 @@
       "name": "Sky Sport",
       "isFree": true,
       "keywords": "sky sport -1 -10 -11 -12 -13 -14 -2 -3 -4 -5 -6 -7 -8 -9 -bundesliga -bundesliga 1 -bundesliga 10 -bundesliga 2 -bundesliga 3 -bundesliga 4 -bundesliga 5 -bundesliga 6 -bundesliga 7 -bundesliga 8 -bundesliga 9 -f1 -golf -kompakt 1 -kompakt 2 -kompakt 3 -kompakt 4 -kompakt 5 -mix -news -news hd -premier league -tennis -top event",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Sky Sport 1",
+      "name": "Sky Sport",
       "isFree": true,
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 10",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 11",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 12",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 13",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 14",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
@@ -3822,67 +3173,57 @@
     {
       "name": "Sky Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Bundesliga",
       "isFree": true,
       "keywords": "sky sport bundesliga -1 -10 -2 -3 -4 -5 -6 -7 -8 -9",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Sky Sport Bundesliga 1",
+      "name": "Sky Sport Bundesliga",
       "isFree": true,
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Bundesliga 10",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Bundesliga 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
@@ -3918,61 +3259,52 @@
     {
       "name": "Sky Sport Bundesliga 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Sky Sport F1",
+      "name": "Sky Sport F",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/mehr-sport/formel-1-170562"
     },
     {
       "name": "Sky Sport Golf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Sky Sport Kompakt 1",
+      "name": "Sky Sport Kompakt",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Kompakt 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Kompakt 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Kompakt 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Kompakt 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport Mix",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Sport News",
       "isFree": true,
-      "keywords": "sky sport news -hd",
+      "keywords": "sky sport news",
       "website": "https://sport.sky.de/"
     },
     {
@@ -3983,17 +3315,15 @@
     {
       "name": "Sky Sport Tennis",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://sport.sky.de/"
     },
     {
       "name": "Sky Sport Top Event",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://sport.sky.de/"
     },
     {
-      "name": "Sport1",
+      "name": "Sport",
       "isFree": true,
       "website": "https://tv.sport1.de/sport1/"
     },
@@ -4005,7 +3335,6 @@
     {
       "name": "Sportdigital FUSSBALL",
       "isFree": true,
-      "logo": "https://i.ibb.co/ksZQg3HW/sportdigital-fussball.png",
       "website": "https://start.sportdigital.de/"
     },
     {
@@ -4017,38 +3346,32 @@
   "Kids": [
     {
       "name": "3 ABN KIDS",
-      "isFree": true,
-      "logo": "https://lo1.in/uk/247.png"
+      "isFree": true
     },
     {
       "name": "Animax",
       "isFree": true,
-      "logo": "https://imgur.com/BatygW5.png",
       "website": "http://www.animaxtv.de/"
     },
     {
       "name": "Boomerang",
       "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png",
       "website": "http://www.boomerangtv.de/"
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://disneychannel.de/",
       "priority": 10
     },
     {
       "name": "Fix & Foxi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7bY2xZymoIOti4WM5K29OMzCS.jpg",
       "website": "https://fixundfoxi.tv/"
     },
     {
       "name": "Junior",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg",
       "website": "https://www.junior.tv/"
     },
     {
@@ -4059,32 +3382,24 @@
     {
       "name": "Nicktoons",
       "isFree": true,
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
       "website": "http://www.nick.de/sender/19-nicktoons"
     },
     {
       "name": "RiC",
       "isFree": true,
       "keywords": "ric -international",
-      "logo": "https://go4.pw/AUSTRIA/rictv.png",
       "website": "http://www.rictv.de/"
     },
     {
       "name": "RiC International",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/rictv.png",
       "website": "http://www.rictv.de/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Deluxe Lounge HD",
-      "isFree": true
-    },
-    {
       "name": "Adria Music Television",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/MTV_ADRIA.png",
       "website": "https://folx.network/adria-music-television/"
     },
     {
@@ -4100,14 +3415,12 @@
     {
       "name": "Deluxe Lounge",
       "isFree": true,
-      "keywords": "deluxe lounge -hd",
-      "logo": "https://i.imgur.com/pgCA35z.png",
+      "keywords": "deluxe lounge",
       "website": "https://deluxemusic.de/kontakt/"
     },
     {
       "name": "Deluxe Music",
       "isFree": true,
-      "logo": "https://i.imgur.com/HimuPPb.png",
       "website": "https://deluxemusic.de/kontakt/"
     },
     {
@@ -4126,7 +3439,7 @@
       "website": "https://folx.network/folx-music-television/"
     },
     {
-      "name": "Goldstar TV",
+      "name": "Goldstar",
       "isFree": true,
       "website": "http://www.goldstar-tv.de/"
     },
@@ -4136,9 +3449,8 @@
       "website": "https://good-sound.de/"
     },
     {
-      "name": "Gute Laune TV",
+      "name": "Gute Laune",
       "isFree": true,
-      "logo": "https://go4.pw/germany/GUTELAUNE.png",
       "website": "https://www.gutelaunetv.de/"
     },
     {
@@ -4149,25 +3461,21 @@
     {
       "name": "MagentaMusik 360",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/360.png",
       "website": "https://www.magentamusik.de/"
     },
     {
       "name": "Nice",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAAt2gvbkbeefzjd06GPfkdfUho.jpg",
       "website": "https://du-bist-nice.de/"
     },
     {
       "name": "Nuclear Blast",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44RHvg7HdXK9zLzqdNjSPjls9lT.jpg",
       "website": "https://www.nuclearblast.com/pages/band-faq"
     },
     {
       "name": "Oeins",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75156d5408d3e5cd9e0d7d741eefd201.png",
       "website": "https://oeins.de/"
     },
     {
@@ -4186,15 +3494,13 @@
       "website": "https://www.telegold.de/"
     },
     {
-      "name": "Volksmusik TV",
+      "name": "Volksmusik",
       "isFree": true,
-      "logo": "https://i.imgur.com/EsWuCJ3.png",
       "website": "https://www.volksmusik.tv/"
     },
     {
       "name": "Zwei Music Television",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/srf2.png",
       "website": "https://folx.network/zwei-music-television/"
     }
   ],
@@ -4203,72 +3509,59 @@
       "name": "Radio 21 Hannover",
       "isFree": true,
       "shortName": "R2H",
-      "logo": "https://images.iptvmate.net/tvglogo/1d3f711c017833891d3743be5dd5c816.png",
       "priority": 4
     },
     {
-      "name": "Radio 21 TV",
+      "name": "Radio 21",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Radio Bremen TV HD",
+      "name": "Radio Bremen",
       "isFree": true,
-      "shortName": "RBTH",
-      "logo": "https://images.iptvmate.net/tvglogo/a2b6ef62e6fe305843bf089396ba5535.png",
       "priority": 4
     },
     {
       "name": "Radio Weser TV Bremen",
       "isFree": true,
-      "shortName": "RWTB",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "SWR 3 Visual Radio",
       "isFree": true,
       "shortName": "S3VR",
-      "logo": "https://images.iptvmate.net/tvglogo/865752f240f6749beecdff4f2759edf4.png",
       "priority": 4
     },
     {
       "name": "Sonus FM Alemania",
       "isFree": true,
-      "shortName": "SFA",
       "priority": 4
     }
   ],
   "Movies & Series": [
     {
       "name": "Action Movies AT",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/cf2e37a63f3375394780da6d45e40780.png"
+      "isFree": false
     },
     {
       "name": "Action Movies CH",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/cf2e37a63f3375394780da6d45e40780.png"
+      "isFree": false
     },
     {
       "name": "Action Movies DE",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/cf2e37a63f3375394780da6d45e40780.png"
+      "isFree": false
     },
     {
       "name": "Comedy Movies AT",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/36102bd65bdf9a485979419f60eb1b56.png"
+      "isFree": false
     },
     {
       "name": "Comedy Movies CH",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/36102bd65bdf9a485979419f60eb1b56.png"
+      "isFree": false
     },
     {
       "name": "Comedy Movies DE",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/36102bd65bdf9a485979419f60eb1b56.png"
+      "isFree": false
     },
     {
       "name": "AXN Black",
@@ -4278,29 +3571,25 @@
     {
       "name": "Bjgtjme Free Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
       "website": "https://www.bjgtjme.com/"
     },
     {
       "name": "Eagle Cinema Aktion",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMm9hIhErPcgONWknYBgfQP2Z00.jpg"
+      "isFree": true
     },
     {
       "name": "Grjngo Western Movies",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLUTO_GERMANY.png",
       "website": "https://www.grjngo.com/"
     },
     {
-      "name": "Kinowelt TV",
+      "name": "Kinowelt",
       "isFree": true,
       "website": "https://www.kinowelt.tv/"
     },
     {
       "name": "Nash Kinomir",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
       "website": "http://www.kinomir.tv/"
     },
     {
@@ -4312,13 +3601,11 @@
     {
       "name": "ServusTV Deutschland",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRALIA/ServusTV.png",
       "website": "https://www.servustv.com/"
     },
     {
-      "name": "Silverline Movie Channel",
+      "name": "Silverline Movie",
       "isFree": true,
-      "logo": "https://go4.pw/germany/SILVERLINE.png",
       "website": "https://silverline.tv/"
     },
     {
@@ -4329,7 +3616,6 @@
     {
       "name": "Sky Cinema Best Of",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
@@ -4355,7 +3641,6 @@
     {
       "name": "Sky Cinema Special",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
@@ -4366,38 +3651,28 @@
     {
       "name": "Sky Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Warner TV Comedy",
+      "name": "WarnerTV Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_WARNER.png",
       "website": "https://warnertv.de/comedy/"
     },
     {
-      "name": "Warner TV Film",
+      "name": "WarnerTV Film",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_WARNER.png",
       "website": "https://warnertv.de/film/"
     },
     {
-      "name": "Warner TV Serie",
+      "name": "WarnerTV Serie",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_WARNER.png",
       "website": "https://warnertv.de/serie/"
     }
   ],
   "Shop": [
     {
-      "name": "1-2-3.tv",
-      "isFree": true,
-      "website": "https://www.1-2-3.tv/"
-    },
-    {
       "name": "Channel 21",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.channel21.de/"
     },
     {
@@ -4406,27 +3681,23 @@
       "website": "https://www.eropuls.de/TVSHOP/"
     },
     {
-      "name": "Genius Plus TV",
+      "name": "Genius Plus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
       "website": "https://www.genius.tv/"
     },
     {
       "name": "Handystar 2",
       "isFree": true,
-      "logo": "https://go4.pw/germany/HANDYSTAR.png",
       "website": "https://www.handystar.de/"
     },
     {
       "name": "HSE Extra",
       "isFree": true,
-      "logo": "https://go4.pw/germany/HSE245.png",
       "website": "https://www.hse.de/dpl/c/live-im-tv/hse-extra"
     },
     {
       "name": "HSE Trend",
       "isFree": true,
-      "logo": "https://go4.pw/germany/HSE245.png",
       "website": "https://www.hse.de/dpl/c/live-im-tv/hse-trend"
     },
     {
@@ -4441,25 +3712,22 @@
       "website": "https://startv.ch/Juwelo/"
     },
     {
-      "name": "KaufBei TV",
+      "name": "KaufBei",
       "isFree": true,
-      "logo": "https://i.imgur.com/CVJWiM0.png",
       "website": "https://www.kaufbei.tv/"
     },
     {
       "name": "Mein TV Shop",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://meintvshop.online/"
     },
     {
-      "name": "Nicer Dicer TV",
+      "name": "Nicer Dicer",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.genius.tv/"
     },
     {
-      "name": "Pearl TV",
+      "name": "Pearl",
       "isFree": true,
       "website": "https://www.pearl.de/tv/"
     },
@@ -4467,31 +3735,26 @@
       "name": "QVC",
       "isFree": true,
       "keywords": "qvc -style -zwei",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174951942025_45.png",
       "website": "https://www.qvc.de/"
     },
     {
       "name": "QVC Style",
       "isFree": true,
-      "logo": "https://go4.pw/UK/qvc.png",
       "website": "https://www.qvc.de/"
     },
     {
       "name": "QVC Zwei",
       "isFree": true,
-      "logo": "https://go4.pw/UK/qvc.png",
       "website": "https://www.qvc.de/"
     },
     {
       "name": "Shop 24 Direct",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
       "website": "https://www.shop24direct.de/"
     },
     {
       "name": "Shop LC Deutschland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
       "website": "https://www.shoplc.de/"
     }
   ],
@@ -4499,25 +3762,21 @@
     {
       "name": "Adventure Earth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJOIXW4bjsXBPGzqojBV8laiLKM.jpg",
       "website": "https://www.autentic.com/117/Channels.htm#adventure_earth"
     },
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "https://animalplanet.de/"
     },
     {
       "name": "Autentic History",
       "isFree": true,
-      "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
       "website": "https://www.autentic.com/117/Channels.htm#autentic_history"
     },
     {
-      "name": "Curiosity Channel",
+      "name": "Curiosity",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqvkFTounpgOPQCZjkIczVGVmmD.jpg",
       "website": "https://www.curiositychannel.tv/"
     },
     {
@@ -4529,7 +3788,6 @@
     {
       "name": "Da Vinci Asia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9lsWwnIDN2ZNtqZcE1x2o4ZKyI.jpg",
       "website": "https://www.davincikids.tv/"
     },
     {
@@ -4543,21 +3801,18 @@
       "website": "https://www.dokusat.de/"
     },
     {
-      "name": "Ewenyigba TV",
+      "name": "Ewenyigba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ewenyigbatv.com/"
     },
     {
       "name": "GEO Television",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://www.geo-television.de/"
     },
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "http://www.history.de/"
     },
     {
@@ -4576,9 +3831,8 @@
       "website": "http://kanalavrupa.tv/"
     },
     {
-      "name": "Khatereh TV",
+      "name": "Khatereh",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/KHATEREH.png",
       "website": "http://khatereh.online/"
     },
     {
@@ -4589,7 +3843,6 @@
     {
       "name": "N24 Doku",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png",
       "website": "https://www.welt.de/tv-programm-n24-doku/"
     },
     {
@@ -4601,46 +3854,44 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.nationalgeographic.de/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "https://www.nationalgeographic.de/",
       "priority": 9
     },
     {
       "name": "Sky Documentaries",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
       "name": "Sky Nature",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.de/"
     },
     {
-      "name": "Souvenirs from Earth TV",
+      "name": "Souvenirs from Earth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTXsqcQsfp2B1J9LSmBFoN9NeAh.jpg",
       "website": "http://www.souvenirsfromearth.tv/"
     },
     {
       "name": "Terra Mater WILD",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://www.autentic.com/117/Channels.htm#terra_mater"
     },
     {
       "name": "NRWision",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.nrwision.de/"
+    }
+  ],
+  "Added": [
+    {
+      "name": "Sky Deutschland"
     }
   ]
 }

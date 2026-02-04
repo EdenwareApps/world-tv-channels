@@ -2,70 +2,58 @@
   "Entertainment": [
     {
       "name": "VTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png"
+      "isFree": true
     },
     {
-      "name": "Aslu TV",
+      "name": "Aslu",
       "isFree": true,
-      "logo": "https://i.imgur.com/RTv6klV.jpeg",
       "website": "https://aslu.com.mv/"
     },
     {
       "name": "Channel 13",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://stream.theyraonline.com/"
     },
     {
-      "name": "Dhaaris TV",
+      "name": "Dhaaris",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://dhaaris.tv/"
     },
     {
-      "name": "Dhivehi Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Dhivehi",
+      "isFree": true
     },
     {
-      "name": "Ice TV",
+      "name": "Ice",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
       "website": "https://medianet.mv/channels"
     },
     {
-      "name": "Maldives TV",
+      "name": "Maldives",
       "isFree": true,
-      "logo": "https://i.imgur.com/Zl2FmFC.png",
       "website": "https://maldivestv.mv/"
     },
     {
       "name": "MMTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/21tpl5b.png",
       "website": "https://mmtv.mv/"
     },
     {
       "name": "NTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SoBhuIb.png"
+      "isFree": true
     },
     {
-      "name": "People's Neutral Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "People's Neutral",
+      "isFree": true
     },
     {
-      "name": "Raajje TV",
+      "name": "Raajje",
       "isFree": true,
-      "logo": "https://i.imgur.com/NvYCCGl.png",
       "website": "https://raajje.mv/"
     },
     {
       "name": "SSTV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/SSTV.png",
       "website": "https://ssnet.mv/"
     },
     {
@@ -76,9 +64,8 @@
   ],
   "Religious": [
     {
-      "name": "Alkaun TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Alkaun",
+      "isFree": true
     },
     {
       "name": "Munnaaru",
@@ -86,38 +73,33 @@
     },
     {
       "name": "TVM Qur'an",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png"
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "CNM TV",
+      "name": "CNM",
       "isFree": true,
       "website": "https://www.cnm.mv/"
     },
     {
-      "name": "Mendhuru TV",
+      "name": "Mendhuru",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mendhuru.tv/en"
     },
     {
       "name": "Ocean TV Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad55M8newGWemFWCsMAkxO3fDwl.jpg",
       "website": "https://oceantvnetwork.com/"
     },
     {
       "name": "PSM News",
       "isFree": true,
-      "logo": "https://i.imgur.com/mGuBbPv.png",
       "website": "http://psmnews.mv/"
     },
     {
-      "name": "Sangu TV",
+      "name": "Sangu",
       "isFree": true,
-      "logo": "https://i.imgur.com/zR2jvmM.png",
       "website": "https://sangu.mv/"
     },
     {
@@ -130,7 +112,6 @@
     {
       "name": "Ice Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
       "website": "https://medianet.mv/channel/201"
     }
   ]

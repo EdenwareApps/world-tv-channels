@@ -2,59 +2,49 @@
   "Entertainment": [
     {
       "name": "3TV",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/ARIZONA_FAMILY.png"
+      "isFree": true
     },
     {
-      "name": "Faso TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Faso",
+      "isFree": true
     },
     {
       "name": "RTB",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/RTB.png"
+      "isFree": true
     },
     {
-      "name": "Agribusiness TV",
+      "name": "Agribusiness",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://agribusinesstv.info/"
     },
     {
-      "name": "BF1",
+      "name": "BF",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BURKINAFASO/Logo_bf1.png",
       "website": "https://www.bf1.tv/"
     },
     {
-      "name": "Boima TV",
+      "name": "Boima",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://boima.tv/"
     },
     {
-      "name": "Burkina Sciences TV",
+      "name": "Burkina Sciences",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BURKINAINFO.png",
       "website": "https://burkinasciences.tv/"
     },
     {
-      "name": "C360 TV",
+      "name": "C360",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gmcas.media/"
     },
     {
       "name": "Canal 3",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174522009953_10.png",
       "website": "https://canal3.bf/"
     },
     {
-      "name": "La Voix du Paysan TV",
+      "name": "La Voix du Paysan",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://lavoixdupaysan-fngn-bf.org/"
     },
     {
@@ -62,20 +52,17 @@
       "isFree": true
     },
     {
-      "name": "Munyu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Munyu",
+      "isFree": true
     },
     {
       "name": "RTB2 Hauts-Basins",
       "isFree": true,
-      "logo": "https://i0.wp.com/www.rtb.bf/wp-content/uploads/2020/01/images.jpg",
       "website": "https://www.rtb.bf/"
     },
     {
-      "name": "Saaba TV",
+      "name": "Saaba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://saabatv.net/"
     },
     {
@@ -84,64 +71,54 @@
       "website": "http://www.acdcnradiotele.com/"
     },
     {
-      "name": "Savane TV",
+      "name": "Savane",
       "isFree": true,
-      "logo": "https://i.imgur.com/mv3S1Zc.png",
       "website": "https://savanemedias.net/"
     },
     {
       "name": "SMTV Bobo",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png"
+      "isFree": true
     },
     {
       "name": "Tele Tin Tua",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "TV Citoyenne",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TVZ Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "http://www.netbf.info/"
     },
     {
-      "name": "Zobre Web TV",
+      "name": "Zobre Web",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
       "website": "https://zobretv.com/",
       "priority": 4
     }
   ],
   "News": [
     {
-      "name": "Burkina Info TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BURKINAINFO.png"
+      "name": "Burkina Info",
+      "isFree": true
     },
     {
-      "name": "Filinfo TV",
+      "name": "Filinfo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://filinfos.net/"
     },
     {
-      "name": "Wadjo TV",
+      "name": "Wadjo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://wadjo.tv/"
     }
   ],
   "Religious": [
     {
-      "name": "CIMIDI TV",
+      "name": "CIMIDI",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://cimidi.tv/"
     },
     {
@@ -149,68 +126,58 @@
       "isFree": true
     },
     {
-      "name": "El-Bethel TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "El-Bethel",
+      "isFree": true
     },
     {
-      "name": "Espoir du Monde TV",
+      "name": "Espoir du Monde",
       "isFree": true,
-      "logo": "https://i.imgur.com/utBh0xL.png",
       "website": "https://www.cipdsntempleespoirdumonde.org/espoir-du-monde-tv"
     },
     {
-      "name": "Impact TV",
+      "name": "Impact",
       "isFree": true,
       "website": "http://www.impact-tele.tv/"
     },
     {
-      "name": "Omega TV",
+      "name": "Omega",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "https://www.omegamedias.info/tv/"
     },
     {
-      "name": "Shammah TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Shammah",
+      "isFree": true
     },
     {
       "name": "TV Al Houda",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Maria",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://catholique.bf/"
     },
     {
       "name": "TV Peace Afrika",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://aptele.net/"
     }
   ],
   "Sports": [
     {
       "name": "Hakili TV Sport",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
       "name": "RTB 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/OFZm8ic.png",
       "website": "https://www.rtb.bf/"
     },
     {
       "name": "RTB Zenith",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/RTB.png",
       "website": "https://www.rtb.bf/tele-zenith/"
     }
   ]

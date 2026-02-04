@@ -4,48 +4,36 @@
       "name": "92 News",
       "isFree": true,
       "keywords": "92 news -uk",
-      "logo": "https://images.iptvmate.net/tvglogo/46ea6d52e3eab514956ec8cdb968893f.png"
+      "website": "https://92newshd.tv/live-tv"
     },
     {
       "name": "92 News UK",
-      "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png"
+      "isFree": true
     },
     {
       "name": "ARY News",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/643a7c09a024da5645014b1a8ef5a4d5.png",
       "priority": 9
     },
     {
       "name": "Dunya News",
       "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/DUNYA_NEWS.PNG",
       "priority": 9
     },
     {
       "name": "Express News Pakistan",
       "isFree": true,
-      "shortName": "ENP",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
       "priority": 9
     },
     {
       "name": "Geo News",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "priority": 9
     },
     {
       "name": "Khyber News",
       "isFree": true,
-      "keywords": "khyber news -tv",
-      "logo": "https://i.imgur.com/7SyLba4.png"
-    },
-    {
-      "name": "Khyber News TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/acf99fa802d1b4342c6d327329ac9b6e.png"
+      "keywords": "khyber news"
     },
     {
       "name": "Lahore News",
@@ -57,107 +45,85 @@
       "priority": 9
     },
     {
-      "name": "Such TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yYMh3JJ.png"
+      "name": "Such",
+      "isFree": true
     },
     {
       "name": "24/7 News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://247news.com.pk/"
     },
     {
-      "name": "24 News HD",
+      "name": "24 News",
       "isFree": true,
       "website": "https://www.24newshd.tv/"
     },
     {
       "name": "48 News UK",
-      "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png"
+      "isFree": true
     },
     {
-      "name": "92 News HD",
+      "name": "99 News",
       "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
-      "website": "https://92newshd.tv/live-tv"
-    },
-    {
-      "name": "99 News HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
       "website": "https://99newshd.com/"
     },
     {
       "name": "A1TV Pakistan",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://a1tv.pk/"
     },
     {
       "name": "Aaj News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/AAJTAK.png",
       "website": "https://www.aaj.tv/"
     },
     {
       "name": "Abb Takk",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/AAJTAK.png",
       "website": "http://www.abbtakk.tv/"
     },
     {
       "name": "ABN News",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/abn.png",
       "website": "https://abnnews.pk/abn-live/"
     },
     {
       "name": "Aik News",
       "isFree": true,
-      "logo": "https://i.imgur.com/svPXoAP.png",
       "website": "https://www.aiknewshd.tv/"
     },
     {
       "name": "Bol News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/BOL.png",
       "website": "https://www.bolnews.com/"
     },
     {
-      "name": "Bolo News HD",
-      "isFree": true,
-      "logo": "http://i.imgur.com/X5kjTCy.jpg"
+      "name": "Bolo News",
+      "isFree": true
     },
     {
-      "name": "Capital TV",
+      "name": "Capital",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/28/20150928130434713658_68.png",
       "website": "http://capitaldigital.pk/"
     },
     {
       "name": "Channel Five",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://channelfivepakistan.tv/"
     },
     {
       "name": "City 41",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "http://www.city41.tv/"
     },
     {
       "name": "City 42",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.city42.tv/"
     },
     {
-      "name": "City News HD",
+      "name": "City News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "http://citynewshd.tv/"
     },
     {
@@ -169,182 +135,152 @@
     {
       "name": "Dawn News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
       "website": "https://www.dawnnews.tv/"
     },
     {
       "name": "Din News",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
       "name": "Express News",
       "isFree": true,
       "keywords": "express news -pakistan",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
       "website": "https://www.express.pk/",
       "priority": 9
     },
     {
       "name": "Geo News International",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://www.geo.tv/",
       "priority": 9
     },
     {
       "name": "Geo Tez",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "http://www.geotez.tv/",
       "priority": 9
     },
     {
       "name": "Gourmet News Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg",
       "website": "https://gnnhd.tv/"
     },
     {
       "name": "GTV Network",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/GTV.png",
       "website": "https://gtvnetwork.tv/"
     },
     {
       "name": "Hum News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg",
       "website": "https://www.humnews.pk/"
     },
     {
-      "name": "Jeejal News HD",
+      "name": "Jeejal News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://jeejalnewshd.com/"
     },
     {
       "name": "JNN News",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/JNN.png",
       "website": "https://www.jnnnewstv.com/"
     },
     {
       "name": "K21 News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/K-21.png",
       "website": "https://k21news.pk/"
     },
     {
       "name": "Kohenoor News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KN.png",
       "website": "https://www.kohenoor.tv/"
     },
     {
       "name": "KTN News",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "website": "https://www.ktnnews.tv/"
     },
     {
       "name": "Lahore Rang",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/LAHORE-NEWS.png",
       "website": "https://www.lahorerang.tv/"
     },
     {
-      "name": "Mashriq TV",
+      "name": "Mashriq",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mashriqtv.pk/"
     },
     {
       "name": "Metro1 News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.metro1news.tv/"
     },
     {
       "name": "Neo News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/NEONEWS.png",
       "website": "https://www.neonetwork.pk/"
     },
     {
       "name": "News One",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.newsone.tv/"
     },
     {
-      "name": "ON News HD",
+      "name": "ON News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
       "website": "http://www.onnewstv.pk/"
     },
     {
       "name": "PNN News",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://pnntv.pk/"
     },
     {
       "name": "Public News",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://publicnews.com/"
     },
     {
       "name": "Roze News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ROZENEWS.png",
       "website": "https://rozenews.com.pk/"
     },
     {
       "name": "SBI News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://shanabashana.com/"
     },
     {
       "name": "Sindh TV News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/SINDH.png",
       "website": "https://sindhtvnews.net/"
     },
     {
       "name": "Star News Pakistan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://starnewspakistan.com/"
     },
     {
       "name": "Sub News",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p6bGyorYymviSZ7XXK4qQwTtao.jpg"
+      "isFree": true
     },
     {
-      "name": "Suno News HD",
+      "name": "Suno News",
       "isFree": true,
-      "logo": "https://i.imgur.com/FeSntVO.jpg",
       "website": "https://www.sunonews.tv/"
     },
     {
       "name": "Time News",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkjPoisqAavXUvtoirxTEcLLQyI.jpg"
+      "isFree": true
     },
     {
       "name": "Voice News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
       "website": "https://voicenewspk.com/"
     },
     {
       "name": "VSH News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://vshnews.tv/"
     }
   ],
@@ -352,126 +288,106 @@
   "Religious": [
     {
       "name": "Madani Channel Bangla",
-      "isFree": true,
-      "shortName": "MCB",
-      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png"
+      "isFree": true
     },
     {
       "name": "Madani Channel Urdu",
-      "isFree": true,
-      "shortName": "MCU",
-      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png"
+      "isFree": true
     },
     {
       "name": "Peace TV Urdu",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg"
+      "isFree": true
     },
     {
-      "name": "Al Ehsaan TV",
+      "name": "Al Ehsaan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alehsaan.tv/"
     },
     {
       "name": "ARY Qtv",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png",
       "website": "https://aryqtv.tv/",
       "priority": 9
     },
     {
-      "name": "Fazal TV",
+      "name": "Fazal",
       "isFree": true,
-      "logo": "https://i.imgur.com/c0fvKia.png",
       "website": "https://www.fazal.tv/"
     },
     {
-      "name": "Gawahi TV",
+      "name": "Gawahi",
       "isFree": true,
       "website": "https://gawahi.tv/"
     },
     {
-      "name": "God Stands TV",
+      "name": "God Stands",
       "isFree": true,
       "website": "https://www.godstands.tv/"
     },
     {
       "name": "Grace Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h47JJZ015VF4neia33AFwTU37Yb.jpg",
       "website": "https://gracenetwork.global/"
     },
     {
-      "name": "HK TV",
+      "name": "HK",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://hktv.pk/"
     },
     {
-      "name": "Isaac TV",
+      "name": "Isaac",
       "isFree": true,
       "website": "https://isaactelevision.tv/Isaac%20Tv%20Pakistan/"
     },
     {
       "name": "Jesus Christ TV Pakistan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg",
       "website": "https://www.jctvpak.tv/"
     },
     {
-      "name": "Joshua TV",
+      "name": "Joshua",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu54drUl5ZPSTrTOHSuFnImMz4A.jpg",
       "website": "http://www.joshuatv.org/"
     },
     {
-      "name": "King TV",
+      "name": "King",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
       "website": "http://www.kingtelevision.tv/"
     },
     {
-      "name": "Love of Jesus TV",
+      "name": "Love of Jesus",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.jctvpak.tv/"
     },
     {
       "name": "Madani Channel English",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png",
       "website": "https://www.madanichannel.tv/"
     },
     {
-      "name": "Paighan TV",
+      "name": "Paighan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.paigham.tv/"
     },
     {
-      "name": "Quran TV",
+      "name": "Quran",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095254463635_91.png",
       "website": "https://paigham.tv/paigham-quran-tv/"
     }
   ],
   "Sports": [
     {
       "name": "One Golf",
-      "isFree": false,
-      "logo": "https://i.imgur.com/7JhaEW5.png"
+      "isFree": false
     },
     {
       "name": "Fast Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oKBsQ3SdjGuBDDhPR31CO9qX1b.jpg",
       "website": "https://www.fastsports.tv/"
     },
     {
       "name": "Geo Super",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://www.geosuper.tv/",
       "priority": 9
     },
@@ -484,7 +400,6 @@
     {
       "name": "ARY Digital",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png",
       "priority": 9
     },
     {
@@ -492,88 +407,69 @@
       "isFree": true
     },
     {
-      "name": "Kay2 TV",
+      "name": "Kay 2",
       "isFree": true
     },
     {
       "name": "Khyber Middle East",
       "isFree": true,
-      "keywords": "khyber middle east -tv",
-      "shortName": "KME",
-      "logo": "https://images.iptvmate.net/tvglogo/864a59295877dc35652044d3e568a401.png"
+      "keywords": "khyber middle east"
     },
     {
-      "name": "Khyber Middle East TV",
-      "isFree": true,
-      "shortName": "KMET"
+      "name": "Minhaj",
+      "isFree": true
     },
     {
-      "name": "Minhaj TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0afb66586010a6987d88d98aecd92367.png"
-    },
-    {
-      "name": "Noor TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/241fe04b36121fc3e2d1028fd006c836.png"
+      "name": "Noor",
+      "isFree": true
     },
     {
       "name": "PTV Home",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/90e00c5e99a50c3ef012efec394a5d18.png",
       "priority": 9
     },
     {
       "name": "PTV Sports",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
       "priority": 9
     },
     {
       "name": "PTV World",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4a4080ca22e6fb9cffb766da6557e671.png",
       "priority": 9
     },
     {
-      "name": "Zindagi TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png"
+      "name": "Zindagi",
+      "isFree": true
     },
     {
-      "name": "A1 TV",
+      "name": "A",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.bellsentertainment.com.pk/media/"
     },
     {
       "name": "Aaj Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/AAJTAK.png",
       "website": "https://aajentertainment.tv/"
     },
     {
-      "name": "Afghan TV",
+      "name": "Afghan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/iafghanistan.png",
       "website": "http://afghantv.pk/"
     },
     {
-      "name": "AJK TV",
+      "name": "AJK",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ptv.com.pk/ptvCorporate/ptvAJK"
     },
     {
-      "name": "A-Plus TV",
+      "name": "A-Plus",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.a-plus.tv/"
     },
     {
-      "name": "Apna Channel",
+      "name": "Apna",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/APNA.png",
       "website": "http://apna.tv/"
     },
     {
@@ -584,337 +480,284 @@
     {
       "name": "ARY Zauq",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png",
       "priority": 9
     },
     {
       "name": "ARY Zindagi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png",
       "website": "https://www.aryzindagi.tv/",
       "priority": 9
     },
     {
       "name": "ATV",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "http://atv.com.pk/"
     },
     {
-      "name": "aurLife HD",
+      "name": "aurLife",
       "isFree": true,
-      "logo": "https://i.imgur.com/GfWLn3O.jpg",
       "website": "https://aurlife.tv/"
     },
     {
       "name": "Awaz TV Network",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.awaztv.tv/"
     },
     {
-      "name": "Best TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/VA13E3w.png"
+      "name": "Best",
+      "isFree": true
     },
     {
       "name": "Bol Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/BOL.png",
       "website": "https://www.bolentertainment.com/"
     },
     {
-      "name": "Dhanak TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dhanak",
+      "isFree": true
     },
     {
-      "name": "Dharti TV",
+      "name": "Dharti",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53VStqbu6cS6HlfswFsSe4WMOm1.jpg",
       "website": "http://dhartitv.tv/"
     },
     {
       "name": "Discover Pakistan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/DP-Shadow-Logo.png",
       "website": "https://www.discoverpakistan.tv/"
     },
     {
       "name": "Dunya Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/DUNYANEWS.png",
       "website": "https://dunya.com.pk/index.php/contact-us",
       "priority": 9
     },
     {
-      "name": "E1 TV",
+      "name": "E",
       "isFree": true
     },
     {
       "name": "Express Entertainment",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
       "website": "https://www.expressentertainment.tv/",
       "priority": 9
     },
     {
       "name": "Faiz TV Network",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://faiz.tv/"
     },
     {
       "name": "Geo Kahani",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d1af3b3c86fde2738d8f4669d4139d2b.png",
       "website": "http://geokahani.tv/",
       "priority": 9
     },
     {
-      "name": "GR 8 TV",
-      "isFree": true,
-      "logo": "https://go4.pw/GREECE/greec.png"
+      "name": "GR 8",
+      "isFree": true
     },
     {
-      "name": "Health TV",
+      "name": "Health",
       "isFree": true,
       "website": "http://www.health-tv.tv/"
     },
     {
       "name": "Hum Europe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg",
       "website": "https://hum.tv/hum-europe/"
     },
     {
       "name": "Hum MENA",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg",
       "website": "https://hum.tv/hum-mena/"
     },
     {
       "name": "Hum Sitaray",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg",
       "website": "http://www.humsitaray.tv/"
     },
     {
-      "name": "Hum TV",
+      "name": "Hum",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
       "website": "https://www.hum.tv/"
     },
     {
       "name": "Hum World",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg",
       "website": "https://hum.tv/hum-world-sd/"
     },
     {
       "name": "Kashish",
       "isFree": true,
-      "logo": "https://go4.pw/India/KASHISH NEWS.png",
       "website": "https://www.ktntv.tv/"
     },
     {
-      "name": "Kay2 HD",
+      "name": "Kay 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/CRKk0iP.png",
       "website": "http://kay2.tv/"
     },
     {
       "name": "KTN",
       "isFree": true,
       "keywords": "ktn -news",
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "website": "https://www.ktntv.tv/"
     },
     {
       "name": "LTN Family",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/LTNFAMILY.png",
       "website": "https://ltnfamily.tv/"
     },
     {
-      "name": "Masala TV",
+      "name": "Masala",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
       "website": "https://www.masala.tv/"
     },
     {
-      "name": "Pashto 1",
+      "name": "Pashto",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PASHTO1.png",
       "website": "https://humpashto1.tv/"
     },
     {
       "name": "Play Entertainment",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playentertainment.tv/"
     },
     {
-      "name": "PMI TV",
+      "name": "PMI",
       "isFree": true,
       "website": "http://www.pmitv.org/"
     },
     {
       "name": "Pop Pakistan",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": true
     },
     {
-      "name": "Praise TV",
+      "name": "Praise",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALKARMA.png",
       "website": "https://praisetvpakistan.tv/"
     },
     {
       "name": "PTV Bolan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PTV4.png",
       "priority": 9
     },
     {
       "name": "PTV Global",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PTV4.png",
       "website": "http://global.ptv.com.pk/",
       "priority": 9
     },
     {
       "name": "PTV National",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PTV4.png",
       "website": "https://www.ptv.com.pk/ptvCorporate/ptvNational",
       "priority": 9
     },
     {
-      "name": "Punjab TV",
+      "name": "Punjab",
       "isFree": true,
       "website": "http://www.punjabtv.pk/"
     },
     {
-      "name": "Raavi TV",
-      "isFree": true,
-      "logo": "https://go4.pw//ASIA/PAKISTAN/RAAVI.png"
+      "name": "Raavi",
+      "isFree": true
     },
     {
       "name": "Rohi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ROHI.png",
       "website": "http://www.rohi.tv/"
     },
     {
       "name": "Royal Taiz",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znk6frNlEd90QATu40qsh997KvU.jpg",
       "website": "https://royaltaiz.tv/"
     },
     {
-      "name": "SAB TV",
+      "name": "SAB",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/Sony_SAB.png",
       "website": "https://sabtv.pk/"
     },
     {
-      "name": "Samaa TV",
+      "name": "Samaa",
       "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/SAMAA_TV.PNG",
       "website": "https://www.samaa.tv/",
       "priority": 9
     },
     {
-      "name": "See TV",
+      "name": "See",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
       "website": "http://seetv.pk/"
     },
     {
-      "name": "Shine Star TV",
+      "name": "Shine Star",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTDt04LtD1IUn8FWamBbKUBOQXq.jpg",
       "website": "https://shinestar.tv/"
     },
     {
       "name": "Silver Screen",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg"
+      "isFree": true
     },
     {
-      "name": "Sindh TV",
+      "name": "Sindh",
       "isFree": true,
       "keywords": "sindh tv -news",
-      "logo": "https://go4.pw/ASIA/PAKISTAN/SINDH.png",
       "website": "https://sindhtv.tv/"
     },
     {
-      "name": "Smile TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
+      "name": "Smile",
+      "isFree": true
     },
     {
       "name": "Star Asia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "http://starasianews.tv/"
     },
     {
-      "name": "Starlite TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Starlite",
+      "isFree": true
     },
     {
       "name": "Star Max",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+      "isFree": true
     },
     {
       "name": "TV One Global",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Today",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvtodaynews.tv/"
     },
     {
-      "name": "Venus HD",
+      "name": "Venus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg",
       "website": "http://www.venustv.net/"
     },
     {
-      "name": "VU TV Network 1",
+      "name": "VU TV Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
       "website": "http://www.vu.edu.pk/"
     },
     {
       "name": "VU TV Network 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
       "website": "http://www.vu.edu.pk/"
     },
     {
       "name": "VU TV Network 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
       "website": "http://www.vu.edu.pk/"
     },
     {
       "name": "VU TV Network 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
       "website": "http://www.vu.edu.pk/"
     },
     {
-      "name": "Waseb TV",
+      "name": "Waseb",
       "isFree": true,
-      "logo": "https://i.imgur.com/RsF5yVA.png",
       "website": "http://www.waseb.tv/home"
     },
     {
@@ -926,39 +769,33 @@
     {
       "name": "8XM",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/8XM.png",
       "website": "https://8xm.tv/"
     },
     {
       "name": "ARY Musik",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/ARY.png",
       "website": "https://arymusik.tv/",
       "priority": 9
     },
     {
-      "name": "Jalwa TV",
+      "name": "Jalwa",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/9X-JALWA.png",
       "website": "https://jalwa.tv/"
     },
     {
       "name": "JooMusic",
       "isFree": true,
-      "logo": "https://i.imgur.com/KHuKQQL.png",
       "website": "https://www.joomusic.info/"
     },
     {
-      "name": "VH1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
+      "name": "VH",
+      "isFree": true
     }
   ],
   "Kids": [
     {
-      "name": "Aag TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Aag",
+      "isFree": true
     },
     {
       "name": "Cartoon Network",
@@ -967,13 +804,11 @@
     },
     {
       "name": "Kids Zone",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+      "isFree": true
     },
     {
       "name": "Minimax",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png",
       "website": "https://www.bellsentertainment.com.pk/media/"
     },
     {
@@ -984,55 +819,47 @@
   ],
   "Education & Culture": [
     {
-      "name": "Bethat TV",
+      "name": "Bethat",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bethat.tv/"
     },
     {
-      "name": "ELC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "ELC",
+      "isFree": true
     },
     {
       "name": "Geo Canada",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://asr.geo.tv/canada/",
       "priority": 9
     },
     {
       "name": "Geo Middle East",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "http://www.geo.tv/me/",
       "priority": 9
     },
     {
       "name": "Geo UK",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://asr.geo.tv/uk/",
       "priority": 9
     },
     {
       "name": "Geo USA",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "https://asr.geo.tv/usa/",
       "priority": 9
     },
     {
       "name": "HarPal Geo",
       "isFree": true,
-      "logo": "https://i.imgur.com/NX3vvAX.png",
       "website": "https://harpalgeo.tv/",
       "priority": 9
     },
     {
-      "name": "Mehran TV",
+      "name": "Mehran",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mehrantv.tv"
     },
     {
@@ -1046,18 +873,16 @@
       "isFree": true
     },
     {
-      "name": "Cinema TV",
+      "name": "Cinema",
       "isFree": true
     },
     {
       "name": "Filmax",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/Filmax.png"
+      "isFree": true
     },
     {
       "name": "Filmazia",
-      "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/Filmazia.png"
+      "isFree": true
     },
     {
       "name": "Filmcity",
@@ -1066,8 +891,12 @@
     {
       "name": "Film World",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8rO8CEk4wmqO8wJPMTWN0kMVcT.jpg",
       "website": "https://ltnworld.com/"
+    }
+  ],
+  "Added": [
+    {
+      "name": "Geo"
     }
   ]
 }

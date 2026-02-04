@@ -1,9 +1,8 @@
 {
   "Entertainment": [
     {
-      "name": "CBC TV8",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
+      "name": "CBC TV 8",
+      "isFree": true
     },
     {
       "name": "CaribVision",
@@ -11,71 +10,60 @@
       "website": "https://www.caribvision.tv/"
     },
     {
-      "name": "Gone Viral TV",
+      "name": "Gone Viral",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://www.goneviraltv.com/"
     },
     {
       "name": "Gone Viral Vogue",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://www.goneviraltv.com/"
     },
     {
       "name": "Gone Viral X-treme",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://www.goneviraltv.com/"
     },
     {
       "name": "MCTV Channel 118",
       "isFree": true,
-      "logo": "https://i.imgur.com/7VzlbLp.png",
       "website": "https://www.cbc.bb/mctv/"
     },
     {
-      "name": "Parliament TV",
+      "name": "Parliament",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174535846051_22.png",
       "website": "https://www.barbadosparliament.com/parliament_tv"
     },
     {
-      "name": "Trident 10 TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Trident 10",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "Gone Viral Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://www.goneviraltv.com/"
     },
     {
       "name": "Hitz 106.7 FM",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.hitzfm106.com/"
     }
   ],
   "Sports": [
     {
       "name": "RUSH Prime",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg"
+      "isFree": true
     },
     {
       "name": "RUSH Sports",
       "isFree": true,
-      "keywords": "rush sports -2",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg"
+      "keywords": "rush sports -2"
     },
     {
       "name": "RUSH Sports 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg"
+      "isFree": true
     }
   ]
 }

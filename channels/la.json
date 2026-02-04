@@ -1,134 +1,109 @@
 {
   "Entertainment": [
     {
-      "name": "Air TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
+      "name": "Air",
+      "isFree": true
     },
     {
-      "name": "Brian TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MnCFcFHYAEMG4NBTUKvjhf5AhU.jpg"
+      "name": "Brian",
+      "isFree": true
     },
     {
-      "name": "Hmong Star TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/HMONG.png"
+      "name": "Hmong Star",
+      "isFree": true
     },
     {
-      "name": "LS TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "LS",
+      "isFree": true
     },
     {
-      "name": "Lao Champa TV",
+      "name": "Lao Champa",
       "isFree": true,
-      "keywords": "lao champa tv -2 -3",
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "keywords": "lao champa tv -2 -3"
     },
     {
       "name": "Lao Champa TV 2",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "isFree": true
     },
     {
       "name": "Lao Champa TV 3",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "isFree": true
     },
     {
-      "name": "Ning TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ANnEPnK.png"
+      "name": "Ning",
+      "isFree": true
     },
     {
-      "name": "Oy Lao TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Oy Lao",
+      "isFree": true
     },
     {
       "name": "Tea TV 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYmFGMi1KpzJi3JAYvcW9LlaMmp.jpg"
+      "isFree": true
     },
     {
       "name": "Uniquely Thai",
-      "isFree": true,
-      "logo": "https://i.imgur.com/cTSDB8O.png"
+      "isFree": true
     },
     {
-      "name": "Champasack TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Champasack",
+      "isFree": true
     },
     {
-      "name": "Dao Lane Xang TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/DAO.png"
+      "name": "Dao Lane Xang",
+      "isFree": true
     },
     {
       "name": "ISTV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719183008642095_72.png"
+      "isFree": true
     },
     {
-      "name": "Lao Net TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Net",
+      "isFree": true
     },
     {
-      "name": "Lao Public Security TV",
+      "name": "Lao Public Security",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png",
       "website": "https://laopstv.com/"
     },
     {
       "name": "LATV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/fJxySUg.png"
+      "isFree": true
     },
     {
-      "name": "LNTV 1",
+      "name": "LNTV",
       "isFree": true,
-      "logo": "https://i.ibb.co/5TdbQH4/LNTV-Liberia-Logo.png",
       "website": "https://www.lntv.gov.la/"
     },
     {
       "name": "LNTV 3",
       "isFree": true,
-      "logo": "https://i.ibb.co/5TdbQH4/LNTV-Liberia-Logo.png",
       "website": "https://www.lntv.gov.la/"
     },
     {
-      "name": "Luang Prabang TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Luang Prabang",
+      "isFree": true
     },
     {
-      "name": "MV Lao TV",
+      "name": "MV Lao",
       "isFree": true,
-      "logo": "https://i.imgur.com/oVlQUKM.png",
       "website": "https://www.mvtv.co.th/channel/mvlao-tv"
     },
     {
-      "name": "Oh Muang Lao TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFRpY2Jfc8Aov91mLG4Pf04Rpuq.jpg"
+      "name": "Oh Muang Lao",
+      "isFree": true
     },
     {
-      "name": "Sieng Khaen Lao TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Sieng Khaen Lao",
+      "isFree": true
     },
     {
       "name": "TV Lao",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "Vati Lao",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NwxXABV.png"
+      "isFree": true
     },
     {
       "name": "VTE 9",
@@ -137,40 +112,34 @@
   ],
   "Shop": [
     {
-      "name": "Lao Champa TV 1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "name": "Lao Champa TV",
+      "isFree": true
     },
     {
-      "name": "Laos Planet TV",
+      "name": "Laos Planet",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.planet.com.la/"
     },
     {
-      "name": "Lone Sinh Lao TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygqDEUCSa8tjW0lzOxJNXB9Ramn.jpg"
+      "name": "Lone Sinh Lao",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
       "name": "Lao ESTV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png"
+      "isFree": true
     },
     {
-      "name": "Lao Star TV",
+      "name": "Lao Star",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LAO_CAI.png",
       "website": "https://www.laostar.tv/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Look Thoong TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+      "name": "Look Thoong",
+      "isFree": true
     }
   ]
 }

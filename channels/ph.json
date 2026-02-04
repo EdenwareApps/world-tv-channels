@@ -6,78 +6,67 @@
       "priority": 10
     },
     {
-      "name": "DZRH News TV",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "name": "DZRH News",
+      "isFree": true
     },
     {
       "name": "PTV 4",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/PTV4.png"
+      "isFree": true
     },
     {
-      "name": "Abante TV",
+      "name": "Abante",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
       "website": "https://www.abante.com.ph/"
     },
     {
       "name": "ANC",
       "isFree": true,
       "keywords": "anc -global",
-      "logo": "https://go4.pw/ASIA/anc.png",
       "website": "https://news.abs-cbn.com/anc"
     },
     {
       "name": "ANC Global",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/anc.png",
       "website": "https://news.abs-cbn.com/anc"
     },
     {
-      "name": "Bandera News TV",
+      "name": "Bandera News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://bandera.inquirer.net/"
     },
     {
-      "name": "Bilyonaryo News Channel",
+      "name": "Bilyonaryo News",
       "isFree": true,
       "website": "https://bnc.ph/"
     },
     {
-      "name": "Brigada News TV",
+      "name": "Brigada News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZRmaCyGtfr8xiONbheOWhcG2vh.jpg",
       "website": "https://www.brigadanews.ph/brigada-news-tv/"
     },
     {
-      "name": "GMA News TV",
+      "name": "GMA News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "priority": 9
     },
     {
       "name": "GTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png",
       "website": "https://www.gmanetwork.com/news/"
     },
     {
-      "name": "Media Pilipinas TV",
+      "name": "Media Pilipinas",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://cignal.tv/channels/250/mptv"
     },
     {
-      "name": "News5",
+      "name": "News 5",
       "isFree": true,
       "website": "https://news.tv5.com.ph/"
     },
     {
-      "name": "Nueva Ecija TV48",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg"
+      "name": "Nueva Ecija TV 48",
+      "isFree": true
     },
     {
       "name": "One News",
@@ -95,41 +84,12 @@
       "website": "https://www.rngph.com/"
     },
     {
-      "name": "SMNI News Channel",
+      "name": "SMNI News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.smninewschannel.com/"
     },
     {
-      "name": "[[Very high frequency",
-      "isFree": true
-    },
-    {
       "name": "Band II",
-      "isFree": true
-    },
-    {
-      "name": "CATV-95 to CATV-99CATV-14 to CATV-22",
-      "isFree": true
-    },
-    {
-      "name": "175.25 MHz~211.25 MHz",
-      "isFree": true
-    },
-    {
-      "name": "217.25 MHz~463.25 MHz",
-      "isFree": true
-    },
-    {
-      "name": "[[Ultra high frequency",
-      "isFree": true
-    },
-    {
-      "name": "TV-21 to TV-51 (NTSC-M Analog TV)",
-      "isFree": true
-    },
-    {
-      "name": "class=\"wikitable\" style=\"width:100%; text-align:center;\"",
       "isFree": true
     },
     {
@@ -145,95 +105,87 @@
       "isFree": true
     },
     {
-      "name": "class=\"wikitable unsortable\" style=\"text-align:center;\"",
+      "name": "DYSS",
       "isFree": true
     },
     {
-      "name": "PA}}",
+      "name": "DYPT",
       "isFree": true
     },
     {
-      "name": "DYSS]]",
+      "name": "DYET",
       "isFree": true
     },
     {
-      "name": "DYPT]]",
+      "name": "DYLS",
       "isFree": true
     },
     {
-      "name": "DYET]]",
+      "name": "DYPR",
       "isFree": true
     },
     {
-      "name": "DYLS]]",
+      "name": "GMA Network",
       "isFree": true
     },
     {
-      "name": "DYPR-TV]]",
+      "name": "DXMK",
       "isFree": true
     },
     {
-      "name": "[[GMA Network",
+      "name": "DXRV",
       "isFree": true
     },
     {
-      "name": "DXMK]]",
+      "name": "DXGM",
       "isFree": true
     },
     {
-      "name": "DXRV]]",
+      "name": "DXAL",
       "isFree": true
     },
     {
-      "name": "DXGM]]",
+      "name": "DXCC",
       "isFree": true
     },
     {
-      "name": "DXAL]]",
+      "name": "DXTE",
       "isFree": true
     },
     {
-      "name": "DXCC]]",
+      "name": "DXCO",
       "isFree": true
     },
     {
-      "name": "DXTE]]",
+      "name": "DXJC",
       "isFree": true
     },
     {
-      "name": "DXCO]]",
+      "name": "DXET",
       "isFree": true
     },
     {
-      "name": "DXJC]]",
+      "name": "DXMJ",
       "isFree": true
     },
     {
-      "name": "DXET]]",
+      "name": "DXWW",
       "isFree": true
     },
     {
-      "name": "DXMJ]]",
+      "name": "DXNP",
       "isFree": true
     },
     {
-      "name": "DXWW]]",
+      "name": "DXTV",
       "isFree": true
     },
     {
-      "name": "DXNP]]",
+      "name": "DXRA",
       "isFree": true
     },
     {
-      "name": "DXTV]]",
-      "isFree": true
-    },
-    {
-      "name": "DXRA]]",
-      "isFree": true
-    },
-    {
-      "name": "DXAN]]",
+      "name": "DXAN",
       "isFree": true
     },
     {
@@ -297,7 +249,7 @@
       "isFree": true
     },
     {
-      "name": "ABS-CBN News PH",
+      "name": "ABS CBN News PH",
       "isFree": true
     },
     {
@@ -372,38 +324,31 @@
   "Religious": [
     {
       "name": "Hope Channel Philippines",
-      "isFree": true,
-      "shortName": "HCP",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg"
+      "isFree": true
     },
     {
       "name": "Ang Dating Daan",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/23955.jpg",
       "website": "https://angdatingdaan.org/"
     },
     {
       "name": "INC Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
       "website": "https://incradio.iglesianicristo.net/"
     },
     {
-      "name": "Light TV",
+      "name": "Light",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ji1h0nZB1fmimAalfi97fnKfXg.jpg",
       "website": "https://lighttv.ph/"
     },
     {
       "name": "Oras ng Himala",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NIGERIA.png",
       "website": "https://www.miraclehour.org/tv_radio"
     },
     {
-      "name": "Truth Channel",
+      "name": "Truth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPowVPqB6397K0vPflDqslmHpkP.jpg",
       "website": "https://www.truthchannel.tv/"
     },
     {
@@ -413,75 +358,61 @@
     },
     {
       "name": "Word of God Network",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDawnZWQnePqQbiisEWZaY9e4UI.jpg"
+      "isFree": true
     }
   ],
   "Shop": [
     {
-      "name": "Shop TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg"
+      "name": "Shop",
+      "isFree": true
     },
     {
       "name": "EZ Shop",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
       "website": "https://www.ezshop.asia/"
     },
     {
       "name": "TV Shop Philippines",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://tvshop.ph/"
     }
   ],
   "Entertainment": [
     {
       "name": "CCTN 47",
-      "isFree": true,
-      "logo": "https://i.imgur.com/IFpAmvW.png"
+      "isFree": true
     },
     {
       "name": "CLTV 36",
-      "isFree": true,
-      "logo": "https://i.imgur.com/IUcTFQ2.png"
+      "isFree": true
     },
     {
-      "name": "DepEd TV",
-      "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/deped.png"
+      "name": "DepEd",
+      "isFree": true
     },
     {
-      "name": "Great Commission TV",
-      "isFree": true,
-      "shortName": "GCT",
-      "logo": "https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png"
+      "name": "Great Commission",
+      "isFree": true
     },
     {
-      "name": "INC TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg"
+      "name": "INC",
+      "isFree": true
     },
     {
       "name": "Life TV Asia",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png"
+      "isFree": true
     },
     {
       "name": "NET 25",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "PEP TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "PEP",
+      "isFree": true
     },
     {
-      "name": "Pilipinas HD",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png"
+      "name": "Pilipinas",
+      "isFree": true
     },
     {
       "name": "SMNI",
@@ -489,8 +420,7 @@
     },
     {
       "name": "Super Radyo DZBB",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "A2Z",
@@ -499,28 +429,24 @@
     {
       "name": "Aksyon TV International",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.kapatidinternational.com/"
     },
     {
       "name": "Aliw Channel 23",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "All TV",
+      "name": "All",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://alltv.ph/"
     },
     {
-      "name": "Bee-TV 7 Butuan",
+      "name": "Bee TV 7 Butuan",
       "isFree": true
     },
     {
       "name": "BuKo",
       "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/Buko.png",
       "website": "https://cignal.tv/channels/223/buko"
     },
     {
@@ -532,105 +458,91 @@
       "isFree": true
     },
     {
-      "name": "DZBB-DT1",
+      "name": "DZBB DT",
       "isFree": true,
       "website": "http://www.gmanetwork.com/"
     },
     {
-      "name": "DZRJ-DTV1",
+      "name": "DZRJ DTV",
       "isFree": true,
       "website": "https://www.rjplanet.com/"
     },
     {
       "name": "ETC",
       "isFree": true,
-      "logo": "https://i.ibb.co/bMsTpQxX/image.png",
       "website": "https://etc.com.ph/"
     },
     {
-      "name": "GMA Life TV",
+      "name": "GMA Life",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/international",
       "priority": 9
     },
     {
-      "name": "GMA Pinoy TV",
+      "name": "GMA Pinoy",
       "isFree": true,
       "keywords": "gma pinoy tv -asia-pacific -middle east -usa & canada",
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/international",
       "priority": 9
     },
     {
-      "name": "GMA Pinoy TV Asia-Pacific",
+      "name": "GMA Pinoy TV Asia Pacific",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/international",
       "priority": 9
     },
     {
       "name": "GMA Pinoy TV Middle East",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/international",
       "priority": 9
     },
     {
       "name": "GMA Pinoy TV USA & Canada",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/international",
       "priority": 9
     },
     {
-      "name": "GMA TV",
+      "name": "GMA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/gmanews.png",
       "website": "http://www.gmanetwork.com/",
       "priority": 9
     },
     {
       "name": "Hallypop",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3ada8ed7717e04d44cf4d7fa95af3a03.png",
       "website": "https://www.gmanetwork.com/entertainment/tv/gma_hallypop/"
     },
     {
-      "name": "Heart of Asia Channel",
+      "name": "Heart of Asia",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.gmanetwork.com/entertainment/tv/heart_of_asia_channel"
     },
     {
       "name": "IBC 13",
       "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/IBC_13.png",
       "website": "https://ibctv.com.ph/"
     },
     {
-      "name": "Jeepney TV",
+      "name": "Jeepney",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://cablechannels.abs-cbn.com/jeepneytv"
     },
     {
-      "name": "Kapamilya Channel",
+      "name": "Kapamilya",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KAPAMILYA.png",
       "website": "https://ent.abs-cbn.com/articles-news/everything-you-need-to-know-about-kapamilya-channel-12340",
       "priority": 9
     },
     {
       "name": "Kapatid TV 5",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/kapatid.png",
       "website": "http://www.kapatidinternational.com/"
     },
     {
       "name": "Lifestyle Network",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
       "website": "http://lifestylenetwork.tv/"
     },
     {
@@ -639,15 +551,13 @@
       "website": "http://www.lifetimeasia.com/"
     },
     {
-      "name": "Metro Channel",
+      "name": "Metro",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/METROONE.png",
       "website": "https://metro.style/"
     },
     {
-      "name": "Mindanow Network TV",
+      "name": "Mindanow Network",
       "isFree": true,
-      "logo": "https://i.imgur.com/xBlYirh.jpeg",
       "website": "https://mindanownetwork.com/"
     },
     {
@@ -663,30 +573,25 @@
     {
       "name": "PBO",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PBO.png",
       "website": "https://pbo.com.ph/"
     },
     {
       "name": "PIE",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0WhmT3ZKZtZCHKb0eDj90lKc5C.jpg",
       "website": "https://pie.com.ph/"
     },
     {
       "name": "Pinoy Box Office Global",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/pin.png",
       "website": "https://pbo.com.ph/"
     },
     {
-      "name": "Pinoy Xtreme Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/pin.png"
+      "name": "Pinoy Xtreme",
+      "isFree": true
     },
     {
       "name": "PRTV Prime Media",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
+      "isFree": true
     },
     {
       "name": "PRTV Tacloban",
@@ -696,13 +601,11 @@
       "name": "PTV",
       "isFree": true,
       "keywords": "ptv -4",
-      "logo": "https://go4.pw/ASIA/PTV4.png",
       "website": "https://ptvnews.ph/"
     },
     {
-      "name": "Radyo Bandido TV",
+      "name": "Radyo Bandido",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://www.rjplanet.com/"
     },
     {
@@ -710,9 +613,8 @@
       "isFree": true
     },
     {
-      "name": "Sari Sari Channel",
+      "name": "Sari Sari",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://viva.com.ph/media/paytvs/domestic"
     },
     {
@@ -722,35 +624,31 @@
     {
       "name": "Solar Learning",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg",
       "website": "https://solarlearning.ph/"
     },
     {
-      "name": "Tagalized Movie Channel",
+      "name": "Tagalized Movie",
       "isFree": true,
       "website": "http://www.viva.com.ph/"
     },
     {
-      "name": "TAP TV",
+      "name": "TAP",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
       "website": "http://tapdmv.com/TapTV.html"
     },
     {
       "name": "TeleRadyo",
       "isFree": true,
       "keywords": "teleradyo -global",
-      "logo": "https://go4.pw/PHILIPINES/trs.png",
       "website": "http://news.abs-cbn.com/dzmm/"
     },
     {
       "name": "TeleRadyo Global",
       "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/trs.png",
       "website": "http://news.abs-cbn.com/dzmm/"
     },
     {
-      "name": "TV5",
+      "name": "TV 5",
       "isFree": true,
       "website": "https://www.tv5.com.ph/",
       "priority": 9
@@ -758,91 +656,67 @@
     {
       "name": "TV Maria",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvmaria.ph/"
     },
     {
       "name": "UNTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.untvweb.com/"
-    },
-    {
-      "name": "Net 25",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-      "website": "https://www.net25.com/"
     }
   ],
   "Music Videos": [
     {
-      "name": "96.3 Easy Rock",
+      "name": "Dreamstar",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezx8LhhpZd6U4sd0lXyCEUhIBUc.jpg",
-      "website": "https://www.easyrock.com.ph/"
-    },
-    {
-      "name": "Dreamstar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://dreamstartv.com/"
     },
     {
       "name": "Myx",
       "isFree": true,
       "keywords": "myx -middle east",
-      "logo": "https://go4.pw/PHILIPINES/MYX.png",
       "website": "https://myx.global/"
     },
     {
       "name": "Myx Middle East",
       "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/MYX.png",
       "website": "https://myx.global/"
     },
     {
       "name": "Pinoy Hits",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/pin.png",
       "website": "https://www.gmanetwork.com/entertainment/tv/pinoy_hits/"
     },
     {
-      "name": "Rock of Manila TV",
+      "name": "Rock of Manila",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.rjplanet.com/"
     }
   ],
   "Sports": [
     {
-      "name": "ABS-CBN Sports+Action Global",
+      "name": "ABS CBN Sports+Action Global",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "https://sports.abs-cbn.com/SportsAndAction",
       "priority": 9
     },
     {
       "name": "Blast Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44RHvg7HdXK9zLzqdNjSPjls9lT.jpg",
       "website": "https://app.blasttv.ph/"
     },
     {
       "name": "Horse Racing",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYrcvHLJPhvCQyinyE4pB07Gkjj.jpg",
       "website": "https://cignal.tv/channels/157/horse-racing"
     },
     {
       "name": "Liga",
       "isFree": true,
-      "logo": "https://go4.pw/UK/supersport.png",
       "website": "http://sports.abs-cbn.com/"
     },
     {
       "name": "NBA TV Philippines",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://cignal.tv/channels/190/nba-tv-philippines"
     },
     {
@@ -858,20 +732,17 @@
     {
       "name": "PBA Rush",
       "isFree": true,
-      "logo": "https://go4.pw/PHILIPINES/PBA_Rush.png",
       "website": "https://cignal.tv/channels/145/pba-rush"
     },
     {
       "name": "Premier Football",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "http://tapdmv.com/PremierFootball.html"
     },
     {
       "name": "Premier Sports",
       "isFree": true,
       "keywords": "premier sports -2",
-      "logo": "https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png",
       "website": "http://www.tapdmv.com/PremierSports/index.html"
     },
     {
@@ -882,31 +753,26 @@
     {
       "name": "Premier Tennis",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "http://tapdmv.com/PremierTennis.html"
     },
     {
       "name": "Solar Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg",
       "website": "http://solarsports.com.ph/"
     },
     {
       "name": "TAP Edge",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
       "website": "http://tapdmv.com/tap-edge.html"
     },
     {
       "name": "TAP Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
       "website": "http://tapdmv.com/tap-sports.html"
     },
     {
-      "name": "UAAP Varsity Channel",
+      "name": "UAAP Varsity",
       "isFree": true,
-      "logo": "https://static.wikia.nocookie.net/russel/images/1/10/Varsity_Channel_Logo_2021.png/revision/latest/scale-to-width-down/250?cb=20220319212403",
       "website": "https://cignal.tv/channels/232/uaap-varsity-channel"
     }
   ],
@@ -926,7 +792,6 @@
     {
       "name": "Celestial Classic Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/fra.png",
       "website": "https://www.cmclassic.tv/index.php?location/PH"
     },
     {
@@ -941,8 +806,7 @@
     },
     {
       "name": "Cine Mo!",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": true
     },
     {
       "name": "Fox Life",
@@ -952,51 +816,44 @@
     {
       "name": "I Heart Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg",
       "website": "https://www.gmanetwork.com/entertainment/tv/i_heart_movies/"
     },
     {
       "name": "K Movies Pinoy",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg"
+      "isFree": true
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "https://www.paramountnetwork.com/"
     },
     {
       "name": "TAP Action Flix",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
       "website": "http://www.tapdmv.com/TapActionFlix/index.html"
     },
     {
       "name": "TAP Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
       "website": "http://www.tapdmv.com/TapMovies/index.html"
     },
     {
-      "name": "TeleNovela Channel",
+      "name": "TeleNovela",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/285fecf724fa119d99b05d94eabac41c.png",
       "website": "http://telenovelachannel.com/"
     },
     {
-      "name": "Universal Channel",
+      "name": "Universal",
       "isFree": true,
       "website": "http://www.universalchannel.asia/"
     },
     {
       "name": "Viva Cinema",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
       "website": "http://www.viva.com.ph/"
     },
     {
-      "name": "Warner TV",
+      "name": "Warner",
       "isFree": true,
       "website": "http://www.warnertvasia.com/"
     }
@@ -1005,19 +862,16 @@
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "http://www.historyasia.com/"
     },
     {
-      "name": "Knowledge Channel",
+      "name": "Knowledge",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/PHILIPPINES.png",
       "website": "https://www.knowledgechannel.org/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com/asia",
       "priority": 10
     },

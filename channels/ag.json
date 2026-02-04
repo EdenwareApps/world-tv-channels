@@ -1,19 +1,16 @@
 {
   "Entertainment": [
     {
-      "name": "ABS TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/abscbn.png"
+      "name": "ABS",
+      "isFree": true
     },
     {
       "name": "GIS",
-      "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_GIS Dominica.png"
+      "isFree": true
     },
     {
-      "name": "Pointe TV",
+      "name": "Pointe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://pointville.ag/"
     }
   ],

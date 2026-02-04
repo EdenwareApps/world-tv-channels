@@ -1,32 +1,27 @@
 {
   "Sports": [
     {
-      "name": "Bahrain Sports 1",
-      "isFree": false,
-      "logo": "https://i.imgur.com/fBpLsbC.png"
+      "name": "Bahrain Sports",
+      "isFree": false
     },
     {
       "name": "Bahrain Sports 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/ZkuZmIo.png",
       "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
     }
   ],
   "Entertainment": [
     {
       "name": "Bahrain Lawal",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/BAHRAIN/BAHRAIN.png"
+      "isFree": true
     },
     {
-      "name": "Bahrain TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "name": "Bahrain",
+      "isFree": true
     },
     {
       "name": "Bahrain International",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
     }
   ],
@@ -34,7 +29,6 @@
     {
       "name": "Bahrain Quran",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
     }
   ]

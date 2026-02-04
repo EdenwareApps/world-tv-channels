@@ -1,9 +1,8 @@
 {
   "Entertainment": [
     {
-      "name": "ABC TV",
+      "name": "ABC",
       "isFree": true,
-      "logo": "https://i.imgur.com/nVmIeTD.png",
       "priority": 9
     },
     {
@@ -12,207 +11,173 @@
     },
     {
       "name": "GEN",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg"
-    },
-    {
-      "name": "LIM TV",
       "isFree": true
     },
     {
-      "name": "Más TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg"
+      "name": "LIM",
+      "isFree": true
+    },
+    {
+      "name": "Más",
+      "isFree": true
     },
     {
       "name": "Trece Paraguay",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/ELTRECE.png"
+      "isFree": true
     },
     {
       "name": "Unicanal",
-      "isFree": true,
-      "logo": "https://i.imgur.com/brlepuX.png"
+      "isFree": true
     },
     {
-      "name": "ABC-TV Paraguay",
+      "name": "ABC TV Paraguay",
       "isFree": true,
-      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZRXOEqET6M7FZmTDS4cZ_MXET0voS8wMndWiIQs8Q=s900-c-k-c0x00ffffff-no-rj",
       "website": "https://www.abc.com.py/tv/"
     },
     {
-      "name": "Almaya TV",
+      "name": "Almaya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://almaya.com.py/"
     },
     {
-      "name": "Alt Media TV",
+      "name": "Alt Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEMBnX4rBgwkdabofS4Y9hqIje.jpg",
       "website": "https://alt.com.py/"
     },
     {
-      "name": "Alto Parana TV",
+      "name": "Alto Parana",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
       "website": "https://www.altoparana.com.py/tv"
     },
     {
       "name": "America Paraguay",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.americatv.com.ar/"
     },
     {
       "name": "Artigas TV Online",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/Canal77.png"
+      "isFree": true
     },
     {
-      "name": "Bruno Masi TV",
+      "name": "Bruno Masi",
       "isFree": true,
-      "logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
       "website": "http://www.brunomasi.tv/"
     },
     {
-      "name": "Caaguazu TV",
+      "name": "Caaguazu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://paraguayonline.net/caaguazuradiodigital/"
     },
     {
-      "name": "Cambyreta TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Cambyreta",
+      "isFree": true
     },
     {
       "name": "Campo 9 Online",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH560u9BeIfr4rMFsZsYYHBTTLn.jpg"
+      "isFree": true
     },
     {
       "name": "Canal 11 Damoa TV Regional",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "priority": 4
     },
     {
-      "name": "Canal 11 Yvy Pyta TV",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "name": "Canal 11 Yvy Pyta",
+      "isFree": true
     },
     {
       "name": "Canal 15 San Joaquin",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 16 de Fernando de la Mora",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 CCV",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Teve",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 40 TV Concepcion",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.tvconcepcion.com/"
     },
     {
       "name": "Canal 4 Iturbe",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 TVCSA",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://tvcsa.com.py/"
     },
     {
       "name": "Canal 5 TV Max",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://tvmaxsa.com.py/"
     },
     {
       "name": "Canal 8 C&C Producciones",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Canal 8 Vision TV",
+      "name": "Canal 8 Vision",
       "isFree": true,
       "website": "https://www.visioncomunicaciones.com.py/"
     },
     {
-      "name": "Canal de Salvacion TV",
+      "name": "Canal de Salvacion",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canaldesalvacion.org/"
     },
     {
-      "name": "Caritas TV",
+      "name": "Caritas",
       "isFree": true,
-      "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
       "website": "https://www.caritas.com.py/"
     },
     {
       "name": "CBC Canal 8",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
-    },
-    {
-      "name": "Cosmos TV",
       "isFree": true
     },
     {
-      "name": "Del Rey TV",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "Cosmos",
+      "isFree": true
     },
     {
-      "name": "Emprende TV",
+      "name": "Del Rey",
+      "isFree": true
+    },
+    {
+      "name": "Emprende",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.emprendetvonline.com/"
     },
     {
       "name": "Estacion Cristal",
       "isFree": true,
-      "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=512x512:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png",
       "website": "https://www.organizacioncristal.com/"
     },
     {
-      "name": "GO TV",
+      "name": "GO",
       "isFree": true,
       "website": "https://goradio.com.py/gotv/"
     },
     {
-      "name": "Integracion TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Integracion",
+      "isFree": true
     },
     {
-      "name": "Invasiva TV",
+      "name": "Invasiva",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://invasivamedia.com"
     },
     {
       "name": "Katuete FM",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.katuetefm.com.py/"
     },
     {
@@ -221,36 +186,30 @@
       "website": "https://latele.com.py/"
     },
     {
-      "name": "Limpio Digital TV",
+      "name": "Limpio Digital",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
       "website": "https://limpiodigital.com.py/"
     },
     {
-      "name": "Luque Puroite Radio TV",
+      "name": "Luque Puroite Radio",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://luquepuroite.com/"
     },
     {
-      "name": "Max Plus TV",
-      "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png"
+      "name": "Max Plus",
+      "isFree": true
     },
     {
-      "name": "Mbocayaty TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mbocayaty",
+      "isFree": true
     },
     {
       "name": "Mil Ideas TV Canal 10",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg"
+      "isFree": true
     },
     {
       "name": "Mision TV Digital",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm7vCE7CNyjQpRu8SLGjRl5FMMF.jpg",
       "website": "https://emisorasdelparaguay.com/misiontvhd/"
     },
     {
@@ -259,163 +218,137 @@
       "website": "https://www.cadenadelsuritapua.com/mi-tv-en-vivo/"
     },
     {
-      "name": "Monumental TV",
+      "name": "Monumental",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0OfNAgYtogZagFfpKTryDpk05I.jpg",
       "website": "https://www.monumental.com.py/tv"
     },
     {
       "name": "Motor Sur Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z91mVJEv9XkryYGZ41OMlrB04BW.jpg",
       "website": "https://iptv.com.py/motorsur/"
     },
     {
-      "name": "Natalicio TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "NN Vision TV",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
-    },
-    {
-      "name": "Oasis TV",
+      "name": "Natalicio",
       "isFree": true
     },
     {
-      "name": "Occidental TV",
+      "name": "NN Vision",
+      "isFree": true
+    },
+    {
+      "name": "Oasis",
+      "isFree": true
+    },
+    {
+      "name": "Occidental",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.occidentaltv.com.py/"
     },
     {
-      "name": "Oviedo TV",
+      "name": "Oviedo",
       "isFree": true,
-      "logo": "https://go4.pw/58.png",
       "website": "https://www.oviedotv.com.py/"
     },
     {
-      "name": "Panambi Digital TV",
+      "name": "Panambi Digital",
       "isFree": true,
       "website": "http://panambidigital.com/"
     },
     {
-      "name": "Paraguari TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Paraguari",
+      "isFree": true
     },
     {
-      "name": "Paraguay TV",
+      "name": "Paraguay",
       "isFree": true,
       "website": "https://www.paraguaytv.gov.py/",
       "priority": 9
     },
     {
       "name": "Parana Medios",
-      "isFree": true,
-      "logo": "https://i.imgur.com/OP1rFwr.png"
+      "isFree": true
     },
     {
-      "name": "Parana TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/OP1rFwr.png"
+      "name": "Parana",
+      "isFree": true
     },
     {
       "name": "Paravision",
       "isFree": true,
-      "logo": "https://i.ibb.co/C9dzSnL/paravision.png",
       "website": "http://www.paravision.com.py/"
     },
     {
-      "name": "Popu TV",
+      "name": "Popu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.gen.com.py/"
     },
     {
-      "name": "Productiva TV",
+      "name": "Productiva",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://productiva.tv/"
     },
     {
-      "name": "Radio Caazapa Poty 98.1 FM",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Radio Caazapa Poty 98",
+      "isFree": true
     },
     {
       "name": "Radio Coop Online",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
-      "name": "Radio Guaira TV",
+      "name": "Radio Guaira",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://www.radioguaira.com/radio-guaira-tv/"
     },
     {
-      "name": "Radio San Roque FM 87.5",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Radio San Roque FM 87",
+      "isFree": true
     },
     {
       "name": "Red Digital",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+      "isFree": true
     },
     {
-      "name": "Red Informativa TV",
+      "name": "Red Informativa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
       "website": "https://www.redinformativa.com.py/"
     },
     {
-      "name": "Red Interior TV",
+      "name": "Red Interior",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
       "website": "https://redinteriortv.com/"
     },
     {
       "name": "Regional TV Yaguaron",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "priority": 4
     },
     {
-      "name": "Republica TV",
+      "name": "Republica",
       "isFree": true,
-      "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
       "website": "https://www.republicafmtv.com.py/"
     },
     {
       "name": "RTV 12",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://iptv.com.py/rtv/"
     },
     {
       "name": "RTV del Sur",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
-      "name": "Salto TV",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/Canal 4 Salto.png"
+      "name": "Salto",
+      "isFree": true
     },
     {
-      "name": "Satelital TV",
+      "name": "Satelital",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/Claro ARGENTINISIMA SATELITAL.png",
       "website": "https://radiosatelitaltv.com.py/"
     },
     {
-      "name": "Senado TV",
+      "name": "Senado",
       "isFree": true,
-      "logo": "https://i.imgur.com/duy6waL.png",
       "website": "http://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo"
     },
     {
@@ -427,18 +360,15 @@
     {
       "name": "Somos del Este",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/rakutentv.png",
       "website": "https://somosdeleste.com.py/"
     },
     {
       "name": "SP TV Online",
-      "isFree": true,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
+      "isFree": true
     },
     {
       "name": "SUR TV Itapua",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obEV37TU1Q7BcYRtvLZmCklwv2D.jpg"
+      "isFree": true
     },
     {
       "name": "TeleCanal 50",
@@ -448,12 +378,11 @@
     {
       "name": "Telefuturo",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png",
       "website": "https://telefuturo.com.py/",
       "priority": 10
     },
     {
-      "name": "TelePortal Canal 53.1",
+      "name": "TelePortal Canal 53",
       "isFree": true,
       "website": "https://teleportalcanal53.blogspot.com/"
     },
@@ -465,62 +394,51 @@
       "name": "Trece",
       "isFree": true,
       "keywords": "trece -paraguay",
-      "logo": "https://i.imgur.com/HhrJ7a9.png",
       "website": "http://www.trece.com.py/"
     },
     {
       "name": "TV 7 Caaguazu",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Aire",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://iptv.com.py/tvaire/"
     },
     {
       "name": "TV Camara",
       "isFree": true,
-      "logo": "http://i.imgur.com/vY8jL1a.png",
       "website": "http://tv.diputados.gov.py/"
     },
     {
       "name": "TV Canal 20 Digital",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Canindeyu",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Frontera Multicanal",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Lambare",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TVS Encarnacion",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/TVS.png",
       "website": "https://tvs.com.py/"
     },
     {
-      "name": "Union TV",
+      "name": "Union",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg",
       "website": "https://uniontv.com.py/"
     },
     {
-      "name": "UniRadio TV",
+      "name": "UniRadio",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.uniradiopy.com/"
     },
     {
@@ -529,26 +447,22 @@
       "website": "https://www.venus.com.py/"
     },
     {
-      "name": "Villa Elisa Radio TV",
+      "name": "Villa Elisa Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg",
       "website": "https://villaelisaradiotv.com.py/"
     },
     {
       "name": "Personal Sports",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmIUa34wtB28eMUtve6mYkYjPAu.jpg"
+      "isFree": null
     },
     {
       "name": "Tigo SAT Network",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
+      "isFree": null
     },
     {
       "name": "Tigo",
       "isFree": null,
-      "keywords": "tigo -cinema & series ppv -max (teledeportes paraguay s.a) -movies -music -sat network -sports -sports+",
-      "logo": "https://go4.pw/USA/tego.png"
+      "keywords": "tigo -cinema & series ppv -max (teledeportes paraguay s.a) -movies -music -sat network -sports -sports+"
     },
     {
       "name": "One Sports",
@@ -560,18 +474,15 @@
     },
     {
       "name": "Tigo Movies",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
+      "isFree": null
     },
     {
       "name": "Tigo Cinema & Series PPV",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
+      "isFree": null
     },
     {
       "name": "Tigo Music",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
+      "isFree": null
     },
     {
       "name": "RPC",
@@ -579,100 +490,71 @@
     },
     {
       "name": "TV Pública Paraguay",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Tigo Max (Teledeportes Paraguay S.A)",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
-    },
-    {
-      "name": "Gen",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg",
-      "website": "https://www.gen.com.py/"
-    },
-    {
-      "name": "SNT]]",
-      "isFree": null,
-      "priority": 9
-    },
-    {
-      "name": "RPC]]",
       "isFree": null
     },
     {
-      "name": "TV Pública Paraguay]]",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tigo Max (Teledeportes Paraguay S",
+      "isFree": null
     },
     {
-      "name": "Tigo Max]] (Teledeportes Paraguay S.A)",
-      "isFree": null,
-      "logo": "https://go4.pw/USA/tego.png"
+      "name": "RPC",
+      "isFree": null
+    },
+    {
+      "name": "Tigo Max",
+      "isFree": null
     }
   ],
   "Radios": [
     {
       "name": "Radio Universo",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ],
   "News": [
     {
-      "name": "4Dmas Noticias TV",
+      "name": "4Dmas Noticias",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/VIX.png",
       "website": "https://4dmasnoticias.com.py/"
     },
     {
-      "name": "5Dias TV",
+      "name": "5Dias",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.5dias.com.py/videos"
     },
     {
       "name": "A24 Paraguay",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/CHILE/A24.png",
       "website": "https://www.a24.com.py/"
     },
     {
       "name": "C9N",
       "isFree": true,
-      "logo": "https://i.imgur.com/Cp4zJ7O.png",
       "website": "https://www.c9n.com.py/"
     },
     {
       "name": "Canal Pro",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalpro.com.py/"
     },
     {
-      "name": "Causa Comun TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8LZvYn1.jpg"
+      "name": "Causa Comun",
+      "isFree": true
     },
     {
-      "name": "El Observador TV",
+      "name": "El Observador",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.observador.com.py/"
     },
     {
-      "name": "Mas TV",
+      "name": "Mas",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg",
       "website": "https://www.mastv.tv/"
     },
     {
-      "name": "Mega TV",
+      "name": "Mega",
       "isFree": true,
-      "logo": "http://i.imgur.com/saCbNDR.png",
       "website": "https://megacadena.com.py/mega-tv/"
     },
     {
@@ -681,61 +563,53 @@
       "website": "https://nanduti.com.py/nanduti-tv/"
     },
     {
-      "name": "Nemby Noticias HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yVDBOsZ.jpg"
+      "name": "Nemby Noticias",
+      "isFree": true
     },
     {
       "name": "NPY",
       "isFree": true,
-      "logo": "https://i.ibb.co/zHf8F2r/npy.png",
       "website": "https://npy.com.py/en-vivo/"
     },
     {
-      "name": "Oviedo Press TV",
+      "name": "Oviedo Press",
       "isFree": true,
       "website": "https://oviedopress.com/"
     },
     {
-      "name": "PDS Radio-TV Digital",
+      "name": "PDS Radio TV Digital",
       "isFree": true,
-      "logo": "https://i.imgur.com/GXSZOiI.png",
       "website": "https://pdsdigital.com.py/"
     },
     {
-      "name": "RCN TV",
+      "name": "RCN",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/Rcn.png",
       "website": "https://www.rcn.com.py/tv/"
     },
     {
-      "name": "RCSC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "RCSC",
+      "isFree": true
     },
     {
-      "name": "Suceso TV",
+      "name": "Suceso",
       "isFree": true,
       "website": "https://radiosuceso.com/sucesotv/"
     },
     {
-      "name": "UCL TV",
+      "name": "UCL",
       "isFree": true,
-      "logo": "https://i.imgur.com/BzQphbw.png",
       "website": "http://www.ucltelevision.com/vivo/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Alcance FM PLAY TV",
+      "name": "Alcance FM PLAY",
       "isFree": true,
-      "logo": "https://i.imgur.com/5nYjRlb.png",
       "website": "https://www.alcance.com.py/"
     },
     {
-      "name": "Dismar Radio TV",
+      "name": "Dismar Radio",
       "isFree": true,
-      "logo": "https://i.imgur.com/KOuxdMD.png",
       "website": "http://radiodismar.tv/"
     },
     {
@@ -744,131 +618,106 @@
       "website": "https://digitalmediapy.com/"
     },
     {
-      "name": "E40",
+      "name": "FM Frutillar",
       "isFree": true,
-      "website": "https://estacion40.com.py/"
-    },
-    {
-      "name": "FM Frutillar TV",
-      "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "http://www.fmfrutillar.com/"
     },
     {
       "name": "HEi Now",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
       "website": "https://www.heinow.com.py/"
     },
     {
       "name": "Los Angeles TV Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyxh9Wr9iYXsn1kJs77IoACNL2d.jpg",
       "website": "https://losangelestvradio.com/"
     },
     {
-      "name": "Nande Portetepe TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nande Portetepe",
+      "isFree": true
     },
     {
-      "name": "Palma TV",
+      "name": "Palma",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/PALMAPLUS.png",
       "website": "https://www.palma.com.py/"
     },
     {
-      "name": "Radio Aregua TV",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Radio Aregua",
+      "isFree": true
     },
     {
-      "name": "Radio Ciudad 98.9 FM TV",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Radio Ciudad 98",
+      "isFree": true
     },
     {
-      "name": "Radio Colmenar 92.5 FM",
+      "name": "Radio Colmenar 92",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radiocolmenar.com.py/"
     },
     {
-      "name": "Radio Concierto 89.1 FM",
+      "name": "Radio Concierto 89",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radioconcierto.com.py/"
     },
     {
-      "name": "Radio Pykasu TV",
+      "name": "Radio Pykasu",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://telnet.com.py/"
     },
     {
-      "name": "Radio San Cristobal 88.7 FM",
+      "name": "Radio San Cristobal 88",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://sancristobalfm887.com/"
     },
     {
       "name": "RQP Paraguay",
       "isFree": true,
-      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZRXOEqET6M7FZmTDS4cZ_MXET0voS8wMndWiIQs8Q=s900-c-k-c0x00ffffff-no-rj",
       "website": "https://www.rqp.com.py/"
     },
     {
-      "name": "Tropicalia 93.9 FM",
+      "name": "Tropicalia 93",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.tropicalia.com.py/"
     },
     {
-      "name": "Urbano Radio TV 96.5",
+      "name": "Urbano Radio TV 96",
       "isFree": true,
       "website": "https://radiourbanofm965.wixsite.com/urbano"
     },
     {
-      "name": "Yaguaron Radio TV",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Yaguaron Radio",
+      "isFree": true
     }
   ],
   "Sports": [
     {
-      "name": "Conmebol TV 1",
+      "name": "Conmebol TV",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.conmebol.com/"
     },
     {
       "name": "Conmebol TV 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.conmebol.com/"
     },
     {
       "name": "Conmebol TV 3",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.conmebol.com/"
     },
     {
       "name": "Conmebol TV 4",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.conmebol.com/"
     },
     {
       "name": "Tigo Sports",
       "isFree": true,
-      "logo": "https://go4.pw/USA/tego.png",
       "website": "http://www.tigosports.com.py/"
     },
     {
       "name": "Tigo Sports+",
       "isFree": true,
-      "logo": "https://go4.pw/USA/tego.png",
       "website": "http://www.tigosports.com.py/"
     }
   ],
@@ -879,47 +728,40 @@
       "website": "https://iptv.com.py/educanal/"
     },
     {
-      "name": "Nihon Gakko TV",
-      "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png"
+      "name": "Nihon Gakko",
+      "isFree": true
     },
     {
-      "name": "UPE TV",
+      "name": "UPE",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://upe.edu.py/noticias_upe_tv.php"
     }
   ],
   "Religious": [
     {
-      "name": "Fe TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png"
+      "name": "Fe",
+      "isFree": true
     },
     {
-      "name": "Nandejara Ne'e TV",
+      "name": "Nandejara Ne'e",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://nandejaranee.org/"
     },
     {
-      "name": "Obedira TV",
+      "name": "Obedira",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.obedira.com.py/page/obediratv/"
     },
     {
-      "name": "RCC TV",
+      "name": "RCC",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/RCC_Media.png",
       "website": "https://rcc.com.py/tv-envivo/"
     }
   ],
   "Movies & Series": [
     {
-      "name": "Next HD",
+      "name": "Next",
       "isFree": true,
-      "logo": "https://i.imgur.com/c2rF3SS.png",
       "website": "https://nexthdpy.blogspot.com/"
     }
   ]

@@ -2,74 +2,63 @@
   "News": [
     {
       "name": "Golfe TV Africa",
-      "isFree": true,
-      "logo": "http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png"
+      "isFree": true
     },
     {
-      "name": "Benin Web TV",
+      "name": "Benin Web",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BENIN/BENIN.png",
       "website": "https://beninwebtv.com/",
       "priority": 4
     },
     {
-      "name": "First Afrique TV",
+      "name": "First Afrique",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
       "website": "https://firstafriquetv.bj/"
     },
     {
       "name": "Golfe TV Benin",
       "isFree": true,
-      "logo": "http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",
       "website": "https://golfegroupe.com/golfe-tv-benin/"
     },
     {
-      "name": "HC2 TV",
+      "name": "HC 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://hc2tv.bj/"
     },
     {
-      "name": "ICONE TV",
+      "name": "ICONE",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://iconetv.bj/"
     },
     {
-      "name": "Investir TV",
+      "name": "Investir",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.investir-tv.bj/"
     },
     {
-      "name": "ISN24 TV",
+      "name": "ISN 24",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.isn24.bj/"
     },
     {
-      "name": "La Voix du Routier TV",
+      "name": "La Voix du Routier",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://lavoixduroutiertv.bj/"
     },
     {
-      "name": "Le Beninois Libere TV",
+      "name": "Le Beninois Libere",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
       "website": "https://lebeninoislibere.bj/"
     },
     {
-      "name": "Le Nouveau Manager TV",
+      "name": "Le Nouveau Manager",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSAjzamTUzm6wuP36aYRma0d5jZ.jpg",
       "website": "https://lenouveaumanager.info/"
     }
   ],
   "Entertainment": [
     {
-      "name": "BB24",
+      "name": "BB 24",
       "isFree": true
     },
     {
@@ -77,45 +66,38 @@
       "isFree": true
     },
     {
-      "name": "Bluediamond TV",
+      "name": "Bluediamond",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bluediamondtv.com/"
     },
     {
-      "name": "Canal 2 Star TV",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "name": "Canal 2 Star",
+      "isFree": true
     },
     {
       "name": "Canal 3 Benin",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal3television.com/"
     },
     {
       "name": "CNTV Benin",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2b339e006ac0f6800f90540070055662.png",
       "website": "https://lecanarddunord.bj/"
     },
     {
-      "name": "Daabaaru TV",
+      "name": "Daabaaru",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://daabaaru.bj/dtv/"
     },
     {
-      "name": "Decryptage Web TV",
+      "name": "Decryptage Web",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
       "website": "https://decryptage.bj/live.html",
       "priority": 4
     },
     {
-      "name": "Eden TV",
+      "name": "Eden",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
       "website": "http://benin-eden.tv/"
     },
     {
@@ -124,26 +106,22 @@
       "website": "https://etelebenin.com/"
     },
     {
-      "name": "FONDAKIZ TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "FONDAKIZ",
+      "isFree": true
     },
     {
       "name": "Guerite TV Monde",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gueritetvmonde.bj/"
     },
     {
       "name": "HMD 4",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://hmd4.tv/"
     },
     {
-      "name": "Imanle Africa TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "name": "Imanle Africa",
+      "isFree": true
     },
     {
       "name": "KassouaTV",
@@ -151,68 +129,57 @@
       "website": "http://kassouatv.great-site.net/"
     },
     {
-      "name": "Kdaara TV",
+      "name": "Kdaara",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kdaaratv.bj/"
     },
     {
       "name": "KINGO TV World",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kingonews.com/"
     },
     {
-      "name": "La Beninoise TV",
-      "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "name": "La Beninoise",
+      "isFree": true
     },
     {
-      "name": "Matin Libre TV",
+      "name": "Matin Libre",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
       "website": "https://matinlibretv.bj/"
     },
     {
-      "name": "MORID TV",
+      "name": "MORID",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://morid-prod.bj/"
     },
     {
-      "name": "Nord Benin TV",
+      "name": "Nord Benin",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uia7D1mvKikB6I2XRATaBvtyoYn.jpg",
       "website": "https://nordbenin.bj/"
     },
     {
-      "name": "ODD TV",
+      "name": "ODD",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDzd4pknJLcnQUHZgwlG8L13ZBi.jpg",
       "website": "https://oddtv.live/"
     },
     {
-      "name": "ORTB TV",
+      "name": "ORTB",
       "isFree": true,
-      "logo": "https://i.imgur.com/o6zAR88.png",
       "website": "https://srtb.bj/benintv/"
     },
     {
-      "name": "Planete Terre a Terre TV",
+      "name": "Planete Terre a Terre",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KZKv9GCdUc3kzRWTwv9KXVkFYW.jpg",
       "website": "https://planeteterreaterretv.bj/"
     },
     {
-      "name": "Soleil Levant TV",
+      "name": "Soleil Levant",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OS5vtGJNwHW9YbStHQQx8W9yNu.jpg",
       "website": "https://groupesoleillevant.bj/"
     },
     {
-      "name": "Speedline TV",
+      "name": "Speedline",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://speedlinetv.bj/"
     },
     {
@@ -221,145 +188,121 @@
       "website": "https://radiohemicycle.com/television/"
     },
     {
-      "name": "Top Media Benin TV",
+      "name": "Top Media Benin",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.topmediabenin.com/"
     },
     {
       "name": "TVC Benin",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/deportes.png",
       "website": "https://www.tvcbenin.com/"
     },
     {
-      "name": "Unafrica TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Unafrica",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "Kultu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kultu",
+      "isFree": true
     }
   ],
   "Kids": [
     {
-      "name": "ADO TV",
+      "name": "ADO",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvltGP6vYOkHdURag0jPSjhPUAV.jpg",
       "website": "https://srtb.bj/directbenintvjuniors/"
     }
   ],
   "Religious": [
     {
-      "name": "Alleluia World TV",
-      "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png"
+      "name": "Alleluia World",
+      "isFree": true
     },
     {
-      "name": "Eclat Divin TV",
+      "name": "Eclat Divin",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79LtH49CG9TPYfReCZnQFRQSEGI.jpg",
       "website": "https://eeadbenin.org/"
     },
     {
       "name": "Hope TV Benin",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "http://www.hopetvbenin.org/"
     },
     {
-      "name": "Jesus-Revient TV",
+      "name": "Jesus-Revient",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://jesusrevient.tv/"
     },
     {
-      "name": "Jesus Savior TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg"
+      "name": "Jesus Savior",
+      "isFree": true
     },
     {
-      "name": "La Chretienne TV",
-      "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "name": "La Chretienne",
+      "isFree": true
     },
     {
-      "name": "Lumen Christi TV",
+      "name": "Lumen Christi",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png",
       "website": "https://lumenchristitv.com/"
     },
     {
-      "name": "Maitre Sam TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkoTGFiqrNjnypWbe4DwbtoqVoR.jpg"
+      "name": "Maitre Sam",
+      "isFree": true
     },
     {
-      "name": "Manifold TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Manifold",
+      "isFree": true
     },
     {
-      "name": "MEC TV",
+      "name": "MEC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.elitepourchrist.org/"
     },
     {
-      "name": "Medegbe TV",
+      "name": "Medegbe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.olaoluwamedegbetv.com/"
     },
     {
-      "name": "Mirhe TV",
+      "name": "Mirhe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://tv.mirhe.org/"
     },
     {
-      "name": "Misericorde TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Misericorde",
+      "isFree": true
     },
     {
-      "name": "Porte TV",
-      "isFree": true,
-      "logo": "http://www.absoluteanal.com/images/logo.png"
+      "name": "Porte",
+      "isFree": true
     },
     {
-      "name": "Power TV",
+      "name": "Power",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.charlespasso.org/"
     },
     {
       "name": "Tele Evangelique",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://tele-evangilque.com/"
     },
     {
-      "name": "URHC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "URHC",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
       "name": "A+ Benin",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BENIN/BENIN.png",
       "website": "https://www.canalplus-afrique.com/bj/offres-tv/aplus-benin"
     },
     {
       "name": "Benin TV Alafia",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BENIN/BENIN.png",
       "website": "https://srtb.bj/"
     },
     {
@@ -370,42 +313,35 @@
     {
       "name": "ISMA Studio Ecole",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
       "website": "https://ismastudio.bj/"
     },
     {
-      "name": "Nationale TV",
+      "name": "Nationale",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/ASSEMBLENATIONAL.png",
       "website": "https://www.nationale-tv.bj/"
     },
     {
       "name": "NEK4 Culture",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/AFRICA TV CULTURE.png"
+      "isFree": true
     },
     {
-      "name": "Racines Africa TV",
+      "name": "Racines Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://ong-racines.org/"
     },
     {
-      "name": "Sodjo TV",
+      "name": "Sodjo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sodjotv.bj/"
     },
     {
-      "name": "TATA TV",
+      "name": "TATA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/TELEGU/TATASKYTELUGCINEMAHD.png",
       "website": "https://tatainfos.bj/"
     },
     {
-      "name": "Wadedji TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Wadedji",
+      "isFree": true
     }
   ]
 }

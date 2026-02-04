@@ -1,16 +1,14 @@
 {
   "Entertainment": [
     {
-      "name": "11 TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ce47dc69c3acb5068d87883e0860f557.png"
+      "name": "11",
+      "isFree": true
     },
     {
       "name": "1TV Persian",
       "isFree": true,
       "keywords": "1tv persian | 1tvpersian",
-      "shortName": "1TvPersian",
-      "logo": "https://go4.pw/ASIA/1tv.png"
+      "shortName": "1TvPersian"
     },
     {
       "name": "4 KURD",
@@ -18,89 +16,77 @@
     },
     {
       "name": "4 TURK BILLBOARD",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/567c0bac00377d133eddb06ff4f06699.png"
+      "isFree": true
     },
     {
       "name": "4 TURK MUSIC",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d1ffa970310b0034ebd95c416ae1cada.png"
+      "isFree": true
     },
     {
-      "name": "4U TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/4UTV.png"
+      "name": "4U",
+      "isFree": true
     },
     {
       "name": "ABADAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"
+      "isFree": true
     },
     {
       "name": "AFLAK",
       "isFree": true
     },
     {
-      "name": "AFN TV",
+      "name": "AFN",
       "isFree": true
     },
     {
       "name": "AFTAB",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png"
+      "isFree": true
     },
     {
       "name": "ALBORZ",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "AMOOZESH",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIBAMOOZESH.png"
+      "isFree": true
     },
     {
       "name": "AVA Family",
       "isFree": true
     },
     {
-      "name": "Al Kawthar TV",
+      "name": "Al Kawthar",
       "isFree": true
     },
     {
-      "name": "Al Zahra TV",
+      "name": "Al Zahra",
       "isFree": true
     },
     {
-      "name": "Ayeneh TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/F0AevIQ.png"
+      "name": "Ayeneh",
+      "isFree": true
     },
     {
       "name": "Azarbayjan Gharbi",
-      "isFree": true,
-      "shortName": "AG",
-      "logo": "https://go4.pw/IRAN/AZARBAYJAN.png"
+      "isFree": true
     },
     {
       "name": "Baran",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png"
+      "website": "https://sepehrtv.ir/live/baran"
     },
     {
-      "name": "Barya TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d62d87fa6dc9fb230888aff635801be8.png"
+      "name": "Barya",
+      "isFree": true
     },
     {
       "name": "Bushehr",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png"
+      "isFree": true
     },
     {
       "name": "Dena",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png"
+      "website": "http://yasouj.irib.ir/tv"
     },
     {
       "name": "ESFAHAN",
@@ -108,84 +94,67 @@
     },
     {
       "name": "ESHRAGH",
-      "isFree": true,
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU"
+      "isFree": true
     },
     {
-      "name": "Ecran TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+      "name": "Ecran",
+      "isFree": true
     },
     {
       "name": "FARS",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png"
+      "isFree": true
     },
     {
       "name": "GEM Nature",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ENvOMDQ.png"
+      "isFree": true
     },
     {
       "name": "GEM Property",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM River",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yJ6f1B6.png"
+      "isFree": true
     },
     {
       "name": "GOLESTAN",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/SABZ.png"
+      "isFree": true
     },
     {
       "name": "HAMEDAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/296px-IRIB_Hamadan_tv.svg.png"
+      "isFree": true
     },
     {
       "name": "HAMOON",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png"
+      "isFree": true
     },
     {
-      "name": "Hasti TV",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/HASTI MASTI TV.png"
+      "name": "Hasti",
+      "isFree": true
     },
     {
       "name": "Health Media",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D7qEdPHCKVHihtaJDAys2HAi0L.jpg"
+      "isFree": true
     },
     {
-      "name": "Helal TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6e94d4cb815e872df21bc3fd8c4e2fe3.png"
+      "name": "Helal",
+      "isFree": true
     },
     {
-      "name": "Hewad TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/AFGHANISTAN/SHAMSHAD.png"
+      "name": "Hewad",
+      "isFree": true
     },
     {
-      "name": "HodHod TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9e131776a981730743721b4804ae6672.png"
+      "name": "HodHod",
+      "isFree": true
     },
     {
       "name": "ILAM",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png"
+      "isFree": true
     },
     {
       "name": "INTV Simaye Azadi",
-      "isFree": true,
-      "shortName": "ISA",
-      "logo": "https://i.imgur.com/1nJl0Pv.png"
+      "isFree": true
     },
     {
       "name": "IRANKALA",
@@ -193,13 +162,11 @@
     },
     {
       "name": "IRINN",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8tzsC9h.png"
+      "isFree": true
     },
     {
-      "name": "ITC TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "ITC",
+      "isFree": true
     },
     {
       "name": "ITN",
@@ -207,28 +174,23 @@
     },
     {
       "name": "Iran Beauty",
-      "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/IRAN.png"
+      "isFree": true
     },
     {
       "name": "Irane Farda",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/71dda756ab31264d439e949795e49e6e.png"
+      "isFree": true
     },
     {
       "name": "JAHANBIN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png"
+      "isFree": true
     },
     {
       "name": "KERMAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/240px-Kerman_irib_logo_%28blue_version%29.png"
+      "isFree": true
     },
     {
       "name": "KERMANSHAH",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIBZAGROSTV.png"
+      "isFree": true
     },
     {
       "name": "KH.JONOOBI",
@@ -248,86 +210,71 @@
     },
     {
       "name": "KHOOZESTAN",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/KHOOZESTAN.png"
+      "isFree": true
     },
     {
       "name": "KISH",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/320px-Kish_tv.svg.png"
+      "isFree": true
     },
     {
       "name": "KORDESTAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png"
+      "isFree": true
     },
     {
       "name": "MAHABAD",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png"
+      "isFree": true
     },
     {
       "name": "MAZANDARAN",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/TABARESTAN.png"
+      "isFree": true
     },
     {
       "name": "MBC Persia",
-      "isFree": true,
-      "logo": "https://i.imgur.com/4FXiyjn.png"
+      "isFree": true
     },
     {
       "name": "MOSTANAD",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png"
+      "isFree": true
     },
     {
-      "name": "Maah TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f1d1735b4fb495cf593665121383aee8.png"
+      "name": "Maah",
+      "isFree": true
     },
     {
-      "name": "Manoto TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8wE1Lbp.png"
+      "name": "Manoto",
+      "isFree": true
     },
     {
       "name": "NAMAYESH",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "NASIM",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png"
+      "isFree": true
     },
     {
-      "name": "Negah TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NFsBd4D.png"
+      "name": "Negah",
+      "isFree": true
     },
     {
-      "name": "Nojoum TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bc6357a4aa9bae34ac3fddf06c43ecda.png"
+      "name": "Nojoum",
+      "isFree": true
     },
     {
       "name": "Noor",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/288px-Qum_Noor_TV.svg.png"
+      "website": "http://qom.irib.ir/tv"
     },
     {
       "name": "OFOGH",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/320px-Ofogh_TV_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "OMID",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/512px-IRIB_Omid.svg.png"
+      "isFree": true
     },
     {
-      "name": "OXIR TV",
+      "name": "OXIR",
       "isFree": true
     },
     {
@@ -335,60 +282,45 @@
       "isFree": true
     },
     {
-      "name": "PBC Tapesh TV",
-      "isFree": true,
-      "logo": "https://imgur.com/sxB1tnb.png"
+      "name": "PBC Tapesh",
+      "isFree": true
     },
     {
-      "name": "PERSIANA + HD",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/290cd6e576867e2b83aacc3ee7290a9d.png"
+      "name": "PERSIANA +",
+      "isFree": true
     },
     {
       "name": "PERSIANA BILLBOARD",
-      "isFree": true,
-      "shortName": "PB",
-      "logo": "https://images.iptvmate.net/tvglogo/05dfcf43fd36e976ba9316821c1bc7f2.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA CLASSIC",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c563e2ad90835137c675b9c588e7ec5b.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA COMEDY",
-      "isFree": true,
-      "logo": "https://i.imgur.com/DBZ3Pi5.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA DOCUMENTARY",
-      "isFree": true,
-      "shortName": "PD",
-      "logo": "https://images.iptvmate.net/tvglogo/a51c66a1863e2d56503aab99dbf580fd.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA ENTERTAINMENT",
-      "isFree": true,
-      "shortName": "PE",
-      "logo": "https://images.iptvmate.net/tvglogo/d6de9b6c692ebea4fa2ed74d5eb15cfa.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA FAMILY",
       "isFree": true,
-      "keywords": "persiana family -+",
-      "logo": "https://i.imgur.com/lMZsuWi.png"
+      "keywords": "persiana family -+"
     },
     {
       "name": "PERSIANA FAMILY +",
-      "isFree": true,
-      "shortName": "PF",
-      "logo": "https://images.iptvmate.net/tvglogo/b1633df6f4406fb52d98add09c51c6bf.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA GAME & TECH",
-      "isFree": true,
-      "shortName": "PGT",
-      "logo": "https://images.iptvmate.net/tvglogo/6c61b94517087df7099860c437273ba1.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA IRANIAN",
@@ -396,93 +328,78 @@
     },
     {
       "name": "PERSIANA JUNIOR",
-      "isFree": true,
-      "logo": "https://i.imgur.com/zeKHZYG.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA MUSIC",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SHxxi5I.png"
+      "isFree": true
     },
     {
       "name": "PERSIANA NOSTALGIA",
-      "isFree": true,
-      "shortName": "PN",
-      "logo": "https://i.imgur.com/SWO9CKA.png"
+      "isFree": true
     },
     {
-      "name": "POKER TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tArvcvj.png"
+      "name": "POKER",
+      "isFree": true
     },
     {
       "name": "POUYA",
       "isFree": true
     },
     {
-      "name": "Parnian TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bb519d8ea79941a4c4eb0b493ad655af.png"
-    },
-    {
-      "name": "Pars TV",
+      "name": "Parnian",
       "isFree": true
     },
     {
-      "name": "Payam Javan TV",
+      "name": "Pars",
+      "isFree": true
+    },
+    {
+      "name": "Payam Javan",
       "isFree": true
     },
     {
       "name": "QAZVIN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png"
+      "isFree": true
     },
     {
       "name": "QURAN",
-      "isFree": true,
-      "logo": "https://go4.pw/BAHRAIN/QURAN.png"
+      "isFree": true
     },
     {
-      "name": "Rangarang TV",
+      "name": "Rangarang",
       "isFree": true
     },
     {
       "name": "SABALAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png"
+      "isFree": true
     },
     {
       "name": "SAHAND",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png"
+      "isFree": true
     },
     {
       "name": "SAHAR KURDI",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png"
+      "isFree": true
     },
     {
       "name": "SALAMAT",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png"
+      "isFree": true
     },
     {
       "name": "SEMNAN",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png"
+      "isFree": true
     },
     {
       "name": "SEPEHR",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/258px-Sepehrtv.png"
+      "isFree": true
     },
     {
       "name": "SHOMA",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/SHOMA.png"
+      "isFree": true
     },
     {
-      "name": "SNN TV",
+      "name": "SNN",
       "isFree": true
     },
     {
@@ -491,262 +408,214 @@
     },
     {
       "name": "Sharo",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a8594d8db53ed77b1b60d4b9f24394a3.png"
+      "isFree": true
     },
     {
-      "name": "Solh TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/091d14fbdd552496bec7c24b8ba291fb.png"
+      "name": "Solh",
+      "isFree": true
     },
     {
       "name": "TAMASHA",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png"
-    },
-    {
-      "name": "TBN Nejat TV",
       "isFree": true
     },
     {
-      "name": "TV1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png"
-    },
-    {
-      "name": "TV2",
-      "isFree": true,
-      "logo": "https://i.imgur.com/VEb631f.png"
-    },
-    {
-      "name": "TV3",
+      "name": "TBN Nejat",
       "isFree": true
     },
     {
-      "name": "TV4",
+      "name": "TV",
       "isFree": true
     },
     {
-      "name": "TV5",
+      "name": "TV 2",
       "isFree": true
     },
     {
-      "name": "Tin TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/49d641a76a7e6018baf66466495f3720.png"
+      "name": "TV 3",
+      "isFree": true
+    },
+    {
+      "name": "TV 4",
+      "isFree": true
+    },
+    {
+      "name": "TV 5",
+      "isFree": true
+    },
+    {
+      "name": "Tin",
+      "isFree": true
     },
     {
       "name": "VARZESH",
       "isFree": true,
-      "keywords": "varzesh -tv farsi"
+      "keywords": "varzesh farsi"
     },
     {
       "name": "VARZESH TV FARSI",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d901525de363261c0a17c5f65b745579.png"
+      "isFree": true
     },
     {
-      "name": "VOX1",
+      "name": "VOX",
       "isFree": true,
       "keywords": "vox1 -tvg"
     },
     {
       "name": "VOX1 TVG",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/79bc1279daf1faf9da16b5c84b66c6e5.png"
+      "isFree": true
     },
     {
-      "name": "VOX2",
+      "name": "VOX 2",
       "isFree": true,
-      "keywords": "vox2 -tvg",
-      "logo": "https://images.iptvmate.net/tvglogo/fb2fbb4b387e1fb11e8e950a72841787.png"
+      "keywords": "vox2 -tvg"
     },
     {
       "name": "VOX2 TVG",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fb2fbb4b387e1fb11e8e950a72841787.png"
+      "isFree": true
     },
     {
       "name": "YAZD",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png"
+      "isFree": true
     },
     {
-      "name": "YourTime TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/X38vWJ1.png"
+      "name": "YourTime",
+      "isFree": true
     },
     {
       "name": "iFILM",
       "isFree": true,
-      "keywords": "ifilm -arabic -english -persian 2",
-      "logo": "https://go4.pw/IRAN/IFILM.png"
+      "keywords": "ifilm -arabic -english -persian 2"
     },
     {
-      "name": "247 Box TV",
+      "name": "247 Box",
       "isFree": true,
       "website": "https://247box.live/"
     },
     {
-      "name": "Abadan TV",
+      "name": "Abadan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/AbadanTV.png",
       "website": "http://abadan.irib.ir/tv"
     },
     {
-      "name": "Aflak TV",
+      "name": "Aflak",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/AFLAKTV.png",
       "website": "http://www.lorestan.irib.ir/tv"
     },
     {
-      "name": "Aftab TV",
+      "name": "Aftab",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/AFTAB.png",
       "website": "http://markazi.irib.ir/tv"
     },
     {
-      "name": "Alborz TV",
+      "name": "Alborz",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ALBORZTV.png",
       "website": "http://alborz.irib.ir/tv"
     },
     {
       "name": "Alwilayah TV Hausa",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Amouzesh TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png",
-      "website": "https://tv7.ir/"
-    },
-    {
-      "name": "Ara TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLyqzj1Xmw5bliHOjUgdFvk9XFQ.jpg",
-      "website": "https://www.aratv.ir/"
-    },
-    {
-      "name": "Arax TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/0QqcjgXX/araxtv.png"
-    },
-    {
-      "name": "Arko TV",
-      "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png"
-    },
-    {
-      "name": "Arvan TV",
       "isFree": true
     },
     {
-      "name": "Asil TV",
+      "name": "Amouzesh",
+      "isFree": true,
+      "website": "https://tv7.ir/"
+    },
+    {
+      "name": "Ara",
+      "isFree": true,
+      "website": "https://www.aratv.ir/"
+    },
+    {
+      "name": "Arax",
+      "isFree": true
+    },
+    {
+      "name": "Arko",
+      "isFree": true
+    },
+    {
+      "name": "Arvan",
+      "isFree": true
+    },
+    {
+      "name": "Asil",
       "isFree": true,
       "website": "http://webtv.islamasil.net/"
     },
     {
-      "name": "Atrak TV",
+      "name": "Atrak",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ATRAK.png",
       "website": "http://en.atrak-group.ir/"
     },
     {
-      "name": "Atrina TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/fLj50H6z/Atrina.png"
-    },
-    {
-      "name": "Azerbaijan TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/AZERBAIJAN/AZERBAIJAN.png",
-      "website": "http://urmia.irib.ir/tv"
-    },
-    {
-      "name": "Baran TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/BARANTV.png",
-      "website": "https://sepehrtv.ir/live/baran"
-    },
-    {
-      "name": "Boushehr TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/BoushehrTV.png",
-      "website": "http://boushehr.irib.ir/tv"
-    },
-    {
-      "name": "Datis TV",
+      "name": "Atrina",
       "isFree": true
     },
     {
-      "name": "Dena TV",
+      "name": "Azerbaijan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/DENA.png",
-      "website": "http://yasouj.irib.ir/tv"
+      "website": "http://urmia.irib.ir/tv"
+    },
+    {
+      "name": "Boushehr",
+      "isFree": true,
+      "website": "http://boushehr.irib.ir/tv"
+    },
+    {
+      "name": "Datis",
+      "isFree": true
     },
     {
       "name": "Energy",
-      "isFree": true,
-      "logo": "https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default"
+      "isFree": true
     },
     {
       "name": "Eshragh Network",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ZANJAN.png",
       "website": "https://telewebion.com/live/eshragh"
     },
     {
-      "name": "Fars TV",
+      "name": "Fars",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/FARS.png",
       "website": "http://fars.irib.ir/"
     },
     {
-      "name": "FX 1",
+      "name": "FX",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png",
       "website": "https://fxtv.wns.live/"
     },
     {
       "name": "FX 2",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/FX.png",
       "website": "https://fxtv2.wns.live/"
     },
     {
-      "name": "Golkhane Tv",
+      "name": "Golkhane",
       "isFree": true
     },
     {
-      "name": "Guilan TV",
+      "name": "Guilan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/BARANTV.png",
       "website": "http://guilan.irib.ir/tv"
     },
     {
-      "name": "Hamedan TV",
+      "name": "Hamedan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SINATV.png",
       "website": "http://hamedan.irib.ir/tv"
     },
     {
-      "name": "Hamoon TV",
+      "name": "Hamoon",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/HAMOONTV.png",
       "website": "http://zahedan.irib.ir/tv"
     },
     {
-      "name": "Ilam TV",
+      "name": "Ilam",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ILAMTV.png",
       "website": "http://ilam.irib.ir/tv"
     },
     {
-      "name": "Irane Aryaee TV",
+      "name": "Irane Aryaee",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/71dda756ab31264d439e949795e49e6e.png",
       "website": "https://www.ieatv.com/"
     },
     {
@@ -754,180 +623,148 @@
       "isFree": true
     },
     {
-      "name": "IRIB 1",
+      "name": "IRIB",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "website": "https://tv1.ir/",
       "priority": 9
     },
     {
       "name": "IRIB 2",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "priority": 9
     },
     {
       "name": "IRIB Iran Kala",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "website": "http://www.iktv.ir/",
       "priority": 9
     },
     {
       "name": "IRIB Mostanad",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "website": "https://www.doctv.ir/",
       "priority": 9
     },
     {
       "name": "IRIB UHD",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
       "website": "https://www.irib.ir/",
       "priority": 9
     },
     {
-      "name": "Irkala TV",
+      "name": "Irkala",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.iktv.ir/"
     },
     {
-      "name": "Isfahan TV",
+      "name": "Isfahan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ISFAHAN.png",
       "website": "http://isfahan.irib.ir/tv"
     },
     {
       "name": "ITV Life",
       "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png",
       "website": "https://www.iradios.ca/itv"
     },
     {
-      "name": "Jahanbin TV",
+      "name": "Jahanbin",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/JAHANBINTV.png",
       "website": "http://chb.irib.ir/tv"
     },
     {
-      "name": "Jame-Jam TV 1",
+      "name": "Jame-Jam TV",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.jjtvn.ir/"
     },
     {
       "name": "Jame-Jam TV 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.jjtvn.ir/"
     },
     {
       "name": "Jame-Jam TV 3",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.jjtvn.ir/"
     },
     {
-      "name": "Jam TV",
+      "name": "Jam",
       "isFree": true,
       "website": "https://telewebion.com/live/jam"
     },
     {
-      "name": "Jannatul Baqi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Jannatul Baqi",
+      "isFree": true
     },
     {
-      "name": "Karoon TV",
-      "isFree": true,
-      "logo": "https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default"
+      "name": "Karoon",
+      "isFree": true
     },
     {
-      "name": "Kerman TV",
+      "name": "Kerman",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/KERMAN.png",
       "website": "http://kerman.irib.ir/tv"
     },
     {
       "name": "Ketabnama",
-      "isFree": true,
-      "logo": "https://static.telewebion.com/channelsLogo/cd0ff86a-5976-402b-b953-96ede1f79caa/default"
+      "isFree": true
     },
     {
-      "name": "Khalij-e Fars TV",
+      "name": "Khalij-e Fars",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/FARS.png",
       "website": "http://khalijefars.irib.ir/tv"
     },
     {
-      "name": "Khavaran TV",
+      "name": "Khavaran",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/KHAVARAN.png",
       "website": "https://telewebion.com/live/khavaran"
     },
     {
-      "name": "Khorasan Razavi TV",
+      "name": "Khorasan Razavi",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/KHORASANRAZAVI.png",
       "website": "http://mashhad.irib.ir/tv"
     },
     {
-      "name": "Khozestan TV",
+      "name": "Khozestan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/KHOZESTANTV.png",
       "website": "http://ahwaz.irib.ir/tv"
     },
     {
-      "name": "Kish TV",
+      "name": "Kish",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/320px-Kish_tv.svg.png",
       "website": "https://sepehrtv.ir/live/kish"
     },
     {
-      "name": "Kordestan TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/KORDESTANTV.png"
+      "name": "Kordestan",
+      "isFree": true
     },
     {
       "name": "LabbaykTV",
       "isFree": true
     },
     {
-      "name": "Mahabad TV",
+      "name": "Mahabad",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/MAHABADTV.png",
       "website": "http://mahabad.irib.ir/tv"
     },
     {
       "name": "Maxx",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/GEMMAXX.png"
-    },
-    {
-      "name": "Namaquran TV",
       "isFree": true
     },
     {
-      "name": "Nama TV",
+      "name": "Namaquran",
       "isFree": true
     },
     {
-      "name": "Namayesh TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/NAMAYESHTV.png"
+      "name": "Nama",
+      "isFree": true
     },
     {
-      "name": "Noor TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/241fe04b36121fc3e2d1028fd006c836.png",
-      "website": "http://qom.irib.ir/tv"
+      "name": "Namayesh",
+      "isFree": true
     },
     {
-      "name": "Novin TV",
+      "name": "Novin",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://novin.live"
     },
     {
@@ -935,99 +772,85 @@
       "isFree": true
     },
     {
-      "name": "Prima TV",
+      "name": "Prima",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png",
       "website": "http://ecran-tv.com/"
     },
     {
-      "name": "Qazvin TV",
+      "name": "Qazvin",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png",
       "website": "http://qazvin.irib.ir/tv"
     },
     {
-      "name": "Razavi TV",
+      "name": "Razavi",
       "isFree": true
     },
     {
-      "name": "Roya TV",
+      "name": "Roya",
       "isFree": true
     },
     {
-      "name": "Sabalan TV",
+      "name": "Sabalan",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png",
       "website": "http://ardabil.irib.ir/tv"
     },
     {
-      "name": "Sabz TV",
+      "name": "Sabz",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SABZ.png",
       "website": "http://golestan.irib.ir/"
     },
     {
-      "name": "Sahand TV",
+      "name": "Sahand",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SAHANDTV.png",
       "website": "http://tabriz.irib.ir/tv"
     },
     {
       "name": "Sahar Azeri",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png",
       "website": "https://azeri.sahartv.ir/"
     },
     {
       "name": "Sahar Balkan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png",
       "website": "https://balkan.sahartv.ir/"
     },
     {
       "name": "Sahar Urdu",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png",
       "website": "https://urdu.sahartv.ir/"
     },
     {
-      "name": "Salamat TV",
+      "name": "Salamat",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SALAMAT.png",
       "website": "https://salamattv.ir/"
     },
     {
-      "name": "Sarbedaran TV",
+      "name": "Sarbedaran",
       "isFree": true
     },
     {
-      "name": "Semnan TV",
+      "name": "Semnan",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png",
       "website": "http://semnan.irib.ir/tv"
     },
     {
-      "name": "Sepehr TV",
+      "name": "Sepehr",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SEPHER.png",
       "website": "https://sepehr.irib.ir/"
     },
     {
-      "name": "Shoma TV",
+      "name": "Shoma",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/SHOMA.png",
       "website": "http://shomatv.ir/"
     },
     {
-      "name": "Tabarestan TV",
+      "name": "Tabarestan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/TABARESTAN.png",
       "website": "http://mazandaran.irib.ir/"
     },
     {
-      "name": "Tehran TV",
+      "name": "Tehran",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png",
       "website": "https://tv5.ir/"
     },
     {
@@ -1035,11 +858,11 @@
       "isFree": true
     },
     {
-      "name": "Tekyesokhanrani TV",
+      "name": "Tekyesokhanrani",
       "isFree": true
     },
     {
-      "name": "TVA 1",
+      "name": "TVA",
       "isFree": true
     },
     {
@@ -1060,93 +883,78 @@
     },
     {
       "name": "TVA Nava",
-      "isFree": true,
-      "logo": "https://i.imgur.com/JRxrsrw.png"
+      "isFree": true
     },
     {
       "name": "TV ITN",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvitn.com/"
     },
     {
-      "name": "Valiasr-aj TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Velayat TV",
+      "name": "Valiasr-aj",
       "isFree": true
     },
     {
-      "name": "West Azerbaijan TV",
+      "name": "Velayat",
       "isFree": true
     },
     {
-      "name": "Yazd TV",
+      "name": "West Azerbaijan",
+      "isFree": true
+    },
+    {
+      "name": "Yazd",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/TABANTV.png",
       "website": "http://yazd.irib.ir/"
     },
     {
-      "name": "Zagros TV",
+      "name": "Zagros",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6a0323e39a7017604f15534119ce6b23.png",
       "website": "http://kermanshah.irib.ir/tv"
     },
     {
-      "name": "Zanjan TV",
+      "name": "Zanjan",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/ZANJAN.png",
       "website": "http://zanjan.irib.ir/tv"
     },
     {
       "name": "Nasim",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png",
       "website": "https://tvnasim.ir/"
     },
     {
       "name": "Sahar Kurdi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png",
       "website": "https://kurdish.sahartv.ir/"
     }
   ],
   "News": [
     {
       "name": "Al Alam",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
       "name": "BBC Persian",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "priority": 10
     },
     {
-      "name": "Channel 1",
-      "isFree": true,
-      "logo": "https://iwf1.com/scrapekod/icons/plugin.video.mflive.png"
+      "name": "Channel",
+      "isFree": true
     },
     {
-      "name": "Hispan TV",
+      "name": "Hispan",
       "isFree": true,
       "keywords": "hispan tv | hispantv",
-      "shortName": "HispanTV",
-      "logo": "https://i.postimg.cc/MGpNNGs0/hispantv.png"
+      "shortName": "HispanTV"
     },
     {
       "name": "Iran International",
-      "isFree": true,
-      "shortName": "II",
-      "logo": "https://images.iptvmate.net/tvglogo/cd4484ae6a59239af932d5a1e87ab698.png"
+      "isFree": true
     },
     {
-      "name": "Mihan TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/XEMsM7w.png"
+      "name": "Mihan",
+      "isFree": true
     },
     {
       "name": "Press TV English",
@@ -1154,13 +962,11 @@
     },
     {
       "name": "VoA Persian",
-      "isFree": true,
-      "logo": "https://i.imgur.com/TmqComb.png"
+      "isFree": true
     },
     {
-      "name": "Cafe Trade TV",
+      "name": "Cafe Trade",
       "isFree": true,
-      "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
       "website": "https://cafetrade.tv/"
     },
     {
@@ -1170,8 +976,7 @@
     },
     {
       "name": "IRINN 2",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/irinn.png.png"
+      "isFree": true
     },
     {
       "name": "IRNA 24",
@@ -1179,16 +984,14 @@
       "website": "https://www.irna.ir/"
     },
     {
-      "name": "Press TV",
+      "name": "Press",
       "isFree": true,
       "keywords": "press tv -english -french",
-      "logo": "https://i.imgur.com/X3YP2Gg.png",
       "website": "https://www.presstv.ir/"
     },
     {
       "name": "Press TV French",
       "isFree": true,
-      "logo": "https://i.imgur.com/X3YP2Gg.png",
       "website": "https://french.presstv.ir/"
     }
   ],
@@ -1198,101 +1001,87 @@
       "isFree": true
     },
     {
-      "name": "BeitolAbbas TV",
+      "name": "BeitolAbbas",
       "isFree": true
     },
     {
-      "name": "Icnet TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318085634898989_41.png"
+      "name": "Icnet",
+      "isFree": true
     },
     {
-      "name": "Imam Hussein TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/IMAM.png"
+      "name": "Imam Hussein",
+      "isFree": true
     },
     {
-      "name": "Kalemeh TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/cfdf1fb43637c0676ddf3e5631cc4994.png"
+      "name": "Kalemeh",
+      "isFree": true
     },
     {
       "name": "Marjaeyat",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/MARJAEYATTV.png"
+      "isFree": true
     },
     {
-      "name": "Mohabat TV",
+      "name": "Mohabat",
       "isFree": true
     },
     {
       "name": "Nour",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/Al Nahar.png"
+      "isFree": true
     },
     {
-      "name": "Payvand TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/o2Ww77N.png"
+      "name": "Payvand",
+      "isFree": true
     },
     {
       "name": "SAT-7 PARS",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/PARSTV.png"
+      "isFree": true
     },
     {
-      "name": "Salam TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/LIBYAN/LIBYASALAMTV.png"
+      "name": "Salam",
+      "isFree": true
     },
     {
-      "name": "Abalfadhl TV",
+      "name": "Abalfadhl",
       "isFree": true,
       "website": "https://abalfadhl.tv/"
     },
     {
-      "name": "Al-Ahvaz TV",
+      "name": "Al-Ahvaz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.al-ahvaz.ir/"
     },
     {
-      "name": "Al-Kawthar TV",
+      "name": "Al-Kawthar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.alkawthartv.ir/"
     },
     {
-      "name": "Assirat TV",
+      "name": "Assirat",
       "isFree": true,
       "website": "https://www.assirat.net/"
     },
     {
-      "name": "Habib TV",
+      "name": "Habib",
       "isFree": true,
       "website": "https://telewebion.com/live/habib"
     },
     {
-      "name": "Iran Jewish TV",
+      "name": "Iran Jewish",
       "isFree": true,
-      "logo": "https://i.ibb.co/JWXs7csN/en.png",
       "website": "http://iran620.com/"
     },
     {
-      "name": "Quran TV",
+      "name": "Quran",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095254463635_91.png",
       "website": "https://qurantv.ir/"
     },
     {
       "name": "RasoulallahTv",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Jh5ADee.png"
+      "isFree": true
     },
     {
       "name": "towheedtv",
-      "isFree": true,
-      "logo": "https://i.imgur.com/63MqyOt.png"
+      "isFree": true
     },
     {
       "name": "WiseHumanTv",
@@ -1302,21 +1091,18 @@
   "Sports": [
     {
       "name": "GEM Fit",
-      "isFree": false,
-      "logo": "https://i.imgur.com/7FQxaII.png"
+      "isFree": false
     },
     {
       "name": "Persiana Varzesh",
-      "isFree": false,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png"
+      "isFree": false
     },
     {
-      "name": "Poker TV",
-      "isFree": false,
-      "logo": "https://i.imgur.com/tArvcvj.png"
+      "name": "Poker",
+      "isFree": false
     },
     {
-      "name": "Aio Sport 1",
+      "name": "Aio Sport",
       "isFree": true,
       "website": "https://www.aionet.ir"
     },
@@ -1328,7 +1114,6 @@
     {
       "name": "IRIB 3",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "website": "https://tv3.ir/",
       "priority": 9
     },
@@ -1355,64 +1140,54 @@
       "isFree": true
     },
     {
-      "name": "Varzesh TV",
+      "name": "Varzesh",
       "isFree": true,
       "keywords": "varzesh tv -farsi",
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png",
       "website": "https://varzeshtv.ir/"
     },
     {
       "name": "Varzesh TV Farsi",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d901525de363261c0a17c5f65b745579.png"
+      "isFree": true
     }
   ],
   "Cooking": [
     {
       "name": "GEM Food",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SMtSinK.png"
+      "isFree": true
     }
   ],
   "Shop": [
     {
       "name": "Persian Bazar",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a3303779959e76de8ef858546257b01b.png"
+      "isFree": true
     },
     {
-      "name": "Persian TV1",
+      "name": "Persian TV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppReRGszmdZC2194keN4cGoLIPQ.jpg",
       "website": "https://persiantv1.com/"
     }
   ],
   "Kids": [
     {
       "name": "Persiana Junior",
-      "isFree": true,
-      "logo": "https://i.imgur.com/zeKHZYG.png"
+      "isFree": true
     },
     {
       "name": "Toonix",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/TOONIX.png"
+      "isFree": true
     },
     {
-      "name": "HodHod Arabic TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/HODHOD.png"
+      "name": "HodHod Arabic",
+      "isFree": true
     },
     {
-      "name": "HodHod Farsi TV",
+      "name": "HodHod Farsi",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/HODHOD.png",
       "website": "https://hodhodfarsi.ir/"
     },
     {
       "name": "IRIB Omid",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/10/16/large/20211016152151748445_89.png",
       "website": "http://www.omidtv.ir/",
       "priority": 9
     },
@@ -1426,22 +1201,19 @@
       "website": "https://web.splus.ir/"
     },
     {
-      "name": "Nahal TV",
+      "name": "Nahal",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/POOYA.png",
       "website": "http://www.nahaltv.ir/"
     },
     {
-      "name": "Pooya TV",
+      "name": "Pooya",
       "isFree": true,
       "keywords": "pooya tv -plus",
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
       "website": "http://www.pooyatv.ir/"
     },
     {
       "name": "Pooya TV Plus",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png"
+      "isFree": true
     },
     {
       "name": "TVA Kids",
@@ -1454,14 +1226,12 @@
       "isFree": false
     },
     {
-      "name": "Faraz TV",
-      "isFree": false,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Faraz",
+      "isFree": false
     },
     {
       "name": "GEM Academy",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": false
     },
     {
       "name": "GEM Comedy",
@@ -1469,65 +1239,52 @@
     },
     {
       "name": "GEM Drama",
-      "isFree": false,
-      "logo": "https://i.imgur.com/k2pGyRH.png"
+      "isFree": false
     },
     {
       "name": "GEM Onyx",
-      "isFree": false,
-      "logo": "https://i.imgur.com/gXRIAw4.png"
+      "isFree": false
     },
     {
       "name": "GEM Series",
-      "isFree": false,
-      "logo": "https://i.imgur.com/M0WMDXm.png"
+      "isFree": false
     },
     {
-      "name": "GEM Tv",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "name": "GEM",
+      "isFree": false
     },
     {
-      "name": "Khatereh TV",
-      "isFree": false,
-      "logo": "https://go4.pw/IRAN/KHATEREH.png"
+      "name": "Khatereh",
+      "isFree": false
     },
     {
       "name": "PERSIANA CINEMA",
-      "isFree": false,
-      "logo": "https://i.imgur.com/hgIro9r.png"
+      "isFree": false
     },
     {
       "name": "Parsiland",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/9e788bab0ee16587497bede8fa35d309.png"
+      "isFree": false
     },
     {
       "name": "Persian Film",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppReRGszmdZC2194keN4cGoLIPQ.jpg"
+      "isFree": false
     },
     {
       "name": "Persiana Classic",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/c563e2ad90835137c675b9c588e7ec5b.png"
+      "isFree": false
     },
     {
       "name": "Persiana Comedy",
-      "isFree": false,
-      "logo": "https://i.imgur.com/DBZ3Pi5.png"
+      "isFree": false
     },
     {
       "name": "Persiana Family",
       "isFree": false,
-      "keywords": "persiana family -plus",
-      "logo": "https://i.imgur.com/lMZsuWi.png"
+      "keywords": "persiana family -plus"
     },
     {
       "name": "Persiana Family Plus",
-      "isFree": false,
-      "shortName": "PFP",
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png"
+      "isFree": false
     },
     {
       "name": "Persiana Iranian",
@@ -1535,32 +1292,27 @@
     },
     {
       "name": "Persiana Korea",
-      "isFree": false,
-      "logo": "https://i.imgur.com/si2ZnIA.png"
+      "isFree": false
     },
     {
       "name": "Persiana Plus",
-      "isFree": false,
-      "logo": "https://i.imgur.com/0xttibX.png"
+      "isFree": false
     },
     {
-      "name": "SL 1",
-      "isFree": false,
-      "logo": "https://i.imgur.com/n9cuM2W.jpg"
+      "name": "SL",
+      "isFree": false
     },
     {
       "name": "SL 2",
       "isFree": false
     },
     {
-      "name": "Sepanj TV",
-      "isFree": false,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sepanj",
+      "isFree": false
     },
     {
       "name": "Tapesh 2 Movies",
-      "isFree": false,
-      "logo": "https://go4.pw/IRAN/TAPESHTV.png"
+      "isFree": false
     },
     {
       "name": "TehranTV 24",
@@ -1568,30 +1320,26 @@
     },
     {
       "name": "iFILM Arabic",
-      "isFree": false,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+      "isFree": false
     },
     {
       "name": "iFILM English",
-      "isFree": false,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+      "isFree": false
     },
     {
       "name": "iFILM Persian 2",
-      "isFree": false,
-      "logo": "https://go4.pw/IRAN/IFILM.png"
+      "isFree": false
     },
     {
       "name": "Afra Film",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/vZWdM86g/afra-film.jpg"
+      "isFree": true
     },
     {
       "name": "Afra Series",
       "isFree": true
     },
     {
-      "name": "Bravo Farsi TV",
+      "name": "Bravo Farsi",
       "isFree": true
     },
     {
@@ -1600,11 +1348,10 @@
     },
     {
       "name": "Cine Film",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/becine.png"
+      "isFree": true
     },
     {
-      "name": "Classic TV",
+      "name": "Classic",
       "isFree": true
     },
     {
@@ -1613,8 +1360,7 @@
     },
     {
       "name": "Gold Star",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/KvsfL3sM/goldstar.jpg"
+      "isFree": true
     },
     {
       "name": "HomePlus",
@@ -1623,19 +1369,16 @@
     {
       "name": "iFilm 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
       "website": "https://fa2.ifilmtv.ir/"
     },
     {
       "name": "iFilm Persian",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
       "website": "http://www.ifilmtv.ir/"
     },
     {
-      "name": "Javanan TV",
+      "name": "Javanan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://javanan.com/"
     },
     {
@@ -1644,9 +1387,8 @@
       "website": "https://web.splus.ir/"
     },
     {
-      "name": "Meta Film TV",
+      "name": "Meta Film",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
       "website": "https://metafilm.wns.live/"
     },
     {
@@ -1656,7 +1398,6 @@
     {
       "name": "PLTV",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/PL_TV.png",
       "website": "https://www.parsilandtv.com/"
     },
     {
@@ -1665,8 +1406,7 @@
     },
     {
       "name": "Tamasha",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png"
+      "isFree": true
     },
     {
       "name": "TVA Film",
@@ -1675,137 +1415,110 @@
     {
       "name": "iFilm Arabic",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
       "website": "http://www.ifilmtv.ir/"
     },
     {
       "name": "iFilm English",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
       "website": "http://www.ifilmtv.ir/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Avang TV",
+      "name": "Avang",
       "isFree": true
     },
     {
-      "name": "Caltex TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/CALTEXMUSIC.png"
+      "name": "Caltex",
+      "isFree": true
     },
     {
-      "name": "Diyar TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/qWkHjRA.png"
+      "name": "Diyar",
+      "isFree": true
     },
     {
-      "name": "EBC1 TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5c59585614f85f962f64f6a8ea9ca178.png"
+      "name": "EBC",
+      "isFree": true
     },
     {
       "name": "GEM 24b",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM AZ",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Arabia",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Latino",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/GEMONYX.png"
+      "isFree": true
     },
     {
       "name": "GEM Mifa",
-      "isFree": true,
-      "logo": "https://i.imgur.com/qlI7o7V.png"
+      "isFree": true
     },
     {
       "name": "High Vision",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKagJQQTViFNFNarcVp8xOSXIbh.jpg"
+      "isFree": true
     },
     {
       "name": "NAVAHANG",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/NAVAHANG HD.png"
+      "isFree": true
     },
     {
       "name": "PMC",
       "isFree": true,
-      "keywords": "pmc -royale",
-      "logo": "https://i.imgur.com/AbrHI7K.png"
+      "keywords": "pmc -royale"
     },
     {
       "name": "PMC Royale",
-      "isFree": true,
-      "logo": "https://i.imgur.com/kuYMKgG.png"
+      "isFree": true
     },
     {
       "name": "Persiana Billboard",
-      "isFree": true,
-      "shortName": "PB",
-      "logo": "https://images.iptvmate.net/tvglogo/05dfcf43fd36e976ba9316821c1bc7f2.png"
+      "isFree": true
     },
     {
       "name": "Persiana Music",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SHxxi5I.png"
+      "isFree": true
     },
     {
       "name": "Persiana Nostalgia",
-      "isFree": true,
-      "shortName": "PN",
-      "logo": "https://i.imgur.com/SWO9CKA.png"
+      "isFree": true
     },
     {
       "name": "Persiana Sonati",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/PERSIANASPORTS.png"
+      "isFree": true
     },
     {
-      "name": "T2 TV",
+      "name": "T 2",
       "isFree": true
     },
     {
       "name": "ITV Persian Music",
       "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png",
       "website": "https://www.iradios.ca/itv"
     }
   ],
   "Education & Culture": [
     {
       "name": "GEM Modern Economy",
-      "isFree": true,
-      "shortName": "GME",
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "Persiana Documentary",
-      "isFree": true,
-      "shortName": "PD",
-      "logo": "https://images.iptvmate.net/tvglogo/a51c66a1863e2d56503aab99dbf580fd.png"
+      "isFree": true
     },
     {
-      "name": "Doc TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSgRqBmHFDP71AVIJLtVcfrLd1F.jpg"
+      "name": "Doc",
+      "isFree": true
     },
     {
-      "name": "EPlanet TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/1RBJmjGM/EPlanet-TV.png"
+      "name": "EPlanet",
+      "isFree": true
     },
     {
       "name": "HausaTV",
@@ -1815,19 +1528,16 @@
     {
       "name": "IRIB 4",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IRIB.png",
       "website": "https://tv4.ir/",
       "priority": 9
     },
     {
-      "name": "Ofogh TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAN/OFOGH.png"
+      "name": "Ofogh",
+      "isFree": true
     },
     {
       "name": "Sahar Afghanistan",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Sahar-Kurdish.png",
       "website": "https://af.sahartv.ir/livehttps://af.sahartv.ir/live"
     }
   ],
@@ -1845,13 +1555,11 @@
     {
       "name": "Radio Javan",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1ae4ff74382963bee335f31b979b1a26.png",
       "priority": 4
     },
     {
       "name": "Radio Yar",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ]

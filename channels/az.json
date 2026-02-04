@@ -2,36 +2,29 @@
   "News": [
     {
       "name": "ARB 24",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
-      "name": "Azerbaijan News TV",
-      "isFree": true,
-      "shortName": "ANT",
-      "logo": "https://go4.pw/ASIA/AZERBAIJAN/AZERBAIJAN.png"
+      "name": "Azerbaijan News",
+      "isFree": true
     },
     {
       "name": "CBC",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png"
+      "isFree": true
     },
     {
-      "name": "AnewZ TV",
+      "name": "AnewZ",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://anewz.tv/"
     },
     {
-      "name": "APA Tv",
+      "name": "APA",
       "isFree": true,
-      "logo": "https://i.imgur.com/2CSW4V4.png",
       "website": "https://apa.tv/"
     },
     {
-      "name": "Aznews TV",
+      "name": "Aznews",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.aznews.tv/canli/"
     },
     {
@@ -40,70 +33,60 @@
       "website": "https://baku.tv/"
     },
     {
-      "name": "Kapaz TV",
+      "name": "Kapaz",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
       "website": "https://www.azernews.az/tags/43134/"
     },
     {
-      "name": "Media Turk TV",
+      "name": "Media Turk",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://mediaturk.tv/"
     },
     {
-      "name": "Reaksiya TV",
+      "name": "Reaksiya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://reaksiyatv.az/"
     },
     {
-      "name": "Toplum TV",
+      "name": "Toplum",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://toplummedia.tv/"
     },
     {
-      "name": "Vision TV",
+      "name": "Vision",
       "isFree": true,
       "website": "https://visiontv.az/"
     },
     {
       "name": "Xezer Xeber",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/XEZER.png",
       "website": "https://www.xezerxeber.az/"
     }
   ],
   "Kids": [
     {
       "name": "ARB Günəş",
-      "isFree": true,
-      "logo": "https://go4.pw/Cartoon_Network_Arabic.png"
+      "isFree": true
     },
     {
       "name": "ARB Gunes",
       "isFree": true,
-      "logo": "https://i.imgur.com/dSg7KUK.png",
       "website": "https://www.arbgunesh.az/"
     }
   ],
   "Sports": [
     {
-      "name": "İdman TV",
-      "isFree": false,
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/IDMAN.png"
+      "name": "İdman",
+      "isFree": false
     },
     {
       "name": "CBC Sport",
       "isFree": true,
-      "logo": "https://i.postimg.cc/cCw5NG7c/cbcsport.png",
       "website": "http://www.cbcsport.tv/"
     },
     {
-      "name": "Idman TV",
+      "name": "Idman",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/IDMAN.png",
       "website": "http://www.idmantv.az/"
     }
   ],
@@ -111,85 +94,70 @@
     {
       "name": "ARB",
       "isFree": true,
-      "keywords": "arb -24 -gunəs",
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "arb -24 -gunəs"
     },
     {
-      "name": "Alvin Channel TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRiB9uvcD0WYp7k2pAeWz9ukpuN.jpg"
-    },
-    {
-      "name": "Az Star TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/di3XX5L.png"
-    },
-    {
-      "name": "Az TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/Vkbmrxkj/aztv.png"
-    },
-    {
-      "name": "Azad TV",
-      "isFree": true,
-      "keywords": "azad tv --2 --4",
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/ATV.png"
-    },
-    {
-      "name": "Azad TV -2",
-      "isFree": true,
-      "keywords": "azad tv -2",
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/ATV.png"
-    },
-    {
-      "name": "Azad TV -4",
-      "isFree": true,
-      "keywords": "azad tv -4",
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/ATV.png"
-    },
-    {
-      "name": "EL TV",
+      "name": "Alvin Channel",
       "isFree": true
     },
     {
-      "name": "Kəpəz TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Az Star",
+      "isFree": true
     },
     {
-      "name": "Muğan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Az",
+      "isFree": true
     },
     {
-      "name": "Naxçıvan TV",
+      "name": "Azad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "keywords": "azad tv --2 --4"
     },
     {
-      "name": "Qafqaz TV",
+      "name": "Azad TV - 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "azad tv -2"
     },
     {
-      "name": "Qəbələ TV",
+      "name": "Azad TV - 4",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "keywords": "azad tv -4"
     },
     {
-      "name": "Space TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ufvVQJH.png"
+      "name": "EL",
+      "isFree": true
     },
     {
-      "name": "Xəzər TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kəpəz",
+      "isFree": true
     },
     {
-      "name": "İctimai TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/HzY4VMo.png"
+      "name": "Muğan",
+      "isFree": true
+    },
+    {
+      "name": "Naxçıvan",
+      "isFree": true
+    },
+    {
+      "name": "Qafqaz",
+      "isFree": true
+    },
+    {
+      "name": "Qəbələ",
+      "isFree": true
+    },
+    {
+      "name": "Space",
+      "isFree": true
+    },
+    {
+      "name": "Xəzər",
+      "isFree": true
+    },
+    {
+      "name": "İctimai",
+      "isFree": true
     },
     {
       "name": "İnterAz",
@@ -198,111 +166,89 @@
     {
       "name": "Agro TV Azerbaijan",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/TV-AGRO.png",
       "website": "https://www.agrotvazerbaijan.az/"
     },
     {
-      "name": "Dunya TV",
+      "name": "Dunya",
       "isFree": true,
-      "logo": "https://i.postimg.cc/25h8qVxd/dunyatv.png",
       "website": "https://dunyatv.az/"
     },
     {
-      "name": "Ictimai TV",
+      "name": "Ictimai",
       "isFree": true,
-      "logo": "https://i.imgur.com/HzY4VMo.png",
       "website": "https://itv.az/"
     },
     {
-      "name": "Mugan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mugan",
+      "isFree": true
     },
     {
-      "name": "Naxcivan TV",
+      "name": "Naxcivan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ntv.az/"
     },
     {
-      "name": "Qebele TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Qebele",
+      "isFree": true
     },
     {
-      "name": "Real TV",
+      "name": "Real",
       "isFree": true,
-      "logo": "https://i.imgur.com/e2KFL0R.png",
       "website": "https://www.realtv.az/"
     },
     {
-      "name": "Sehiyye TV",
+      "name": "Sehiyye",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sehiyyetv.az/"
     },
     {
-      "name": "Ses TV",
+      "name": "Ses",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/969Vdfd7i7mJ5wSTGKUvdxT8oqT.jpg",
       "website": "https://tv.sia.az/"
     },
     {
-      "name": "Show Plus TV",
+      "name": "Show Plus",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://showplus.az/"
     },
     {
-      "name": "Start TV",
+      "name": "Start",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
       "website": "https://kanal-s.az/"
     },
     {
-      "name": "Xezer TV",
+      "name": "Xezer",
       "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "FTV",
-      "isFree": false,
-      "logo": "https://i.imgur.com/YOr1Oac.png"
+      "isFree": false
     }
   ],
   "Education & Culture": [
     {
-      "name": "Mədəniyyət TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mədəniyyət",
+      "isFree": true
     },
     {
-      "name": "Medeniyyet TV",
+      "name": "Medeniyyet",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/AZERBAIJAN/medeniyyet-az.png",
       "website": "http://www.medeniyyettv.az/"
     }
   ],
   "Religious": [
     {
-      "name": "114 TV",
+      "name": "Qlobal",
       "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
-      "website": "https://www.qafqazislam.com/index.php?lang=en&sectionid=9"
-    },
-    {
-      "name": "Qlobal TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://qlobal.tv/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Muz TV",
+      "name": "Muz",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "http://www.muz-tv.az/"
     }
   ]

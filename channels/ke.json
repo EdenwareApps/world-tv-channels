@@ -3,508 +3,410 @@
     {
       "name": "KTN News",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "priority": 9
     },
     {
       "name": "CGTN Africa",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cgtn.png",
       "website": "https://africa.cgtn.com/"
     },
     {
-      "name": "Lolwe TV",
+      "name": "Lolwe",
       "isFree": true,
-      "logo": "https://i.imgur.com/tjZ1cOP.png",
       "website": "https://www.lolwe.tv/"
     },
     {
-      "name": "Metropol TV",
+      "name": "Metropol",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/metropol.png",
       "website": "https://metropoltv.co.ke/"
     },
     {
-      "name": "Mt Kenya TV",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "name": "Mt Kenya",
+      "isFree": true
     },
     {
-      "name": "Shahidi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Shahidi",
+      "isFree": true
     },
     {
-      "name": "SHAMMAH TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "SHAMMAH",
+      "isFree": null
     },
     {
       "name": "Africa 24",
-      "isFree": null,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821104534160761_51.png"
+      "isFree": null
     },
     {
-      "name": "K24 TV",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/K24.png",
-      "priority": 9
-    },
-    {
-      "name": "LOOK UP TV (Kenya)",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+      "name": "LOOK UP",
+      "isFree": null
     },
     {
       "name": "Kenya Broadcasting Corporation",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/KENYA/KENYA.png"
+      "isFree": null
     },
     {
       "name": "Kenya Television Network",
-      "isFree": null,
-      "logo": "https://go4.pw/AFRICA/KENYA/KENYA.png"
+      "isFree": null
     },
     {
-      "name": "NTV (Kenya)",
+      "name": "NTV",
       "isFree": null,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "priority": 9
     },
     {
       "name": "KTN News Kenya",
       "isFree": null,
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "priority": 9
     },
     {
-      "name": "CHRISTIAN FAITH TV",
-      "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "CHRISTIAN FAITH",
+      "isFree": null
     },
     {
-      "name": "GIKUYU TV",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "GIKUYU",
+      "isFree": null
     },
     {
       "name": "Romanza+ África",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "isFree": null
     },
     {
       "name": "Media of Kenya",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "isFree": null
     },
     {
-      "name": "Ukombozi tv",
-      "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ukombozi",
+      "isFree": null
     },
     {
-      "name": "El Shaddai tv",
-      "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "El Shaddai",
+      "isFree": null
     }
   ],
   "Entertainment": [
     {
-      "name": "Citizen TV",
+      "name": "Citizen",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
       "priority": 10
     },
     {
-      "name": "Ebru TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ebru",
+      "isFree": true
     },
     {
-      "name": "GBS TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/2AP1xVg.png"
-    },
-    {
-      "name": "K24",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/K24.png",
-      "priority": 9
+      "name": "GBS",
+      "isFree": true
     },
     {
       "name": "KBC",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png",
       "priority": 10
     },
     {
       "name": "KTN",
       "isFree": true,
       "keywords": "ktn -news",
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "priority": 9
     },
     {
-      "name": "Kameme TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kameme",
+      "isFree": true
     },
     {
-      "name": "Kass TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KASS-TV.png"
+      "name": "Kass",
+      "isFree": true
     },
     {
       "name": "NTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/SoBhuIb.png",
       "priority": 9
     },
     {
-      "name": "Switch TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlM1reI1eqbB4T5goQKijXurAJu.jpg"
+      "name": "Switch",
+      "isFree": true
     },
     {
-      "name": "TV47",
+      "name": "TV 47",
       "isFree": true
     },
     {
       "name": "UTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png"
+      "isFree": true
     },
     {
-      "name": "3 Stones TV",
+      "name": "3 Stones",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://threestones.tv/"
     },
     {
-      "name": "Baite TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Baite",
+      "isFree": true
     },
     {
-      "name": "Border TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gntsO8yN1xiFp1CldoJkk0jzxh7.jpg"
+      "name": "Border",
+      "isFree": true
     },
     {
       "name": "BTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png",
       "website": "https://www.btvkenya.ke/"
     },
     {
-      "name": "Burudani Bomba TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BURUDANI.png"
+      "name": "Burudani Bomba",
+      "isFree": true
     },
     {
       "name": "Citizen Extra",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
       "website": "https://citizen.digital/"
     },
     {
       "name": "CMTv Kenya",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/PORTUGAL/CMTV.png",
       "website": "https://cmtvkenya.co.ke/"
     },
     {
-      "name": "Conqueror TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gGtujS4opJIUbAgS9j3g4EtiVo.jpg"
+      "name": "Conqueror",
+      "isFree": true
     },
     {
-      "name": "Family TV",
+      "name": "Family",
       "isFree": true,
       "website": "http://familymedia.tv/"
     },
     {
-      "name": "Getembe TV",
+      "name": "Getembe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://getembetv.co.ke/"
     },
     {
-      "name": "Gichichio TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Gichichio",
+      "isFree": true
     },
     {
-      "name": "Githima TV",
+      "name": "Githima",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.githimatv.co.ke/"
     },
     {
-      "name": "Goodwill TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Goodwill",
+      "isFree": true
     },
     {
-      "name": "GTN TV",
+      "name": "GTN",
       "isFree": true,
       "website": "https://gtntv.co.ke/"
     },
     {
-      "name": "Helicopter TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Helicopter",
+      "isFree": true
     },
     {
-      "name": "HLC TV",
+      "name": "HLC",
       "isFree": true,
       "website": "https://hlctv.co.ke/"
     },
     {
-      "name": "Homeboyz TV",
+      "name": "Homeboyz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.homeboyz.co.ke/"
     },
     {
-      "name": "Inooro TV",
+      "name": "Inooro",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/INOORO.png",
       "website": "https://citizen.digital/tv/inooro-tv-14",
       "priority": 9
     },
     {
-      "name": "Ithaga TV",
+      "name": "Ithaga",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ithagatv.com/"
     },
     {
-      "name": "KBC Channel 1",
+      "name": "KBC Channel",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png",
       "website": "https://www.kbc.co.ke/",
       "priority": 9
     },
     {
       "name": "KTN Home",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "website": "https://www.standardmedia.co.ke/ktnhome/",
       "priority": 9
     },
     {
-      "name": "KU TV",
+      "name": "KU",
       "isFree": true,
-      "logo": "https://go4.pw/KURDISH/aro-logo.png",
       "website": "http://kutv.co.ke/"
     },
     {
-      "name": "Look-Up TV",
+      "name": "Look-Up",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://lookuptv.co.ke/"
     },
     {
-      "name": "Luyaa TV",
+      "name": "Luyaa",
       "isFree": true,
       "website": "https://www.luyaatv.co.ke/"
     },
     {
-      "name": "Maisha TV",
+      "name": "Maisha",
       "isFree": true,
       "website": "https://maishatv.co.ke/"
     },
     {
-      "name": "Mamlaka TV",
-      "isFree": true,
-      "logo": "https://go4.pw/JORDAN/ALMAMLAKAHD.png"
+      "name": "Mamlaka",
+      "isFree": true
     },
     {
-      "name": "Mashariki TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/5Qcwpg5.jpg"
+      "name": "Mashariki",
+      "isFree": true
     },
     {
-      "name": "Massa TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/CHDU86j.png"
+      "name": "Massa",
+      "isFree": true
     },
     {
-      "name": "MERU TV",
+      "name": "MERU",
       "isFree": true,
-      "logo": "https://i.imgur.com/EPmWNfz.jpg",
       "website": "http://merudigital.co.ke/"
     },
     {
-      "name": "Mukeu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mukeu",
+      "isFree": true
     },
     {
-      "name": "Mutongoi TV",
+      "name": "Mutongoi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mutongoitv.co.ke"
     },
     {
-      "name": "Mzalendo TV",
+      "name": "Mzalendo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mzalendotv.com/"
     },
     {
-      "name": "Nenyon TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nenyon",
+      "isFree": true
     },
     {
       "name": "Nice TV Kenya",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAAt2gvbkbeefzjd06GPfkdfUho.jpg",
       "website": "https://nicetvkenya.com/"
     },
     {
-      "name": "Njata TV",
+      "name": "Njata",
       "isFree": true,
-      "logo": "https://i.imgur.com/246CBAW.png",
       "website": "https://njatatv.co.ke/"
     },
     {
       "name": "NTV Kenya",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://ntv.nation.co.ke/",
       "priority": 9
     },
     {
-      "name": "Nyumba iitu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nyumba iitu",
+      "isFree": true
     },
     {
       "name": "Parliament of Kenya",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png",
       "website": "http://www.parliament.go.ke/"
     },
     {
-      "name": "PPP TV",
+      "name": "PPP",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://triplep.tv/"
     },
     {
       "name": "QTV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/QTV.png"
+      "isFree": true
     },
     {
-      "name": "Raia TV",
+      "name": "Raia",
       "isFree": true,
-      "logo": "https://i.imgur.com/IyFULjw.png",
       "website": "https://raiatv.com/"
     },
     {
-      "name": "Ramogi TV",
+      "name": "Ramogi",
       "isFree": true,
       "website": "https://www.citizen.digital/tv/ramogi-tv-19"
     },
     {
-      "name": "Riri TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Riri",
+      "isFree": true
     },
     {
       "name": "Romanza+ Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://www.adnetmedia.tv/"
     },
     {
-      "name": "Sasa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sasa",
+      "isFree": true
     },
     {
-      "name": "Shifu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Shifu",
+      "isFree": true
     },
     {
-      "name": "Signs TV",
+      "name": "Signs",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://signsmediake.com/"
     },
     {
-      "name": "Star Africa TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+      "name": "Star Africa",
+      "isFree": true
     },
     {
-      "name": "STN Somali TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/Uganda/STN-TV.png"
+      "name": "STN Somali",
+      "isFree": true
     },
     {
-      "name": "Tamu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tamu",
+      "isFree": true
     },
     {
-      "name": "Tandao TV",
+      "name": "Tandao",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tandaomedia.co.ke/"
     },
     {
-      "name": "Testimony TV",
+      "name": "Testimony",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://testimony-tv.com/"
     },
     {
-      "name": "Thstone TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Thstone",
+      "isFree": true
     },
     {
       "name": "TV47 Kenya",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KENYA.png",
       "website": "https://tv47.co.ke/"
     },
     {
-      "name": "Uvoro TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Uvoro",
+      "isFree": true
     },
     {
-      "name": "Venus TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "name": "Venus",
+      "isFree": true
     },
     {
-      "name": "Weega TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Weega",
+      "isFree": true
     },
     {
-      "name": "Weru TV",
+      "name": "Weru",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.werutv.co.ke/"
     },
     {
-      "name": "West TV",
+      "name": "West",
       "isFree": true,
       "website": "https://westfm.co.ke/"
-    },
-    {
-      "name": "Y254",
-      "isFree": true,
-      "website": "https://www.kbc.co.ke/y254/"
     },
     {
       "name": "Zuku Novella",
@@ -526,57 +428,48 @@
   ],
   "Religious": [
     {
-      "name": "Al Huda TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
-    },
-    {
-      "name": "Alltime TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Aviation TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/WOU9z5G.png"
-    },
-    {
-      "name": "BTL TV",
+      "name": "Al Huda",
       "isFree": true
     },
     {
-      "name": "Capuchin TV",
+      "name": "Alltime",
+      "isFree": true
+    },
+    {
+      "name": "Aviation",
+      "isFree": true
+    },
+    {
+      "name": "BTL",
+      "isFree": true
+    },
+    {
+      "name": "Capuchin",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://capuchintv.co.ke/"
     },
     {
-      "name": "Clergy TV",
+      "name": "Clergy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng11hk3cduAXHXcEYL8mCx6xkxt.jpg",
       "website": "https://www.clergytv.co.ke/"
     },
     {
-      "name": "CTN TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "CTN",
+      "isFree": true
     },
     {
-      "name": "Dacwa TV",
+      "name": "Dacwa",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/Somalia/DACWATV.png",
       "website": "https://www.dacwa.tv/"
     },
     {
-      "name": "Deliverance TV",
+      "name": "Deliverance",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
       "website": "https://atgdeliveranceministry.co.ke/tv.html"
     },
     {
-      "name": "Destiny Voices TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEeLCGLIXH1ElS53hyUQInJB0Ub.jpg"
+      "name": "Destiny Voices",
+      "isFree": true
     },
     {
       "name": "DGTV",
@@ -584,127 +477,105 @@
       "website": "https://dominiongeneration.org/"
     },
     {
-      "name": "DOXA TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "DOXA",
+      "isFree": true
     },
     {
-      "name": "Dynamic Grace TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/e36BNNK.jpg"
+      "name": "Dynamic Grace",
+      "isFree": true
     },
     {
-      "name": "EBN TV",
+      "name": "EBN",
       "isFree": true,
-      "logo": "https://i.imgur.com/4OCptwT.png",
       "website": "https://ebntv.co.ke/"
     },
     {
-      "name": "Elevate TV",
+      "name": "Elevate",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://elevatetv.co.ke/"
     },
     {
-      "name": "Elisam TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Elisam",
+      "isFree": true
     },
     {
       "name": "El-Shaddai TV Kenya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kenyalivetv.co.ke/tv/elshaddai-tv-kenya-live"
     },
     {
-      "name": "Endtime TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Endtime",
+      "isFree": true
     },
     {
-      "name": "Engelos TV",
+      "name": "Engelos",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.pdaconferences.com/"
     },
     {
-      "name": "Faith Today TV",
+      "name": "Faith Today",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://faithtodaytv.co.ke/"
     },
     {
       "name": "Faith TV Kenya",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://faithtodaytv.co.ke/"
     },
     {
-      "name": "Family Liberation TV",
+      "name": "Family Liberation",
       "isFree": true
     },
     {
-      "name": "Favour of God TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg"
+      "name": "Favour of God",
+      "isFree": true
     },
     {
-      "name": "Fire TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nflONy2WMEui7uCGCAtkD1r9vnl.jpg"
+      "name": "Fire",
+      "isFree": true
     },
     {
-      "name": "Freedom TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZtd0kekttO4DHNbOFQVVOfeBEb.jpg"
+      "name": "Freedom",
+      "isFree": true
     },
     {
-      "name": "GBN TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/fU0ZhKD.png"
+      "name": "GBN",
+      "isFree": true
     },
     {
-      "name": "Gikuyu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Gikuyu",
+      "isFree": true
     },
     {
-      "name": "Goshen Wonders TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYxLT2H80Tyq4VhdNfVM4CibmPS.jpg"
+      "name": "Goshen Wonders",
+      "isFree": true
     },
     {
-      "name": "GPG TV",
+      "name": "GPG",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gpgtv.net/"
     },
     {
-      "name": "Heaven Bound TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJOk8iJ3OUauwB8Oxn1tVQSL13J.jpg"
+      "name": "Heaven Bound",
+      "isFree": true
     },
     {
-      "name": "His Grace TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/da95rurNghmKWmraPyqP6IsnAt1.jpg"
+      "name": "His Grace",
+      "isFree": true
     },
     {
       "name": "Hope Channel Kenya",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hck.co.ke/"
     },
     {
-      "name": "Hope TV",
+      "name": "Hope",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://www.hopemediakenya.org/hope-tv-live/"
     },
     {
-      "name": "Horizon TV",
+      "name": "Horizon",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6c5xkR0eIzlnxcQoMBlySH6ann.jpg",
       "website": "https://www.horizontv.co.ke/"
     },
     {
@@ -713,265 +584,222 @@
       "website": "https://www.faithembassymedia.com/"
     },
     {
-      "name": "Imani TV",
+      "name": "Imani",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/to4cAjZoTBjCHLq81UtElEZiP7T.jpg",
       "website": "https://www.imanitv.org/"
     },
     {
-      "name": "JCC TV",
+      "name": "JCC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.jccmombasa.org/"
     },
     {
-      "name": "JCDH TV",
+      "name": "JCDH",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://digitaltv.co.ke/"
     },
     {
-      "name": "JCM TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/28YB7dD.jpg"
+      "name": "JCM",
+      "isFree": true
     },
     {
-      "name": "JIAM-JBN TV",
+      "name": "JIAM-JBN",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://classic.jiam.org/"
     },
     {
       "name": "Kingdom Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg",
       "website": "https://kingdomtelevision.tv/live/"
     },
     {
-      "name": "Kirk TV",
+      "name": "Kirk",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kirktv.org/"
     },
     {
-      "name": "Kyeni TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kyeni",
+      "isFree": true
     },
     {
-      "name": "Mahdi TV",
+      "name": "Mahdi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mahditv.co.ke/"
     },
     {
-      "name": "MBCI TV",
+      "name": "MBCI",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mbcimedia.com/"
     },
     {
-      "name": "Mizpah TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Mizpah",
+      "isFree": true
     },
     {
-      "name": "MOF TV",
+      "name": "MOF",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mountainoffiretv.com/"
     },
     {
       "name": "MOP TV Kenya",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Morning Cloud TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JjFwLlKEcJrJOvzvNHrYZhB2MN.jpg"
+      "name": "Morning Cloud",
+      "isFree": true
     },
     {
-      "name": "Muthingi TV",
+      "name": "Muthingi",
       "isFree": true,
-      "logo": "https://i.imgur.com/bnkbclB.jpg",
       "website": "https://muthingitv.co.ke/contactus/"
     },
     {
-      "name": "Muugi TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/7XCR2Wi.jpg"
+      "name": "Muugi",
+      "isFree": true
     },
     {
-      "name": "Mwangaza TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/GjXfuSh.png"
+      "name": "Mwangaza",
+      "isFree": true
     },
     {
-      "name": "Ndurumeni TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/OvmySNw.jpg"
+      "name": "Ndurumeni",
+      "isFree": true
     },
     {
-      "name": "New Life TV",
+      "name": "New Life",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "http://www.newlifeprayercenterandchurch.org/"
     },
     {
       "name": "Nissi Television",
-      "isFree": true,
-      "logo": "https://i.imgur.com/2BkL4wq.png"
-    },
-    {
-      "name": "Nuru TV",
       "isFree": true
     },
     {
-      "name": "One Accord TV",
+      "name": "Nuru",
+      "isFree": true
+    },
+    {
+      "name": "One Accord",
       "isFree": true,
       "website": "https://oneaccord.tv/"
     },
     {
-      "name": "Oracle TV",
+      "name": "Oracle",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/laOpPREcTlDukttovlUGJ3Wmtb6.jpg",
       "website": "https://oracletv.co.ke/"
     },
     {
-      "name": "Pillar TV",
+      "name": "Pillar",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/920VbfsaRC2gy3MjxdgqBdWSDgY.jpg",
       "website": "https://www.pillartv.co.ke/"
     },
     {
-      "name": "Pneuma TV",
+      "name": "Pneuma",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.pneumatv.co.ke/"
     },
     {
-      "name": "PrayerCave TV",
+      "name": "PrayerCave",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://prayercave.tv/"
     },
     {
-      "name": "Revival TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Revival",
+      "isFree": true
     },
     {
-      "name": "Sayare TV",
+      "name": "Sayare",
       "isFree": true,
-      "logo": "https://i.imgur.com/M2Fnxj7.png",
       "website": "https://www.sayare.co.ke/"
     },
     {
-      "name": "Shiloh TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "SOA TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/4uDXP3A.jpg"
-    },
-    {
-      "name": "Spirit TV",
+      "name": "Shiloh",
       "isFree": true
     },
     {
-      "name": "Tinker TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg"
+      "name": "SOA",
+      "isFree": true
     },
     {
-      "name": "Truth TV",
+      "name": "Spirit",
+      "isFree": true
+    },
+    {
+      "name": "Tinker",
+      "isFree": true
+    },
+    {
+      "name": "Truth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPowVPqB6397K0vPflDqslmHpkP.jpg",
       "website": "https://truthtvkenya.co.ke/"
     },
     {
-      "name": "Ukombozi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Urejesho TV Africa",
-      "isFree": true,
-      "logo": "https://i.imgur.com/u7xDXEt.jpg"
-    },
-    {
-      "name": "Ushirika TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Voice Of Victory TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg"
-    },
-    {
-      "name": "YOUNIB Media TV",
+      "name": "Ukombozi",
       "isFree": true
     },
     {
-      "name": "Zoe TV",
+      "name": "Urejesho TV Africa",
+      "isFree": true
+    },
+    {
+      "name": "Ushirika",
+      "isFree": true
+    },
+    {
+      "name": "Voice Of Victory",
+      "isFree": true
+    },
+    {
+      "name": "YOUNIB Media",
+      "isFree": true
+    },
+    {
+      "name": "Zoe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLhNcVOXWfYLP6XpUSPvtVdU4UP.jpg",
       "website": "https://zoetv.co.ke/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Edu Channel",
+      "name": "Edu",
       "isFree": true,
-      "logo": "https://i.postimg.cc/XJ2MXbtc/edutv.png",
       "website": "http://kicd.ac.ke/"
     },
     {
-      "name": "Elimu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Elimu",
+      "isFree": true
     },
     {
-      "name": "Kamba TV",
+      "name": "Kamba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kambatv.co.ke/"
     },
     {
-      "name": "KTN Farmers TV",
+      "name": "KTN Farmers",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KENYA/KTN.png",
       "website": "https://www.farmers.co.ke/",
       "priority": 9
     }
   ],
   "Movies & Series": [
     {
-      "name": "Jambu Tv",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Jambu",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "Kiss TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NKfVymH.png"
+      "name": "Kiss",
+      "isFree": true
     },
     {
-      "name": "Spice FM TV",
+      "name": "Spice FM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRPviMZG6PdAFDHQ1fFnWE9f25B.jpg",
       "website": "https://www.standardmedia.co.ke/spicefm/watch-live"
     },
     {
-      "name": "Vybez Radio TV",
+      "name": "Vybez Radio",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://www.standardmedia.co.ke/vybezradio/watch-live"
     }
   ]

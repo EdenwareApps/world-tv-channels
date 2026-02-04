@@ -1,54 +1,46 @@
 {
   "Local": [
     {
-      "name": "Sahel TV",
+      "name": "Sahel",
       "isFree": true,
       "priority": 4
     }
   ],
   "Travel": [
     {
-      "name": "Tunisie Immobilier TV",
-      "isFree": true,
-      "shortName": "TIT"
+      "name": "Tunisie Immobilier",
+      "isFree": true
     }
   ],
   "Entertainment": [
     {
       "name": "El Hiwar El Tounsi",
       "isFree": true,
-      "shortName": "EHET",
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "priority": 9
     },
     {
-      "name": "Watania 1",
+      "name": "Watania",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/EL_WATANIA_ALGERIE.png",
       "priority": 10
     },
     {
       "name": "Watania 2",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/EL_WATANIA_ALGERIE.png",
       "priority": 9
     },
     {
-      "name": "Al Janoubiya TV",
+      "name": "Al Janoubiya",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://ar.aljanoubiyatv.net/"
     },
     {
-      "name": "Attessia TV",
+      "name": "Attessia",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/ATTESSIATV-1.png",
       "website": "http://www.attessia.tv/"
     },
     {
-      "name": "Baya TV",
+      "name": "Baya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.bayatv.net"
     },
     {
@@ -57,93 +49,80 @@
       "website": "http://carthageplus.tv"
     },
     {
-      "name": "CNB TV",
+      "name": "CNB",
       "isFree": true,
       "website": "https://tvcnb.net/"
     },
     {
-      "name": "Elhiwar Ettounsi TV",
+      "name": "Elhiwar Ettounsi",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/ALHIWARETTOUNSITV-1.png",
       "website": "https://www.elhiwarettounsi.com/"
     },
     {
-      "name": "El Watania 1",
+      "name": "El Watania",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.watania1.tn/",
       "priority": 9
     },
     {
       "name": "El Watania 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/kgkrD3V.png",
       "website": "http://www.watania2.tn/",
       "priority": 9
     },
     {
-      "name": "Hannibal TV",
+      "name": "Hannibal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg",
       "website": "http://www.hannibaltv.com.tn/",
       "priority": 9
     },
     {
-      "name": "Nefzawa TV",
+      "name": "Nefzawa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://nefzawa.net/"
     },
     {
       "name": "Nessma El Jadida",
       "isFree": true,
-      "logo": "https://i.imgur.com/66CJtdz.png",
       "website": "https://www.nessma.tv/",
       "priority": 9
     },
     {
       "name": "Radio Nationale Visuelle",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "http://www.radionationale.tn/"
     },
     {
-      "name": "Telvza TV",
+      "name": "Telvza",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/TELVZATV-1.png",
       "website": "http://www.telvza-tv.tn/"
     },
     {
-      "name": "TT1",
+      "name": "TT",
       "isFree": true
     },
     {
-      "name": "Tunisna TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/TUNISNA-1.png"
+      "name": "Tunisna",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "IFM TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/9oEaZ9Y.png"
+      "name": "IFM",
+      "isFree": true
     },
     {
-      "name": "JAWHARA TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/mRSQ5bP.png"
+      "name": "JAWHARA",
+      "isFree": true
     },
     {
       "name": "Mosaique FM",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/MOSAIQUEFM.png",
       "website": "https://www.mosaiquefm.net/"
     },
     {
-      "name": "Jawhara TV",
+      "name": "Jawhara",
       "isFree": true,
-      "logo": "https://i.imgur.com/mRSQ5bP.png",
       "website": "https://www.jawharafm.net/"
     }
   ],
@@ -151,35 +130,30 @@
     {
       "name": "Mosaïque FM",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TUNISIA/MOSAIQUEFM.png",
       "priority": 4
     }
   ],
   "Religious": [
     {
-      "name": "Al Insen TV",
+      "name": "Al Insen",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alinsen.tv/"
     },
     {
-      "name": "Zitouna TV",
+      "name": "Zitouna",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zitounatv.net/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Essaida TV",
+      "name": "Essaida",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.essaidafm.com"
     },
     {
       "name": "Watania Educative",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/EL_WATANIA_ALGERIE.png",
       "priority": 9
     }
   ],
@@ -192,9 +166,8 @@
   ],
   "Shop": [
     {
-      "name": "TunisiaShop TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "TunisiaShop",
+      "isFree": true
     }
   ]
 }

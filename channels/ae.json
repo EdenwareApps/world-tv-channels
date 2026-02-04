@@ -1,47 +1,40 @@
 {
   "Sports": [
     {
-      "name": "Abu Dhabi Sports 1",
+      "name": "Abu Dhabi Sports",
       "isFree": false,
-      "shortName": "ADS1",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "shortName": "ADS",
       "priority": 9
     },
     {
       "name": "Abu Dhabi Sports 2",
       "isFree": false,
-      "shortName": "ADS2",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "shortName": "ADS 2",
       "priority": 9
     },
     {
       "name": "Abu Dhabi Sports 3",
       "isFree": false,
-      "shortName": "ADS3",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "shortName": "ADS 3",
       "priority": 9
     },
     {
       "name": "Abu Dhabi Sports 4",
       "isFree": false,
-      "shortName": "ADS4",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
+      "shortName": "ADS 4",
       "priority": 9
     },
     {
       "name": "Dubai Racing 3",
-      "isFree": false,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": false
     },
     {
-      "name": "Dubai Sports 1",
-      "isFree": false,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Dubai Sports",
+      "isFree": false
     },
     {
       "name": "Dubai Sports 2",
-      "isFree": false,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": false
     },
     {
       "name": "Dubai Sports 3",
@@ -50,25 +43,17 @@
     {
       "name": "National Geographic Abu Dhabi",
       "isFree": false,
-      "shortName": "NGAD",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png",
       "priority": 9
-    },
-    {
-      "name": "Sharjah Sports TV",
-      "isFree": false,
-      "shortName": "SST",
-      "logo": "https://go4.pw/ASIA/UAE/ALSHSRJAH.png"
     },
     {
       "name": "Yas",
       "isFree": false,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "website": "https://adtv.ae/ar/live/YAS%20Sports%20Channel"
     },
     {
       "name": "Sharjah Sports",
       "isFree": true,
-      "keywords": "sharjah sports -tv",
+      "keywords": "sharjah sports",
       "website": "https://sba.net.ae/ar/tv/channel/35"
     }
   ],
@@ -76,35 +61,28 @@
     {
       "name": "Al Arabiya",
       "isFree": true,
-      "keywords": "al arabiya -al hadath | alarabiya -portrait",
-      "logo": "https://epg.pw/media/img/logo/AL_Arabiya.PNG"
+      "keywords": "al arabiya -al hadath | alarabiya -portrait"
     },
     {
       "name": "Al Arabiya Al Hadath",
-      "isFree": true,
-      "shortName": "AAAH",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
       "name": "Al Jazeera Arabic",
       "isFree": true,
-      "shortName": "AJA",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "priority": 10
     },
     {
       "name": "Al Jazeera Mubasher",
       "isFree": true,
-      "shortName": "AJM",
       "priority": 10
     },
     {
-      "name": "Al Yaum TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Yaum",
+      "isFree": true
     },
     {
-      "name": "Alaraby TV",
+      "name": "Alaraby",
       "isFree": true
     },
     {
@@ -115,59 +93,44 @@
     {
       "name": "DW Arabic",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/02/05/large/20240205014305176923_17.png",
       "priority": 9
     },
     {
       "name": "France 24 Arabic",
       "isFree": true,
-      "logo": "https://i.imgur.com/gDOEH0A.png",
       "priority": 9
     },
     {
       "name": "RT Arabic",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png"
+      "isFree": true
     },
     {
       "name": "Sky News Arabia",
       "isFree": true,
-      "logo": "https://i.imgur.com/SvjU4h6.png",
       "priority": 9
     },
     {
       "name": "TRT Arabi",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/TURKEY/TRT_1.png"
-    },
-    {
-      "name": "Al Aan TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png",
-      "website": "https://www.alaan.tv/"
+      "isFree": true
     },
     {
       "name": "Al Arabiya Business",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alarabiya.net/aswaq"
     },
     {
       "name": "Alarabiya Portrait",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSd9TtEPrdz39N7WO4Mrfg6eT1z.jpg",
       "website": "https://www.alarabiya.net"
     },
     {
       "name": "Al Mashhad",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://almashhad.com"
     },
     {
       "name": "Al Safwa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://alfatv.com/tv/"
     },
     {
@@ -184,19 +147,16 @@
     {
       "name": "Media Office",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg",
       "website": "https://www.mediaoffice.ae/"
     },
     {
       "name": "OSN News",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/ons/osn-news"
     },
     {
       "name": "Sky News Arabia Vertical",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skynewsarabia.com/",
       "priority": 9
     },
@@ -204,167 +164,144 @@
       "name": "Alarabiya",
       "isFree": true,
       "website": "https://www.alarabiya.net/"
+    },
+    {
+      "name": "Al Aan",
+      "isFree": true,
+      "website": "https://www.alaan.tv/"
     }
   ],
   "Entertainment": [
     {
       "name": "Abu Dhabi Aloula",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nsGii9M9LJCoWYGxe3B20mJQqP.jpg",
       "priority": 9
     },
     {
       "name": "Abu Dhabi Drama",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "priority": 9
     },
     {
       "name": "Abu Dhabi Emirates",
       "isFree": true,
-      "shortName": "ADE",
-      "logo": "https://i.imgur.com/jytGYJq.png",
       "priority": 9
     },
     {
       "name": "Ajman",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/Ajman_tv.png"
+      "website": "https://www.ajmantv.com/"
     },
     {
       "name": "Al Aan",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png"
+      "website": "https://www.alaan.tv/"
     },
     {
-      "name": "Al Dafrah TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/QrwI6xf.png"
+      "name": "Al Dafrah",
+      "isFree": true
     },
     {
-      "name": "Al Qamar TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174100076426_66.png"
+      "name": "Al Qamar",
+      "isFree": true
     },
     {
       "name": "Al Sharqiya Min Kabla",
-      "isFree": true,
-      "shortName": "ASMK",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
-      "name": "Al Wousta TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Wousta",
+      "isFree": true
     },
     {
-      "name": "Alhiwar TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/UjOxwdd.png"
+      "name": "Alhiwar",
+      "isFree": true
     },
     {
       "name": "Bee Theater",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX2mgKFUkzFMZingSVD4vioZNz2.jpg"
+      "isFree": true
     },
     {
       "name": "Dubai One",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Dubai Racing",
       "isFree": true,
-      "keywords": "dubai racing -2 -3",
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "dubai racing -2 -3"
     },
     {
       "name": "Dubai Racing 2",
       "isFree": true
     },
     {
-      "name": "Dubai TV",
+      "name": "Dubai",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "priority": 10
     },
     {
       "name": "EXPO 2020",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQs01rbZlKEUaE3bSxSBLfeukO5.jpg"
+      "isFree": true
     },
     {
-      "name": "Hawas TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/CGN7JU2.png"
+      "name": "Hawas",
+      "isFree": true
     },
     {
       "name": "MBC 1 KSA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC 1 USA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC 4",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217224104954012_96.jpg",
       "priority": 9
     },
     {
       "name": "MBC Bollywood",
       "isFree": true,
-      "logo": "https://i.imgur.com/TTAGFHG.png",
       "priority": 9
     },
     {
       "name": "MBC Drama KSA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC Drama USA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
-      "name": "Minbij TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Minbij",
+      "isFree": true
     },
     {
       "name": "Noor Dubai",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Sama Dubai",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "priority": 9
     },
     {
       "name": "Weyyak Action",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zVlaDYmygJ29LlKyTn7bqm22pT.jpg"
+      "isFree": true
     },
     {
       "name": "Weyyak Mix",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
       "name": "Weyyak Nawaem",
@@ -372,73 +309,57 @@
     },
     {
       "name": "Zee Aflam",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png"
+      "isFree": true
     },
     {
       "name": "Zee Alwan",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png"
+      "isFree": true
     },
     {
-      "name": "3eesh Al Aan TV",
+      "name": "3eesh Al Aan",
       "isFree": true,
       "website": "https://www.alaan.tv/program/3eesh-alaan"
     },
     {
-      "name": "Abu Dhabi TV",
+      "name": "Abu Dhabi",
       "isFree": true,
       "keywords": "abu dhabi tv -europe",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://adtv.ae/",
       "priority": 10
     },
     {
       "name": "Abu Dhabi TV Europe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nsGii9M9LJCoWYGxe3B20mJQqP.jpg",
       "website": "https://adtv.ae/",
       "priority": 9
     },
     {
-      "name": "Ajman TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/17/large/20220517053238120147_71.png",
-      "website": "https://www.ajmantv.com/"
-    },
-    {
       "name": "Alfa Series",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png",
       "website": "https://alfatv.com/tv/"
     },
     {
-      "name": "Al Shallal TV",
+      "name": "Al Shallal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alshallalchannel.com/"
     },
     {
       "name": "Al Yawm",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://alfatv.com/tv/"
     },
     {
       "name": "Butterfly HDTV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MJUo4bCPai5r9zrw7nTS8sVzQ7.jpg",
       "website": "http://www.butterflyhdtv.com/"
     },
     {
       "name": "DMAX MENA",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/20.png"
+      "isFree": true
     },
     {
       "name": "Dubai TV International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89UEvd1hvud2bAZ1sLTwj7049ST.jpg",
       "website": "http://www.dubaitv.ae/",
       "priority": 9
     },
@@ -454,7 +375,6 @@
     {
       "name": "Fann",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/FANN1.png",
       "website": "https://alfatv.com/tv/"
     },
     {
@@ -465,33 +385,28 @@
     {
       "name": "Fox Arabia",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://foxarabia.tv//"
     },
     {
-      "name": "Fujairah TV",
+      "name": "Fujairah",
       "isFree": true,
-      "logo": "https://i.postimg.cc/6TxTbnzQ/fujairahtv.png",
       "website": "https://www.fujairahtv.ae/"
     },
     {
-      "name": "Just Vogue TV",
+      "name": "Just Vogue",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8WqDIUC00TPX6U24ah0C7IMEKf.jpg",
       "website": "https://www.justvoguetv.com/"
     },
     {
-      "name": "MBC 1",
+      "name": "MBC",
       "isFree": true,
       "keywords": "mbc 1 -ksa -usa",
-      "logo": "https://i.imgur.com/nDXLpQZ.png",
       "website": "http://www.mbc.net/mbc1",
       "priority": 9
     },
     {
       "name": "MBC 5",
       "isFree": true,
-      "logo": "https://i.imgur.com/WGjYmUv.png",
       "website": "https://www.mbc.net/channels/mbc5",
       "priority": 9
     },
@@ -499,108 +414,91 @@
       "name": "MBC Drama",
       "isFree": true,
       "keywords": "mbc drama -ksa -usa",
-      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217154304357939_32.jpg",
       "website": "https://www.mbc.net/channels/mbc-drama",
       "priority": 9
     },
     {
       "name": "MBC Persia",
       "isFree": true,
-      "logo": "https://i.imgur.com/4FXiyjn.png",
       "website": "http://www.mbc.net/en/corporate/channels/mbc-persia.html",
       "priority": 9
     },
     {
       "name": "MBC+ Power",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.mbc.net/",
       "priority": 9
     },
     {
       "name": "MBC+ Variety",
       "isFree": true,
-      "logo": "https://go4.pw/UK/supersport.png",
       "website": "https://www.mbc.net/",
       "priority": 9
     },
     {
-      "name": "Narayana TV",
+      "name": "Narayana",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.guruvisiontv.in/"
     },
     {
       "name": "NTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/SoBhuIb.png",
       "website": "http://www.ntvuae.tv/"
     },
     {
       "name": "OSN Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/oco/osn-comedy"
     },
     {
       "name": "OSN Family",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/ofm/osn-family"
     },
     {
       "name": "OSN Living",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/olh/osn-living"
     },
     {
       "name": "OSN Pop Up",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/pop/osn-lego-popup"
     },
     {
       "name": "OSN Showcase",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/ofh/osn-showcase"
     },
     {
       "name": "OSN W",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/osw/osn-w"
     },
     {
       "name": "OSN Yahala",
       "isFree": true,
       "keywords": "osn yahala -aflam -bil arabi",
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/oyh/osn-yahala"
     },
     {
       "name": "OSN Yahala Bil Arabi",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/oya/osn-yahala-bil-arabi"
     },
     {
       "name": "Pulse95 Radio",
-      "isFree": true,
-      "logo": "https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png"
+      "isFree": true
     },
     {
-      "name": "RBC TV",
+      "name": "RBC",
       "isFree": true,
-      "logo": "https://imgur.com/nA0cWeE.png",
       "website": "http://www.rbctv.ae/"
     },
     {
       "name": "Sharjah Radio",
       "isFree": true,
-      "keywords": "sharjah radio -quran",
-      "logo": "https://go4.pw/ASIA/UAE/ALSHSRJAH.png"
+      "keywords": "sharjah radio -quran"
     },
     {
       "name": "Sony Max UAE",
@@ -610,7 +508,6 @@
     {
       "name": "Star World Middle East",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "http://foxarabia.tv/"
     },
     {
@@ -621,72 +518,56 @@
     {
       "name": "Urdu 1 Middle East",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/DD-URDU.png",
       "website": "https://www.urdu1.tv/"
     },
     {
       "name": "Watar Radio",
-      "isFree": true,
-      "logo": "https://i.imgur.com/jdr22Sk.jpeg"
+      "isFree": true
     },
     {
       "name": "Weyyak Smashi",
       "isFree": true
     },
     {
-      "name": "Yas TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/UAE/YAS-TV-.png",
-      "website": "https://adtv.ae/ar/live/YAS%20Sports%20Channel"
-    },
-    {
       "name": "Zee TV Middle East",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
       "website": "http://www.zeetvme.com/"
     },
     {
-      "name": "Zorins TV",
+      "name": "Zorins",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.zorins.tv/"
+    },
+    {
+      "name": "Yas",
+      "isFree": false,
+      "website": "https://adtv.ae/ar/live/YAS%20Sports%20Channel"
     }
   ],
   "Kids": [
     {
       "name": "Cartoon Network Arabic",
-      "isFree": true,
-      "shortName": "CNA",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png"
+      "isFree": true
     },
     {
       "name": "MBC 3",
       "isFree": true,
       "keywords": "mbc 3 -eur -usa",
-      "logo": "https://epg.pw/media/images/channel/2022/12/17/large/20221217154121146940_73.jpg",
       "priority": 9
     },
     {
       "name": "MBC 3 EUR",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC 3 USA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
-      "name": "Majid TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/MAJID.png"
-    },
-    {
       "name": "SAT-7 KIDS",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+      "isFree": true
     },
     {
       "name": "DKids",
@@ -695,14 +576,12 @@
     {
       "name": "Majid",
       "isFree": true,
-      "keywords": "majid -tv",
-      "logo": "https://i.imgur.com/VMe3ahj.png",
+      "keywords": "majid",
       "website": "https://adtv.ae/ar/kids/majid-tv"
     },
     {
       "name": "Nickelodeon Arabia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nickelodeonarabia.com/"
     },
     {
@@ -718,92 +597,78 @@
     {
       "name": "OSN Kids",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/omk/osn-kids"
     },
     {
       "name": "OSN Kidzone",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/kdz/osn-kidzone"
     },
     {
       "name": "Spacetoon Arabic",
       "isFree": true,
-      "logo": "https://go4.pw/KIDS/SPACETOON.png",
       "website": "http://www.spacetoon.com/"
     },
     {
       "name": "TeenNick Arabia",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TEENNICK.png",
       "website": "http://nickelodeonarabia.com/"
     },
     {
       "name": "U Toon",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg"
+      "isFree": true
     }
   ],
   "Shop": [
     {
-      "name": "Citruss TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Citruss",
+      "isFree": true
     }
   ],
   "Religious": [
     {
       "name": "Peace TV English",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg"
+      "isFree": true
     },
     {
       "name": "SAT-7 ARABIC",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/SAUDI/SAUDI.png"
+      "isFree": true
     },
     {
       "name": "Sharjah 2",
       "isFree": true
     },
     {
-      "name": "Sharjah TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/2013/10/30/ee845cb062153eeaac19a2ffcd61d4cf.jpg"
-    },
-    {
-      "name": "Towheed TV",
+      "name": "Sharjah",
       "isFree": true
     },
     {
-      "name": "Nour TV",
+      "name": "Towheed",
+      "isFree": true
+    },
+    {
+      "name": "Nour",
       "isFree": true,
-      "logo": "https://i.postimg.cc/zXRDvq1F/nourtv.png",
       "website": "https://nourtv.net/"
     },
     {
       "name": "Peace TV Bangla",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f1b509a1f672e8f7c082b1caa90cd1a3.png",
       "website": "https://peacetv.tv/"
     },
     {
       "name": "Peace TV Chinese",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
       "website": "https://peacetv.tv/"
     },
     {
       "name": "Peace TV Middle East",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
       "website": "https://peacetv.tv/"
     },
     {
       "name": "Peace TV Urdu",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
       "website": "https://peacetv.tv/"
     }
   ],
@@ -811,206 +676,171 @@
     {
       "name": "Al Jazeera Documentary",
       "isFree": true,
-      "shortName": "AJD",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "priority": 10
     },
     {
       "name": "National Geographic Wild Asia",
       "isFree": true,
-      "shortName": "NGWA",
       "priority": 9
     },
     {
       "name": "Al Arabiya Programs",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alarabiya.net/programs"
     },
     {
-      "name": "Baynounah TV",
+      "name": "Baynounah",
       "isFree": true,
-      "logo": "https://epg.pw/media/",
       "website": "https://adtv.ae/en/live/Baynounah"
     },
     {
-      "name": "China Arab TV",
+      "name": "China Arab",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
       "website": "http://www.catv.ae/"
     },
     {
       "name": "Nat Geo Kids Abu Dhabi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
       "website": "http://natgeotv.com/me/page/natgeokidsabudhabi",
       "priority": 9
     },
     {
       "name": "OSN Mezze",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/omz/osn-mezze"
     }
   ],
   "Movies & Series": [
     {
       "name": "AXN East Asia",
-      "isFree": false,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": false
     },
     {
       "name": "Bee Movies",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX2mgKFUkzFMZingSVD4vioZNz2.jpg"
+      "isFree": false
     },
     {
       "name": "Dubai Zaman",
-      "isFree": false,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": false
     },
     {
       "name": "Fox Movies Asia",
-      "isFree": false,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": false
     },
     {
       "name": "MBC Action",
       "isFree": false,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC Max",
       "isFree": false,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC Plus Drama",
       "isFree": false,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "MBC Plus Variety",
       "isFree": false,
-      "logo": "https://go4.pw/ASIA/mbcpersia.png",
       "priority": 9
     },
     {
       "name": "Weyyak Drama",
-      "isFree": false,
-      "logo": "https://go4.pw/ITALY/_skycindr.png"
+      "isFree": false
     },
     {
       "name": "B4U Aflam",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/b4u-music.png",
       "website": "http://b4uaflam.b4utv.com/"
     },
     {
-      "name": "Cinema 1",
+      "name": "Cinema",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014334664873_51.png",
       "website": "https://alfatv.com/tv/"
     },
     {
       "name": "Cinema 2",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/02/23/20170223014538270489_21.jpg",
       "website": "https://alfatv.com/tv/"
     },
     {
       "name": "Damac Persian",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/damac.png",
       "website": "https://damactv.tv/"
     },
     {
       "name": "Fox Life Middle East",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://foxarabia.tv/"
     },
     {
       "name": "OSN Movies Action",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229070204889573_31.jpg",
       "website": "https://www.osn.com/en-ae/explore/channels/ahd/osn-action"
     },
     {
       "name": "OSN Movies Hollywood",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/opr/osn-movies"
     },
     {
       "name": "OSN Movies Premiere",
       "isFree": null,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/ahd/osn-action"
     },
     {
       "name": "OSN Series Prime",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/obg/osn-series-prime"
     },
     {
       "name": "OSN Yahala Aflam",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osn.com/en-ae/explore/channels/oyc/osn-yahala-aflam"
     },
     {
       "name": "Paramount Network MENA",
-      "isFree": true,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"
+      "isFree": true
     },
     {
       "name": "Star Movies Middle East",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "http://foxarabia.tv/"
     }
   ],
   "Music Videos": [
     {
       "name": "Wanasah",
-      "isFree": true,
-      "logo": "https://i.imgur.com/nLtiXNf.png"
+      "isFree": true
     },
     {
       "name": "MBC FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/hPlzVUj.png",
       "website": "https://www.mbc.net/en/corporate/channels/mbcfm.html",
       "priority": 9
     },
     {
       "name": "Music Now",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://alfatv.com/tv/"
     },
     {
-      "name": "Nojoum TV",
+      "name": "Nojoum",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bc6357a4aa9bae34ac3fddf06c43ecda.png",
       "website": "https://nojoumtv.com/"
     },
     {
       "name": "PMC",
       "isFree": true,
       "keywords": "pmc -royale",
-      "logo": "https://i.imgur.com/AbrHI7K.png",
       "website": "https://www.pmc.tv/"
     },
     {
       "name": "PMC Royale",
       "isFree": true,
-      "logo": "https://i.imgur.com/kuYMKgG.png",
       "website": "https://www.pmc.tv/"
     }
   ],
@@ -1018,8 +848,6 @@
     {
       "name": "Sharjah Radio Quran",
       "isFree": true,
-      "shortName": "SRQ",
-      "logo": "https://go4.pw/ASIA/UAE/ALSHSRJAH.png",
       "priority": 4
     }
   ]

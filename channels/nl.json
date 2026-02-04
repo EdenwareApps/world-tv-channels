@@ -1,21 +1,18 @@
 {
   "Local": [
     {
-      "name": "BR6 TV",
+      "name": "BR 6",
       "isFree": true,
-      "logo": "https://i.imgur.com/NKtAiXu.png",
       "priority": 4
     },
     {
-      "name": "Feel Good TV",
+      "name": "Feel Good",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg",
       "priority": 4
     },
     {
-      "name": "Ideaal TV",
+      "name": "Ideaal",
       "isFree": true,
-      "logo": "https://i.postimg.cc/wMj1sLFy/ideaaltv.png",
       "priority": 4
     },
     {
@@ -24,145 +21,124 @@
       "priority": 4
     },
     {
-      "name": "LOE TV",
+      "name": "LOE",
       "isFree": true,
-      "logo": "https://i.imgur.com/8i6OwaS.png",
       "priority": 4
     },
     {
-      "name": "LON TV",
+      "name": "LON",
       "isFree": true,
-      "logo": "https://i.imgur.com/bH4XSGw.png",
       "priority": 4
     },
     {
-      "name": "Lansingerland TV",
+      "name": "Lansingerland",
       "isFree": true,
-      "logo": "https://i.imgur.com/1r7IZ7Q.png",
       "priority": 4
     },
     {
-      "name": "ML5 TV",
+      "name": "ML 5",
       "isFree": true,
-      "logo": "https://i.imgur.com/knjHdei.png",
       "priority": 4
     },
     {
-      "name": "Omroep Centraal TV",
+      "name": "Omroep Centraal",
       "isFree": true,
-      "shortName": "OCT",
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "priority": 4
     },
     {
-      "name": "Omroep Hulst TV",
+      "name": "RTV Connect",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-      "priority": 4
-    },
-    {
-      "name": "Omroep P&M TV",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-      "priority": 4
-    },
-    {
-      "name": "Omroep Tilburg TV",
-      "isFree": true,
-      "shortName": "OTT",
-      "priority": 4
-    },
-    {
-      "name": "RTV Connect TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "priority": 4
     },
     {
       "name": "RTV Purmerend",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "priority": 4
     },
     {
-      "name": "RTV Rijnstreek TV",
+      "name": "RTV Rijnstreek",
       "isFree": true,
-      "shortName": "RRT",
-      "logo": "https://go4.pw/Africa/RTV.png",
       "priority": 4
     },
     {
-      "name": "Regio8 TV",
+      "name": "Regio 8",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 4
     },
     {
-      "name": "Regio90 TV",
+      "name": "Regio 90",
       "isFree": true,
-      "logo": "https://i.imgur.com/UGnm1jd.png",
       "priority": 4
     },
     {
-      "name": "Samen1 TV",
+      "name": "Samen",
       "isFree": true,
-      "logo": "https://i.imgur.com/3ivlnLO.png",
       "priority": 4
     },
     {
-      "name": "Siris TV",
+      "name": "Siris",
       "isFree": true,
-      "logo": "https://i.imgur.com/4qKe18X.png",
       "priority": 4
     },
     {
-      "name": "ZuidWest TV",
+      "name": "Zuid West",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+      "priority": 4
+    },
+    {
+      "name": "Omroep P&M",
+      "isFree": true,
+      "keywords": "omroep p&m",
+      "priority": 4
+    },
+    {
+      "name": "Omroep Tilburg",
+      "isFree": true,
+      "keywords": "omroep tilburg",
+      "priority": 4
+    },
+    {
+      "name": "Omroep Hulst",
+      "isFree": true,
+      "keywords": "omroep hulst",
+      "website": "https://www.omroephulst.tv/live/",
       "priority": 4
     }
   ],
   "Shop": [
     {
       "name": "Tommy Teleshopping",
-      "isFree": true,
-      "shortName": "TT",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lb8ZVowimnyZ1N4OFWWJxjoJb8.jpg"
+      "isFree": true
     }
   ],
   "Entertainment": [
     {
       "name": "Breda Nu",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5c5809f144e3a0115ba440ee7dbd395e.png"
-    },
-    {
-      "name": "DNO Streek TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/83cdbea6c7b0240988ec4718f8fc2401.png"
-    },
-    {
-      "name": "Den Haag TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gkzlRED.jpg"
-    },
-    {
-      "name": "EDE TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c596056baa0cacdc2070bf243de21d52.png"
-    },
-    {
-      "name": "Groningen1",
       "isFree": true
     },
     {
-      "name": "HK13 TV",
+      "name": "DNO Streek",
+      "isFree": true
+    },
+    {
+      "name": "Den Haag",
+      "isFree": true
+    },
+    {
+      "name": "EDE",
+      "isFree": true
+    },
+    {
+      "name": "Groningen",
+      "isFree": true
+    },
+    {
+      "name": "HK 13",
       "isFree": true
     },
     {
       "name": "InTrouble",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/988a8389af8ee1666712ddc506d23721.png"
+      "isFree": true
     },
     {
       "name": "InWild",
@@ -170,17 +146,15 @@
     },
     {
       "name": "InWonder",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7ad9a0ab6e4f3469878219805a04d93f.png"
+      "isFree": true
     },
     {
       "name": "Inshort",
       "isFree": true
     },
     {
-      "name": "Insight TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/08/16/large/20240816032119028184_96.png"
+      "name": "Insight",
+      "isFree": true
     },
     {
       "name": "Insight+",
@@ -195,92 +169,80 @@
       "isFree": true
     },
     {
-      "name": "Meer TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/65ecf72709d9a0004dc407e6e536c7d9.png"
+      "name": "Meer",
+      "isFree": true
     },
     {
-      "name": "NPO 1",
+      "name": "NPO",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "https://www.npo.nl",
       "priority": 10
     },
     {
       "name": "NPO 2",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "https://www.npo.nl",
       "priority": 9
     },
     {
       "name": "NPO 3",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "https://www.npo.nl",
       "priority": 9
     },
     {
       "name": "ORTS",
-      "isFree": true
+      "isFree": true,
+      "website": "https://orts.nl/"
     },
     {
       "name": "Omroep Brabant",
       "isFree": true,
-      "keywords": "omroep brabant -radio",
-      "logo": "https://i.imgur.com/Jv7IjHJ.png"
+      "keywords": "omroep brabant -radio"
     },
     {
       "name": "Omroep Flevoland",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/500e8a48b16cb50dd4dd9dd64efd1663.png"
+      "isFree": true
     },
     {
       "name": "Omroep Gelderland",
-      "isFree": true,
-      "shortName": "OG",
-      "logo": "https://i.imgur.com/2LZJo7k.png"
+      "isFree": true
     },
     {
       "name": "Omroep Ons West Brabant",
-      "isFree": true,
-      "shortName": "OOWB"
+      "isFree": true
     },
     {
       "name": "Omroep P&M",
       "isFree": true,
-      "keywords": "omroep p&m -tv"
+      "keywords": "omroep p&m",
+      "priority": 4
     },
     {
       "name": "Omroep Tilburg",
       "isFree": true,
-      "keywords": "omroep tilburg -tv",
-      "logo": "https://images.iptvmate.net/tvglogo/d98069a4e19d36653bc503e47994b7d1.png"
+      "keywords": "omroep tilburg",
+      "priority": 4
     },
     {
       "name": "Omroep West",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1a2ad4e27d2fe344b8d40751df0b412f.png"
+      "isFree": true
     },
     {
       "name": "Omroep Zeeland",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8aLDyUI.png"
+      "isFree": true
     },
     {
       "name": "Omrop Fryslan",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Omrop Fryslân",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Open Rotterdam",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ccb5165d9f83c73cb8a97f5dfc1daf9c.png"
+      "isFree": true
     },
     {
       "name": "Podium.TV",
@@ -289,38 +251,31 @@
     },
     {
       "name": "Podium.TV 2",
-      "isFree": true,
-      "logo": "https://lo1.in/uk/247.png"
+      "isFree": true
     },
     {
       "name": "Podium.TV 3",
-      "isFree": true,
-      "logo": "https://lo1.in/uk/247.png"
+      "isFree": true
     },
     {
-      "name": "RN 7 TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1da408bffef275bf81d0654c90aaa7cc.png"
+      "name": "RN 7",
+      "isFree": true
     },
     {
       "name": "RTV Amstelveen",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e5cba06036f08bba6f3d68a35ddd35ad.png"
+      "isFree": true
     },
     {
       "name": "RTV Arnhem",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/49a363f603a90fa14dbd29514cee2ff0.png"
+      "isFree": true
     },
     {
       "name": "RTV Dordrecht",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/cddc32d0af6ab6445ccaabb2ffc83c0f.png"
+      "isFree": true
     },
     {
       "name": "RTV Drenthe",
-      "isFree": true,
-      "logo": "https://i.imgur.com/GaGqM4z.png"
+      "isFree": true
     },
     {
       "name": "RTV GO!",
@@ -328,24 +283,20 @@
     },
     {
       "name": "RTV Maastricht",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
-      "name": "RTV NOF 1",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "name": "RTV NOF",
+      "isFree": true
     },
     {
       "name": "RTV NOF 2",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
       "name": "RTV Noord",
       "isFree": true,
-      "keywords": "rtv noord -extra",
-      "logo": "https://i.imgur.com/pO5Mexa.png"
+      "keywords": "rtv noord -extra"
     },
     {
       "name": "RTV Noord Extra",
@@ -353,19 +304,15 @@
     },
     {
       "name": "RTV Noordoost Friesland",
-      "isFree": true,
-      "shortName": "RNF",
-      "logo": "https://images.iptvmate.net/tvglogo/37ccfc961fa6c51895aa9997547bffcb.png"
+      "isFree": true
     },
     {
       "name": "RTV Oost",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/18cec9caa5fbb13fb109dd2c9fe0e132.png"
+      "isFree": true
     },
     {
       "name": "RTV Rijnmond",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b00710f8649e898e7874207ce8807daf.png"
+      "isFree": true
     },
     {
       "name": "RTV Slingeland",
@@ -374,87 +321,68 @@
     {
       "name": "RTV Utrecht",
       "isFree": true,
-      "keywords": "rtv utrecht | rtvutrecht",
-      "logo": "https://i.imgur.com/c0I24N6.png"
+      "keywords": "rtv utrecht | rtvutrecht"
     },
     {
       "name": "Regio TV Nieuws",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b22debcf38b309eb0ab9b3db2014acf3.png"
+      "isFree": true
     },
     {
-      "name": "Salto 1",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e9230137128f087f9ede78e1d3a7b5de.png"
+      "name": "Salto",
+      "isFree": true
     },
     {
       "name": "Salto 2",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e9230137128f087f9ede78e1d3a7b5de.png"
+      "isFree": true
     },
     {
       "name": "Salto 4",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e9230137128f087f9ede78e1d3a7b5de.png"
+      "isFree": true
     },
     {
       "name": "Salto ADE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e9230137128f087f9ede78e1d3a7b5de.png"
+      "isFree": true
     },
     {
-      "name": "Silence TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
+      "name": "Silence",
+      "isFree": true
     },
     {
-      "name": "Streek TV",
+      "name": "Streek",
       "isFree": true,
       "keywords": "streek tv | streektv"
     },
     {
       "name": "TV Ellef",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/84ac32ff33520060daca0c6741c8cea7.png"
-    },
-    {
-      "name": "TV Valkenburg",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c00daec07ef488ea4f383b3feefa7a97.png"
-    },
-    {
-      "name": "UStad",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/46da0951cefca0b1cefe9698ecffb0c7.png"
-    },
-    {
-      "name": "Vechtdal TV",
       "isFree": true
     },
     {
-      "name": "WOS TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/03043337e7665546f13b74f3e5f06c41.png"
+      "name": "TV Valkenburg",
+      "isFree": true
+    },
+    {
+      "name": "UStad",
+      "isFree": true
+    },
+    {
+      "name": "Vechtdal",
+      "isFree": true
     },
     {
       "name": "Xite",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3bc59eae85ab6256779ca95ab4506ac9.png"
+      "isFree": true
     },
     {
-      "name": "ZO!34",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/27822295fe393231809a7a6103bbf06e.png"
+      "name": "ZO! 34",
+      "isFree": true
     },
     {
-      "name": "Zuid West TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fdcbe65a4acaa19d34149c164e5c0261.png"
+      "name": "Zuid West",
+      "isFree": true
     },
     {
       "name": "13th Street",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HzrPn1gEHWixfMOvOehOTlHROo.jpg"
+      "isFree": true
     },
     {
       "name": "1AlmereTV",
@@ -462,14 +390,13 @@
       "website": "https://www.1almere.nl/"
     },
     {
-      "name": "1Twente TV",
+      "name": "1Twente",
       "isFree": true,
       "website": "https://www.1twente.nl/kijk"
     },
     {
-      "name": "A1 TV",
+      "name": "A",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.a1mediagroep.nl/"
     },
     {
@@ -478,41 +405,37 @@
       "website": "http://aavisie.nl/"
     },
     {
-      "name": "Albrandswaard TV",
+      "name": "Albrandswaard",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.albrandswaardtv.nl/"
     },
     {
-      "name": "Altena TV",
+      "name": "Altena",
       "isFree": true
     },
     {
-      "name": "Assen TV",
+      "name": "Assen",
       "isFree": true
     },
     {
-      "name": "AT5",
+      "name": "AT 5",
       "isFree": true,
       "website": "http://www.at5.nl/"
     },
     {
-      "name": "ATOS TV",
+      "name": "ATOS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.atosrtv.nl/contact/"
     },
     {
       "name": "BBC NL",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.bbcbenelux.com/zenders/nl",
       "priority": 10
     },
     {
-      "name": "Beek TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Beek",
+      "isFree": true
     },
     {
       "name": "Beleef KPN",
@@ -525,25 +448,22 @@
       "website": "https://www.bluehustler.com/"
     },
     {
-      "name": "BredaNu TV",
+      "name": "Breda Nu",
       "isFree": true
     },
     {
       "name": "BVN",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png",
       "website": "https://www.bvn.tv/"
     },
     {
       "name": "Canal Digitaal informatiekanaal",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canaldigitaal.nl/"
     },
     {
-      "name": "Castricum TV",
+      "name": "Castricum",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://omroepcastricum.nl/"
     },
     {
@@ -552,7 +472,7 @@
       "priority": 9
     },
     {
-      "name": "Centraal TV",
+      "name": "Centraal",
       "isFree": true
     },
     {
@@ -567,69 +487,59 @@
       "website": "https://www.comedycentral.nl/extra"
     },
     {
-      "name": "Delta TV",
+      "name": "Delta",
       "isFree": true,
       "website": "https://www.delta.nl/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "https://www.discoveryplus.nl/zenders/discovery",
       "priority": 10
     },
     {
       "name": "Dit is Helmond",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xiklPAAUlRgcWntU1ZYAL2Tpmd.jpg",
       "website": "https://ditishelmond.nl/"
     },
     {
-      "name": "Dorcel TV",
+      "name": "Dorcel",
       "isFree": null,
       "keywords": "dorcel tv -africa",
-      "logo": "http://epg.one/img2/2324.png",
       "website": "http://www.dorceltv.com/"
     },
     {
       "name": "Dorcel TV Africa",
       "isFree": null,
-      "logo": "http://epg.one/img2/2324.png",
       "website": "https://www.dorcel.com/en/dorceltv-africa/"
     },
     {
       "name": "Dorcel XXX",
       "isFree": null,
-      "logo": "http://epg.one/img2/2324.png",
       "website": "https://www.dorcel.com/group/en/tv-channels/"
     },
     {
       "name": "DRTV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DR.png"
+      "isFree": true
     },
     {
       "name": "DTV Den Bosch",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/Montana_Television(1).png",
       "website": "https://dtvnieuws.nl/denbosch"
     },
     {
       "name": "DTV Maashorst",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/Montana_Television(1).png",
       "website": "https://dtvnieuws.nl/televisie-livestream"
     },
     {
       "name": "DTV Oss & Bernheze",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/Montana_Television(1).png",
       "website": "https://dtvnieuws.nl/nieuws"
     },
     {
-      "name": "Dusk TV",
+      "name": "Dusk",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
       "website": "https://www.dusk-tv.com/"
     },
     {
@@ -640,13 +550,11 @@
     {
       "name": "E! Europe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
       "website": "https://www.eonline.com/"
     },
     {
       "name": "EroX",
       "isFree": null,
-      "logo": "http://epg.one/img2/2193.png",
       "website": "http://spiintl.com/channels/erox"
     },
     {
@@ -662,7 +570,6 @@
     {
       "name": "FashionBox",
       "isFree": true,
-      "logo": "https://go4.pw/MBCGROUP/Fashion-Box.png",
       "website": "http://www.fashionboxlive.com/"
     },
     {
@@ -678,19 +585,16 @@
     {
       "name": "Gametoon",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/POLONIA/GAMETOON.png",
       "website": "http://www.gametoon.com/"
     },
     {
-      "name": "Gemeente Westland TV",
+      "name": "Gemeente Westland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.gemeentewestland.nl/contact-en-openingstijden"
     },
     {
       "name": "GHtv Holland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
       "website": "https://ghtvholland.com/"
     },
     {
@@ -698,66 +602,58 @@
       "isFree": true
     },
     {
-      "name": "Gouwestad TV",
+      "name": "Gouwestad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://rtvmiddenholland.nl/gouwestad/"
     },
     {
-      "name": "Haarlem105 TV",
+      "name": "Haarlem105",
       "isFree": true,
       "website": "https://haarlem105.nl/"
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://www.hgtv.com/"
     },
     {
-      "name": "Hofstreek TV",
+      "name": "Hofstreek",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://hofstreek.nl/contact/"
     },
     {
-      "name": "HOi TV",
+      "name": "HOi",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://www.hoimedia.com/"
     },
     {
-      "name": "HTR TV",
+      "name": "HTR",
       "isFree": true,
       "website": "https://htrmedia.evtmedia.nl/index.php/tv"
     },
     {
-      "name": "Hustler HD",
+      "name": "Hustler",
       "isFree": null,
       "website": "https://www.hustlerhd.eu/"
     },
     {
       "name": "Hustler TV Europe",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fgpf0luNrgDlEQMZucKHzCIMa.jpg",
       "website": "https://hustlertv.eu/"
     },
     {
-      "name": "Ijsselmond TV",
+      "name": "Ijsselmond",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://rtvijsselmond.nl/contact/"
     },
     {
       "name": "INFAST",
       "isFree": true,
-      "logo": "https://media.unreel.me/prod/rewardedtv/logo/4caf4e9b-351c-49ae-8788-49e96245b005",
       "website": "https://www.in.tv/channels/infast"
     },
     {
       "name": "INPLUS",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/inplus.png",
       "website": "https://www.in.tv/channels/inplus"
     },
     {
@@ -766,97 +662,81 @@
       "website": "https://www.in.tv/channels/intravel"
     },
     {
-      "name": "Jenz TV",
+      "name": "Jenz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.jenz-tv.nl/"
     },
     {
       "name": "KempenTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/ZiPL9ar.png",
       "website": "https://www.kempentv.nl/"
     },
     {
-      "name": "Kontakt TV",
+      "name": "Kontakt",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvkontakt.nl/"
     },
     {
-      "name": "L1 TV",
+      "name": "L",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/l1.png",
       "website": "https://www.l1.nl/"
     },
     {
-      "name": "Langstraat TV",
+      "name": "Langstraat",
       "isFree": true,
-      "logo": "https://i.imgur.com/xchUfks.png",
       "website": "https://www.langstraatmedia.nl/langstraat-tv/"
     },
     {
-      "name": "LEO Middelse TV",
+      "name": "LEO Middelse",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wQydIQYho2wz1suPOoPoNgMzCm.jpg",
       "website": "https://leomiddelse.nl/live-tv-kijken/"
     },
     {
-      "name": "LINQ TV",
+      "name": "LINQ",
       "isFree": true,
-      "logo": "https://i.imgur.com/0DgP3vu.png",
       "website": "http://www.linqmedia.nl/"
     },
     {
-      "name": "Loco TV",
+      "name": "Loco",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhKfJ8EMQv3491m7rB3he4Fq6Sf.jpg",
       "website": "https://www.locomediagroep.nl/contact"
     },
     {
       "name": "Lokaal 7",
       "isFree": true,
-      "logo": "https://i.imgur.com/llDbOoU.png",
       "website": "https://www.lokaal7.nl/"
     },
     {
       "name": "Lokale Omroep Zeewolde",
       "isFree": true,
-      "logo": "https://i.postimg.cc/7h1d2Jsz/lokaleomroepzeewolde.png",
       "website": "https://www.lokaleomroepzeewolde.nl/"
     },
     {
-      "name": "LOK TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ea56b06d79f81554a9e51130f13c4f12.png"
+      "name": "LOK",
+      "isFree": true
     },
     {
-      "name": "LOS TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyxh9Wr9iYXsn1kJs77IoACNL2d.jpg"
+      "name": "LOS",
+      "isFree": true
     },
     {
       "name": "Magic PowerRadio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
       "website": "https://www.magic-powerradio.nl/video"
     },
     {
       "name": "MaLive",
       "isFree": true,
-      "logo": "https://i.imgur.com/0Vzg2OR.png",
       "website": "https://malive.nl/"
     },
     {
       "name": "Meiden van Holland Hard",
       "isFree": null,
-      "logo": "http://epg.one/img2/4932.png",
       "website": "https://meidenvanholland.nl/"
     },
     {
-      "name": "Meppel TV",
+      "name": "Meppel",
       "isFree": true,
-      "logo": "https://i.postimg.cc/BvtN27Qs/rtvmeppel.png",
       "website": "https://www.rtvmeppel.nl/"
     },
     {
@@ -865,149 +745,127 @@
       "website": "https://merwertv.nl/"
     },
     {
-      "name": "MLA TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "MLA",
+      "isFree": true
     },
     {
       "name": "MTV",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "https://www.mtv.nl/",
       "priority": 10
     },
     {
-      "name": "NET5",
+      "name": "NET 5",
       "isFree": true,
       "website": "https://www.net5.nl/"
     },
     {
       "name": "NH",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.nhnieuws.nl/"
     },
     {
-      "name": "NOOS TV",
+      "name": "NOOS",
       "isFree": true,
-      "logo": "https://i.imgur.com/X8xLcpT.png",
       "website": "https://noos.tv/"
     },
     {
       "name": "NPO 1 extra",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "http://www.npo1extra.nl/",
       "priority": 9
     },
     {
       "name": "NPO 2 extra",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "http://www.npo2extra.nl/",
       "priority": 9
     },
     {
       "name": "Omroep Almere",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroepalmere.nl/"
     },
     {
       "name": "Omroep Berg en Dal",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroepbergendal.nl/"
     },
     {
       "name": "Omroep Best",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroepbest.nl/"
     },
     {
       "name": "Omroep Bollenstreek",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.bollenstreekomroep.nl/"
     },
     {
       "name": "Omroep Dommelland",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroepdommelland.nl/"
     },
     {
       "name": "Omroep Hoeksche Waard",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroephw.nl/"
     },
     {
       "name": "Omroep Horst aan de Maas",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroephorstaandemaas.nl/"
     },
     {
       "name": "Omroep Hulst",
       "isFree": true,
-      "keywords": "omroep hulst -tv",
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-      "website": "https://www.omroephulst.tv/live/"
+      "keywords": "omroep hulst",
+      "website": "https://www.omroephulst.tv/live/",
+      "priority": 4
     },
     {
       "name": "Omroep Land van Cuijk",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroeplvc.nl/"
     },
     {
       "name": "Omroep Lingewaard",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroeplingewaard.nl/"
     },
     {
       "name": "Omroep Meierijstad",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroepmeierij.nl/televisie"
     },
     {
       "name": "Omroep Peelrand",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroeppeelrand.nl/"
     },
     {
       "name": "Omroep RSH",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroeprsh.nl/"
     },
     {
       "name": "Omroep Sudwest",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroepsudwest.tv/"
     },
     {
       "name": "Omroep Venlo",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroepvenlo.nl/televisie-livestream"
     },
     {
       "name": "Omroep Venray",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.omroepvenray.nl/"
     },
     {
       "name": "Omroep Vlaardingen",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://omroepvlaardingen.nl/"
     },
     {
@@ -1016,22 +874,14 @@
       "website": "http://www.kijkbijons.nl/"
     },
     {
-      "name": "OOG TV",
+      "name": "OOG",
       "isFree": true,
-      "logo": "https://i.imgur.com/WzxY0PL.png",
       "website": "https://www.oogtv.nl/"
     },
     {
-      "name": "OPEN Rotterdam TV",
+      "name": "OPEN Rotterdam",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Lctmkc1yah215Luxmci4djaiW.jpg",
       "website": "https://openrotterdam.nl/livestream/"
-    },
-    {
-      "name": "ORTS TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/RZM4Myo.png",
-      "website": "https://orts.nl/"
     },
     {
       "name": "OUTtv",
@@ -1041,30 +891,25 @@
     {
       "name": "Passie XXX",
       "isFree": null,
-      "logo": "http://epg.one/img2/4943.png",
       "website": "http://www.passiexxx.nl/"
     },
     {
       "name": "Passion XXX",
       "isFree": null,
       "keywords": "passion xxx -2",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OYGtQlO8k9PcOm49apV62eVJQo.jpg",
       "website": "https://www.passionxxx.net/"
     },
     {
       "name": "Passion XXX 2",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OYGtQlO8k9PcOm49apV62eVJQo.jpg"
+      "isFree": null
     },
     {
-      "name": "P&M TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "P&M",
+      "isFree": true
     },
     {
-      "name": "Private TV",
+      "name": "Private",
       "isFree": null,
-      "logo": "http://epg.one/img2/2321.png",
       "website": "https://www.privatetelevision.com/"
     },
     {
@@ -1075,35 +920,30 @@
     {
       "name": "Radio Continu",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radiocontinu.nl/"
     },
     {
       "name": "RadioToppers",
       "isFree": true,
-      "logo": "https://i.imgur.com/9OMsUd7.png",
       "website": "http://www.radio-toppers.net/"
     },
     {
-      "name": "Redlight HD",
+      "name": "Redlight",
       "isFree": null,
-      "logo": "http://epg.one/img2/2320.png",
       "website": "https://redlight.tv/"
     },
     {
       "name": "Regio TV De Bilt",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/REGIO NIEUWS SURINAME.png",
       "website": "https://regiotvdebilt.nl/"
     },
     {
-      "name": "RN7",
+      "name": "RN 7",
       "isFree": true
     },
     {
-      "name": "Ronde Venen TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ronde Venen",
+      "isFree": true
     },
     {
       "name": "ROS TV-Krant",
@@ -1113,7 +953,6 @@
     {
       "name": "RPL Woerden",
       "isFree": true,
-      "logo": "https://i.postimg.cc/xdDjrhJT/rn7.png",
       "website": "https://rplwoerden.nl/"
     },
     {
@@ -1143,132 +982,106 @@
       "website": "https://rtl.nl/"
     },
     {
-      "name": "RTV 1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/CG44YT3.png"
+      "name": "RTV",
+      "isFree": true
     },
     {
       "name": "RTV 1Amstelveen",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://1amstelveen.nl/"
     },
     {
       "name": "RTV 527",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtv527.nl/"
     },
     {
-      "name": "RTV-7",
+      "name": "RTV- 7",
       "isFree": true,
       "website": "https://www.rtv7.nl/"
     },
     {
       "name": "RTV 794",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtv794.nl/"
     },
     {
-      "name": "RTV Arnhem TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
-    },
-    {
-      "name": "RTV Focus TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "name": "RTV Focus",
+      "isFree": true
     },
     {
       "name": "RTV Hattem",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtvhattem.nl/"
     },
     {
       "name": "RTV Horizon",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
       "name": "RTV LOVE",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvlove.nl/"
     },
     {
       "name": "RTV Meppel",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvmeppel.nl/"
     },
     {
       "name": "RTV NOF Achtkarspelen & Tytsjerksteradiel",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvnof.nl/"
     },
     {
       "name": "RTV NOF Noardeast Fryslan & Dantumadiel",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvnof.nl/"
     },
     {
       "name": "RTV Nunspeet",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvnunspeet.nl/"
     },
     {
       "name": "RTV Parkstad",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtvparkstad.nl/"
     },
     {
       "name": "RTV Rijnmond Extra",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rijnmond.nl/"
     },
     {
       "name": "RTV Scheldemond",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
       "name": "RTV Seaport",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvseaport.nl/"
     },
     {
       "name": "RTV SLOS",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
-      "name": "RTV Veluwezoom TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "name": "RTV Veluwezoom",
+      "isFree": true
     },
     {
       "name": "RTV Westerwolde",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SFJ631H.png"
+      "isFree": true
     },
     {
       "name": "RTV Zaanstreek",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvzaanstreek.nl/"
     },
     {
       "name": "RTV Zulthe",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtvzulthe.nl/"
     },
     {
@@ -1280,7 +1093,6 @@
     {
       "name": "SBS6 Classics",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
       "website": "https://www.kijk.nl/programmas/sbs6-classics-247"
     },
     {
@@ -1289,109 +1101,88 @@
       "website": "https://www.sbs9.nl/"
     },
     {
-      "name": "Schagen TV",
+      "name": "Schagen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://noordkopcentraal.nl/"
     },
     {
-      "name": "Schie TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/TYNdJKCv/schietv.png"
+      "name": "Schie",
+      "isFree": true
     },
     {
-      "name": "Schlager TV",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/SCHLAGER-DELUXE.png"
+      "name": "Schlager",
+      "isFree": true
     },
     {
-      "name": "Sleutelstad TV",
+      "name": "Sleutelstad",
       "isFree": true,
-      "logo": "https://i.imgur.com/ljVGMWV.png",
       "website": "https://sleutelstad.nl/tv/"
     },
     {
-      "name": "SLOGO TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "SLOGO",
+      "isFree": true
     },
     {
-      "name": "SLOS TV",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/qBPCBbCS/rtvslos.png"
+      "name": "SLOS",
+      "isFree": true
     },
     {
-      "name": "Slotstad TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NXCUiuF.png"
+      "name": "Slotstad",
+      "isFree": true
     },
     {
-      "name": "SOL2",
+      "name": "SOL 2",
       "isFree": true,
       "website": "https://sol2.nl/"
     },
     {
-      "name": "SRC TV",
+      "name": "SRC",
       "isFree": true,
-      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3433-294x165-FFFFFF.jpg",
       "website": "https://www.src.fm/"
     },
     {
-      "name": "STAR Channel",
+      "name": "STAR",
       "isFree": true,
       "website": "https://www.starchannel.nl/"
     },
     {
       "name": "Streekstad Central",
       "isFree": true,
-      "logo": "https://i.imgur.com/9gM6rPb.png",
       "website": "https://streekstadcentraal.nl/"
     },
     {
-      "name": "Studio040 TV",
+      "name": "Studio040",
       "isFree": true,
-      "logo": "https://i.imgur.com/NBludRL.png",
       "website": "https://studio040.nl/televisie/live"
     },
     {
-      "name": "Studio Alphen TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg"
+      "name": "Studio Alphen",
+      "isFree": true
     },
     {
       "name": "Studio Rheden",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
       "website": "https://www.studiorheden.nl/"
     },
     {
-      "name": "Tholen TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tholen",
+      "isFree": true
     },
     {
       "name": "TLC",
       "isFree": true
     },
     {
-      "name": "TV 538",
-      "isFree": true,
-      "website": "http://www.tv538.nl/"
-    },
-    {
       "name": "TV Berghem",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Krimpenerwaard",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Nunspeet",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Oranje",
@@ -1401,13 +1192,11 @@
     {
       "name": "TV Rain",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvrain.ru/"
     },
     {
       "name": "TV Stichtse Vecht",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "Tweede Kamer: Actualiteitenkanaal",
@@ -1475,51 +1264,43 @@
       "website": "https://www.tweedekamer.nl/vergaderingen/livedebat/wttewaall-van-stoetwegenzaal"
     },
     {
-      "name": "Twente TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Twente",
+      "isFree": true
     },
     {
-      "name": "Tynaarlo Lokaal TV",
+      "name": "Tynaarlo Lokaal",
       "isFree": true,
-      "logo": "https://i.imgur.com/llDbOoU.png",
       "website": "https://tynaarlolokaal.nl/"
     },
     {
       "name": "Veronica / Disney Jr.",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHP6mYLQKbJY9pg99PGoGKmmBZX.jpg",
       "website": "https://www.veronicatv.nl/"
     },
     {
-      "name": "Visit-X TV",
+      "name": "Visit-X",
       "isFree": null,
-      "logo": "https://i.imgur.com/RJ9wbNF.jpg",
       "website": "https://www.visit-x.net/"
     },
     {
-      "name": "VOS TV",
+      "name": "VOS",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/VOS-TV.png",
       "website": "https://rtvos.nl/"
     },
     {
-      "name": "WEEFF TV",
+      "name": "WEEFF",
       "isFree": true,
-      "logo": "https://i.imgur.com/4XCwuob.png",
       "website": "https://weeff.nl/weeff-tv/"
     },
     {
-      "name": "WeertFM TV",
+      "name": "WeertFM",
       "isFree": true,
-      "logo": "https://i.postimg.cc/cLL97H6Y/weertfmtv.png",
       "website": "https://www.weertfm.nl/"
     },
     {
       "name": "WOS",
       "isFree": true,
-      "keywords": "wos -tv",
-      "logo": "https://i.imgur.com/L7MUBIo.png"
+      "keywords": "wos"
     },
     {
       "name": "X-MO",
@@ -1529,7 +1310,6 @@
     {
       "name": "XON",
       "isFree": true,
-      "logo": "https://i.imgur.com/xEUHgMj.png",
       "website": "https://www.xon.nu/"
     },
     {
@@ -1544,8 +1324,7 @@
   "Music Videos": [
     {
       "name": "GO-RTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/zAFt893.png"
+      "isFree": true
     },
     {
       "name": "JENZ",
@@ -1553,21 +1332,18 @@
     },
     {
       "name": "Qmusic",
-      "isFree": true,
-      "logo": "https://i.imgur.com/fMTuqDu.png"
+      "isFree": true
     },
     {
       "name": "Salto Brasa Music",
-      "isFree": true,
-      "shortName": "SBM"
+      "isFree": true
     },
     {
       "name": "XITE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3bc59eae85ab6256779ca95ab4506ac9.png"
+      "isFree": true
     },
     {
-      "name": "100% NL TV",
+      "name": "100% NL",
       "isFree": true,
       "website": "https://www.100p.nl/"
     },
@@ -1589,13 +1365,11 @@
     {
       "name": "Dance Television",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.dancetv.net/"
     },
     {
       "name": "Deep House District",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.dancetv.net/"
     },
     {
@@ -1604,14 +1378,13 @@
       "website": "https://www.fomix.nl"
     },
     {
-      "name": "GL8",
+      "name": "GL 8",
       "isFree": true,
       "website": "https://gl8.nl/radio-tv/"
     },
     {
       "name": "Hype Visual Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edcE61BiUQM8tzpxpApRvEX8yu5.jpg",
       "website": "https://www.hyperadio.nl/"
     },
     {
@@ -1622,82 +1395,69 @@
     {
       "name": "Radio JND",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radiojnd.nl/"
     },
     {
-      "name": "RadioNL TV",
+      "name": "Radio NL",
       "isFree": true,
-      "logo": "https://i.imgur.com/TVaMJYB.png",
       "website": "https://www.radionl.tv/"
     },
     {
       "name": "Radio Stad den Haag",
       "isFree": true,
-      "logo": "https://i.imgur.com/ANK36EQ.png",
       "website": "https://www.radiostaddenhaag.com/"
     },
     {
       "name": "Rararadio",
       "isFree": true,
-      "logo": "https://i.imgur.com/vTpfxUG.png",
       "website": "https://www.rararadio.org/"
     },
     {
-      "name": "SLAM! TV",
+      "name": "SLAM!",
       "isFree": true,
       "website": "https://www.slam.nl/"
     },
     {
       "name": "Stingray Brava",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
-      "name": "Top 40 TV",
+      "name": "Top 40",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.top40.nl/top40-tv"
     },
     {
       "name": "XITE 60s & 70s Groove",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/XITE.png",
       "website": "https://xite.com/"
     },
     {
       "name": "XITE Classic Country",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://xite.com/"
     },
     {
       "name": "XITE Hits",
-      "isFree": true,
-      "logo": "https://i.imgur.com/jxuwGRi.png"
+      "isFree": true
     },
     {
       "name": "XITE Just Chill",
       "isFree": true,
-      "logo": "https://i.imgur.com/jxuwGRi.png",
       "website": "https://xite.com/"
     },
     {
       "name": "XITE Reggae Vibes",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/XITE.png",
       "website": "https://xite.com/"
     },
     {
       "name": "XITE Rock x Metal",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/XITE.png",
       "website": "https://xite.com/"
     },
     {
-      "name": "ZFM Zoetermeer TV",
+      "name": "ZFM Zoetermeer",
       "isFree": true,
-      "logo": "https://i.imgur.com/vrjACvy.png",
       "website": "https://www.zfmzoetermeer.nl/"
     }
   ],
@@ -1710,25 +1470,21 @@
     {
       "name": "Gigant FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/LwEHfjD.png",
       "priority": 4
     },
     {
       "name": "Omroep Brabant Radio",
       "isFree": true,
-      "shortName": "OBR",
       "priority": 4
     },
     {
       "name": "Radio 10",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio 350",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
@@ -1737,16 +1493,13 @@
       "priority": 4
     },
     {
-      "name": "Radio A1",
+      "name": "Radio A",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
-      "name": "Radio Aalsmeer TV",
+      "name": "Radio Aalsmeer",
       "isFree": true,
-      "shortName": "RAT",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
@@ -1755,7 +1508,7 @@
       "priority": 4
     },
     {
-      "name": "Radio RN7",
+      "name": "Radio RN 7",
       "isFree": true,
       "priority": 4
     },
@@ -1774,7 +1527,6 @@
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "https://www.dplay.nl/zenders/animal-planet"
     },
     {
@@ -1790,13 +1542,11 @@
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://history.nl/"
     },
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "https://www.discoverybenelux.nl/merken/investigation-discovery/"
     },
     {
@@ -1805,23 +1555,20 @@
       "website": "https://www.in.tv/channels/inwild"
     },
     {
-      "name": "Jin TV",
+      "name": "Jin",
       "isFree": true,
-      "logo": "https://i.postimg.cc/xdkDqCKf/jintv.png",
       "website": "https://jintv.net/en/contact/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.nationalgeographic.nl/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "https://www.nationalgeographic.nl/",
       "priority": 9
     }
@@ -1830,20 +1577,17 @@
     {
       "name": "Boomerang",
       "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png",
       "website": "https://www.boomerangtv.nl/"
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://www.disney.nl/",
       "priority": 10
     },
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "https://tv.disney.nl/",
       "priority": 9
     },
@@ -1862,7 +1606,6 @@
     {
       "name": "Nickelodeon Scandinavia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nickelodeon.no/"
     },
     {
@@ -1880,7 +1623,6 @@
       "name": "Nicktoons",
       "isFree": true,
       "keywords": "nicktoons -scandinavia",
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
       "website": "https://www.nickelodeon.nl/"
     },
     {
@@ -1891,12 +1633,11 @@
     {
       "name": "NPO Zappelin Extra",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "https://www.npo.nl/",
       "priority": 9
     },
     {
-      "name": "Pebble TV",
+      "name": "Pebble",
       "isFree": true,
       "website": "http://www.pebbletv.nl/"
     },
@@ -1908,7 +1649,7 @@
   ],
   "Religious": [
     {
-      "name": "BTL TV",
+      "name": "BTL",
       "isFree": true,
       "website": "https://btl-tv.com/"
     }
@@ -1917,13 +1658,11 @@
     {
       "name": "De Rechtspraak",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
       "website": "https://www.rechtspraak.nl/"
     },
     {
-      "name": "Eemland 1",
+      "name": "Eemland",
       "isFree": true,
-      "logo": "https://i.postimg.cc/j2Cp71bV/eemland1.png",
       "website": "https://www.eemland1.nl/"
     },
     {
@@ -1935,7 +1674,6 @@
     {
       "name": "NPO Politiek en Nieuws",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/npo1.png",
       "website": "https://npo.nl/start/live?channel=NPO+Politiek+en+Nieuws",
       "priority": 9
     },
@@ -1985,7 +1723,6 @@
     {
       "name": "FilmBox Africa",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/FILMBOX.png",
       "website": "https://www.filmbox.nl/"
     },
     {
@@ -1996,7 +1733,6 @@
     {
       "name": "FilmBox Baltics",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/FILMBOX.png",
       "website": "https://www.filmbox.nl/"
     },
     {
@@ -2017,19 +1753,16 @@
     {
       "name": "FilmBox Stars",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/FILMBOX.png",
       "website": "http://hu.filmboxextra.pl/"
     },
     {
       "name": "Filmstream",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/01486e7875b019c7677eb62b4f64df32.png",
       "website": "https://spiintl.com/channels/filmstream"
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "https://www.paramountnetwork.nl/"
     },
     {
@@ -2043,7 +1776,6 @@
       "name": "ESPN",
       "isFree": true,
       "keywords": "espn -2 -3 -4 -uhd",
-      "logo": "https://i.imgur.com/CkoAvYH.png",
       "website": "https://www.espn.nl/",
       "priority": 10
     },
@@ -2056,14 +1788,12 @@
     {
       "name": "ESPN 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/VCPTlBD.png",
       "website": "https://www.espn.nl/",
       "priority": 10
     },
     {
       "name": "ESPN 4",
       "isFree": true,
-      "logo": "https://i.imgur.com/ErWFVO3.png",
       "website": "https://www.espn.nl/",
       "priority": 10
     },
@@ -2074,7 +1804,7 @@
       "priority": 10
     },
     {
-      "name": "Extreme Sports Channel",
+      "name": "Extreme Sports",
       "isFree": true,
       "website": "http://extreme.com/"
     },
@@ -2091,7 +1821,6 @@
     {
       "name": "FightBox",
       "isFree": true,
-      "logo": "http://epg.one/img2/3792.png",
       "website": "http://www.fightbox.com"
     },
     {
@@ -2103,13 +1832,11 @@
       "name": "Sport Klub",
       "isFree": true,
       "keywords": "sport klub -1 -2 -3 -4 -4k -5 -6 -esports -fight -golf -start",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sportklub.n1info.rs/"
     },
     {
-      "name": "Sport Klub 1",
+      "name": "Sport Klub",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sportklub.n1info.hr/"
     },
     {
@@ -2125,105 +1852,93 @@
     {
       "name": "Sport Klub 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sportklub.n1info.hr/"
     },
     {
       "name": "Sport Klub 4K",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sportklub.rs/"
     },
     {
       "name": "Sport Klub 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sportklub.n1info.hr/"
     },
     {
       "name": "Sport Klub 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sportklub.n1info.hr/"
     },
     {
       "name": "Sport Klub Esports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sportklub.rs/esports"
     },
     {
       "name": "Sport Klub Fight",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sportklub.rs/"
     },
     {
       "name": "Sport Klub Golf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sportklub.rs/"
     },
     {
       "name": "Sport Klub Start",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://www.sportklub.com.hr/"
     },
     {
-      "name": "Viaplay TV",
+      "name": "Viaplay",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png",
       "website": "https://viaplay.com/nl-nl/"
     },
     {
       "name": "Viaplay TV+",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "https://viaplay.com/nl-nl/"
     },
     {
       "name": "Ziggo Sport",
       "isFree": true,
       "keywords": "ziggo sport -2 -3 -4 -5 -6 -extra",
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport 2",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport 3",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport 4",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport 5",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport 6",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
     },
     {
       "name": "Ziggo Sport Extra",
       "isFree": true,
-      "logo": "https://go4.pw/USA/teni.png",
       "website": "https://www.ziggosport.nl/"
+    }
+  ],
+  "Added": [
+    {
+      "name": "NOS"
     }
   ]
 }

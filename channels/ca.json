@@ -4,22 +4,18 @@
       "name": "CBC News",
       "isFree": true,
       "keywords": "cbc news -highlights -network",
-      "logo": "https://i.imgur.com/1EqQGKS.png",
       "website": "https://www.cbc.ca/news",
       "priority": 9
     },
     {
       "name": "CBC News Highlights",
       "isFree": true,
-      "shortName": "CNH",
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
       "priority": 10
     },
     {
       "name": "CBC News Network",
       "isFree": true,
       "shortName": "CBC NN",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.cbc.ca/news/cbc-news-network",
       "priority": 10
     },
@@ -33,21 +29,11 @@
       "name": "CPAC English",
       "isFree": true,
       "retransmits": "CPAC",
-      "shortName": "CPAC",
       "website": "https://www.cpac.ca"
-    },
-    {
-      "name": "CTV News",
-      "isFree": true,
-      "logo": "https://i.imgur.com/T3oBeiX.png",
-      "website": "https://www.ctvnews.ca",
-      "priority": 10
     },
     {
       "name": "Canal de l'Assemblée nationale",
       "isFree": true,
-      "shortName": "AN",
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://assnat.qc.ca"
     },
     {
@@ -57,49 +43,35 @@
     {
       "name": "Global News British Columbia",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNBC",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Calgary",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNC",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Edmonton",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNE",
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Halifax",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNH",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Kingston",
-      "isFree": true,
-      "shortName": "GNK",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "isFree": true
     },
     {
       "name": "Global News Lethbridge",
-      "isFree": true,
-      "shortName": "GNL",
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Global News Montreal",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNM",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News National",
@@ -109,99 +81,75 @@
     },
     {
       "name": "Global News Okanagan",
-      "isFree": true,
-      "shortName": "GNO",
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Global News Peterborough",
-      "isFree": true,
-      "shortName": "GNP",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "isFree": true
     },
     {
       "name": "Global News Regina",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNR",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Saskatoon",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNS",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Toronto",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNT",
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global News Winnipeg",
       "isFree": true,
-      "retransmits": "Global News National",
-      "shortName": "GNW",
-      "logo": "https://i.imgur.com/IpfmG93.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Ici RDI",
       "isFree": true,
-      "shortName": "RDI",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://ici.radio-canada.ca/rdi"
     },
     {
       "name": "Ontario Parliamentary Network",
       "isFree": true,
-      "shortName": "OPN",
       "website": "https://www.ola.org"
     },
     {
       "name": "The Weather Network",
       "isFree": true,
-      "keywords": "the weather network -event",
-      "shortName": "TWN",
-      "logo": "https://i.imgur.com/V6ZUwUY.png"
+      "keywords": "the weather network -event"
     },
     {
       "name": "The Weather Network Event",
-      "isFree": true,
-      "shortName": "TWNE",
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "isFree": true
     },
     {
       "name": "ATN ARY News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-ary-news"
     },
     {
       "name": "ATN DD News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-dd-news"
     },
     {
       "name": "ATN News",
       "isFree": true,
       "keywords": "atn news -18",
-      "logo": "https://images.iptvmate.net/tvglogo/8394b42f608c4cdfef24a7cf602ede1a.png",
       "website": "http://asiantelevision.com/channel/atn-news"
     },
     {
       "name": "ATN News 18",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-news-18"
     },
     {
       "name": "ATN Punjabi News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-punjabi-news"
     },
     {
@@ -212,82 +160,72 @@
     {
       "name": "BNN Bloomberg",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
       "website": "https://www.bnnbloomberg.ca/"
     },
     {
       "name": "Channel Y",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://southasiandaily.com/"
     },
     {
       "name": "CHEK",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/chek.png",
       "website": "http://www.cheknews.ca/"
     },
     {
       "name": "CityNews Calgary",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://calgary.citynews.ca/video/"
     },
     {
       "name": "CityNews Edmonton",
       "isFree": true,
-      "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
       "website": "https://edmonton.citynews.ca/video/"
     },
     {
       "name": "CityNews Toronto",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://toronto.citynews.ca/video/"
     },
     {
       "name": "CityNews Vancouver",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://vancouver.citynews.ca/video/"
     },
     {
       "name": "CityNews Winnipeg",
       "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png",
       "website": "https://winnipeg.citynews.ca/video/"
     },
     {
-      "name": "CTV News Channel",
+      "name": "CTV News",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/04/large/20220304182551139789_85.png",
       "website": "http://www.ctvnews.ca/ctv-news-channel",
-      "priority": 10
+      "priority": 10,
+      "_altWebsites": [
+        "https://www.ctvnews.ca"
+      ]
     },
     {
       "name": "Global News",
       "isFree": true,
       "keywords": "global news -british columbia -calgary -edmonton -halifax -kingston -lethbridge -montreal -national -okanagan -peterborough -regina -saskatoon -toronto -winnipeg",
-      "logo": "https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png",
       "website": "https://globalnews.ca/"
     },
     {
-      "name": "Global News: BC1",
+      "name": "Global News: BC",
       "isFree": true,
       "retransmits": "Global News National",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "http://globalnews.ca/bc/program/bc-1/"
     },
     {
-      "name": "Hamdard TV",
+      "name": "Hamdard",
       "isFree": true,
-      "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
       "website": "https://www.hamdardtv.com/"
     },
     {
       "name": "LCN",
       "isFree": true,
-      "logo": "https://i.imgur.com/iKDLgOG.png",
       "website": "https://www.tvanouvelles.ca/"
     },
     {
@@ -298,95 +236,65 @@
     {
       "name": "Probashi TV News",
       "isFree": true,
-      "logo": "https://i.imgur.com/7oTsfQ4.png",
       "website": "https://probashinews24.tv/"
     },
     {
       "name": "The News Forum",
-      "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "isFree": true
     },
     {
       "name": "TV Punjab",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23015/tv-punjab/logo_20231219_223846_50.png",
       "website": "https://tvpunjab.com/"
     },
     {
       "name": "WeatherSpy",
       "isFree": true,
-      "logo": "https://i.imgur.com/KIEKOt1.png",
       "website": "https://www.weatherspy.tv/"
     },
     {
       "name": "Media of Canada",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "isFree": null
     },
     {
       "name": "ON",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
-    },
-    {
-      "name": "North Bay, Ontario",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay0dOKJgyK4VEh3xakV15UgvJMF.jpg"
-    },
-    {
-      "name": "Windsor, Ontario",
       "isFree": null
     },
     {
-      "name": "https://www.crtc.gc.ca/eng/archive/2011/2011-379.htm",
+      "name": "North Bay - Ontario",
       "isFree": null
     },
     {
-      "name": "https://www.crtc.gc.ca/eng/archive/2011/2011-444.htm",
+      "name": "Windsor - Ontario",
       "isFree": null
     },
     {
-      "name": "https://www.crtc.gc.ca/eng/archive/2011/2011-445.htm",
+      "name": "ON",
       "isFree": null
     },
     {
-      "name": "ON]]",
-      "isFree": null
-    },
-    {
-      "name": "North Bay]], [[Ontario",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay0dOKJgyK4VEh3xakV15UgvJMF.jpg"
-    },
-    {
-      "name": "Windsor]], [[Ontario",
+      "name": "Windsor",
       "isFree": null
     }
   ],
   "Religious": [
     {
-      "name": "Amazing Discoveries TV",
-      "isFree": true,
-      "shortName": "ADT"
+      "name": "Amazing Discoveries",
+      "isFree": true
     },
     {
-      "name": "Bible Discovery TV",
+      "name": "Bible Discovery",
       "isFree": true,
-      "shortName": "BDT",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGcWuIIbGRS2Iv9K1GOY9aA7Fxs.jpg",
       "priority": 9
     },
     {
-      "name": "EMCI TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/27a50eb5e1feda3da6d594e14a0b2630.png"
+      "name": "EMCI",
+      "isFree": true
     },
     {
       "name": "EWTN Canada",
       "isFree": true,
       "retransmits": "EWTN",
-      "shortName": "EWTN",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://ewtn.com",
       "priority": 8
     },
@@ -394,49 +302,39 @@
       "name": "EWTN Canadá",
       "isFree": true,
       "retransmits": "EWTN",
-      "shortName": "EWTN",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://ewtn.com",
       "priority": 8
     },
     {
-      "name": "GurSikh Sabha TV",
+      "name": "GurSikh Sabha",
       "isFree": true,
-      "keywords": "gursikh sabha tv -scarborough",
-      "logo": "https://i.imgur.com/2EKCtQm.png"
+      "keywords": "gursikh sabha tv -scarborough"
     },
     {
-      "name": "IIPC TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "IIPC",
+      "isFree": true
     },
     {
-      "name": "Miracle Channel",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Miracle",
+      "isFree": true
     },
     {
       "name": "Salt + Light Television",
-      "isFree": true,
-      "shortName": "SLT",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "3ABN Canada",
       "isFree": true,
-      "logo": "https://i.imgur.com/U99CsEc.png",
       "website": "https://3abn.ca/"
     },
     {
-      "name": "Azan TV",
+      "name": "Azan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://azan.tv/"
     },
     {
-      "name": "Beacon TV",
+      "name": "Beacon",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tnnK9sg15Q1TCvFkUm5JE2QhA1.jpg",
       "website": "https://beacontv.ca/"
     },
     {
@@ -445,12 +343,12 @@
       "website": "https://www.joytv.ca/"
     },
     {
-      "name": "CHNU-DT-1",
+      "name": "CHNU-DT-",
       "isFree": true,
       "website": "https://www.joytv.ca/"
     },
     {
-      "name": "CIIT-DT1",
+      "name": "CIIT-DT",
       "isFree": true,
       "website": "https://www.faithtelevision.ca/"
     },
@@ -460,7 +358,7 @@
       "website": "https://www.miraclechannel.ca/"
     },
     {
-      "name": "CJIL-TV-1",
+      "name": "CJIL-TV-",
       "isFree": true,
       "website": "https://www.miraclechannel.ca/"
     },
@@ -477,60 +375,50 @@
     {
       "name": "Daystar TV Canada",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_DAYSTAR.png",
       "website": "https://canada.daystar.com/"
     },
     {
       "name": "EMCI TV America",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NEGIRIA/EMCI-TV.png",
       "website": "https://emcitv.com/direct/montreal/"
     },
     {
-      "name": "Erfan Halgheh TV",
-      "isFree": true,
-      "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png"
+      "name": "Erfan Halgheh",
+      "isFree": true
     },
     {
       "name": "Hope Channel Canada",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopetv.ca/"
     },
     {
-      "name": "ICnet 1",
+      "name": "ICnet",
       "isFree": true,
-      "logo": "https://i.imgur.com/aeS4Sjv.png",
       "website": "https://icnet.tv/"
     },
     {
       "name": "ICnet 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/Ke5xn4E.png",
       "website": "https://icnet.tv/"
     },
     {
       "name": "icnet 3",
       "isFree": true,
-      "logo": "https://i.postimg.cc/RVqQMVVV/icnet3.png",
       "website": "https://icnet.tv/"
     },
     {
-      "name": "Living Springs TV",
+      "name": "Living Springs",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg",
       "website": "https://livingsprings.tv/"
     },
     {
-      "name": "Quo Vadis TV",
+      "name": "Quo Vadis",
       "isFree": true,
-      "logo": "https://i.imgur.com/pEqDDHl.png",
       "website": "https://quovadisministry.org/"
     },
     {
       "name": "Radio Tele Evangile Sans Limite",
       "isFree": true,
-      "logo": "https://i.imgur.com/CL32kFA.png",
       "website": "https://radiotelevangilesanslimite.com/"
     }
   ],
@@ -538,13 +426,11 @@
     {
       "name": "Canal Savoir",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/25/large/20220525022138110323_98.png",
       "website": "https://www.canalsavoir.tv"
     },
     {
-      "name": "Shifa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Shifa",
+      "isFree": true
     },
     {
       "name": "AMI-tele",
@@ -559,19 +445,16 @@
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "http://www.animalplanet.ca/"
     },
     {
       "name": "ATN DD Bharati",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-dd-bharati"
     },
     {
       "name": "Avis de recherche",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
       "website": "http://adr.tv/"
     },
     {
@@ -595,7 +478,7 @@
       "website": "http://www.omnitv.ca/bc/en/"
     },
     {
-      "name": "CHNM-DT-1",
+      "name": "CHNM-DT-",
       "isFree": true,
       "website": "http://www.omnitv.ca/bc/en/"
     },
@@ -605,42 +488,42 @@
       "website": "https://www.tvo.org/"
     },
     {
-      "name": "CICO-DT-18",
+      "name": "CICO-DT- 18",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-24",
+      "name": "CICO-DT- 24",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-28",
+      "name": "CICO-DT- 28",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-32",
+      "name": "CICO-DT- 32",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-53",
+      "name": "CICO-DT- 53",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-59",
+      "name": "CICO-DT- 59",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-9",
+      "name": "CICO-DT- 9",
       "isFree": true,
       "website": "https://tvo.me/"
     },
     {
-      "name": "CICO-DT-92",
+      "name": "CICO-DT- 92",
       "isFree": true,
       "website": "https://tvo.me/"
     },
@@ -650,7 +533,7 @@
       "website": "https://www.telequebec.tv/"
     },
     {
-      "name": "CIVA-DT-1",
+      "name": "CIVA-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/"
     },
@@ -660,7 +543,7 @@
       "website": "https://www.telequebec.tv/"
     },
     {
-      "name": "CIVB-DT-1",
+      "name": "CIVB-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/"
     },
@@ -685,17 +568,17 @@
       "website": "https://www.telequebec.tv/"
     },
     {
-      "name": "CIVK-DT-1",
+      "name": "CIVK-DT-",
       "isFree": true,
       "website": "https://www.telequebec.tv/"
     },
     {
-      "name": "CIVK-DT-2",
+      "name": "CIVK-DT- 2",
       "isFree": true,
       "website": "https://www.telequebec.tv/"
     },
     {
-      "name": "CIVK-DT-3",
+      "name": "CIVK-DT- 3",
       "isFree": true,
       "website": "https://www.telequebec.tv/"
     },
@@ -740,59 +623,52 @@
       "website": "http://www.omnitv.ca/ontario"
     },
     {
-      "name": "CJMT-DT-1",
+      "name": "CJMT-DT-",
       "isFree": true,
       "website": "http://www.omnitv.ca/ontario"
     },
     {
-      "name": "CJMT-DT-2",
+      "name": "CJMT-DT- 2",
       "isFree": true,
       "website": "http://www.omnitv.ca/ontario"
     },
     {
-      "name": "C Malayalam TV",
+      "name": "C Malayalam",
       "isFree": true,
-      "logo": "https://i.imgur.com/rpg0bQA.png",
       "website": "https://www.canadianmalayalamtv.com/"
     },
     {
-      "name": "Documentary Channel",
+      "name": "Documentary",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTGgogxNBUsxrytbZFwBqMqvEX.jpg",
       "website": "http://www.cbc.ca/documentarychannel/"
     },
     {
       "name": "ERT World",
       "isFree": true,
-      "logo": "https://i.imgur.com/KsMTWYw.png",
       "website": "http://odysseytv.ca/"
     },
     {
-      "name": "Fairchild TV 1",
+      "name": "Fairchild TV",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/FAIRCHILD_2.png",
       "website": "https://www.fairchildtv.com/"
     },
     {
       "name": "Fairchild TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/FAIRCHILD_2.png",
       "website": "https://www.fairchildtv.com/"
     },
     {
-      "name": "Filipino TV",
+      "name": "Filipino",
       "isFree": true,
       "website": "http://www.myfilipinotv.com/"
     },
     {
       "name": "FPTV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/PORTUGAL/fp.png"
+      "isFree": true
     },
     {
-      "name": "Haiti HD",
+      "name": "Haiti",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/flag/haiti.png",
       "website": "http://www.afrotainment.us/"
     },
     {
@@ -803,48 +679,40 @@
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://www.history.ca/"
     },
     {
-      "name": "History2",
+      "name": "History 2",
       "isFree": true,
-      "logo": "https://go4.pw/FINLAND/HISTORY_2.png",
       "website": "https://www.history.ca/"
     },
     {
       "name": "Hulchul TV Canada",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8ad2136e37f34e26d5edfbc15e6e31a8.png"
+      "isFree": true
     },
     {
-      "name": "Hyder TV",
+      "name": "Hyder",
       "isFree": true,
-      "logo": "https://i.imgur.com/reHjjRZ.png",
       "website": "http://www.hyder.tv/"
     },
     {
       "name": "Ici ARTV",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://ici.artv.ca/"
     },
     {
       "name": "Ici Explora",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://ici.exploratv.ca/"
     },
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "https://www.ctv.ca/investigation-discovery"
     },
     {
-      "name": "Jhankar TV",
+      "name": "Jhankar",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://jhankar.tv/"
     },
     {
@@ -855,39 +723,34 @@
     {
       "name": "Mediaset Italia",
       "isFree": true,
-      "logo": "https://i.imgur.com/F4gyqhw.png",
       "website": "http://mediasetitalia.ca/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com/ca",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://www.natgeotv.com/ca/wild",
       "priority": 9
     },
     {
       "name": "Odyssey",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVbN1kndi6DccIjobIYwrrSnYTv.jpg",
       "website": "http://odysseytv.ca/"
     },
     {
-      "name": "Pamir TV",
+      "name": "Pamir",
       "isFree": true,
       "website": "http://www.pamirtv.com/"
     },
     {
       "name": "Tele Culturelle Medias",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     }
   ],
   "Local": [
@@ -899,7 +762,6 @@
     {
       "name": "CBC Charlottetown",
       "isFree": true,
-      "shortName": "CC",
       "priority": 10
     },
     {
@@ -935,13 +797,11 @@
     {
       "name": "CBC St Johns",
       "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png",
       "priority": 10
     },
     {
       "name": "CBC Toronto",
       "isFree": true,
-      "logo": "https://i.imgur.com/H5yEbxf.png",
       "priority": 10
     },
     {
@@ -965,64 +825,55 @@
       "priority": 10
     },
     {
-      "name": "Jess TV",
+      "name": "Jess",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 4
     },
     {
-      "name": "Montreal Greek TV",
+      "name": "Montreal Greek",
       "isFree": true,
-      "shortName": "MGT",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 4
     },
     {
       "name": "TV 16 Toronto",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 4
     },
     {
-      "name": "TVC9",
+      "name": "TVC 9",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Toronto 360 TV",
+      "name": "Uvagut",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 4
     },
     {
-      "name": "Uvagut TV",
+      "name": "Toronto 360",
       "isFree": true,
-      "logo": "https://i.imgur.com/RR7ATr2.png",
+      "keywords": "toronto 360",
       "priority": 4
     }
   ],
   "Sports": [
     {
       "name": "Fight Network",
-      "isFree": false,
-      "logo": "https://i.imgur.com/vlKPZHR.png"
+      "isFree": false
     },
     {
       "name": "ATN Cricket Plus",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-cricket-plus"
     },
     {
       "name": "ATN DD Sports",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-sports"
     },
     {
       "name": "CBN",
       "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/2013/10/30/92d200ca370c644db97f8469e50f4fbc.png",
       "website": "http://www.asiantelevision.com/channel/cbn"
     },
     {
@@ -1045,7 +896,6 @@
     {
       "name": "GINX Esports TV Canada",
       "isFree": true,
-      "logo": "https://go4.pw/MALTA/ginx.png",
       "website": "https://www.superchannel.ca/Ginx"
     },
     {
@@ -1057,36 +907,30 @@
       "name": "HPItv",
       "isFree": true,
       "keywords": "hpitv -international -west",
-      "logo": "https://go4.pw/CANADA/HPITV_EAST.png",
       "website": "https://www.hpibet.com/"
     },
     {
       "name": "HPItv International",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/HPITV_EAST.png",
       "website": "https://www.hpibet.com/"
     },
     {
       "name": "HPItv West",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/HPITV_EAST.png",
       "website": "https://www.hpibet.com/"
     },
     {
       "name": "Leafs Nation Network",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://leafsnation.mapleleafs.com/"
     },
     {
-      "name": "Ligue Nationale de Hockey 1",
-      "isFree": true,
-      "logo": "https://go4.pw/57.png"
+      "name": "Ligue Nationale de Hockey",
+      "isFree": true
     },
     {
       "name": "Ligue Nationale de Hockey 2",
-      "isFree": true,
-      "logo": "https://go4.pw/57.png"
+      "isFree": true
     },
     {
       "name": "NBA TV Canada",
@@ -1094,75 +938,63 @@
       "website": "https://www.nba.com/raptors/nbatvcanada/schedule"
     },
     {
-      "name": "NHL Centre Ice 1",
+      "name": "NHL Centre Ice",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 10",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 11",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 3",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/USA.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 4",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 5",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 6",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 7",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 8",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
       "name": "NHL Centre Ice 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/pBKZZ8z.png",
       "website": "https://www.nhl.com/"
     },
     {
-      "name": "NHL Centre Ice Extra Info Channel",
+      "name": "NHL Centre Ice Extra Info",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/USA.png",
       "website": "https://www.nhl.com/"
     },
     {
@@ -1173,7 +1005,6 @@
     {
       "name": "Sportsman Channel Canada",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/SPORTSMANCHANNEL.png",
       "website": "https://www.sportsmancanada.ca/"
     },
     {
@@ -1190,7 +1021,6 @@
     {
       "name": "Sportsnet One",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/09/10/large/20230910194953438917_10.png",
       "website": "http://www.sportsnet.ca/one"
     },
     {
@@ -1199,45 +1029,38 @@
       "website": "http://www.sportsnet.ca/world"
     },
     {
-      "name": "TSN1",
+      "name": "TSN",
       "isFree": true,
-      "logo": "https://i.ibb.co/MyTbNgYX/TSN1.png",
       "website": "https://www.tsn.ca/"
     },
     {
-      "name": "TSN2",
+      "name": "TSN 2",
       "isFree": true,
-      "logo": "https://i.ibb.co/fzHfwF5j/TSN2.png",
       "website": "https://www.tsn.ca/"
     },
     {
-      "name": "TSN3",
+      "name": "TSN 3",
       "isFree": true,
-      "logo": "https://i.ibb.co/0RMWTVX5/TSN3.png",
       "website": "https://www.tsn.ca/"
     },
     {
-      "name": "TSN4",
+      "name": "TSN 4",
       "isFree": true,
-      "logo": "https://i.ibb.co/jZgYf8yP/TSN4.png",
       "website": "https://www.tsn.ca/"
     },
     {
       "name": "TSN 4K",
       "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
       "website": "https://www.tsn.ca/"
     },
     {
-      "name": "TSN5",
+      "name": "TSN 5",
       "isFree": true,
-      "logo": "https://i.ibb.co/gZMsLrtP/TSN5.png",
       "website": "https://www.tsn.ca/"
     },
     {
       "name": "TSN The Ocho",
       "isFree": true,
-      "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
       "website": "https://www.samsung.com/ca/tvs/tvplus/"
     },
     {
@@ -1259,20 +1082,17 @@
     {
       "name": "WWE Network",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://www.wwe.com/watch-wwe-network-in-canada"
     }
   ],
   "Kids": [
     {
       "name": "Knowledge",
-      "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/PHILIPPINES.png"
+      "isFree": true
     },
     {
-      "name": "TVOKids",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png"
+      "name": "TVO Kids",
+      "isFree": true
     },
     {
       "name": "Ameba",
@@ -1290,16 +1110,14 @@
       "priority": 9
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "http://www.disneychannel.ca/",
       "priority": 10
     },
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "http://disneyjunior.ca/",
       "priority": 9
     },
@@ -1310,15 +1128,13 @@
       "priority": 9
     },
     {
-      "name": "Halla Bol! Kids TV",
+      "name": "Halla Bol! Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "http://hallabol.ca/"
     },
     {
       "name": "Interrobang LLC",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chFGqQVmEmskFKXZEbp4hYVT5IM.jpg"
+      "isFree": true
     },
     {
       "name": "Kidoodle.TV",
@@ -1328,7 +1144,6 @@
     {
       "name": "La Chaine Disney",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "http://www.disneylachaine.ca/"
     },
     {
@@ -1338,18 +1153,15 @@
     },
     {
       "name": "Nicktoons",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png"
+      "isFree": true
     },
     {
       "name": "Stingray Kids Stuff",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Teletoon French",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/canadafr/dark.png",
       "website": "http://www.teletoon.com/fr"
     },
     {
@@ -1360,53 +1172,42 @@
   ],
   "Entertainment": [
     {
-      "name": "5AAB TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "5AAB",
+      "isFree": true
     },
     {
       "name": "Adventure Sports Network",
-      "isFree": true,
-      "shortName": "ASN",
-      "logo": "https://images.iptvmate.net/tvglogo/5db79f2e1257f00330080afe3d03ab07.png"
+      "isFree": true
     },
     {
       "name": "All time",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/78ec47eb0174296bbe522f58c8822bb0.png"
+      "isFree": true
     },
     {
       "name": "Asylum",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/62252cc4761a0ff226409247d898838c.png"
+      "isFree": true
     },
     {
       "name": "BBC Toronto Gaunda Punjab",
       "isFree": true,
-      "shortName": "BTGP",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 10
     },
     {
       "name": "CCTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bb809ccd93ee8c9b2559bbf6836ca8e1.png"
+      "isFree": true
     },
     {
       "name": "CNTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2b339e006ac0f6800f90540070055662.png"
+      "isFree": true
     },
     {
-      "name": "CP24",
-      "isFree": true,
-      "logo": "https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg"
+      "name": "CP 24",
+      "isFree": true
     },
     {
       "name": "CTV",
       "isFree": true,
       "keywords": "ctv -news -toronto -toronto cfto-dt",
-      "logo": "https://i.imgur.com/ljKb0UX.png",
       "website": "https://www.ctv.ca",
       "priority": 10
     },
@@ -1414,243 +1215,194 @@
       "name": "CTV Toronto",
       "isFree": true,
       "keywords": "ctv toronto -cfto-dt",
-      "logo": "https://i.imgur.com/qOutOWN.png",
       "priority": 10
     },
     {
       "name": "CTV Toronto CFTO-DT",
       "isFree": true,
-      "shortName": "CTC",
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "priority": 10
     },
     {
       "name": "CTV2 Barrie CKVR-DT",
-      "isFree": true,
-      "shortName": "CBC",
-      "logo": "https://go4.pw/CANADA/CTV.png"
+      "isFree": true
     },
     {
-      "name": "CanBangla TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "CanBangla",
+      "isFree": true
     },
     {
       "name": "Canada One",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
-      "name": "Canadian Arab TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/94e8dbf14ebfec9a17a37123fe299e74.png"
+      "name": "Canadian Arab",
+      "isFree": true
     },
     {
       "name": "CityTV Toronto",
       "isFree": true,
-      "keywords": "citytv toronto -cfto-dt",
-      "logo": "https://images.iptvmate.net/tvglogo/fe636ddd10ca1deac7f100cc2e7c10cb.png"
+      "keywords": "citytv toronto -cfto-dt"
     },
     {
       "name": "CityTV Toronto CFTO-DT",
-      "isFree": true,
-      "shortName": "CTC",
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/CITY_TV.png"
+      "isFree": true
     },
     {
       "name": "Deal or no Deal",
       "isFree": true
     },
     {
-      "name": "DesheBideshe TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Doyel TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "DryBar Comedy",
-      "isFree": true,
-      "logo": "https://i.imgur.com/EldlmTp.png"
-    },
-    {
-      "name": "Dukh Nivaran",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Zh60l1x.png"
-    },
-    {
-      "name": "Dust",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3b95a90cdb7522bf8bd13d58f49f8d57.png"
-    },
-    {
-      "name": "EET TV",
+      "name": "DesheBideshe",
       "isFree": true
     },
     {
-      "name": "Eawaz TV",
+      "name": "Doyel",
+      "isFree": true
+    },
+    {
+      "name": "DryBar Comedy",
+      "isFree": true
+    },
+    {
+      "name": "Dukh Nivaran",
+      "isFree": true
+    },
+    {
+      "name": "Dust",
+      "isFree": true
+    },
+    {
+      "name": "EET",
+      "isFree": true
+    },
+    {
+      "name": "Eawaz",
       "isFree": true
     },
     {
       "name": "FTF",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4a57c7075079d70ab58a48c1949f2d16.png"
+      "isFree": true
     },
     {
       "name": "Filmrise True Crime",
-      "isFree": true,
-      "shortName": "FTC",
-      "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453381985_filmriseTrueCrime_HUDlogo_centered_260x147.png"
+      "isFree": true
     },
     {
       "name": "Football daily",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e8206fef3d093b9087074cd9c21e44ff.png"
+      "isFree": true
     },
     {
       "name": "Francophonie 24",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5a227546ec1e0a5c17413e7b53819afe.png"
+      "isFree": true
     },
     {
-      "name": "Fuel TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/I8mviBy.png"
+      "name": "Fuel",
+      "isFree": true
     },
     {
       "name": "GEM 24B",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM AZ",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Academy",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Arabia",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Bollywood",
-      "isFree": true,
-      "logo": "https://i.imgur.com/2XASeBk.png"
+      "isFree": true
     },
     {
       "name": "GEM Classic",
-      "isFree": true,
-      "logo": "https://i.imgur.com/25BhuOf.png"
+      "isFree": true
     },
     {
       "name": "GEM Drama",
-      "isFree": true,
-      "logo": "https://i.imgur.com/k2pGyRH.png"
+      "isFree": true
     },
     {
       "name": "GEM Film",
-      "isFree": true,
-      "logo": "https://i.imgur.com/nrFz3LU.png"
+      "isFree": true
     },
     {
       "name": "GEM Fit",
-      "isFree": true,
-      "logo": "https://i.imgur.com/7FQxaII.png"
+      "isFree": true
     },
     {
       "name": "GEM Food",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SMtSinK.png"
+      "isFree": true
     },
     {
       "name": "GEM Junior",
-      "isFree": true,
-      "logo": "https://i.imgur.com/jK8yzj2.png"
+      "isFree": true
     },
     {
       "name": "GEM Kids",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ArkjaFk.png"
+      "isFree": true
     },
     {
       "name": "GEM Latido",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Life",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gI8qePa.png"
+      "isFree": true
     },
     {
       "name": "GEM MAX",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Mifa",
-      "isFree": true,
-      "logo": "https://i.imgur.com/qlI7o7V.png"
+      "isFree": true
     },
     {
       "name": "GEM Modern Economy",
-      "isFree": true,
-      "shortName": "GME",
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM Nature",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ENvOMDQ.png"
+      "isFree": true
     },
     {
       "name": "GEM Onyx",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gXRIAw4.png"
+      "isFree": true
     },
     {
       "name": "GEM Property",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "GEM River",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yJ6f1B6.png"
+      "isFree": true
     },
     {
       "name": "GEM Rubix",
-      "isFree": true,
-      "logo": "https://i.imgur.com/cDjOj58.png"
+      "isFree": true
     },
     {
       "name": "GEM Series",
-      "isFree": true,
-      "logo": "https://i.imgur.com/M0WMDXm.png"
+      "isFree": true
     },
     {
-      "name": "GEM TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "name": "GEM",
+      "isFree": true
     },
     {
       "name": "GEM Travel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/63dcd2c26cf0cbff4fc11020cc1d260d.png"
+      "isFree": true
     },
     {
       "name": "Global Calgary",
       "isFree": true,
-      "retransmits": "Global News National",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "retransmits": "Global News National"
     },
     {
       "name": "Global Toronto",
@@ -1659,9 +1411,7 @@
     },
     {
       "name": "GurSikh Sabha TV Scarborough",
-      "isFree": true,
-      "shortName": "GSTS",
-      "logo": "https://i.imgur.com/2EKCtQm.png"
+      "isFree": true
     },
     {
       "name": "Hard Knocks",
@@ -1669,53 +1419,43 @@
     },
     {
       "name": "HollyWire",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090416418842_22.png"
+      "isFree": true
     },
     {
       "name": "ICI Montreal",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6008d7aefb81c6cdacc3cdda95535cf3.png"
+      "isFree": true
     },
     {
       "name": "ICI RDI",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "ICI Tele",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
-      "name": "Insight TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/08/16/large/20240816032119028184_96.png"
+      "name": "Insight",
+      "isFree": true
     },
     {
       "name": "Inwonder",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7ad9a0ab6e4f3469878219805a04d93f.png"
+      "isFree": true
     },
     {
-      "name": "Kidoodle TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4f1af86d33d847f6e59ae5dcc24e3486.png"
+      "name": "Kidoodle",
+      "isFree": true
     },
     {
       "name": "Legislative Assembly of Ontario",
-      "isFree": true,
-      "shortName": "LAOO",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "MHZ",
       "isFree": true
     },
     {
-      "name": "Mav TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e15622e22f160a4fb40ba739584a3f5c.png"
+      "name": "Mav",
+      "isFree": true
     },
     {
       "name": "Motorvision",
@@ -1726,20 +1466,17 @@
       "isFree": true
     },
     {
-      "name": "NRB TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b77a387abf703b4432b36433a3aa3e92.png"
+      "name": "NRB",
+      "isFree": true
     },
     {
       "name": "NTV",
       "isFree": true,
-      "keywords": "ntv -newfoundland",
-      "logo": "https://i.imgur.com/SoBhuIb.png"
+      "keywords": "ntv -newfoundland"
     },
     {
       "name": "NTV Newfoundland",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Noovo",
@@ -1747,41 +1484,34 @@
     },
     {
       "name": "Now This",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b5f2c67ba667f6cb2a4068fa1c27343c.png"
+      "isFree": true
     },
     {
       "name": "ONNtv Ontario",
       "isFree": true
     },
     {
-      "name": "Outside TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/11/06/large/20231106225502381880_50.png"
+      "name": "Outside",
+      "isFree": true
     },
     {
-      "name": "Pardesi TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Pardesi",
+      "isFree": true
     },
     {
-      "name": "Parnian TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bb519d8ea79941a4c4eb0b493ad655af.png"
+      "name": "Parnian",
+      "isFree": true
     },
     {
       "name": "People are Awesome",
-      "isFree": true,
-      "shortName": "PAA",
-      "logo": "https://i.imgur.com/BWfmUwV.png"
+      "isFree": true
     },
     {
-      "name": "Players TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0b5d28193646eef8e1d7b6f58862ca3f.png"
+      "name": "Players",
+      "isFree": true
     },
     {
-      "name": "Plymouth Rock TV",
+      "name": "Plymouth Rock",
       "isFree": true
     },
     {
@@ -1789,87 +1519,70 @@
       "isFree": true
     },
     {
-      "name": "Prime Asia TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Prime Asia",
+      "isFree": true
     },
     {
-      "name": "Prime Canada TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Prime Canada",
+      "isFree": true
     },
     {
       "name": "QVTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Ramgarhi ABC",
-      "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png"
+      "isFree": true
     },
     {
       "name": "Sanjha Punjab",
       "isFree": true
     },
     {
-      "name": "Sardari TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Sardari",
+      "isFree": true
     },
     {
       "name": "Sikh Spiritual Centre Rexdale",
-      "isFree": true,
-      "shortName": "SSCR",
-      "logo": "https://go4.pw/ASIA/INDIA/SIKHCHANNEL.png"
+      "isFree": true
     },
     {
       "name": "Stingray Djazz",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png"
+      "isFree": true
     },
     {
-      "name": "TAG TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8a87f6bf3a390e20adb2b0f40be83452.png"
+      "name": "TAG",
+      "isFree": true
     },
     {
       "name": "TMZ",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "TVA",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
       "priority": 9
     },
     {
       "name": "TVO",
       "isFree": true,
-      "keywords": "tvo -kids",
-      "logo": "https://i.imgur.com/wFC6Xxq.png"
+      "keywords": "tvo -kids"
     },
     {
       "name": "TVO Kids",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Tamil Vision International",
-      "isFree": true,
-      "shortName": "TVI",
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png"
+      "isFree": true
     },
     {
-      "name": "Tamil Vision TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Tamil Vision",
+      "isFree": true
     },
     {
       "name": "Tastemade",
-      "isFree": true,
-      "logo": "https://imgur.com/2MH0O0X.png"
+      "isFree": true
     },
     {
       "name": "Tele Quebec",
@@ -1877,30 +1590,25 @@
     },
     {
       "name": "Tele-V",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
-      "name": "The Channel TV",
-      "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "name": "The Channel",
+      "isFree": true
     },
     {
       "name": "The Design Network",
-      "isFree": true,
-      "shortName": "TDN"
+      "isFree": true
     },
     {
       "name": "Toronto 360",
       "isFree": true,
-      "keywords": "toronto 360 -tv",
-      "logo": "https://images.iptvmate.net/tvglogo/c12dd04a21f07a69407d1fbd7b86f218.png"
+      "keywords": "toronto 360",
+      "priority": 4
     },
     {
       "name": "Télé Culturelle Médias",
-      "isFree": true,
-      "shortName": "TCM",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "Télé-Mag Québec",
@@ -1912,32 +1620,27 @@
     },
     {
       "name": "VBS",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1825c3d4a057ffbb11090289821499fe.png"
+      "isFree": true
     },
     {
       "name": "WCGtv Brandon",
-      "isFree": true,
-      "logo": "https://i.imgur.com/q7UPbEG.png"
+      "isFree": true
     },
     {
-      "name": "Waypoint TV",
+      "name": "Waypoint",
       "isFree": true
     },
     {
       "name": "Weatherspy",
-      "isFree": true,
-      "logo": "https://i.imgur.com/KIEKOt1.png"
+      "isFree": true
     },
     {
       "name": "World Poker Tour",
-      "isFree": true,
-      "logo": "https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png"
+      "isFree": true
     },
     {
       "name": "eScapes",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bf41510492b0a136bfb0a078b30feff0.png"
+      "isFree": true
     },
     {
       "name": "ABC Spark",
@@ -1948,7 +1651,6 @@
     {
       "name": "addikTV",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/ADDDIKTV.png",
       "website": "http://www.addik.tv/"
     },
     {
@@ -1957,9 +1659,8 @@
       "website": "https://www.adultswim.ca/"
     },
     {
-      "name": "Afghan Nobel TV",
+      "name": "Afghan Nobel",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/iafghanistan.png",
       "website": "https://www.afghannobel.com"
     },
     {
@@ -1968,9 +1669,8 @@
       "website": "https://tour.allanal.com/"
     },
     {
-      "name": "AMG TV",
+      "name": "AMG",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://amgtv.ca/"
     },
     {
@@ -1979,15 +1679,13 @@
       "website": "https://tour.analonly.com/"
     },
     {
-      "name": "AOV Adult Movie Channel",
+      "name": "AOV Adult Movie",
       "isFree": null,
-      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
       "website": "http://www.aov.ca/"
     },
     {
-      "name": "Apna Punjab TV",
+      "name": "Apna Punjab",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/APNA.png",
       "website": "https://www.apnapunjab.tv/"
     },
     {
@@ -1999,235 +1697,194 @@
     {
       "name": "APTN Languages",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/APTN.png",
       "website": "https://www.aptntv.ca/"
     },
     {
       "name": "Aquarium Channel English",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/aquarium.png"
+      "isFree": true
     },
     {
       "name": "Aquarium Channel French",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/aquarium.png"
+      "isFree": true
     },
     {
       "name": "Assemblee nationale du Quebec",
       "isFree": true,
-      "logo": "https://i.imgur.com/jAtq0U8.png",
       "website": "https://www.assnat.qc.ca/fr/abc-assemblee/assemblee-nationale/index.html"
     },
     {
       "name": "ATN Aapka Colors",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-aapka-colors"
     },
     {
-      "name": "ATN Aastha TV",
+      "name": "ATN Aastha",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-aastha"
     },
     {
       "name": "ATN ABP Sanjha",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-abp-sanjha"
     },
     {
       "name": "ATN ARY Digital",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-ary-digital"
     },
     {
       "name": "ATN ARY Zauq",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-ary-zauq"
     },
     {
       "name": "ATN B4U Plus",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-b4u-plus"
     },
     {
-      "name": "ATN Brit Asia TV",
+      "name": "ATN Brit Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-brit-asia"
     },
     {
-      "name": "ATN Channel",
+      "name": "ATN",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
-      "website": "http://asiantelevision.net/channel/atn-hd"
+      "website": "http://asiantelevision.net/channel/atn-hd",
+      "_altWebsites": [
+        "http://www.asiantelevision.com/channel/atn-hd"
+      ]
     },
     {
       "name": "ATN Colors Bangla",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-colors-bangla"
     },
     {
       "name": "ATN Colors Marathi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-colors-marathi"
     },
     {
       "name": "ATN Colors Rishtey",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-colors-rishtey"
     },
     {
       "name": "ATN DD India",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-dd-india"
     },
     {
       "name": "ATN DD Urdu",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-dd-urdu"
     },
     {
       "name": "ATN Food Food",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-food-food"
     },
     {
       "name": "ATN Gujarati",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-gujarati"
-    },
-    {
-      "name": "ATN HD",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
-      "website": "http://www.asiantelevision.com/channel/atn-hd"
     },
     {
       "name": "ATN IBC Tamil",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://www.asiantelevision.com/channel/atn-ibc-tamil"
     },
     {
-      "name": "ATN Jaya TV",
+      "name": "ATN Jaya",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-jaya-tv"
     },
     {
       "name": "ATN Life",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-life"
     },
     {
       "name": "ATN Max 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-max-2"
     },
     {
       "name": "ATN PM One",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-pm-one"
     },
     {
       "name": "ATN Punjabi",
       "isFree": true,
       "keywords": "atn punjabi -5 -news -plus",
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-punjabi"
     },
     {
       "name": "ATN Punjabi 5",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-punjabi-5"
     },
     {
       "name": "ATN Punjabi Plus",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-punjabi-plus"
     },
     {
-      "name": "ATN SAB TV",
+      "name": "ATN SAB",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-sab-tv"
     },
     {
       "name": "ATN Set Max",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-set-max"
     },
     {
-      "name": "ATN Sikh Channel",
+      "name": "ATN Sikh",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-sikh-channel"
     },
     {
       "name": "ATN Sony",
       "isFree": true,
       "keywords": "atn sony -aath",
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://www.asiantelevision.com/channel/atn-sony"
     },
     {
       "name": "ATN Sony Aath",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-sony-aath"
     },
     {
       "name": "ATN Tamil Plus",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-tamil-plus"
     },
     {
       "name": "ATN Times Now",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-times-now"
     },
     {
       "name": "ATN Urdu",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-urdu"
     },
     {
       "name": "ATN Zoom",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-zoom"
     },
     {
-      "name": "Ava TV",
+      "name": "Ava",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg",
       "website": "https://www.avatelevision.ca/home"
     },
     {
-      "name": "Az Star TV",
+      "name": "Az Star",
       "isFree": true,
-      "logo": "https://i.imgur.com/di3XX5L.png",
       "website": "https://www.azstartv.com/"
     },
     {
@@ -2241,75 +1898,63 @@
       "priority": 4
     },
     {
-      "name": "Camoes TV",
+      "name": "Camoes",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://camoestv.com/"
     },
     {
-      "name": "Canada Star TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Canada Star",
+      "isFree": true
     },
     {
       "name": "Canal D",
       "isFree": true,
-      "logo": "https://i.imgur.com/HhrJ7a9.png",
       "website": "https://www.canald.com/"
     },
     {
       "name": "Canal de l'Assemblee",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.assnat.qc.ca/"
     },
     {
       "name": "Canal Indigo",
       "isFree": true,
       "keywords": "canal indigo -2 -3 -4 -5 -6",
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal Indigo 2",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal Indigo 3",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal Indigo 4",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal Indigo 5",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal Indigo 6",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalindigo.com/"
     },
     {
       "name": "Canal M",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalm.vuesetvoix.com/"
     },
     {
       "name": "Canal Vie",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalvie.com/"
     },
     {
@@ -2452,87 +2097,87 @@
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-DT-5",
+      "name": "CFCN-DT- 5",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-1",
+      "name": "CFCN-TV-",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-10",
+      "name": "CFCN-TV- 10",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-11",
+      "name": "CFCN-TV- 11",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-12",
+      "name": "CFCN-TV- 12",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-13",
+      "name": "CFCN-TV- 13",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-14",
+      "name": "CFCN-TV- 14",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-15",
+      "name": "CFCN-TV- 15",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-16",
+      "name": "CFCN-TV- 16",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-17",
+      "name": "CFCN-TV- 17",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-18",
+      "name": "CFCN-TV- 18",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-2",
+      "name": "CFCN-TV- 2",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-3",
+      "name": "CFCN-TV- 3",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-4",
+      "name": "CFCN-TV- 4",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-6",
+      "name": "CFCN-TV- 6",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-8",
+      "name": "CFCN-TV- 8",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
     {
-      "name": "CFCN-TV-9",
+      "name": "CFCN-TV- 9",
       "isFree": true,
       "website": "https://calgary.ctvnews.ca/"
     },
@@ -2542,7 +2187,7 @@
       "website": "https://tvaabitibi.ca/"
     },
     {
-      "name": "CFEM-DT-1",
+      "name": "CFEM-DT-",
       "isFree": true,
       "website": "https://tvaabitibi.ca/"
     },
@@ -2551,11 +2196,11 @@
       "isFree": true
     },
     {
-      "name": "CFER-TV-2",
+      "name": "CFER-TV- 2",
       "isFree": true
     },
     {
-      "name": "CFFL-TV-1",
+      "name": "CFFL-TV-",
       "isFree": true
     },
     {
@@ -2563,7 +2208,7 @@
       "isFree": true
     },
     {
-      "name": "CFGC-DT-2",
+      "name": "CFGC-DT- 2",
       "isFree": true
     },
     {
@@ -2571,7 +2216,7 @@
       "isFree": true
     },
     {
-      "name": "CFGS-DT1",
+      "name": "CFGS-DT",
       "isFree": true,
       "website": "https://noovogatineau.ca/"
     },
@@ -2585,11 +2230,11 @@
       "isFree": true
     },
     {
-      "name": "CFHO-TV-1",
+      "name": "CFHO-TV-",
       "isFree": true
     },
     {
-      "name": "CFHO-TV-2",
+      "name": "CFHO-TV- 2",
       "isFree": true
     },
     {
@@ -2598,42 +2243,42 @@
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-11",
+      "name": "CFJC-TV- 11",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-12",
+      "name": "CFJC-TV- 12",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-19",
+      "name": "CFJC-TV- 19",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-3",
+      "name": "CFJC-TV- 3",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-4",
+      "name": "CFJC-TV- 4",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-5",
+      "name": "CFJC-TV- 5",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-6",
+      "name": "CFJC-TV- 6",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
     {
-      "name": "CFJC-TV-8",
+      "name": "CFJC-TV- 8",
       "isFree": true,
       "website": "http://www.cfjctv.com/"
     },
@@ -2668,12 +2313,12 @@
       "website": "https://saskatoon.ctvnews.ca/"
     },
     {
-      "name": "CFQC-TV-1",
+      "name": "CFQC-TV-",
       "isFree": true,
       "website": "https://saskatoon.ctvnews.ca/"
     },
     {
-      "name": "CFQC-TV-2",
+      "name": "CFQC-TV- 2",
       "isFree": true,
       "website": "https://saskatoon.ctvnews.ca/"
     },
@@ -2683,7 +2328,7 @@
       "website": "https://globalnews.ca/regina/"
     },
     {
-      "name": "CFRE-TV-2",
+      "name": "CFRE-TV- 2",
       "isFree": true,
       "website": "https://globalnews.ca/regina/"
     },
@@ -2693,62 +2338,62 @@
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-1",
+      "name": "CFRN-TV-",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-10",
+      "name": "CFRN-TV- 10",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-11",
+      "name": "CFRN-TV- 11",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-12",
+      "name": "CFRN-TV- 12",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-2",
+      "name": "CFRN-TV- 2",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-3",
+      "name": "CFRN-TV- 3",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-4",
+      "name": "CFRN-TV- 4",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-5",
+      "name": "CFRN-TV- 5",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-6",
+      "name": "CFRN-TV- 6",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-7",
+      "name": "CFRN-TV- 7",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-8",
+      "name": "CFRN-TV- 8",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
     {
-      "name": "CFRN-TV-9",
+      "name": "CFRN-TV- 9",
       "isFree": true,
       "website": "https://edmonton.ctvnews.ca/"
     },
@@ -2768,47 +2413,47 @@
       "website": "http://cftf.teleinterrives.com/"
     },
     {
-      "name": "CFTF-DT-1",
+      "name": "CFTF-DT-",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-10",
+      "name": "CFTF-DT- 10",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-11",
+      "name": "CFTF-DT- 11",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-2",
+      "name": "CFTF-DT- 2",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-3",
+      "name": "CFTF-DT- 3",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-4",
+      "name": "CFTF-DT- 4",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-5",
+      "name": "CFTF-DT- 5",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-6",
+      "name": "CFTF-DT- 6",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-7",
+      "name": "CFTF-DT- 7",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-8",
+      "name": "CFTF-DT- 8",
       "isFree": true
     },
     {
-      "name": "CFTF-DT-9",
+      "name": "CFTF-DT- 9",
       "isFree": true
     },
     {
@@ -2817,7 +2462,7 @@
       "website": "http://www.cftktv.com/"
     },
     {
-      "name": "CFTK-TV-1",
+      "name": "CFTK-TV-",
       "isFree": true
     },
     {
@@ -2831,12 +2476,12 @@
       "website": "https://toronto.ctvnews.ca/"
     },
     {
-      "name": "CFTO-DT-54",
+      "name": "CFTO-DT- 54",
       "isFree": true,
       "website": "https://toronto.ctvnews.ca/"
     },
     {
-      "name": "CFTO-TV-21",
+      "name": "CFTO-TV- 21",
       "isFree": true,
       "website": "https://toronto.ctvnews.ca/"
     },
@@ -2851,7 +2496,7 @@
       "website": "https://noovoabitibi.ca/"
     },
     {
-      "name": "CFVS-DT-1",
+      "name": "CFVS-DT-",
       "isFree": true,
       "website": "https://noovoabitibi.ca/"
     },
@@ -2866,47 +2511,47 @@
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-1",
+      "name": "CHAN-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-2",
+      "name": "CHAN-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-3",
+      "name": "CHAN-DT- 3",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-4",
+      "name": "CHAN-DT- 4",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-5",
+      "name": "CHAN-DT- 5",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-6",
+      "name": "CHAN-DT- 6",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-7",
+      "name": "CHAN-DT- 7",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-8",
+      "name": "CHAN-DT- 8",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHAN-DT-9",
+      "name": "CHAN-DT- 9",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -2916,12 +2561,12 @@
       "website": "http://www.chattelevision.ca/"
     },
     {
-      "name": "CHAT-TV-1",
+      "name": "CHAT-TV-",
       "isFree": true,
       "website": "http://www.chattelevision.ca/"
     },
     {
-      "name": "CHAT-TV-2",
+      "name": "CHAT-TV- 2",
       "isFree": true,
       "website": "http://www.chattelevision.ca/"
     },
@@ -2931,57 +2576,57 @@
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-1",
+      "name": "CHAU-DT-",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-10",
+      "name": "CHAU-DT- 10",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-11",
+      "name": "CHAU-DT- 11",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-2",
+      "name": "CHAU-DT- 2",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-3",
+      "name": "CHAU-DT- 3",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-4",
+      "name": "CHAU-DT- 4",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-5",
+      "name": "CHAU-DT- 5",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-6",
+      "name": "CHAU-DT- 6",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-7",
+      "name": "CHAU-DT- 7",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-8",
+      "name": "CHAU-DT- 8",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CHAU-DT-9",
+      "name": "CHAU-DT- 9",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
@@ -2996,49 +2641,48 @@
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-DT-1",
+      "name": "CHBC-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-DT-2",
+      "name": "CHBC-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-3",
+      "name": "CHBC-TV- 3",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-4",
+      "name": "CHBC-TV- 4",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-5",
+      "name": "CHBC-TV- 5",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-7",
+      "name": "CHBC-TV- 7",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-8",
+      "name": "CHBC-TV- 8",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
-      "name": "CHBC-TV-9",
+      "name": "CHBC-TV- 9",
       "isFree": true,
       "website": "https://globalnews.ca/okanagan/"
     },
     {
       "name": "CHBL-TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png"
+      "isFree": true
     },
     {
       "name": "CHBX-TV",
@@ -3046,7 +2690,7 @@
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CHBX-TV-1",
+      "name": "CHBX-TV-",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
@@ -3056,37 +2700,37 @@
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-DT-1",
+      "name": "CHCH-DT-",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-DT-2",
+      "name": "CHCH-DT- 2",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-DT-3",
+      "name": "CHCH-DT- 3",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-TV-4",
+      "name": "CHCH-TV- 4",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-TV-5",
+      "name": "CHCH-TV- 5",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-TV-6",
+      "name": "CHCH-TV- 6",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
     {
-      "name": "CHCH-TV-7",
+      "name": "CHCH-TV- 7",
       "isFree": true,
       "website": "http://www.chch.com/"
     },
@@ -3111,12 +2755,12 @@
       "website": "https://globalnews.ca/peterborough/"
     },
     {
-      "name": "CHEX-TV-1",
+      "name": "CHEX-TV-",
       "isFree": true,
       "website": "https://globalnews.ca/peterborough/"
     },
     {
-      "name": "CHEX-TV-2",
+      "name": "CHEX-TV- 2",
       "isFree": true,
       "website": "https://globalnews.ca/durham/"
     },
@@ -3131,17 +2775,17 @@
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHKL-DT-1",
+      "name": "CHKL-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHKL-DT-2",
+      "name": "CHKL-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHKL-DT-3",
+      "name": "CHKL-DT- 3",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -3151,7 +2795,7 @@
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CHKM-DT-1",
+      "name": "CHKM-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -3171,32 +2815,32 @@
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-DT-1",
+      "name": "CHNB-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-DT-14",
+      "name": "CHNB-DT- 14",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-DT-3",
+      "name": "CHNB-DT- 3",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-TV-11",
+      "name": "CHNB-TV- 11",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-TV-12",
+      "name": "CHNB-TV- 12",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
     {
-      "name": "CHNB-TV-13",
+      "name": "CHNB-TV- 13",
       "isFree": true,
       "website": "https://globalnews.ca/new-brunswick/"
     },
@@ -3206,7 +2850,7 @@
       "website": "https://tvagatineau.ca/"
     },
     {
-      "name": "CHRO-DT-43",
+      "name": "CHRO-DT- 43",
       "isFree": true,
       "website": "https://ottawa.ctvnews.ca/ctv-morning-live"
     },
@@ -3221,7 +2865,7 @@
       "website": "https://windsor.ctvnews.ca/"
     },
     {
-      "name": "CHWI-DT-60",
+      "name": "CHWI-DT- 60",
       "isFree": true,
       "website": "https://windsor.ctvnews.ca/"
     },
@@ -3231,12 +2875,12 @@
       "website": "http://regina.ctvnews.ca/"
     },
     {
-      "name": "CICC-TV-2",
+      "name": "CICC-TV- 2",
       "isFree": true,
       "website": "http://regina.ctvnews.ca/"
     },
     {
-      "name": "CICC-TV-3",
+      "name": "CICC-TV- 3",
       "isFree": true,
       "website": "http://regina.ctvnews.ca/"
     },
@@ -3246,7 +2890,7 @@
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CICI-TV-1",
+      "name": "CICI-TV-",
       "isFree": true
     },
     {
@@ -3255,12 +2899,12 @@
       "website": "https://globalnews.ca/calgary/"
     },
     {
-      "name": "CICT-TV-1",
+      "name": "CICT-TV-",
       "isFree": true,
       "website": "https://globalnews.ca/calgary/"
     },
     {
-      "name": "CICT-TV-2",
+      "name": "CICT-TV- 2",
       "isFree": true,
       "website": "https://globalnews.ca/calgary/"
     },
@@ -3275,72 +2919,72 @@
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-1",
+      "name": "CIHF-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-10",
+      "name": "CIHF-DT- 10",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-11",
+      "name": "CIHF-DT- 11",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-12",
+      "name": "CIHF-DT- 12",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-13",
+      "name": "CIHF-DT- 13",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-14",
+      "name": "CIHF-DT- 14",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-15",
+      "name": "CIHF-DT- 15",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-16",
+      "name": "CIHF-DT- 16",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-3",
+      "name": "CIHF-DT- 3",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-4",
+      "name": "CIHF-DT- 4",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-5",
+      "name": "CIHF-DT- 5",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-6",
+      "name": "CIHF-DT- 6",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-8",
+      "name": "CIHF-DT- 8",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
     {
-      "name": "CIHF-DT-9",
+      "name": "CIHF-DT- 9",
       "isFree": true,
       "website": "https://globalnews.ca/halifax/"
     },
@@ -3350,52 +2994,52 @@
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-12",
+      "name": "CIII-DT- 12",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-13",
+      "name": "CIII-DT- 13",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-22",
+      "name": "CIII-DT- 22",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-27",
+      "name": "CIII-DT- 27",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-29",
+      "name": "CIII-DT- 29",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-4",
+      "name": "CIII-DT- 4",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-41",
+      "name": "CIII-DT- 41",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-6",
+      "name": "CIII-DT- 6",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-DT-7",
+      "name": "CIII-DT- 7",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
     {
-      "name": "CIII-TV-2",
+      "name": "CIII-TV- 2",
       "isFree": true,
       "website": "https://globalnews.ca/toronto/"
     },
@@ -3405,37 +3049,37 @@
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-1",
+      "name": "CIMT-DT-",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-2",
+      "name": "CIMT-DT- 2",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-4",
+      "name": "CIMT-DT- 4",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-5",
+      "name": "CIMT-DT- 5",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-6",
+      "name": "CIMT-DT- 6",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-7",
+      "name": "CIMT-DT- 7",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
     {
-      "name": "CIMT-DT-8",
+      "name": "CIMT-DT- 8",
       "isFree": true,
       "website": "https://cimtchau.ca/"
     },
@@ -3445,12 +3089,12 @@
       "website": "https://saskatoon.ctvnews.ca/"
     },
     {
-      "name": "CIPA-TV-1",
+      "name": "CIPA-TV-",
       "isFree": true,
       "website": "https://saskatoon.ctvnews.ca/"
     },
     {
-      "name": "CIPA-TV-2",
+      "name": "CIPA-TV- 2",
       "isFree": true,
       "website": "https://saskatoon.ctvnews.ca/"
     },
@@ -3460,27 +3104,27 @@
       "website": "https://globalnews.ca/lethbridge/"
     },
     {
-      "name": "CISA-TV-1",
+      "name": "CISA-TV-",
       "isFree": true,
       "website": "https://globalnews.ca/lethbridge/"
     },
     {
-      "name": "CISA-TV-2",
+      "name": "CISA-TV- 2",
       "isFree": true,
       "website": "https://globalnews.ca/lethbridge/"
     },
     {
-      "name": "CISA-TV-3",
+      "name": "CISA-TV- 3",
       "isFree": true,
       "website": "https://globalnews.ca/lethbridge/"
     },
     {
-      "name": "CISA-TV-4",
+      "name": "CISA-TV- 4",
       "isFree": true,
       "website": "https://globalnews.ca/lethbridge/"
     },
     {
-      "name": "CISA-TV-5",
+      "name": "CISA-TV- 5",
       "isFree": true,
       "website": "https://globalnews.ca/lethbridge/"
     },
@@ -3495,12 +3139,12 @@
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CITM-DT-1",
+      "name": "CITM-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CITM-DT-2",
+      "name": "CITM-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -3510,22 +3154,22 @@
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CITO-TV-1",
+      "name": "CITO-TV-",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CITO-TV-2",
+      "name": "CITO-TV- 2",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CITO-TV-3",
+      "name": "CITO-TV- 3",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CITO-TV-4",
+      "name": "CITO-TV- 4",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
@@ -3535,12 +3179,12 @@
       "website": "https://www.yestv.com/"
     },
     {
-      "name": "CITS-DT-1",
+      "name": "CITS-DT-",
       "isFree": true,
       "website": "https://www.yestv.com/"
     },
     {
-      "name": "CITS-DT-2",
+      "name": "CITS-DT- 2",
       "isFree": true,
       "website": "https://www.yestv.com/"
     },
@@ -3550,7 +3194,7 @@
       "website": "https://globalnews.ca/edmonton/"
     },
     {
-      "name": "CITV-DT-1",
+      "name": "CITV-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/edmonton/"
     },
@@ -3560,19 +3204,18 @@
       "website": "http://www.citytv.com/toronto"
     },
     {
-      "name": "CITY-DT-2",
+      "name": "CITY-DT- 2",
       "isFree": true,
       "website": "http://www.citytv.com/toronto"
     },
     {
-      "name": "CITY-DT-3",
+      "name": "CITY-DT- 3",
       "isFree": true,
       "website": "http://www.citytv.com/toronto"
     },
     {
       "name": "Citytv Saskatchewan",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/CITY_TV.png",
       "website": "http://www.citytv.com/saskatchewan"
     },
     {
@@ -3581,7 +3224,7 @@
       "website": "https://vancouverisland.ctvnews.ca/"
     },
     {
-      "name": "CIVI-DT-2",
+      "name": "CIVI-DT- 2",
       "isFree": true,
       "website": "https://vancouverisland.ctvnews.ca/"
     },
@@ -3606,27 +3249,27 @@
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCB-TV-1",
+      "name": "CJCB-TV-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCB-TV-2",
+      "name": "CJCB-TV- 2",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCB-TV-3",
+      "name": "CJCB-TV- 3",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCB-TV-5",
+      "name": "CJCB-TV- 5",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCB-TV-6",
+      "name": "CJCB-TV- 6",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
@@ -3636,47 +3279,47 @@
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-DT1",
+      "name": "CJCH-DT",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-1",
+      "name": "CJCH-TV-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-2",
+      "name": "CJCH-TV- 2",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-3",
+      "name": "CJCH-TV- 3",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-4",
+      "name": "CJCH-TV- 4",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-5",
+      "name": "CJCH-TV- 5",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-6",
+      "name": "CJCH-TV- 6",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-7",
+      "name": "CJCH-TV- 7",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CJCH-TV-8",
+      "name": "CJCH-TV- 8",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
@@ -3686,7 +3329,7 @@
       "website": "http://www.cjdctv.com/"
     },
     {
-      "name": "CJDC-TV-2",
+      "name": "CJDC-TV- 2",
       "isFree": true,
       "website": "http://www.cjdctv.com/"
     },
@@ -3695,15 +3338,15 @@
       "isFree": true
     },
     {
-      "name": "CJDG-TV-2",
+      "name": "CJDG-TV- 2",
       "isFree": true
     },
     {
-      "name": "CJDG-TV-3",
+      "name": "CJDG-TV- 3",
       "isFree": true
     },
     {
-      "name": "CJDG-TV-4",
+      "name": "CJDG-TV- 4",
       "isFree": true
     },
     {
@@ -3717,24 +3360,23 @@
       "website": "https://ottawa.ctvnews.ca/"
     },
     {
-      "name": "CJOH-TV-47",
+      "name": "CJOH-TV- 47",
       "isFree": true,
       "website": "https://ottawa.ctvnews.ca/"
     },
     {
-      "name": "CJOH-TV-6",
+      "name": "CJOH-TV- 6",
       "isFree": true,
       "website": "https://ottawa.ctvnews.ca/"
     },
     {
-      "name": "CJOH-TV-8",
+      "name": "CJOH-TV- 8",
       "isFree": true,
       "website": "https://ottawa.ctvnews.ca/"
     },
     {
       "name": "CJON-DT",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
       "website": "https://ntv.ca/"
     },
     {
@@ -3747,7 +3389,7 @@
       "website": "https://www.tvanouvelles.ca/regional/tva-saguenay-lac-st-jean"
     },
     {
-      "name": "CJPM-TV-1",
+      "name": "CJPM-TV-",
       "isFree": true,
       "website": "https://www.tvanouvelles.ca/regional/tva-saguenay-lac-st-jean"
     },
@@ -3757,24 +3399,24 @@
       "website": "http://www.citytv.com/calgary"
     },
     {
-      "name": "CKAL-DT-1",
+      "name": "CKAL-DT-",
       "isFree": true,
       "website": "http://www.citytv.com/calgary"
     },
     {
-      "name": "CKAM-TV-1",
+      "name": "CKAM-TV-",
       "isFree": true
     },
     {
-      "name": "CKAM-TV-2",
+      "name": "CKAM-TV- 2",
       "isFree": true
     },
     {
-      "name": "CKAM-TV-3",
+      "name": "CKAM-TV- 3",
       "isFree": true
     },
     {
-      "name": "CKAM-TV-4",
+      "name": "CKAM-TV- 4",
       "isFree": true
     },
     {
@@ -3782,7 +3424,7 @@
       "isFree": true
     },
     {
-      "name": "CKBQ-TV-1",
+      "name": "CKBQ-TV-",
       "isFree": true
     },
     {
@@ -3791,17 +3433,17 @@
       "website": "https://regina.ctvnews.ca/"
     },
     {
-      "name": "CKCK-TV-1",
+      "name": "CKCK-TV-",
       "isFree": true,
       "website": "https://regina.ctvnews.ca/"
     },
     {
-      "name": "CKCK-TV-2",
+      "name": "CKCK-TV- 2",
       "isFree": true,
       "website": "https://regina.ctvnews.ca/"
     },
     {
-      "name": "CKCK-TV-7",
+      "name": "CKCK-TV- 7",
       "isFree": true,
       "website": "https://regina.ctvnews.ca/"
     },
@@ -3811,7 +3453,7 @@
       "website": "https://kitchener.ctvnews.ca/"
     },
     {
-      "name": "CKCO-TV-3",
+      "name": "CKCO-TV- 3",
       "isFree": true,
       "website": "https://kitchener.ctvnews.ca/"
     },
@@ -3821,12 +3463,12 @@
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CKCW-DT-1",
+      "name": "CKCW-DT-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CKCW-TV-2",
+      "name": "CKCW-TV- 2",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
@@ -3836,7 +3478,7 @@
       "website": "http://www.citytv.com/edmonton"
     },
     {
-      "name": "CKEM-TV-1",
+      "name": "CKEM-TV-",
       "isFree": true,
       "website": "http://www.citytv.com/edmonton"
     },
@@ -3854,12 +3496,12 @@
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CKLT-TV-1",
+      "name": "CKLT-TV-",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
     {
-      "name": "CKLT-TV-2",
+      "name": "CKLT-TV- 2",
       "isFree": true,
       "website": "https://atlantic.ctvnews.ca/"
     },
@@ -3868,7 +3510,7 @@
       "isFree": true
     },
     {
-      "name": "CKMC-TV-1",
+      "name": "CKMC-TV-",
       "isFree": true
     },
     {
@@ -3877,12 +3519,12 @@
       "website": "https://globalnews.ca/montreal/"
     },
     {
-      "name": "CKMI-DT-1",
+      "name": "CKMI-DT-",
       "isFree": true,
       "website": "https://globalnews.ca/montreal/"
     },
     {
-      "name": "CKMI-DT-2",
+      "name": "CKMI-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/montreal/"
     },
@@ -3896,7 +3538,7 @@
       "website": "https://globalnews.ca/winnipeg/"
     },
     {
-      "name": "CKND-DT-2",
+      "name": "CKND-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/winnipeg/"
     },
@@ -3906,7 +3548,7 @@
       "website": "https://northernontario.ctvnews.ca/"
     },
     {
-      "name": "CKNY-TV-11",
+      "name": "CKNY-TV- 11",
       "isFree": true,
       "website": "https://northernontario.ctvnews.ca/"
     },
@@ -3916,17 +3558,17 @@
       "website": "http://ckpg.com/"
     },
     {
-      "name": "CKPG-TV-1",
+      "name": "CKPG-TV-",
       "isFree": true,
       "website": "http://ckpg.com/"
     },
     {
-      "name": "CKPG-TV-4",
+      "name": "CKPG-TV- 4",
       "isFree": true,
       "website": "http://ckpg.com/"
     },
     {
-      "name": "CKPG-TV-5",
+      "name": "CKPG-TV- 5",
       "isFree": true,
       "website": "http://ckpg.com/"
     },
@@ -3940,11 +3582,11 @@
       "isFree": true
     },
     {
-      "name": "CKRN-TV-2",
+      "name": "CKRN-TV- 2",
       "isFree": true
     },
     {
-      "name": "CKRN-TV-3",
+      "name": "CKRN-TV- 3",
       "isFree": true
     },
     {
@@ -3953,32 +3595,32 @@
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-1",
+      "name": "CKRT-DT-",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-2",
+      "name": "CKRT-DT- 2",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-3",
+      "name": "CKRT-DT- 3",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-4",
+      "name": "CKRT-DT- 4",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-5",
+      "name": "CKRT-DT- 5",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
     {
-      "name": "CKRT-DT-6",
+      "name": "CKRT-DT- 6",
       "isFree": true,
       "website": "http://www.ckrt.ca/"
     },
@@ -3988,7 +3630,7 @@
       "website": "http://www.cksatv.ca/"
     },
     {
-      "name": "CKSA-TV-2",
+      "name": "CKSA-TV- 2",
       "isFree": true,
       "website": "http://www.cksatv.ca/"
     },
@@ -4003,7 +3645,7 @@
       "website": "https://ici.radio-canada.ca/mauricie/"
     },
     {
-      "name": "CKTN-DT-2",
+      "name": "CKTN-DT- 2",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -4013,17 +3655,17 @@
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CKTN-TV-1",
+      "name": "CKTN-TV-",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CKTN-TV-3",
+      "name": "CKTN-TV- 3",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
     {
-      "name": "CKTN-TV-4",
+      "name": "CKTN-TV- 4",
       "isFree": true,
       "website": "https://globalnews.ca/bc/"
     },
@@ -4042,7 +3684,7 @@
       "website": "https://barrie.ctvnews.ca/"
     },
     {
-      "name": "CKVR-TV-1",
+      "name": "CKVR-TV-",
       "isFree": true,
       "website": "https://barrie.ctvnews.ca/"
     },
@@ -4052,12 +3694,12 @@
       "website": "http://www.citytv.com/vancouver"
     },
     {
-      "name": "CKVU-DT-2",
+      "name": "CKVU-DT- 2",
       "isFree": true,
       "website": "http://www.citytv.com/vancouver"
     },
     {
-      "name": "CKVU-TV-1",
+      "name": "CKVU-TV-",
       "isFree": true,
       "website": "http://www.citytv.com/vancouver"
     },
@@ -4067,17 +3709,17 @@
       "website": "http://globalnews.ca/kingston/"
     },
     {
-      "name": "CKWS-DT-1",
+      "name": "CKWS-DT-",
       "isFree": true,
       "website": "http://globalnews.ca/kingston/"
     },
     {
-      "name": "CKWS-TV-2",
+      "name": "CKWS-TV- 2",
       "isFree": true,
       "website": "http://globalnews.ca/kingston/"
     },
     {
-      "name": "CKWS-TV-3",
+      "name": "CKWS-TV- 3",
       "isFree": true,
       "website": "http://globalnews.ca/kingston/"
     },
@@ -4117,7 +3759,7 @@
       "website": "https://winnipeg.ctvnews.ca/"
     },
     {
-      "name": "Cooking Channel",
+      "name": "Cooking",
       "isFree": true,
       "website": "http://www.cookingchannel.ca/"
     },
@@ -4135,13 +3777,11 @@
     {
       "name": "Crime + Investigation",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
       "website": "https://www.crimeandinvestigation.ca/"
     },
     {
-      "name": "CTB TV",
+      "name": "CTB",
       "isFree": true,
-      "logo": "https://i.imgur.com/G3g62Td.png",
       "website": "https://ctbtv.ca/"
     },
     {
@@ -4153,35 +3793,30 @@
     {
       "name": "CTV 2 Atlantic",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "http://atlantic.ctv.ca/",
       "priority": 10
     },
     {
-      "name": "CTV Comedy Channel",
+      "name": "CTV Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "https://www.ctv.ca/comedy",
       "priority": 10
     },
     {
-      "name": "CTV Drama Channel",
+      "name": "CTV Drama",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090336303381_92.png",
       "website": "https://www.ctv.ca/drama",
       "priority": 10
     },
     {
-      "name": "CTV Life Channel",
+      "name": "CTV Life",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "https://www.ctv.ca/life",
       "priority": 10
     },
     {
-      "name": "CTV Sci-Fi Channel",
+      "name": "CTV Sci-Fi",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "https://www.ctv.ca/sci-fi",
       "priority": 10
     },
@@ -4196,14 +3831,13 @@
       "website": "https://www.dejaviewtv.ca/"
     },
     {
-      "name": "Deshi TV",
+      "name": "Deshi",
       "isFree": true,
       "website": "https://www.deshitv.com/"
     },
     {
       "name": "Devils Film",
       "isFree": null,
-      "logo": "https://go4.pw/USA/ES+.png",
       "website": "https://devilsfilm.org/"
     },
     {
@@ -4212,9 +3846,8 @@
       "website": "https://www.brazzers.com/site/94/dirty-masseur"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "https://www.ctv.ca/discovery",
       "priority": 10
     },
@@ -4227,20 +3860,17 @@
     {
       "name": "Discovery Velocity",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://www.ctv.ca/discovery-velocity",
       "priority": 9
     },
     {
       "name": "Dorcel TV Canada",
       "isFree": null,
-      "logo": "http://epg.one/img2/2324.png",
       "website": "https://vanessatv.com/signal-lineaire/"
     },
     {
       "name": "Dream 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg"
+      "isFree": true
     },
     {
       "name": "DTour",
@@ -4255,7 +3885,6 @@
     {
       "name": "Elle Fictions",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY4x1ArhTFekVdcf5XazhrtKwyR.jpg",
       "website": "https://ellefictions.ca/"
     },
     {
@@ -4269,13 +3898,12 @@
       "website": "https://www.evasion.tv/"
     },
     {
-      "name": "Exxxtasy TV",
+      "name": "Exxxtasy",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://exxxtasy.com/exxxtasytv"
     },
     {
-      "name": "Family Channel",
+      "name": "Family",
       "isFree": true,
       "website": "https://www.family.ca/"
     },
@@ -4285,9 +3913,8 @@
       "website": "https://www.familyjr.ca/"
     },
     {
-      "name": "FEVA TV",
+      "name": "FEVA",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23132/feva-tv/logo_20231219_201430_69.png",
       "website": "https://www.fevatv.com/"
     },
     {
@@ -4296,9 +3923,8 @@
       "website": "http://www.foodnetwork.ca/"
     },
     {
-      "name": "Frissons TV",
+      "name": "Frissons",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CANADA/FRISSON.png",
       "website": "http://frissonstv.com/"
     },
     {
@@ -4312,19 +3938,18 @@
       "website": "http://www.fxnowcanada.ca/"
     },
     {
-      "name": "Game TV",
+      "name": "Game",
       "isFree": true,
       "website": "http://www.igametv.com/"
     },
     {
-      "name": "Gaunda Punjab TV",
+      "name": "Gaunda Punjab",
       "isFree": true,
       "website": "https://gaundapunjablive.com/"
     },
     {
-      "name": "GH Canada TV",
+      "name": "GH Canada",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
       "website": "http://ghcanada.tv/"
     },
     {
@@ -4333,80 +3958,68 @@
       "website": "https://guyanatvnetwork.com/"
     },
     {
-      "name": "Gusto TV",
+      "name": "Gusto",
       "isFree": true,
       "website": "https://gustotv.com/"
     },
     {
-      "name": "Hay River TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kLYMk6a0fp1WEbHyEOFvKZkF5Y.jpg"
+      "name": "Hay River",
+      "isFree": true
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://citytvplus.ca/brands/hgtv"
     },
     {
       "name": "House Assembly of Newfoundland and Labrador",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.assembly.nl.ca/HouseBusiness/Webcast/live_video_audio.aspxnewfoundland"
     },
     {
       "name": "HPTV Persian",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppReRGszmdZC2194keN4cGoLIPQ.jpg",
       "website": "http://draliakbari.com/"
     },
     {
       "name": "Investigation",
       "isFree": true,
       "keywords": "investigation -discovery",
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "http://www.investigationtele.com/"
     },
     {
-      "name": "ITC TV",
+      "name": "ITC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://itctv.ca/"
     },
     {
       "name": "Jhanjar Music",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
-      "name": "Joy TV",
+      "name": "Joy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qN9YKcKbDsaS16t1mZh8J3IWMBT.jpg",
       "website": "http://www.joytv.ca/"
     },
     {
       "name": "KOTV",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/CBS.png",
       "website": "https://kotv.ca/"
     },
     {
       "name": "Legislative Assembly of British Columbia",
       "isFree": true,
       "keywords": "legislative assembly of british columbia -committee a",
-      "logo": "https://i.imgur.com/5QGxHhh.png",
       "website": "https://www.leg.bc.ca/"
     },
     {
       "name": "Legislative Assembly of British Columbia Committee A",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
       "website": "https://video.leg.bc.ca/live/play.aspx?Video=dougfir&Title=Committee%20A&Description=Legislative%20Assembly%20of%20British%20Columbia&Mode=live&Popout=Yes&Mute=False"
     },
     {
       "name": "Legislative Assembly of the Northwest Territories",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/LEGISLATIVE-ASSEMBLY-OF-ONTARIO.png",
       "website": "https://www.assembly.gov.nt.ca/documents-proceedings/broadcasting"
     },
     {
@@ -4422,13 +4035,11 @@
     {
       "name": "Love Nature",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",
       "website": "https://tv.lovenature.com/"
     },
     {
-      "name": "LTT TV",
+      "name": "LTT",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://linusmediagroup.com/contact"
     },
     {
@@ -4449,13 +4060,11 @@
     {
       "name": "MAtv",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/MATV.png",
       "website": "http://matv.ca/"
     },
     {
       "name": "Max",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313151936372579_37.png",
       "website": "https://maxtele.ca/"
     },
     {
@@ -4466,42 +4075,37 @@
     {
       "name": "MTV",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "https://www.mtv.ca/",
       "priority": 10
     },
     {
-      "name": "MTV2",
+      "name": "MTV 2",
       "isFree": true,
-      "logo": "https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png",
       "website": "http://www.mtv.ca/mtv2/"
     },
     {
-      "name": "Nandan TV",
+      "name": "Nandan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.nandan.tv/"
     },
     {
-      "name": "Neepawa Access TV",
+      "name": "Neepawa Access",
       "isFree": true,
       "website": "http://nactv.tv/"
     },
     {
-      "name": "Newfoundland TV",
+      "name": "Newfoundland",
       "isFree": true,
       "website": "http://ntv.ca/"
     },
     {
       "name": "Noovo Estrie",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png",
       "website": "https://noovo.ca/"
     },
     {
       "name": "Noovo Quebec",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png",
       "website": "https://noovo.ca/"
     },
     {
@@ -4510,9 +4114,8 @@
       "website": "https://yourtv.tv/community-selection"
     },
     {
-      "name": "Nova Scotia Legislative TV",
+      "name": "Nova Scotia Legislative",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://nslegislature.ca/"
     },
     {
@@ -4546,45 +4149,38 @@
       "website": "http://www.owntv.ca/"
     },
     {
-      "name": "Penthouse TV",
+      "name": "Penthouse",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9yZC2bWYJNkUmiwedrUy9L5hxn.jpg",
       "website": "https://exxxtasy.com/penthousetv/"
     },
     {
       "name": "Planete+ Canada",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "http://www.planetepluscanada.ca/"
     },
     {
-      "name": "Playmen TV",
+      "name": "Playmen",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://exxxtasy.com/playmen-tv"
     },
     {
       "name": "Prise 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png",
       "website": "http://www.prise2.tv/"
     },
     {
       "name": "PTC Punjabi Canada",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PUMJABI/PTCNEWS.png",
       "website": "http://www.ptcnetwork.ca/"
     },
     {
       "name": "PublicAgent",
       "isFree": null,
-      "logo": "https://img.redtraffic.xyz/21011.jpg",
       "website": "https://www.publicagent.com/"
     },
     {
-      "name": "Rawal TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Rawal",
+      "isFree": true
     },
     {
       "name": "RDS",
@@ -4603,151 +4199,126 @@
       "website": "http://www.rdsinfo.ca/"
     },
     {
-      "name": "Red Hot TV",
+      "name": "Red Hot",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
       "website": "http://exxxtasy.com/redhottv/"
     },
     {
       "name": "REV TV Canada",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/revtv.png",
       "website": "http://revtv.ca/"
     },
     {
       "name": "Rewind",
-      "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png"
+      "isFree": true
     },
     {
       "name": "RFD-TV Canada",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://rfdtvcanada.ca/"
     },
     {
       "name": "Saisons Canada",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "isFree": true
     },
     {
       "name": "Saskatchewan Legislative Network",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "http://www.legassembly.sk.ca/"
     },
     {
-      "name": "Shaw Pay Per View 1",
+      "name": "Shaw Pay Per View",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 11",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 13",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 14",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 15",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 16",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 17",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 18",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 19",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 20",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 22",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 23",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
       "name": "Shaw Pay Per View 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
       "website": "https://www.shaw.ca/television/channels/pay-per-view/"
     },
     {
@@ -4756,9 +4327,8 @@
       "website": "http://showcase.ca/"
     },
     {
-      "name": "Skinemax HD",
+      "name": "Skinemax",
       "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "http://exxxtasy.com/skinemax-hd/"
     },
     {
@@ -4767,24 +4337,22 @@
       "website": "http://www.slice.ca/"
     },
     {
-      "name": "Smithsonian Channel",
+      "name": "Smithsonian",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
       "website": "https://www.smithsonianchannellatam.com/"
     },
     {
-      "name": "Sohail TV",
+      "name": "Sohail",
       "isFree": true,
-      "logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
       "website": "https://sohailtv.com/"
     },
     {
-      "name": "Sooriyan TV",
+      "name": "Sooriyan",
       "isFree": true,
       "website": "http://www.sooriyantv.ca/"
     },
     {
-      "name": "Starz 1",
+      "name": "Starz",
       "isFree": true,
       "website": "https://www.starz.ca/"
     },
@@ -4794,7 +4362,7 @@
       "website": "https://www.starz.ca/"
     },
     {
-      "name": "Super Ecran 1",
+      "name": "Super Ecran",
       "isFree": true,
       "website": "https://www.crave.ca/fr/super-ecran"
     },
@@ -4806,7 +4374,6 @@
     {
       "name": "Super Ecran 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://www.crave.ca/fr/super-ecran"
     },
     {
@@ -4820,9 +4387,8 @@
       "website": "https://www.talentvisiontv.com/"
     },
     {
-      "name": "Tamazgha Monde TV",
+      "name": "Tamazgha Monde",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh8gdM1390L6utMK9ur9xkRNMhk.jpg",
       "website": "https://tamazghamonde.tv/"
     },
     {
@@ -4835,45 +4401,38 @@
       "website": "https://tcftv.ca/"
     },
     {
-      "name": "Tele a la carte 1",
+      "name": "Tele a la carte",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Tele a la carte 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Tele a la carte 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Tele a la carte 4",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Tele a la carte 5",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Tele a la carte 6",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "http://www.shawdirect.ca/francais/a-lhoraire/tele-a-la-carte/"
     },
     {
       "name": "Telebimbi",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ITALY/tembimbi.png",
       "website": "http://telebimbi.ca"
     },
     {
@@ -4888,13 +4447,11 @@
     {
       "name": "TeleNinos",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/TELENINOS.png",
       "website": "http://teleninos.ca/"
     },
     {
-      "name": "Telile TV",
+      "name": "Telile",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.telile.tv/"
     },
     {
@@ -4905,19 +4462,16 @@
     {
       "name": "The Cowboy Channel Canada",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://thecowboychannelcanada.ca/"
     },
     {
-      "name": "The Rural Channel",
+      "name": "The Rural",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "http://www.theruralchannel.com/"
     },
     {
       "name": "The Scenic City",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://cable14now.com/live-streams/video/?videoId=592"
     },
     {
@@ -4928,8 +4482,7 @@
     },
     {
       "name": "TLN en Espanol",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/tln77.png"
+      "isFree": true
     },
     {
       "name": "T+E",
@@ -4937,9 +4490,8 @@
       "website": "https://www.tandetv.com/"
     },
     {
-      "name": "TQ5 TV",
+      "name": "TQ 5",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tq5tv.com/"
     },
     {
@@ -4948,9 +4500,8 @@
       "website": "https://www.transangels.com/"
     },
     {
-      "name": "Treehouse TV",
+      "name": "Treehouse",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/Treehouse_TV_logo.png",
       "website": "http://www.treehousetv.com/"
     },
     {
@@ -4961,7 +4512,6 @@
     {
       "name": "TV5 Quebec Canada",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png",
       "website": "http://tv5unis.ca/"
     },
     {
@@ -4975,7 +4525,7 @@
       "website": "https://www.qub.ca/tvaplus/tva"
     },
     {
-      "name": "TVA Montreal +3",
+      "name": "TVA Montreal + 3",
       "isFree": true
     },
     {
@@ -4989,26 +4539,23 @@
       "website": "https://tvctk.com/"
     },
     {
-      "name": "tvi HD",
+      "name": "tvi",
       "isFree": true,
       "website": "https://www.tamilvision.tv/"
     },
     {
       "name": "TV Temis",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://temis.tv/"
     },
     {
       "name": "Unis",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrXwQiHAhekBT4dQ9euMxk6KT7.jpg",
       "website": "https://www.tv5unis.ca/"
     },
     {
       "name": "Univision Canada",
       "isFree": true,
-      "logo": "https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",
       "website": "http://univision.ca/"
     },
     {
@@ -5016,85 +4563,69 @@
       "isFree": true
     },
     {
-      "name": "Valemount Community TV",
+      "name": "Valemount Community",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/cinegr.png",
       "website": "http://www.vctv.ca/aboutus.php"
     },
     {
-      "name": "Venus 0",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "name": "Venus",
+      "isFree": true
     },
     {
-      "name": "Venus 1",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "name": "Venus",
+      "isFree": true
     },
     {
       "name": "Venus 10",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 11",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 12",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 3",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 4",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 5",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 6",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 7",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 8",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "Venus 9",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
-      "name": "Venus Information Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "name": "Venus Information",
+      "isFree": true
     },
     {
       "name": "Venus Preview",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg"
+      "isFree": true
     },
     {
       "name": "VisionTV",
@@ -5102,9 +4633,8 @@
       "website": "http://www.visiontv.ca/"
     },
     {
-      "name": "Vixen TV",
+      "name": "Vixen",
       "isFree": null,
-      "logo": "http://epg.one/img2/3234.png",
       "website": "https://www.vixen.com/"
     },
     {
@@ -5113,21 +4643,19 @@
       "website": "https://www.vrak.tv/"
     },
     {
-      "name": "Watan-e-Maa TV",
+      "name": "Watan-e-Maa",
       "isFree": true,
       "website": "https://www.watanemaatv.com/"
     },
     {
       "name": "Water Television Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
       "website": "https://thewaterchannel.ca/"
     },
     {
       "name": "WCGtv",
       "isFree": true,
       "keywords": "wcgtv -brandon",
-      "logo": "https://i.imgur.com/q7UPbEG.png",
       "website": "https://www.wcgtv.ca/"
     },
     {
@@ -5136,27 +4664,23 @@
       "website": "http://wildbraintv.com/"
     },
     {
-      "name": "Wild TV",
+      "name": "Wild",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23208/wild-tv/logo_20250401_215043_70.png",
       "website": "https://wildtv.ca/"
     },
     {
       "name": "W Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS03cVTS9bQBd7YVTihDRXba7kl.jpg",
       "website": "http://www.wnetwork.com/"
     },
     {
       "name": "Yes TV Calgary",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "http://www.yestv.com/"
     },
     {
       "name": "Yes TV Edmonton",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
       "website": "http://www.yestv.com/"
     },
     {
@@ -5166,8 +4690,7 @@
     },
     {
       "name": "YourTV Belleville",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enw6C4fDw88g0nOQgIJXjgH3NHi.jpg"
+      "isFree": true
     },
     {
       "name": "YourTV Brockville",
@@ -5175,8 +4698,7 @@
     },
     {
       "name": "YourTV Burlington",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "YourTV Chatham-Kent",
@@ -5196,33 +4718,27 @@
     },
     {
       "name": "YourTV Hawkesbury",
-      "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/assets.streams/63c0a7be81c2ac2fef927bf7"
+      "isFree": true
     },
     {
       "name": "YourTV Huntsville",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/abc1.png"
+      "isFree": true
     },
     {
       "name": "YourTV Kingston",
-      "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png"
+      "isFree": true
     },
     {
       "name": "YourTV Milton",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/para.png"
+      "isFree": true
     },
     {
       "name": "YourTV Niagara Falls",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hq6rtJ6uaTmmRPDkelnbpz5WQW.jpg"
+      "isFree": true
     },
     {
       "name": "YourTV North Bay",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay0dOKJgyK4VEh3xakV15UgvJMF.jpg"
+      "isFree": true
     },
     {
       "name": "YourTV Pembroke",
@@ -5230,137 +4746,109 @@
     },
     {
       "name": "YourTV Peterborough",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/GLOBAL-PETERBOROUGH.png"
+      "isFree": true
     },
     {
       "name": "YourTV Sarnia",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "isFree": true
     },
     {
       "name": "YourTV Smiths Falls",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
+      "isFree": true
     },
     {
       "name": "YourTV Windsor",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/CBC_WINDSOR_HD.png"
+      "isFree": true
     },
     {
       "name": "YTV",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",
       "website": "http://www.ytv.com/"
     },
     {
       "name": "Zee TV Canada",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
       "website": "http://www.zeetvcanada.ca/"
     },
     {
       "name": "Zeste",
       "isFree": true,
       "website": "http://www.zeste.tv/"
-    },
-    {
-      "name": "Z",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
-      "website": "http://www.ztele.com/"
     }
   ],
   "Music Videos": [
     {
       "name": "404 Stingray Greatest Hits",
       "isFree": true,
-      "shortName": "4SGH",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SGH"
     },
     {
       "name": "405 Stingray Hit List",
       "isFree": true,
-      "shortName": "4SHL",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SHL"
     },
     {
       "name": "406 Stingray Classic Rock",
       "isFree": true,
-      "shortName": "4SCR",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SCR"
     },
     {
       "name": "407 Stingray Rock Alternative",
       "isFree": true,
-      "shortName": "4SRA",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FzqywkoUQERy9VQjGNTiXcsN4G.jpg"
+      "shortName": "4SRA"
     },
     {
       "name": "408 Stingray Pop Adult",
       "isFree": true,
-      "shortName": "4SPA",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SPA"
     },
     {
       "name": "409 Stingray Urban Beat",
       "isFree": true,
-      "shortName": "4SUB",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SUB"
     },
     {
       "name": "410 Stingray Hot Country",
       "isFree": true,
-      "shortName": "4SHC",
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "shortName": "4SHC"
     },
     {
       "name": "413 Stingray Today's Latin Pop",
       "isFree": true,
-      "shortName": "4STLP",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBhIwUQiOUZW40Dixxdi4MPhKdc.jpg"
+      "shortName": "4STLP"
     },
     {
-      "name": "Azstar TV",
+      "name": "Azstar",
       "isFree": true
     },
     {
       "name": "Stingray Ambience",
-      "isFree": true,
-      "shortName": "SA",
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Classic Rock",
-      "isFree": true,
-      "shortName": "SCR"
+      "isFree": true
     },
     {
       "name": "Stingray Classica",
-      "isFree": true,
-      "shortName": "SC"
+      "isFree": true
     },
     {
       "name": "Stingray Greatest Hits",
-      "isFree": true,
-      "shortName": "SGH"
+      "isFree": true
     },
     {
       "name": "Stingray Hit List",
       "isFree": true,
-      "keywords": "stingray hit list | stingray hitlist",
-      "shortName": "SHL"
+      "keywords": "stingray hit list | stingray hitlist"
     },
     {
       "name": "Stingray Holiday Hits",
-      "isFree": true,
-      "shortName": "SHH"
+      "isFree": true
     },
     {
       "name": "Stingray Hot Country",
-      "isFree": true,
-      "shortName": "SHC"
+      "isFree": true
     },
     {
       "name": "Stingray Karaoke",
@@ -5368,13 +4856,11 @@
     },
     {
       "name": "Stingray Karoke",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Naturescape",
-      "isFree": true,
-      "shortName": "SN"
+      "isFree": true
     },
     {
       "name": "Stingray Qello",
@@ -5383,20 +4869,15 @@
     },
     {
       "name": "Stingray Qello Concerts",
-      "isFree": true,
-      "shortName": "SQC",
-      "logo": "https://i.imgur.com/z0mmnRk.png"
+      "isFree": true
     },
     {
       "name": "Stingray Soul Storm",
-      "isFree": true,
-      "shortName": "SSS",
-      "logo": "https://i.imgur.com/dU1KC3f.png"
+      "isFree": true
     },
     {
       "name": "Stingray djazz",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png"
+      "isFree": true
     },
     {
       "name": "A.Side",
@@ -5406,30 +4887,26 @@
     {
       "name": "ATN ARY Musik",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-ary-musik"
     },
     {
       "name": "ATN B4U Music",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-b4u-music"
     },
     {
-      "name": "Belmedia TV",
+      "name": "Belmedia",
       "isFree": true,
       "website": "http://www.belmediatv.com/"
     },
     {
       "name": "CKNO-FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/sF2g7KE.png",
       "website": "https://www.1023nowradio.com/now-tv/"
     },
     {
       "name": "Classical FM",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/MMN-New.jpg",
       "website": "https://classicalfm.ca/"
     },
     {
@@ -5470,19 +4947,16 @@
     {
       "name": "Melody Hits",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "website": "https://www.melody.net/"
     },
     {
       "name": "Much",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
       "website": "http://www.ctv.ca/much"
     },
     {
       "name": "PalmaresADISQ par Stingray",
       "isFree": true,
-      "logo": "https://go4.pw/CANADA/PALMARESADISQ.png",
       "website": "https://palmaresadisq.stingray.com/"
     },
     {
@@ -5492,231 +4966,187 @@
     },
     {
       "name": "Stingray Adult Alternative",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray All Day Party!",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Alt Country Americana",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Alternative",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Alt Rock Classics",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Around the World",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Baroque",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Beautiful Instrumentals",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Big Band",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Bluegrass",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Broadway",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Celtic",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Chamber Music",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Chill Lounge",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Christian Pop & Rock",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Classic Masters / Grands classiques",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Classic R&B",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray CMT",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray CMusic",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://cmusic.stingray.com/"
     },
     {
       "name": "Stingray Country",
       "isFree": true,
       "keywords": "stingray country -classics",
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://country.stingray.com/"
     },
     {
       "name": "Stingray Country Classics",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Dance Clubbin'",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Easy Listening",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "Stingray Eclectic Electronic",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray En Marge",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Euro Hits",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/US/channels/214/euro-hits"
     },
     {
       "name": "Stingray Everything '80s",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/BS/channels/128/everything-80s"
     },
     {
       "name": "Stingray Exitos del Momento",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/es/US/channels/190/exitos-del-momento"
     },
     {
       "name": "Stingray Festival 4K",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Flashback 70's",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Folk Roots",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Country",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Energie",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Fetes",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Pop",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Relax",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Franco Retro",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Gospel",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Groove Disco & Funk",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Heavy Metal",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Hip Hop",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "Stingray Hip-Hop/R&B",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/US/channels/033/hip-hop-rnb"
     },
     {
       "name": "Stingray Hits",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://hits.stingray.com/"
     },
     {
       "name": "Stingray Holiday Favourites",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray iConcerts",
@@ -5725,121 +5155,99 @@
     },
     {
       "name": "Stingray Jammin'",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Jazz Cafe",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Jazz Masters / Geants du Jazz",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Jazz Now / Jazz d'aujourd'hui",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Juicebox",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "http://juicebox.stingray.com/"
     },
     {
       "name": "Stingray Jukebox Oldies",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Latino Tropical",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Latino Urbana",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Le Palmares",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
-      "name": "Stingray Lite TV",
+      "name": "Stingray Lite",
       "isFree": true,
       "website": "http://litetv.stingray.com/nl"
     },
     {
       "name": "Stingray Loud",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "http://loud.stingray.com/"
     },
     {
       "name": "Stingray Masterworks",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Maximum Party",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Memories",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Mousses musique",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Musique Boutchoux",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Nature",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray No Fences",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Nostalgie",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Nothin' But 90s",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/channels/042/nothin-but-90s"
     },
     {
       "name": "Stingray Now 4K",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Opera Plus",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Osheaga",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Pop Adult",
@@ -5848,13 +5256,11 @@
     },
     {
       "name": "Stingray Popular Classical / Classique populaire",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Power Hits",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Remember the 80s",
@@ -5864,24 +5270,20 @@
       "name": "Stingray Retro",
       "isFree": true,
       "keywords": "stingray retro -latino",
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "http://retro.stingray.com/"
     },
     {
       "name": "Stingray Retro Latino",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Riddim",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Rock",
       "isFree": true,
-      "keywords": "stingray rock -alternative -en espanol",
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "keywords": "stingray rock -alternative -en espanol"
     },
     {
       "name": "Stingray Rock Alternative",
@@ -5889,13 +5291,11 @@
     },
     {
       "name": "Stingray Rock en Espanol",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Romance Latino",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png"
+      "isFree": true
     },
     {
       "name": "Stingray Smooth Jazz",
@@ -5905,38 +5305,31 @@
     },
     {
       "name": "Stingray Smooth Jazz Christmas",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Souln R&B",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Souvenirs",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Swingin' Standards",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray The Beat",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray The Blues",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray The Edge",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray The Spa",
@@ -5946,18 +5339,15 @@
     {
       "name": "Stingray Today's K-Pop",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/channels/317/todays-k-pop"
     },
     {
       "name": "Stingray Today's Latin Pop",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6a4ff2a3d62375a7f3c1519f533ae12f.png"
+      "isFree": true
     },
     {
       "name": "Stingray Treehouse",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png"
+      "isFree": true
     },
     {
       "name": "Stingray Urban Beat",
@@ -5966,27 +5356,23 @@
     {
       "name": "Stingray Vibe",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "http://vibe.stingray.com/"
     },
     {
       "name": "Stingray Y2K",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png",
       "website": "https://music.stingray.com/en/channels/232/y2k"
     },
     {
       "name": "Stingray DJAZZ",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
       "website": "https://djazz.stingray.com/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Filmrise free movies",
-      "isFree": false,
-      "shortName": "FFM"
+      "isFree": false
     },
     {
       "name": "NETV Toronto",
@@ -6000,19 +5386,16 @@
     {
       "name": "ATN B4U Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-b4u-movies"
     },
     {
       "name": "ATN Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/aryananews.png",
       "website": "http://asiantelevision.com/channel/atn-movies"
     },
     {
       "name": "AXN Movies",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": true
     },
     {
       "name": "Cinepop",
@@ -6020,12 +5403,11 @@
       "website": "http://www.cinepop.ca/"
     },
     {
-      "name": "Classique TV",
-      "isFree": true,
-      "logo": "http://i.imgur.com/EdTZ0ba.png"
+      "name": "Classique",
+      "isFree": true
     },
     {
-      "name": "Crave 1",
+      "name": "Crave",
       "isFree": true,
       "website": "https://www.crave.ca/"
     },
@@ -6045,9 +5427,8 @@
       "website": "https://www.crave.ca/"
     },
     {
-      "name": "HBO 1",
+      "name": "HBO",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",
       "website": "https://www.crave.ca/hbo",
       "priority": 9
     },
@@ -6060,43 +5441,36 @@
     {
       "name": "Hollywood Suite 00s Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg",
       "website": "https://hollywoodsuite.ca/"
     },
     {
       "name": "Hollywood Suite 70s Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg",
       "website": "https://hollywoodsuite.ca/"
     },
     {
       "name": "Hollywood Suite 80s Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg",
       "website": "https://hollywoodsuite.ca/"
     },
     {
       "name": "Hollywood Suite 90s Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg",
       "website": "https://hollywoodsuite.ca/"
     },
     {
-      "name": "LS Times TV",
+      "name": "LS Times",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smggAeGHRjKy85h6BzF0eTeDrFW.jpg",
       "website": "http://www.lstimes.ca/"
     },
     {
       "name": "Melody Aflam",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "website": "https://www.melody.net/"
     },
     {
       "name": "Melody Drama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "website": "https://www.melody.net/"
     },
     {
@@ -6107,7 +5481,6 @@
     {
       "name": "Series Plus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJXzXaq0yUNntXo4ZD4MnnwFt4n.jpg",
       "website": "https://www.seriesplus.com/"
     },
     {
@@ -6128,7 +5501,6 @@
     {
       "name": "Super Channel Vault",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://www.superchannel.ca/Vault"
     },
     {
@@ -6141,43 +5513,37 @@
     {
       "name": "411 Stingray Flashback 70s",
       "isFree": true,
-      "shortName": "4SF7",
-      "logo": "https://go4.pw/USA/FloSport.png",
+      "shortName": "4SF 7",
       "priority": 4
     },
     {
       "name": "412 Stingray Everything 80s",
       "isFree": true,
-      "shortName": "4SE8",
-      "logo": "https://go4.pw/USA/FloSport.png",
+      "shortName": "4SE 8",
       "priority": 4
     },
     {
       "name": "Ici Radio-Canada Télé",
       "isFree": true,
-      "shortName": "IRT",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "priority": 4
     },
     {
       "name": "Stingray Everything 80s",
       "isFree": true,
-      "shortName": "SE8",
+      "shortName": "SE 8",
       "priority": 4
     },
     {
       "name": "Stingray Flashback 70s",
       "isFree": true,
-      "shortName": "SF7",
+      "shortName": "SF 7",
       "priority": 4
     }
   ],
   "Shop": [
     {
-      "name": "The Shopping Channel",
-      "isFree": true,
-      "shortName": "TSC",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "The Shopping",
+      "isFree": true
     },
     {
       "name": "TSC",

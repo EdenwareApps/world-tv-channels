@@ -3,30 +3,26 @@
     {
       "name": "Euronews Hungary",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "priority": 9
     },
     {
       "name": "N1 HRVATSKA",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png"
+      "isFree": true
     },
     {
       "name": "ICT Business",
       "isFree": true,
-      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
       "website": "https://www.ictbusiness.info/ictbusiness-tv"
     },
     {
-      "name": "Mini TV",
+      "name": "Mini",
       "isFree": true,
       "website": "https://novatv.dnevnik.hr/"
     },
     {
-      "name": "N1",
+      "name": "N",
       "isFree": true,
       "keywords": "n1 -hrvatska",
-      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png",
       "website": "https://hr.n1info.com/"
     },
     {
@@ -38,91 +34,47 @@
       "isFree": true
     },
     {
-      "name": "D05",
+      "name": "Nova",
       "isFree": true
     },
     {
-      "name": "D03",
+      "name": "RTL",
       "isFree": true
     },
     {
-      "name": "D07",
+      "name": "RTL 2",
       "isFree": true
     },
     {
-      "name": "D09",
+      "name": "CMC",
       "isFree": true
     },
     {
-      "name": "D01",
+      "name": "D",
       "isFree": true
     },
     {
-      "name": "D02",
+      "name": "D 2",
       "isFree": true
     },
     {
-      "name": "D06",
+      "name": "D 3",
       "isFree": true
     },
     {
-      "name": "D08",
+      "name": "OTV",
       "isFree": true
     },
     {
-      "name": "D04",
+      "name": "BlueTV",
       "isFree": true
     },
     {
-      "name": "Nova TV]]",
+      "name": "Z1 Televizija",
       "isFree": true
     },
     {
-      "name": "RTL]]",
-      "isFree": true
-    },
-    {
-      "name": "RTL 2]]",
-      "isFree": true
-    },
-    {
-      "name": "CMC]]",
-      "isFree": true
-    },
-    {
-      "name": "*Note: Until 1990 as [[Yugoslav Radio Television",
-      "isFree": true
-    },
-    {
-      "name": "D1",
-      "isFree": true
-    },
-    {
-      "name": "D2",
-      "isFree": true
-    },
-    {
-      "name": "D3",
-      "isFree": true
-    },
-    {
-      "name": "OTV]]",
-      "isFree": true
-    },
-    {
-      "name": "BlueTV]]",
-      "isFree": true
-    },
-    {
-      "name": "Z1 Televizija]] (Z1)",
-      "isFree": true
-    },
-    {
-      "name": "d44, d45, d46",
-      "isFree": true
-    },
-    {
-      "name": "D5",
+      "name": "D 5",
       "isFree": true
     },
     {
@@ -130,19 +82,19 @@
       "isFree": true
     },
     {
-      "name": "D7",
+      "name": "D 7",
       "isFree": true
     },
     {
-      "name": "D8",
+      "name": "D 8",
       "isFree": true
     },
     {
-      "name": "D9",
+      "name": "D 9",
       "isFree": true
     },
     {
-      "name": "L-ZA",
+      "name": "L ZA",
       "isFree": true
     },
     {
@@ -150,67 +102,47 @@
       "isFree": true
     },
     {
-      "name": "title=OIDC Form_Post Response",
+      "name": "title=OIDC Form Post Response",
       "isFree": true
     },
     {
-      "name": "GP1]]",
+      "name": "GP",
       "isFree": true
     },
     {
-      "name": "Kanal 5]]",
+      "name": "Kanal 5",
       "isFree": true
     },
     {
-      "name": "Mini Nova]]",
+      "name": "Mini Nova",
       "isFree": true
     },
     {
-      "name": "RTL Crime]]",
+      "name": "RTL Crime",
       "isFree": true
     },
     {
-      "name": "RTL Passion]]",
+      "name": "RTL Passion",
       "isFree": true
     },
     {
-      "name": "RTL Living]]",
+      "name": "RTL Living",
       "isFree": true
     },
     {
-      "name": "Večernji.hr]]",
+      "name": "Večernji",
       "isFree": true
     },
     {
-      "name": "Documentaries",
+      "name": "Nickelodeon",
       "isFree": true
     },
     {
-      "name": "News",
+      "name": "Cartoon Network",
       "isFree": true
     },
     {
-      "name": "Entertainment & Lifestyle",
-      "isFree": true
-    },
-    {
-      "name": "Old [[Yugoslavia",
-      "isFree": true
-    },
-    {
-      "name": "Movies",
-      "isFree": true
-    },
-    {
-      "name": "Nickelodeon]]",
-      "isFree": true
-    },
-    {
-      "name": "Cartoon Network]]",
-      "isFree": true
-    },
-    {
-      "name": "Cartoonito]]",
+      "name": "Cartoonito",
       "isFree": true
     },
     {
@@ -222,7 +154,7 @@
       "isFree": true
     },
     {
-      "name": "Banovina]]",
+      "name": "Banovina",
       "isFree": true
     },
     {
@@ -432,21 +364,18 @@
   ],
   "Entertainment": [
     {
-      "name": "HRT 1",
+      "name": "HRT",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png",
       "priority": 10
     },
     {
       "name": "HRT 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png",
       "priority": 9
     },
     {
       "name": "HRT 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",
       "priority": 10
     },
     {
@@ -456,52 +385,43 @@
     },
     {
       "name": "MAXtv Promo Kanal",
-      "isFree": true,
-      "shortName": "MPK"
+      "isFree": true
     },
     {
       "name": "OTV",
-      "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg"
+      "isFree": true
     },
     {
       "name": "RTL",
       "isFree": true,
-      "logo": "https://i.imgur.com/94K94k2.png",
       "priority": 9
     },
     {
       "name": "TV Jadran",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Nova",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Aurora TV",
+      "name": "Aurora",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5855wwOnhlfK2cBHwA46KCwVFva.jpg",
       "website": "https://tvaurora.tv/en/"
     },
     {
       "name": "CineStar TV Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestar-tv-comedy-family/"
     },
     {
-      "name": "Diadora TV",
+      "name": "Diadora",
       "isFree": true,
-      "logo": "https://i.imgur.com/qZzsASl.png",
       "website": "https://diadora.tv/"
     },
     {
-      "name": "Doma TV",
+      "name": "Doma",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png",
       "website": "http://www.domatv.hr/"
     },
     {
@@ -523,32 +443,27 @@
     {
       "name": "HRT International",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/HRT AKDENIZ.png",
       "website": "https://www.hrt.hr/",
       "priority": 10
     },
     {
       "name": "Kanal Ri",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://kanal-ri.hr/"
     },
     {
-      "name": "Kreator TV",
+      "name": "Kreator",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kreator.tv/"
     },
     {
-      "name": "Libertas TV",
+      "name": "Libertas",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/LIBERTAS_TV.png",
       "website": "https://libertas.tv/"
     },
     {
-      "name": "Mreza TV",
+      "name": "Mreza",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/SANDZAKTV.png",
       "website": "https://www.mreza.tv/"
     },
     {
@@ -557,16 +472,14 @@
       "website": "https://pinkmediagroup.net/"
     },
     {
-      "name": "Nova TV",
+      "name": "Nova",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8c67e97d5b4f7c352d20104a84509ba3.png",
       "website": "http://www.novatv.hr/",
       "priority": 9
     },
     {
       "name": "Nova World",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://novatv.dnevnik.hr/novaworld/"
     },
     {
@@ -575,21 +488,18 @@
       "website": "https://osjecka.com/"
     },
     {
-      "name": "Pickbox TV",
+      "name": "Pickbox",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/Pink.png",
       "website": "https://www.pickbox.hr/tv/"
     },
     {
       "name": "Plava Vinkovacka",
       "isFree": true,
-      "logo": "https://i.imgur.com/WJJNtQ3.jpg",
       "website": "https://vktv.tv/"
     },
     {
-      "name": "Poljoprivredna TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Poljoprivredna",
+      "isFree": true
     },
     {
       "name": "RTL 2",
@@ -599,19 +509,16 @@
     {
       "name": "RTL Adria",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.hr/"
     },
     {
       "name": "RTL Croatia World",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.hr/"
     },
     {
       "name": "RTL Kockica",
       "isFree": true,
-      "logo": "https://i.imgur.com/BiSVmRa.png",
       "website": "https://www.rtl.hr/"
     },
     {
@@ -622,81 +529,69 @@
     {
       "name": "RTL Passion",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtl.hr/"
     },
     {
-      "name": "Saborska TV",
+      "name": "Saborska",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sabor.hr/"
     },
     {
       "name": "SBTV",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/SB.TV.png",
       "website": "https://www.sbtv.hr/"
     },
     {
-      "name": "Shift TV",
+      "name": "Shift",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI7lGR5HuYlENlp11brKUAaPHuO.jpg",
       "website": "https://shift.tv/"
     },
     {
       "name": "STV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png",
       "website": "https://stv.hr/"
     },
     {
       "name": "Televizija Dalmacija",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/BDC.png",
       "website": "https://dalmacija.tv/"
     },
     {
       "name": "Televizija Zelina",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/BDC.png",
       "website": "https://prigorskatv.hr/"
     },
     {
-      "name": "Trend TV",
+      "name": "Trend",
       "isFree": true,
       "website": "https://trend.com.hr/"
     },
     {
       "name": "TV Nasice",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Zapad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zapad.tv/"
     },
     {
       "name": "VTV Televizija",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/vtv.png",
       "website": "http://www.vtv.hr"
     },
     {
       "name": "Woman",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg"
+      "isFree": true
     },
     {
-      "name": "Z1",
+      "name": "Z",
       "isFree": true,
       "website": "http://www.z1tv.hr/"
     },
     {
       "name": "Zdrava TV 7",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/Zdrava_TV.png",
       "website": "https://zdravatv.com/hr"
     }
   ],
@@ -704,83 +599,70 @@
     {
       "name": "Radio Televizija Banovina",
       "isFree": true,
-      "shortName": "RTB",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ],
   "Sports": [
     {
-      "name": "Arena Sport 1",
+      "name": "Arena Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/2qf67zW.png",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 10",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
       "name": "Arena Sport 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.tvarenasport.hr/"
     },
     {
-      "name": "Sportska TV",
+      "name": "Sportska",
       "isFree": true,
       "website": "http://www.sptv.hr/"
     }
   ],
   "Kids": [
     {
-      "name": "Bravo! Kids TV",
+      "name": "Bravo! Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "https://bravo.hr/bravo-kidstv/"
     },
     {
@@ -789,7 +671,7 @@
       "website": "http://www.nick.tv/"
     },
     {
-      "name": "Nick Jr.",
+      "name": "Nick Jr",
       "isFree": true,
       "website": "http://www.nick.tv/"
     },
@@ -801,83 +683,70 @@
   ],
   "Music Videos": [
     {
-      "name": "Bravo! TV",
+      "name": "Bravo!",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bravo.hr/bravotv/"
     },
     {
-      "name": "CMC TV",
+      "name": "CMC",
       "isFree": true,
-      "logo": "https://i.imgur.com/FCb7Ag2.png",
       "website": "https://cmc.com.hr/"
     },
     {
       "name": "DMC Televizija",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/EGYPT/DMC_DRAMA.png",
       "website": "https://dmc.hr/"
     },
     {
-      "name": "Extra TV",
+      "name": "Extra",
       "isFree": true,
-      "logo": "https://i.imgur.com/KCBurST.png",
       "website": "https://extrafm.hr/extra-tv/"
     },
     {
-      "name": "Klape i Tambure TV",
+      "name": "Klape i Tambure",
       "isFree": true,
-      "logo": "https://i.imgur.com/sKj3dgc.png",
       "website": "http://cmc.com.hr/klape-tambure-tv-info/"
     },
     {
-      "name": "Samobor TV",
+      "name": "Samobor",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.samobor.tv/"
     }
   ],
   "Movies & Series": [
     {
-      "name": "CineStar TV 1",
+      "name": "CineStar TV",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-1/"
     },
     {
       "name": "CineStar TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-2/"
     },
     {
       "name": "CineStar TV Action",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-action/"
     },
     {
       "name": "CineStar TV Fantasy",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-fantasy/"
     },
     {
-      "name": "CineStar TV Premiere 1",
+      "name": "CineStar TV Premiere",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-premiere-1/"
     },
     {
       "name": "CineStar TV Premiere 2",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.hr/kanal/cinestartv-premiere-2/"
     },
     {
-      "name": "Doku TV",
+      "name": "Doku",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Kabeleins.png",
       "website": "http://www.discoveryfilm.hr"
     },
     {
@@ -896,27 +765,23 @@
       "website": "http://www.foxchannels.hr/"
     },
     {
-      "name": "Kino TV",
+      "name": "Kino",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/09/19/20140919015135923329_94.jpg",
       "website": "http://www.kinotv.hr/"
     },
     {
       "name": "Klasik",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/KLASIKTV.png",
       "website": "https://www.klasiktv.com/"
     },
     {
       "name": "M1 Film",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/telem1.png",
       "website": "http://www.m1film.hr/"
     },
     {
       "name": "M1 Gold",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/telem1.png",
       "website": "http://www.m1film.hr/gold/"
     },
     {
@@ -927,7 +792,7 @@
   ],
   "Education & Culture": [
     {
-      "name": "Dox TV",
+      "name": "Dox",
       "isFree": true,
       "website": "https://www.doxtv.rs/"
     },
@@ -935,35 +800,30 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.natgeotv.com/hr",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://croatia.ngceurope.com/",
       "priority": 9
     },
     {
       "name": "Prva skolska televizija",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png",
       "website": "https://www.skolska-tv.com/"
     },
     {
       "name": "Televizija Student",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/BDC.png",
       "website": "https://televizijastudent.com/"
     }
   ],
   "Religious": [
     {
-      "name": "Laudato TV",
+      "name": "Laudato",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/LAUDATOTV.png",
       "website": "https://laudato.tv/"
     }
   ]

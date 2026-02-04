@@ -1,24 +1,17 @@
 {
   "News": [
     {
-      "name": "Bayon TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "Bayon",
+      "isFree": true
     },
     {
       "name": "Fresh News",
       "isFree": true,
-      "keywords": "fresh news -tv"
-    },
-    {
-      "name": "Fresh News TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "fresh news"
     },
     {
       "name": "BTV News",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/26/large/20210626150218508620_73.png",
       "website": "https://news.btv.com.kh/"
     },
     {
@@ -27,7 +20,7 @@
       "website": "https://www.cnc.com.kh/"
     },
     {
-      "name": "EAC News TV",
+      "name": "EAC News",
       "isFree": true,
       "website": "https://eacnews.asia/"
     }
@@ -35,95 +28,79 @@
   "Entertainment": [
     {
       "name": "PNN",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
-    },
-    {
-      "name": "SEA TV",
       "isFree": true
     },
     {
-      "name": "TV9",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "name": "SEA",
+      "isFree": true
+    },
+    {
+      "name": "TV 9",
+      "isFree": true
     },
     {
       "name": "TVK",
       "isFree": true,
-      "keywords": "tvk -camboya",
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "keywords": "tvk -camboya"
     },
     {
       "name": "TVK Camboya",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
-      "name": "Apsara TV11",
+      "name": "Apsara TV 11",
       "isFree": true,
-      "logo": "https://i.imgur.com/9wJe71I.png",
       "website": "https://ams.com.kh/"
     },
     {
       "name": "CTN",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://ctn.com.kh/"
     },
     {
-      "name": "CTV8 HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yrdr4Po.png"
+      "name": "CTV 8",
+      "isFree": true
     },
     {
       "name": "CTV 9",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "https://tv9.com.kh/"
     },
     {
       "name": "ETV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png"
+      "isFree": true
     },
     {
       "name": "Hang Meas HDTV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjroKmAuKk8FZn2IDwlgm6x2dVA.jpg"
+      "isFree": true
     },
     {
-      "name": "iTV HD",
-      "isFree": true,
-      "logo": "https://i.imgur.com/qIPvw8N.jpg"
+      "name": "iTV",
+      "isFree": true
     },
     {
-      "name": "MOI TV",
+      "name": "MOI",
       "isFree": true,
-      "logo": "https://i.imgur.com/fbI2ybo.png",
       "website": "http://moinews.gov.kh/"
     },
     {
-      "name": "MSJ TV",
+      "name": "MSJ",
       "isFree": true,
-      "logo": "https://i.imgur.com/TilslGU.png",
       "website": "https://www.msjtv.asia/"
     },
     {
-      "name": "My TV",
+      "name": "My",
       "isFree": true,
-      "logo": "https://i.imgur.com/lhxRefQ.png",
       "website": "https://mytv.com.kh/"
     },
     {
-      "name": "Nice TV",
+      "name": "Nice",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2020/10/01/large/20201001123754394603_13.png",
       "website": "https://nicetv.asia/"
     },
     {
       "name": "NTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/SoBhuIb.png"
+      "isFree": true
     },
     {
       "name": "One TV Discovery 6",
@@ -132,19 +109,17 @@
       "priority": 9
     },
     {
-      "name": "One TV Sabay 1",
+      "name": "One TV Sabay",
       "isFree": true,
       "website": "http://digitalsky.com.kh/EN/Channel-List/OneTV-Sabay-1"
     },
     {
       "name": "Rasmey Hang Meas HDTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/EcqEMMg.png"
+      "isFree": true
     },
     {
-      "name": "Town TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/07/12/large/20210712042120582929_40.png"
+      "name": "Town",
+      "isFree": true
     },
     {
       "name": "TV 3",
@@ -154,7 +129,6 @@
     {
       "name": "TV5 Cambodia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png",
       "website": "https://www.tv5hd.com/"
     }
   ],
@@ -162,13 +136,11 @@
     {
       "name": "Celestial Classic Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/fra.png",
       "website": "https://www.cmclassic.tv/index.php?location/KH"
     },
     {
-      "name": "Komsan TV",
+      "name": "Komsan",
       "isFree": true,
-      "logo": "https://i.imgur.com/SNTf2r3.png",
       "website": "https://khmerkomsan.net/"
     },
     {
@@ -189,23 +161,20 @@
   ],
   "Religious": [
     {
-      "name": "CITV Channel",
+      "name": "CITV",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://citvchannel.com.kh/"
     },
     {
-      "name": "Sangkem TV",
+      "name": "Sangkem",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sangkemtv.com/"
     }
   ],
   "Music Videos": [
     {
       "name": "D Music",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "One TV Music 8",
@@ -221,13 +190,11 @@
     {
       "name": "TVK 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://www.tvk.gov.kh/"
     },
     {
-      "name": "Wiki TV",
+      "name": "Wiki",
       "isFree": true,
-      "logo": "https://i.imgur.com/rnV0Ui1.png",
       "website": "https://poscardigital.com/"
     }
   ],

@@ -2,81 +2,67 @@
   "Entertainment": [
     {
       "name": "Télé Sahel",
-      "isFree": true,
-      "logo": "https://i.imgur.com/vboq428.png"
-    },
-    {
-      "name": "Annour TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Canal 3 Monde",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
-    },
-    {
-      "name": "Canal 3 Niger",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
-    },
-    {
-      "name": "Dounia TV",
       "isFree": true
     },
     {
-      "name": "Esperance TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Annour",
+      "isFree": true
     },
     {
-      "name": "Tal TV",
+      "name": "Canal 3 Monde",
+      "isFree": true
+    },
+    {
+      "name": "Canal 3 Niger",
+      "isFree": true
+    },
+    {
+      "name": "Dounia",
+      "isFree": true
+    },
+    {
+      "name": "Esperance",
+      "isFree": true
+    },
+    {
+      "name": "Tal",
       "isFree": true,
-      "logo": "https://i.imgur.com/KWMP0t1.png",
       "website": "https://www.ortn.ne/"
     },
     {
-      "name": "Tambara TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tambara",
+      "isFree": true
     },
     {
-      "name": "Tauraruwa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tauraruwa",
+      "isFree": true
     },
     {
       "name": "Tele Sahel",
       "isFree": true,
-      "logo": "https://i.imgur.com/vboq428.png",
       "website": "http://www.ortn.ne/"
     },
     {
-      "name": "Tenere TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TENERE.png"
+      "name": "Tenere",
+      "isFree": true
     },
     {
-      "name": "Wangari TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Wangari",
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "Anfani TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Anfani",
+      "isFree": true
     },
     {
       "name": "Bonferey",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/BONFEREY.png"
+      "isFree": true
     },
     {
-      "name": "Labari TV",
+      "name": "Labari",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.labarinfo.com/"
     },
     {
@@ -84,28 +70,24 @@
       "isFree": true
     },
     {
-      "name": "Saraounia TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/O8XIcpH.png"
+      "name": "Saraounia",
+      "isFree": true
     }
   ],
   "Religious": [
     {
-      "name": "Fidelite TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Fidelite",
+      "isFree": true
     },
     {
       "name": "Sunna TV Ayneha",
-      "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/SUNNA_TV.png"
+      "isFree": true
     }
   ],
   "Sports": [
     {
-      "name": "Liptako TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/LIPTAKO TV.png"
+      "name": "Liptako",
+      "isFree": true
     }
   ]
 }

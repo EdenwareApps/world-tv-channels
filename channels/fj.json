@@ -1,44 +1,37 @@
 {
   "Entertainment": [
     {
-      "name": "Fiji TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ITcfBvg.jpeg"
+      "name": "Fiji",
+      "isFree": true
     },
     {
       "name": "Channel 2",
       "isFree": true,
-      "logo": "https://iwf1.com/scrapekod/icons/plugin.video.mflive.png",
       "website": "http://fijione.tv/fiji-tv-to-launch-channel-2/"
     },
     {
       "name": "FBC 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.fbcnews.com.fj/"
     },
     {
-      "name": "FBC TV",
+      "name": "FBC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.fbcnews.com.fj/"
     },
     {
       "name": "Fiji One",
       "isFree": true,
-      "logo": "https://i.imgur.com/ITcfBvg.jpeg",
       "website": "https://fijionenews.com.fj/"
     },
     {
-      "name": "Mai TV",
+      "name": "Mai",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iBxfNiCQl7Tp3wbmJebwORWPnS.jpg",
       "website": "https://maitvfiji.com/"
     },
     {
       "name": "Parliament of Fiji",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png",
       "website": "http://www.parliament.gov.fj/"
     }
   ],
@@ -46,7 +39,6 @@
     {
       "name": "FBC Pop",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.fbcnews.com.fj/"
     }
   ],
@@ -60,8 +52,7 @@
   "Religious": [
     {
       "name": "Hope Channel Fiji",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg"
+      "isFree": true
     }
   ]
 }

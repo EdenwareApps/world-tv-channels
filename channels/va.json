@@ -1,47 +1,35 @@
 {
   "Entertainment": [
     {
-      "name": "TV2000",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ITALY/TV2000.png"
-    },
-    {
       "name": "Vatican Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg",
       "website": "https://www.comunicazione.va/it/vatican-media.html"
     }
   ],
   "Religious": [
     {
       "name": "Vatican News Deutsch",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     },
     {
       "name": "Vatican News English",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     },
     {
       "name": "Vatican News Espanol",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     },
     {
       "name": "Vatican News Francais",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     },
     {
       "name": "Vatican News Italiano",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     },
     {
       "name": "Vatican News Portugues",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN0zdTpm772ZCfnCeLAONguqxe.jpg"
+      "isFree": true
     }
   ]
 }

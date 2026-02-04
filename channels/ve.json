@@ -2,53 +2,44 @@
   "Entertainment": [
     {
       "name": "Canal Luz",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Canal Nubeh TV",
+      "name": "Canal Nubeh",
       "isFree": true
     },
     {
       "name": "Canal i",
-      "isFree": true,
-      "logo": "https://i.imgur.com/vKfOavW.png"
+      "isFree": true
     },
     {
       "name": "Globovision",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png"
+      "isFree": true
     },
     {
       "name": "La Tele Tuya",
-      "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": true
     },
     {
       "name": "PromarTV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png"
+      "isFree": true
     },
     {
       "name": "TV Familia",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/94e0a5d3760ca5aed12a1d51b579ab7b.png"
+      "isFree": true
     },
     {
       "name": "Televen",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG",
       "priority": 9
     },
     {
       "name": "Televisora de Oriente",
-      "isFree": true,
-      "shortName": "TDO"
+      "isFree": true
     },
     {
-      "name": "Vale TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHFd6PLBhu0TiDmvNabXISFlXht.jpg"
+      "name": "Vale",
+      "isFree": true
     },
     {
       "name": "Ve Plus",
@@ -56,35 +47,29 @@
     },
     {
       "name": "Venevision",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/641px-Logotipo_de_Venevisi%C3%B3n.svg.png"
+      "isFree": true
     },
     {
-      "name": "Vepaco TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/0bqJksL.png"
+      "name": "Vepaco",
+      "isFree": true
     },
     {
-      "name": "Aguacate TV",
+      "name": "Aguacate",
       "isFree": true,
-      "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
       "website": "https://aguacatetv.com/"
     },
     {
-      "name": "Alba TV",
+      "name": "Alba",
       "isFree": true,
-      "logo": "https://go4.pw/UK/bbcalba.png",
       "website": "http://www.albatv.org/"
     },
     {
       "name": "Amavision Canal 7",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Antorcha TV",
+      "name": "Antorcha",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://antorchatelevision.com/"
     },
     {
@@ -93,90 +78,77 @@
       "website": "http://www.asambleanacional.gob.ve/"
     },
     {
-      "name": "Anzoategui TV",
+      "name": "Anzoategui",
       "isFree": true,
-      "logo": "https://i.imgur.com/SLqrEOz.png",
       "website": "https://anzoategui.tv/"
     },
     {
-      "name": "Apure TV",
+      "name": "Apure",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://apuretv.com/"
     },
     {
-      "name": "Avila TV",
+      "name": "Avila",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.avilatv.gob.ve/"
     },
     {
-      "name": "Barinas TV",
-      "isFree": true,
-      "logo": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png"
+      "name": "Barinas",
+      "isFree": true
     },
     {
-      "name": "Cablecel Plus TV",
+      "name": "Cablecel Plus",
       "isFree": true
     },
     {
       "name": "Caminos Media",
-      "isFree": true,
-      "logo": "https://intervenweb.com/roku/intertv/canales/caminosmedia-listposter.jpg"
+      "isFree": true
     },
     {
       "name": "Canal 21 Tachira",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal21tachira.com/"
     },
     {
       "name": "Canal Once",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "http://www.canal11delzulia.com.ve/"
     },
     {
       "name": "Canal V",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "CANTV TV Satelital",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.cantv.com.ve/tv-satelital/"
     },
     {
-      "name": "Catatumbo TV",
+      "name": "Catatumbo",
       "isFree": true,
       "website": "https://catatumbo.tv/"
     },
     {
       "name": "Chivacoa TV Internacional",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.chivacoatv.com/"
     },
     {
       "name": "CMC Television",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/CMC-1.png"
+      "isFree": true
     },
     {
       "name": "Colonesa Television",
       "isFree": true
     },
     {
-      "name": "ConCiencia TV",
+      "name": "ConCiencia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://conciencia.tv/"
     },
     {
       "name": "Conectados TV en Linea",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://conectadostv.com/conectados-tv-canal-de-television-online/senal-en-vivo/"
     },
     {
@@ -194,13 +166,11 @@
     {
       "name": "CTN",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.caracastelevisionnetwork.com/transmision-en-vivo/"
     },
     {
       "name": "Cumbre Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SbIDk0Gkyr0y22ZtydVq9Px423.jpg",
       "website": "https://www.cumbretv.com/"
     },
     {
@@ -216,20 +186,17 @@
       "isFree": true
     },
     {
-      "name": "EXC TV",
+      "name": "EXC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://lorini.net/exctv/"
     },
     {
-      "name": "Falconia TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Falconia",
+      "isFree": true
     },
     {
-      "name": "Fortuna TV",
+      "name": "Fortuna",
       "isFree": true,
-      "logo": "https://i.imgur.com/ZbUSlOC.png",
       "website": "https://linktr.ee/tufortunatv"
     },
     {
@@ -238,43 +205,36 @@
       "website": "https://globaltvplay.com/"
     },
     {
-      "name": "Glow TV",
+      "name": "Glow",
       "isFree": true,
-      "logo": "https://i.ibb.co/fN0Tsr2/glowtv2.png",
       "website": "https://www.glowtelevision.com/"
     },
     {
-      "name": "Grande TV",
+      "name": "Grande",
       "isFree": true,
-      "logo": "https://i.imgur.com/jxCirrP.png",
       "website": "https://www.grandefmtv.com.ve/television"
     },
     {
-      "name": "Guaro TV",
-      "isFree": true,
-      "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg"
+      "name": "Guaro",
+      "isFree": true
     },
     {
       "name": "Humor Max",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQSlgVKTeHnAv8lSn6lMcJ6HyAQ.jpg",
       "website": "http://www.humormaxchannel.com/"
     },
     {
-      "name": "Imparcial TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Imparcial",
+      "isFree": true
     },
     {
-      "name": "Inter TV",
+      "name": "Inter",
       "isFree": true,
-      "logo": "https://i.imgur.com/FUTqh2L.png",
       "website": "https://intervenhosting.net/"
     },
     {
-      "name": "Isla TV",
+      "name": "Isla",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPqY5uvKI78j4aXrCSXBIyyP9rQ.jpg",
       "website": "https://islatv.tv/"
     },
     {
@@ -286,41 +246,34 @@
     {
       "name": "IVC Internacional",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/TELEMICRO-INTERNACIONA.png",
       "website": "https://www.ivcnetworks.com/"
     },
     {
-      "name": "Kaina TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kaina",
+      "isFree": true
     },
     {
       "name": "Lara en Redes",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WyMvoqPYJe5g1ENsbLTv40pUrX.jpg",
       "website": "https://laraenredes.com/"
     },
     {
       "name": "Lara TVe",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WyMvoqPYJe5g1ENsbLTv40pUrX.jpg"
+      "isFree": true
     },
     {
-      "name": "Latina TV",
+      "name": "Latina",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/atenalatina.png",
       "website": "https://latinamedios.com/en-vivo-tv/"
     },
     {
       "name": "Mas Talk",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg",
       "website": "https://www.venevisionplay.com/"
     },
     {
-      "name": "Maxima TV",
+      "name": "Maxima",
       "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/VIDEOLAND.png",
       "website": "https://maximatv.net/"
     },
     {
@@ -329,42 +282,36 @@
       "website": "https://www.mdatelevision.com/"
     },
     {
-      "name": "Mira TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xiklPAAUlRgcWntU1ZYAL2Tpmd.jpg"
+      "name": "Mira",
+      "isFree": true
     },
     {
       "name": "Monagas Vision",
       "isFree": true,
-      "logo": "https://i.imgur.com/yfgTa2d.png",
       "website": "https://monagasvision.com/"
     },
     {
       "name": "Oasis Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp1ZcEmlIGyV9nmRQVZxMI4PWOv.jpg",
       "website": "http://oasistelevision.com"
     },
     {
-      "name": "Onza TV",
+      "name": "Onza",
       "isFree": true,
-      "logo": "https://i.imgur.com/usrP6T2.png",
       "website": "https://onzatv.com/"
     },
     {
       "name": "Panavision",
       "isFree": true,
-      "logo": "https://i.imgur.com/qj1qBn1.png",
       "website": "http://www.panavision.tv/"
     },
     {
-      "name": "Planet TV",
+      "name": "Planet",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.planet-intv.com/"
     },
     {
-      "name": "Plous TV",
+      "name": "Plous",
       "isFree": true,
       "website": "https://www.ploustv.com/"
     },
@@ -374,14 +321,12 @@
       "website": "https://portutv.com/"
     },
     {
-      "name": "Prisma TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Prisma",
+      "isFree": true
     },
     {
-      "name": "Radio Cayaurima TV",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "name": "Radio Cayaurima",
+      "isFree": true
     },
     {
       "name": "RCTV",
@@ -396,58 +341,50 @@
       "priority": 9
     },
     {
-      "name": "Roscio TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Roscio",
+      "isFree": true
     },
     {
-      "name": "Santa Ana TV",
+      "name": "Santa Ana",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg",
       "website": "https://www.santaanatvchannel.com/"
     },
     {
-      "name": "Siembra TV",
+      "name": "Siembra",
       "isFree": true,
       "website": "https://siembratv.com/"
     },
     {
-      "name": "Siguaraya TV",
+      "name": "Siguaraya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://siguarayatv.com/"
     },
     {
-      "name": "Somos TV",
+      "name": "Somos",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/rakutentv.png",
       "website": "https://corporacionsomos.com/"
     },
     {
-      "name": "Sony Channel",
+      "name": "Sony",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png",
       "website": "https://la.sonychannel.com/"
     },
     {
-      "name": "Sucre tv",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Sun Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
-      "website": "http://www.sunchanneltv.com/"
-    },
-    {
-      "name": "SUR TV",
+      "name": "Sucre",
       "isFree": true
     },
     {
-      "name": "TAM TV",
+      "name": "Sun",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+      "website": "http://www.sunchanneltv.com/"
+    },
+    {
+      "name": "SUR",
+      "isFree": true
+    },
+    {
+      "name": "TAM",
+      "isFree": true,
       "website": "https://tamtv.com.ve/"
     },
     {
@@ -462,13 +399,11 @@
     {
       "name": "Telecentro",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png",
       "website": "http://telecentrocanal.com/"
     },
     {
       "name": "Telecolor",
       "isFree": true,
-      "logo": "https://i.imgur.com/QfJqBno.png",
       "website": "https://telecolor.com/"
     },
     {
@@ -485,20 +420,17 @@
       "isFree": true
     },
     {
-      "name": "Telesol TV",
+      "name": "Telesol",
       "isFree": true,
-      "logo": "https://i.imgur.com/iagCG6y.png",
       "website": "https://telesoltv.com/"
     },
     {
       "name": "Televisa Canal 7 del Zulia",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/MEXICO/TELEVISA.png"
+      "isFree": true
     },
     {
       "name": "Televisora Falcon",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/Florida Televisora Color.png"
+      "isFree": true
     },
     {
       "name": "Tic Television",
@@ -508,13 +440,11 @@
     {
       "name": "TNO Radio",
       "isFree": true,
-      "logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
       "website": "https://tnoradio.com/"
     },
     {
-      "name": "Torococo TV",
+      "name": "Torococo",
       "isFree": true,
-      "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
       "website": "http://mitorococo.blogspot.com/"
     },
     {
@@ -524,25 +454,21 @@
     {
       "name": "TRT",
       "isFree": true,
-      "logo": "https://i.imgur.com/g0jPOcC.png",
       "website": "https://trt.com.ve/"
     },
     {
       "name": "TRV",
       "isFree": true,
-      "logo": "https://i.ibb.co/Yt6qyjL/trv.png",
       "website": "https://trv.net.ve/"
     },
     {
-      "name": "Tu TV",
+      "name": "Tu",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvMNvJAehgJHnRow7YklgSlB1f.jpg",
       "website": "https://multitel.com.ve/tv.php"
     },
     {
       "name": "TV Andes",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvandes.com"
     },
     {
@@ -552,18 +478,15 @@
     },
     {
       "name": "TVC Canal 11",
-      "isFree": true,
-      "logo": "https://go4.pw/Mexico/deportes.png"
+      "isFree": true
     },
     {
       "name": "TV Delta",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TVes",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://www.tves.gob.ve/"
     },
     {
@@ -578,19 +501,16 @@
     {
       "name": "TV Llanos",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvllanos.com"
     },
     {
       "name": "TV Milenium",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://circuitomileniumradio.blogspot.com/"
     },
     {
       "name": "TVM para ti",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TVM3.png",
       "website": "https://tvmparati.com.ve/"
     },
     {
@@ -599,8 +519,7 @@
     },
     {
       "name": "TV Rio",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TVS",
@@ -610,8 +529,7 @@
     },
     {
       "name": "TVS Cantaura",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/TVS.png"
+      "isFree": true
     },
     {
       "name": "TVTrujillo",
@@ -623,21 +541,18 @@
       "website": "https://www.tvvenezuela.tv/"
     },
     {
-      "name": "Unare TV",
+      "name": "Unare",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://unaretv.com.ve/"
     },
     {
       "name": "UniTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://lorini.net/unitv/"
     },
     {
       "name": "Universal Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg"
+      "isFree": true
     },
     {
       "name": "Venevision Internacional",
@@ -647,13 +562,11 @@
     {
       "name": "Venezolana de Television",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/640px-Venezolana_de_Televisi%C3%B3n_2018.svg.png",
       "website": "https://www.vtv.gob.ve/"
     },
     {
-      "name": "Ven TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lwliMeRlnMZDYVsjoabTlFRLaQ.jpg"
+      "name": "Ven",
+      "isFree": true
     },
     {
       "name": "VIVOplay",
@@ -661,9 +574,8 @@
       "website": "https://vivoplay.net/"
     },
     {
-      "name": "Yaracuyana TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Yaracuyana",
+      "isFree": true
     },
     {
       "name": "Yaravision",
@@ -675,9 +587,8 @@
       "website": "https://www.yatvo.com"
     },
     {
-      "name": "Zona TV",
+      "name": "Zona",
       "isFree": true,
-      "logo": "https://go4.pw/ITALY/ZONAGOAL.png",
       "website": "https://zona93.net/"
     }
   ],
@@ -685,13 +596,11 @@
     {
       "name": "TV Telesur",
       "isFree": true,
-      "keywords": "telesur",
-      "logo": "https://go4.pw/LATINO/TeleSUR.png"
+      "keywords": "telesur"
     },
     {
       "name": "TeleSUR English",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "isFree": true
     },
     {
       "name": "Bit Radio",
@@ -700,53 +609,45 @@
     {
       "name": "Canal I",
       "isFree": true,
-      "logo": "https://i.imgur.com/vKfOavW.png",
       "website": "http://canal-i.com/"
     },
     {
       "name": "Canal Informativo Movistar",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.movistar.com.ve/Particulares/home-particulares.html"
     },
     {
       "name": "Canal NVH",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "La Iguana TV",
+      "name": "La Iguana",
       "isFree": true,
-      "logo": "https://i.ibb.co/5r3hBNz/logo-footer.png",
       "website": "https://www.laiguana.tv/"
     },
     {
       "name": "Radio Caracas Radio",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://rcr.tv/"
     },
     {
       "name": "Telesur",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.telesurtv.net/"
     },
     {
-      "name": "UN24",
+      "name": "UN 24",
       "isFree": true,
       "website": "https://ultimasnoticias.com.ve/"
     },
     {
       "name": "Venezuela News",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/VENEZUELA.png",
       "website": "https://venezuela-news.com/"
     },
     {
       "name": "VPItv",
       "isFree": true,
-      "logo": "https://i.imgur.com/X5hyKU8.png",
       "website": "https://vpitv.com/"
     }
   ],
@@ -756,30 +657,27 @@
       "isFree": true
     },
     {
-      "name": "Oxigeno TV",
+      "name": "Oxigeno",
       "isFree": true
     },
     {
-      "name": "BTA TV",
+      "name": "BTA",
       "isFree": true,
-      "logo": "https://i.imgur.com/vygOosC.png",
       "website": "https://btatv.tv/"
     },
     {
       "name": "Canal Cultura Venezuela",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://culturavenezuela.com/"
     },
     {
-      "name": "Cantina TV",
+      "name": "Cantina",
       "isFree": true,
       "website": "http://www.cantinatv.com/"
     },
     {
       "name": "Fiesta Max",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
       "website": "http://fiestamaxchannel.com/"
     },
     {
@@ -792,60 +690,52 @@
       "website": "https://lapuracrema.net/"
     },
     {
-      "name": "Mix Music Channel",
+      "name": "Mix Music",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://supertrendy.net/mix/"
     },
     {
       "name": "Oye 90.9 FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/TVoTQBX.png",
       "website": "https://oyetufm.com/video.html"
     },
     {
       "name": "Pop 92.3 FM",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://supertrendy.net/pop-fm/"
     },
     {
-      "name": "RLV TV",
+      "name": "RLV",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://radiolatinavzla.com/"
     },
     {
-      "name": "ShowVen TV",
+      "name": "ShowVen",
       "isFree": true,
       "website": "https://corazonllanero.com/"
     },
     {
       "name": "Super Trendy Caracas 104.5 FM",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://supertrendy.net/supertrendy-caracas/"
     },
     {
       "name": "Super Trendy Valencia 101.9 FM",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://supertrendy.net/supertrendy-valencia/"
     },
     {
-      "name": "Tiuna FM TV",
+      "name": "Tiuna FM",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.tiunafm.com/"
     },
     {
-      "name": "Yaritagua TV",
+      "name": "Yaritagua",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://yaritaguatv.com/"
     },
     {
-      "name": "Zut TV",
+      "name": "Zut",
       "isFree": true,
       "website": "https://www.zut.tv/"
     }
@@ -854,7 +744,6 @@
     {
       "name": "Radio Caracas",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ],
@@ -867,138 +756,120 @@
     {
       "name": "Animax Latin America",
       "isFree": true,
-      "logo": "https://imgur.com/BatygW5.png",
       "website": "http://www.animaxtv.com/"
     },
     {
-      "name": "eSports Max TV",
+      "name": "eSports Max",
       "isFree": true,
       "website": "http://esportsmaxnetwork.com/"
     },
     {
       "name": "MAX Anime",
       "isFree": true,
-      "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
       "website": "https://esportsmax.tv/max-anime/"
     }
   ],
   "Religious": [
     {
-      "name": "Alcance TV",
+      "name": "Alcance",
       "isFree": true,
-      "logo": "https://i.imgur.com/veeuqS1.png",
       "website": "https://alcancetv.org.ve/"
     },
     {
-      "name": "Audaz TV",
+      "name": "Audaz",
       "isFree": true,
       "website": "https://audaz.com.ve/"
     },
     {
-      "name": "Canal Mana TV",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "name": "Canal Mana",
+      "isFree": true
     },
     {
-      "name": "Esperanza TV",
+      "name": "Esperanza",
       "isFree": true
     },
     {
       "name": "Fe Television",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png"
+      "isFree": true
     },
     {
       "name": "Fundacion Multicanal",
       "isFree": true
     },
     {
-      "name": "Kairos TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kairos",
+      "isFree": true
     },
     {
       "name": "LGD Television",
-      "isFree": true,
-      "logo": "https://i.imgur.com/a9E0DTY.jpeg"
+      "isFree": true
     },
     {
       "name": "Luz TV Internacional",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1LwZgPKcvxaIgWauX8F5Cs6HS.jpg",
       "website": "https://2024.obraluzdelmundo.org/"
     },
     {
-      "name": "Misericordia TV",
+      "name": "Misericordia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://misericordiatv.com/"
     },
     {
       "name": "Nuestra Vision",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ac0ba6fe0f89f1255194032e8b079a12.png"
+      "isFree": true
     },
     {
-      "name": "Omega TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg"
+      "name": "Omega",
+      "isFree": true
     },
     {
-      "name": "Proclamacion TV",
+      "name": "Proclamacion",
       "isFree": true,
-      "logo": "https://i.imgur.com/8dt7awY.jpeg",
       "website": "https://proclamaciontv.com/"
     },
     {
-      "name": "Reforma TV",
+      "name": "Reforma",
       "isFree": true,
       "website": "https://www.reformatv.net/"
     },
     {
       "name": "TV Universal Venezuela",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://universal.org.ve/tv-universal/"
     },
     {
-      "name": "Vida TV",
+      "name": "Vida",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXkbwWRE1uSM6heVsoGZ04xxKMJ.jpg",
       "website": "https://vidatvplay.com/"
     },
     {
       "name": "Vision TV Monagas",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     }
   ],
   "Sports": [
     {
-      "name": "AS3 Sport TV",
+      "name": "AS3 Sport",
       "isFree": true
     },
     {
       "name": "ByM Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://bymsport.com.ve/"
     },
     {
-      "name": "Frontino Digital TV",
+      "name": "Frontino Digital",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
       "website": "https://frontinodigital.com/tv.html"
     },
     {
-      "name": "Meridiano TV",
+      "name": "Meridiano",
       "isFree": true,
       "website": "https://meridiano.net/"
     },
     {
       "name": "SportsMax News",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.sportsmaxnews.com/"
     }
   ],
@@ -1021,25 +892,21 @@
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://www.historyplay.tv/"
     },
     {
       "name": "PLTV",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/PL_TV.png",
       "website": "https://pltvnetwork.com/"
     },
     {
       "name": "TV UNEFM",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sites.google.com/view/tvunefm"
     },
     {
       "name": "Vive",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmKAVP6xHxRGAAs4qaF38qG5Cd.jpg",
       "website": "http://www.vive.gob.ve/"
     }
   ]

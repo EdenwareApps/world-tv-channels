@@ -2,51 +2,44 @@
   "Religious": [
     {
       "name": "A2i Religion",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "isFree": true
     },
     {
-      "name": "Ahlou Mouride TV",
+      "name": "Ahlou Mouride",
       "isFree": true,
       "website": "https://www.mourides.com/"
     },
     {
-      "name": "Al Fayda TV",
+      "name": "Al Fayda",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://radioalfayda.net/"
     },
     {
-      "name": "Al Khadimiyyah TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Khadimiyyah",
+      "isFree": true
     },
     {
-      "name": "Al Mouridiyyah TV",
+      "name": "Al Mouridiyyah",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://almouridiyyah.com/"
     },
     {
-      "name": "Asfiyahi TV",
+      "name": "Asfiyahi",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/ASFIYAHI.png",
       "website": "https://www.asfiyahi.org/"
     },
     {
-      "name": "As-Samadiyya TV",
+      "name": "As-Samadiyya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://as-samadiyya.org/"
     },
     {
-      "name": "Bichri TV",
+      "name": "Bichri",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/BICHRI TV.png",
       "website": "https://bichri.tv/"
     },
     {
-      "name": "Chabiba TV",
+      "name": "Chabiba",
       "isFree": true,
       "website": "https://alkhayria.net/"
     },
@@ -56,75 +49,63 @@
       "website": "https://imediasn.com/"
     },
     {
-      "name": "Istikhama TV",
+      "name": "Istikhama",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.istikhama.org/spip/"
     },
     {
-      "name": "Lamp Fall TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCvdRynGJQWaOi2qwQP5nDdFxjM.jpg"
+      "name": "Lamp Fall",
+      "isFree": true
     },
     {
-      "name": "Layene TV",
+      "name": "Layene",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.layene.sn/"
     },
     {
-      "name": "Malikia TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Malikia",
+      "isFree": true
     },
     {
-      "name": "Medina Baye TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ISLAMIC/quraan.png"
+      "name": "Medina Baye",
+      "isFree": true
     },
     {
-      "name": "Mourchid TV",
+      "name": "Mourchid",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://mourchidtv.sn/"
     },
     {
-      "name": "Mouride TV",
+      "name": "Mouride",
       "isFree": true,
       "website": "http://www.mouridetv.net/"
     },
     {
-      "name": "Tawhid TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tawhid",
+      "isFree": true
     },
     {
       "name": "TFM Religions",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/tfm7.png",
       "website": "https://www.igfm.sn"
     },
     {
-      "name": "Tivaouane TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Tivaouane",
+      "isFree": true
     },
     {
-      "name": "Touba Belel TV",
+      "name": "Touba Belel",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/TOUBA TV.png",
       "website": "https://www.toubabelel.net/web-tv/"
     },
     {
-      "name": "ToubaMondeBi TV",
+      "name": "ToubaMondeBi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.toubamondebi.com/"
     },
     {
-      "name": "Touba TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/TOUBA TV.png"
+      "name": "Touba",
+      "isFree": true
     }
   ],
   "Entertainment": [
@@ -134,176 +115,151 @@
     },
     {
       "name": "7TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c171695684ee6faa3565b559e785c64d.png"
+      "isFree": true
     },
     {
       "name": "A2i Naja",
       "isFree": true
     },
     {
-      "name": "A2i TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "name": "A2i",
+      "isFree": true
     },
     {
       "name": "Africa 7",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg"
+      "isFree": true
     },
     {
       "name": "DTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/UpsLEAV.png"
+      "isFree": true
     },
     {
-      "name": "Label TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/SUNU LABEL TV.png"
+      "name": "Label",
+      "isFree": true
     },
     {
       "name": "RFM",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/RFMTV.png"
+      "isFree": true
     },
     {
-      "name": "RTS 1",
+      "name": "RTS",
       "isFree": true,
       "keywords": "rts 1 | rts1",
-      "shortName": "RTS1"
+      "shortName": "RTS"
     },
     {
       "name": "RTS 2",
       "isFree": true,
       "keywords": "rts 2 | rts2",
-      "shortName": "RTS2"
+      "shortName": "RTS 2"
     },
     {
-      "name": "Sen TV",
+      "name": "Sen",
       "isFree": true,
       "keywords": "sen tv | sentv",
-      "shortName": "SenTV",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQrYPcLaAk7aNHeuhbCwDJ0hOlw.jpg"
+      "shortName": "SenTV"
     },
     {
       "name": "TFM",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/tfm7.png"
+      "isFree": true
     },
     {
       "name": "7TV Senegal",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/7tv7.png",
       "website": "http://7tv.sn/"
     },
     {
-      "name": "Afrika Poulaar TV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png"
+      "name": "Afrika Poulaar",
+      "isFree": true
     },
     {
-      "name": "Canal Banlieue TV",
+      "name": "Canal Banlieue",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalbanlieue.pro/"
     },
     {
-      "name": "CNM TV",
+      "name": "CNM",
       "isFree": true,
       "website": "https://cnm.sn/"
     },
     {
-      "name": "DBT TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "DBT",
+      "isFree": true
     },
     {
-      "name": "Diamaguene TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Diamaguene",
+      "isFree": true
     },
     {
-      "name": "Diama TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Diama",
+      "isFree": true
     },
     {
       "name": "Diaspora 24",
       "isFree": true
     },
     {
-      "name": "Fashion Africa TV",
+      "name": "Fashion Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7u1kCsE2LRL3FvC2TfPRwn0mn.jpg",
       "website": "http://www.fashionafrica.tv/"
     },
     {
-      "name": "FOLLY TV",
+      "name": "FOLLY",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://follymedia.net/"
     },
     {
-      "name": "Galsen 24 TV",
+      "name": "Galsen 24",
       "isFree": true
     },
     {
-      "name": "Gelongal Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Gelongal",
+      "isFree": true
     },
     {
-      "name": "GMS TV",
+      "name": "GMS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.gms.sn/"
     },
     {
-      "name": "Grand Yoff TV",
-      "isFree": true,
-      "logo": "https://cdn-profiles.tunein.com/s1198/images/logog.png"
+      "name": "Grand Yoff",
+      "isFree": true
     },
     {
       "name": "GTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png",
       "website": "https://toutinfo.net/"
     },
     {
       "name": "ITV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2017/05/21/large/20170521223910040532_53.jpg",
       "website": "http://emedia.sn/"
     },
     {
-      "name": "Keur Ndanane TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Keur Ndanane",
+      "isFree": true
     },
     {
-      "name": "Leral TV",
+      "name": "Leral",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/LERAL.png",
       "website": "https://www.leral.net/"
     },
     {
-      "name": "L'Obs TV",
+      "name": "L'Obs",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.igfm.sn/"
     },
     {
-      "name": "Lou'Bess TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Lou'Bess",
+      "isFree": true
     },
     {
-      "name": "Louga TV",
+      "name": "Louga",
       "isFree": true,
       "website": "https://lougatv.net/"
     },
     {
-      "name": "MADER TV",
+      "name": "MADER",
       "isFree": true,
       "website": "https://maderpost.com/"
     },
@@ -313,7 +269,7 @@
       "website": "https://mbourtv.net/"
     },
     {
-      "name": "Ngor Plus TV",
+      "name": "Ngor Plus",
       "isFree": true
     },
     {
@@ -324,179 +280,149 @@
     {
       "name": "Radio Tele Fulbe",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radiotelevisionfulbe.com/"
     },
     {
-      "name": "RDV TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "RDV",
+      "isFree": true
     },
     {
-      "name": "Rewmi TV",
+      "name": "Rewmi",
       "isFree": true,
-      "logo": "https://i.imgur.com/HSpj83I.png",
       "website": "https://www.rewmi.com/rewmi-tv/"
     },
     {
       "name": "RTS 3",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
       "website": "https://www.rts.sn/tv/rts-3"
     },
     {
       "name": "RTS 4",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
       "website": "https://www.rts.sn/tv/rts-4"
     },
     {
       "name": "RTS 5",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
       "website": "https://www.rts.sn/tv/rts-5"
     },
     {
-      "name": "Sangalkam TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sangalkam",
+      "isFree": true
     },
     {
-      "name": "Seneweb TV",
+      "name": "Seneweb",
       "isFree": true,
-      "logo": "https://i.imgur.com/i9P2qjs.png",
       "website": "https://www.seneweb.com/",
       "priority": 4
     },
     {
-      "name": "SenJeunes TV",
+      "name": "SenJeunes",
       "isFree": true,
-      "logo": "https://i.imgur.com/MeCSPsI.jpg",
       "website": "https://senjeunes.net/"
     },
     {
-      "name": "Siweul TV",
+      "name": "Siweul",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.siweul.net/siweul-tv/"
     },
     {
-      "name": "SK2 TV",
+      "name": "SK 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sk2tv.com/"
     },
     {
-      "name": "Tele Senegal TV",
+      "name": "Tele Senegal",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://www.telesenegal.com/"
     },
     {
       "name": "TVS Saloum",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/TVS.png"
+      "isFree": true
     },
     {
-      "name": "Walf TV",
+      "name": "Walf",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/WALF.png",
       "website": "http://www.walf-groupe.com/"
     },
     {
-      "name": "Wannel TV",
+      "name": "Wannel",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.wannel.tv/"
     },
     {
-      "name": "WF1 TV",
+      "name": "WF",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://women-first.net/"
     },
     {
-      "name": "Yegle TV",
+      "name": "Yegle",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/YEGLE TV.png",
       "website": "https://www.yeugle.net/"
     }
   ],
   "Music Videos": [
     {
       "name": "A2i Music",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8685ad2207119bbf3bf4dc7a330e8599.png"
+      "isFree": true
     },
     {
-      "name": "RTJ TV",
+      "name": "RTJ",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.rtjtv.com/"
     },
     {
       "name": "TeleMusik Senegal",
       "isFree": true,
-      "logo": "https://i.imgur.com/dPAPLsd.png",
       "website": "https://www.telemusik.tv/"
     },
     {
-      "name": "Urban Africa TV",
+      "name": "Urban Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBmON7qbru3VvV6AaorgtXhMmF.jpg",
       "website": "https://urbanmedia.group/urbanafricatv/"
     }
   ],
   "News": [
     {
-      "name": "2A TV",
+      "name": "2A",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://2ainfos.com/"
     },
     {
       "name": "313 Digital",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png"
+      "isFree": true
     },
     {
-      "name": "Bantamba TV",
+      "name": "Bantamba",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/PORTUGAL/Bantamba.png",
       "website": "https://2stv.net/category/bantambatv/"
     },
     {
-      "name": "DakarActu TV",
+      "name": "DakarActu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dakaractu.com/"
     },
     {
-      "name": "EcoMedia TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "EcoMedia",
+      "isFree": true
     },
     {
-      "name": "Media Infos TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQFJ0PX746r2RAsumUmnoNgMctv.jpg"
+      "name": "Media Infos",
+      "isFree": true
     },
     {
-      "name": "Prestige Thies TV",
+      "name": "Prestige Thies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdN3gXuIZYaJP7ftKK2sU0nPtEA.jpg",
       "website": "https://prestigethies.com/"
     },
     {
-      "name": "PublicSn TV",
+      "name": "PublicSn",
       "isFree": true,
-      "logo": "https://i.imgur.com/P4higEz.jpg",
       "website": "https://public.sn/"
     },
     {
-      "name": "RTMD TV",
+      "name": "RTMD",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://rtmd.tv/"
     },
     {
@@ -505,47 +431,41 @@
       "website": "https://www.sunugal24.net/"
     },
     {
-      "name": "SunuLabel TV",
+      "name": "SunuLabel",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.labeltelevision.com/direct-sunulabel-tv"
     },
     {
-      "name": "Teranga Senegal TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/dPAPLsd.png"
+      "name": "Teranga Senegal",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
       "name": "A2i Naija",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/A2I77.png",
       "website": "https://www.a2itv.net/"
     },
     {
-      "name": "Amani TV",
+      "name": "Amani",
       "isFree": true,
       "website": "https://amanitv.media/"
     },
     {
       "name": "Canal Education",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal.education.sn/"
     },
     {
       "name": "Dakar TV International",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNBs0JaxlInOWKYxJtTpf8Dh73a.jpg"
+      "isFree": true
     },
     {
-      "name": "DRTS TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "DRTS",
+      "isFree": true
     },
     {
-      "name": "One Nation TV",
+      "name": "One Nation",
       "isFree": true,
       "website": "https://onenationtv.sn/"
     },
@@ -559,36 +479,31 @@
       "isFree": true
     },
     {
-      "name": "Yakaar TV",
+      "name": "Yakaar",
       "isFree": true,
-      "logo": "https://i.ibb.co/ftjTryD/yakaar-logo-single.jpg",
       "website": "https://yakaar.tv/"
     }
   ],
   "Sports": [
     {
-      "name": "Lutte TV",
+      "name": "Lutte",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.luttetv.com/"
     }
   ],
   "Movies & Series": [
     {
       "name": "PULAAGU",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/pulaagu.png"
+      "isFree": true
     },
     {
       "name": "Sunu Yeuf",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/SUNU LABEL TV.png",
       "website": "https://www.sunuyeuf.com/"
     },
     {
-      "name": "Wassa TV",
+      "name": "Wassa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://wassa.tv/"
     }
   ]

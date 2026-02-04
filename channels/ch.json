@@ -2,8 +2,7 @@
   "Entertainment": [
     {
       "name": "Canal 9",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Canal Alpha Jura",
@@ -11,9 +10,7 @@
     },
     {
       "name": "Canal Alpha Neuchatel",
-      "isFree": true,
-      "shortName": "CAN",
-      "logo": "https://images.iptvmate.net/tvglogo/52e5c5e4396bc429a5ad8e16e43dd5f9.png"
+      "isFree": true
     },
     {
       "name": "Couleur 3",
@@ -21,25 +18,20 @@
     },
     {
       "name": "Cribs Maisons De Star",
-      "isFree": true,
-      "shortName": "CMDS",
-      "logo": "https://images.iptvmate.net/tvglogo/3f7cd065709ca5e01477ab0632db30c5.png"
+      "isFree": true
     },
     {
       "name": "Der Serienkanal - CH",
-      "isFree": true,
-      "shortName": "DSC",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg"
+      "isFree": true
     },
     {
       "name": "Die Neue Zeit",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0b349e5d46728f7f91b761494c5b262f.png"
+      "website": "https://www.die-neue-zeit.tv/"
     },
     {
-      "name": "Dieu TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173820438012_69.png"
+      "name": "Dieu",
+      "isFree": true
     },
     {
       "name": "Drama - CH",
@@ -55,70 +47,57 @@
     },
     {
       "name": "Kanal 9",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/66d46843cd349433229a8f35d97fd7c9.png"
-    },
-    {
-      "name": "LFM TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
-    },
-    {
-      "name": "La Tele",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png"
-    },
-    {
-      "name": "La Télé",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png"
-    },
-    {
-      "name": "Leman Bleu",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/LEMAN.png"
-    },
-    {
-      "name": "Loupe",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1e66e36c9d29677ba20b51dedd4fb4c7.png"
-    },
-    {
-      "name": "One TV",
       "isFree": true
     },
     {
-      "name": "QS24",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f6621e0eed0e6a22def2b6e41d0e5de0.png"
+      "name": "LFM",
+      "isFree": true
+    },
+    {
+      "name": "La Tele",
+      "isFree": true
+    },
+    {
+      "name": "La Télé",
+      "isFree": true
+    },
+    {
+      "name": "Leman Bleu",
+      "isFree": true
+    },
+    {
+      "name": "Loupe",
+      "isFree": true
+    },
+    {
+      "name": "One",
+      "isFree": true
+    },
+    {
+      "name": "QS 24",
+      "isFree": true
     },
     {
       "name": "RTL Tëlee Lëtzebuerg",
-      "isFree": true,
-      "shortName": "RTL",
-      "logo": "https://go4.pw/VIP/4k_ultra.png"
+      "isFree": true
     },
     {
       "name": "RTS Couleur 3",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/rts1.png",
       "priority": 10
     },
     {
-      "name": "Rouge TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png"
+      "name": "Rouge",
+      "isFree": true
     },
     {
       "name": "SWISS Sport TV 24 7",
       "isFree": true,
-      "shortName": "SST27",
-      "logo": "https://go4.pw/SWITZERLAND/swiss1.png"
+      "shortName": "SST 27"
     },
     {
       "name": "Schweiz 5",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/eda98025dd591e3b18cdc3df858b2c46.png"
+      "isFree": true
     },
     {
       "name": "Spotlight - CH",
@@ -126,32 +105,27 @@
     },
     {
       "name": "TVM 3",
-      "isFree": true,
-      "logo": "https://i.imgur.com/3v6iZE6.png"
-    },
-    {
-      "name": "TVO",
-      "isFree": true,
-      "logo": "https://i.imgur.com/wFC6Xxq.png"
-    },
-    {
-      "name": "Tele 1",
       "isFree": true
     },
     {
-      "name": "Tele M1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "name": "TVO",
+      "isFree": true
+    },
+    {
+      "name": "Tele",
+      "isFree": true
+    },
+    {
+      "name": "Tele M",
+      "isFree": true
     },
     {
       "name": "TeleBarn",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ded16b278c8bfa486473b1b08ac2cb4b.png"
+      "isFree": true
     },
     {
       "name": "TeleBielingue",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d40e98b231876cdada65601615be94a5.png"
+      "isFree": true
     },
     {
       "name": "TeleTicino",
@@ -159,42 +133,19 @@
     },
     {
       "name": "Telebasel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7e366b3eb707c7f54f34876c9871d7d2.png"
+      "isFree": true
     },
     {
       "name": "Telezürich",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/88cc9c02f384cb1f39e8358561fd3a37.png"
-    },
-    {
-      "name": "3+",
-      "isFree": true,
-      "website": "https://www.oneplus.ch/"
-    },
-    {
-      "name": "5+",
-      "isFree": true,
-      "website": "https://www.oneplus.ch/"
-    },
-    {
-      "name": "6+",
-      "isFree": true,
-      "website": "https://www.oneplus.ch/"
+      "isFree": true
     },
     {
       "name": "6ter Switzerland",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/6TER.png",
       "website": "https://www.6play.fr/6ter"
     },
     {
-      "name": "7+",
-      "isFree": true,
-      "website": "https://inhalte.oneplus.ch/programm/tv7plus"
-    },
-    {
-      "name": "Ajoie TV",
+      "name": "Ajoie",
       "isFree": true,
       "website": "https://www.journal-lajoie.ch/"
     },
@@ -204,119 +155,100 @@
       "website": "https://www.alf-tv.ch/"
     },
     {
-      "name": "Alpenland TV",
+      "name": "Alpenland",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.alpen-welle.ch/"
     },
     {
-      "name": "Auftanken TV",
+      "name": "Auftanken",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.auftanken.tv/"
     },
     {
       "name": "Babestation 24",
       "isFree": null,
-      "logo": "https://i.imgur.com/gckSy0H.png",
       "website": "https://www.babestation24.com/"
     },
     {
-      "name": "Blick TV",
+      "name": "Blick",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.blick.ch/"
     },
     {
       "name": "Blue City",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
-      "name": "Blue Event 1",
+      "name": "Blue Event",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Event 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Prime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Retro",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Stars",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Zoom D",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Zoom F",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://www.bluewin.ch/fr/index/livestream.html"
     },
     {
-      "name": "Bodensee TV",
+      "name": "Bodensee",
       "isFree": true
     },
     {
       "name": "Canal Alpha JU",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal Alpha NE",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Carac 1",
+      "name": "Carac",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARAC_1.png",
       "website": "https://carac.tv/"
     },
     {
       "name": "Carac 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARAC_1.png",
       "website": "https://carac.tv/lives/carac-2"
     },
     {
       "name": "Carac 3",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARAC_1.png",
       "website": "https://carac.tv/lives/carac-3"
     },
     {
       "name": "Carac 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARAC_1.png",
       "website": "https://carac.tv/lives/carac-4"
     },
     {
       "name": "Carac 5",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARAC_1.png",
       "website": "https://carac.tv/lives/carac-5"
     },
     {
@@ -327,43 +259,38 @@
     {
       "name": "Diaspora-TV Switzerland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3iTy8Cwwk2G1coxNiKoZSBHJc.jpg",
       "website": "https://diaspora-tv.ch/"
     },
     {
-      "name": "Drita TV",
+      "name": "Drita",
       "isFree": true,
       "website": "https://drita.tv/"
     },
     {
       "name": "ELIT TV Isvicre",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3b27209c8d70743c5707aacf246b389a.png"
-    },
-    {
-      "name": "Game TV",
       "isFree": true
     },
     {
-      "name": "GVAX TV",
+      "name": "Game",
+      "isFree": true
+    },
+    {
+      "name": "GVAX",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.gvax.tv/"
     },
     {
-      "name": "Helvetia One TV",
+      "name": "Helvetia One",
       "isFree": true
     },
     {
-      "name": "HitExpress TV",
+      "name": "HitExpress",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.hitexpress.tv/"
     },
     {
       "name": "kabel eins Schweiz",
       "isFree": true,
-      "logo": "https://go4.pw/germany/KABEL.png",
       "website": "http://www.kabeleins.ch/"
     },
     {
@@ -372,35 +299,32 @@
       "website": "https://www.kabelio.ch/"
     },
     {
-      "name": "Latinos 1 TV",
+      "name": "Latinos",
       "isFree": true
     },
     {
-      "name": "Loly TV",
+      "name": "Loly",
       "isFree": true
     },
     {
-      "name": "M6",
+      "name": "M 6",
       "isFree": true,
       "website": "https://www.6play.fr/m6"
     },
     {
-      "name": "Max TV",
+      "name": "Max",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/01/03/20170103081452608866_48.jpg",
       "website": "http://www.maxtv.ch/"
     },
     {
-      "name": "My German TV",
+      "name": "My German",
       "isFree": true,
       "keywords": "my german tv -+",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
       "website": "https://www.mygermantv.com/"
     },
     {
       "name": "My German TV +",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
       "website": "https://www.mygermantvplus.com/"
     },
     {
@@ -411,19 +335,16 @@
     {
       "name": "ProSieben Maxx Schweiz",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "https://www.prosiebenmaxx.ch/"
     },
     {
       "name": "ProSieben Schweiz",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "http://www.prosieben.ch/"
     },
     {
       "name": "Puls Acht",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.puls8.ch/"
     },
     {
@@ -441,16 +362,16 @@
       "isFree": true
     },
     {
-      "name": "Rheinwelten TV",
+      "name": "Rheinwelten",
       "isFree": true
     },
     {
-      "name": "Rhone TV",
+      "name": "Rhone",
       "isFree": true,
       "website": "https://www.rhonetv.ch/"
     },
     {
-      "name": "Royal TV",
+      "name": "Royal",
       "isFree": true
     },
     {
@@ -458,7 +379,7 @@
       "isFree": true
     },
     {
-      "name": "RSI La 1",
+      "name": "RSI La",
       "isFree": true,
       "website": "http://www.rsi.ch/la1/",
       "priority": 9
@@ -470,7 +391,7 @@
       "priority": 9
     },
     {
-      "name": "RTS 1",
+      "name": "RTS",
       "isFree": true,
       "website": "https://www.rts.ch/",
       "priority": 10
@@ -482,32 +403,27 @@
       "priority": 10
     },
     {
-      "name": "S1",
+      "name": "S",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/s1.png",
       "website": "https://www.oneplus.ch/"
     },
     {
       "name": "SAT.1 Gold Schweiz",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
       "website": "https://www.sat1gold.ch/"
     },
     {
       "name": "SAT.1 Schweiz",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/eda98025dd591e3b18cdc3df858b2c46.png",
       "website": "https://www.sat1.ch/"
     },
     {
       "name": "Schaffhauser Fernsehen",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/38.png"
+      "isFree": true
     },
     {
-      "name": "SRF 1",
+      "name": "SRF",
       "isFree": true,
-      "logo": "https://i.imgur.com/KCPHba2.png",
       "website": "https://www.srf.ch/",
       "priority": 10
     },
@@ -520,14 +436,12 @@
     {
       "name": "SRF zwei",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/srf1.png",
       "website": "https://www.srf.ch/",
       "priority": 10
     },
     {
-      "name": "Star TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png"
+      "name": "Star",
+      "isFree": true
     },
     {
       "name": "Sudostschweiz",
@@ -535,21 +449,18 @@
       "website": "https://www.suedostschweiz.ch/tv"
     },
     {
-      "name": "Swiss 1",
+      "name": "Swiss",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/swiss1.png",
       "website": "https://www.swiss1.tv/"
     },
     {
-      "name": "Syri TV",
+      "name": "Syri",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9c119c6a183a203aeb6da7197d25c4b5.png",
       "website": "https://syri.tv/"
     },
     {
       "name": "Tele D",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "TeleSwizz",
@@ -557,8 +468,7 @@
     },
     {
       "name": "Tele Top",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "Televista",
@@ -566,13 +476,11 @@
     },
     {
       "name": "Tele Z",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "Tele Zentralschweiz",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "TeleZuri",
@@ -582,19 +490,16 @@
     {
       "name": "TF 1 Switzerland",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.tf1.fr/"
     },
     {
       "name": "TFX Switzerland",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/CANAL+/TFX.png",
       "website": "https://www.tf1.fr/tfx"
     },
     {
       "name": "TV 24",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.oneplus.ch/"
     },
     {
@@ -608,40 +513,33 @@
     },
     {
       "name": "TV Oberwallis",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Onex",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Rheintal",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvrt.ch/"
     },
     {
       "name": "TV Suisse Plus",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Val TV",
+      "name": "Val",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ckest5IZ1qTvTnkLpFXaTewyxh.jpg",
       "website": "https://www.valtv.ch/"
     },
     {
       "name": "Vernier Visions",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3J7jwx3Cre1neDIs7YyAXy4ICc4.jpg"
+      "isFree": true
     },
     {
       "name": "W9 Switzerland",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/w9.png",
       "website": "https://www.6play.fr/w9"
     }
   ],
@@ -659,26 +557,22 @@
     {
       "name": "M Le Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
       "website": "https://www.mlemedia.ch/"
     }
   ],
   "Sports": [
     {
-      "name": "Motorvision TV",
-      "isFree": false,
-      "logo": "https://a.jsrdn.com/hls/22886/motorvision-tv/logo_20231219_220026_63.png"
+      "name": "Motorvision",
+      "isFree": false
     },
     {
-      "name": "Blue Sport 1",
+      "name": "Blue Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "Blue Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
@@ -783,81 +677,60 @@
       "website": "https://www.mysports.ch/de"
     },
     {
-      "name": "SKI TV",
+      "name": "SKI",
       "isFree": true,
-      "logo": "https://i.imgur.com/vDdaBmI.png",
       "website": "https://www.skitv.tv/"
     },
     {
-      "name": "Swiss Sport TV",
-      "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/swiss1.png"
+      "name": "Swiss Sport",
+      "isFree": true
     }
   ],
   "Radios": [
     {
       "name": "Radio 3i",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Argovia 90.3 FM Aarau",
       "isFree": true,
       "shortName": "RA9FA",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Pilatus",
       "isFree": true,
-      "keywords": "radio pilatus -tv",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
-      "priority": 4
-    },
-    {
-      "name": "Radio Pilatus TV",
-      "isFree": true,
+      "keywords": "radio pilatus",
       "priority": 4
     }
   ],
   "Movies & Series": [
     {
       "name": "Action Movies - CH",
-      "isFree": false,
-      "shortName": "AMC"
+      "isFree": false
     },
     {
       "name": "Comedy Movies - CH",
-      "isFree": false,
-      "shortName": "CMC"
-    },
-    {
-      "name": "4+",
-      "isFree": true,
-      "website": "https://www.oneplus.ch/"
+      "isFree": false
     },
     {
       "name": "Blue Action",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://tv.blue.ch/"
     },
     {
       "name": "My Cinema Europe",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg"
+      "isFree": true
     },
     {
-      "name": "Sofy TV",
+      "name": "Sofy",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3539116f6d18f2ff8311faf2967dfdf7.png",
       "website": "https://sofy.tv/"
     },
     {
       "name": "Wedo Movies Nordics",
       "isFree": true,
-      "logo": "https://go4.pw/germany/WEDO.png",
       "website": "https://wedotv.com/channels?program=wedo-movies-nordics"
     }
   ],
@@ -865,7 +738,6 @@
     {
       "name": "7+/Nick Schweiz",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/eda98025dd591e3b18cdc3df858b2c46.png",
       "website": "https://tv.blue.ch/tv-guide"
     },
     {
@@ -876,50 +748,43 @@
   ],
   "Music Videos": [
     {
-      "name": "Alpen-Welle TV",
+      "name": "Alpen-Welle",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.alpen-welle.ch/"
     },
     {
-      "name": "CH Music TV",
+      "name": "CH Music",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png",
       "website": "https://iptv.label-tv.net/"
     },
     {
-      "name": "Label TV 1",
+      "name": "Label TV",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/SUNU LABEL TV.png",
       "website": "https://iptv.label-tv.net/"
     },
     {
       "name": "Label TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SENEGAL/SUNU LABEL TV.png",
       "website": "https://iptv.label-tv.net/"
     },
     {
-      "name": "Musig24 TV",
+      "name": "Musig 24",
       "isFree": true,
       "website": "https://www.musig24.tv/"
     },
     {
-      "name": "Newcomer TV",
+      "name": "Newcomer",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://iptv.label-tv.net/"
     },
     {
-      "name": "RADIO DISCOunt TV",
+      "name": "RADIO DISCOunt",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radio.discount/"
     },
     {
       "name": "Radio OneFive",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radioonefive.ch/"
     },
     {
@@ -935,70 +800,62 @@
   ],
   "Religious": [
     {
-      "name": "Die Neue Zeit TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg",
-      "website": "https://www.die-neue-zeit.tv/"
-    },
-    {
-      "name": "Immaculata TV",
+      "name": "Immaculata",
       "isFree": true,
       "website": "https://www.immaculata-tv.ch/"
     },
     {
-      "name": "JLM TV",
+      "name": "JLM",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://jlmtv.ch/index.php/home"
     },
     {
       "name": "RTV Islam",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtvislam.com/"
     },
     {
       "name": "RTV Pendimi",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://www.rtvpendimi.com/"
     },
     {
-      "name": "Shiva Live TV",
+      "name": "Shiva Live",
       "isFree": true,
       "website": "https://shivalive.tv/"
     },
     {
-      "name": "Sivan TV",
+      "name": "Sivan",
       "isFree": true,
       "website": "http://sivantv.com/"
+    },
+    {
+      "name": "Die Neue Zeit",
+      "isFree": true,
+      "website": "https://www.die-neue-zeit.tv/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "First Channel",
+      "name": "First",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
       "website": "http://www.first-channel.tv/"
     },
     {
       "name": "TV Decouverte",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvdecouverte.ch/"
     },
     {
       "name": "Wedo Big Stories",
       "isFree": true,
-      "logo": "https://media.unreel.me/prod/rewardedtv/logo/d137dfbb-ad1c-4bdf-8e1b-65e950aae736",
       "website": "https://wedotv.com/channels?program=wedobigdocs"
     }
   ],
   "Shop": [
     {
-      "name": "Premium Shopping TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
+      "name": "Premium Shopping",
+      "isFree": true
     }
   ]
 }

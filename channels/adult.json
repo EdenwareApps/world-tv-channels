@@ -1,14 +1,8 @@
 {
   "XXX": [
     {
-      "name": "40+",
+      "name": "AOV Adult Movie",
       "isFree": true
-    },
-    {
-      "name": "AOV Adult Movie Channel",
-      "isFree": true,
-      "shortName": "AAMC",
-      "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png"
     },
     {
       "name": "Arouse",
@@ -20,41 +14,33 @@
     },
     {
       "name": "Babes and Brazzers",
-      "isFree": true,
-      "shortName": "BAB",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YJAR8yijgZCWBa7arfvvsiyQ5U.jpg"
+      "isFree": true
     },
     {
       "name": "Babestation",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gckSy0H.png"
+      "isFree": true
     },
     {
       "name": "Beate",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/Beate.Uhse5.png"
+      "isFree": true
     },
     {
       "name": "Brazzers",
       "isFree": true,
-      "keywords": "brazzers -europe",
-      "logo": "http://is.gd/ZENh9U"
+      "keywords": "brazzers -europe"
     },
     {
       "name": "Brazzers Europe",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2021.png"
+      "isFree": true
     },
     {
       "name": "Dorcel",
       "isFree": true,
-      "keywords": "dorcel -canada",
-      "logo": "http://epg.one/img2/2324.png"
+      "keywords": "dorcel -canada"
     },
     {
       "name": "Dorcel Canada",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2324.png"
+      "isFree": true
     },
     {
       "name": "Dusk!",
@@ -70,19 +56,16 @@
     },
     {
       "name": "Hot Choice",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": true
     },
     {
       "name": "Hustler",
       "isFree": true,
-      "keywords": "hustler -3d",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fgpf0luNrgDlEQMZucKHzCIMa.jpg"
+      "keywords": "hustler -3d"
     },
     {
       "name": "Hustler 3D",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fgpf0luNrgDlEQMZucKHzCIMa.jpg"
+      "isFree": true
     },
     {
       "name": "Maleflixxx",
@@ -93,45 +76,30 @@
       "isFree": true
     },
     {
-      "name": "Pink TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg"
-    },
-    {
-      "name": "Playmen TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Pink",
+      "isFree": true
     },
     {
       "name": "Penthouse",
       "isFree": true,
-      "keywords": "penthouse -hd",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9yZC2bWYJNkUmiwedrUy9L5hxn.jpg"
-    },
-    {
-      "name": "Penthouse HD",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9yZC2bWYJNkUmiwedrUy9L5hxn.jpg"
+      "keywords": "penthouse"
     },
     {
       "name": "Pink Erotic",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg"
+      "isFree": true
     },
     {
       "name": "Playboy",
-      "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/50.png"
+      "isFree": true
     },
     {
       "name": "Playmen",
       "isFree": true,
-      "keywords": "playmen -tv"
+      "keywords": "playmen"
     },
     {
       "name": "Red Hot",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+      "isFree": true
     },
     {
       "name": "RKTV",
@@ -140,8 +108,7 @@
     {
       "name": "Sexy Hot",
       "isFree": true,
-      "keywords": "sexy hot | sexyhot",
-      "logo": "http://epg.one/img2/3251.png"
+      "keywords": "sexy hot | sexyhot"
     },
     {
       "name": "SexySat",
@@ -154,8 +121,7 @@
     {
       "name": "SexZone",
       "isFree": true,
-      "keywords": "sex zone | sexzone",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sh7H0Yd8mC1l2iOhFmjUByvjXwU.jpg"
+      "keywords": "sex zone | sexzone"
     },
     {
       "name": "Skinemax",
@@ -166,9 +132,8 @@
       "isFree": true
     },
     {
-      "name": "Spice Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRPviMZG6PdAFDHQ1fFnWE9f25B.jpg"
+      "name": "Spice",
+      "isFree": true
     },
     {
       "name": "SpiceTV",
@@ -176,8 +141,7 @@
     },
     {
       "name": "TEN Networks",
-      "isFree": true,
-      "logo": "https://btn.com/wp-content/uploads/2019/12/btn.png"
+      "isFree": true
     },
     {
       "name": "Television X",
@@ -185,24 +149,20 @@
     },
     {
       "name": "Venus",
-      "isFree": true,
-      "logo": "http://epg.one/img2/3253.png"
+      "isFree": true
     },
     {
       "name": "Vivid",
       "isFree": true,
-      "keywords": "vivid -europe",
-      "logo": "http://epg.one/img2/2528.png"
+      "keywords": "vivid -europe"
     },
     {
       "name": "Vivid Europe",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2528.png"
+      "isFree": true
     },
     {
       "name": "Vixen",
-      "isFree": true,
-      "logo": "http://epg.one/img2/3234.png"
+      "isFree": true
     },
     {
       "name": "XMO",
@@ -210,13 +170,11 @@
     },
     {
       "name": "XXX Action Clips",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg"
+      "isFree": true
     },
     {
       "name": "XXL",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2775.png"
+      "isFree": true
     }
   ]
 }

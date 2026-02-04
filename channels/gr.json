@@ -3,113 +3,92 @@
     {
       "name": "Channel 9",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
       "priority": 4
     },
     {
-      "name": "Ena Channel",
+      "name": "Ena",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/68118c64a6ce4d632fdee0daa6f811ec.png",
       "priority": 4
     },
     {
-      "name": "Epirus TV1",
+      "name": "Epirus TV",
       "isFree": true,
-      "logo": "https://i.imgur.com/nYVqhu8.png",
       "priority": 4
     },
     {
-      "name": "Irida TV",
+      "name": "Irida",
       "isFree": true,
-      "logo": "https://i.imgur.com/SAhG923.png",
       "priority": 4
     },
     {
       "name": "PLP",
       "isFree": true,
-      "logo": "https://i.imgur.com/vMohImJ.png",
       "priority": 4
     },
     {
       "name": "TV Creta",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/18c1ea662f507e16aeb530506a473d8c.png",
       "priority": 4
     }
   ],
   "News": [
     {
       "name": "BCI 24 News",
-      "isFree": true,
-      "logo": "https://i.imgur.com/VN8FkmS.png"
+      "isFree": true
     },
     {
       "name": "ERT News",
       "isFree": true,
-      "logo": "https://i.imgur.com/saIGLvr.png",
       "priority": 10
     },
     {
-      "name": "Alert TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkrmJ2fStfnvsLfBw55nimnjcd5.jpg",
-      "website": "https://www.alerttv.com.gr/epikoinonia/"
+      "name": "Alter",
+      "isFree": true
     },
     {
-      "name": "Alter Channel",
+      "name": "Astra",
       "isFree": true,
-      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"
-    },
-    {
-      "name": "Astra TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
       "website": "https://www.astratv.gr/live-streaming/"
     },
     {
-      "name": "Corfu Channel",
+      "name": "Corfu",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/CORFUTV.png",
       "website": "https://corfuchannel.com/"
     },
     {
-      "name": "Diktyo1",
+      "name": "Diktyo",
       "isFree": true,
       "website": "https://www.diktyo1.com/"
     },
     {
-      "name": "Egnatia TV",
+      "name": "Egnatia",
       "isFree": true,
-      "logo": "https://i.imgur.com/zuyYIca.png",
       "website": "https://www.egnatia.tv/"
     },
     {
-      "name": "ENA TV",
+      "name": "ENA",
       "isFree": true,
       "website": "https://enatv.gr/"
     },
     {
       "name": "ERT News 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "website": "https://www.ertnews.gr/",
       "priority": 10
     },
     {
-      "name": "Euro TV",
+      "name": "Euro",
       "isFree": true,
       "website": "https://www.eurotv.gr/"
     },
     {
       "name": "Extra ProNews",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F9olVxPwNKXckfVmgixAE9MtEU.jpg",
       "website": "https://www.extra3.tv/"
     },
     {
-      "name": "FORMedia TV",
+      "name": "FORMedia",
       "isFree": true,
-      "logo": "https://i.imgur.com/8FcJ2I9.png",
       "website": "https://formediatv.gr/"
     },
     {
@@ -119,44 +98,44 @@
       "priority": 9
     },
     {
-      "name": "Naftemporiki TV",
+      "name": "Naftemporiki",
       "isFree": true,
       "website": "https://www.naftemporiki.gr/ntv/"
     },
     {
-      "name": "Prime News TV",
+      "name": "Prime News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
       "website": "https://primenewstv.gr/"
     },
     {
-      "name": "Pronews TV",
+      "name": "Pronews",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.pronews.gr/"
     },
     {
       "name": "SBC",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/SBC_TV.png",
       "website": "https://www.sbctv.gr/"
     },
     {
       "name": "TRT",
       "isFree": true,
-      "logo": "https://i.imgur.com/g0jPOcC.png",
       "website": "https://trttv.gr/"
     },
     {
-      "name": "Vergina TV",
+      "name": "Vergina",
       "isFree": true,
       "website": "https://www.verginanews.gr/"
     },
     {
-      "name": "Vima TV",
+      "name": "Vima",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.vimanews.gr/"
+    },
+    {
+      "name": "Alert",
+      "isFree": true,
+      "website": "https://www.alerttv.com.gr/epikoinonia/"
     }
   ],
   "Sports": [
@@ -169,23 +148,19 @@
     {
       "name": "ERT Sports 2",
       "isFree": false,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
       "name": "ERT Sports 3",
       "isFree": false,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
       "name": "Cosmote Sport Highlights",
-      "isFree": false,
-      "shortName": "CSH",
-      "logo": "https://go4.pw/SWITZERLAND/4.png"
+      "isFree": false
     },
     {
-      "name": "Cosmote Sport 1",
+      "name": "Cosmote Sport",
       "isFree": false
     },
     {
@@ -198,8 +173,7 @@
     },
     {
       "name": "Cosmote Sport 4",
-      "isFree": false,
-      "logo": "https://i.imgur.com/zEdJUZU.png"
+      "isFree": false
     },
     {
       "name": "Cosmote Sport 5",
@@ -207,45 +181,38 @@
     },
     {
       "name": "Cosmote Sport 6",
-      "isFree": false,
-      "logo": "https://i.imgur.com/KG6VWN1.png"
+      "isFree": false
     },
     {
       "name": "Cosmote Sport 7",
-      "isFree": false,
-      "logo": "https://i.imgur.com/p0DKcn2.png"
+      "isFree": false
     },
     {
       "name": "Cosmote Sport 8",
-      "isFree": false,
-      "logo": "https://i.imgur.com/DKlW5ka.png"
+      "isFree": false
     },
     {
       "name": "Cosmote Sport 9",
-      "isFree": false,
-      "logo": "https://i.imgur.com/3YwAXcH.png"
+      "isFree": false
     },
     {
       "name": "AEK Super League Pass",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://www.cosmote.gr/eshop/global/gadgets/configurator.jsp?productId=prod1640027_prod3"
     },
     {
-      "name": "ERT Sports 1",
+      "name": "ERT Sports",
       "isFree": true,
-      "logo": "https://i.imgur.com/gebWmAB.png",
       "website": "https://www.ertsports.gr/",
       "priority": 10
     },
     {
       "name": "Lucky Picks",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5826iB378OnjeSkTvfxs4CWTU3y.jpg",
       "website": "https://zeusplay.com/services/lucky-picks/"
     },
     {
-      "name": "Novasports 1",
+      "name": "Novasports",
       "isFree": true,
       "website": "https://www.novasports.gr/"
     },
@@ -275,7 +242,7 @@
       "website": "https://www.novasports.gr/"
     },
     {
-      "name": "Novasports Extra 1",
+      "name": "Novasports Extra",
       "isFree": true,
       "website": "https://www.novasports.gr/"
     },
@@ -318,7 +285,6 @@
     {
       "name": "Olympiakos Super League Pass",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://www.cosmote.gr/eshop/global/gadgets/configurator.jsp?productId=prod1640027_prod3"
     },
     {
@@ -329,45 +295,38 @@
     {
       "name": "Pame Stoixima Lepto Pros Lepto",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ONDA.png",
       "website": "https://www.pamestoixima.gr/"
     },
     {
       "name": "Pame Stoixima Racing",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
       "website": "https://www.pamestoixima.gr/"
     },
     {
-      "name": "Pame Stoixima Virtual Sports 1",
+      "name": "Pame Stoixima Virtual Sports",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/22687.jpg",
       "website": "https://virtualsports.opap.gr/"
     },
     {
       "name": "Pame Stoixima Virtual Sports 2",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/22687.jpg",
       "website": "https://virtualsports.opap.gr/"
     },
     {
       "name": "Panathinaikos Super League Pass",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
       "website": "https://www.cosmote.gr/eshop/global/gadgets/configurator.jsp?productId=prod1640027_prod3"
     },
     {
-      "name": "SportPlus TV",
+      "name": "SportPlus",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "http://www.thesportplus.com/"
     }
   ],
   "Kids": [
     {
-      "name": "Kids TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg"
+      "name": "Kids",
+      "isFree": true
     },
     {
       "name": "Nickelodeon",
@@ -380,7 +339,6 @@
     {
       "name": "Disney Junior",
       "isFree": true,
-      "logo": "http://i.imgur.com/H9AY5z4.png",
       "website": "http://www.disney.gr/disney-junior/",
       "priority": 9
     },
@@ -392,13 +350,11 @@
     {
       "name": "ERT Kids",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
-      "name": "Junior's TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Junior's",
+      "isFree": true
     },
     {
       "name": "Keedoo",
@@ -408,191 +364,149 @@
     {
       "name": "Nickelodeon Plus",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "https://nickelodeon.gr/"
     },
     {
       "name": "Smile Plus",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
+      "isFree": true
     }
   ],
   "Entertainment": [
     {
-      "name": "34100 TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
       "name": "4E",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Ed085oJ.png"
+      "isFree": true
     },
     {
-      "name": "ANT1",
+      "name": "ANT",
       "isFree": true,
-      "logo": "https://i.imgur.com/xDdVa9U.png",
       "priority": 10
     },
     {
       "name": "APT",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTQMZLsbpoEYCjnJX8G3CmjCZDg.jpg"
+      "isFree": true
     },
     {
-      "name": "ART TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8uS0sib.png"
+      "name": "Acheloos",
+      "isFree": true
     },
     {
-      "name": "Acheloos TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/5SVMxcu.png"
+      "name": "Aigaio",
+      "isFree": true
     },
     {
-      "name": "Aigaio TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Akritas TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Akritas",
+      "isFree": true
     },
     {
       "name": "Alert",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkrmJ2fStfnvsLfBw55nimnjcd5.jpg"
+      "website": "https://www.alerttv.com.gr/epikoinonia/"
     },
     {
-      "name": "Alpha TV",
+      "name": "Alpha",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b002547282633c037f6ecde529bce57f.png",
       "priority": 9
     },
     {
-      "name": "Attica TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/attica.png"
-    },
-    {
-      "name": "Axeloos",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/cfd2005a70509f96e69cf8dcdcc79483.png"
-    },
-    {
-      "name": "Baraza TV Classic Hits",
-      "isFree": true,
-      "shortName": "BTCH",
-      "logo": "https://images.iptvmate.net/tvglogo/f37773e6ff2e7d4f19525c24e1c9f5a0.png"
-    },
-    {
-      "name": "Baraza TV Greek Music Hits",
-      "isFree": true,
-      "shortName": "BTGMH",
-      "logo": "https://images.iptvmate.net/tvglogo/f37773e6ff2e7d4f19525c24e1c9f5a0.png"
-    },
-    {
-      "name": "Best TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/VA13E3w.png"
-    },
-    {
-      "name": "CANNALI TV",
+      "name": "Attica",
       "isFree": true
     },
     {
-      "name": "Canali TV",
+      "name": "Axeloos",
+      "isFree": true
+    },
+    {
+      "name": "Baraza TV Classic Hits",
+      "isFree": true
+    },
+    {
+      "name": "Baraza TV Greek Music Hits",
+      "isFree": true
+    },
+    {
+      "name": "Best",
+      "isFree": true
+    },
+    {
+      "name": "CANNALI",
+      "isFree": true
+    },
+    {
+      "name": "Canali",
       "isFree": true
     },
     {
       "name": "Choice",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iHnv3lJHE5an1vBkNfIgiwpp9e.jpg"
+      "isFree": true
     },
     {
-      "name": "Corfu TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/a0af6236b9fafb72f660c489fd4c4b3a.png"
+      "name": "Corfu",
+      "isFree": true
     },
     {
       "name": "Creta",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/CRETA%20TV.png"
+      "isFree": true
     },
     {
-      "name": "Diavata TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hsK68yd.png"
+      "name": "Diavata",
+      "isFree": true
     },
     {
-      "name": "Dipso TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dipso",
+      "isFree": true
     },
     {
-      "name": "EPT 1",
+      "name": "EPT",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/cfa7f764f02c74a967b19522152a64f5.png",
       "priority": 10
     },
     {
       "name": "EPT 2",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ceff26440ccf39003eb356e37259d5ee.png",
       "priority": 10
     },
     {
-      "name": "ERT 1",
+      "name": "ERT",
       "isFree": true,
       "keywords": "ert 1 | ert1",
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
       "name": "ERT 2",
       "isFree": true,
       "keywords": "ert 2 | ert2",
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 9
     },
     {
       "name": "ERT 3",
       "isFree": true,
       "keywords": "ert 3 | ert3",
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 9
     },
     {
       "name": "ERT World",
       "isFree": true,
-      "logo": "https://i.imgur.com/KsMTWYw.png",
       "priority": 10
     },
     {
-      "name": "Ellas TV",
-      "isFree": true,
-      "logo": "https://go4.pw/SPAIN/el.png"
+      "name": "Ellas",
+      "isFree": true
     },
     {
-      "name": "Faros TV",
-      "isFree": true,
-      "logo": "https://go4.pw/CYPRUS/FAROS_TV.png"
+      "name": "Faros",
+      "isFree": true
     },
     {
-      "name": "Faros TV2",
-      "isFree": true,
-      "logo": "https://go4.pw/CYPRUS/FAROS_TV.png"
+      "name": "Faros TV 2",
+      "isFree": true
     },
     {
       "name": "Fox Greece",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
       "name": "Fox Tv Greece",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
       "name": "Galaxy",
@@ -600,119 +514,100 @@
     },
     {
       "name": "Greek TV London",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/603a1a1d825cf728857c351135cb8b29.png"
+      "isFree": true
     },
     {
       "name": "Groovy",
       "isFree": true,
-      "keywords": "groovy -tv",
-      "logo": "https://go4.pw/GRECCE2/GROOVY.png"
+      "keywords": "groovy"
     },
     {
-      "name": "Hellenic TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/NE7ddhC.png"
+      "name": "Hellenic",
+      "isFree": true
     },
     {
-      "name": "High TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/wHzCGry.png"
+      "name": "High",
+      "isFree": true
     },
     {
       "name": "Horse Races",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYrcvHLJPhvCQyinyE4pB07Gkjj.jpg"
-    },
-    {
-      "name": "Ionian Channel",
-      "isFree": true,
-      "logo": "https://i.imgur.com/ADVYeQd.png"
-    },
-    {
-      "name": "Ionian TV",
       "isFree": true
     },
     {
-      "name": "KPHTH TV",
+      "name": "Ionian",
       "isFree": true
     },
     {
-      "name": "Kontra Channel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7a4bbf6297706e34df5065cae8df7c81.png"
+      "name": "Ionian",
+      "isFree": true
     },
     {
-      "name": "Krete TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/LJ5oL6j.png"
+      "name": "KPHTH",
+      "isFree": true
     },
     {
-      "name": "MGR TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/E9KpMOP.png"
+      "name": "Kontra",
+      "isFree": true
+    },
+    {
+      "name": "Krete",
+      "isFree": true
+    },
+    {
+      "name": "MGR",
+      "isFree": true
     },
     {
       "name": "Magic TV GR",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg"
+      "isFree": true
     },
     {
-      "name": "Maroussiotika TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Maroussiotika",
+      "isFree": true
     },
     {
-      "name": "Mesogeios TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tr0Lf9K.png"
+      "name": "Mesogeios",
+      "isFree": true
     },
     {
-      "name": "Messinia TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6abd7152f027f03367a35eb5d86b6dca.png"
+      "name": "Messinia",
+      "isFree": true
     },
     {
-      "name": "NETMAX TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/dLvRD4k.png"
+      "name": "NETMAX",
+      "isFree": true
     },
     {
       "name": "NRG 91",
       "isFree": true
     },
     {
-      "name": "NRG TV",
+      "name": "NRG",
       "isFree": true
     },
     {
-      "name": "NS TV",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/SAT1.png"
-    },
-    {
-      "name": "Nea TV",
+      "name": "NS",
       "isFree": true
     },
     {
-      "name": "Notioi TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Nq00n8h.png"
+      "name": "Nea",
+      "isFree": true
     },
     {
-      "name": "Open TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Lctmkc1yah215Luxmci4djaiW.jpg"
+      "name": "Notioi",
+      "isFree": true
     },
     {
-      "name": "PANIK TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/13C3CPr.png"
+      "name": "Open",
+      "isFree": true
     },
     {
-      "name": "Pella TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/JnDXKZo.png"
+      "name": "PANIK",
+      "isFree": true
+    },
+    {
+      "name": "Pella",
+      "isFree": true
     },
     {
       "name": "Pik Sat",
@@ -720,318 +615,206 @@
     },
     {
       "name": "Reload Play",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg"
+      "isFree": true
     },
     {
-      "name": "Samiaki TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/samiaki.png"
+      "name": "Samiaki",
+      "isFree": true
     },
     {
       "name": "Sigma",
-      "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/13.png"
+      "isFree": true
     },
     {
       "name": "Skai",
       "isFree": true,
-      "keywords": "skai -tv",
-      "logo": "https://go4.pw/EUROPE/GREECE/SKAI.png",
-      "priority": 9
-    },
-    {
-      "name": "Skai TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/TSg7B8X.png",
+      "keywords": "skai",
       "priority": 9
     },
     {
       "name": "Smile",
       "isFree": true,
-      "keywords": "smile -tv"
-    },
-    {
-      "name": "Smile TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
-    },
-    {
-      "name": "Star",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Hp0stVQ.png",
-      "priority": 9
-    },
-    {
-      "name": "Start TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
-      "priority": 9
+      "keywords": "smile"
     },
     {
       "name": "Super B",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+      "isFree": true
     },
     {
       "name": "TILEMOUSIKI",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/df18a06365611ebd1ba91f68ca75c5e9.png"
-    },
-    {
-      "name": "TV 100",
-      "isFree": true,
-      "keywords": "tv 100 | tv100",
-      "logo": "https://i.imgur.com/9rtf8OR.png"
+      "isFree": true
     },
     {
       "name": "TV Filopoli",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Notos",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Rodopi",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5c296ec1c0df1c98aa15ef218d9e93a7.png"
+      "isFree": true
     },
     {
       "name": "Vouli Tileorasi",
-      "isFree": true,
-      "logo": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png"
+      "isFree": true
     },
     {
-      "name": "WZra Kids TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b89c4101b4281c0ad807270f7bb3476c.png"
+      "name": "WZra Kids",
+      "isFree": true
     },
     {
       "name": "Xplore",
       "isFree": true,
-      "keywords": "xplore -tv",
-      "logo": "https://i.imgur.com/WaGRlFO.png"
+      "keywords": "xplore"
     },
     {
-      "name": "Xplore TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/WaGRlFO.png"
-    },
-    {
-      "name": "ZOUGLA TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6524af6730464c73f1d595db377a3cdc.png"
-    },
-    {
-      "name": "Zerouno TV",
+      "name": "ZOUGLA",
       "isFree": true
     },
     {
-      "name": "Βουλή Τηλεόραση",
-      "isFree": true,
-      "keywords": "βουλη τηλεοραση -2 -3"
-    },
-    {
-      "name": "Βουλή Τηλεόραση 2",
-      "isFree": true,
-      "logo": "https://lo1.in/uk/247.png"
-    },
-    {
-      "name": "Βουλή Τηλεόραση 3",
-      "isFree": true,
-      "logo": "https://lo1.in/uk/247.png"
-    },
-    {
-      "name": "Εγνατία Τηλεόραση",
+      "name": "Zerouno",
       "isFree": true
-    },
-    {
-      "name": "Εκκλησία",
-      "isFree": true
-    },
-    {
-      "name": "Ηλέκτρα TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Κρήτη TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Μεσσάτιδα TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
     },
     {
       "name": "ΡΙΚ Sat",
-      "isFree": true,
-      "logo": "https://go4.pw/BRAZIL/globo.png"
+      "isFree": true
     },
     {
-      "name": "Σύρος TV1",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/TV1.png"
-    },
-    {
-      "name": "10 Channel",
+      "name": "10",
       "isFree": true,
       "website": "https://10channel.gr/"
     },
     {
-      "name": "Aeolos TV",
+      "name": "Aeolos",
       "isFree": true,
       "website": "https://aeolos.tv/"
     },
     {
-      "name": "Aliteia TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Aliteia",
+      "isFree": true
     },
     {
       "name": "Alpha Sat",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "http://www.alphatvsat.com/"
     },
     {
       "name": "ANT1 Europe",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/ant1.png",
       "website": "https://www.antennaeurope.gr/",
       "priority": 9
     },
     {
       "name": "ANT1 Pacific",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/ant1.png",
       "website": "https://www.antennapacific.gr/",
       "priority": 9
     },
     {
       "name": "ANT1 Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/ant1.png",
       "website": "https://www.antennasatellite.gr/",
       "priority": 9
     },
     {
-      "name": "Atlas TV",
+      "name": "Atlas",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
       "website": "https://atlastv.gr/"
     },
     {
-      "name": "Banana TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bd62036b7d0578e42b469fd153d5bc72.png"
+      "name": "Banana",
+      "isFree": true
     },
     {
-      "name": "Blue Sky TV",
+      "name": "Blue Sky",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://blueskytv.gr/"
     },
     {
       "name": "Body in Balance",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
       "website": "http://www.bodyinbalance.gr/"
     },
     {
-      "name": "Center TV",
+      "name": "Center",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613203316248595_93.png",
       "website": "https://centertv.gr/"
     },
     {
       "name": "Channel 9 Thessaloniki",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "Cosmote TV Promo Channel",
+      "name": "Cosmote TV Promo",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/4.png",
       "website": "https://www.cosmote.gr/cosmotetv"
     },
     {
-      "name": "Crete TV",
+      "name": "Crete",
       "isFree": true,
       "website": "http://www.cretetv.gr/"
     },
     {
-      "name": "DELTA TV",
+      "name": "DELTA",
       "isFree": true,
       "website": "https://deltatv.gr/"
     },
     {
-      "name": "Diktyo TV",
+      "name": "Diktyo",
       "isFree": true,
-      "logo": "https://i.imgur.com/02V5ecC.jpg",
       "website": "https://diktyotv.gr/live/"
     },
     {
-      "name": "Dion TV",
+      "name": "Dion",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woznEiocvx8HMYKB2KloHATrDji.jpg",
       "website": "https://diontv.gr/"
     },
     {
-      "name": "Ecclesia TV",
+      "name": "Ecclesia",
       "isFree": true,
-      "logo": "https://i.imgur.com/mgabVFd.png",
       "website": "https://ecclesiatv.gr/"
     },
     {
-      "name": "Ellada TV",
+      "name": "Ellada",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.elladatv.gr/"
     },
     {
-      "name": "ENA Channel",
+      "name": "ENA",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/68118c64a6ce4d632fdee0daa6f811ec.png",
       "website": "https://enachannel.gr/"
     },
     {
-      "name": "Epiloges TV",
+      "name": "Epiloges",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/EPILOGES.png",
       "website": "https://epiloges.tv/"
     },
     {
-      "name": "Epsilon TV",
+      "name": "Epsilon",
       "isFree": true,
-      "logo": "https://go4.pw/GREECE/epsilon.png",
       "website": "https://epsilon-tv.com/"
     },
     {
-      "name": "Europe1",
+      "name": "Europe",
       "isFree": true,
       "website": "https://europe1.gr/"
     },
     {
-      "name": "Extacy TV",
+      "name": "Extacy",
       "isFree": true,
-      "logo": "https://i.imgur.com/DGZFlvp.png",
       "website": "https://extacytv.gr/"
     },
     {
-      "name": "Flash TV",
+      "name": "Flash",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
       "website": "https://flash-tv.gr/live/"
     },
     {
       "name": "Fox",
       "isFree": true,
-      "keywords": "fox -greece -life -tv greece",
+      "keywords": "fox -greece -life greece",
       "website": "https://www.fox-greece.gr/"
     },
     {
@@ -1041,92 +824,78 @@
       "website": "https://www.fxchannel.gr/"
     },
     {
-      "name": "Gnomi TV",
+      "name": "Gnomi",
       "isFree": true,
       "website": "http://www.gnomi.eu/"
     },
     {
-      "name": "Hellenic Parliament TV",
+      "name": "Hellenic Parliament",
       "isFree": true,
       "keywords": "hellenic parliament tv -2 -3",
-      "logo": "https://i.imgur.com/NE7ddhC.png",
       "website": "https://www.hellenicparliament.gr/en/"
     },
     {
       "name": "Hellenic Parliament TV 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/NE7ddhC.png",
       "website": "https://www.hellenicparliament.gr/en/"
     },
     {
       "name": "Hellenic Parliament TV 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/NE7ddhC.png",
       "website": "https://www.hellenicparliament.gr/en/"
     },
     {
-      "name": "Hlektra TV",
+      "name": "Hlektra",
       "isFree": true,
-      "logo": "https://i.imgur.com/LbogUPS.png",
       "website": "https://www.hlektra.gr/"
     },
     {
-      "name": "Ioannina TV",
+      "name": "Ioannina",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ioanninatv.gr/"
     },
     {
-      "name": "Kos TV",
+      "name": "Kos",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kostv.gr/"
     },
     {
-      "name": "Kriti TV",
+      "name": "Kriti",
       "isFree": true,
-      "logo": "https://i.imgur.com/eLhYMmc.png",
       "website": "https://www.cretetv.gr/contact-us/"
     },
     {
-      "name": "Lepanto TV",
+      "name": "Lepanto",
       "isFree": true,
-      "logo": "https://i.imgur.com/h6Tqe0k.png",
       "website": "https://lepantortv.gr/"
     },
     {
-      "name": "Live TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/093e6973a56bfcf0eb1454d05e85061a.png"
+      "name": "Live",
+      "isFree": true
     },
     {
-      "name": "Makedonia TV",
+      "name": "Makedonia",
       "isFree": true,
-      "logo": "https://i.imgur.com/90iDHbQ.png",
       "website": "https://www.maktv.gr/"
     },
     {
-      "name": "Mega Channel",
+      "name": "Mega",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXggKwPOgu01UlDQ3qB1u4t9QK8.jpg",
       "website": "https://www.megatv.com/",
       "priority": 9
     },
     {
       "name": "New Epsilon TV Thessaloniki",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "isFree": true
     },
     {
-      "name": "Next TV",
+      "name": "Next",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png",
       "website": "https://nexttvthrace-makedonia.blogspot.com/"
     },
     {
-      "name": "Notos Tv",
+      "name": "Notos",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://notostv.gr/"
     },
     {
@@ -1135,46 +904,40 @@
       "website": "http://www.nova.gr/"
     },
     {
-      "name": "One Channel",
+      "name": "One",
       "isFree": true,
-      "logo": "https://i.imgur.com/GwKaHbM.png",
       "website": "https://www.onetv.gr/"
     },
     {
       "name": "ORT",
       "isFree": true,
-      "logo": "https://i.imgur.com/RotckUS.png",
       "website": "https://www.patrisnews.com/"
     },
     {
-      "name": "Patra TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
-    },
-    {
-      "name": "Patrida TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "website": "https://tvpatrida.gr/"
-    },
-    {
-      "name": "RISE TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuFEoIW83T2neoGMCJnxQ2gFEtB.jpg",
-      "website": "https://www.rise.gr/"
-    },
-    {
-      "name": "Seven TV",
+      "name": "Patra",
       "isFree": true
     },
     {
-      "name": "Sirina TV",
+      "name": "Patrida",
+      "isFree": true,
+      "website": "https://tvpatrida.gr/"
+    },
+    {
+      "name": "RISE",
+      "isFree": true,
+      "website": "https://www.rise.gr/"
+    },
+    {
+      "name": "Seven",
+      "isFree": true
+    },
+    {
+      "name": "Sirina",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.sirina.tv/"
     },
     {
-      "name": "Star Channel",
+      "name": "Star",
       "isFree": true,
       "keywords": "star channel -international",
       "website": "https://www.star.gr/tv/",
@@ -1183,43 +946,37 @@
     {
       "name": "Star Channel International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://www.star.gr/tv/",
       "priority": 9
     },
     {
       "name": "Star Kentrikis Elladas",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://tvstar.gr/",
       "priority": 9
     },
     {
-      "name": "Syros TV1",
+      "name": "Syros TV",
       "isFree": true,
       "website": "https://syrostv1.gr/live-tv/"
     },
     {
       "name": "Telekriti",
       "isFree": true,
-      "logo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
       "website": "https://www.telekriti.com/"
     },
     {
-      "name": "Tempo TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c6cc7f1f158a522fe05a314cce59d139.png"
+      "name": "Tempo",
+      "isFree": true
     },
     {
-      "name": "Thessalia TV",
+      "name": "Thessalia",
       "isFree": true,
-      "logo": "https://i.imgur.com/KXz67LY.png",
       "website": "https://www.thessaliatv.gr/"
     },
     {
-      "name": "Thraki Net TV",
+      "name": "Thraki Net",
       "isFree": true,
-      "logo": "https://go4.pw/GRECCE2/THRAKINETTV.png",
       "website": "https://www.thrakinet.tv/"
     },
     {
@@ -1227,119 +984,103 @@
       "isFree": true
     },
     {
-      "name": "Top Channel",
+      "name": "Top",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://top-channel.gr/"
     },
     {
       "name": "TV Kosmos",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvkosmos.gr/livetv"
     },
     {
-      "name": "Volcano TV",
+      "name": "Volcano",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JA1o2Xz3QJRfdZqhAwlGqAVQyR.jpg",
       "website": "https://www.neasantorinis.gr/"
     },
     {
-      "name": "West Channel",
+      "name": "West",
       "isFree": true,
       "website": "https://west-tv.gr/"
     },
     {
-      "name": "ERT1",
+      "name": "ERT",
       "isFree": true,
       "website": "https://www.ert.gr/",
       "priority": 10
     },
     {
-      "name": "ERT2",
+      "name": "ERT 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/nMHKG3A.png",
       "website": "https://www.ert.gr/",
       "priority": 9
     },
     {
-      "name": "ERT3",
+      "name": "ERT 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/f2l9bDR.png",
       "website": "https://www.ert.gr/",
       "priority": 10
     },
     {
-      "name": "Netmax TV",
+      "name": "Netmax",
       "isFree": true,
-      "logo": "https://i.imgur.com/dLvRD4k.png",
       "website": "http://netmaxtv.com/"
     },
     {
       "name": "Tilemousiki",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/df18a06365611ebd1ba91f68ca75c5e9.png"
+      "isFree": true
     },
     {
-      "name": "Zougla TV",
+      "name": "Zougla",
+      "isFree": true
+    },
+    {
+      "name": "ART",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6524af6730464c73f1d595db377a3cdc.png"
+      "keywords": "art",
+      "website": "http://www.arttv.info/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Alfa Dramas",
-      "isFree": false,
-      "logo": "https://go4.pw/ARABE/ALFA_ALYOUM.png"
+      "isFree": false
     },
     {
-      "name": "Cosmote Cinema 1",
-      "isFree": false,
-      "logo": "https://go4.pw/SWITZERLAND/4.png"
+      "name": "Cosmote Cinema",
+      "isFree": false
     },
     {
       "name": "Cosmote Cinema 2",
-      "isFree": false,
-      "logo": "https://go4.pw/SWITZERLAND/4.png"
+      "isFree": false
     },
     {
       "name": "Cosmote Cinema 3",
-      "isFree": false,
-      "logo": "https://go4.pw/SWITZERLAND/4.png"
-    },
-    {
-      "name": "Groovy TV",
-      "isFree": false,
-      "logo": "https://go4.pw/GRECCE2/GROOVY.png"
+      "isFree": false
     },
     {
       "name": "Wixlar",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/4d788b63c061e51ceaabf0355c9344f9.png"
+      "isFree": false
     },
     {
       "name": "Action 24",
       "isFree": true,
-      "logo": "https://epg.pw/media/",
       "website": "https://action24.gr/"
     },
     {
       "name": "Cosmote Series",
       "isFree": true,
       "keywords": "cosmote series -marathon",
-      "logo": "https://go4.pw/SWITZERLAND/4.png",
       "website": "https://www.cosmote.gr/cosmotetv"
     },
     {
       "name": "Cosmote Series Marathon",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/4.png",
       "website": "https://www.cosmote.gr/portal/cosmote-series-marathon"
     },
     {
       "name": "ERT Christmas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
@@ -1355,61 +1096,57 @@
     {
       "name": "Greek Cinema",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/skNKybBwbo8CqZ6ceMsqAZEUCGO.jpg",
       "website": "http://greekcinematv.com/"
     },
     {
-      "name": "Novacinema 1",
+      "name": "Novacinema",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.nova.gr/"
     },
     {
       "name": "Novacinema 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.nova.gr/"
     },
     {
       "name": "Novacinema 3",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.nova.gr/"
     },
     {
       "name": "Novacinema 4",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://www.nova.gr/"
     },
     {
       "name": "TV Plus",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Universal Channel",
+      "name": "Universal",
       "isFree": true
     },
     {
       "name": "Village Cinemas",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5qxNypyBvWkkQ7mEWIdTmTuiEN.jpg",
       "website": "http://www.villagecinemas.gr/"
+    },
+    {
+      "name": "Groovy",
+      "isFree": true,
+      "keywords": "groovy"
     }
   ],
   "Music Videos": [
     {
-      "name": "Baraza TV",
+      "name": "Baraza",
       "isFree": true,
-      "keywords": "baraza tv -classic hits -greek music hits",
-      "logo": "https://images.iptvmate.net/tvglogo/f37773e6ff2e7d4f19525c24e1c9f5a0.png"
+      "keywords": "baraza tv -classic hits -greek music hits"
     },
     {
-      "name": "Magic TV",
+      "name": "Magic",
       "isFree": true,
-      "keywords": "magic tv -gr",
-      "logo": "https://i.imgur.com/n7bcrrp.png"
+      "keywords": "magic tv -gr"
     },
     {
       "name": "NG",
@@ -1417,29 +1154,25 @@
       "keywords": "ng -radio"
     },
     {
-      "name": "Play TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/1dmBqpf.png"
-    },
-    {
-      "name": "Xalastra TV",
+      "name": "Play",
       "isFree": true
     },
     {
-      "name": "Athina TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Xalastra",
+      "isFree": true
+    },
+    {
+      "name": "Athina",
+      "isFree": true
     },
     {
       "name": "Baraza TV Deep House",
       "isFree": true,
-      "logo": "https://i.imgur.com/TZ1unwF.png",
       "website": "https://barazaradio.com/"
     },
     {
       "name": "Baraza TV Relaxing",
       "isFree": true,
-      "logo": "https://i.imgur.com/TZ1unwF.png",
       "website": "https://barazaradio.com/"
     },
     {
@@ -1448,87 +1181,75 @@
       "website": "https://www.ellinikosfm.com/"
     },
     {
-      "name": "ERT Eurovision Channel",
+      "name": "ERT Eurovision",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
       "name": "ERT Music",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/GREECE/ERT%20WORLD.png",
       "priority": 10
     },
     {
       "name": "Mad Greekz",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEULzxEZvrJvhz91wKxpbih25Sk.jpg",
       "website": "https://mad.gr/mad-greekz/"
     },
     {
-      "name": "Mad TV",
+      "name": "Mad",
       "isFree": true,
       "website": "https://mad.tv/"
     },
     {
       "name": "Mad Viral",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEULzxEZvrJvhz91wKxpbih25Sk.jpg",
       "website": "https://mad.gr/mad-viral/"
     },
     {
       "name": "Mad World",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEULzxEZvrJvhz91wKxpbih25Sk.jpg",
       "website": "https://mad.gr/mad-world/"
     },
     {
-      "name": "Messatida TV",
+      "name": "Messatida",
       "isFree": true,
       "website": "https://www.messatidatv.gr/"
     },
     {
-      "name": "My Radio TV",
+      "name": "My Radio",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d623cb78783a70ac4e5fd944a256df71.png",
       "website": "https://myradionet.gr/contacts/"
     },
     {
-      "name": "Panik TV",
+      "name": "Panik",
       "isFree": true,
-      "logo": "https://i.imgur.com/13C3CPr.png",
       "website": "https://panikmusic.gr/panik-tv/"
     },
     {
-      "name": "Real Music TV",
+      "name": "Real Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg",
       "website": "http://www.realmusic.gr/"
     },
     {
       "name": "RedMusic",
       "isFree": true,
-      "logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
       "website": "https://redmusic.live/"
     }
   ],
   "Radios": [
     {
-      "name": "MY RADIO TV",
+      "name": "MY RADIO",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d623cb78783a70ac4e5fd944a256df71.png",
       "priority": 4
     },
     {
       "name": "NG RADIO",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NIGERIA.png",
       "priority": 4
     },
     {
       "name": "Radio Epistrofi",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ],
@@ -1536,34 +1257,30 @@
     {
       "name": "ART",
       "isFree": true,
-      "keywords": "art -tv",
+      "keywords": "art",
       "website": "http://www.arttv.info/"
     },
     {
       "name": "Cosmote History",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/4.png",
       "website": "https://www.cosmote.gr/cosmotetv"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "https://www.natgeotv.com/gr",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/gr/wild",
       "priority": 9
     },
     {
       "name": "Viasat Explore",
-      "isFree": true,
-      "logo": "https://i.imgur.com/DyT5pKB.png"
+      "isFree": true
     },
     {
       "name": "Viasat History",
@@ -1576,9 +1293,8 @@
   ],
   "Religious": [
     {
-      "name": "Lychnos TV",
+      "name": "Lychnos",
       "isFree": true,
-      "logo": "https://i.ibb.co/pJbKsVm/Lychnos-Tv-live-vipotv-greece.png",
       "website": "http://i-m-patron.gr/"
     },
     {
@@ -1586,30 +1302,26 @@
       "isFree": true
     },
     {
-      "name": "Pemptousia TV",
+      "name": "Pemptousia",
       "isFree": true,
-      "logo": "https://i.ibb.co/pzMPmz2/logo-2.png",
       "website": "https://pemptousia.tv/"
     },
     {
-      "name": "Voice of God TV",
+      "name": "Voice of God",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",
       "website": "https://www.voiceofgod.gr/media/el"
     }
   ],
   "Shop": [
     {
-      "name": "New Epsilon TV",
+      "name": "New Epsilon",
       "isFree": true,
       "keywords": "new epsilon tv -thessaloniki",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.neotv.gr/"
     },
     {
-      "name": "Time Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkjPoisqAavXUvtoirxTEcLLQyI.jpg"
+      "name": "Time",
+      "isFree": true
     }
   ]
 }

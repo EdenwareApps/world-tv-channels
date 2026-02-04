@@ -2,60 +2,27 @@
   "Entertainment": [
     {
       "name": ".black Russia",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png"
-    },
-    {
-      "name": ".red Russia",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png"
-    },
-    {
-      "name": "2x2",
-      "isFree": true,
-      "logo": "http://epg.one/img2/323.png"
-    },
-    {
-      "name": "360°",
-      "isFree": true,
-      "keywords": "360° -новости"
-    },
-    {
-      "name": "5 канал",
-      "isFree": true,
-      "logo": "https://i.imgur.com/KPXMa3U.png"
-    },
-    {
-      "name": "8 канал Крым",
       "isFree": true
     },
     {
-      "name": "9 Волна",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174435729977_89.png"
+      "name": ".red Russia",
+      "isFree": true
     },
     {
       "name": "HD life",
       "isFree": true
     },
     {
-      "name": "HD Медиа",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png"
-    },
-    {
-      "name": "MOSOBR.TV",
+      "name": "MOSOBR",
       "isFree": true
     },
     {
       "name": "National Geographic Wild Russia",
       "isFree": true,
-      "shortName": "NGWR",
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
       "priority": 9
     },
     {
-      "name": "Portal FoxMix TV",
+      "name": "Portal FoxMix",
       "isFree": true
     },
     {
@@ -69,10 +36,6 @@
       "website": "https://www.rt.com"
     },
     {
-      "name": "Sochi Live HD",
-      "isFree": true
-    },
-    {
       "name": "TRK 555",
       "isFree": true
     },
@@ -81,14 +44,12 @@
       "isFree": true,
       "retransmits": "TV BRICS Russian",
       "shortName": "TV BRICS",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvbrics.com"
     },
     {
       "name": "TV BRICS Russian",
       "isFree": true,
       "shortName": "TV BRICS",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvbrics.com"
     },
     {
@@ -101,351 +62,14 @@
     },
     {
       "name": "VIP Premiere Russia",
-      "isFree": false,
-      "shortName": "VPR",
-      "logo": "https://go4.pw/germany/vip-events.png"
+      "isFree": false
     },
     {
       "name": "Viasat Explore Russia",
-      "isFree": true,
-      "shortName": "VER",
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
+      "isFree": true
     },
     {
       "name": "Viasat Nature Russia",
-      "isFree": true,
-      "shortName": "VNR",
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
-    },
-    {
-      "name": "Авто 24",
-      "isFree": true
-    },
-    {
-      "name": "Арис 24",
-      "isFree": true
-    },
-    {
-      "name": "Арсенал",
-      "isFree": true
-    },
-    {
-      "name": "Астрахань.Ru TV",
-      "isFree": true
-    },
-    {
-      "name": "БСТ",
-      "isFree": true
-    },
-    {
-      "name": "Бобер",
-      "isFree": true
-    },
-    {
-      "name": "Большая Азия",
-      "isFree": true
-    },
-    {
-      "name": "ВТВ Плюс",
-      "isFree": true
-    },
-    {
-      "name": "Вестник Надыма +2",
-      "isFree": true
-    },
-    {
-      "name": "Вместе-РФ",
-      "isFree": true
-    },
-    {
-      "name": "Время",
-      "isFree": true
-    },
-    {
-      "name": "Городской телеканал",
-      "isFree": true
-    },
-    {
-      "name": "Губерния",
-      "isFree": true,
-      "keywords": "губерния -33"
-    },
-    {
-      "name": "Дагестан",
-      "isFree": true
-    },
-    {
-      "name": "Дождь",
-      "isFree": true,
-      "shortName": "Dozhd",
-      "website": "https://tvrain.ru"
-    },
-    {
-      "name": "Доктор",
-      "isFree": true
-    },
-    {
-      "name": "Домашний",
-      "isFree": true
-    },
-    {
-      "name": "Енисей",
-      "isFree": true
-    },
-    {
-      "name": "Жара",
-      "isFree": true
-    },
-    {
-      "name": "Загородный",
-      "isFree": true
-    },
-    {
-      "name": "Звезда",
-      "isFree": true
-    },
-    {
-      "name": "Индийское кино",
-      "isFree": true
-    },
-    {
-      "name": "История",
-      "isFree": true
-    },
-    {
-      "name": "К16",
-      "isFree": true
-    },
-    {
-      "name": "КФУ ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Кавказ 24",
-      "isFree": true
-    },
-    {
-      "name": "Калейдскоп",
-      "isFree": true
-    },
-    {
-      "name": "Кинозал",
-      "isFree": true
-    },
-    {
-      "name": "Конный Мир",
-      "isFree": true
-    },
-    {
-      "name": "Красная линия",
-      "isFree": true
-    },
-    {
-      "name": "Красногорск ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Крик-ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Крым 24",
-      "isFree": true
-    },
-    {
-      "name": "Кубань 24 Орбита",
-      "isFree": true
-    },
-    {
-      "name": "Кузбасс 1",
-      "isFree": true
-    },
-    {
-      "name": "Курай",
-      "isFree": true
-    },
-    {
-      "name": "ЛДПР ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Мir +3",
-      "isFree": true
-    },
-    {
-      "name": "Миллет",
-      "isFree": true
-    },
-    {
-      "name": "Министерство идей",
-      "isFree": true
-    },
-    {
-      "name": "Мир",
-      "isFree": true,
-      "keywords": "мир -+2 -+4 -+7 -24 -белагорья -сериала"
-    },
-    {
-      "name": "Мир +2",
-      "isFree": true,
-      "logo": "http://epg.one/img2/3019.png"
-    },
-    {
-      "name": "Мир +4",
-      "isFree": true,
-      "logo": "http://epg.one/img2/3020.png"
-    },
-    {
-      "name": "Мир +7",
-      "isFree": true
-    },
-    {
-      "name": "Мир Сериала",
-      "isFree": true
-    },
-    {
-      "name": "Морской",
-      "isFree": true
-    },
-    {
-      "name": "Моя планета",
-      "isFree": true
-    },
-    {
-      "name": "Мужское кино",
-      "isFree": true
-    },
-    {
-      "name": "Муз союз",
-      "isFree": true,
-      "keywords": "муз союз | музсоюз"
-    },
-    {
-      "name": "НВК Саха",
-      "isFree": true
-    },
-    {
-      "name": "НТВ",
-      "isFree": true,
-      "keywords": "нтв -стиль",
-      "priority": 9
-    },
-    {
-      "name": "НТВ Стиль",
-      "isFree": true
-    },
-    {
-      "name": "НТС",
-      "isFree": true
-    },
-    {
-      "name": "Нано",
-      "isFree": true
-    },
-    {
-      "name": "Настоящее Время",
-      "isFree": true
-    },
-    {
-      "name": "Наука",
-      "isFree": true
-    },
-    {
-      "name": "Наш дом",
-      "isFree": true
-    },
-    {
-      "name": "Наша Сибирь / Кемерово",
-      "isFree": true
-    },
-    {
-      "name": "Наше Крутое HD",
-      "isFree": true
-    },
-    {
-      "name": "Наше Новое Кино",
-      "isFree": true
-    },
-    {
-      "name": "Нижний Новгород 24",
-      "isFree": true
-    },
-    {
-      "name": "Ника ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Новое ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Новороссия ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Новый мир",
-      "isFree": true
-    },
-    {
-      "name": "О2ТВ",
-      "isFree": true
-    },
-    {
-      "name": "ОНТ",
-      "isFree": true
-    },
-    {
-      "name": "Оплот 2",
-      "isFree": true
-    },
-    {
-      "name": "Оплот ТВ",
-      "isFree": true
-    },
-    {
-      "name": "ПРНК",
-      "isFree": true
-    },
-    {
-      "name": "Первый Псковский",
-      "isFree": true
-    },
-    {
-      "name": "Первый Тульский",
-      "isFree": true
-    },
-    {
-      "name": "Первый канал",
-      "isFree": true,
-      "keywords": "первыи канал -евразия",
-      "priority": 10
-    },
-    {
-      "name": "Первый канал Евразия",
-      "isFree": true
-    },
-    {
-      "name": "Первый крымский",
-      "isFree": true
-    },
-    {
-      "name": "Первый республиканский",
-      "isFree": true
-    },
-    {
-      "name": "Победа",
-      "isFree": true
-    },
-    {
-      "name": "Поехали!",
-      "isFree": true
-    },
-    {
-      "name": "Прима",
-      "isFree": true
-    },
-    {
-      "name": "Продвижение",
       "isFree": true
     },
     {
@@ -453,142 +77,11 @@
       "isFree": true
     },
     {
-      "name": "РЕН ТВ",
-      "isFree": true,
-      "keywords": "рен тв -international",
-      "priority": 8
-    },
-    {
       "name": "РЕН ТВ International",
       "isFree": true
     },
     {
-      "name": "РЖД ТВ",
-      "isFree": true
-    },
-    {
-      "name": "РТР-Планета",
-      "isFree": true
-    },
-    {
-      "name": "Радио 10",
-      "isFree": true
-    },
-    {
-      "name": "Радио 101.8",
-      "isFree": true
-    },
-    {
-      "name": "Радио Говорит Москва",
-      "isFree": true
-    },
-    {
-      "name": "Радио Пилот",
-      "isFree": true
-    },
-    {
-      "name": "Радио России",
-      "isFree": true
-    },
-    {
-      "name": "Ратник",
-      "isFree": true
-    },
-    {
-      "name": "Родной канал",
-      "isFree": true
-    },
-    {
-      "name": "Россия 1 +6",
-      "isFree": true
-    },
-    {
-      "name": "Россия 1 HD",
-      "isFree": true
-    },
-    {
-      "name": "Россия РТР",
-      "isFree": true
-    },
-    {
-      "name": "Ростов-папа",
-      "isFree": true
-    },
-    {
-      "name": "Русский Детектив",
-      "isFree": true
-    },
-    {
-      "name": "Рыболов",
-      "isFree": true
-    },
-    {
-      "name": "Рыжий",
-      "isFree": true
-    },
-    {
-      "name": "СССР ТВ",
-      "isFree": true
-    },
-    {
-      "name": "СТС",
-      "isFree": true,
-      "keywords": "стс -kids -love"
-    },
-    {
       "name": "СТС Love",
-      "isFree": true
-    },
-    {
-      "name": "Салям",
-      "isFree": true
-    },
-    {
-      "name": "Самара ГИС",
-      "isFree": true
-    },
-    {
-      "name": "Саратов 24",
-      "isFree": true
-    },
-    {
-      "name": "Сарафан",
-      "isFree": true
-    },
-    {
-      "name": "Селенга ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Сиеста",
-      "isFree": true
-    },
-    {
-      "name": "ТВ Центр",
-      "isFree": true
-    },
-    {
-      "name": "ТВ Экстра",
-      "isFree": true
-    },
-    {
-      "name": "ТВК 24",
-      "isFree": true
-    },
-    {
-      "name": "ТДК",
-      "isFree": true
-    },
-    {
-      "name": "ТК Алмазный край",
-      "isFree": true
-    },
-    {
-      "name": "ТКР",
-      "isFree": true
-    },
-    {
-      "name": "ТНВ-Планета",
       "isFree": true
     },
     {
@@ -596,91 +89,8 @@
       "isFree": true
     },
     {
-      "name": "ТНТ4",
-      "isFree": true,
-      "logo": "http://epg.one/img2/1649.png"
-    },
-    {
-      "name": "Такт/Рен ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Телекафе",
-      "isFree": true
-    },
-    {
-      "name": "Телестанция МИР",
-      "isFree": true
-    },
-    {
-      "name": "Телплюс ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Тивиком",
-      "isFree": true
-    },
-    {
-      "name": "Той Думан",
-      "isFree": true
-    },
-    {
-      "name": "Тонус",
-      "isFree": true
-    },
-    {
-      "name": "Три Ангела",
-      "isFree": true
-    },
-    {
-      "name": "Туран ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Ужастик",
-      "isFree": true
-    },
-    {
-      "name": "Учалы ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Фантастика Sci-Fi",
-      "isFree": true
-    },
-    {
-      "name": "Футбол",
-      "isFree": true
-    },
-    {
-      "name": "Хабар",
-      "isFree": true,
-      "keywords": "хабар -24"
-    },
-    {
-      "name": "Хабар 24",
-      "isFree": true
-    },
-    {
-      "name": "Центральное телевидение",
-      "isFree": true
-    },
-    {
-      "name": "Че",
-      "isFree": true
-    },
-    {
-      "name": "Ювелирочка ТВ",
-      "isFree": true
-    },
-    {
-      "name": "радио Хит ТВ",
-      "isFree": true
-    },
-    {
       "name": "1 KBR",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "http://1kbr.smikbr.ru/"
     },
     {
@@ -691,7 +101,6 @@
     {
       "name": "7tv",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c171695684ee6faa3565b559e785c64d.png",
       "website": "http://www.7-tv.tv/"
     },
     {
@@ -700,7 +109,7 @@
       "website": "https://9volna.com/"
     },
     {
-      "name": "Abaza TV",
+      "name": "Abaza",
       "isFree": true,
       "website": "https://abaza.tv/"
     },
@@ -710,21 +119,18 @@
       "website": "https://afontovo.ru/"
     },
     {
-      "name": "AIST TV",
+      "name": "AIST",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://aisttv.ru/"
     },
     {
-      "name": "Alba XXX HD 1",
+      "name": "Alba XXX HD",
       "isFree": null,
-      "logo": "https://go4.pw/UK/bbcalba.png",
       "website": "https://tvlider.net/"
     },
     {
       "name": "Alba XXX HD 2",
       "isFree": null,
-      "logo": "https://go4.pw/UK/bbcalba.png",
       "website": "https://tvlider.net/"
     },
     {
@@ -745,25 +151,21 @@
     {
       "name": "alpha Moretime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UxR2HHfYGX8jKII5bJj2c8h8D7.jpg",
       "website": "https://15plusmg.ru"
     },
     {
-      "name": "Amurskoye Oblastnoye TV",
+      "name": "Amurskoye Oblastnoye",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://amurobl.tv/"
     },
     {
-      "name": "Anekdot TV",
+      "name": "Anekdot",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.anekdottv.tv/"
     },
     {
       "name": "Arig Us",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/664zGUmaPp8vskmfh3XZvDIG4IO.jpg",
       "website": "https://arigus.tv/"
     },
     {
@@ -781,19 +183,17 @@
       "isFree": true
     },
     {
-      "name": "Astrahan.Ru TV",
+      "name": "Astrahan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://live.astrakhan.ru/"
     },
     {
       "name": "Auto Plus",
       "isFree": true,
-      "logo": "https://i.imgur.com/sVc8cFt.png",
       "website": "https://www.autoplustv.ru/"
     },
     {
-      "name": "Avto24",
+      "name": "Avto 24",
       "isFree": true,
       "website": "http://avto24tv.ru/"
     },
@@ -803,12 +203,12 @@
       "website": "https://gtrk.tv/b24"
     },
     {
-      "name": "BCU Charm HD",
+      "name": "BCU Charm",
       "isFree": null,
       "website": "https://bcumedia.pro/"
     },
     {
-      "name": "Beauty.TV",
+      "name": "Beauty",
       "isFree": true,
       "website": "https://www.planeta-online.tv/"
     },
@@ -825,13 +225,11 @@
     {
       "name": "Big Asia",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://bigasia.ru/"
     },
     {
       "name": "Big Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/7623.png",
       "website": "https://timemediagroup.ru/telekanal/big-planet.html"
     },
     {
@@ -851,47 +249,37 @@
       "website": "https://bash.news/bst/"
     },
     {
-      "name": "#C4K360",
-      "isFree": true
-    },
-    {
-      "name": "Candy 3D HD",
+      "name": "Candy 3D",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg",
       "website": "http://www.candytv.eu/"
     },
     {
-      "name": "CandyMan TV",
+      "name": "CandyMan",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
       "website": "http://www.candymantv.com/"
     },
     {
-      "name": "Candy TV",
+      "name": "Candy",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg",
       "website": "http://www.candytv.eu/"
     },
     {
-      "name": "Central TV",
+      "name": "Central",
       "isFree": true,
-      "logo": "https://imgur.com/secIlPU.png",
       "website": "https://contact-agency.ru/channels/tsentralnoe-televidenie/"
     },
     {
       "name": "Channel 10",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.10kanal.ru/"
     },
     {
       "name": "Channel 12",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://12-kanal.ru/"
     },
     {
-      "name": "Channel-16",
+      "name": "Channel 16",
       "isFree": true,
       "website": "https://sarov24.ru/programma-peredach-kanal-16/"
     },
@@ -899,51 +287,43 @@
       "name": "Channel 5",
       "isFree": true,
       "keywords": "channel 5 -international",
-      "logo": "https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png",
       "website": "https://www.5-tv.ru/"
     },
     {
       "name": "Channel 5 International",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.5-tv.ru/"
     },
     {
       "name": "Channel 8",
       "isFree": true,
       "keywords": "channel 8 -international -krasnoyarsk -novosibirsk",
-      "logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png",
       "website": "http://8tv.ru/"
     },
     {
       "name": "Channel 8 International",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://8tv.ru/europe/"
     },
     {
       "name": "Channel 8 Krasnoyarsk",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://krsk.tv/"
     },
     {
       "name": "Channel 8 Novosibirsk",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://nsk.8tv.ru/"
     },
     {
       "name": "Channel One",
       "isFree": true,
       "keywords": "channel one -cis",
-      "logo": "https://imgur.com/IFcA4UO.png",
       "website": "https://www.1tv.ru/"
     },
     {
       "name": "Channel One CIS",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.1tv.ru/"
     },
     {
@@ -954,14 +334,12 @@
     {
       "name": "Chuvash En",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD9NlP02OZPJwO9FuNqWszPciNf.jpg",
       "website": "http://www.ntrk21.ru/"
     },
     {
       "name": "CineMan ExExEx",
       "isFree": null,
       "keywords": "cineman exexex -two",
-      "logo": "http://epg.one/img2/7251.png",
       "website": "https://tvlider.net/"
     },
     {
@@ -972,25 +350,21 @@
     {
       "name": "City Eden AutoGid",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden MedZdrav",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden Recepty Gurmana",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
-      "name": "City Eden TV",
+      "name": "City Eden",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
@@ -1001,13 +375,11 @@
     {
       "name": "Den Pobedy",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.tricolor.tv/channels/den-pobedy/"
     },
     {
       "name": "Dialogi o rybalke",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
       "website": "https://dialogi.tv/"
     },
     {
@@ -1018,7 +390,6 @@
     {
       "name": "Dikaya rybalka",
       "isFree": true,
-      "logo": "https://i.imgur.com/e3BFVgt.png",
       "website": "https://dikoe.tv/channels/dikaya-rybalka-hd.html"
     },
     {
@@ -1030,26 +401,22 @@
     {
       "name": "Dikij International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "http://dikoe.tv/channels/dikij-international.html"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "http://www.discoverychannel.ru/",
       "priority": 10
     },
     {
       "name": "Discovery Ultra",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Diving TV",
+      "name": "Diving",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MJUo4bCPai5r9zrw7nTS8sVzQ7.jpg",
       "website": "https://www.planeta-online.tv/channels/130/live.html"
     },
     {
@@ -1066,13 +433,11 @@
     {
       "name": "Domashniy International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "https://domashniy.ru/"
     },
     {
       "name": "Drive",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png",
       "website": "http://tv-stream.ru/channels"
     },
     {
@@ -1081,9 +446,8 @@
       "website": "http://www.discoverychannel.ru/dtx/"
     },
     {
-      "name": "Duma TV",
+      "name": "Duma",
       "isFree": true,
-      "logo": "https://i.imgur.com/JvlO3PU.png",
       "website": "https://dumatv.ru/"
     },
     {
@@ -1092,7 +456,7 @@
       "website": "https://www.tricolor.tv/channels/dushevnoe/"
     },
     {
-      "name": "Echo-TV",
+      "name": "Echo",
       "isFree": true,
       "website": "https://exotv.ru/"
     },
@@ -1100,13 +464,11 @@
       "name": "Eda",
       "isFree": true,
       "keywords": "eda -premium international",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "https://www.tveda.ru/"
     },
     {
       "name": "Eda Premium International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg",
       "website": "https://www.tveda.ru/tv/"
     },
     {
@@ -1117,7 +479,6 @@
     {
       "name": "Eromania 4K",
       "isFree": null,
-      "logo": "http://epg.one/img2/4633.png",
       "website": "https://eromania4k.ru/"
     },
     {
@@ -1128,84 +489,68 @@
     {
       "name": "Exxxotica",
       "isFree": null,
-      "logo": "http://epg.one/img2/2632.png",
       "website": "http://exxxotica.media/"
     },
     {
-      "name": "FAP TV",
+      "name": "FAP",
       "isFree": null,
-      "keywords": "fap tv -2 -3 -4 -amateur -anal -bbw -compilation -gay -lesbian -older -parody -teaching -teens -trans",
-      "logo": "http://epg.one/img2/3177.png"
+      "keywords": "fap tv -2 -3 -4 -amateur -anal -bbw -compilation -gay -lesbian -older -parody -teaching -teens -trans"
     },
     {
       "name": "FAP TV 2",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV 3",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV 4",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Amateur",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Anal",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV BBW",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Compilation",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Gay",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Lesbian",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Older",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Parody",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Teaching",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Teens",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "FAP TV Trans",
-      "isFree": null,
-      "logo": "http://epg.one/img2/3177.png"
+      "isFree": null
     },
     {
       "name": "Fashion&LifeStyle",
@@ -1213,8 +558,7 @@
     },
     {
       "name": "Fashion&Style 4K",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/BEIN_SPORTS_1.png"
+      "isFree": true
     },
     {
       "name": "FashionTV",
@@ -1224,13 +568,11 @@
     {
       "name": "Fine Living",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyuWgxf18c6GjiiVWsmNezxhgnG.jpg",
       "website": "http://www.finelivingnetwork.com/"
     },
     {
-      "name": "First Russian national channel",
+      "name": "First Russian national",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg",
       "website": "https://nactv.ru/"
     },
     {
@@ -1263,30 +605,25 @@
     {
       "name": "Friday! International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "https://friday.ru/"
     },
     {
-      "name": "GAL TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "GAL",
+      "isFree": true
     },
     {
       "name": "Glazami Turista",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/GlazamiTur.png",
       "website": "https://www.glazamiturista.ru/"
     },
     {
-      "name": "Global Star TV",
+      "name": "Global Star",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "http://www.globalstar.tv/"
     },
     {
       "name": "Gorodskoy telekanal",
       "isFree": true,
-      "logo": "https://i.imgur.com/8qdc6aO.png",
       "website": "http://www.gtk.tv/"
     },
     {
@@ -1318,13 +655,11 @@
     {
       "name": "HD Media 3D",
       "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://hdmedia.ru/"
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://www.hg-tv.ru/"
     },
     {
@@ -1338,14 +673,12 @@
       "website": "https://home4k.ru/"
     },
     {
-      "name": "HOT 1 HD",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "HOT",
+      "isFree": null
     },
     {
-      "name": "HOT 2 HD",
-      "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "name": "HOT 2",
+      "isFree": null
     },
     {
       "name": "India",
@@ -1358,9 +691,8 @@
       "website": "https://ingushetiya.tv/"
     },
     {
-      "name": "Insayt TV",
+      "name": "Insayt",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://operators.1tvch.ru/channels/insait-tv"
     },
     {
@@ -1374,9 +706,8 @@
       "website": "http://iskushenie.tv/"
     },
     {
-      "name": "Kaleidoscope TV",
+      "name": "Kaleidoscope",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDzdWETXeocnj1DKKZuqZUVESub.jpg",
       "website": "http://www.kaleidoskoptv.tv/"
     },
     {
@@ -1395,7 +726,7 @@
       "website": "https://www.nastroykino.ru/kinokomedija/"
     },
     {
-      "name": "Kinoshka Adult HD",
+      "name": "Kinoshka Adult",
       "isFree": null,
       "website": "https://tvlider.net/"
     },
@@ -1427,13 +758,11 @@
     {
       "name": "Konniy mir",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "http://news.sportbox.ru/Vidy_sporta/horse_world"
     },
     {
       "name": "KRTV",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/CBS.png",
       "website": "https://krtv.tv/"
     },
     {
@@ -1453,23 +782,22 @@
       "website": "https://kuban24.tv/"
     },
     {
-      "name": "Kukhnya TV",
+      "name": "Kukhnya",
       "isFree": true,
       "website": "https://www.kuhnyatv.ru/"
     },
     {
-      "name": "Kulinar TV",
+      "name": "Kulinar",
       "isFree": true
     },
     {
-      "name": "Kuraj-TV",
+      "name": "Kuraj",
       "isFree": true,
       "website": "https://bash.news/kuraj"
     },
     {
-      "name": "Kuzbass 1",
+      "name": "Kuzbass",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://kuzbass1.ru/"
     },
     {
@@ -1478,32 +806,28 @@
       "website": "https://tvpodolsk.ru/index.php"
     },
     {
-      "name": "KVN TV",
+      "name": "KVN",
       "isFree": true,
-      "logo": "https://i.imgur.com/Vw3LFLX.png",
       "website": "https://kvn.ru/"
     },
     {
-      "name": "Law TV",
+      "name": "Law",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg",
       "website": "https://zakon.ru/zakon-tv"
     },
     {
-      "name": "LDPR TV",
+      "name": "LDPR",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://ldpr.tv/"
     },
     {
-      "name": "LenTV24",
+      "name": "LenTV 24",
       "isFree": true,
       "website": "https://lentv24.ru/"
     },
     {
       "name": "Lipeckoe vremya",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/VREMYA.png",
       "website": "https://lipetsktime.ru/"
     },
     {
@@ -1520,31 +844,26 @@
       "name": "Mir",
       "isFree": true,
       "keywords": "mir -24 -basketbola -belogorya -novosibirsk -seriala -uvlecheniy -vokrug",
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://mirtv.ru/"
     },
     {
       "name": "Mir Belogorya",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://mirbelogorya.ru/"
     },
     {
       "name": "Mir Novosibirsk",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://www.tcm10.ru/"
     },
     {
       "name": "Mir uvlecheniy",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "http://www.miruvlecheniy-tv.ru/"
     },
     {
       "name": "Mir vokrug",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://yandex.ru/portal/video?from=videohub&stream_channel=1906&stream_id=41c7bbf22abcca7eb04052377e4c8a45"
     },
     {
@@ -1556,24 +875,16 @@
       "name": "Moskva",
       "isFree": true,
       "keywords": "moskva -24 -— otkrytyy mir",
-      "logo": "https://go4.pw/RUSSIA/_Moskva 24.png",
       "website": "https://www.doverie-tv.ru/"
     },
     {
       "name": "Moskva 24",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/_Moskva 24.png",
       "website": "https://www.m24.ru/"
-    },
-    {
-      "name": "Moskva. Doveriye",
-      "isFree": true,
-      "website": "https://www.doverie-tv.ru/"
     },
     {
       "name": "Moskva — Otkrytyy mir",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/_Moskva 24.png",
       "website": "https://ctvp.ru/"
     },
     {
@@ -1590,7 +901,6 @@
       "name": "MTV",
       "isFree": true,
       "keywords": "mtv -volgograd",
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://www.mtv.ru/",
       "priority": 10
     },
@@ -1608,31 +918,26 @@
     {
       "name": "Nasha Tema",
       "isFree": true,
-      "logo": "https://go4.pw/ALBANIA/TEMA.png",
       "website": "https://nashatema.tv/"
     },
     {
       "name": "Nash Dom",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
       "website": "http://tv-11.ru/"
     },
     {
       "name": "Neizvestnaya planeta",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
       "website": "http://www.neplaneta.ru/"
     },
     {
       "name": "Night Club",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg",
       "website": "http://nclub.tv/"
     },
     {
-      "name": "Nika TV",
+      "name": "Nika",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/21759.jpg",
       "website": "https://nikatv.ru/"
     },
     {
@@ -1648,7 +953,6 @@
     {
       "name": "Noise",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a48bfLQm57ByADdw05uRMoFCZc.jpg",
       "website": "http://tvslow.com/"
     },
     {
@@ -1659,13 +963,11 @@
     {
       "name": "Novy Vek",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UKRAIN/NOVYCHANNEL.png",
       "website": "https://tvtambov.ru/novyj-vek-online/"
     },
     {
       "name": "Novyy Mir",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://n-w.tv/"
     },
     {
@@ -1676,57 +978,48 @@
     {
       "name": "NST",
       "isFree": true,
-      "logo": "https://i.imgur.com/uv2yxa5.png",
       "website": "https://strashnoe.tv/"
     },
     {
       "name": "NTK 21",
       "isFree": true,
-      "logo": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",
       "website": "https://riabir.ru"
     },
     {
       "name": "NTM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3JAOCNjJYO3NdECnnijKYadr8N.jpg",
       "website": "https://ntm13.ru/"
     },
     {
       "name": "NTS",
       "isFree": true,
-      "logo": "http://epg.one/img2/9786.png",
       "website": "https://nts-tv.com/"
     },
     {
       "name": "NTV",
       "isFree": true,
       "keywords": "ntv -law -mir -mir baltic -series -style",
-      "logo": "https://i.imgur.com/SoBhuIb.png",
       "website": "https://www.ntv.ru",
       "priority": 9
     },
     {
       "name": "NTV Law",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://www.ntv.ru/air/ntvlaw/"
     },
     {
       "name": "NTV Mir Baltic",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "http://1bma.lv/ru/virzieni/televizija/ntv-mir-baltic"
     },
     {
       "name": "NTV Style",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://www.ntv.ru/air/ntvstyle/"
     },
     {
-      "name": "Nuart TV",
+      "name": "Nuart",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://nuart.tv/"
     },
     {
@@ -1737,11 +1030,10 @@
     {
       "name": "Obektiv 59",
       "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
       "website": "http://www.obectiv.wallst.ru/"
     },
     {
-      "name": "Ocean-TV",
+      "name": "Ocean",
       "isFree": true,
       "website": "https://ocean-tv.media/"
     },
@@ -1749,13 +1041,11 @@
       "name": "Ohotnik i rybolov",
       "isFree": true,
       "keywords": "ohotnik i rybolov -int",
-      "logo": "https://go4.pw/RUSSIA/OHOTNIK I RYBOLOV.png",
       "website": "https://oirtv.ru/"
     },
     {
       "name": "Ohotnik i rybolov Int",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/OHOTNIK I RYBOLOV.png",
       "website": "https://oirtv.ru/"
     },
     {
@@ -1764,7 +1054,7 @@
       "website": "http://ohotarybalka.tv/"
     },
     {
-      "name": "O-la-la!",
+      "name": "O la la!",
       "isFree": null,
       "website": "https://o-la-la-tv.com/"
     },
@@ -1774,23 +1064,17 @@
       "website": "http://www.oruzhie.tv/"
     },
     {
-      "name": "Osetiya-Iryston",
+      "name": "Osetiya Iryston",
       "isFree": true,
       "website": "https://iryston.tv/"
     },
     {
       "name": "OSN",
       "isFree": true,
-      "logo": "https://go4.pw/BEIN/bss4k.png",
       "website": "https://www.osnmedia.ru/tv/"
     },
     {
       "name": "Otkritiy mir",
-      "isFree": true,
-      "website": "https://omir.tv/"
-    },
-    {
-      "name": "Otkritiy mir. Zdorove",
       "isFree": true,
       "website": "https://omir.tv/"
     },
@@ -1808,36 +1092,31 @@
       "name": "OTV",
       "isFree": true,
       "keywords": "otv -chelyabinsk -odintsovo -sakhalin",
-      "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
       "website": "https://www.obltv.ru/"
     },
     {
       "name": "OTV Chelyabinsk",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/LEBANON/OTVTV.png",
       "website": "https://www.1obl.ru/tv/"
     },
     {
       "name": "OTV Odintsovo",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/LEBANON/OTVTV.png",
       "website": "http://oditv.ru/"
     },
     {
-      "name": "OTV-Prim",
+      "name": "OTV Prim",
       "isFree": true,
       "website": "https://otvprim.tv/"
     },
     {
       "name": "OTV Sakhalin",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/LEBANON/OTVTV.png",
       "website": "https://skr.su/otv/"
     },
     {
-      "name": "OX-AH HD",
+      "name": "OX AH",
       "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "http://oxax.tv/oh-ah.html"
     },
     {
@@ -1848,53 +1127,45 @@
     {
       "name": "Peretz International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "http://www.ctcmedia.ru/business/peretz_int/"
     },
     {
       "name": "Perviy Krymskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/i6hg7QG.png",
       "website": "https://1tvcrimea.ru/"
     },
     {
       "name": "Pervyy Kosmicheskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/7tFiG6S.jpg",
       "website": "https://operators.1tvch.ru/channels/pervyi-kosmicheskii"
     },
     {
       "name": "Pervyy Pskovskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/7tFiG6S.jpg",
       "website": "https://1pskov.tv/"
     },
     {
       "name": "Pervyy Tulskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/7tFiG6S.jpg",
       "website": "https://1tulatv.ru/"
     },
     {
       "name": "Pervyy vegetarianskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/7tFiG6S.jpg",
       "website": "https://1veg-tv.ru/"
     },
     {
       "name": "Pes i Ko",
       "isFree": true,
-      "logo": "http://i.imgur.com/X5kjTCy.jpg",
       "website": "https://pesiko.tv/"
     },
     {
       "name": "Pilot FM",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://pilotfm.ru/"
     },
     {
-      "name": "Plan_B",
+      "name": "Plan B",
       "isFree": true,
       "website": "https://planbkino.tv/channels/5716"
     },
@@ -1906,7 +1177,6 @@
     {
       "name": "Pod yolkoy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTKQ4VWZnAVzvImw5PCoV20sizs.jpg",
       "website": "https://elki.tricolor.tv/"
     },
     {
@@ -1922,7 +1192,6 @@
     {
       "name": "Prima",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/PRIMATV.png",
       "website": "https://www.prima-tv.ru/"
     },
     {
@@ -1938,16 +1207,15 @@
     {
       "name": "Pro Lyubov",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "website": "https://www.tricolor.tv/channels/pro-lyubov/"
     },
     {
-      "name": "Promo TV",
+      "name": "Promo",
       "isFree": true,
       "website": "https://www.tricolor.tv/channels/promo-tv/"
     },
     {
-      "name": "Promo Ultra HD",
+      "name": "Promo Ultra",
       "isFree": true,
       "website": "https://www.tricolor.tv/channels/promo-uhd/"
     },
@@ -1962,15 +1230,13 @@
       "website": "http://tv-stream.ru/channels"
     },
     {
-      "name": "Radio 101.8",
+      "name": "Radio 101",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "http://tv-11.ru/online101-8/"
     },
     {
-      "name": "Ramenskoe TV",
+      "name": "Ramenskoe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ramtv.ru/"
     },
     {
@@ -1979,9 +1245,8 @@
       "website": "https://ratnik.tv/"
     },
     {
-      "name": "Raz TV",
+      "name": "Raz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.raz.tv/"
     },
     {
@@ -1993,36 +1258,31 @@
     {
       "name": "Red Line",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
       "website": "https://www.rline.tv/"
     },
     {
       "name": "Red Lips",
       "isFree": null,
-      "logo": "http://epg.one/img2/7079.png",
       "website": "https://skymediatv.ru/red-lips/"
     },
     {
-      "name": "Region29",
+      "name": "Region 29",
       "isFree": true,
       "website": "https://region29.ru/"
     },
     {
-      "name": "REN TV",
+      "name": "REN",
       "isFree": true,
       "keywords": "ren tv -international",
-      "logo": "https://i.imgur.com/0Tu5lte.png",
       "website": "https://ren.tv/"
     },
     {
       "name": "REN TV International",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0gJvc6Jidlw9Nk23Fm2BiuXzzo.jpg"
+      "isFree": true
     },
     {
       "name": "Rodnoy kanal",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://www.slavmir.tv/"
     },
     {
@@ -2033,48 +1293,37 @@
     {
       "name": "Rossiya 1 Vainah",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/ROSSIYA24.png",
       "website": "https://gtrkvainah.tv/live/"
     },
     {
-      "name": "Rostov-Papa",
+      "name": "Rostov Papa",
       "isFree": true,
       "website": "https://rostov-papatv.com/"
     },
     {
-      "name": "RTG int.",
+      "name": "RTG int",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/GUINEE/RTG.png",
       "website": "http://www.rtgtv.ru/channels/rtgint"
     },
     {
-      "name": "RTG TV",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2280.png",
-      "website": "http://www.rtgtv.ru/channels/rtgtv"
-    },
-    {
-      "name": "RTR-Planeta",
+      "name": "RTR Planeta",
       "isFree": true,
       "keywords": "rtr-planeta -asia -cis -europe",
       "website": "http://rtr-planeta.com/"
     },
     {
-      "name": "RTR-Planeta Asia",
+      "name": "RTR Planeta Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "http://rtr-planeta.com/"
     },
     {
-      "name": "RTR-Planeta CIS",
+      "name": "RTR Planeta CIS",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/04/04/large/20240404170350457530_44.png",
       "website": "http://rtr-planeta.com/"
     },
     {
-      "name": "RTR-Planeta Europe",
+      "name": "RTR Planeta Europe",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
       "website": "http://rtr-planeta.com/"
     },
     {
@@ -2091,48 +1340,41 @@
     {
       "name": "Rus",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/RUSSIA.png",
       "website": "https://rus-kostroma.ru/"
     },
     {
-      "name": "Russia-1",
+      "name": "Russia",
       "isFree": true,
       "website": "https://russia.tv/"
     },
     {
       "name": "Russian night",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58j2eRQ1W9NnKuETQBXg22O0jIL.jpg",
       "website": "https://www.rusnight.ru/"
     },
     {
       "name": "Russkiy Mir",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/RUSSKIYEKSTRIM-HD.png",
       "website": "https://tv.russkiymir.ru/"
     },
     {
       "name": "Russkiy Sever",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/RUSSKIYEKSTRIM-HD.png",
       "website": "https://rusevertv.ru/"
     },
     {
       "name": "Rybolov",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/OHOTNIK I RYBOLOV.png",
       "website": "https://oirtv.ru/"
     },
     {
-      "name": "RZD TV",
+      "name": "RZD",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://rzdtv.ru/"
     },
     {
-      "name": "S1",
+      "name": "S",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/s1.png",
       "website": "https://sitv.ru/efir/c1/"
     },
     {
@@ -2145,19 +1387,18 @@
       "isFree": true
     },
     {
-      "name": "Samara-GIS",
+      "name": "Samara GIS",
       "isFree": true,
       "website": "https://samaragis.ru/efir/"
     },
     {
-      "name": "Sankt-Peterburg",
+      "name": "Sankt Peterburg",
       "isFree": true,
       "website": "https://topspb.tv/"
     },
     {
       "name": "San Porto",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
       "website": "https://sanporto.tv/ru/"
     },
     {
@@ -2171,7 +1412,7 @@
       "website": "https://saratov24.tv/"
     },
     {
-      "name": ".sci-fi",
+      "name": ".sci fi",
       "isFree": true,
       "keywords": ".sci-fi -russia",
       "website": "https://mt.media/channels/sci-fi/"
@@ -2179,7 +1420,6 @@
     {
       "name": "Seven",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-seven-syd-9608a4.png",
       "website": "http://7tv.ru/"
     },
     {
@@ -2193,15 +1433,13 @@
       "website": "https://shalun.tv/"
     },
     {
-      "name": "Shayan TV",
+      "name": "Shayan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://shayantv.ru/"
     },
     {
-      "name": "Shchyolkovskoe TV",
+      "name": "Shchyolkovskoe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tv41.ru/"
     },
     {
@@ -2211,58 +1449,50 @@
     {
       "name": "Silk",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg",
       "website": "http://silk2.tv/"
     },
     {
       "name": "SKY HIGH SEX VR",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://tvlider.net/"
     },
     {
-      "name": "Skyleaf Eco TV",
+      "name": "Skyleaf Eco",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/ECOVizija.png",
       "website": "https://1eco.tv/"
     },
     {
-      "name": "Sochi24",
+      "name": "Sochi 24",
       "isFree": true,
       "website": "https://sochi24.tv"
     },
     {
       "name": "Sochi Live",
       "isFree": true,
-      "keywords": "sochi live -hd",
+      "keywords": "sochi live",
       "website": "https://sochilive.tv/"
     },
     {
-      "name": "Solnechnogorskoe TV",
+      "name": "Solnechnogorskoe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://solntv.ru/"
     },
     {
       "name": "Solovyov Live",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://smotrim.ru/live/63338"
     },
     {
-      "name": "Sony Channel",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png"
+      "name": "Sony",
+      "isFree": true
     },
     {
-      "name": "SSSR TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "SSSR",
+      "isFree": true
     },
     {
-      "name": "Strashnoe HD",
+      "name": "Strashnoe",
       "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://www.company.rt.ru/press/news/d428231"
     },
     {
@@ -2294,14 +1524,12 @@
     {
       "name": "Studiya Fakt",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/FAKT-MARATHI.png",
       "website": "https://xn--80adgql2bfcefn5k.xn--p1ai/"
     },
     {
       "name": "STV",
       "isFree": true,
       "keywords": "stv -24",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png",
       "website": "https://www.stv92.ru/iks-tv/"
     },
     {
@@ -2315,16 +1543,9 @@
       "website": "https://in-news.ru/"
     },
     {
-      "name": "Svoyo TV",
+      "name": "Svoyo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://stv24.tv/"
-    },
-    {
-      "name": "T24",
-      "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/T24.png",
-      "website": "https://techno24.tv/"
     },
     {
       "name": "Takt 24",
@@ -2353,7 +1574,6 @@
     {
       "name": "TBN",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg",
       "website": "https://tbn-tv.com/"
     },
     {
@@ -2364,7 +1584,6 @@
     {
       "name": "Telecafe",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png",
       "website": "https://www.telecafe.ru/"
     },
     {
@@ -2388,7 +1607,7 @@
       "website": "https://telplus.ru/kvartira/televidenie/kanal/"
     },
     {
-      "name": "Timeless Dizi Channel",
+      "name": "Timeless Dizi",
       "isFree": true,
       "website": "https://timelessdramachannel.com/dizi-russia/"
     },
@@ -2416,11 +1635,10 @@
       "name": "TNT",
       "isFree": true,
       "keywords": "tnt -international -music",
-      "logo": "http://i.imgur.com/UdWwHl4.png",
       "website": "http://tnt-online.ru/"
     },
     {
-      "name": "TNT4",
+      "name": "TNT 4",
       "isFree": true,
       "keywords": "tnt4 -international",
       "website": "https://tnt4.ru/"
@@ -2428,35 +1646,31 @@
     {
       "name": "TNT4 International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
       "website": "https://tnt4.ru/"
     },
     {
       "name": "TNT International",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
       "website": "http://tnt-online.ru/"
     },
     {
-      "name": "TNV-Planet",
+      "name": "TNV Planet",
       "isFree": true,
       "website": "https://tnv.ru/"
     },
     {
-      "name": "TNV-Tatarstan",
+      "name": "TNV Tatarstan",
       "isFree": true,
       "website": "https://tnv.ru/"
     },
     {
       "name": "Tochka otryva",
       "isFree": true,
-      "logo": "https://i.imgur.com/TZiBQDK.png",
       "website": "http://www.tv-stream.ru/channels"
     },
     {
-      "name": "Tochka TV",
+      "name": "Tochka",
       "isFree": true,
-      "logo": "https://i.imgur.com/TZiBQDK.png",
       "website": "http://tochkatv.tv/"
     },
     {
@@ -2470,9 +1684,8 @@
       "website": "http://tonustv.ru/"
     },
     {
-      "name": "Trash TV",
+      "name": "Trash",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plOI2sV2bRZUkcngCNfz2zlU1Ip.jpg",
       "website": "https://trashtv.ru/"
     },
     {
@@ -2486,7 +1699,7 @@
       "website": "https://www.tricolor.tv/channels/infokanal/"
     },
     {
-      "name": "TRV-Muji",
+      "name": "TRV Muji",
       "isFree": true,
       "website": "http://www.trv-muji.ru/"
     },
@@ -2498,22 +1711,20 @@
     {
       "name": "Tugan Tel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryzojLKm8xEYu1F2sme8rFo1Qoy.jpg",
       "website": "http://tugantel.tv/"
     },
     {
-      "name": "TV-3",
+      "name": "TV 3",
       "isFree": true,
       "website": "https://tv3.ru/"
     },
     {
       "name": "TV3 International",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://tv3.ru/"
     },
     {
-      "name": "TV4",
+      "name": "TV 4",
       "isFree": true,
       "keywords": "tv4 -russkoe kino",
       "website": "https://vokka.online"
@@ -2522,13 +1733,11 @@
       "name": "TV Centr",
       "isFree": true,
       "keywords": "tv centr -international",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvc.ru/"
     },
     {
       "name": "TV Centr International",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvc.ru/"
     },
     {
@@ -2539,27 +1748,24 @@
     {
       "name": "TV Guberniya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://tv-gubernia.ru/"
     },
     {
       "name": "TVK",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "http://www.tvknews.ru/"
     },
     {
-      "name": "Tvoe TV",
+      "name": "Tvoe",
       "isFree": true
     },
     {
       "name": "Tvoye TV Yumor",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://vk.com/tvoetvhd"
     },
     {
-      "name": "TVR24",
+      "name": "TVR 24",
       "isFree": true,
       "website": "https://tvr24.tv/"
     },
@@ -2570,24 +1776,21 @@
     },
     {
       "name": "TV Sale",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "TVTUR.TV",
+      "name": "TVTUR",
       "isFree": true,
       "website": "https://www.planeta-online.tv/channels/2/live.html"
     },
     {
       "name": "Tyumenskoe Vremya",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/VREMYA.png",
       "website": "https://tyumen-time.ru/"
     },
     {
-      "name": "Uchaly TV",
+      "name": "Uchaly",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://vk.link/uchalytv"
     },
     {
@@ -2596,7 +1799,7 @@
       "website": "http://www.myudm.ru/"
     },
     {
-      "name": "Ugra-TV",
+      "name": "Ugra",
       "isFree": true,
       "website": "https://ugra-tv.ru/"
     },
@@ -2608,7 +1811,6 @@
     {
       "name": "Unknown Russia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg",
       "website": "https://www.ntv.ru/air/unknown_russia/"
     },
     {
@@ -2632,7 +1834,7 @@
       "website": "https://vm.ru/"
     },
     {
-      "name": "VERAPORN GROUP SEX 1",
+      "name": "VERAPORN GROUP SEX",
       "isFree": null,
       "website": "https://tvlider.net/"
     },
@@ -2657,19 +1859,17 @@
       "website": "https://viju.ru/telekanaly/vijuplus-comedy/"
     },
     {
-      "name": "Vkusnoe TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vkusnoe",
+      "isFree": true
     },
     {
-      "name": "Vmeste-RF",
+      "name": "Vmeste RF",
       "isFree": true,
       "website": "https://vmeste-rf.tv/"
     },
     {
       "name": "V mire zhivotnykh",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
       "website": "http://www.animalfamily.tv/"
     },
     {
@@ -2678,9 +1878,8 @@
       "website": "https://www.volga-tv.ru/"
     },
     {
-      "name": "Volgograd 1",
+      "name": "Volgograd",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://volgograd1.tv/"
     },
     {
@@ -2691,7 +1890,6 @@
     {
       "name": "Voprosy i Otvety",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg",
       "website": "http://tv-stream.ru/channels"
     },
     {
@@ -2699,18 +1897,17 @@
       "isFree": true
     },
     {
-      "name": "Vostok TV",
+      "name": "Vostok",
       "isFree": true,
       "website": "http://vostok.tv/"
     },
     {
       "name": "Vremya",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/VREMYA.png",
       "website": "https://www.vremya.tv/"
     },
     {
-      "name": "World Fashion Channel",
+      "name": "World Fashion",
       "isFree": true,
       "keywords": "world fashion channel -international",
       "website": "https://wfc.tv/ru"
@@ -2718,11 +1915,10 @@
     {
       "name": "World Fashion Channel International",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://wfc.tv/en"
     },
     {
-      "name": "XXX Love's Berry HD",
+      "name": "XXX Love's Berry",
       "isFree": null,
       "website": "https://tvlider.net/"
     },
@@ -2782,9 +1978,8 @@
       "isFree": true
     },
     {
-      "name": "Za! TV",
+      "name": "Za!",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zatvmedia.netlify.app/zatv.html"
     },
     {
@@ -2793,9 +1988,8 @@
       "website": "https://tonustv.ru/"
     },
     {
-      "name": "Zdorovoe TV",
+      "name": "Zdorovoe",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zdorovoetv.ru/"
     },
     {
@@ -2819,7 +2013,7 @@
       "website": "http://telekanalzoopark.ru/"
     },
     {
-      "name": "Zoo TV",
+      "name": "Zoo",
       "isFree": true,
       "website": "http://www.telezoo.tv/"
     },
@@ -2827,150 +2021,111 @@
       "name": "Zvezda",
       "isFree": true,
       "keywords": "zvezda -plus",
-      "logo": "https://go4.pw/EXYU/FK_CRVENA_ZVEZDA.png",
       "website": "https://tvzvezda.ru/"
     },
     {
       "name": "Zvezda Plus",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/FK_CRVENA_ZVEZDA.png",
       "website": "https://tvzvezda.ru/sp/zvezda-plus/"
     },
     {
-      "name": "555",
-      "isFree": true,
-      "website": "https://trk555.tv/"
-    },
-    {
-      "name": "86",
-      "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
-      "website": "https://sitv.ru/efir/86/"
-    },
-    {
-      "name": "U",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8CiEn1tcg07de1EUwgg39f3CGr.jpg",
-      "website": "https://www.u-tv.ru/"
-    },
-    {
-      "name": "Lists of television channels",
+      "name": "Match",
       "isFree": true
     },
     {
-      "name": "Match TV (ex Russia-2)]]",
+      "name": "Russia 24",
       "isFree": true
     },
     {
-      "name": "Russia-24 (ex Vesti)]]",
+      "name": "Carousel",
       "isFree": true
     },
     {
-      "name": "Carousel]]",
+      "name": "TV Tsentr",
       "isFree": true
     },
     {
-      "name": "TV Tsentr]]",
+      "name": "TVCI",
       "isFree": true
     },
     {
-      "name": "TVCI]] (International version of TV Tsentr)",
+      "name": "TNT",
       "isFree": true
     },
     {
-      "name": "NTV]]",
+      "name": "MIR",
       "isFree": true
     },
     {
-      "name": "TNT]]",
+      "name": "Gazprom Media",
       "isFree": true
     },
     {
-      "name": "Telekanal Zvezda]]",
+      "name": "RT",
       "isFree": true
     },
     {
-      "name": "MIR]]",
+      "name": "RTD",
       "isFree": true
     },
     {
-      "name": "Gazprom-Media",
+      "name": "Petersburg – Channel 5",
       "isFree": true
     },
     {
-      "name": "RT]] (in English, International)",
+      "name": "CTC",
       "isFree": true
     },
     {
-      "name": "RTD]] (in English)",
+      "name": "TV3 Russia",
       "isFree": true
     },
     {
-      "name": "3ABN Russia]]",
+      "name": "RBC",
       "isFree": true
     },
     {
-      "name": "Petersburg – Channel 5]]",
+      "name": "Gulli Girl",
       "isFree": true
     },
     {
-      "name": "CTC TV]]",
+      "name": "Tiji Russia",
       "isFree": true
     },
     {
-      "name": "TV3 Russia]]",
+      "name": "BRIDGE",
       "isFree": true
     },
     {
-      "name": "RBC TV]]",
+      "name": "Viju TV1000",
       "isFree": true
     },
     {
-      "name": "Gulli Girl]]",
+      "name": "Viju TV1000 Action",
       "isFree": true
     },
     {
-      "name": "Tiji Russia]]",
+      "name": "Viju History",
       "isFree": true
     },
     {
-      "name": "BRIDGE TV]] (music channel)",
+      "name": "Viju Explore",
       "isFree": true
     },
     {
-      "name": "Viju TV1000]]",
+      "name": "Ru",
       "isFree": true
     },
     {
-      "name": "Viju TV1000 Action]]",
+      "name": "O2TV",
       "isFree": true
     },
     {
-      "name": "Viju History]]",
+      "name": "A One",
       "isFree": true
     },
     {
-      "name": "Viju Explore]]",
-      "isFree": true
-    },
-    {
-      "name": "Ru.TV]]",
-      "isFree": true
-    },
-    {
-      "name": "O2TV]]",
-      "isFree": true
-    },
-    {
-      "name": "A-One]]",
-      "isFree": true
-    },
-    {
-      "name": "RTVi]]",
-      "isFree": true
-    },
-    {
-      "name": "[[Current Time TV",
+      "name": "RTVi",
       "isFree": true
     },
     {
@@ -2982,15 +2137,7 @@
       "isFree": true
     },
     {
-      "name": "Блокбастер RU",
-      "isFree": true
-    },
-    {
       "name": "VIP Serial RU",
-      "isFree": true
-    },
-    {
-      "name": "Сериал UHD RU",
       "isFree": true
     },
     {
@@ -3018,46 +2165,6 @@
       "isFree": true
     },
     {
-      "name": "Камеди RU",
-      "isFree": true
-    },
-    {
-      "name": "Мосфильм RU",
-      "isFree": true
-    },
-    {
-      "name": "Наш Кинопоказ RU",
-      "isFree": true
-    },
-    {
-      "name": "Наше мужское RU",
-      "isFree": true
-    },
-    {
-      "name": "Остросюжетное RU",
-      "isFree": true
-    },
-    {
-      "name": "Романтичное RU",
-      "isFree": true
-    },
-    {
-      "name": "Шокирующее RU",
-      "isFree": true
-    },
-    {
-      "name": "Про любовь RU",
-      "isFree": true
-    },
-    {
-      "name": "Хит RU",
-      "isFree": true
-    },
-    {
-      "name": "Капитан Фантастика RU",
-      "isFree": true
-    },
-    {
       "name": "AIVA RU",
       "isFree": true
     },
@@ -3070,35 +2177,7 @@
       "isFree": true
     },
     {
-      "name": "Комедийное RU",
-      "isFree": true
-    },
-    {
-      "name": "Смайлик ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Премиальное RU",
-      "isFree": true
-    },
-    {
-      "name": "День Победы RU",
-      "isFree": true
-    },
-    {
       "name": "Okko Sport RU",
-      "isFree": true
-    },
-    {
-      "name": "Наше ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Чижик RU",
-      "isFree": true
-    },
-    {
-      "name": "СуперГерои RU",
       "isFree": true
     },
     {
@@ -3114,18 +2193,6 @@
       "isFree": true
     },
     {
-      "name": "Киноужас RU",
-      "isFree": true
-    },
-    {
-      "name": "Киносерия RU",
-      "isFree": true
-    },
-    {
-      "name": "Суббота! RU",
-      "isFree": true
-    },
-    {
       "name": "Hollywood RU",
       "isFree": true
     },
@@ -3134,23 +2201,7 @@
       "isFree": true
     },
     {
-      "name": "Победа RU",
-      "isFree": true
-    },
-    {
       "name": "СТС Kids RU",
-      "isFree": true
-    },
-    {
-      "name": "Уникум RU",
-      "isFree": true
-    },
-    {
-      "name": "Настоящее время RU",
-      "isFree": true
-    },
-    {
-      "name": "Совершенно секретно RU",
       "isFree": true
     },
     {
@@ -3170,7 +2221,7 @@
       "isFree": true
     },
     {
-      "name": "Sony Sci-Fi RU",
+      "name": "Sony Sci Fi RU",
       "isFree": true
     },
     {
@@ -3186,23 +2237,7 @@
       "isFree": true
     },
     {
-      "name": "Ля минор ТВ RU",
-      "isFree": true
-    },
-    {
       "name": "VH1 Europe RU",
-      "isFree": true
-    },
-    {
-      "name": "Культура RU",
-      "isFree": true
-    },
-    {
-      "name": "ТВ Центр RU",
-      "isFree": true
-    },
-    {
-      "name": "Шансон ТВ RU",
       "isFree": true
     },
     {
@@ -3214,34 +2249,6 @@
       "isFree": true
     },
     {
-      "name": "Дом кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Домашние животные RU",
-      "isFree": true
-    },
-    {
-      "name": "Ностальгия RU",
-      "isFree": true
-    },
-    {
-      "name": "Охота и рыбалка RU",
-      "isFree": true
-    },
-    {
-      "name": "365 дней ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Наше новое кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Сарафан RU",
-      "isFree": true
-    },
-    {
       "name": "Extreme sports RU",
       "isFree": true
     },
@@ -3250,31 +2257,7 @@
       "isFree": true
     },
     {
-      "name": "Авто Плюс RU",
-      "isFree": true
-    },
-    {
-      "name": "Кино ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Комедия ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Кинохит RU",
-      "isFree": true
-    },
-    {
-      "name": "Моя планета RU",
-      "isFree": true
-    },
-    {
       "name": "Mezzo Live RU",
-      "isFree": true
-    },
-    {
-      "name": "Наука RU",
       "isFree": true
     },
     {
@@ -3282,47 +2265,11 @@
       "isFree": true
     },
     {
-      "name": "8 Канал RU",
-      "isFree": true
-    },
-    {
       "name": "Че RU",
       "isFree": true
     },
     {
-      "name": "Телекафе RU",
-      "isFree": true
-    },
-    {
-      "name": "Мульт RU",
-      "isFree": true
-    },
-    {
-      "name": "НСТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Еврокино RU",
-      "isFree": true
-    },
-    {
       "name": "Fashion TV RU",
-      "isFree": true
-    },
-    {
-      "name": "Мир сериала RU",
-      "isFree": true
-    },
-    {
-      "name": "Время RU",
-      "isFree": true
-    },
-    {
-      "name": "БОКС ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Музыка Первого RU",
       "isFree": true
     },
     {
@@ -3334,10 +2281,6 @@
       "isFree": true
     },
     {
-      "name": "Лёва RU",
-      "isFree": true
-    },
-    {
       "name": "О! RU",
       "isFree": true
     },
@@ -3346,51 +2289,7 @@
       "isFree": true
     },
     {
-      "name": "Феникс плюс Кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Киносат RU",
-      "isFree": true
-    },
-    {
-      "name": "Тайна RU",
-      "isFree": true
-    },
-    {
-      "name": "Рыжий RU",
-      "isFree": true
-    },
-    {
       "name": "DocuBox RU",
-      "isFree": true
-    },
-    {
-      "name": "Тайны Галактики RU",
-      "isFree": true
-    },
-    {
-      "name": "Первый Космический RU",
-      "isFree": true
-    },
-    {
-      "name": "Наша Тема RU",
-      "isFree": true
-    },
-    {
-      "name": "Мир Вокруг RU",
-      "isFree": true
-    },
-    {
-      "name": "Глазами Туриста RU",
-      "isFree": true
-    },
-    {
-      "name": "Евроновости RU",
-      "isFree": true
-    },
-    {
-      "name": "360 Новости RU",
       "isFree": true
     },
     {
@@ -3410,91 +2309,7 @@
       "isFree": true
     },
     {
-      "name": "Вопросы и ответы RU",
-      "isFree": true
-    },
-    {
-      "name": "Театр RU",
-      "isFree": true
-    },
-    {
-      "name": "Большая Азия RU",
-      "isFree": true
-    },
-    {
-      "name": "Живая природа RU",
-      "isFree": true
-    },
-    {
-      "name": "Калейдоскоп ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Наша Сибирь RU",
-      "isFree": true
-    },
-    {
-      "name": "Новый Мир RU",
-      "isFree": true
-    },
-    {
-      "name": "Открытый мир RU",
-      "isFree": true
-    },
-    {
-      "name": "Приключения RU",
-      "isFree": true
-    },
-    {
-      "name": "Телепутешествия RU",
-      "isFree": true
-    },
-    {
-      "name": "Загородный RU",
-      "isFree": true
-    },
-    {
-      "name": "Тномер RU",
-      "isFree": true
-    },
-    {
-      "name": "В мире животных RU",
-      "isFree": true
-    },
-    {
-      "name": "Пёс и Ко RU",
-      "isFree": true
-    },
-    {
-      "name": "Зоопарк RU",
-      "isFree": true
-    },
-    {
-      "name": "Первый Вегетарианский RU",
-      "isFree": true
-    },
-    {
-      "name": "Тонус RU",
-      "isFree": true
-    },
-    {
-      "name": "Дайвинг TV RU",
-      "isFree": true
-    },
-    {
       "name": "DTX RU",
-      "isFree": true
-    },
-    {
-      "name": "Оружие RU",
-      "isFree": true
-    },
-    {
-      "name": "Дикая рыбалка RU",
-      "isFree": true
-    },
-    {
-      "name": "Дикая охота RU",
       "isFree": true
     },
     {
@@ -3510,18 +2325,6 @@
       "isFree": true
     },
     {
-      "name": "Бьюти TV RU",
-      "isFree": true
-    },
-    {
-      "name": "Вкусное TV RU",
-      "isFree": true
-    },
-    {
-      "name": "ЕДА Премиум RU",
-      "isFree": true
-    },
-    {
       "name": "Bridge TV Шлягер RU",
       "isFree": true
     },
@@ -3530,15 +2333,7 @@
       "isFree": true
     },
     {
-      "name": "Восток ТВ RU",
-      "isFree": true
-    },
-    {
       "name": "TraceUrban RU",
-      "isFree": true
-    },
-    {
-      "name": "Наше крутое RU",
       "isFree": true
     },
     {
@@ -3586,23 +2381,7 @@
       "isFree": true
     },
     {
-      "name": "Загородная Жизнь RU",
-      "isFree": true
-    },
-    {
-      "name": "Бобер ТВ RU",
-      "isFree": true
-    },
-    {
       "name": "FightBox RU",
-      "isFree": true
-    },
-    {
-      "name": "Теледом RU",
-      "isFree": true
-    },
-    {
-      "name": "Морской RU",
       "isFree": true
     },
     {
@@ -3610,19 +2389,7 @@
       "isFree": true
     },
     {
-      "name": "РТР Россия Планета RU",
-      "isFree": true
-    },
-    {
       "name": "ТНТ International RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Планета RU",
-      "isFree": true
-    },
-    {
-      "name": "RT Д Русский RU",
       "isFree": true
     },
     {
@@ -3634,75 +2401,7 @@
       "isFree": true
     },
     {
-      "name": "Душевное RU",
-      "isFree": true
-    },
-    {
-      "name": "Неизвестная Планета RU",
-      "isFree": true
-    },
-    {
-      "name": "О2ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Охотник и рыболов RU",
-      "isFree": true
-    },
-    {
-      "name": "Техно 24 RU",
-      "isFree": true
-    },
-    {
       "name": "Russian Musicbox RU",
-      "isFree": true
-    },
-    {
-      "name": "Зоо ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Кинопоказ RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Арена RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Премьер RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Страна RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Боец RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Игра RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Футбол 1 RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Футбол 2 RU",
-      "isFree": true
-    },
-    {
-      "name": "Матч! Футбол 3 RU",
-      "isFree": true
-    },
-    {
-      "name": "Детский мир RU",
       "isFree": true
     },
     {
@@ -3711,10 +2410,6 @@
     },
     {
       "name": "Mama RU",
-      "isFree": true
-    },
-    {
-      "name": "Домашний RU",
       "isFree": true
     },
     {
@@ -3742,14 +2437,6 @@
       "isFree": true
     },
     {
-      "name": "Русский бестселлер RU",
-      "isFree": true
-    },
-    {
-      "name": "Русский роман RU",
-      "isFree": true
-    },
-    {
       "name": "СТС Love RU",
       "isFree": true
     },
@@ -3758,27 +2445,7 @@
       "isFree": true
     },
     {
-      "name": "Конный мир RU",
-      "isFree": true
-    },
-    {
-      "name": "Мужское кино RU",
-      "isFree": true
-    },
-    {
-      "name": "История RU",
-      "isFree": true
-    },
-    {
-      "name": "Кухня ТВ RU",
-      "isFree": true
-    },
-    {
       "name": "MCM TOP RU",
-      "isFree": true
-    },
-    {
-      "name": "Кто есть кто RU",
       "isFree": true
     },
     {
@@ -3786,95 +2453,7 @@
       "isFree": true
     },
     {
-      "name": "Русский детектив RU",
-      "isFree": true
-    },
-    {
-      "name": "Русская ночь RU",
-      "isFree": true
-    },
-    {
-      "name": "Ювелирочка RU",
-      "isFree": true
-    },
-    {
-      "name": "НТВ Хит RU",
-      "isFree": true
-    },
-    {
-      "name": "Авто 24 RU",
-      "isFree": true
-    },
-    {
-      "name": "Пятница RU",
-      "isFree": true
-    },
-    {
-      "name": "НТВ Сериал RU",
-      "isFree": true
-    },
-    {
-      "name": "НТВ Право RU",
-      "isFree": true
-    },
-    {
-      "name": "НТВ Стиль RU",
-      "isFree": true
-    },
-    {
-      "name": "Жара RU",
-      "isFree": true
-    },
-    {
-      "name": "Кинокомедия RU",
-      "isFree": true
-    },
-    {
       "name": "Amedia Hit RU",
-      "isFree": true
-    },
-    {
-      "name": "Родное Кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Индийское Кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Доктор RU",
-      "isFree": true
-    },
-    {
-      "name": "Любимое кино RU",
-      "isFree": true
-    },
-    {
-      "name": "Иллюзион+ RU",
-      "isFree": true
-    },
-    {
-      "name": "Дом кино Премиум RU",
-      "isFree": true
-    },
-    {
-      "name": "Кинопремьера RU",
-      "isFree": true
-    },
-    {
-      "name": "Киносвидание RU",
-      "isFree": true
-    },
-    {
-      "name": "Известия RU",
-      "isFree": true
-    },
-    {
-      "name": "Старт RU",
-      "isFree": true
-    },
-    {
-      "name": "Мужской RU",
       "isFree": true
     },
     {
@@ -3882,23 +2461,7 @@
       "isFree": true
     },
     {
-      "name": "Нано RU",
-      "isFree": true
-    },
-    {
-      "name": "Живая планета RU",
-      "isFree": true
-    },
-    {
       "name": "RTVi RU",
-      "isFree": true
-    },
-    {
-      "name": "Ретро RU",
-      "isFree": true
-    },
-    {
-      "name": "Мультимания RU",
       "isFree": true
     },
     {
@@ -3911,30 +2474,6 @@
     },
     {
       "name": "English Club RU",
-      "isFree": true
-    },
-    {
-      "name": "Телеканал КХЛ RU",
-      "isFree": true
-    },
-    {
-      "name": "Психология 21 RU",
-      "isFree": true
-    },
-    {
-      "name": "Футбол ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Русский экстрим RU",
-      "isFree": true
-    },
-    {
-      "name": "Пятый канал RU",
-      "isFree": true
-    },
-    {
-      "name": "ОТР RU",
       "isFree": true
     },
     {
@@ -3954,14 +2493,6 @@
       "isFree": true
     },
     {
-      "name": "Здоровое ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Драйв RU",
-      "isFree": true
-    },
-    {
       "name": "Bridge TV Hits RU",
       "isFree": true
     },
@@ -3970,47 +2501,7 @@
       "isFree": true
     },
     {
-      "name": "Усадьба RU",
-      "isFree": true
-    },
-    {
       "name": "Viasat Nature RU",
-      "isFree": true
-    },
-    {
-      "name": "Карусель RU",
-      "isFree": true
-    },
-    {
-      "name": "Киномикс RU",
-      "isFree": true
-    },
-    {
-      "name": "Киносемья RU",
-      "isFree": true
-    },
-    {
-      "name": "360° RU",
-      "isFree": true
-    },
-    {
-      "name": "Первый канал RU",
-      "isFree": true
-    },
-    {
-      "name": "Россия 1 RU",
-      "isFree": true
-    },
-    {
-      "name": "Россия 24 RU",
-      "isFree": true
-    },
-    {
-      "name": "Русский иллюзион RU",
-      "isFree": true
-    },
-    {
-      "name": "НТВ RU",
       "isFree": true
     },
     {
@@ -4018,47 +2509,7 @@
       "isFree": true
     },
     {
-      "name": "РЕН ТВ RU",
-      "isFree": true
-    },
-    {
-      "name": "Спас RU",
-      "isFree": true
-    },
-    {
-      "name": "СТС RU",
-      "isFree": true
-    },
-    {
-      "name": "ТВ 3 RU",
-      "isFree": true
-    },
-    {
-      "name": "Звезда RU",
-      "isFree": true
-    },
-    {
-      "name": "Мир RU",
-      "isFree": true
-    },
-    {
-      "name": "МИР 24 RU",
-      "isFree": true
-    },
-    {
-      "name": "ТНТ RU",
-      "isFree": true
-    },
-    {
-      "name": "ТНТ 4 RU",
-      "isFree": true
-    },
-    {
       "name": "ТНТ Music RU",
-      "isFree": true
-    },
-    {
-      "name": "Муз ТВ RU",
       "isFree": true
     },
     {
@@ -4067,14 +2518,6 @@
     },
     {
       "name": "Ю RU",
-      "isFree": true
-    },
-    {
-      "name": "2х2 RU",
-      "isFree": true
-    },
-    {
-      "name": "РБК ТВ RU",
       "isFree": true
     },
     {
@@ -4106,23 +2549,11 @@
       "isFree": true
     },
     {
-      "name": "TV1000 Русское кино RU",
-      "isFree": true
-    },
-    {
       "name": "TV1000 Action RU",
       "isFree": true
     },
     {
       "name": "Travel + Adventure RU",
-      "isFree": true
-    },
-    {
-      "name": "Москва 24 RU",
-      "isFree": true
-    },
-    {
-      "name": "КВН ТВ RU",
       "isFree": true
     },
     {
@@ -4154,42 +2585,6 @@
       "isFree": true
     },
     {
-      "name": "В гостях у сказки RU",
-      "isFree": true
-    },
-    {
-      "name": "Мультиландия RU",
-      "isFree": true
-    },
-    {
-      "name": "Мультимузыка RU",
-      "isFree": true
-    },
-    {
-      "name": "Радость моя RU",
-      "isFree": true
-    },
-    {
-      "name": "Моя Стихия RU",
-      "isFree": true
-    },
-    {
-      "name": "Поехали! RU",
-      "isFree": true
-    },
-    {
-      "name": "Живи! RU",
-      "isFree": true
-    },
-    {
-      "name": "Дикий RU",
-      "isFree": true
-    },
-    {
-      "name": "Диалоги о рыбалке RU",
-      "isFree": true
-    },
-    {
       "name": "Bridge Deluxe RU",
       "isFree": true
     },
@@ -4198,50 +2593,31 @@
       "isFree": true
     },
     {
-      "name": "Мир Баскетбола RU",
-      "isFree": true
+      "name": "RT",
+      "isFree": true,
+      "keywords": "rt -arabic -doc -documentary -documentary russian -en espanol",
+      "website": "https://www.rt.com",
+      "priority": 10
+    },
+    {
+      "name": "RTG",
+      "isFree": true,
+      "website": "http://www.rtgtv.ru/channels/rtgtv"
     }
   ],
   "News": [
     {
-      "name": "360° Новости",
-      "isFree": true
-    },
-    {
       "name": "Atameken Business",
-      "isFree": true,
-      "shortName": "AB"
+      "isFree": true
     },
     {
-      "name": "Euronews по-русски",
+      "name": "Euronews по русски",
       "isFree": true,
-      "logo": "https://go4.pw/germany/eurns.png",
       "priority": 9
-    },
-    {
-      "name": "Евроновости",
-      "isFree": true
-    },
-    {
-      "name": "Известия",
-      "isFree": true
-    },
-    {
-      "name": "Мир 24",
-      "isFree": true
-    },
-    {
-      "name": "РБК",
-      "isFree": true
-    },
-    {
-      "name": "Россия 24",
-      "isFree": true
     },
     {
       "name": "360° News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://360tv.ru/"
     },
     {
@@ -4255,14 +2631,13 @@
       "website": "https://crimea24tv.ru/"
     },
     {
-      "name": "Dimgrad 24 TV",
+      "name": "Dimgrad 24",
       "isFree": true,
       "website": "https://dimgrad24.ru/tv"
     },
     {
       "name": "Don 24",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
       "website": "https://don24.ru/tv/"
     },
     {
@@ -4273,13 +2648,11 @@
     {
       "name": "Govorit Moskva",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/_Moskva 24.png",
       "website": "https://govoritmoskva.ru/"
     },
     {
       "name": "Izvestia",
       "isFree": true,
-      "logo": "https://hh.ru/employer-logo/2417062.png",
       "website": "https://iz.ru/"
     },
     {
@@ -4288,7 +2661,7 @@
       "website": "https://katun24.ru/"
     },
     {
-      "name": "Krik-TV",
+      "name": "Krik",
       "isFree": true,
       "website": "http://www.ricekb.ru/"
     },
@@ -4305,36 +2678,31 @@
     {
       "name": "Life",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://life.ru/"
     },
     {
-      "name": "Mezhdu.net",
+      "name": "Mezhdu",
       "isFree": true,
       "website": "https://mezhdu.net/"
     },
     {
       "name": "Millet",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/86f54b0205d97d4a3c5c323bfc8b40bf.png",
       "website": "http://www.trkmillet.ru/"
     },
     {
       "name": "Mir 24",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://mir24.tv/"
     },
     {
       "name": "NNTV",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523214531961721_28.jpg",
       "website": "https://nntv.tv/"
     },
     {
-      "name": "Novorossiya TV",
+      "name": "Novorossiya",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://novorossia-tv.ru/"
     },
     {
@@ -4343,25 +2711,22 @@
       "website": "https://noyabrsk24.ru/"
     },
     {
-      "name": "Oplot TV",
+      "name": "Oplot",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://oplottv.ru/"
     },
     {
       "name": "Pervyy Respublikanskiy",
       "isFree": true,
-      "logo": "https://i.imgur.com/7tFiG6S.jpg",
       "website": "https://republic-tv.ru/"
     },
     {
       "name": "Pro Business",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvrKGPls7MmTDkozfuNC33TfXwY.jpg",
       "website": "https://www.probusinesstv.ru/"
     },
     {
-      "name": "RBK-TV",
+      "name": "RBK",
       "isFree": true,
       "website": "https://tv.rbc.ru/"
     },
@@ -4375,24 +2740,21 @@
     {
       "name": "RT Arabic",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png",
       "website": "https://arabic.rt.com/"
     },
     {
       "name": "RT en Espanol",
       "isFree": true,
-      "logo": "https://i.imgur.com/aOaSv3i.png",
       "website": "https://actualidad.rt.com/"
     },
     {
-      "name": "Russia-24",
+      "name": "Russia 24",
       "isFree": true,
       "website": "http://vesti.ru/"
     },
     {
       "name": "STV 24",
       "isFree": true,
-      "logo": "https://go4.pw/UK/stvv.png",
       "website": "https://sevtrk.ru/projects/stv24/"
     },
     {
@@ -4403,25 +2765,17 @@
     {
       "name": "Vesti FM",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/24VESTI-1.png",
       "website": "https://vgtrk.ru/radiovesti"
     },
     {
-      "name": "World Business Channel",
+      "name": "World Business",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "http://www.wbc.com.ru/"
-    },
-    {
-      "name": "78",
-      "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
-      "website": "https://78.ru/"
     }
   ],
   "Kids": [
     {
-      "name": "Baby TV",
+      "name": "Baby",
       "isFree": true
     },
     {
@@ -4438,11 +2792,10 @@
     },
     {
       "name": "JimJam Россия",
-      "isFree": true,
-      "logo": "https://go4.pw/NIGERIA/JIMJAM.png"
+      "isFree": true
     },
     {
-      "name": "Kinder TV",
+      "name": "Kinder",
       "isFree": true
     },
     {
@@ -4451,40 +2804,14 @@
     },
     {
       "name": "Tiji Russia",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TIJIFHD.png"
+      "isFree": true
     },
     {
       "name": "Канал Disney",
-      "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
-    },
-    {
-      "name": "Карусель",
-      "isFree": true
-    },
-    {
-      "name": "Любимое.ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Мультиландия",
-      "isFree": true
-    },
-    {
-      "name": "О!",
       "isFree": true
     },
     {
       "name": "СТС Kids",
-      "isFree": true
-    },
-    {
-      "name": "Смайлик ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Тамыр",
       "isFree": true
     },
     {
@@ -4500,20 +2827,17 @@
     {
       "name": "Boomerang",
       "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png",
       "website": "http://www.boomerangtv.ru/"
     },
     {
       "name": "Carousel",
       "isFree": true,
       "keywords": "carousel -international",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oqqPncrRREzk5D63YUL9CLbqVf.jpg",
       "website": "https://www.karusel-tv.ru/"
     },
     {
       "name": "Carousel International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oqqPncrRREzk5D63YUL9CLbqVf.jpg",
       "website": "https://www.karusel-tv.ru/"
     },
     {
@@ -4524,13 +2848,11 @@
     {
       "name": "Detski mir",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://www.detskiymir.tv/"
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "https://kanal.disney.ru/",
       "priority": 10
     },
@@ -4542,19 +2864,16 @@
     {
       "name": "Joy Cook",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qN9YKcKbDsaS16t1mZh8J3IWMBT.jpg",
       "website": "https://hdmedia.ru/"
     },
     {
       "name": "Kapitan Fantastika",
       "isFree": true,
-      "logo": "https://i.ibb.co/VKjztQj/dark-9999-png-oxoooooooo-256x256.png",
       "website": "http://kapitanfan.ru/"
     },
     {
-      "name": "Karapuz TV",
+      "name": "Karapuz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://karapuztv.ru/"
     },
     {
@@ -4563,7 +2882,7 @@
       "website": "http://leva.tv/"
     },
     {
-      "name": "Lyubimoe.TV",
+      "name": "Lyubimoe",
       "isFree": true,
       "website": "https://www.planeta-online.tv/channels/6/live.html"
     },
@@ -4576,7 +2895,6 @@
       "name": "Mult",
       "isFree": true,
       "keywords": "mult -i muzyka",
-      "logo": "https://i.imgur.com/xi351Fx.png",
       "website": "http://mult-channel.ru/"
     },
     {
@@ -4592,13 +2910,11 @@
     {
       "name": "Multimania",
       "isFree": true,
-      "logo": "https://i.imgur.com/J9Lwc0T.png",
       "website": "http://www.multimania.lv"
     },
     {
       "name": "Mult i muzyka",
       "isFree": true,
-      "logo": "https://i.imgur.com/SYt6BZP.png",
       "website": "https://mult-music.tlum.ru/"
     },
     {
@@ -4607,7 +2923,7 @@
       "website": "https://nickelodeon.ru/"
     },
     {
-      "name": "Nick Jr.",
+      "name": "Nick Jr",
       "isFree": true,
       "website": "https://jr.nickelodeon.ru/"
     },
@@ -4615,13 +2931,11 @@
       "name": "Nicktoons",
       "isFree": true,
       "keywords": "nicktoons -cis",
-      "logo": "https://i.postimg.cc/mZjCjNc5/nicktoons.png",
       "website": "http://www.nickelodeon.ru/"
     },
     {
       "name": "Nicktoons CIS",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/04/04/large/20240404170350457530_44.png",
       "website": "http://www.nickelodeon.ru/"
     },
     {
@@ -4645,14 +2959,12 @@
       "website": "https://skazki-zayki.com/"
     },
     {
-      "name": "SKY HIGH ADULT HD",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "SKY HIGH ADULT",
+      "isFree": true
     },
     {
-      "name": "Smile TV",
+      "name": "Smile",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
       "website": "https://smile-tv.org/"
     },
     {
@@ -4683,7 +2995,6 @@
     {
       "name": "Terra Inkognita",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAcPYIsYwFqAyY7KctWkkdkJGhI.jpg",
       "website": "https://hdmedia.ru/"
     },
     {
@@ -4737,7 +3048,6 @@
     {
       "name": "Home Shopping Russia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
       "website": "https://hsr24.ru/"
     },
     {
@@ -4756,7 +3066,7 @@
       "website": "https://tvmagnat.tv/pryamoy-efir/"
     },
     {
-      "name": "Shop24",
+      "name": "Shop 24",
       "isFree": true,
       "website": "https://shop24.com/"
     },
@@ -4766,27 +3076,23 @@
       "website": "https://shopandshow.ru/"
     },
     {
-      "name": "Supermarket TV",
+      "name": "Supermarket",
       "isFree": true,
-      "logo": "https://d1bypo3ryheeya.cloudfront.net/SMS_LG_LOGO_800X200.png",
       "website": "http://www.smarket-tv.ru/"
     },
     {
-      "name": "Top Shop TV",
+      "name": "Top Shop",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.top-shop.ru/"
     },
     {
       "name": "Torre Ricca",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Jb6IXZZ5Q3z3mZK0xbYwjPsid.jpg",
       "website": "https://torrericca.ru/"
     },
     {
       "name": "TV Mall",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvmall.ru/"
     },
     {
@@ -4795,7 +3101,7 @@
       "website": "https://www.vashtelemagazin.ru/"
     },
     {
-      "name": "Vitrina TV",
+      "name": "Vitrina",
       "isFree": true,
       "website": "https://vitrinatv.ru/"
     },
@@ -4807,8 +3113,7 @@
     },
     {
       "name": "Yuvelirochka Moda",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg"
+      "isFree": true
     },
     {
       "name": "Yuvelir Treyd",
@@ -4820,224 +3125,17 @@
     {
       "name": "RTG",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164557683738_64.png"
-    },
-    {
-      "name": "ТВТУР",
-      "isFree": true
-    },
-    {
-      "name": "Телепутешествия",
-      "isFree": true
+      "website": "http://www.rtgtv.ru/channels/rtgtv"
     }
   ],
   "Local": [
     {
-      "name": "SGDF24.RU",
-      "isFree": true,
-      "logo": "https://i.imgur.com/73XseJs.png",
-      "priority": 4
-    },
-    {
-      "name": "TV Губерния",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "priority": 4
-    },
-    {
-      "name": "Univer TV",
+      "name": "SGDF 24",
       "isFree": true,
       "priority": 4
     },
     {
-      "name": "Архыз 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Астрахань 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Афонтово",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Башкортостан 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Белгород 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Ветта 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Вечерняя Москва",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Волгоград 1",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Губерния 33",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Евразия",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Липецкое время",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Луч",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "МТВ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Между.Net",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Мир Белагорья",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Мордовия 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Москва 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "НТМ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Ноябрьск 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ОТВ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ОТС",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Регион 29",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Россия 1",
-      "isFree": true,
-      "keywords": "россия 1 -+6 -hd",
-      "priority": 10
-    },
-    {
-      "name": "Русский Север",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "С1",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Север",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Солнечногорское ТВ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Сургут 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ТВ Кварц",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "ТВР24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Татарстан24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Телеканал 86",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Тольятти 24",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Щёлковское ТВ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Эхо TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "priority": 4
-    },
-    {
-      "name": "ЮТВ",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Югра",
-      "isFree": true,
-      "priority": 4
-    },
-    {
-      "name": "Юрган",
+      "name": "Univer",
       "isFree": true,
       "priority": 4
     }
@@ -5045,64 +3143,36 @@
   "Comedy": [
     {
       "name": "ViP Comedy Russia",
-      "isFree": true,
-      "shortName": "VCR",
-      "logo": "https://go4.pw/germany/vip-events.png"
-    },
-    {
-      "name": "Кинокомедия",
-      "isFree": true
-    },
-    {
-      "name": "Комедия",
       "isFree": true
     }
   ],
   "Sports": [
     {
-      "name": "Астрахань.Ru Sport",
-      "isFree": false,
-      "shortName": "АS",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg"
-    },
-    {
-      "name": "Дайвинг.TV",
-      "isFree": false
-    },
-    {
-      "name": "Охотник и Рыболов",
-      "isFree": false
-    },
-    {
       "name": "Охотник и рыболов International",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+      "isFree": false
     },
     {
-      "name": "Astrahan.Ru Sport",
+      "name": "Astrahan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://sport.astrakhan.ru/"
     },
     {
-      "name": "Boks TV",
+      "name": "Boks",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/BOKS TV.png",
       "website": "http://boxingtv.ru/"
     },
     {
-      "name": "E TV",
+      "name": "E",
       "isFree": true,
       "website": "http://etv-media.ru/"
     },
     {
       "name": "Eurosport Gold",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://gold.eurosport.ru/"
     },
     {
-      "name": "Extreme Sports Channel",
+      "name": "Extreme Sports",
       "isFree": true,
       "website": "https://www.extreme.com/ru/"
     },
@@ -5141,7 +3211,6 @@
       "name": "Match!",
       "isFree": true,
       "keywords": "match! -arena -boets -futbol 1 -futbol 2 -futbol 3 -igra -planeta -premier -strana",
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://matchtv.ru/channel/matchtv"
     },
     {
@@ -5155,85 +3224,73 @@
       "website": "https://matchtv.ru/channel/boec"
     },
     {
-      "name": "Match! Futbol 1",
+      "name": "Match! Futbol",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/futbol.png",
       "website": "https://matchtv.ru/channel/futbol-1"
     },
     {
       "name": "Match! Futbol 2",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/futbol.png",
       "website": "https://matchtv.ru/channel/futbol-2"
     },
     {
       "name": "Match! Futbol 3",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/futbol.png",
       "website": "https://matchtv.ru/channel/futbol-3"
     },
     {
       "name": "Match! Igra",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/MATCh! Igra .png",
       "website": "https://matchtv.ru/channel/igra"
     },
     {
       "name": "Match! Planeta",
       "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png",
       "website": "https://matchtv.ru/"
     },
     {
       "name": "Match! Premier",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "https://matchpremier.ru/"
     },
     {
       "name": "Match! Strana",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/Match! Strana.png",
       "website": "https://matchtv.ru/channel/strana"
     },
     {
       "name": "Mir Basketbola",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "https://ntvplus.ru/channel/mir-basketbola-486"
     },
     {
-      "name": "MMA-TV.com",
+      "name": "MMA",
       "isFree": true,
       "website": "https://www.mma-tv.com/"
     },
     {
-      "name": "Motorsport.TV",
+      "name": "Motorsport",
       "isFree": true,
-      "logo": "https://i.imgur.com/qmczb2N.png",
       "website": "https://ru.motorsport.tv/"
     },
     {
       "name": "Russian Extreme",
       "isFree": true,
       "keywords": "russian extreme -retro -ultra",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58j2eRQ1W9NnKuETQBXg22O0jIL.jpg",
       "website": "https://www.extremtv.ru/"
     },
     {
       "name": "Russian Extreme Retro",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58j2eRQ1W9NnKuETQBXg22O0jIL.jpg",
       "website": "https://www.extremtv.ru/"
     },
     {
       "name": "Russian Extreme Ultra",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58j2eRQ1W9NnKuETQBXg22O0jIL.jpg",
       "website": "https://www.extremtv.ru/russian-extreme-ultra/"
     },
     {
-      "name": "Setanta Sports 1",
+      "name": "Setanta Sports",
       "isFree": true,
       "website": "https://www.setantaeurasia.com/ru/"
     },
@@ -5256,13 +3313,11 @@
       "name": "Start",
       "isFree": true,
       "keywords": "start -triumf",
-      "logo": "https://go4.pw/AMERICA/USA/STARZ.png",
       "website": "https://tvstart.ru/"
     },
     {
       "name": "Start Triumf",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/STARZ.png"
+      "isFree": true
     },
     {
       "name": "viju+ Sport",
@@ -5272,7 +3327,6 @@
     {
       "name": "Vital Basketball",
       "isFree": true,
-      "logo": "https://i.imgur.com/E67CY0d.png",
       "website": "https://vslive.pw/"
     },
     {
@@ -5293,43 +3347,20 @@
     {
       "name": "Vital Snooker",
       "isFree": true,
-      "logo": "https://i.imgur.com/E67CY0d.png",
       "website": "https://vslive.pw/"
     },
     {
       "name": "Vital Sport",
       "isFree": true,
-      "logo": "https://i.imgur.com/2Kinxqb.png",
       "website": "https://vslive.pw/"
     },
     {
       "name": "Vital Tennis",
       "isFree": true,
-      "logo": "https://i.imgur.com/RoCOuhJ.png",
       "website": "https://vslive.pw/"
     }
   ],
   "Religious": [
-    {
-      "name": "Каббала ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Надежда",
-      "isFree": true
-    },
-    {
-      "name": "Небеса ТВ7",
-      "isFree": true
-    },
-    {
-      "name": "СПАС",
-      "isFree": true
-    },
-    {
-      "name": "Союз",
-      "isFree": true
-    },
     {
       "name": "3ABN Russia",
       "isFree": true,
@@ -5338,29 +3369,25 @@
     {
       "name": "CNL Siberia",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/fa09241cec2c9d0673f90b8e6cfb9d4e.png",
       "website": "https://cnl.tv/"
     },
     {
       "name": "Hope Channel Russia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopetv.ru/"
     },
     {
-      "name": "Huzur TV",
+      "name": "Huzur",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://huzurtv.ru/"
     },
     {
-      "name": "Kabbala TV",
+      "name": "Kabbala",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://kab.tv/rus"
     },
     {
-      "name": "Selenga-TV",
+      "name": "Selenga",
       "isFree": true,
       "website": "http://selengatv.ru/"
     },
@@ -5375,23 +3402,20 @@
       "website": "http://spastv.ru/"
     },
     {
-      "name": "Tsargrad TV",
+      "name": "Tsargrad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tsargrad.tv/"
     },
     {
       "name": "Vera 24",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzmqruEqR3Q1cwLF6AhaocoC5jt.jpg",
       "website": "https://vera24.tv/"
     }
   ],
   "Education & Culture": [
     {
-      "name": ".sci-fi Russia",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/vip.png"
+      "name": ".sci fi Russia",
+      "isFree": true
     },
     {
       "name": "HDL",
@@ -5401,8 +3425,6 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild russia",
-      "shortName": "NG",
-      "logo": "http://epg.one/img2/102.png",
       "priority": 10
     },
     {
@@ -5412,62 +3434,34 @@
     },
     {
       "name": "RT Documentary Russian",
-      "isFree": true,
-      "shortName": "RDR",
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png"
+      "isFree": true
     },
     {
       "name": "Viasat History Russia",
-      "isFree": true,
-      "shortName": "VHR",
-      "logo": "https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png"
-    },
-    {
-      "name": "Культура",
       "isFree": true
     },
     {
-      "name": "ЛитКлуб ТВ Проза",
-      "isFree": true
-    },
-    {
-      "name": "ЛитКлуб ТВ Слово",
-      "isFree": true
-    },
-    {
-      "name": "ЛитКлуб ТВ Стихи",
-      "isFree": true
-    },
-    {
-      "name": "Россия К",
-      "isFree": true
-    },
-    {
-      "name": "365 days TV",
+      "name": "365 days",
       "isFree": true,
       "website": "https://www.365days.ru/"
     },
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "https://www.animalplanet.com/"
     },
     {
       "name": "Arsenal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg",
       "website": "https://arsenal-tv.tv/"
     },
     {
       "name": "Balet Opera",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg"
+      "isFree": true
     },
     {
       "name": "City Eden KinoDok",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
@@ -5483,37 +3477,32 @@
     {
       "name": "Doctor",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
       "website": "https://doc-tv.ru/"
     },
     {
-      "name": "EGE TV",
+      "name": "EGE",
       "isFree": true,
       "website": "https://www.ege-tv.ru/"
     },
     {
       "name": "English Class",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "http://english-club.tv/ru/"
     },
     {
       "name": "History",
       "isFree": true,
       "keywords": "history -2",
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://www.mediabg.ru/history-channel"
     },
     {
       "name": "History 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png",
       "website": "https://mediabg.tilda.ws/history-2-channel"
     },
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "http://www.investigationdiscovery.com/"
     },
     {
@@ -5529,23 +3518,12 @@
     {
       "name": "Kto est kto",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/kto.png",
       "website": "http://www.kto-is-kto.ru/"
     },
     {
-      "name": "Litklub.TV Proza",
+      "name": "Litklub",
       "isFree": true,
       "website": "https://litclub.tv/air/?c=proza"
-    },
-    {
-      "name": "Litklub.TV Slovo",
-      "isFree": true,
-      "website": "https://litclub.tv/air/?c=slovo"
-    },
-    {
-      "name": "Litklub.TV Stihi",
-      "isFree": true,
-      "website": "https://litclub.tv/air/?c=stihi"
     },
     {
       "name": "Mamont",
@@ -5571,30 +3549,26 @@
       "name": "National Geographic Wild",
       "isFree": true,
       "keywords": "national geographic wild -russia",
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/ru/wild",
       "priority": 9
     },
     {
       "name": "Nauka",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/NAUKA 2.0.png",
       "website": "https://naukatv.ru/"
     },
     {
       "name": "NTV Mir",
       "isFree": true,
       "keywords": "ntv mir -baltic",
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "http://www.ntvmir.ntv.ru/"
     },
     {
-      "name": "Planeta HD",
-      "isFree": true,
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png"
+      "name": "Planeta",
+      "isFree": true
     },
     {
-      "name": "Russia-K",
+      "name": "Russia K",
       "isFree": true,
       "website": "http://smotrim.ru/pick/kultura"
     },
@@ -5636,11 +3610,10 @@
     {
       "name": "viju+ Planet",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://viju.ru/telekanaly/vijuplus-planet/"
     },
     {
-      "name": "Znanie.TV",
+      "name": "Znanie",
       "isFree": true,
       "website": "https://znanierussia.ru/"
     }
@@ -5652,11 +3625,11 @@
       "shortName": "1MT"
     },
     {
-      "name": "Bridge TV",
+      "name": "Bridge",
       "isFree": true
     },
     {
-      "name": "Eurodance 90 HD",
+      "name": "Eurodance 90",
       "isFree": true
     },
     {
@@ -5664,7 +3637,7 @@
       "isFree": true
     },
     {
-      "name": "Metal TV",
+      "name": "Metal",
       "isFree": true
     },
     {
@@ -5672,43 +3645,13 @@
       "isFree": true
     },
     {
-      "name": "Жар Птица",
-      "isFree": true
-    },
-    {
-      "name": "Матур ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Муз-ТВ",
-      "isFree": true
-    },
-    {
-      "name": "Музыка Первого",
-      "isFree": true
-    },
-    {
-      "name": "Новое радио",
-      "isFree": true
-    },
-    {
-      "name": "Радио Шансон",
-      "isFree": true
-    },
-    {
-      "name": "Шансон ТВ",
-      "isFree": true
-    },
-    {
       "name": "15+ Music",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://15plusmg.ru"
     },
     {
-      "name": "AIVA TV",
+      "name": "AIVA",
       "isFree": true,
-      "logo": "http://epg.one/img2/2837.png",
       "website": "https://aiva.live/"
     },
     {
@@ -5720,7 +3663,6 @@
       "name": "BRIDGE",
       "isFree": true,
       "keywords": "bridge -classic -deluxe -fresh -hits -rock -russian hit -schlager",
-      "logo": "https://i.imgur.com/qYObfrG.png",
       "website": "https://bridgetv.ru/show-player/"
     },
     {
@@ -5731,66 +3673,55 @@
     {
       "name": "BRIDGE Fresh",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
       "website": "https://bridgetv.ru/brands/bridge_fresh/"
     },
     {
       "name": "BRIDGE Hits",
       "isFree": true,
-      "logo": "http://epg.one/img2/2024.png",
       "website": "https://bridgetv.ru/brands/bridgetv_dance/"
     },
     {
       "name": "BRIDGE Rock",
-      "isFree": true,
-      "logo": "http://epg.one/img2/6188.png"
+      "isFree": true
     },
     {
       "name": "BRIDGE Russian Hit",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
       "website": "https://bridgetv.ru/brands/rusongtv/"
     },
     {
       "name": "BRIDGE Schlager",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
       "website": "https://bridgetv.ru/brands/bridgetv_sh/"
     },
     {
       "name": "Bridge TV Qazaqstan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
       "website": "https://bridgetv.ru/brands/bridgekz"
     },
     {
       "name": "City Eden Birma Play",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden Classic Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden Meditation Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden Play",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
-      "name": "City Eden Sirtaki TV",
+      "name": "City Eden Sirtaki",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
@@ -5798,12 +3729,12 @@
       "isFree": true
     },
     {
-      "name": "DanceHits80",
+      "name": "DanceHits 80",
       "isFree": true,
       "website": "http://denvs.ru"
     },
     {
-      "name": "Europa Plus TV",
+      "name": "Europa Plus",
       "isFree": true,
       "website": "https://europaplustv.com/"
     },
@@ -5818,15 +3749,13 @@
       "website": "http://hittv.ru"
     },
     {
-      "name": "La-Minor TV",
+      "name": "La Minor",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mymusictv.ru/"
     },
     {
-      "name": "Live Music Channel",
+      "name": "Live Music",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://livemus.omnimedia.su/"
     },
     {
@@ -5835,15 +3764,13 @@
       "website": "https://maidan.tv/"
     },
     {
-      "name": "Matur TV",
+      "name": "Matur",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://matur-tv.ru/"
     },
     {
       "name": "MCM Top",
       "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/497.png",
       "website": "https://universaltv.ru/channel/MCM-TOP"
     },
     {
@@ -5859,45 +3786,33 @@
     {
       "name": "Muz Soyuz",
       "isFree": true,
-      "logo": "http://epg.one/img2/9147.png",
       "website": "https://muz.tv-soyuz.ru/"
     },
     {
-      "name": "Muz-TV",
+      "name": "Muz",
       "isFree": true,
       "website": "https://muz-tv.ru/"
     },
     {
-      "name": "Muzyka 1",
-      "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_poland.png"
+      "name": "Muzyka",
+      "isFree": true
     },
     {
       "name": "Muzyka 2",
-      "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_poland.png"
+      "isFree": true
     },
     {
       "name": "Muzyka Kino",
-      "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_poland.png"
+      "isFree": true
     },
     {
       "name": "Muzyka Pervogo",
       "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_poland.png",
       "website": "https://www.muz1.tv/"
-    },
-    {
-      "name": "Nashe TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
-      "website": "https://www.nashe.ru/video"
     },
     {
       "name": "Novoe Radio",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
       "website": "https://newradio.ru/"
     },
     {
@@ -5908,41 +3823,35 @@
     {
       "name": "Radio Hit",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "http://smotri.radio/"
     },
     {
       "name": "Radio Shanson",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
-      "name": "Ritsa TV",
+      "name": "Ritsa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ritsatv.ru/movie/id900777-ritsa-tv"
     },
     {
       "name": "Russian MusicBox",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58j2eRQ1W9NnKuETQBXg22O0jIL.jpg",
       "website": "https://musicboxtv.ru/"
     },
     {
-      "name": "RU.TV",
+      "name": "RU",
       "isFree": true,
       "website": "https://ru.tv/"
     },
     {
-      "name": "Shanson TV",
+      "name": "Shanson",
       "isFree": true,
-      "logo": "http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png",
       "website": "https://shanson.tv/"
     },
     {
       "name": "Shant Music",
-      "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/SHANT.png"
+      "isFree": true
     },
     {
       "name": "SONGTV Russia",
@@ -5952,7 +3861,6 @@
     {
       "name": "Strana FM",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/Match! Strana.png",
       "website": "https://strana.fm/"
     },
     {
@@ -5966,62 +3874,53 @@
       "website": "https://tntmusic.ru/"
     },
     {
-      "name": "VH1",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
+      "name": "VH",
+      "isFree": true
     },
     {
       "name": "Zhara",
       "isFree": true,
       "keywords": "zhara -kids tv",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zhara.tv/"
     },
     {
-      "name": "Zhara Kids TV",
+      "name": "Zhara Kids",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "https://zhara.tv/kids"
     },
     {
       "name": "Zhar Ptitsa",
       "isFree": true,
       "website": "http://www.zhar-ptica.tv/"
+    },
+    {
+      "name": "Nashe",
+      "isFree": true,
+      "keywords": "nashe -krutoe -lubimoe kino -muzhskoe -novoe kino",
+      "website": "https://www.tricolor.tv/channels/nashe/"
     }
   ],
   "Movies & Series": [
     {
-      "name": "43 канал",
+      "name": "A",
       "isFree": false
     },
     {
-      "name": "A1",
-      "isFree": false,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
-    },
-    {
-      "name": "A2",
+      "name": "A 2",
       "isFree": false
     },
     {
       "name": "Amedia Hit",
-      "isFree": false,
-      "logo": "http://epg.one/img2/2007.png"
+      "isFree": false
     },
     {
-      "name": "Backus TV",
+      "name": "Backus",
       "isFree": false,
       "keywords": "backus tv -страшное"
     },
     {
       "name": "Backus TV Страшное",
-      "isFree": false,
-      "shortName": "BT"
-    },
-    {
-      "name": "Bollywood HD",
-      "isFree": false,
-      "logo": "http://epg.one/img2/1395.png"
+      "isFree": false
     },
     {
       "name": "Cinema",
@@ -6029,103 +3928,38 @@
     },
     {
       "name": "Fox Life Russia",
-      "isFree": false,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
-    },
-    {
-      "name": "Fox Russia",
-      "isFree": false,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
-    },
-    {
-      "name": "Millenium TV",
       "isFree": false
     },
     {
-      "name": "Shot TV",
+      "name": "Fox Russia",
+      "isFree": false
+    },
+    {
+      "name": "Millenium",
+      "isFree": false
+    },
+    {
+      "name": "Shot",
       "isFree": false
     },
     {
       "name": "TV1000 Action Russia",
-      "isFree": false,
-      "shortName": "TAR",
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/TV1000PYCCKPE-HD.png"
+      "isFree": false
     },
     {
       "name": "TV1000 Russia",
-      "isFree": false,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/TV1000PYCCKPE-HD.png"
-    },
-    {
-      "name": "TV1000 Русское кино",
       "isFree": false
     },
     {
       "name": "VIP Megahit Russia",
-      "isFree": false,
-      "shortName": "VMR",
-      "logo": "https://go4.pw/germany/vip-events.png"
+      "isFree": false
     },
     {
       "name": "VIP Serial Russia",
-      "isFree": false,
-      "shortName": "VSR",
-      "logo": "https://go4.pw/germany/vip-events.png"
-    },
-    {
-      "name": "Дом Кино Премиум",
       "isFree": false
     },
     {
-      "name": "Дом кино",
-      "isFree": false
-    },
-    {
-      "name": "Дорама",
-      "isFree": false
-    },
-    {
-      "name": "Киномикс",
-      "isFree": false
-    },
-    {
-      "name": "Кинопремьера",
-      "isFree": false
-    },
-    {
-      "name": "Киносвидание",
-      "isFree": false
-    },
-    {
-      "name": "Киносемья",
-      "isFree": false
-    },
-    {
-      "name": "Кинохит",
-      "isFree": false
-    },
-    {
-      "name": "Классика Кино",
-      "isFree": false
-    },
-    {
-      "name": "Мир сериала",
-      "isFree": false
-    },
-    {
-      "name": "Премьера",
-      "isFree": false
-    },
-    {
-      "name": "СТРК",
-      "isFree": false
-    },
-    {
-      "name": "Феникс Кино",
-      "isFree": false
-    },
-    {
-      "name": "Akudji TV",
+      "name": "Akudji",
       "isFree": true,
       "website": "http://akudji.ru/"
     },
@@ -6136,8 +3970,7 @@
     },
     {
       "name": "AXN Sci Fi",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": true
     },
     {
       "name": "BackusTV Dark",
@@ -6157,108 +3990,91 @@
     {
       "name": "Bollywood",
       "isFree": true,
-      "keywords": "bollywood -hd"
+      "keywords": "bollywood"
     },
     {
       "name": "Bolt",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527020635900072_12.png",
       "website": "http://bolt.starmediatv.ru/"
     },
     {
       "name": "BRIDGE Classic",
       "isFree": true,
-      "logo": "https://i.imgur.com/JJTQq81.png",
       "website": "https://bridgetv.ru/brands/bridgetv_classic/"
     },
     {
       "name": "Channel 43",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://sochinskayatrk.ru/ru/menu-part-43kanal"
     },
     {
       "name": "City Eden KinoAction",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoArt",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoAsia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoDetektiv",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoDrama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoFantastika",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoKlassika",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoKomediya",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoMistika",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden KinoSemya",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "City Eden TeleNovella",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
       "website": "https://www.cityeden.info/"
     },
     {
       "name": "Detskoe kino",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+      "isFree": true
     },
     {
       "name": "Dom kino",
       "isFree": true,
       "keywords": "dom kino -premium",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
       "website": "http://www.domkino.tv/"
     },
     {
       "name": "Dom kino Premium",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
       "website": "https://www.domkino-premium.tv/"
     },
     {
@@ -6290,7 +4106,6 @@
     {
       "name": "Hit",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44pBplHzdLZoLiBYOFyUql3Ak1S.jpg",
       "website": "https://www.tricolor.tv/channels/khit/"
     },
     {
@@ -6301,7 +4116,6 @@
     {
       "name": "Horoshee Kino",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "http://www.xokino.tv/"
     },
     {
@@ -6312,7 +4126,6 @@
     {
       "name": "Indiyskoye Kino",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://www.nastroykino.ru/indijskoe-kino/"
     },
     {
@@ -6336,22 +4149,19 @@
       "website": "http://kineko.tv/"
     },
     {
-      "name": "Kino 1",
+      "name": "Kino",
       "isFree": true,
-      "keywords": "kino 1 -international",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+      "keywords": "kino 1 -international"
     },
     {
       "name": "Kino 18+",
       "isFree": null,
       "keywords": "kino 18+ -international",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://catcast.tv/tvikseltv_kino18"
     },
     {
       "name": "Kino 18+ International",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://catcast.tv/%D0%BA%D0%B8%D0%BD%D0%BE-18international"
     },
     {
@@ -6360,8 +4170,7 @@
     },
     {
       "name": "Kino 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+      "isFree": true
     },
     {
       "name": "Kino 24",
@@ -6371,11 +4180,10 @@
     {
       "name": "KinoHit",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/kinohit.png",
       "website": "https://www.nastroykino.ru/kinohit/"
     },
     {
-      "name": "KinoJam 1",
+      "name": "KinoJam",
       "isFree": true
     },
     {
@@ -6419,7 +4227,6 @@
     {
       "name": "Kinoseriya",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/KINOSERIYA HD.png",
       "website": "https://www.nastroykino.ru/kinoserija/"
     },
     {
@@ -6433,15 +4240,13 @@
       "website": "https://www.nastroykino.ru/kinosvidanie/"
     },
     {
-      "name": "Kino TV",
+      "name": "Kino",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/09/19/20140919015135923329_94.jpg",
       "website": "https://kinotoday.ru/"
     },
     {
       "name": "Kino UHD",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://www.tricolor.tv/channels/kino-uhd/"
     },
     {
@@ -6450,7 +4255,7 @@
       "website": "https://www.nastroykino.ru/kinouzhas/"
     },
     {
-      "name": "Kinozal 1",
+      "name": "Kinozal",
       "isFree": true,
       "website": "https://www.tricolor.tv/channelpackages/servisy/kinozaly/"
     },
@@ -6512,36 +4317,30 @@
     {
       "name": "KION HIT",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/CBS.png",
       "website": "https://kion.ru/tv/channel/587863173"
     },
     {
       "name": "Lyubimoe",
       "isFree": true,
       "keywords": "lyubimoe -indijskoe kino",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://www.tricolor.tv/channels/lyubimoe/"
     },
     {
       "name": "Lyubimoe Indijskoe Kino",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg"
+      "isFree": true
     },
     {
       "name": "Malder Megahit",
-      "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/TV1000MEGAHIT.png"
+      "isFree": true
     },
     {
       "name": "Mir Seriala",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/RTV_MIR.png",
       "website": "http://mediamart.ru/channels/serials.html"
     },
     {
       "name": "Mosfilm Gold Collection",
       "isFree": true,
-      "logo": "https://i.imgur.com/95Y8jb6.png",
       "website": "https://mosfilmgold.ru/"
     },
     {
@@ -6552,55 +4351,46 @@
     {
       "name": "Muzhskoe kino",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://www.nastroykino.ru/muzhskoe-kino/"
     },
     {
       "name": "Muzhskoy",
       "isFree": true,
-      "logo": "https://i.imgur.com/xyztpBf.png",
       "website": "https://www.mans-tv.ru/"
     },
     {
       "name": "Nashe",
       "isFree": true,
-      "keywords": "nashe -krutoe -lubimoe kino -muzhskoe -novoe kino -tv",
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
+      "keywords": "nashe -krutoe -lubimoe kino -muzhskoe -novoe kino",
       "website": "https://www.tricolor.tv/channels/nashe/"
     },
     {
       "name": "Nashe krutoe",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png"
+      "isFree": true
     },
     {
       "name": "Nashe Lubimoe Kino",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
       "website": "https://www.rtvi.com/"
     },
     {
       "name": "Nashe muzhskoe",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
       "website": "https://www.tricolor.tv/channels/nashe-muzhskoe/"
     },
     {
       "name": "Nashe Novoe Kino",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/RUSSIAN/NASHENOVOE-KINO.png",
       "website": "https://www.nastroykino.ru/nashe-novoe-kino/"
     },
     {
       "name": "Nash Kinopokaz",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
       "website": "https://www.tricolor.tv/channels/nash-kinopokaz/"
     },
     {
       "name": "Nash Kinoroman",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg"
+      "isFree": true
     },
     {
       "name": "Nostalgia",
@@ -6613,14 +4403,13 @@
       "website": "https://15plusmg.ru"
     },
     {
-      "name": "NTV-Hit",
+      "name": "NTV Hit",
       "isFree": true,
       "website": "https://www.ntv.ru/air/ntvhit/"
     },
     {
       "name": "NTV Series",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/NTV.png",
       "website": "https://www.ntv.ru/air/ntvseries/"
     },
     {
@@ -6636,13 +4425,11 @@
     {
       "name": "Paramount Channel CIS",
       "isFree": true,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
       "website": "http://paramountchannel.ru/"
     },
     {
       "name": "Patriot",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yToAJg67r3hk3Ux3sfXOdpiqxU.jpg",
       "website": "https://patriotkanal.ru/"
     },
     {
@@ -6663,31 +4450,26 @@
     {
       "name": "Quadro",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://quadro.tv/"
     },
     {
       "name": "Retro",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://tv-stream.ru/tv/retro"
     },
     {
       "name": "Rodnoe Kino",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/RODNOE KINO.png",
       "website": "https://www.nastroykino.ru/rodnoe-kino/"
     },
     {
       "name": "Russkiy Bestseller",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/RUSSKIYEKSTRIM-HD.png",
       "website": "https://bestrussia.tv/"
     },
     {
       "name": "Russkiy Detektiv",
       "isFree": true,
-      "logo": "https://i.imgur.com/H3qhN8S.png",
       "website": "https://rudetective.tv/"
     },
     {
@@ -6696,15 +4478,8 @@
       "website": "http://russkiyillusion.ru/"
     },
     {
-      "name": "Russkiy Illusion. International version",
-      "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/RUSSKIYEKSTRIM-HD.png",
-      "website": "https://tv-stream.ru/"
-    },
-    {
       "name": "Russkiy roman",
       "isFree": true,
-      "logo": "https://i.imgur.com/cQN0P2B.png",
       "website": "https://rusroman.ru/"
     },
     {
@@ -6715,13 +4490,11 @@
     {
       "name": "Serial UHD",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWS0jFdCbrqvv7tzdyPO5FzFIFN.jpg",
       "website": "https://www.tricolor.tv/channels/serial-uhd/"
     },
     {
       "name": "Shant Serial",
       "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/SHANT.png",
       "website": "https://www.shanttv.com/ru/serials.html"
     },
     {
@@ -6732,24 +4505,20 @@
     {
       "name": "Siesta",
       "isFree": true,
-      "logo": "https://images.pluto.tv/channels/61c096a7decece0007e998c6/colorLogoPNG.png",
       "website": "http://siestatv.ru/"
     },
     {
       "name": "Smotrim Chestnyy Detektiv",
-      "isFree": true,
-      "logo": "https://go4.pw/germany/skygo.png"
+      "isFree": true
     },
     {
       "name": "Sovetskoe Kino",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://hdmedia.ru/about-channels/sovetskoe-kino/"
     },
     {
       "name": "Spike",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c34c4a2d73e3df1f0d849473acd5ceb3.png",
       "website": "http://www.spike.ru/"
     },
     {
@@ -6779,7 +4548,6 @@
     {
       "name": "Teleclub",
       "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/teleclub.png",
       "website": "http://mediamart.ru/channels/teleclub.html"
     },
     {
@@ -6790,19 +4558,11 @@
     {
       "name": "True Love",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
       "website": "https://kion.ru/tv/channel/705121002"
-    },
-    {
-      "name": "TV1000",
-      "isFree": true,
-      "keywords": "tv1000 -action russia -russia -русское кино",
-      "website": "http://www.myviasat.ru/channels/films/foreign_tv1000_movie"
     },
     {
       "name": "TV4 Russkoe Kino",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/TV4.png",
       "website": "https://tv4.one"
     },
     {
@@ -6811,13 +4571,12 @@
       "website": "https://www.tricolor.tv/channels/ultra-hd-cinema/"
     },
     {
-      "name": "VHS-ka",
+      "name": "VHS ka",
       "isFree": true
     },
     {
-      "name": "VHS TV",
+      "name": "VHS",
       "isFree": true,
-      "logo": "https://i.imgur.com/BHCwWBf.png",
       "website": "https://vk.com/vhs_tv_live"
     },
     {
@@ -6828,13 +4587,11 @@
     {
       "name": "viju+ Premiere",
       "isFree": true,
-      "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png",
       "website": "https://viju.ru/telekanaly/vijuplus-premiere/"
     },
     {
       "name": "viju+ Serial",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWS0jFdCbrqvv7tzdyPO5FzFIFN.jpg",
       "website": "https://viju.ru/telekanaly/vijuplus-serial/"
     },
     {
@@ -6859,11 +4616,5 @@
       "website": "https://tvlider.net/"
     }
   ],
-  "Radios": [
-    {
-      "name": "Страна FM",
-      "isFree": true,
-      "priority": 4
-    }
-  ]
+  "Radios": []
 }

@@ -6,151 +6,122 @@
       "priority": 9
     },
     {
-      "name": "Red Bull TV",
+      "name": "Red Bull",
       "isFree": false
     },
     {
-      "name": "Swamiji TV",
+      "name": "Swamiji",
       "isFree": false
     },
     {
-      "name": "FUEL TV",
+      "name": "FUEL",
       "isFree": true,
-      "logo": "https://i.imgur.com/I8mviBy.png",
       "website": "https://fuel.tv/"
     },
     {
-      "name": "Ischgl TV",
+      "name": "Ischgl",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ischgl.com/"
     },
     {
-      "name": "K19",
+      "name": "LAOLA",
       "isFree": true,
-      "logo": "https://i.imgur.com/l4atkvs.png",
-      "website": "https://k19.at/"
-    },
-    {
-      "name": "LAOLA1 TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.laola1.at/de/"
     },
     {
-      "name": "Paragliding TV",
+      "name": "Paragliding",
       "isFree": true,
-      "logo": "https://i.imgur.com/6LxXto4.png",
       "website": "https://www.paragliding.tv/"
     },
     {
       "name": "Sky Sport Austria",
       "isFree": true,
       "keywords": "sky sport austria -1 -2 -3 -4 -5 -6 -7 -8",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.at/"
     },
     {
-      "name": "Sky Sport Austria 1",
+      "name": "Sky Sport Austria",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
       "name": "Sky Sport Austria 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skysportaustria.at/"
     },
     {
-      "name": "The Cycling Channel",
+      "name": "The Cycling",
       "isFree": true,
-      "logo": "https://i.imgur.com/nYAFRKX.png",
       "website": "https://www.streemfire.com/thecyclingchannel"
     }
   ],
   "Music Videos": [
     {
       "name": "Antenne Vorarlberg",
-      "isFree": true,
-      "shortName": "AV",
-      "logo": "https://go4.pw/AFRICA/ANTEM.png"
+      "isFree": true
     },
     {
       "name": "Kronehit",
-      "isFree": true,
-      "logo": "https://i.imgur.com/dQJQv1X.png"
+      "isFree": true
     },
     {
       "name": "Antenne Kaernten",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ANTEM.png",
       "website": "https://kaernten.antenne.at/"
     },
     {
       "name": "Antenne Steiermark",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ANTEM.png",
       "website": "https://steiermark.antenne.at/"
     },
     {
       "name": "GoTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/11V0QSp.png",
       "website": "http://www.gotv.at/"
     },
     {
-      "name": "Hitradio O3",
+      "name": "Hitradio O 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png",
       "website": "http://oe3.orf.at/"
     },
     {
-      "name": "Jugoton TV",
+      "name": "Jugoton",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/JUGOTON-1.png",
       "website": "https://cmc.com.hr/category/jugotontv/"
     },
     {
       "name": "Melodie Express",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Melodie.png",
       "website": "https://www.melodie-express.tv/"
     },
     {
-      "name": "Melodie TV",
+      "name": "Melodie",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Melodie.png",
       "website": "http://www.melodie.tv/"
     },
     {
@@ -162,14 +133,11 @@
   "Entertainment": [
     {
       "name": "Der Serienkanal - AT",
-      "isFree": true,
-      "shortName": "DSA",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg"
+      "isFree": true
     },
     {
-      "name": "Dorf TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6027014f0f90463b5116e3e4e714159e.png"
+      "name": "Dorf",
+      "isFree": true
     },
     {
       "name": "Drama - AT",
@@ -177,8 +145,7 @@
     },
     {
       "name": "FS1 Salzburg",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2017/07/26/large/20170726141021687969_23.png"
+      "isFree": true
     },
     {
       "name": "Family - AT",
@@ -186,123 +153,87 @@
     },
     {
       "name": "K-TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ccbae46dbdc7c18de35a5cc3cb36e81a.png"
+      "isFree": true
     },
     {
       "name": "Krone.TV",
       "isFree": true
     },
     {
-      "name": "Ländle Tv",
-      "isFree": true,
-      "logo": "https://i.imgur.com/omLVQ4r.png"
+      "name": "Ländle",
+      "isFree": true
     },
     {
-      "name": "M4",
-      "isFree": true,
-      "logo": "https://go4.pw/HUNGARIAN/_M4.png"
+      "name": "M 4",
+      "isFree": true
     },
     {
       "name": "M4TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/HZohlNk.png"
+      "isFree": true
     },
     {
-      "name": "ORF 1",
+      "name": "ORF",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174414227466_49.png",
       "priority": 10
     },
     {
       "name": "ORF 2",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "priority": 9
     },
     {
       "name": "ORF 3",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174603753925_39.png",
       "priority": 9
     },
     {
-      "name": "Okto TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1112e7e58d8532fd4ef8f65b7be2a6c5.png"
-    },
-    {
       "name": "P3tv",
-      "isFree": true,
-      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg"
-    },
-    {
-      "name": "Premium Channel",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg"
-    },
-    {
-      "name": "R9",
-      "isFree": true,
-      "keywords": "r9 -tv",
-      "logo": "https://i.imgur.com/SVJiXxh.png"
-    },
-    {
-      "name": "R9 TV",
       "isFree": true
     },
     {
-      "name": "RTV",
+      "name": "Premium",
+      "isFree": false
+    },
+    {
+      "name": "R 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/c8wAvxC.png"
+      "keywords": "r9"
+    },
+    {
+      "name": "RTV",
+      "isFree": true
     },
     {
       "name": "SchauTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e1c99cbbc8f3d87d63a0c81c9ff24beb.png"
+      "isFree": true
     },
     {
       "name": "Spotlight - AT",
       "isFree": true
     },
     {
-      "name": "Teins TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/e2ba5d34f48e66419e4d84679bc7aa3a.png"
+      "name": "Teins",
+      "isFree": true
     },
     {
-      "name": "Tirol TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/wm47EEx.png"
+      "name": "Tirol",
+      "isFree": true
     },
     {
-      "name": "UPPERA Community TV",
-      "isFree": true,
-      "shortName": "UCT",
-      "logo": "https://i.imgur.com/eqcmi5G.png"
+      "name": "UPPERA Community",
+      "isFree": true
     },
     {
       "name": "Uppera Balkan",
       "isFree": true
     },
     {
-      "name": "W24",
-      "isFree": true,
-      "keywords": "w24 -tv"
-    },
-    {
-      "name": "W24 TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/99ff172da3935001d9a5e7dcbb60b41e.png"
-    },
-    {
-      "name": "oe24 TV",
+      "name": "oe 24",
       "isFree": true
     },
     {
-      "name": "Abimago TV",
+      "name": "Abimago",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.abimagotv.com/"
     },
     {
@@ -314,21 +245,18 @@
       "name": "ATV",
       "isFree": true,
       "keywords": "atv -aichfeld",
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://www.atv.at/",
       "priority": 8
     },
     {
-      "name": "ATV2",
+      "name": "ATV 2",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/atv2.png",
       "website": "https://www.atv2.at/",
       "priority": 8
     },
     {
       "name": "ATV Aichfeld",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/PERU/ATV.png",
       "website": "https://www.aitv.at/",
       "priority": 8
     },
@@ -340,13 +268,11 @@
     {
       "name": "BTV Karnten",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/BANGLA/Bangladesh.png",
       "website": "https://www.btvon.at/"
     },
     {
       "name": "Canal+ First",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoKdvhqVw45oEF34No2cD7aP3sx.jpg"
+      "isFree": true
     },
     {
       "name": "Comedy Central",
@@ -354,49 +280,42 @@
       "website": "http://www.comedycentral.tv/"
     },
     {
-      "name": "donau Kanal TV",
+      "name": "donau Kanal",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://www.donaukanal.tv/"
     },
     {
-      "name": "Dreischwestern TV",
+      "name": "Dreischwestern",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ewerke.at/3s-tv/"
     },
     {
-      "name": "Ennstal TV",
+      "name": "Ennstal",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ennstal.tv/"
     },
     {
-      "name": "Gemeinde TV",
+      "name": "Gemeinde",
       "isFree": true,
-      "logo": "https://i.imgur.com/wm47EEx.png",
       "website": "https://www.gemeindetv.at/"
     },
     {
-      "name": "HiWay TV",
+      "name": "HiWay",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfbLn9vXcqzrE8iCGBHFc8xXqhN.jpg",
       "website": "http://www.hiway-tv.at/"
     },
     {
       "name": "HT 1 Innviertel",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/TURKEY/BLOOMBERG.png",
       "website": "https://www.ht1.at/"
     },
     {
       "name": "kabel eins Austria",
       "isFree": true,
-      "logo": "https://go4.pw/germany/KABEL.png",
       "website": "http://www.kabeleins.at/"
     },
     {
-      "name": "Kanal3",
+      "name": "Kanal 3",
       "isFree": true,
       "website": "https://www.kanal3.tv/"
     },
@@ -411,37 +330,33 @@
       "website": "https://www.kitz-tv.at/"
     },
     {
-      "name": "KT1",
+      "name": "KT",
       "isFree": true,
       "website": "https://www.kt1.at/"
     },
     {
-      "name": "Landeck TV",
+      "name": "Landeck",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.landeck.tv/"
     },
     {
-      "name": "Landle TV",
+      "name": "Landle",
       "isFree": true,
-      "logo": "https://i.imgur.com/omLVQ4r.png",
       "website": "https://www.laendletv.com/"
     },
     {
-      "name": "Linz-Land TV",
+      "name": "Linz-Land",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.linzland.tv/"
     },
     {
-      "name": "LT1",
+      "name": "LT",
       "isFree": true,
       "website": "https://www.lt1.at/"
     },
     {
-      "name": "Magenta HD",
+      "name": "Magenta",
       "isFree": true,
-      "logo": "https://go4.pw/germany/MAGENTA.png",
       "website": "https://tv.magenta.at/"
     },
     {
@@ -451,9 +366,8 @@
       "priority": 8
     },
     {
-      "name": "Muhlviertel TV",
+      "name": "Muhlviertel",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.muehlviertel.tv/"
     },
     {
@@ -474,107 +388,91 @@
     {
       "name": "Okto",
       "isFree": true,
-      "keywords": "okto -tv",
-      "logo": "https://go4.pw/AUSTRIA/akto.png",
+      "keywords": "okto",
       "website": "http://okto.tv/"
     },
     {
       "name": "ORF 2 Burgenland",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://burgenland.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Karnten",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://kaernten.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 NO",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "https://noe.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Oberosterreich",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "https://ooe.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Salzburg",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://salzburg.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Steiermark",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://steiermark.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Tirol",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://tirol.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Vorarlberg",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://vorarlberg.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF 2 Wien",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://wien.orf.at/",
       "priority": 9
     },
     {
       "name": "OTV",
       "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
       "website": "https://otv.at/"
     },
     {
       "name": "ProSieben Austria",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "http://www.prosieben.at/"
     },
     {
       "name": "ProSieben Maxx Austria",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/Prosieben_AUSTRIA.png",
       "website": "https://www.prosiebenmaxx.at/"
     },
     {
       "name": "PTV Vienna",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PTV4.png",
       "website": "https://ptv-vienna.at/"
     },
     {
       "name": "Puls 24",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.puls4.com/Puls24"
     },
     {
       "name": "Puls 4",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.puls4.com/",
       "priority": 9
     },
@@ -586,81 +484,68 @@
     {
       "name": "Regional TV Salzburg",
       "isFree": true,
-      "logo": "https://go4.pw/USA/FloSport.png",
       "website": "https://www.rts-salzburg.at/live/",
       "priority": 4
     },
     {
       "name": "SAT.1 Austria",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/austria.png",
       "website": "https://www.sat1.at/"
     },
     {
       "name": "SAT.1 Gold Austria",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
       "website": "https://www.sat1gold.at/"
     },
     {
-      "name": "Schladming-Dachstein TV",
+      "name": "Schladming-Dachstein",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.schladming-dachstein.at/de/Regionales-und-Angebote/Schladming-Dachstein-TV"
     },
     {
       "name": "sixx Austria",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/sixx.png",
       "website": "http://www.sixx.at/"
     },
     {
       "name": "Sky Sport Austria 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "http://sky.de/"
     },
     {
-      "name": "Steiermark TV",
+      "name": "Steiermark",
       "isFree": true,
-      "logo": "https://i.imgur.com/qnappvd.jpeg",
       "website": "https://www.steiermark-tv.at/"
     },
     {
-      "name": "Stimmungsgarten TV",
+      "name": "Stimmungsgarten",
       "isFree": true,
-      "logo": "https://i.postimg.cc/FHqh4Rz4/stimmungsgartentv.png",
       "website": "https://www.stimmungsgarten.tv/livestream"
     },
     {
       "name": "STV1 Regionalfernsehen",
       "isFree": true,
-      "logo": "https://i.imgur.com/Y4fzv1Y.png",
       "website": "https://www.stv1.at/",
       "priority": 4
     },
     {
       "name": "Swamiji TV American",
       "isFree": true,
-      "logo": "https://i.imgur.com/nrLcuzs.png",
       "website": "https://swamiji.tv/"
     },
     {
       "name": "Swamiji TV Australian",
       "isFree": true,
-      "logo": "https://i.imgur.com/nrLcuzs.png",
       "website": "https://swamiji.tv/"
     },
     {
       "name": "Swamiji TV European",
       "isFree": true,
-      "logo": "https://i.imgur.com/nrLcuzs.png",
       "website": "https://swamiji.tv/"
     },
     {
       "name": "TELE 5 Austria",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://www.tele5.de/"
     },
     {
@@ -671,13 +556,11 @@
     {
       "name": "TV 1 Oberosterreich",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tv1.nachrichten.at/"
     },
     {
-      "name": "Viyana TV",
+      "name": "Viyana",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://viyanatv.com/canli-izle"
     },
     {
@@ -688,7 +571,6 @@
     {
       "name": "Wachauer Fernsehen",
       "isFree": true,
-      "logo": "https://go4.pw/germany/38.png",
       "website": "https://www.wachauer-fernsehen.at/"
     },
     {
@@ -699,38 +581,34 @@
     {
       "name": "WNTV",
       "isFree": true,
-      "logo": "https://go4.pw/USA/pb.png",
       "website": "https://www.wntv.at/"
     },
     {
-      "name": "WT1",
+      "name": "WT",
       "isFree": true,
       "website": "https://www.wt1.at/"
     },
     {
-      "name": "Yu Planet TV",
+      "name": "Yu Planet",
       "isFree": true,
       "website": "https://yuplanet.at/"
     }
   ],
   "Radios": [
     {
-      "name": "Hitradio Ö3",
+      "name": "Hitradio Ö 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png",
       "priority": 4
     }
   ],
   "Movies & Series": [
     {
       "name": "Action Movies - AT",
-      "isFree": false,
-      "shortName": "AMA"
+      "isFree": false
     },
     {
       "name": "Comedy Movies - AT",
-      "isFree": false,
-      "shortName": "CMA"
+      "isFree": false
     },
     {
       "name": "ServusTV",
@@ -740,48 +618,41 @@
   ],
   "Education & Culture": [
     {
-      "name": "Arcadia World HD",
+      "name": "Arcadia World",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/ARCADIA WORLD FHD.png",
       "website": "https://at.arcadiatelevision.com/at/"
     },
     {
       "name": "GipsyTv Wien",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png",
       "website": "https://gipsytv.com/"
     },
     {
       "name": "kabel eins Doku Austria",
       "isFree": true,
-      "logo": "https://go4.pw/germany/KABEL.png",
       "website": "https://www.kabeleinsdoku.at/"
     },
     {
       "name": "N24 Doku Austria",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/N24.png"
+      "isFree": true
     },
     {
       "name": "ORF 2 Europe",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "https://tv.orf.at/",
       "priority": 9
     },
     {
       "name": "ORF III",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "http://tv.orf.at/",
       "priority": 8
     }
   ],
   "News": [
     {
-      "name": "eXXpress TV",
+      "name": "eXXpress",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://exxpress.at/"
     },
     {
@@ -790,9 +661,8 @@
       "website": "https://www.krone.at/"
     },
     {
-      "name": "Kurier TV",
+      "name": "Kurier",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://kurier.tv/"
     },
     {
@@ -812,13 +682,11 @@
     {
       "name": "Nickelodeon Austria",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nickelodeon.at/"
     },
     {
       "name": "ORF Kids",
       "isFree": true,
-      "logo": "https://go4.pw/AUSTRIA/orf1.png",
       "website": "https://kids.orf.at/",
       "priority": 9
     }

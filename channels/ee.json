@@ -5,9 +5,8 @@
       "isFree": true
     },
     {
-      "name": "Taevas TV7",
+      "name": "Taevas TV 7",
       "isFree": true,
-      "logo": "https://i.imgur.com/usXedIj.png",
       "website": "https://www.tv7.ee/"
     }
   ],
@@ -15,88 +14,71 @@
     {
       "name": "ETV",
       "isFree": true,
-      "keywords": "etv -2",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png"
+      "keywords": "etv -2"
     },
     {
       "name": "ETV 2",
       "isFree": true,
-      "keywords": "etv 2 | etv2",
-      "logo": "https://images.iptvmate.net/tvglogo/98121c89e5b8f29ed4e63d8b30931b1b.png"
+      "keywords": "etv 2 | etv2"
     },
     {
       "name": "ETV+",
       "isFree": true
     },
     {
-      "name": "Life TV",
+      "name": "Life",
       "isFree": true
     },
     {
       "name": "Riigikogu",
-      "isFree": true,
-      "logo": "https://i.imgur.com/7uWaZLF.png"
+      "isFree": true
     },
     {
       "name": "Taevas TV 7",
       "isFree": true
     },
     {
-      "name": "7D7",
+      "name": "Alo",
       "isFree": true,
-      "website": "https://7d7.tv/"
-    },
-    {
-      "name": "Alo TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.audiovideo.ee/"
     },
     {
       "name": "CTC Estonia",
       "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/CTC.png",
       "website": "http://ctci.tv/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "priority": 10
     },
     {
       "name": "Duo 3",
-      "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png"
+      "isFree": true
     },
     {
       "name": "Duo 4",
       "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png",
       "website": "https://kanal11.postimees.ee/"
     },
     {
       "name": "Duo 5",
       "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png",
       "website": "https://kanal12.postimees.ee/"
     },
     {
       "name": "Duo 6",
       "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png",
       "website": "https://www.duo6.ee/"
     },
     {
       "name": "Eesti Kanal",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://jupiter.err.ee/etv"
     },
     {
-      "name": "Entusiast TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Entusiast",
+      "isFree": true
     },
     {
       "name": "FX",
@@ -112,13 +94,11 @@
     {
       "name": "Inspira",
       "isFree": true,
-      "logo": "https://i.imgur.com/BF5orkg.png",
       "website": "https://www.telia.ee/en/era/tv/inspira/"
     },
     {
       "name": "Kanal 2",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "http://kanal2.postimees.ee/"
     },
     {
@@ -129,38 +109,32 @@
     {
       "name": "Kanal 7+",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://kanal7plus.ee/ru"
     },
     {
-      "name": "Orsent TV",
+      "name": "Orsent",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://orsent.eu/"
     },
     {
       "name": "PBK Estonia",
-      "isFree": true,
-      "logo": "https://i.imgur.com/JhrTB82.png"
+      "isFree": true
     },
     {
       "name": "REN TV Estonia",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0gJvc6Jidlw9Nk23Fm2BiuXzzo.jpg"
+      "isFree": true
     },
     {
       "name": "Smartzone",
-      "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/718.png"
+      "isFree": true
     },
     {
-      "name": "Tartu TV",
+      "name": "Tartu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tartutv.ee/"
     },
     {
-      "name": "TV3",
+      "name": "TV 3",
       "isFree": true,
       "keywords": "tv3 -life",
       "website": "https://tv3.ee/"
@@ -168,18 +142,16 @@
     {
       "name": "TV3 Life",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://www.tv3.ee/life/"
     },
     {
-      "name": "TV6",
+      "name": "TV 6",
       "isFree": true,
       "website": "http://tv6.tv3.ee/"
     },
     {
       "name": "TVN",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvmovies.png"
+      "isFree": true
     }
   ],
   "News": [
@@ -191,68 +163,58 @@
   ],
   "Music Videos": [
     {
-      "name": "Best of Dance TV",
+      "name": "Best of Dance",
       "isFree": true,
       "website": "https://www.dancetv.net/live"
     },
     {
       "name": "DanceTV Algorhythm",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/tech-house/"
     },
     {
       "name": "DanceTV Chill AF",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/downtempo"
     },
     {
       "name": "DanceTV Deep House District",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/deep-house/"
     },
     {
       "name": "DanceTV EDM Mainstage",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/edm/"
     },
     {
       "name": "DanceTV House Floor",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/house/"
     },
     {
       "name": "DanceTV Melodic Tech",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/melodic-tech"
     },
     {
       "name": "DanceTV Minimal Tech",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/minimal-tech"
     },
     {
       "name": "DanceTV Techno Warehouse",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
       "website": "https://www.dancetv.net/techno/"
     },
     {
       "name": "MyHits",
       "isFree": true,
-      "logo": "https://tvtm.one/images/chIcons/3721.png",
       "website": "https://myhits.pleier.ee/"
     },
     {
       "name": "Vantage Music",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://vantagetv.ee"
     }
   ],
@@ -260,7 +222,6 @@
     {
       "name": "Filmzone",
       "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/ATV FILMZONE.png",
       "website": "http://filmzonetv.eu/"
     },
     {
@@ -271,13 +232,11 @@
     {
       "name": "Go3 Films",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv"
     },
     {
       "name": "Kino 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://kino7.ee/ru"
     }
   ],
@@ -286,37 +245,31 @@
       "name": "Go3 Sport",
       "isFree": true,
       "keywords": "go3 sport -1 -2 -3 -4 -open",
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     },
     {
-      "name": "Go3 Sport 1",
+      "name": "Go3 Sport",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     },
     {
       "name": "Go3 Sport 2",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     },
     {
       "name": "Go3 Sport 3",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     },
     {
       "name": "Go3 Sport 4",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     },
     {
       "name": "Go3 Sport Open",
       "isFree": true,
-      "logo": "http://epg.one/img2/4821.png",
       "website": "https://go3.tv/"
     }
   ],
@@ -345,7 +298,6 @@
     {
       "name": "Pingviin",
       "isFree": true,
-      "logo": "https://i.imgur.com/b6xupqO.png",
       "website": "http://www.lolotv.lv/"
     },
     {

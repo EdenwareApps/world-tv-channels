@@ -1,40 +1,30 @@
 {
   "Entertainment": [
     {
-      "name": "Chau TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1d43d5aa080860b97ccc0cf72c09e659.png"
+      "name": "Chau",
+      "isFree": true
     },
     {
       "name": "TVNET",
-      "isFree": true,
-      "logo": "https://i.imgur.com/r4rlHUt.png"
-    },
-    {
-      "name": "1+2",
       "isFree": true
     },
     {
       "name": "360TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/CARIBBIEAN/61evHaSjitL.png"
+      "isFree": true
     },
     {
       "name": "8TV",
       "isFree": true,
-      "logo": "https://i.imgur.com/Jkx9W88.png",
       "website": "https://www.tet.lv/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "priority": 10
     },
     {
       "name": "Duo 6",
       "isFree": true,
-      "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png",
       "website": "https://duo6.lv/"
     },
     {
@@ -45,7 +35,6 @@
     {
       "name": "Kurzemes Televizija",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/BDC.png",
       "website": "https://kurzemestv.lv/"
     },
     {
@@ -54,52 +43,45 @@
       "website": "https://lrtv.lv/"
     },
     {
-      "name": "LTV1",
+      "name": "LTV",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/768px-LTV1_%282022%29.svg.png",
       "website": "https://replay.lsm.lv/lv/tiesraide/ltv1"
     },
     {
-      "name": "LTV7",
+      "name": "LTV 7",
       "isFree": true,
-      "logo": "http://epg.one/img2/3277.png",
       "website": "https://ltv.lsm.lv/lv/ltv7/"
     },
     {
       "name": "PBK Latvia",
       "isFree": true,
-      "logo": "https://i.imgur.com/J9Lwc0T.png",
       "website": "http://www.1tv.lv/"
     },
     {
       "name": "REN TV Baltic",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0gJvc6Jidlw9Nk23Fm2BiuXzzo.jpg"
+      "isFree": true
     },
     {
-      "name": "Re TV",
+      "name": "Re",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg",
       "website": "https://www.retv.lv/"
     },
     {
-      "name": "Sea TV",
+      "name": "Sea",
       "isFree": true,
       "website": "http://www.seatv.eu/"
     },
     {
       "name": "STV Pirma",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/stvv.png"
+      "isFree": true
     },
     {
-      "name": "TV24",
+      "name": "TV 24",
       "isFree": true,
-      "logo": "http://epg.one/img2/3375.png",
       "website": "https://tv24.lv/"
     },
     {
-      "name": "TV3",
+      "name": "TV 3",
       "isFree": true,
       "keywords": "tv3 -life -mini -plus",
       "website": "https://www.tv3.lv/tv3/"
@@ -107,7 +89,6 @@
     {
       "name": "TV3 Life",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://www.tv3.lv/tv3life/"
     },
     {
@@ -116,49 +97,43 @@
       "website": "https://www.tv3.lv/3plus/"
     },
     {
-      "name": "TV4",
+      "name": "TV 4",
       "isFree": true,
       "website": "https://www.cetri.lv/"
     },
     {
-      "name": "TV6",
+      "name": "TV 6",
       "isFree": true,
       "website": "https://www.tv3.lv/tv6/"
     },
     {
       "name": "TV9 Pakalni",
       "isFree": true,
-      "logo": "https://go4.pw/INDONESIA/TV9.png",
       "website": "https://tv9pakalni.lv/"
     },
     {
       "name": "TV Jurmala",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://jurmala.tv/tiesraide/"
     },
     {
       "name": "TV Kurzeme",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.liepajniekiem.lv/tv-kurzeme"
     },
     {
       "name": "TV Skrunda",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvskrunda.lv/"
     },
     {
       "name": "TV XXI",
       "isFree": true,
-      "logo": "https://i.imgur.com/Fja4bWt.png",
       "website": "http://www.tv21.lv/"
     },
     {
       "name": "Vidusdaugavas Televizija",
       "isFree": true,
-      "logo": "https://i.imgur.com/L5U3PQR.png",
       "website": "https://www.vdtv.lv"
     },
     {
@@ -167,30 +142,26 @@
       "website": "https://replay.lsm.lv/lv/tiesraide/visiem/sodienas-jautajums"
     },
     {
-      "name": "Zemgales TV",
+      "name": "Zemgales",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zemgalestv.lv/"
     }
   ],
   "Radios": [
     {
-      "name": "Latvijas Radio 1",
+      "name": "Latvijas Radio",
       "isFree": true,
-      "logo": "https://i.imgur.com/4npOpPj.png",
       "priority": 4
     },
     {
       "name": "Latvijas Radio 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/4npOpPj.png",
       "priority": 4
     },
     {
       "name": "Latvijas Radio 3 Klasika",
       "isFree": true,
       "shortName": "LR3K",
-      "logo": "https://i.imgur.com/4npOpPj.png",
       "priority": 4
     }
   ],
@@ -198,25 +169,21 @@
     {
       "name": "ATV",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://aliseplus.lv/ru/TV"
     },
     {
       "name": "Latvijas Slagerkanals",
       "isFree": true,
-      "logo": "https://i.imgur.com/4npOpPj.png",
       "website": "https://slageris.lv/"
     },
     {
       "name": "Muzikas Video Kanals",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg",
       "website": "https://muzikas-video.lv/"
     },
     {
-      "name": "Radio SWH TV",
+      "name": "Radio SWH",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://play.radioswh.lv/"
     }
   ],
@@ -226,9 +193,8 @@
       "isFree": true
     },
     {
-      "name": "Sportacentrs TV",
+      "name": "Sportacentrs",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sportacentrs.com/"
     }
   ],
@@ -236,14 +202,12 @@
     {
       "name": "EWTN Latvija",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/ewtn.png",
       "website": "https://ewtn.lv/",
       "priority": 8
     },
     {
-      "name": "Katolis TV",
+      "name": "Katolis",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://katolis.lv/"
     }
   ],
@@ -251,7 +215,6 @@
     {
       "name": "Kanal 7 Baltics",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png",
       "website": "https://kanal7.lv/ru"
     }
   ],
@@ -259,7 +222,6 @@
     {
       "name": "Movify Kino",
       "isFree": true,
-      "logo": "https://i.imgur.com/XIk5EJN.png",
       "website": "https://movify.tv/"
     }
   ],
@@ -267,7 +229,6 @@
     {
       "name": "Multimania",
       "isFree": true,
-      "logo": "https://i.imgur.com/J9Lwc0T.png",
       "website": "https://movify.tv/"
     },
     {
@@ -278,7 +239,6 @@
     {
       "name": "TV3 Mini",
       "isFree": true,
-      "logo": "https://lo1.in/MALAY/tv3.png",
       "website": "https://www.tv3.lv/tv3mini/"
     }
   ]

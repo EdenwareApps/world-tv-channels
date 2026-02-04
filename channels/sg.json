@@ -3,20 +3,17 @@
     {
       "name": "CNA",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png",
       "priority": 9
     },
     {
       "name": "CNA International",
       "isFree": true,
-      "logo": "https://go4.pw/SINGAPORE/CNA.png",
       "website": "https://www.channelnewsasia.com/international",
       "priority": 9
     },
     {
       "name": "CNBC Asia",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/07/13/large/20240713001632561840_94.png",
       "website": "https://www.cnbc.com/id/15838789"
     }
   ],
@@ -24,13 +21,11 @@
     {
       "name": "Channel 5",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png",
       "priority": 10
     },
     {
       "name": "Channel 8",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png",
       "priority": 10
     },
     {
@@ -40,19 +35,16 @@
     },
     {
       "name": "Vasantham",
-      "isFree": true,
-      "logo": "https://i.imgur.com/vqVEcuT.png"
+      "isFree": true
     },
     {
       "name": "Asian Food Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
       "website": "https://asianfoodnetwork.com/"
     },
     {
       "name": "Astro Sensasi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg",
       "website": "http://www.starhub.com/entertainment/channel/sensasi.html"
     },
     {
@@ -64,52 +56,44 @@
     {
       "name": "Crime + Investigation Asia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZnlxXwMgk68gIKezbMkzKY8eyi.jpg",
       "website": "http://www.citvasia.com/"
     },
     {
       "name": "Discovery Asia",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://www.discoveryseasia.com/discovery-asia",
       "priority": 9
     },
     {
       "name": "Discovery Channel Southeast Asia",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "http://discoverychannelasia.com/",
       "priority": 9
     },
     {
       "name": "Discovery Science Southeast Asia",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://www.discoveryseasia.com/science",
       "priority": 9
     },
     {
       "name": "DMAX Southeast Asia",
       "isFree": true,
-      "logo": "https://go4.pw/germany/20.png",
       "website": "https://www.discoveryseasia.com/dmax"
     },
     {
       "name": "Food Network Asia",
       "isFree": true,
-      "logo": "https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png",
       "website": "http://www.foodnetworkasia.com/"
     },
     {
       "name": "GEM",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/GEMONYX.png",
       "website": "https://www.gemtvasia.com/"
     },
     {
       "name": "Global Trekker",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010810817531_37.jpeg",
       "website": "https://www.globaltrekker.org/"
     },
     {
@@ -126,8 +110,7 @@
     },
     {
       "name": "Hub E City",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png"
+      "isFree": true
     },
     {
       "name": "KCM",
@@ -140,7 +123,7 @@
       "website": "http://www.kplus-asia.com/"
     },
     {
-      "name": "meWATCH LIVE 1",
+      "name": "meWATCH LIVE",
       "isFree": true,
       "website": "https://www.mewatch.sg/channels/live-1/97073"
     },
@@ -155,7 +138,7 @@
       "website": "https://www.mewatch.sg/channels/live-5/98202"
     },
     {
-      "name": "meWATCH LIVE+ 1",
+      "name": "meWATCH LIVE+",
       "isFree": true,
       "website": "https://www.mewatch.sg/channels/live-plus-1/267994"
     },
@@ -180,26 +163,23 @@
       "website": "http://www.onetvasia.com/"
     },
     {
-      "name": "Preview Channel",
+      "name": "Preview",
       "isFree": true,
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "ROCK Action",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg",
       "website": "https://www.rockentertainment.com/our-brands/rock-action"
     },
     {
       "name": "ROCK Entertainment",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",
       "website": "https://www.rockentertainment.com/our-brands/rock-entertainment"
     },
     {
       "name": "ROCK Extreme",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.rockentertainment.com/our-brands/rock-extreme"
     },
     {
@@ -208,13 +188,12 @@
       "website": "https://www.sonymax.tv/en_SG/"
     },
     {
-      "name": "StarHub TV",
+      "name": "StarHub",
       "isFree": true
     },
     {
       "name": "TechStorm",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/techstorm.png",
       "website": "https://www.techstorm.tv/"
     },
     {
@@ -225,13 +204,11 @@
     {
       "name": "Travel Channel Asia",
       "isFree": true,
-      "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
       "website": "https://www.discoveryseasia.com/travel-channel"
     },
     {
       "name": "Zee TV Asia Pacific",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png",
       "website": "http://www.zeetelevisionasia.com/"
     }
   ],
@@ -239,34 +216,29 @@
     {
       "name": "Animal Planet Southeast Asia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png",
       "website": "https://www.discoveryseasia.com/animal-planet"
     },
     {
       "name": "CNA Originals",
       "isFree": true,
-      "logo": "https://go4.pw/SINGAPORE/CNA.png",
       "website": "https://www.channelnewsasia.com/",
       "priority": 9
     },
     {
-      "name": "JET TV",
+      "name": "JET",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d31LKiVdfztUlY8MF1oE30wl4iO.jpg",
       "website": "https://www.media-chain.com.tw/channel-intro.php?channel=2"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com/asia",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com/asia",
       "priority": 9
     }
@@ -275,42 +247,35 @@
     {
       "name": "Animax Asia",
       "isFree": true,
-      "logo": "https://imgur.com/BatygW5.png",
       "website": "http://www.animax-asia.com/"
     },
     {
       "name": "Aniplus Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/ANIPLUS.png",
       "website": "http://www.aniplus-asia.com/"
     },
     {
       "name": "Boomerang Asia",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
       "website": "http://www.cartoonnetworkasia.com/minisite/boomerang/"
     },
     {
       "name": "Cartoonito Asia",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png"
+      "isFree": true
     },
     {
       "name": "Cartoon Network Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png",
       "website": "http://www.cartoonnetworkasia.com/"
     },
     {
       "name": "Disney Channel Southeast Asia",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
       "name": "Nickelodeon Asia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nick.tv/"
     },
     {
@@ -322,42 +287,35 @@
       "name": "ZooMoo",
       "isFree": true,
       "keywords": "zoomoo -kids",
-      "logo": "https://images.iptvmate.net/tvglogo/e26149f29df0b885f54b4cb2bf1f5b32.png",
       "website": "https://www.zoomoo.tv/"
     },
     {
       "name": "ZooMoo Kids",
-      "isFree": true,
-      "logo": "https://go4.pw/INDONESIA/zoomoo.png"
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "AXN Asia",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": true
     },
     {
       "name": "AXN Beyond",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SPAIN/AXN.png"
+      "isFree": true
     },
     {
       "name": "Celestial Classic Movies",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/fra.png",
       "website": "https://www.cmclassic.tv/index.php?location/SG"
     },
     {
       "name": "Celestial Movies Singapore",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/fra.png",
       "website": "https://www.celestialmovies.com/schedule.php?location/SG"
     },
     {
       "name": "Cinemax Asia",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
       "website": "http://www.cinemaxasia.com/"
     },
     {
@@ -386,24 +344,20 @@
     {
       "name": "HITS NOW",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://www.hitsnow.tv/"
     },
     {
       "name": "Hub VV Drama",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png"
+      "isFree": true
     },
     {
       "name": "Paramount Network",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032010728735_96.png",
       "website": "https://www.paramountnetwork.com/"
     },
     {
       "name": "Universal Channel Asia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg",
       "website": "http://www.universalchannel.asia/"
     },
     {
@@ -415,145 +369,122 @@
     {
       "name": "Hope Channel Singapore",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopechannel.sg/"
     }
   ],
   "Sports": [
     {
-      "name": "Hub Premier 1",
+      "name": "Hub Premier",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 10",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 11",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 3",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 5",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 6",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 7",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 8",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Premier 9",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
-      "name": "Hub Sports 1",
+      "name": "Hub Sports",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Sports 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Sports 3",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "Hub Sports 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/UK.png",
       "website": "https://www.starhubtvplus.com/"
     },
     {
       "name": "mio Stadium 102",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 103",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 104",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 105",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 106",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 107",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
       "name": "mio Stadium 108",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
       "website": "https://www.singtel.com/personal/i/apps-tv/tv"
     },
     {
-      "name": "SPL CH01",
+      "name": "SPL CH 01",
       "isFree": true,
       "website": "https://www.mewatch.sg/channels/SPL-CH01-98200"
     }

@@ -2,117 +2,99 @@
   "Entertainment": [
     {
       "name": "Channel Eye",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "isFree": true
     },
     {
-      "name": "Hiru TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/5ac25343ec9fc842e505b9ab69a978fe.png"
+      "name": "Hiru",
+      "isFree": true
     },
     {
       "name": "Rupavahini",
       "isFree": true
     },
     {
-      "name": "Santhora TV",
+      "name": "Santhora",
       "isFree": true
     },
     {
-      "name": "Sooriyan TV",
+      "name": "Sooriyan",
       "isFree": true
     },
     {
-      "name": "Verbum TV",
+      "name": "Verbum",
       "isFree": true,
       "keywords": "verbum tv | verbumtv",
-      "shortName": "VerbumTV",
-      "logo": "https://i.imgur.com/YEKEaB4.png"
+      "shortName": "VerbumTV"
     },
     {
-      "name": "Aksharaya TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Aksharaya",
+      "isFree": true
     },
     {
       "name": "ART Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G102gLrSbjSxu0ECK7my21rynv.jpg",
       "website": "http://iwsholdings.com/"
     },
     {
-      "name": "Asia TV",
+      "name": "Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "https://www.asiatvnet.com/"
     },
     {
-      "name": "Athavan TV",
+      "name": "Athavan",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://athavantv.com/"
     },
     {
-      "name": "Beauty TV",
+      "name": "Beauty",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wby9315QzVKdW9BonAefg8jGTTb.jpg",
       "website": "https://beautytv.lk/"
     },
     {
-      "name": "Capital TV",
+      "name": "Capital",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/09/28/20150928130434713658_68.png",
       "website": "https://capitaltv.lk/"
     },
     {
       "name": "Channel One",
       "isFree": true,
-      "logo": "https://imgur.com/IFcA4UO.png",
       "website": "https://www.dialog.lk/television-channel-one-tv/"
     },
     {
-      "name": "Charana TV",
+      "name": "Charana",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/cc/charana-tv-lk.png",
       "website": "https://charanatv.lk"
     },
     {
       "name": "Citi Hitz",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
+      "isFree": true
     },
     {
-      "name": "Colombo TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Colombo",
+      "isFree": true
     },
     {
       "name": "DAN Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png",
       "website": "https://www.dantv.lk/"
     },
     {
       "name": "DAN Tamil Oli",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png",
       "website": "https://www.dantv.lk/"
     },
     {
       "name": "ETV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png"
+      "isFree": true
     },
     {
-      "name": "Haritha TV",
+      "name": "Haritha",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://harithanetwork.com/"
     },
     {
-      "name": "Hi TV",
+      "name": "Hi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uH5HeMmSy04H0hx7L7mma0NRHKS.jpg",
       "website": "http://hitv.dailymirror.lk/"
     },
     {
@@ -121,180 +103,153 @@
       "website": "https://www.itntv.lk/"
     },
     {
-      "name": "Knowledge TV",
+      "name": "Knowledge",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/PHILIPPINES.png",
       "website": "https://www.hirutv.lk/"
     },
     {
-      "name": "Monara TV",
+      "name": "Monara",
       "isFree": true,
-      "logo": "https://i.imgur.com/EB99mzR.png",
       "website": "https://monaratv.lk/"
     },
     {
       "name": "NDTV LANKA",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/NDTV.png",
       "website": "https://www.ndtvlanka.lk/"
     },
     {
-      "name": "Nethra TV",
+      "name": "Nethra",
       "isFree": true,
       "website": "https://nethratv.lk/"
     },
     {
       "name": "Parliament of Sri Lanka",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png",
       "website": "https://www.parliament.lk/en/business-of-parliament/webcast/parliament-live"
     },
     {
-      "name": "Pragna TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Pragna",
+      "isFree": true
     },
     {
-      "name": "Rangiri Sri Lanka TV",
+      "name": "Rangiri Sri Lanka",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/SRI_SANKARA.png",
       "website": "http://www.rangirisrilanka.lk/tv/home.html"
     },
     {
-      "name": "Ridee TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ridee",
+      "isFree": true
     },
     {
-      "name": "SBC TV",
+      "name": "SBC",
       "isFree": true,
-      "logo": "https://go4.pw/SOMALIA/SBC_TV.png",
       "website": "https://sbc.lk/"
     },
     {
-      "name": "Shakthi TV",
+      "name": "Shakthi",
       "isFree": true,
       "website": "https://shakthitv.lk/"
     },
     {
-      "name": "Shraddha TV",
+      "name": "Shraddha",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/MH_ONE_HD.png",
       "website": "https://www.shraddha.lk/"
     },
     {
-      "name": "Sirasa TV",
+      "name": "Sirasa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://sirasatv.lk/"
     },
     {
-      "name": "Siyasa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Siyasa",
+      "isFree": true
     },
     {
-      "name": "Siyatha TV",
+      "name": "Siyatha",
       "isFree": true,
-      "logo": "https://i.imgur.com/9Zc8G7i.png",
       "website": "http://siyathatv.lk/"
     },
     {
-      "name": "Supreme TV",
+      "name": "Supreme",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3JAOCNjJYO3NdECnnijKYadr8N.jpg",
       "website": "https://www.supremetv.lk/"
     },
     {
-      "name": "Swarga TV",
+      "name": "Swarga",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://swargatv.com/"
     },
     {
       "name": "Swarnavahini",
       "isFree": true,
       "keywords": "swarnavahini -france -uae",
-      "logo": "https://i.imgur.com/0hnpeq9.png",
       "website": "https://swarnavahini.lk/"
     },
     {
       "name": "Swarnavahini France",
       "isFree": true,
-      "logo": "https://i.imgur.com/0hnpeq9.png",
       "website": "https://liveat8.lk/LIVESS/"
     },
     {
       "name": "Swarnavahini UAE",
       "isFree": true,
-      "logo": "https://i.imgur.com/0hnpeq9.png",
       "website": "https://liveat8.lk/LIVESS/"
     },
     {
       "name": "The Buddhist",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://www.thebuddhist.tv/"
     },
     {
-      "name": "TNL TV",
+      "name": "TNL",
       "isFree": true,
-      "logo": "https://i.imgur.com/UWsxPJK.png",
       "website": "https://tnltv.lk/"
     },
     {
-      "name": "TV 1",
+      "name": "TV",
       "isFree": true,
       "website": "http://tv1.lk/"
     },
     {
       "name": "TV Derana",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.derana.lk/"
     },
     {
       "name": "TV Didula",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvdidula.lk/"
     },
     {
       "name": "UTV",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png",
       "website": "https://www.utv.lk/"
     },
     {
-      "name": "Vasantham TV",
+      "name": "Vasantham",
       "isFree": true,
-      "logo": "https://i.imgur.com/vqVEcuT.png",
       "website": "https://www.vasantham.lk/"
     },
     {
-      "name": "Yarl TV",
+      "name": "Yarl",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dantv.lk/"
     }
   ],
   "News": [
     {
-      "name": "Ada Derana 24x7",
+      "name": "Ada Derana 24x 7",
       "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KIBRIS ADA.png",
       "website": "http://www.adaderana.lk/"
     },
     {
       "name": "DAN News",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png",
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Lankasri TV",
+      "name": "Lankasri",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://lankasri.com/"
     },
     {
@@ -303,9 +258,8 @@
       "website": "https://www.newsfirst.lk/live/"
     },
     {
-      "name": "ThePapare TV",
+      "name": "ThePapare",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.thepapare.com/"
     }
   ],
@@ -315,34 +269,32 @@
       "isFree": true
     },
     {
-      "name": "Guru TV",
+      "name": "Guru",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OrWlKOrRl9u1kjMZS6JWbEJNOk.jpg",
       "website": "https://guru.lk/"
     },
     {
-      "name": "Imai TV",
+      "name": "Imai",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://imaitv.com/"
     },
     {
-      "name": "Kalvi TV-1",
+      "name": "Kalvi TV-",
       "isFree": true,
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Kalvi TV-2",
+      "name": "Kalvi TV- 2",
       "isFree": true,
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Kalvi TV-3",
+      "name": "Kalvi TV- 3",
       "isFree": true,
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Kalvi TV-4",
+      "name": "Kalvi TV- 4",
       "isFree": true,
       "website": "https://www.dantv.lk/"
     },
@@ -352,15 +304,13 @@
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "Nenasa Sinhala Grade 1-5",
+      "name": "Nenasa Sinhala Grade 1- 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc9umlggEmRn5yNOH1XfYdyCE4c.jpg",
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "Nenasa Sinhala Grade 6-9",
+      "name": "Nenasa Sinhala Grade 6- 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc9umlggEmRn5yNOH1XfYdyCE4c.jpg",
       "website": "http://nenasa.lk/"
     },
     {
@@ -371,155 +321,130 @@
     {
       "name": "Nenasa Tamil A/L",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png",
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "Nenasa Tamil Grade 1-5",
+      "name": "Nenasa Tamil Grade 1- 5",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png",
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "Nenasa Tamil Grade 6-9",
+      "name": "Nenasa Tamil Grade 6- 9",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png",
       "website": "http://nenasa.lk/"
     },
     {
       "name": "Nenasa Tamil O/L",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png",
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "Nenasa TV",
+      "name": "Nenasa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://nenasa.lk/"
     },
     {
-      "name": "VAPA TV",
+      "name": "VAPA",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dantv.lk/"
     }
   ],
   "Kids": [
     {
-      "name": "A Plus Kids TV",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/619307.png"
+      "name": "A Plus Kids",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "Channel C",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.channelc.lk/"
     },
     {
       "name": "DAN Music",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/DOMINICAN/DAN(2).png",
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Music TV",
+      "name": "Music",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png",
       "website": "https://musictv.lk/"
     },
     {
-      "name": "Sindu TV",
+      "name": "Sindu",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sindutv.com/"
     }
   ],
   "Religious": [
     {
-      "name": "Damsathara TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Damsathara",
+      "isFree": true
     },
     {
-      "name": "Dharmavahini TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dharmavahini",
+      "isFree": true
     },
     {
       "name": "Holy Mary",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg",
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Jaya TV",
+      "name": "Jaya",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/TAMIL/JayaTV.png",
       "website": "https://www.jayatv.lk/"
     },
     {
-      "name": "Karma TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KqtF20yByPW6bIKvxWNTkJ2Zvv.jpg"
+      "name": "Karma",
+      "isFree": true
     },
     {
-      "name": "Methmaga TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Methmaga",
+      "isFree": true
     },
     {
-      "name": "Meth TV",
+      "name": "Meth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg",
       "website": "https://methtv.lk/"
     },
     {
-      "name": "Ohm TV",
+      "name": "Ohm",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Pirai TV",
+      "name": "Pirai",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dantv.lk/"
     },
     {
-      "name": "Sathi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sathi",
+      "isFree": true
     },
     {
-      "name": "Sri Sankara TV",
+      "name": "Sri Sankara",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/SRI_SANKARA.png",
       "website": "https://www.srisankaratv.com/"
     },
     {
-      "name": "Three Vision TV",
+      "name": "Three Vision",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q6BrcwGEBGbtwtbCUVKEt2lmEy.jpg",
       "website": "https://3vision.lk/"
     }
   ],
   "Sports": [
     {
-      "name": "Gaja TV",
+      "name": "Gaja",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gajatv.lk/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Star Tamil Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+      "isFree": true
     }
   ]
 }

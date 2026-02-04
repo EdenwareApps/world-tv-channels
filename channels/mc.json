@@ -5,21 +5,18 @@
       "isFree": true
     },
     {
-      "name": "Superyacht TV",
+      "name": "Superyacht",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
       "website": "https://superyacht.tv/"
     },
     {
-      "name": "Truman TV",
+      "name": "Truman",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
       "website": "https://www.radiotruman.tv/"
     },
     {
       "name": "TV Monaco",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png",
       "website": "https://www.tvmonaco.com"
     },
     {
@@ -31,7 +28,7 @@
       "isFree": true
     },
     {
-      "name": "Formula 1",
+      "name": "Formula",
       "isFree": true
     },
     {
@@ -55,7 +52,6 @@
     {
       "name": "GEM",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/GEMONYX.png",
       "website": "https://gem-tv.com/tv"
     }
   ]

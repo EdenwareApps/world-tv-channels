@@ -2,168 +2,142 @@
   "Entertainment": [
     {
       "name": "RTG",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164557683738_64.png"
+      "isFree": true
     },
     {
       "name": "ATV",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://atvguinee.net/"
     },
     {
-      "name": "Bauxite TV",
+      "name": "Bauxite",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bauxitetv.com/"
     },
     {
-      "name": "BTA TV",
+      "name": "BTA",
       "isFree": true,
-      "logo": "https://i.imgur.com/vygOosC.png",
       "website": "https://btagroupe.com/"
     },
     {
-      "name": "Cavi TV",
+      "name": "Cavi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://siaminfos.com/cavi-tv/"
     },
     {
-      "name": "Djoma TV",
+      "name": "Djoma",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DJOMA.png",
       "website": "https://djomatv.com/"
     },
     {
-      "name": "Evasion TV",
+      "name": "Evasion",
       "isFree": true,
-      "logo": "https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png",
       "website": "https://groupeevasionguinee.info/"
     },
     {
       "name": "Fasso TV Kankan",
-      "isFree": true,
-      "logo": "https://i.imgur.com/xrV3Qrr.png"
+      "isFree": true
     },
     {
-      "name": "Fatala TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Fatala",
+      "isFree": true
     },
     {
-      "name": "Galaxie TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Galaxie",
+      "isFree": true
     },
     {
       "name": "Gangan RTV",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
-      "name": "Guinee Afromusic TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/GUINEE/GUINEE.png"
+      "name": "Guinee Afromusic",
+      "isFree": true
     },
     {
-      "name": "GuineeBuzz TV",
+      "name": "GuineeBuzz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.guineebuzz.com/"
     },
     {
-      "name": "Guinee TV1",
+      "name": "Guinee TV",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/GUINEE/GUINEE.png",
       "website": "https://guineetv1.com/"
     },
     {
-      "name": "Happy TV",
+      "name": "Happy",
       "isFree": true,
       "website": "https://groupehappymedias.com/"
     },
     {
-      "name": "Horewoury TV",
+      "name": "Horewoury",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://horewoury.com/"
     },
     {
-      "name": "Kaback TV",
+      "name": "Kaback",
       "isFree": true,
-      "logo": "https://i.imgur.com/oIe98p4.png",
       "website": "https://www.lerenifleur224.com/"
     },
     {
-      "name": "Kalac TV",
+      "name": "Kalac",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/KALAC.png",
       "website": "https://www.espacetvguinee.info/"
     },
     {
-      "name": "Ledjely TV",
+      "name": "Ledjely",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ledjely.com/"
     },
     {
-      "name": "Ocean TV",
+      "name": "Ocean",
       "isFree": true,
       "website": "https://oceanguinee.com/"
     },
     {
-      "name": "Parlement TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/MALTA/NEWS.png"
+      "name": "Parlement",
+      "isFree": true
     },
     {
-      "name": "RTG 1",
+      "name": "RTG",
       "isFree": true,
-      "logo": "https://i.imgur.com/E1sMcXz.png",
       "website": "https://rtgkoloma.info/tv/"
     },
     {
       "name": "RTG 2",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/GUINEE/RTG.png",
       "website": "https://rtgkoloma.info/tv/"
     },
     {
-      "name": "Sab TV",
+      "name": "Sab",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/Sony_SAB.png",
       "website": "https://sabtvguinee.com/"
     },
     {
-      "name": "Simandou TV",
+      "name": "Simandou",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://simandou.tv/"
     },
     {
-      "name": "Star21 TV",
+      "name": "Star 21",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.star21tv.com/"
     },
     {
-      "name": "West Africa TV",
+      "name": "West Africa",
       "isFree": true,
       "website": "https://westafricatv.net/"
     }
   ],
   "Sports": [
     {
-      "name": "Africasport TV",
+      "name": "Africasport",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://africasport.org/"
     },
     {
       "name": "TopGain Dog Racing",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
       "website": "http://topgain-guinee.com/"
     },
     {
@@ -174,21 +148,18 @@
     {
       "name": "TopGain League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
       "website": "http://topgain-guinee.com/"
     }
   ],
   "News": [
     {
-      "name": "Afrik Info TV",
+      "name": "Afrik Info",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://afrikinfomedias.com/tv/"
     },
     {
-      "name": "Espace TV",
+      "name": "Espace",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRuoxghkBC9QNEHHih2kue7qIyS.jpg",
       "website": "https://www.espacetvguinee.info/"
     },
     {
@@ -199,15 +170,13 @@
     {
       "name": "Tele 24",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://www.tele24groupe.com/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "CIS TV",
+      "name": "CIS",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/04/04/large/20240404170350457530_44.png",
       "website": "http://www.cismedias.com/cis-tv/"
     }
   ],
@@ -215,20 +184,17 @@
     {
       "name": "La Guinee Fe",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://www.canalplus.com/chaines/guinee-fe"
     },
     {
-      "name": "Sillywood TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sillywood",
+      "isFree": true
     }
   ],
   "Religious": [
     {
-      "name": "Nourdine TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nourdine",
+      "isFree": true
     }
   ]
 }

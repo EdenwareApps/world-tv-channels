@@ -2,120 +2,96 @@
   "Religious": [
     {
       "name": "Enlace Juvenil",
-      "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-5hJSUJGfsws/X2Oa6BATIjI/AAAAAAAABRA/Ywc11zLAPHwrB4hjb3etRAuWOgSxQZ2CACLcBGAsYHQ/w200-h200/06%2BEnlace%2Bjuvenil.png"
+      "isFree": true
     },
     {
-      "name": "Enlace TV",
+      "name": "Enlace",
       "isFree": true,
       "shortName": "Enlace",
-      "logo": "https://go4.pw/LATINO/Enlace.png",
       "website": "https://www.enlace.org"
     },
     {
       "name": "Nuevo Tiempo",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/XITE.png",
       "website": "https://www.nuevotiempo.org"
     },
     {
       "name": "Canal Luz",
       "isFree": true,
       "keywords": "canal luz | canalluz",
-      "shortName": "canalLUZ",
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "shortName": "canalLUZ"
     },
     {
       "name": "Canal 13 Jujuy",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canal13jujuy.com/",
       "priority": 10
     },
     {
       "name": "Canal 6 Viento Recio",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://vientoreciointernacional.com.ar/"
     },
     {
       "name": "Canal Orbe 21",
       "isFree": true,
-      "logo": "https://i.postimg.cc/gjgm8h55/canalorbe21.png",
       "website": "https://canalorbe21.com/"
     },
     {
       "name": "Canal Santa Maria",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalsantamaria.com.ar/"
     },
     {
-      "name": "Radio Sublime Gracia TV",
+      "name": "Radio Sublime Gracia",
       "isFree": true,
-      "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
       "website": "https://sublimegraciatv.com/"
     },
     {
-      "name": "Sion TV",
+      "name": "Sion",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://siontv.com.ar/"
     },
     {
       "name": "TV Mana Argentina",
       "isFree": true,
-      "logo": "https://i.imgur.com/Liu0UnB.png",
       "website": "https://tvmana-argentina.com/"
     },
     {
-      "name": "Unife TV",
+      "name": "Unife",
       "isFree": true,
-      "logo": "https://i.imgur.com/TLM592m.png",
       "website": "https://www.unifetv.com/"
     },
     {
       "name": "América",
       "isFree": null,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "priority": 9
     },
     {
-      "name": "Net TV",
-      "isFree": null,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png"
-    },
-    {
-      "name": "class=\"wikitable sortable\" style=\"font-size: 90%;\"",
+      "name": "Net",
       "isFree": null
     },
     {
-      "name": "América]]",
-      "isFree": null,
-      "priority": 9
+      "name": "class=\"wikitable sortable\" style=\"font - size: 90% - \"",
+      "isFree": null
     },
     {
-      "name": "Net TV]]",
-      "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Net",
+      "isFree": null
     }
   ],
   "Entertainment": [
     {
       "name": "5RTv",
-      "isFree": true,
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePELoc1cWNm8Ntqkub1ehXec3ircuun7HKW2YP7DQjQ&s"
+      "isFree": true
     },
     {
       "name": "5TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/5tv.png"
+      "isFree": true
     },
     {
       "name": "Argentinísima Satelital",
-      "isFree": true,
-      "shortName": "AS",
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "isFree": true
     },
     {
       "name": "CANAL TDC",
@@ -123,13 +99,11 @@
     },
     {
       "name": "CANAL.9 MULTIVISION",
-      "isFree": true,
-      "shortName": "CM"
+      "isFree": true
     },
     {
       "name": "CN3 Pinamar",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOm7VAlsuJ5ixXg3pgKY8a7uhqt.jpg"
+      "isFree": true
     },
     {
       "name": "Canal 10 Mar del Plata",
@@ -139,20 +113,17 @@
     {
       "name": "Canal 11 La Rioja",
       "isFree": true,
-      "shortName": "C1LR",
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "shortName": "C1LR"
     },
     {
       "name": "Canal 12 Puerto Madryn",
       "isFree": true,
-      "shortName": "C1PM",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "shortName": "C1PM"
     },
     {
       "name": "Canal 13 La Rioja",
       "isFree": true,
       "shortName": "C1LR",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "priority": 10
     },
     {
@@ -161,34 +132,28 @@
     },
     {
       "name": "Canal 3 Pinamar",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 3 Rosario",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Canal 4",
       "isFree": true,
-      "keywords": "canal 4 -balcarce -jujuy -posadas",
-      "logo": "https://images.iptvmate.net/tvglogo/f35b14228595a25f9c6ecbe1d202533d.png"
+      "keywords": "canal 4 -balcarce -jujuy -posadas"
     },
     {
       "name": "Canal 4 Balcarce",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Jujuy",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Posadas",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tElJr3e.png"
+      "isFree": true
     },
     {
       "name": "Canal 7 SALTA",
@@ -198,24 +163,20 @@
       "name": "Canal 9",
       "isFree": true,
       "keywords": "canal 9 -televida",
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.elnueve.com.ar",
       "priority": 8
     },
     {
       "name": "Canal 9 Televida",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Chacra TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "name": "Chacra",
+      "isFree": true
     },
     {
-      "name": "Cinco TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/p9aaBKg.png"
+      "name": "Cinco",
+      "isFree": true
     },
     {
       "name": "El Trece",
@@ -225,13 +186,12 @@
       "priority": 10
     },
     {
-      "name": "ElOnce",
+      "name": "El Once",
       "isFree": true
     },
     {
       "name": "Encuentro",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ENCUENTRO.png",
       "website": "https://www.encuentro.gob.ar"
     },
     {
@@ -240,9 +200,7 @@
     },
     {
       "name": "La Voz de Tucuman",
-      "isFree": true,
-      "shortName": "LVDT",
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png"
+      "isFree": true
     },
     {
       "name": "LatinoKids",
@@ -250,73 +208,58 @@
     },
     {
       "name": "Live Perú TV Streaming",
-      "isFree": true,
-      "shortName": "LPTS",
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": true
     },
     {
       "name": "Magic Kids",
-      "isFree": true,
-      "logo": "https://i.imgur.com/CMImqQY.png"
+      "isFree": true
     },
     {
       "name": "Medios Rioja",
-      "isFree": true,
-      "logo": "https://i.imgur.com/IDvpRNI.png"
+      "isFree": true
     },
     {
       "name": "Multivisión Federal",
-      "isFree": true,
-      "shortName": "MF",
-      "logo": "https://i.imgur.com/jX0lqy3.png"
+      "isFree": true
     },
     {
-      "name": "Net TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png"
+      "name": "Net",
+      "isFree": true
     },
     {
-      "name": "Power TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Power",
+      "isFree": true
     },
     {
-      "name": "Quatro TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/fhHFGwv.png"
+      "name": "Quatro",
+      "isFree": true
     },
     {
       "name": "RTN",
-      "isFree": true,
-      "logo": "https://i.imgur.com/daMqavf.jpg"
+      "isFree": true
     },
     {
-      "name": "SEO TV",
+      "name": "SEO",
       "isFree": true,
-      "keywords": "seo tv -novelas",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "keywords": "seo tv -novelas"
     },
     {
-      "name": "Santa María TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg"
+      "name": "Santa María",
+      "isFree": true
     },
     {
       "name": "T5 Satelital",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/Claro ARGENTINISIMA SATELITAL.png"
+      "isFree": true
     },
     {
       "name": "TV Pública",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",
       "website": "https://www.tvpublica.com.ar",
       "priority": 9
     },
     {
       "name": "TVG América",
       "isFree": true,
-      "logo": "https://i.imgur.com/HhrJ7a9.png",
       "priority": 9
     },
     {
@@ -329,31 +272,27 @@
     },
     {
       "name": "Telemax",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "isFree": true
     },
     {
       "name": "Telesol",
-      "isFree": true,
-      "logo": "https://i.imgur.com/iagCG6y.png"
+      "isFree": true
     },
     {
       "name": "Telpin Canal 2",
       "isFree": true
     },
     {
-      "name": "Telpin TV",
+      "name": "Telpin",
       "isFree": true
     },
     {
-      "name": "Tierra Mía TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7hjC7UebawduaVSqnekvyjQ7JI.jpg"
+      "name": "Tierra Mía",
+      "isFree": true
     },
     {
       "name": "VerTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/TLaausJ.png"
+      "isFree": true
     },
     {
       "name": "Vorterix",
@@ -362,18 +301,11 @@
     {
       "name": "13Max Television",
       "isFree": true,
-      "logo": "https://i.imgur.com/QvF4l2t.png",
       "website": "https://live-tv-channels.org/livetv/ar-13-max-tv.html"
-    },
-    {
-      "name": "360 TV",
-      "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/360.png"
     },
     {
       "name": "5 TV Olavarria",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.digitalnews.com.ar/CanalLocal"
     },
     {
@@ -382,123 +314,101 @@
       "website": "https://abtvbariloche.com.ar/"
     },
     {
-      "name": "Acequia TV",
+      "name": "Acequia",
       "isFree": true,
       "website": "https://www.acequia.tv/"
     },
     {
       "name": "Agenda Necochense",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
       "website": "https://agendanecochense.com/"
     },
     {
       "name": "Aire de Santa Fe",
       "isFree": true,
-      "logo": "https://i.imgur.com/60vSWW0.png",
       "website": "https://www.airedesantafe.com.ar/"
     },
     {
       "name": "America Internacional",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.americatv.com.ar/"
     },
     {
       "name": "America Satellite",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.americatv.com.ar/"
     },
     {
-      "name": "America TV",
+      "name": "America",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png",
       "website": "https://www.americatv.com.ar/"
     },
     {
       "name": "Antena 91",
       "isFree": true,
-      "logo": "https://i.imgur.com/HAJxHcV.png",
       "website": "http://www.antena91.com.ar/Reproductor.htm"
     },
     {
       "name": "Argentinisima Satelital",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://argentinisimatv.com.ar/"
     },
     {
       "name": "Astro Net",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYOJaaCpqq1NatziVJntmsXXDi8.jpg"
+      "isFree": true
     },
     {
       "name": "Atcco Canal 2",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.atcco.com.ar/canal2"
     },
     {
-      "name": "AVC HD",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png",
-      "website": "https://sites.google.com/view/avchd/inicio"
-    },
-    {
-      "name": "Aventuras TV",
+      "name": "Aventuras",
       "isFree": true
     },
     {
-      "name": "AZM TV",
+      "name": "AZM",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://canalnueve.tv/"
     },
     {
-      "name": "Barricada TV",
+      "name": "Barricada",
       "isFree": true,
       "website": "https://www.barricadatv.org/?page_id=9173"
     },
     {
-      "name": "Bayres TV",
+      "name": "Bayres",
       "isFree": true,
-      "logo": "https://i.imgur.com/9FDqljV.png",
       "website": "https://bayrestv.com.ar/"
     },
     {
-      "name": "Bolivar TV",
+      "name": "Bolivar",
       "isFree": true,
       "website": "https://bolivartv.com.ar/"
     },
     {
-      "name": "Bragado TV",
+      "name": "Bragado",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.bragadotv.com.ar/"
     },
     {
-      "name": "Bravo TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png"
+      "name": "Bravo",
+      "isFree": true
     },
     {
       "name": "BVC",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://bvconline.com.ar/canal-bvc"
     },
     {
       "name": "Cable Imagen Armstrong",
       "isFree": true,
-      "logo": "https://i.imgur.com/U9NuJQC.png",
       "website": "https://cablearmstrong.com.ar/",
       "priority": 4
     },
     {
       "name": "Cabletel Zarate Canal 4",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.cabletel.net.ar/canal-local/"
     },
     {
@@ -509,30 +419,25 @@
     {
       "name": "Cadena VIVO",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/Cadena.png",
       "website": "https://cadenavivo.com/"
     },
     {
-      "name": "Calchaqui TV",
+      "name": "Calchaqui",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.calchaquitv.com.ar/"
     },
     {
-      "name": "Canal 1",
+      "name": "Canal",
       "isFree": true,
-      "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg",
       "website": "https://canal1.com.ar/"
     },
     {
       "name": "Canal 10 Cordoba",
-      "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png"
+      "isFree": true
     },
     {
       "name": "Canal 10 de Junin",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal10 Entre Rios",
@@ -542,13 +447,11 @@
     {
       "name": "Canal 10 Goya",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.identidadcorrentina.com.ar/"
     },
     {
       "name": "Canal 10 Neuquen",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://neuquentvcanal10.com.ar/tv/"
     },
     {
@@ -559,19 +462,16 @@
     {
       "name": "Canal 10 Nuevo Mundo",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://nuevomundotv.com.ar/"
     },
     {
       "name": "Canal 10 Salta",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://el10tv.com/"
     },
     {
       "name": "Canal 10 San Rafael",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal10 Tucuman",
@@ -581,170 +481,141 @@
     {
       "name": "Canal 10 TV Rio Negro",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://diario10.com.ar/"
     },
     {
       "name": "Canal 11 de la Costa",
       "isFree": true,
-      "logo": "https://i.imgur.com/yYExcq1.jpg",
       "website": "https://canal11delacosta.com.ar/"
     },
     {
       "name": "Canal 11 La Cumbre",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal11lacumbre.com.ar/"
     },
     {
       "name": "Canal 11 Machagai",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 12 Trenque Lauquen",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://noticiasdoce.com.ar/"
     },
     {
       "name": "Canal 12 Venado Tuerto",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.12informa.com.ar/"
     },
     {
       "name": "Canal 12 Web",
       "isFree": true,
-      "logo": "https://i.imgur.com/VYcTRbd.png",
       "website": "https://canal12web.com/"
     },
     {
       "name": "Canal 13",
       "isFree": true,
       "keywords": "canal 13 -jujuy -la rioja -san juan -san luis",
-      "logo": "https://i.imgur.com/JIo1HBs.png",
       "website": "https://imperiotv.com.ar/programas2913/",
       "priority": 10
     },
     {
       "name": "Canal 13 San Juan",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal13sanjuan.com/",
       "priority": 10
     },
     {
       "name": "Canal 13 San Luis",
       "isFree": true,
-      "logo": "https://i.imgur.com/NcfMC29.png",
       "website": "https://sanluismas.com/",
       "priority": 10
     },
     {
-      "name": "Canal 16 Pacifico TV",
+      "name": "Canal 16 Pacifico",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://pacifico929.com.ar/"
     },
     {
       "name": "Canal 20 Ceres",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 20 Villa Maria",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Canal 21 TV",
+      "name": "Canal 21",
       "isFree": true,
-      "logo": "https://i.imgur.com/Am7yMXg.png",
       "website": "https://www.canal21tv.com.ar/"
     },
     {
       "name": "Canal 22",
       "isFree": true,
-      "logo": "https://canal22web.com/wp-content/uploads/2020/09/80.jpg",
       "website": "https://canal22web.com/"
     },
     {
       "name": "Canal 29 Ensenada",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Alvarez",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Caleta Video Cable",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.caletavideocable.com.ar/"
     },
     {
       "name": "Canal 2 Canada Rosquin",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Ceres",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 CPTV",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://cptv.com.ar/"
     },
     {
       "name": "Canal 2 Dean Funes",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal2deanfunes.com/"
     },
     {
       "name": "Canal 2 de Ushuaia",
       "isFree": true,
-      "logo": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
       "website": "https://www.canal2.com.ar/"
     },
     {
       "name": "Canal 2 Gualeguay",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal2gualeguay.com.ar/"
     },
     {
       "name": "Canal 2 Jesus Maria",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Mar del Plata",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal2mdp.com.ar/"
     },
     {
       "name": "Canal 2 Misiones",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal2misiones.com.ar/"
     },
     {
       "name": "Canal 2 NexTV Rafaela",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 2 Perico",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://canal2perico.com.ar/canal2/"
     },
     {
@@ -755,60 +626,50 @@
     {
       "name": "Canal 2 Sanagasta",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal2sanagasta.com/"
     },
     {
       "name": "Canal 2 San Cayetano",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://cooptv.ar/"
     },
     {
       "name": "Canal 2 Tevecon",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.tevecon.com.ar/"
     },
     {
-      "name": "Canal 2 Tostado Cable TV",
+      "name": "Canal 2 Tostado Cable",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://tostado.tv/",
       "priority": 4
     },
     {
       "name": "Canal 2 Via Patagonica",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://viapatagonica.com/"
     },
     {
-      "name": "Canal 30 Mar del Plata TV",
+      "name": "Canal 30 Mar del Plata",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal30mdptv.com.ar/"
     },
     {
       "name": "Canal 34 San Juan",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
-      "name": "Canal 35 TV",
+      "name": "Canal 35",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.radiomasnoticias.com.ar/"
     },
     {
       "name": "Canal 36 El Bolson",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 3 Formosa",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://agenfor.com.ar/"
     },
     {
@@ -823,146 +684,120 @@
     },
     {
       "name": "Canal 3 Mendoza",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 3 Puerto Rico",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 3 Tacural",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal3tacural.com.ar/"
     },
     {
       "name": "Canal 3 Trelew",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.diariojornada.com.ar/canal3"
     },
     {
       "name": "Canal 40 Caucete",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal40hd.com.ar/"
     },
     {
       "name": "Canal 4 Bigand",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Carlos Pellegrini",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Castelli",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Chajari",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Eldorado",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal4eldorado.com/en-vivo/"
     },
     {
       "name": "Canal 4 Esquel",
       "isFree": true,
-      "logo": "https://i.imgur.com/6kbOr16.png",
       "website": "https://canal4esquel.com.ar/"
     },
     {
       "name": "Canal 4 Las Rosas",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal4lasrosas.com.ar/"
     },
     {
       "name": "Canal 4 Lobos",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Mar de Ajo",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Pergamino",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal4pergamino.com.ar/"
     },
     {
       "name": "Canal 4 San Juan",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://www.canal4sanjuan.com.ar/digital/"
     },
     {
       "name": "Canal 4 Tartagal",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 4 Teleaire",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal4teleaire.com.ar/"
     },
     {
       "name": "Canal 4 Villa Constitucion",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 50 Morteros",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal50.tv/"
     },
     {
       "name": "Canal 5 Airevision",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://airevision.com.ar/"
     },
     {
       "name": "Canal 5 Canuelas",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://mirael5.com.ar/"
     },
     {
       "name": "Canal 5 Colon",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 5 Del Pueblo",
-      "isFree": true,
-      "logo": "https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg"
+      "isFree": true
     },
     {
       "name": "Canal 5 General Alvear",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal5generalalvear.com.ar/"
     },
     {
       "name": "Canal 5 Monte Caseros",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 5 Pico Truncado",
@@ -972,250 +807,208 @@
     {
       "name": "Canal 5 Quilmes",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canal5quilmes.com.ar/"
     },
     {
       "name": "Canal 5 San Clemente",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal5sanclemente.com.ar/"
     },
     {
       "name": "Canal 5 San Jose",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 5 Santa Fe",
       "isFree": true,
-      "logo": "https://i.imgur.com/WX0esjQ.png",
       "website": "https://www.c5sf.com/"
     },
     {
       "name": "Canal 5 Tucuman",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canal5tucuman.com.ar/"
     },
     {
       "name": "Canal 5 TV Chepes",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal5tvchepes.com.ar/"
     },
     {
       "name": "Canal 5 TV Tandil",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://madmultimedios.com.ar/contenido/545/television-en-vivo-mad-multimedios"
     },
     {
       "name": "Canal 6 BBT Salto",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://salto.bbt.com.ar/"
     },
     {
       "name": "Canal 6 Cooperativo Freyre",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://freyre.com.ar/"
     },
     {
       "name": "Canal 6 de Video Cable Concordia",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.concordiavideocable.com.ar/",
       "priority": 4
     },
     {
-      "name": "Canal 6 Entre Rios TV",
+      "name": "Canal 6 Entre Rios",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.desdecrespo.com.ar/live"
     },
     {
       "name": "Canal 6 La Quiaca",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal6lq.com/"
     },
     {
       "name": "Canal 6 Libertador",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalseis.com.ar/"
     },
     {
       "name": "Canal 6 Mar del Plata",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal6mardelplata.weebly.com/"
     },
     {
       "name": "Canal 6 Moreno",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal6moreno.com/"
     },
     {
       "name": "Canal 6 Posadas",
       "isFree": true,
-      "logo": "https://i.imgur.com/OamBiS5.png",
       "website": "https://www.noticiasdel6.com/"
     },
     {
       "name": "Canal 6 Telesur",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 79 La Costa",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/la-costa/"
     },
     {
       "name": "Canal 79 Mar del Plata",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/mardelplata/"
     },
     {
       "name": "Canal 79 Puan",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/puan/"
     },
     {
       "name": "Canal 79 San Juan",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/san-juan/"
     },
     {
       "name": "Canal 79 Santa Clara del Mar",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/santa-clara-del-mar/"
     },
     {
       "name": "Canal 79 Villa Maza",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal79tv.com.ar/villa-maza/"
     },
     {
       "name": "Canal 7 Chubut",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 7 Ibarreta",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal7ibarreta.com.ar/"
     },
     {
       "name": "Canal 7 Jacobacci",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal7jacobacci.com.ar/"
     },
     {
       "name": "Canal 7 Jujuy",
       "isFree": true,
-      "logo": "https://i.imgur.com/K0jk8p4.png",
       "website": "http://www.radiovisionjujuy.com.ar/canal7dejujuy"
     },
     {
       "name": "Canal 7 Neuquen",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.c7neuquen.com.ar/"
     },
     {
-      "name": "Canal 7 TV",
+      "name": "Canal 7",
       "isFree": true,
-      "logo": "https://i.imgur.com/iJMH0UK.png",
       "website": "http://canal7.tv/"
     },
     {
       "name": "Canal 8 Catamarca",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal8catamarca.com.ar/"
     },
     {
       "name": "Canal 8 Mar del Plata",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal8mardelplata.com.ar/"
     },
     {
       "name": "Canal 8 Rufino",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal8rufino.com.ar/"
     },
     {
       "name": "Canal 8 Salta",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal8.info/"
     },
     {
       "name": "Canal 8 San Juan",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canal8sanjuan.com.ar/"
     },
     {
       "name": "Canal 8 Valle de Uco",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://8digital.com.ar/"
     },
     {
       "name": "Canal 907 FM",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://fm-comunicar.com.ar/contenido/8025/canal-907-en-vivo"
     },
     {
       "name": "Canal 99 Miramar",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://radiocardinal.com.ar/canal-99/"
     },
     {
       "name": "Canal 9 Chabas",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal 9 Comodoro Rivadavia",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalnueve.tv/"
     },
     {
       "name": "Canal 9 La Costa",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.opiniondelacosta.com.ar/"
     },
     {
       "name": "Canal 9 La Rioja",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://radioytelevisionriojana.com.ar/"
     },
     {
       "name": "Canal 9 Link",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.9link.com.ar/"
     },
     {
@@ -1226,127 +1019,106 @@
     {
       "name": "Canal 9 Norte Misionero",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://nortemisionero.com.ar/"
     },
     {
       "name": "Canal 9 Proa Centro",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://dgpc.com.ar/2015/1_cuat/vm06/tp/quienessomos.html"
     },
     {
       "name": "Canal 9 Resistencia",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://noticiero9.com.ar/"
     },
     {
       "name": "Canal 9 Rio Cuarto",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal9riocuartotv.com.ar/"
     },
     {
       "name": "Canal 9 Santa Cruz",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal9santacruz.com.ar/"
     },
     {
       "name": "Canal AET",
-      "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
+      "isFree": true
     },
     {
       "name": "Canal Blu",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalblu.com/"
     },
     {
       "name": "Canal CNR",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canacnr.tv/"
     },
     {
       "name": "Canal Coop",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canalcoop.com.ar/index.php"
     },
     {
       "name": "Canal de la Ciudad",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://www.buenosaires.gob.ar/canaldelaciudad"
     },
     {
       "name": "Canal Rural",
       "isFree": true,
-      "logo": "http://i.imgur.com/jtiMetX.png",
       "website": "https://www.elrural.com/"
     },
     {
       "name": "Canal Siete",
       "isFree": true,
       "keywords": "canal siete -colon",
-      "logo": "https://i.imgur.com/NdQF9K9.png",
       "website": "https://www.canalsiete.com.ar/vivo/"
     },
     {
       "name": "Canal Siete Colon",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalsietecolon.com.ar/"
     },
     {
       "name": "Canal U",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/12/20/20141220033044878395_26.jpg",
       "website": "https://www.cba24n.com.ar/canal-u-cordoba"
     },
     {
       "name": "Canal VEO",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://veonoticias.com/"
     },
     {
       "name": "Canal XFN",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalxfn.com/"
     },
     {
-      "name": "Caras TV",
+      "name": "Caras",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/PORTUGAL/SIC.png",
       "website": "https://caras.perfil.com/carastv"
     },
     {
-      "name": "Celta TV",
+      "name": "Celta",
       "isFree": true,
-      "logo": "https://i.imgur.com/rwoIF4w.png",
       "website": "https://www.celtatv.com.ar/canal-local.php"
     },
     {
-      "name": "Chilecito TV",
+      "name": "Chilecito",
       "isFree": true,
-      "logo": "https://i.imgur.com/zGubmgZ.png",
       "website": "http://www.diariochilecito.com/"
     },
     {
       "name": "Ciudad Magazine",
       "isFree": true,
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es",
       "website": "https://www.ciudad.com.ar/"
     },
     {
       "name": "Ciudad Magica",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sAyy6HX80PzZft7n0PIKC6mRYp.jpg",
       "website": "https://ciudadmagicafm.com.ar/ciudad-magica-tv/"
     },
     {
@@ -1355,11 +1127,11 @@
       "website": "http://www.cl3cablevision.com.ar/"
     },
     {
-      "name": "CN23",
+      "name": "CN 23",
       "isFree": true
     },
     {
-      "name": "Comarca TV",
+      "name": "Comarca",
       "isFree": true,
       "website": "https://comarcasi.com.ar/"
     },
@@ -1369,68 +1141,58 @@
       "website": "https://www.correadigital.com.ar/canal12.html"
     },
     {
-      "name": "Corrientes TV",
+      "name": "Corrientes",
       "isFree": true,
-      "logo": "https://i.imgur.com/mSn7ACs.png",
       "website": "https://www.13maxtv.com/en-vivo/"
     },
     {
       "name": "CPEtv",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.cpe.com.ar/cpetvvivo"
     },
     {
       "name": "Crossing Canal IPTV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f5Cut0KgX0cCcn8DqLNhPxWz8D.jpg",
       "website": "https://www.crossingcontenidos.com.ar/"
     },
     {
-      "name": "CVision TV",
+      "name": "CVision",
       "isFree": true,
-      "logo": "https://i.imgur.com/WUq3NlG.png",
       "website": "https://cvisiontv.com/"
     },
     {
       "name": "CyD Litoral",
       "isFree": true,
-      "logo": "https://imgur.com/0BoUkWv.png",
       "website": "https://www.ellitoral.com/um/cydlitoral-envivo-cableydiario"
     },
     {
-      "name": "Diputados TV",
+      "name": "Diputados",
       "isFree": true,
-      "logo": "https://i.imgur.com/3Qxpe72.png",
       "website": "https://dtv.hcdn.gob.ar/"
     },
     {
       "name": "Doce Misiones",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CbwK19SLHQXfCm8B7RLCebact3.jpg",
       "website": "http://www.canal12misiones.com/"
     },
     {
       "name": "DSR Medios",
       "isFree": true,
-      "logo": "https://i.imgur.com/IDvpRNI.png",
       "website": "http://dsrmedios.com.ar/"
     },
     {
-      "name": "Eco TV",
+      "name": "Eco",
       "isFree": true,
       "website": "https://www.eleco.com.ar/ecotv"
     },
     {
-      "name": "El 10 TV",
+      "name": "El 10",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://el10tv.com/"
     },
     {
       "name": "El Doce",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://eldoce.tv/"
     },
     {
@@ -1441,63 +1203,53 @@
     {
       "name": "El Nueve",
       "isFree": true,
-      "logo": "https://i.imgur.com/EtcVSm4.png",
       "website": "https://www.elnueve.com.ar/"
     },
     {
       "name": "El Ocho",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.elocho.tv/"
     },
     {
-      "name": "El Palomar TV",
+      "name": "El Palomar",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://tvabierta.weebly.com/el-palomar-tv.html"
     },
     {
-      "name": "El Sauce TV",
+      "name": "El Sauce",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://coopluzvgb.com.ar/el-sauce-tv/"
     },
     {
-      "name": "El Seis TV",
+      "name": "El Seis",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.bariloche2000.com/"
     },
     {
       "name": "El SelloTV Madariaga",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://elsellotv.com.ar"
     },
     {
       "name": "El Siete",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.elsietetv.com.ar/"
     },
     {
       "name": "El Trece Internacional Europe",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.eltrecetv.com.ar/",
       "priority": 10
     },
     {
       "name": "El Trece Internacional Latin America",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.eltrecetv.com.ar/",
       "priority": 10
     },
     {
       "name": "El Trece Satelital",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.eltrecetv.com.ar/",
       "priority": 10
     },
@@ -1508,19 +1260,16 @@
     {
       "name": "Garage TV Latin America",
       "isFree": true,
-      "logo": "https://i.imgur.com/FqFxog1.png",
       "website": "http://elgarage.com/"
     },
     {
       "name": "Genesis 24",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj7VuN5dRhWe7FaP3SLuZQSZR00.jpg",
       "website": "https://genesis24.net/"
     },
     {
-      "name": "GiraMundo TV",
+      "name": "GiraMundo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://comecuco.org/giramundo-tv/"
     },
     {
@@ -1536,19 +1285,16 @@
     {
       "name": "I.Sat",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-RG0qBmZsSKA/XbfvxD0TeDI/AAAAAAAAAtY/cYZhffEHTbcbie0w_IMG2sgSAyqs80zPACLcBGAsYHQ/s200/56.png",
       "website": "http://www.isat.tv/"
     },
     {
       "name": "Itel TV Canal 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://iteltv.com.ar/"
     },
     {
       "name": "Kpop Mix",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfS5KEfiwsS35ieZvdUdJKkwLlZ.jpg"
+      "isFree": true
     },
     {
       "name": "KZO",
@@ -1558,47 +1304,39 @@
     {
       "name": "La Nacion +",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "http://lnmas.lanacion.com.ar/"
     },
     {
       "name": "Lapacho TV Canal 11",
       "isFree": true,
-      "logo": "https://i.imgur.com/PmFBL7x.png",
       "website": "https://www.lapachotv.com.ar/"
     },
     {
-      "name": "Latina TV 42.1",
+      "name": "Latina TV 42.",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/atenalatina.png",
       "website": "https://www.latinatv.com.ar/online/"
     },
     {
-      "name": "Limay TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Limay",
+      "isFree": true
     },
     {
       "name": "Linea Directa Radio",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPlA81QP61aUBQHwLmei5X9EXub.jpg"
+      "isFree": true
     },
     {
-      "name": "Link TV",
+      "name": "Link",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg",
       "website": "https://linktvcanal.com/"
     },
     {
-      "name": "Litus TV",
+      "name": "Litus",
       "isFree": true,
-      "logo": "https://i.imgur.com/QIGSf4L.png",
       "website": "http://www.litustv.com.ar/"
     },
     {
       "name": "Live Peru TV Streaming",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": true
     },
     {
       "name": "LTO Television",
@@ -1608,112 +1346,91 @@
     {
       "name": "Malbec Play",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://malbecplay.com/"
     },
     {
       "name": "Mas Chic",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-xJZbc0hvFXg/Xm7SE-8HbyI/AAAAAAAABnk/-1fm_mQwbi8H-TzKWjfka0VgbJbbd4naQCLcBGAsYHQ/s200/47.png",
       "website": "https://maschic.com/"
     },
     {
       "name": "Metro",
       "isFree": true,
-      "keywords": "metro -tv"
-    },
-    {
-      "name": "Metro TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/30/large/20250130005640435069_22.jpg",
+      "keywords": "metro",
       "website": "https://www.metropolitanafm.com.ar/"
     },
     {
-      "name": "Milenio TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Milenio",
+      "isFree": true
     },
     {
-      "name": "Milenium TV",
+      "name": "Milenium",
       "isFree": true,
       "website": "https://www.mileniumtv.com.ar/"
     },
     {
       "name": "Misiones Cuatro",
       "isFree": true,
-      "logo": "https://i.imgur.com/HXRpRlK.png",
       "website": "https://misionescuatro.com/videos-de-misionescuatro/"
     },
     {
-      "name": "Monte TV",
+      "name": "Monte",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg",
       "website": "http://canalmontetv.com.ar/"
     },
     {
       "name": "Moreno Vision",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://morenovision.net/"
     },
     {
       "name": "Multimedios Colonia Avellaneda",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/multimedios_logo.png",
       "website": "https://multimediosca.com.ar/"
     },
     {
-      "name": "Neo TV",
+      "name": "Neo",
       "isFree": true,
-      "logo": "https://i.ibb.co/XZyzTKMy/image.png",
       "website": "https://neotvdigital.com.ar/"
     },
     {
-      "name": "Neox TV",
+      "name": "Neox",
       "isFree": true,
-      "logo": "https://i.imgur.com/eIX71c9.png",
       "website": "https://sonicaargentina.com.ar/"
     },
     {
       "name": "NG Federal",
       "isFree": true,
-      "logo": "https://i.imgur.com/lJCIqYn.png",
       "website": "http://ngfederal.ar/"
     },
     {
-      "name": "Norte TV",
+      "name": "Norte",
       "isFree": true,
-      "logo": "https://i.ibb.co/bRQbVdwN/image.png",
       "website": "https://www.ntvcanal7.com.ar/"
     },
     {
-      "name": "Panc TV",
+      "name": "Panc",
       "isFree": true,
-      "logo": "https://i.imgur.com/u1dnEVv.png",
       "website": "https://panctv.com.ar/"
     },
     {
       "name": "Paraguay TV Argentina",
       "isFree": true,
-      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZRXOEqET6M7FZmTDS4cZ_MXET0voS8wMndWiIQs8Q=s900-c-k-c0x00ffffff-no-rj",
       "website": "https://www.paraguaytv.gov.py/"
     },
     {
-      "name": "Patagonia TV",
+      "name": "Patagonia",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.patagoniatvtour.com/"
     },
     {
-      "name": "Pinamar TV",
+      "name": "Pinamar",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOm7VAlsuJ5ixXg3pgKY8a7uhqt.jpg",
       "website": "https://pinamartv.com.ar/"
     },
     {
       "name": "Play Television",
-      "isFree": true,
-      "logo": "https://i.ibb.co/nR85vvb/2021-01-03.jpg"
+      "isFree": true
     },
     {
       "name": "Plus TV Machagai",
@@ -1723,137 +1440,114 @@
     {
       "name": "PowerHD",
       "isFree": true,
-      "logo": "https://i.imgur.com/15gMDG0.png",
       "website": "https://www.radiopower.com.ar/powerhd/webroot/index.php?altvideoplayer=1"
     },
     {
-      "name": "Power Max Radio TV",
+      "name": "Power Max Radio",
       "isFree": true,
-      "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
       "website": "https://www.fmpowermax.com.ar/"
     },
     {
       "name": "Radio 3 Cadena Patagonia",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radio3cadenapatagonia.com.ar/"
     },
     {
       "name": "Radiocanal",
       "isFree": true,
-      "logo": "https://i.ibb.co/NNyDWsz/download-8.png",
       "website": "https://www.radiocanal.com.ar/"
     },
     {
       "name": "Radio FM Trujui",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://fmtrujui.com/"
     },
     {
       "name": "Radio Mitre",
       "isFree": true,
-      "logo": "https://i.imgur.com/uvck4Vj.png",
       "website": "https://radiomitre.cienradios.com/"
     },
     {
-      "name": "Radio Yguazu TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/kVi0ICm.png"
+      "name": "Radio Yguazu",
+      "isFree": true
     },
     {
       "name": "RBD Radio Multimedia",
       "isFree": true,
-      "logo": "https://i.imgur.com/TD0I4hG.png",
       "website": "https://rbdradio.com.ar/"
     },
     {
-      "name": "Remanso TV",
+      "name": "Remanso",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://remansotv.ar/"
     },
     {
       "name": "Retro Magico",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.solumedia.com.ar/video/retromagico/"
     },
     {
       "name": "San Luis CTV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
       "website": "https://www.sanluisctv.com.ar/"
     },
     {
       "name": "San Luis +",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
       "website": "https://sanluismas.com/"
     },
     {
-      "name": "San Pedro TV",
+      "name": "San Pedro",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
       "website": "https://www.sanpedrotv.com.ar/"
     },
     {
       "name": "Santa Fe Canal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t958e5rkQJtytl64EzbAKLGlRFE.jpg",
       "website": "https://www.santafecanal.com.ar/"
     },
     {
-      "name": "Senate TV",
+      "name": "Senate",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.senado.gob.ar/parlamentario/sesiones/enVivo"
     },
     {
-      "name": "Senillosa TV",
+      "name": "Senillosa",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.senillosatv.com.ar/"
     },
     {
-      "name": "Sicardi TV",
+      "name": "Sicardi",
       "isFree": true,
-      "logo": "https://i.imgur.com/W2EUIL2.png",
       "website": "https://sicarditv.com.ar/"
     },
     {
-      "name": "Solive TV",
+      "name": "Solive",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://solivetv.net/"
     },
     {
       "name": "Somos La Pampa",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/rakutentv.png",
       "website": "https://www.somosnoticias.com.ar/"
     },
     {
       "name": "Somos Rosario",
-      "isFree": true,
-      "logo": "https://go4.pw/SPAIN/rakutentv.png"
+      "isFree": true
     },
     {
-      "name": "Sony Channel",
+      "name": "Sony",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png",
       "website": "https://la.sonychannel.com/"
     },
     {
       "name": "Space",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://canalspacela.com/"
     },
     {
       "name": "TDC Online",
       "isFree": true,
-      "logo": "https://go4.pw/MBCGROUP/TDC HD.png",
       "website": "https://tdconline.com.ar/"
     },
     {
@@ -1861,21 +1555,18 @@
       "isFree": true
     },
     {
-      "name": "TEC TV",
+      "name": "TEC",
       "isFree": true,
-      "logo": "https://i.imgur.com/EGCq1wc.png",
       "website": "http://www.tectv.gob.ar/"
     },
     {
       "name": "Telecinco",
       "isFree": true,
-      "logo": "https://i.imgur.com/JECsKdk.png",
       "website": "http://www.cablecanalriomayo.com.ar/telecinco-trelew/"
     },
     {
       "name": "Telecondor Satelital",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/Claro ARGENTINISIMA SATELITAL.png",
       "website": "https://telecondorsatelital.es.tl/"
     },
     {
@@ -1884,9 +1575,8 @@
       "website": "https://telecreativa.com/"
     },
     {
-      "name": "Telediario TV",
+      "name": "Telediario",
       "isFree": true,
-      "logo": "https://lge-static.ottera.tv/prod/mul/linear_channel/thumbnails/poster/280x400/tdnow-p.png",
       "website": "https://telediariotelevision.com.ar/"
     },
     {
@@ -1898,63 +1588,54 @@
       "name": "Telefe",
       "isFree": true,
       "keywords": "telefe -bahia blanca -buenos aires -cordoba -internacional -mar del plata -rosario -salta -santa fe -tucuman",
-      "logo": "https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",
       "website": "https://www.telefe.com",
       "priority": 10
     },
     {
       "name": "Telefe Bahia Blanca",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://bahia.mitelefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Buenos Aires",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://mitelefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Cordoba",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://cordoba.telefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Internacional",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://telefeinternacional.com.ar/",
       "priority": 10
     },
     {
       "name": "Telefe Mar del Plata",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://mardelplata.mitelefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Salta",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://salta.mitelefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Santa Fe",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://santafe.mitelefe.com/",
       "priority": 10
     },
     {
       "name": "Telefe Tucuman",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "website": "http://tucuman.telefe.com/",
       "priority": 10
     },
@@ -1966,7 +1647,6 @@
     {
       "name": "TeleMix",
       "isFree": true,
-      "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
       "website": "https://latelemix.blogspot.com/"
     },
     {
@@ -1977,24 +1657,21 @@
     },
     {
       "name": "Tele Posadas",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png"
+      "isFree": true
     },
     {
       "name": "Te lo Cuento y Que",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwFMo0y81ysE8BsH8iCqzHnzzQ9.jpg",
       "website": "https://telocuentoyque.com.ar/"
     },
     {
-      "name": "Telpin TV Canal 2 HD",
+      "name": "Telpin TV Canal 2",
       "isFree": true,
       "website": "http://www.telpintv.com.ar/"
     },
     {
-      "name": "Tierra Mia TV",
+      "name": "Tierra Mia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7hjC7UebawduaVSqnekvyjQ7JI.jpg",
       "website": "https://www.diario26.com/"
     },
     {
@@ -2005,27 +1682,24 @@
     {
       "name": "TRU",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_adulteswim.png",
       "website": "https://www.trutv.ar/"
     },
     {
       "name": "TUM",
       "isFree": true,
-      "logo": "https://i.imgur.com/lLlu6ZA.png",
       "website": "https://transmedia.unam.edu.ar/"
     },
     {
       "name": "Turismo Vision Argentina",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
+      "isFree": true
     },
     {
-      "name": "TV40",
+      "name": "TV 40",
       "isFree": true,
       "website": "https://rtv40.blogspot.com/p/tv40-en-vivo.html"
     },
     {
-      "name": "TVC5",
+      "name": "TVC 5",
       "isFree": true,
       "website": "https://www.tvc5.net/tvc5"
     },
@@ -2042,60 +1716,50 @@
       "name": "TV Publica",
       "isFree": true,
       "keywords": "tv publica -fueguina -marcos paz",
-      "logo": "https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",
       "website": "https://www.tvpublica.com.ar/"
     },
     {
       "name": "TV Publica Fueguina",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvpublicafueguina.com.ar/"
     },
     {
       "name": "TV Publica Marcos Paz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.mediospublicos.marcospaz.net/"
     },
     {
       "name": "TV Solidaria",
       "isFree": true,
-      "logo": "https://i.imgur.com/M0fMypR.png",
       "website": "https://solidariatv.com.ar/"
     },
     {
-      "name": "Unirio TV",
+      "name": "Unirio",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://uniriotv.unrc.edu.ar/"
     },
     {
       "name": "Uniteve",
       "isFree": true,
-      "logo": "https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg",
       "website": "http://uniteve.com.ar/"
     },
     {
       "name": "Urbana TeVe",
       "isFree": true,
-      "logo": "https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj",
       "website": "https://www.urbanateve.com/"
     },
     {
       "name": "Urban Mix",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBmON7qbru3VvV6AaorgtXhMmF.jpg"
+      "isFree": true
     },
     {
-      "name": "UTN TV",
+      "name": "UTN",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.utnmedios.com/utn-tv"
     },
     {
-      "name": "Valle TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jpMGO0qIzcR3MQr9x4AzWuMJl.jpg"
+      "name": "Valle",
+      "isFree": true
     },
     {
       "name": "VariedTV",
@@ -2105,25 +1769,21 @@
     {
       "name": "Venus",
       "isFree": null,
-      "logo": "http://epg.one/img2/3253.png",
       "website": "http://www.venusgo.com/"
     },
     {
-      "name": "Viajar TV",
+      "name": "Viajar",
       "isFree": true,
-      "logo": "https://a.jsrdn.com/hls/23195/viajar-tv/logo_20250102_223334_36.png",
       "website": "https://viajartv.tv/"
     },
     {
-      "name": "Villa Mantero TV",
+      "name": "Villa Mantero",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg",
       "website": "https://tv.villamantero.com.ar/"
     },
     {
       "name": "Volver",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-hK7dPTyre0Y/X2QID2W4DOI/AAAAAAAABV8/Ns9rVmt8zRgGlWt1QTBMTJKz9qG3C6_wACLcBGAsYHQ/w200-h200/23%2BVolver.png",
       "website": "https://www.volver.com.ar/",
       "priority": 10
     },
@@ -2131,51 +1791,39 @@
       "name": "VTV",
       "isFree": true,
       "keywords": "vtv -mendoza",
-      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png",
       "website": "http://quierovertv.com/"
     },
     {
       "name": "VTV Mendoza",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/vtv.png"
+      "isFree": true
     },
     {
       "name": "WOBI",
       "isFree": true,
-      "logo": "https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png",
       "website": "https://www.wobi.com/"
     },
     {
-      "name": "X24",
-      "isFree": true
-    },
-    {
-      "name": "Xama TV",
+      "name": "Xama",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.xama.tv/"
     },
     {
       "name": "Xtrema Comedy",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "ZN Noticias",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/VIX.png",
       "website": "http://www.znnoticias.com/"
     },
     {
-      "name": "Zonda TV",
+      "name": "Zonda",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.diarioelzondasj.com.ar/canales-en-vivo-2/"
     },
     {
       "name": "5tv",
       "isFree": true,
-      "logo": "https://go4.pw/ARMENIA/5tv.png",
       "website": "http://www.tvcinco.com/"
     },
     {
@@ -2184,80 +1832,67 @@
       "website": "https://canal7salta.com/"
     },
     {
-      "name": "NET TV",
+      "name": "NET",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png",
       "website": "https://www.canalnet.tv/"
+    },
+    {
+      "name": "AVC",
+      "isFree": true,
+      "priority": 4,
+      "website": "https://sites.google.com/view/avchd/inicio"
     }
   ],
   "News": [
     {
       "name": "24/7 Canal de Noticias",
       "isFree": true,
-      "shortName": "2CDN",
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png"
-    },
-    {
-      "name": "A24",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/CHILE/A24.png",
-      "website": "https://www.a24.com"
+      "shortName": "2CDN"
     },
     {
       "name": "Canal 26",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.canal26.com"
     },
     {
       "name": "Informacion Periodística",
-      "isFree": true,
-      "shortName": "IP"
+      "isFree": true
     },
     {
       "name": "RT en Español",
-      "isFree": true,
-      "logo": "https://i.imgur.com/aOaSv3i.png"
+      "isFree": true
     },
     {
       "name": "TN Argentina",
       "isFree": true,
-      "shortName": "TN",
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TN.png",
       "website": "https://tn.com.ar"
     },
     {
       "name": "VPItv",
-      "isFree": true,
-      "logo": "https://i.imgur.com/X5hyKU8.png"
+      "isFree": true
     },
     {
       "name": "teleSUR",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "America Tucuman",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://americatucuman.com/"
     },
     {
       "name": "ATV Argentina",
       "isFree": true,
-      "logo": "https://i.ibb.co/rMBVDmZ/atvargentina-x1.png",
       "website": "https://atvargentina.com/"
     },
     {
       "name": "C5N",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/CHILE/c5n.png",
       "priority": 8
     },
     {
       "name": "Canal E",
       "isFree": true,
-      "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
       "website": "https://www.perfil.com/canal-e"
     },
     {
@@ -2267,37 +1902,31 @@
     },
     {
       "name": "CnAr Noticias",
-      "isFree": true,
-      "logo": "https://go4.pw/SPAIN/VIX.png"
+      "isFree": true
     },
     {
-      "name": "Cronica TV",
+      "name": "Cronica",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/CRONICATV.png",
       "website": "https://www.cronicatv.com.ar/"
     },
     {
       "name": "Demos Radio Visual",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://demos.com.ar/"
     },
     {
       "name": "El Destape",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.eldestapeweb.com/"
     },
     {
       "name": "El Once",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.elonce.com/tv/"
     },
     {
-      "name": "EPS TV",
+      "name": "EPS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://noticiaseps.com.ar/tvvivopop.html"
     },
     {
@@ -2308,43 +1937,36 @@
     {
       "name": "IP Noticias",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
       "website": "https://ip.digital/"
     },
     {
-      "name": "Los Primeros TV",
+      "name": "Los Primeros",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyxh9Wr9iYXsn1kJs77IoACNL2d.jpg",
       "website": "https://losprimeros.tv/"
     },
     {
       "name": "Mercurio Noticias",
       "isFree": true,
-      "logo": "https://go4.pw/SPAIN/VIX.png",
       "website": "https://videostream.shockmedia.com.ar/public/mercuriotv"
     },
     {
       "name": "Multivision Federal",
       "isFree": true,
-      "logo": "https://i.imgur.com/jX0lqy3.png",
       "website": "https://multivision.tv/"
     },
     {
-      "name": "Pares TV",
+      "name": "Pares",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://parestv.com.ar/"
     },
     {
-      "name": "Quantica TV",
+      "name": "Quantica",
       "isFree": true,
-      "logo": "https://i.imgur.com/6f8EYC2.jpeg",
       "website": "https://quanticaradio.com.ar/"
     },
     {
       "name": "Televideo Regional",
       "isFree": true,
-      "logo": "https://i.imgur.com/crMQmn4.png",
       "website": "http://www.televideoinforma.com.ar/",
       "priority": 4
     },
@@ -2356,8 +1978,7 @@
     },
     {
       "name": "TV Sindical",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "Sports": [
@@ -2367,30 +1988,25 @@
     },
     {
       "name": "Claro Sports",
-      "isFree": false,
-      "logo": "https://images.iptvmate.net/tvglogo/8685a1facf568d2523c7b32dbd51728e.png"
+      "isFree": false
     },
     {
       "name": "DeporTV",
-      "isFree": false,
-      "logo": "https://i.imgur.com/iyYLNRt.png"
+      "isFree": false
     },
     {
       "name": "America Sports",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.amsports.com.ar/"
     },
     {
       "name": "Canal Showsport",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canalshowsport.com.ar/"
     },
     {
       "name": "CnAr Deportes",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/Univision.png"
+      "isFree": true
     },
     {
       "name": "ESPN Premium",
@@ -2407,7 +2023,6 @@
     {
       "name": "Fox Sports 2",
       "isFree": true,
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es",
       "website": "http://www.foxsportsla.com/",
       "priority": 10
     },
@@ -2425,7 +2040,6 @@
     {
       "name": "TNT Sports",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
       "website": "https://tntsports.com.ar/"
     },
     {
@@ -2437,31 +2051,26 @@
     {
       "name": "TyC Sports 2",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png",
       "website": "http://www.tycsports.com/"
     },
     {
       "name": "TyC Sports 3",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png",
       "website": "http://www.tycsports.com/"
     },
     {
       "name": "TyC Sports 4",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png",
       "website": "http://www.tycsports.com/"
     },
     {
       "name": "TyC Sports Latin America",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png",
       "website": "http://www.tycsports.com/global/internacional.php"
     },
     {
       "name": "TyC Sports USA",
       "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png",
       "website": "http://www.tycsports.com/global/internacional.php"
     }
   ],
@@ -2469,57 +2078,48 @@
     {
       "name": "AVC",
       "isFree": true,
-      "priority": 4
+      "priority": 4,
+      "website": "https://sites.google.com/view/avchd/inicio"
     },
     {
       "name": "Canal 10 Rio Negro",
       "isFree": true,
       "shortName": "C1RN",
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "priority": 4
     },
     {
       "name": "Canal C",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/66fd64444b8920f6534ae1aee5801818.png",
       "priority": 4
     },
     {
       "name": "Canal Provincial",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "priority": 4
     },
     {
-      "name": "Catacama TV",
+      "name": "Catacama",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 4
     },
     {
-      "name": "Chaco TV",
+      "name": "Chaco",
       "isFree": true,
-      "logo": "https://i.imgur.com/b6RerDw.png",
       "priority": 4
     },
     {
       "name": "Ciudad TV Resistencia",
       "isFree": true,
-      "shortName": "CTR",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sAyy6HX80PzZft7n0PIKC6mRYp.jpg",
       "priority": 4
     },
     {
-      "name": "Fenix TV",
+      "name": "Fenix",
       "isFree": true,
-      "logo": "https://static.wikia.nocookie.net/drama/images/e/e5/Phoenix1.jpg/revision/latest?cb=20120521023519&path-prefix=es",
       "priority": 4
     },
     {
       "name": "TV Maná Argentina",
       "isFree": true,
-      "shortName": "TMA",
-      "logo": "https://i.imgur.com/Liu0UnB.png",
       "priority": 4
     },
     {
@@ -2530,38 +2130,31 @@
     {
       "name": "Telefe Rosario",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/TELEFETV.png",
       "priority": 10
     },
     {
       "name": "Telenord Corrientes",
       "isFree": true,
-      "shortName": "TC",
-      "logo": "https://i.imgur.com/byxXHzq.png",
       "priority": 4
     }
   ],
   "Kids": [
     {
-      "name": "Anime Zone TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QUiKtq4qIXNFcMIiVWGWF4kWp0.jpg"
+      "name": "Anime Zone",
+      "isFree": true
     },
     {
       "name": "Boomerang Latinoamérica",
       "isFree": true,
-      "shortName": "BL",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
       "priority": 9
     },
     {
-      "name": "Locomotion TV",
+      "name": "Locomotion",
       "isFree": true
     },
     {
       "name": "Pakapaka",
-      "isFree": true,
-      "logo": "https://go4.pw/LATINO/ARGENTINA/Pakapaka.png"
+      "isFree": true
     },
     {
       "name": "Toonizaki",
@@ -2575,14 +2168,12 @@
     {
       "name": "Disney Channel Latin America",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://www.disneylatino.com/tv",
       "priority": 9
     },
     {
       "name": "Disney Jr. Latin America",
       "isFree": true,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "website": "https://www.disneylatino.com/",
       "priority": 9
     },
@@ -2592,9 +2183,8 @@
       "website": "https://plimplim.tv/"
     },
     {
-      "name": "Super Kaos TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+      "name": "Super Kaos",
+      "isFree": true
     },
     {
       "name": "TATETI",
@@ -2604,31 +2194,26 @@
     {
       "name": "The BD Network",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://bdnetworktv.wixsite.com/bd-network/"
     },
     {
       "name": "Xtrema Anime",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Cartoons",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://xtrematv.com/"
     },
     {
       "name": "Xtrema Retro Cartoons",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     }
   ],
   "Auto": [
     {
-      "name": "El Garage TV",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "El Garage",
+      "isFree": true
     }
   ],
   "Comedy": [
@@ -2640,16 +2225,13 @@
   "Cooking": [
     {
       "name": "Tastemade en Español",
-      "isFree": true,
-      "shortName": "TEE",
-      "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "A Son de Salsa",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/619307.png"
+      "isFree": true
     },
     {
       "name": "MusicTop",
@@ -2657,14 +2239,11 @@
     },
     {
       "name": "Planeta Multimedios",
-      "isFree": true,
-      "shortName": "PM",
-      "logo": "https://go4.pw/BULGARIA/PLANETATV.png"
+      "isFree": true
     },
     {
-      "name": "Allegro HD",
+      "name": "Allegro",
       "isFree": true,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://allegrohd.com/"
     },
     {
@@ -2673,14 +2252,8 @@
       "website": "https://alternatv.ar"
     },
     {
-      "name": "Am1020",
-      "isFree": true,
-      "website": "http://am1020.com.ar/"
-    },
-    {
       "name": "Azahares Radiovisual Multimedia",
-      "isFree": true,
-      "logo": "https://i.imgur.com/g1BFoSs.png"
+      "isFree": true
     },
     {
       "name": "Beats Radio",
@@ -2689,171 +2262,142 @@
     },
     {
       "name": "Cadena Cover's Clasicos",
-      "isFree": true,
-      "logo": "https://go4.pw/SPAIN/Cadena.png"
+      "isFree": true
     },
     {
-      "name": "Chamame TV",
+      "name": "Chamame",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://chamametv.com.ar/"
     },
     {
       "name": "CM El Canal de la Musica",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/CRTV.png",
       "website": "http://cmmusica.com.ar/"
     },
     {
       "name": "Complejo Dance",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.complejodance.com.ar/"
     },
     {
       "name": "Cumbia Mix",
       "isFree": true,
-      "logo": "https://i.imgur.com/jL1kLyS.png",
       "website": "https://cumbiamix.com"
     },
     {
-      "name": "Dance TV",
+      "name": "Dance",
       "isFree": true
     },
     {
-      "name": "Dial Radio TV",
+      "name": "Dial Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
       "website": "https://dialradio.tv/"
     },
     {
-      "name": "Global TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527005653870303_72.png"
+      "name": "Global",
+      "isFree": true
     },
     {
       "name": "Ingenio FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/pAppH1M.png",
       "website": "https://www.ingeniofm.com/"
     },
     {
-      "name": "LT17",
+      "name": "LT 17",
       "isFree": true,
       "website": "https://radiolt17.com/"
     },
     {
       "name": "Mas FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/TJ4gWQM.png",
       "website": "https://www.masfm.com/"
     },
     {
-      "name": "Mas Musica TV",
+      "name": "Mas Musica",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg",
       "website": "https://www.masmusica.com.ar/shop"
     },
     {
       "name": "Metropolitana FM",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://www.metropolitana935fm.com.ar/p/video-en-vivo.html"
     },
     {
       "name": "Much",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
       "website": "http://muchla.com/"
     },
     {
-      "name": "OneRadio TV",
+      "name": "OneRadio",
       "isFree": true,
-      "logo": "https://myradioenvivo.ar/public/uploads/radio_img/radio-one-103-7/play_250_250.jpg",
       "website": "https://oneradio1073.com/"
     },
     {
       "name": "Quiero Musica en mi Idioma",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoCZ84UK0E3X7ru4VAE2ept88zl.jpg",
       "website": "https://www.qmusica.tv/"
     },
     {
-      "name": "Radio Conexion Web TV",
+      "name": "Radio Conexion Web",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radioconexionwebtv.com.ar/",
       "priority": 4
     },
     {
       "name": "Radio Realpolitik",
       "isFree": true,
-      "logo": "https://i.imgur.com/L9KCdTX.png",
       "website": "https://realpolitik.fm/"
     },
     {
       "name": "Red Vision Radio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg",
       "website": "https://redvisionradio.com/"
     },
     {
       "name": "Senal Urbana",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png",
       "website": "https://urbanaonline.ar/miranos-en-vivo/"
     },
     {
-      "name": "Super Classics TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png"
+      "name": "Super Classics",
+      "isFree": true
     },
     {
-      "name": "Tango TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xGDaxBE8NazccpXN6oiwoOe67b.jpg"
+      "name": "Tango",
+      "isFree": true
     },
     {
       "name": "TV Estacion Mix",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://radioestacionmix.jimdofree.com/"
     },
     {
       "name": "X Level Media",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
       "website": "https://xlevelmedia.com/"
     }
   ],
   "Education & Culture": [
     {
       "name": "CHIC Magazine",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j001jrNNlOBXPyCPcldtSQqVWYv.jpg"
+      "isFree": true
     },
     {
       "name": "Hiperconectados Televisión",
-      "isFree": true,
-      "shortName": "HT",
-      "logo": "https://i.imgur.com/CBbbrkI.png"
+      "isFree": true
     },
     {
-      "name": "Platzi TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/vEzeqHP.png"
+      "name": "Platzi",
+      "isFree": true
     },
     {
       "name": "TVU Universidad Nacional de La Plata",
       "isFree": true,
-      "shortName": "TUNDLP",
-      "logo": "https://i.ibb.co/5Rds9FB/tvu.png",
       "priority": 3
     },
     {
-      "name": "Abra TV",
+      "name": "Abra",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.abratv.com.ar/"
     },
     {
@@ -2864,42 +2408,35 @@
     {
       "name": "Canal A",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.canalaonline.com/"
     },
     {
       "name": "Canal Universidad",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://canal.mdp.edu.ar/index.php"
     },
     {
-      "name": "Catamarca TV",
+      "name": "Catamarca",
       "isFree": true,
-      "logo": "https://i.imgur.com/CEuPoqG.png",
       "website": "http://catamarcartv.com/"
     },
     {
       "name": "Conexion Educativa",
-      "isFree": true,
-      "logo": "https://i.imgur.com/pXS38zo.png"
+      "isFree": true
     },
     {
-      "name": "Construir TV",
+      "name": "Construir",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.construirtv.com/"
     },
     {
-      "name": "El Histonauta TV",
+      "name": "El Histonauta",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://xtrematv.com/variedades/"
     },
     {
       "name": "Encuentro Internacional",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/ENCUENTRO.png",
       "website": "http://encuentro.gob.ar/"
     },
     {
@@ -2909,7 +2446,6 @@
     {
       "name": "Senal U",
       "isFree": true,
-      "logo": "https://go4.pw/LATINO/Se%C3%B1al.png",
       "website": "https://www.unidiversidad.com.ar/senalu"
     },
     {
@@ -2920,51 +2456,44 @@
     {
       "name": "TV Universidad",
       "isFree": true,
-      "logo": "https://i.imgur.com/0MXsQ25.png",
       "website": "https://tv.unlp.edu.ar/"
     },
     {
-      "name": "UN3 TV",
+      "name": "UN 3",
       "isFree": true,
       "website": "https://un3.tv/"
     },
     {
-      "name": "UNaM TV",
+      "name": "UNaM",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/TVUnam.png",
       "website": "https://transmedia.unam.edu.ar/"
     },
     {
       "name": "Xtrema Animal",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "CINE.AR",
-      "isFree": false,
-      "logo": "https://i.imgur.com/RPLyrIC.png"
+      "isFree": false
     },
     {
       "name": "SEO TV Novelas",
-      "isFree": false,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": false
     },
     {
-      "name": "Cordoba TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/qVe0hET.png"
+      "name": "Cordoba",
+      "isFree": true
     },
     {
-      "name": "Cosmos Tv",
+      "name": "Cosmos",
       "isFree": true,
       "website": "https://fmcosmos.com/"
     },
     {
       "name": "Europa Europa",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/europaeuropa.png",
       "website": "https://www.europaeuropa.tv/"
     },
     {
@@ -2973,87 +2502,71 @@
       "website": "https://www.filmandarts.tv/"
     },
     {
-      "name": "LAMIL35 TV",
+      "name": "LAMIL 35",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.lamil35.com.ar/"
     },
     {
-      "name": "Maxima TV",
-      "isFree": true,
-      "logo": "https://go4.pw/NEDERLAND/VIDEOLAND.png"
+      "name": "Maxima",
+      "isFree": true
     },
     {
       "name": "Video Club",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg",
       "website": "https://videoclub.com.ar/"
     },
     {
       "name": "Xtrema Accion",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Asia",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Cine Clasico",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Drama",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Europa",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Family",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Hindi",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Latina",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Retro Series",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Series",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Suspenso",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
       "name": "Xtrema Terror",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "https://xtrematv.com/?p=1456"
     },
     {
       "name": "Cine.Ar",
       "isFree": true,
-      "logo": "https://i.imgur.com/RPLyrIC.png",
       "website": "http://tv.cine.ar/"
     }
   ],
@@ -3061,15 +2574,13 @@
     {
       "name": "Radio TV Neuquen",
       "isFree": true,
-      "logo": "https://i.imgur.com/HXBLozl.png",
       "priority": 4
     }
   ],
   "Shop": [
     {
       "name": "Hogar Shopping Club",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gShIscjUsRrrJ0LeKbaNf4vOthR.jpg"
+      "isFree": true
     }
   ]
 }

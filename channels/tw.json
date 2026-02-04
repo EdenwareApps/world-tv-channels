@@ -2,294 +2,161 @@
   "Religious": [
     {
       "name": "GOOD TV CH1 綜合台",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH10 烤箱讀書會 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH12 維他命施",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH13 健康新煮流 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH14 真情部落格",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH15 真情之夜",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH16 葉光明",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH17 大衛鮑森",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH18 國際講員",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH19 共享觀點",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH2 真理台",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH20 恩典時分",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH21 華語講員",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH22 職場新視野",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH23 空中主日學 生活",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH24 劉三講古",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH25 福氣人生",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH26 空中主日學 查經",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH27 空中聖經學院",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH28 現代詩歌",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH29 經典音樂河",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH3 真情部落格 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH30 天堂敬拜",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH31 福音佈道音樂會",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH32 特會系列：禱告與轉化",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH33 特會系列：研經培靈",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH37 特會系列：以色列專題",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH38 特會系列：青年特會",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH40 家庭8點檔轉轉發現愛",
-      "isFree": true,
-      "shortName": "GTC家",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH41 幸福學堂",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH44 烤箱讀書會",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH45 卡通",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH47 牧者頻道",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH49 禱告頻道",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH5 共享觀點 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH50 國際講員 中文發音",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH6 親近神 詩歌音樂",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH7 禱告大軍 信息",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH8 幸福學堂 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "GOOD TV CH9 愛+好醫生 短版",
-      "isFree": true,
-      "shortName": "GTC",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png"
-    },
-    {
-      "name": "唯心電視",
       "isFree": true
     },
     {
-      "name": "Beautiful Life TV",
+      "name": "GOOD TV CH12 維他命施",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH14 真情部落格",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH15 真情之夜",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH16 葉光明",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH17 大衛鮑森",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH18 國際講員",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH19 共享觀點",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH2 真理台",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH20 恩典時分",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH21 華語講員",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH22 職場新視野",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH24 劉三講古",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH25 福氣人生",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH27 空中聖經學院",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH28 現代詩歌",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH29 經典音樂河",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH3 真情部落格 短版",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH30 天堂敬拜",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH31 福音佈道音樂會",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH41 幸福學堂",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH44 烤箱讀書會",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH45 卡通",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH47 牧者頻道",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH49 禱告頻道",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH5 共享觀點 短版",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH6 親近神 詩歌音樂",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH7 禱告大軍 信息",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH8 幸福學堂 短版",
+      "isFree": true
+    },
+    {
+      "name": "GOOD TV CH9 愛+好醫生 短版",
+      "isFree": true
+    },
+    {
+      "name": "Beautiful Life",
       "isFree": true,
-      "logo": "https://i.imgur.com/hkwcBM9.png",
       "website": "http://www.bltv.tv/"
     },
     {
       "name": "CBTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "https://www.cbtv.com.tw/"
     },
     {
       "name": "CGNTV Chinese",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/japon/jp_CGNTV.png",
       "website": "http://chinese.cgntv.net/"
     },
     {
-      "name": "Chengte TV",
+      "name": "Chengte",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tv.chengte.org.tw/"
     },
     {
       "name": "Good 2",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://www.goodtv.tv/"
     },
     {
-      "name": "Good TV",
+      "name": "Good",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224182510955186_74.jpeg",
       "website": "https://www.goodtv.tv/"
     },
     {
-      "name": "Hwazan Satellite TV",
+      "name": "Hwazan Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
       "website": "https://www.hwazan.org/"
     },
     {
-      "name": "Life TV",
+      "name": "Life",
       "isFree": true,
       "website": "http://www.lifetv.org.tw/"
     },
@@ -301,8 +168,7 @@
   "News": [
     {
       "name": "FTV News",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/efb87297c40f821b9672db4bb9378aa2.png"
+      "isFree": true
     },
     {
       "name": "TVBS新聞",
@@ -310,148 +176,69 @@
       "priority": 9
     },
     {
-      "name": "中天新聞",
-      "isFree": true
-    },
-    {
-      "name": "台視新聞",
-      "isFree": true,
-      "priority": 9
-    },
-    {
-      "name": "壹電視新聞台",
-      "isFree": true
-    },
-    {
-      "name": "東森新聞",
-      "isFree": true
-    },
-    {
-      "name": "東森財經新聞",
-      "isFree": true
-    },
-    {
-      "name": "民視台灣",
-      "isFree": true,
-      "priority": 9
-    },
-    {
-      "name": "立法院IVOD直播交通委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播內政委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播司法及法制委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播外交及國防委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播教育及文化委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播朝野協商",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播社會福利及衛生環境委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播經濟委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播財政委員會",
-      "isFree": true
-    },
-    {
-      "name": "立法院IVOD直播院會",
-      "isFree": true
-    },
-    {
       "name": "CTi News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "http://www.ctitv.com.tw/"
     },
     {
       "name": "CTS News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTS.png",
       "website": "https://www.cts.com.tw/"
     },
     {
-      "name": "CTV News Channel",
+      "name": "CTV News",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/04/large/20220304182551139789_85.png",
       "website": "http://new.ctv.com.tw/News"
     },
     {
       "name": "EBC Financial News",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "https://fnc.ebc.net.tw/"
     },
     {
       "name": "EBC News",
       "isFree": true,
       "keywords": "ebc news -asia",
-      "logo": "https://images.iptvmate.net/tvglogo/4882ff946cfa072ee9ddb90fc3413a7d.png",
       "website": "https://news.ebc.net.tw/"
     },
     {
       "name": "EBC News Asia",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://ebcasiatv.com/asia/apps/aboutch.htm?ch=1"
     },
     {
       "name": "Era News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
       "website": "https://www.eracom.com.tw/EraNews/"
     },
     {
       "name": "ETTV Asia News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "http://ettvasia.ebc.net.tw/"
     },
     {
       "name": "ETTV Financial",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArMZkbKMc5upqbO1OEz2oi9LYrG.jpg",
       "website": "http://www.ettvamerica.com/Channels/ChannelDescription?i=Financial"
     },
     {
       "name": "ETTV News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "http://www.ettvamerica.com/Channels/ChannelDescription.cshtml?i=News"
     },
     {
-      "name": "Express Finance Satellite TV",
+      "name": "Express Finance Satellite",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
       "website": "https://www.eftv.com.tw/"
     },
     {
       "name": "FTV Taiwan",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
       "website": "https://www.ftv.com.tw/"
     },
     {
       "name": "Global News",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png",
       "website": "http://www.asiadigital.com.tw/archives/category/globalnews"
     },
     {
@@ -462,176 +249,127 @@
     {
       "name": "Next TV News",
       "isFree": true,
-      "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png",
       "website": "http://www.nexttv.com.tw/NextTV/News/"
     },
     {
       "name": "PTS News 24",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png",
       "website": "https://news.pts.org.tw/video"
     },
     {
       "name": "SET iNews",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
       "website": "https://www.settv.com.tw/"
     },
     {
       "name": "SET News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
       "website": "https://www.settv.com.tw/"
     },
     {
       "name": "TTV Finance",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png",
       "website": "https://www.ttv.com.tw/finance/"
     },
     {
       "name": "TTV News",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/c2444964b0a17de054c43fa039127868.png",
       "website": "https://www.ttv.com.tw/news/"
     },
     {
       "name": "TVBS News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "https://news.tvbs.com.tw/",
       "priority": 9
     },
     {
-      "name": "UDN TV",
+      "name": "UDN",
       "isFree": true,
       "website": "https://video.udn.com/live"
     },
     {
       "name": "Unique Business News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/KTV.png",
       "website": "https://news.ustv.com.tw/"
     }
   ],
   "Entertainment": [
     {
       "name": "CTI TV Asia",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png"
+      "isFree": true
     },
     {
-      "name": "Indigenous TV",
+      "name": "Indigenous",
       "isFree": true
     },
     {
       "name": "Legislative Yuan",
-      "isFree": true,
-      "logo": "https://go4.pw/CANADA/LEGISLATIVE-ASSEMBLY-OF-ONTARIO.png"
-    },
-    {
-      "name": "原住民電視",
       "isFree": true
     },
     {
-      "name": "大愛1",
-      "isFree": true
-    },
-    {
-      "name": "大愛2",
-      "isFree": true
-    },
-    {
-      "name": "大立電視",
-      "isFree": true
-    },
-    {
-      "name": "民視",
-      "isFree": true,
-      "priority": 9
-    },
-    {
-      "name": "民視第一",
-      "isFree": true,
-      "priority": 9
-    },
-    {
-      "name": "Amazing TV",
+      "name": "Amazing",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg",
       "website": "https://www.ourshdtv.com/"
     },
     {
       "name": "Asian Food Network",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg",
       "website": "https://www.tlc-tw.com/afn.php"
     },
     {
-      "name": "Asia Travel TV",
+      "name": "Asia Travel",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "https://www.asiadigital.com.tw/archives/category/asiatravel"
     },
     {
-      "name": "Banana TV",
+      "name": "Banana",
       "isFree": null,
-      "logo": "https://images.iptvmate.net/tvglogo/bd62036b7d0578e42b469fd153d5bc72.png",
       "website": "https://www.ourshdtv.com/"
     },
     {
       "name": "Buddha Compassion TV Station",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAia8POGJHaSLL9RCdo99ZNClKG.jpg",
       "website": "http://rsbc.ehosting.com.tw/bts/home.htm"
     },
     {
-      "name": "Congress Channel 1",
+      "name": "Congress Channel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
       "website": "https://www.parliamentarytv.org.tw/"
     },
     {
       "name": "Congress Channel 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
       "website": "https://www.parliamentarytv.org.tw/"
     },
     {
       "name": "CTi Asia",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "https://ctiasia.chinatimes.com/"
     },
     {
       "name": "CTi Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "https://www.ctitv.com.tw/channel39"
     },
     {
       "name": "CTi North America",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "https://www.ctitv.com.tw/"
     },
     {
-      "name": "CTi TV",
+      "name": "CTi",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "http://www.ctitv.com.tw/"
     },
     {
       "name": "CTi Variety",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTI.png",
       "website": "https://www.ctitv.com.tw/channel36"
     },
     {
       "name": "CTS",
       "isFree": true,
       "keywords": "cts -iq -news",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/02/16/20170216025156378252_53.jpg",
       "website": "https://www.cts.com.tw/",
       "priority": 9
     },
@@ -639,18 +377,16 @@
       "name": "CTV",
       "isFree": true,
       "keywords": "ctv -bravo -classic -news channel",
-      "logo": "https://i.imgur.com/ljKb0UX.png",
       "website": "http://new.ctv.com.tw/",
       "priority": 10
     },
     {
       "name": "CTV Bravo",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "http://new.ctv.com.tw/"
     },
     {
-      "name": "DaAi 1",
+      "name": "DaAi",
       "isFree": true,
       "website": "http://www.daai.tv/"
     },
@@ -665,63 +401,54 @@
       "website": "http://www.daai.tv/"
     },
     {
-      "name": "Dali TV",
+      "name": "Dali",
       "isFree": true
     },
     {
       "name": "Discovery Asia Taiwan",
       "isFree": true,
-      "logo": "https://logodix.com/logo/997920.png",
       "website": "https://www.discoverychannel.com.tw/asia_index.php",
       "priority": 9
     },
     {
       "name": "EBC Asia",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://ebcasiatv.com/"
     },
     {
       "name": "EBC Super",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "https://supertv.ebc.net.tw/"
     },
     {
       "name": "EBC Variety",
       "isFree": true,
       "keywords": "ebc variety -asia",
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://www.ebc.net.tw/"
     },
     {
       "name": "EBC Variety Asia",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://ebcasiatv.com/asia/apps/aboutch.htm"
     },
     {
       "name": "ETTV China",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
       "website": "http://ettvamerica.com/Channels/ChannelDescription?i=China"
     },
     {
       "name": "ETTV Global",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
       "website": "http://www.ettvamerica.com/Channels/ChannelDescription?i=Global"
     },
     {
       "name": "EVE Taiwan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
       "website": "https://www.tlc-tw.com/eve.php"
     },
     {
       "name": "EYE TV Travel",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://www.eyetv.com.tw/"
     },
     {
@@ -733,72 +460,61 @@
       "name": "FTV",
       "isFree": true,
       "keywords": "ftv -drama -news -one -taiwan -travel -variety",
-      "logo": "https://i.imgur.com/YOr1Oac.png",
       "website": "https://www.ftv.com.tw/"
     },
     {
       "name": "FTV Drama",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
       "website": "https://embed.4gtv.tv/ftv/FTVDrama.html"
     },
     {
       "name": "FTV One",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
       "website": "https://www.ftv.com.tw/"
     },
     {
       "name": "FTV Travel",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
       "website": "https://embed.4gtv.tv/ftv/FTVTravel.html"
     },
     {
       "name": "FTV Variety",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/FTV.png",
       "website": "https://embed.4gtv.tv/ftv/FTVVariety.html"
     },
     {
       "name": "Genius Go Go Go",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3KG63zvQGvakfwOTUb8ODgHEnP.jpg",
       "website": "https://www.cts.com.tw/"
     },
     {
-      "name": "Gorgeous Space TV",
+      "name": "Gorgeous Space",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzY0zAdfnLZaVQrQcivasBDTmm4.jpg",
       "website": "https://hhh.com.tw/"
     },
     {
-      "name": "GTV 1",
+      "name": "GTV",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/GTV.png",
       "website": "https://www.gtv.com.tw/channel.php?channelId=27"
     },
     {
       "name": "GTV Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/GTV.png",
       "website": "https://www.gtv.com.tw/channel.php?channelId=86"
     },
     {
-      "name": "GTV K Channel",
+      "name": "GTV K",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/GTV.png",
       "website": "https://www.gtv.com.tw/channel.php?channelId=28"
     },
     {
-      "name": "Happy Channel",
+      "name": "Happy",
       "isFree": null,
       "website": "http://www.star-winged.com.tw/happy/"
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://www.tlc-tw.com/hgtv.php"
     },
     {
@@ -807,19 +523,17 @@
       "website": "http://www.star-winged.com.tw/hi/"
     },
     {
-      "name": "Hot Channel",
+      "name": "Hot",
       "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "http://www.star-winged.com.tw/hot/"
     },
     {
-      "name": "Lohas Channel",
+      "name": "Lohas",
       "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.goldentv.com.tw/index.php?m=Product&a=index&pc_code=1080113&pop=false"
     },
     {
-      "name": "Look TV",
+      "name": "Look",
       "isFree": true,
       "website": "http://www.rtv.com.tw/main.php?ch=ktv"
     },
@@ -831,105 +545,88 @@
     {
       "name": "MTV",
       "isFree": true,
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://www.mtv.com.tw/",
       "priority": 10
     },
     {
-      "name": "Ours HD 1",
+      "name": "Ours HD",
       "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://www.ourshdtv.com/"
     },
     {
       "name": "Ours HD 2",
       "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://www.ourshdtv.com/"
     },
     {
       "name": "Ours HD 3",
       "isFree": null,
-      "logo": "https://go4.pw/UK/skyns.png",
       "website": "https://www.ourshdtv.com/"
     },
     {
-      "name": "Pandora Perfect HD",
+      "name": "Pandora Perfect",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDSxuE9T3HNqAE1chqTTeDZdZkP.jpg",
       "website": "https://www.pandoramove.tw/"
     },
     {
       "name": "Pandora Pink",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDSxuE9T3HNqAE1chqTTeDZdZkP.jpg",
       "website": "https://www.pandoramove.tw/"
     },
     {
-      "name": "Parliamentary TV",
+      "name": "Parliamentary",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/PEOPLE.png",
       "website": "https://www.parliamentarytv.org.tw/#live"
     },
     {
-      "name": "Pili TV",
+      "name": "Pili",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://home.pili.com.tw/"
     },
     {
       "name": "PTS",
       "isFree": true,
       "keywords": "pts -3 -news 24 -taigi",
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png",
       "website": "https://www.pts.org.tw/"
     },
     {
       "name": "PTS 3",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png",
       "website": "http://pts_3.pts.org.tw/"
     },
     {
       "name": "PTS Taigi",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png",
       "website": "https://taigi.pts.org.tw/"
     },
     {
-      "name": "Rainbow Channel",
+      "name": "Rainbow",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRlvr8nejfUa3DphrxNDBWTl55M.jpg",
       "website": "http://www.rtv.com.tw/main.php?ch=bang"
     },
     {
-      "name": "SDTV 1",
+      "name": "SDTV",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.sdtv.com.tw/index_tw.php"
     },
     {
       "name": "SET International",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
       "website": "https://www.settv.com.tw/en/html/"
     },
     {
       "name": "SET Metro",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
       "website": "http://www.settv.com.tw/metro/"
     },
     {
       "name": "SET Taiwan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
       "website": "http://www.settv.com.tw/taiwan/"
     },
     {
-      "name": "Sinda TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Sinda",
+      "isFree": true
     },
     {
       "name": "SJTV",
@@ -937,44 +634,37 @@
       "website": "https://www.sjtv.com.tw/"
     },
     {
-      "name": "Sonsee TV 1",
+      "name": "Sonsee TV",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.sonseetv.com"
     },
     {
       "name": "Sonsee TV 2",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.sonseetv.com/"
     },
     {
       "name": "Sonsee TV 3",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.sonseetv.com/"
     },
     {
       "name": "Sonsee TV 4",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.sonseetv.com/"
     },
     {
-      "name": "Supreme Master TV",
+      "name": "Supreme Master",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3JAOCNjJYO3NdECnnijKYadr8N.jpg",
       "website": "http://suprememastertv.com/"
     },
     {
-      "name": "Taiwan Indigenous TV",
-      "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_taiwan.png"
+      "name": "Taiwan Indigenous",
+      "isFree": true
     },
     {
-      "name": "Taiwan Plus TV",
+      "name": "Taiwan Plus",
       "isFree": true,
-      "logo": "https://go4.pw/FLAGS/flag_taiwan.png",
       "website": "https://www.taiwanplus.com"
     },
     {
@@ -983,28 +673,25 @@
       "website": "https://www.tlc-tw.com/index.php"
     },
     {
-      "name": "Top TV",
+      "name": "Top",
       "isFree": true
     },
     {
       "name": "TTV",
       "isFree": true,
       "keywords": "ttv -finance -news -variety",
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png",
       "website": "https://www.ttv.com.tw/",
       "priority": 10
     },
     {
       "name": "TTV Variety",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png",
       "website": "https://www.ttv.com.tw/"
     },
     {
       "name": "TVBS",
       "isFree": true,
       "keywords": "tvbs -entertainment channel -news",
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "https://www.tvbs.com.tw/",
       "priority": 9
     },
@@ -1015,95 +702,79 @@
       "priority": 9
     },
     {
-      "name": "TVBS Entertainment Channel",
+      "name": "TVBS Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/tvbs.png",
       "website": "http://www.tvbs.com.tw/tvbs_g/",
       "priority": 9
     },
     {
       "name": "UCTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
-      "name": "Unique Satellite TV",
+      "name": "Unique Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/INDIA/KTV.png",
       "website": "https://www.ustv.com.tw/home"
     },
     {
       "name": "Videoland Japan",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://japan.videoland.com.tw/"
     },
     {
-      "name": "Videoland Max TV",
+      "name": "Videoland Max",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://maxtv.videoland.com.tw/"
     },
     {
       "name": "Videoland ONTV",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://ontv.videoland.com.tw/"
     },
     {
-      "name": "Wei Xin TV",
+      "name": "Wei Xin",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://wxtv.asia/"
     },
     {
-      "name": "Wolves Valley TV",
+      "name": "Wolves Valley",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygqDEUCSa8tjW0lzOxJNXB9Ramn.jpg",
       "website": "http://www.esports.com.tw/"
     },
     {
-      "name": "World TV",
+      "name": "World",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.wtvtw.com/"
     },
     {
-      "name": "Z Channel",
+      "name": "Z",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
       "website": "http://www.zchannel.com.tw/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "GSTV Gorgeous Space TV",
-      "isFree": true,
-      "shortName": "GGST",
-      "logo": "https://go4.pw/ASIA/GSTV.png"
+      "name": "GSTV Gorgeous Space",
+      "isFree": true
     },
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "https://www.discoverychannel.com.tw/ap_index.php"
     },
     {
       "name": "CTS IQ",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CTS.png",
       "website": "https://www.cts.com.tw/"
     },
     {
-      "name": "Hakka TV",
+      "name": "Hakka",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.hakkatv.org.tw/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com/asia",
       "priority": 10
     }
@@ -1117,7 +788,6 @@
     {
       "name": "EBC YOYO",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://ebcasiatv.com/asia/apps/showlist.htm?ch=3"
     }
   ],
@@ -1125,121 +795,103 @@
     {
       "name": "CTV Classic",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_CTVCOMEDY .png",
       "website": "http://new.ctv.com.tw/"
     },
     {
       "name": "EBC Drama",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "https://drama.ebc.net.tw/"
     },
     {
       "name": "EBC Foreign Movie",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://emovie.ebc.net.tw/"
     },
     {
       "name": "EBC Movie",
       "isFree": true,
-      "logo": "https://i.imgur.com/uFDkOhV.png",
       "website": "http://etmovie.ebc.net.tw/"
     },
     {
       "name": "ETTV Drama",
       "isFree": true,
-      "logo": "https://go4.pw/ITALY/_skycindr.png",
       "website": "http://www.ettvamerica.com/Channels/ChannelDescription?i=Drama"
     },
     {
       "name": "EYE TV Drama",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
       "website": "https://www.eyetv.com.tw/"
     },
     {
       "name": "Fox Taiwan",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.dngtw.tw/"
     },
     {
       "name": "GTV Drama",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/GTV.png",
       "website": "https://www.gtv.com.tw/channel.php?channelId=41"
     },
     {
-      "name": "Hollywood Movie Channel",
+      "name": "Hollywood Movie",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg",
       "website": "https://www.hollywood.com.tw/"
     },
     {
       "name": "LS Time Movie",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",
       "website": "http://www.lstime.com.tw/"
     },
     {
       "name": "Private Cinema",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
+      "isFree": true
     },
     {
-      "name": "Rainbow Movie Channel",
+      "name": "Rainbow Movie",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRlvr8nejfUa3DphrxNDBWTl55M.jpg",
       "website": "http://www.rtv.com.tw/main.php?ch=movie"
     },
     {
-      "name": "Universal Channel",
+      "name": "Universal",
       "isFree": true,
       "website": "http://www.universalchannel.asia/"
     },
     {
       "name": "Videoland Drama",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://drama.videoland.com.tw/"
     },
     {
       "name": "Videoland Movie",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://movie.videoland.com.tw/"
     }
   ],
   "Sports": [
     {
-      "name": "Eleven 1",
+      "name": "Eleven",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl1bkYvYHq9bH93Xjip1Vzbl4NR.jpg",
       "website": "https://www.elevensports.tw/"
     },
     {
       "name": "Eleven 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl1bkYvYHq9bH93Xjip1Vzbl4NR.jpg",
       "website": "https://www.elevensports.tw/"
     },
     {
       "name": "Sportcast Golf 2",
       "isFree": true,
-      "logo": "http://epg.one/img2/7890.png",
       "website": "http://www.sportcast.com.tw/golf.php?item_id=2&i=4"
     },
     {
       "name": "Videoland Sports",
       "isFree": true,
-      "logo": "https://go4.pw/MAGFLAGS/HULANDA.png",
       "website": "http://sport.videoland.com.tw/"
     }
   ],
   "Shop": [
     {
-      "name": "ET Mall 1",
+      "name": "ET Mall",
       "isFree": true,
       "website": "https://www.etmall.com.tw/"
     },
@@ -1266,19 +918,16 @@
     {
       "name": "Momo Shopping 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wth0MTgrfuekyrXxM0d6DjoTV7X.jpg",
       "website": "https://www.momoshop.com.tw/main/Main.jsp"
     },
     {
-      "name": "MOMO TV",
+      "name": "MOMO",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wth0MTgrfuekyrXxM0d6DjoTV7X.jpg",
       "website": "https://tv.momoshop.com.tw/main.momo"
     },
     {
-      "name": "ViVa TV",
+      "name": "ViVa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
       "website": "https://www.vivatv.com.tw/"
     }
   ]

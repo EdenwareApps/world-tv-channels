@@ -3,13 +3,11 @@
     {
       "name": "Canal Zoom",
       "isFree": true,
-      "logo": "https://i.imgur.com/JUNP8Rx.png",
       "priority": 4
     },
     {
       "name": "TVL",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7666c775e02c2fd299ea955a72e5f419.png",
       "priority": 4
     },
     {
@@ -20,54 +18,41 @@
     {
       "name": "Be Ciné",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "priority": 4
     },
     {
       "name": "Be Séries",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "priority": 4
     },
     {
       "name": "BRUZZ",
       "isFree": null,
-      "logo": "https://i.imgur.com/dA31yD6.png",
       "priority": 4
     },
     {
-      "name": "Comedy Central",
+      "name": "Discovery",
       "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "Discovery Channel",
-      "isFree": null,
-      "logo": "http://epg.one/img2/325.png",
       "priority": 10
     },
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": null,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "priority": 10
     },
     {
       "name": "Disney Jr.",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
       "name": "National Geographic",
       "isFree": null,
-      "logo": "http://epg.one/img2/102.png",
       "priority": 10
     },
     {
       "name": "Nickelodeon/MTV Netherlands",
       "isFree": null,
-      "logo": "https://epg.pw/media/",
       "priority": 4
     },
     {
@@ -88,36 +73,26 @@
     {
       "name": "Play",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "priority": 4
     },
     {
-      "name": "Qmusic TV",
+      "name": "Qmusic",
       "isFree": null,
-      "logo": "https://i.imgur.com/fMTuqDu.png",
       "priority": 4
     },
     {
       "name": "Radio Contact Vision",
       "isFree": null,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
-      "name": "Studio 100 TV",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
-      "priority": 4
-    },
-    {
-      "name": "Star Channel",
+      "name": "Studio 100",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Tipik",
+      "name": "Star",
       "isFree": null,
-      "logo": "https://i.imgur.com/LKLjnrp.png",
       "priority": 4
     },
     {
@@ -133,164 +108,92 @@
     {
       "name": "VTM/VTM Kids",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "priority": 4
     },
     {
-      "name": "VTM2",
-      "isFree": null,
-      "logo": "https://go4.pw/EUROPE/vtm2.png",
-      "priority": 4
-    },
-    {
-      "name": "VTM3",
+      "name": "VTM 2",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "ABX]]",
+      "name": "VTM 3",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Be Ciné]]",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
-      "priority": 4
-    },
-    {
-      "name": "Be Séries]]",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
-      "priority": 4
-    },
-    {
-      "name": "BRUZZ]]",
+      "name": "Be Ciné",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Comedy Central]]",
+      "name": "BRUZZ",
       "isFree": null,
-      "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png",
       "priority": 4
     },
     {
-      "name": "Discovery Channel]]",
+      "name": "Discovery",
       "isFree": null,
-      "logo": "https://logodix.com/logo/997920.png",
       "priority": 9
     },
     {
-      "name": "Disney Channel]]",
+      "name": "Disney Jr.",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "Disney Jr.]]",
+      "name": "National Geographic",
       "isFree": null,
-      "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png",
       "priority": 9
     },
     {
-      "name": "National Geographic]]",
-      "isFree": null,
-      "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
-      "priority": 9
-    },
-    {
-      "name": "Nickelodeon]]/[[MTV Netherlands",
-      "isFree": null,
-      "logo": "https://epg.pw/media/",
-      "priority": 4
-    },
-    {
-      "name": "Nick Jr.]]",
+      "name": "Nickelodeon",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Pickx+]]",
+      "name": "Pickx+",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Pickx+ Sports]]",
+      "name": "Play",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Play]]",
+      "name": "Radio Contact Vision",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Qmusic TV]]",
-      "isFree": null,
-      "logo": "https://i.imgur.com/fMTuqDu.png",
-      "priority": 4
-    },
-    {
-      "name": "Radio Contact Vision]]",
-      "isFree": null,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
-      "priority": 4
-    },
-    {
-      "name": "Studio 100 TV]]",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
-      "priority": 4
-    },
-    {
-      "name": "Star Channel]]",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
-      "priority": 4
-    },
-    {
-      "name": "Tipik]]",
+      "name": "Star",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "Tipikvision]]",
+      "name": "Tipik",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "TLC]]",
+      "name": "TLC",
       "isFree": null,
       "priority": 4
     },
     {
-      "name": "VTM]]/VTM Kids",
-      "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
-      "priority": 4
-    },
-    {
-      "name": "VTM2]]",
-      "isFree": null,
-      "priority": 4
-    },
-    {
-      "name": "VTM3]]",
+      "name": "VTM 2",
       "isFree": null,
       "priority": 4
     }
   ],
   "News": [
     {
-      "name": "LN24",
-      "isFree": true,
-      "logo": "https://i.imgur.com/1EkZRwn.png"
+      "name": "LN 24",
+      "isFree": true
     },
     {
       "name": "Canal Z",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canalz.be/"
     },
     {
@@ -301,13 +204,11 @@
     {
       "name": "Kanaal Z",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/kanalz.png",
       "website": "http://www.kanaalz.be/"
     },
     {
-      "name": "Sterk TV",
+      "name": "Sterk",
       "isFree": true,
-      "logo": "https://i.imgur.com/bIheNAI.png",
       "website": "https://sterktv1.net/"
     }
   ],
@@ -315,96 +216,78 @@
     {
       "name": "A T V",
       "isFree": true,
-      "keywords": "a t v | atv",
-      "logo": "https://images.iptvmate.net/tvglogo/53992801ef9b53455407789380e7539a.png"
+      "keywords": "a t v | atv"
     },
     {
       "name": "BEL RTL",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/46d83d9cb5b47f8a7d1241e0b0534773.png"
+      "isFree": true
     },
     {
-      "name": "BX1",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/bx1.png"
+      "name": "BX",
+      "isFree": true
     },
     {
       "name": "Canal C",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/66fd64444b8920f6534ae1aee5801818.png"
+      "isFree": true
     },
     {
       "name": "Canvas",
       "isFree": true,
-      "logo": "https://i.imgur.com/GQkhACx.png",
       "priority": 9
     },
     {
       "name": "City Music",
       "isFree": true,
-      "keywords": "city music -tv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+      "keywords": "city music"
     },
     {
       "name": "EBS Europe",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/33983ac4ca83e706785703586eb1ae1a.png"
+      "isFree": true
     },
     {
       "name": "EBS+ Europe",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/33983ac4ca83e706785703586eb1ae1a.png"
+      "isFree": true
     },
     {
       "name": "EbS Live",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/EBSTV.png"
+      "isFree": true
     },
     {
       "name": "EbS+ Live",
-      "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png"
+      "isFree": true
     },
     {
       "name": "Een",
-      "isFree": true,
-      "logo": "https://i.imgur.com/66GQlc7.png"
+      "isFree": true
     },
     {
       "name": "Ketnet",
       "isFree": true,
-      "keywords": "ketnet -junior",
-      "logo": "https://images.iptvmate.net/tvglogo/6ff0c1923e40efed77a9f1526b8b346c.png"
+      "keywords": "ketnet -junior"
     },
     {
       "name": "Ketnet Junior",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1d80718ab038eb916b28ee9d07f9fde7.png"
+      "isFree": true
     },
     {
       "name": "MNM",
-      "isFree": true,
-      "logo": "https://i.imgur.com/L4cD18H.png"
+      "isFree": true
     },
     {
       "name": "MaTele",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/db8eb4988bff7ede8876c1896e4a8f42.png"
+      "isFree": true
     },
     {
       "name": "NoTele",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/95a203b69062fff7351d53b9035b0da0.png"
+      "isFree": true
     },
     {
-      "name": "ROB TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/285b027c774f87a0bc330737253c5177.png"
+      "name": "ROB",
+      "isFree": true
     },
     {
       "name": "RTL TVI",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701122606398337_65.jpg"
+      "isFree": true
     },
     {
       "name": "RTL-TVi",
@@ -416,18 +299,15 @@
     },
     {
       "name": "TVO",
-      "isFree": true,
-      "logo": "https://i.imgur.com/wFC6Xxq.png"
+      "isFree": true
     },
     {
       "name": "XITE BE",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f46bb75f233d79f6ed39f2db91e90fbf.png"
+      "isFree": true
     },
     {
-      "name": "AB3",
+      "name": "AB 3",
       "isFree": true,
-      "logo": "http://static.epg.best/fr/AB3.fr.png",
       "website": "https://www.ab3.be/"
     },
     {
@@ -438,11 +318,10 @@
     {
       "name": "ACTV",
       "isFree": true,
-      "logo": "https://i.postimg.cc/wMPdf2BK/actv.png",
       "website": "https://www.antennecentre.tv/"
     },
     {
-      "name": "Aktif TV",
+      "name": "Aktif",
       "isFree": true,
       "website": "https://www.aktiftv.com.tr/"
     },
@@ -455,74 +334,62 @@
     {
       "name": "AVS Gent",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZuLSS7X5j5SddIwQzp9cJbpK5Y.jpg",
       "website": "https://www.avs.be/"
     },
     {
-      "name": "Be 1",
+      "name": "Be",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "website": "https://www.betv.be"
     },
     {
       "name": "Be 1+1hr",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "website": "https://www.betv.be"
     },
     {
       "name": "Belgian Federal Parliament",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://www.fed-parl.be/index.html"
     },
     {
       "name": "Bouke",
-      "isFree": true,
-      "logo": "https://i.postimg.cc/HWhQTMcV/bouke.png"
+      "isFree": true
     },
     {
-      "name": "BRF TV",
+      "name": "BRF",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://m.brf.be/"
     },
     {
       "name": "Bruzz",
       "isFree": true,
-      "logo": "https://i.imgur.com/dA31yD6.png",
       "website": "https://www.bruzz.be/"
     },
     {
       "name": "Canal Atlas",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "http://www.canalatlas.com/"
     },
     {
       "name": "Chamber of Representatives",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "website": "https://www.lachambre.be/media/index.html"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "https://www.discovery.nl/be",
       "priority": 10
     },
     {
-      "name": "Dobbit TV",
+      "name": "Dobbit",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.dobbit.be/fr/home"
     },
     {
       "name": "EbS",
       "isFree": true,
       "keywords": "ebs -live",
-      "logo": "https://epg.pw/media/images/channel/2022/09/30/large/20220930173328314305_74.jpg",
       "website": "https://audiovisual.ec.europa.eu/"
     },
     {
@@ -532,40 +399,34 @@
       "website": "https://audiovisual.ec.europa.eu/"
     },
     {
-      "name": "Eclips TV",
+      "name": "Eclips",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.eclipstv.be/"
     },
     {
-      "name": "Focus TV",
+      "name": "Focus",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9e0225833b7c04d2e8ed69bbc4d794e0.png",
       "website": "https://www.focus-wtv.be/"
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://www2.telenet.be/"
     },
     {
       "name": "La Trois",
       "isFree": true,
-      "logo": "https://i.imgur.com/jMs4h9F.png",
       "website": "https://www.rtbf.be/tv/latrois"
     },
     {
       "name": "La Une",
       "isFree": true,
-      "logo": "https://i.imgur.com/hJodwJt.png",
       "website": "https://www.rtbf.be/tv/laune/",
       "priority": 9
     },
     {
-      "name": "Maghreb TV",
+      "name": "Maghreb",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613185412157968_81.png",
       "website": "https://maghrebtelevision.com/"
     },
     {
@@ -574,9 +435,8 @@
       "website": "http://www.man-x.tv/"
     },
     {
-      "name": "Ment TV",
+      "name": "Ment",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ment.png",
       "website": "https://menttv.be/"
     },
     {
@@ -587,52 +447,47 @@
     {
       "name": "Pickx Live",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.proximus.be/"
     },
     {
       "name": "Pickx+",
       "isFree": true,
       "keywords": "pickx+ -sports 1 -sports 10 -sports 2 -sports 3 -sports 4 -sports 5 -sports 6 -sports 7 -sports 8 -sports 9",
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://www.proximus.be/"
     },
     {
-      "name": "Plattelands TV",
+      "name": "Plattelands",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://plattelandstv.be/"
     },
     {
-      "name": "Play 24/7",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
-      "website": "https://www.goplay.be/"
-    },
-    {
-      "name": "Play4",
+      "name": "Play 24/ 7",
       "isFree": true,
       "website": "https://www.goplay.be/"
     },
     {
-      "name": "Play5",
+      "name": "Play 4",
       "isFree": true,
       "website": "https://www.goplay.be/"
     },
     {
-      "name": "Play6",
+      "name": "Play 5",
       "isFree": true,
       "website": "https://www.goplay.be/"
     },
     {
-      "name": "Play7",
+      "name": "Play 6",
+      "isFree": true,
+      "website": "https://www.goplay.be/"
+    },
+    {
+      "name": "Play 7",
       "isFree": true,
       "website": "https://www.goplay.be/"
     },
     {
       "name": "Play Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.goplay.be/"
     },
     {
@@ -648,72 +503,60 @@
     {
       "name": "QU4TRE Liege Media",
       "isFree": true,
-      "logo": "https://i.imgur.com/GHFuvmZ.png",
       "website": "https://www.qu4tre.be/"
     },
     {
-      "name": "Radio 1",
+      "name": "Radio",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radio1.be/"
     },
     {
       "name": "Radio 2",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radio2.be/"
     },
     {
-      "name": "Ring TV",
+      "name": "Ring",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
       "website": "https://www.ringtv.be/"
     },
     {
       "name": "RTL Club",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://www.rtl.be/tv/clubrtl/"
     },
     {
       "name": "RTL District",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "http://www.rtltvi.be/"
     },
     {
       "name": "RTL Plug",
       "isFree": true,
-      "logo": "https://go4.pw/VIP/4k_ultra.png",
       "website": "https://www.rtlplay.be/plug"
     },
     {
       "name": "RTV Kempen",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "website": "https://rtv.be/regios/kempen"
     },
     {
       "name": "RTV Mech",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
       "name": "Studio 100 Hits",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
       "website": "https://studio100.com/be/nl/hits"
     },
     {
-      "name": "Studio 100 TV",
+      "name": "Studio 100",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr8ZtwdbtjBquxlTCrczr685K5T.jpg",
       "website": "https://studio100.com/be/nl/tv"
     },
     {
       "name": "Tele MB",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
       "website": "https://www.telemb.be/"
     },
     {
@@ -724,7 +567,6 @@
     {
       "name": "Tipik",
       "isFree": true,
-      "logo": "https://i.imgur.com/LKLjnrp.png",
       "website": "https://www.rtbf.be/tipik/"
     },
     {
@@ -735,68 +577,57 @@
     {
       "name": "TVcom",
       "isFree": true,
-      "logo": "https://i.imgur.com/uxefHY3.png",
       "website": "https://www.tvcom.be/"
     },
     {
       "name": "TV Limburg",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvlimburg.be/"
     },
     {
       "name": "TV Lux",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/8ac20d8947eced4d31b1af922dfceedb.png",
       "website": "https://www.tvlux.be/"
     },
     {
       "name": "TVM",
       "isFree": true,
-      "logo": "https://i.imgur.com/QAyakkR.png",
       "website": "https://tvmontignies.com/"
     },
     {
       "name": "TV Vlaanderen",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tv-vlaanderen.be/"
     },
     {
       "name": "Vedia",
       "isFree": true,
-      "logo": "https://i.postimg.cc/pLCCptZT/vedia.png",
       "website": "https://www.vedia.be/"
     },
     {
-      "name": "Vlaams Parlement TV",
+      "name": "Vlaams Parlement",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/MALTA/NEWS.png",
       "website": "https://www.vlaamsparlement.be/nl/tv"
     },
     {
-      "name": "VRT 1",
+      "name": "VRT",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vrt1.png",
       "website": "https://www.een.be/"
     },
     {
       "name": "VRT Canvas",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vrt1.png",
       "website": "https://www.canvas.be/"
     },
     {
       "name": "VTM",
       "isFree": true,
       "keywords": "vtm -2 -3 -4 -gold -kids -life",
-      "logo": "https://i.imgur.com/fUxRP9x.png",
       "website": "https://vtm.be/"
     },
     {
       "name": "VTM 2",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vtm.png",
       "website": "https://vtm.be/"
     },
     {
@@ -807,42 +638,35 @@
     {
       "name": "VTM 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vtm.png",
       "website": "https://vtm.be/"
     },
     {
       "name": "VTM Gold",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vtm.png",
       "website": "https://vtm.be/"
     },
     {
       "name": "VTM Life",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/vtm.png"
+      "isFree": true
     },
     {
       "name": "WTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/NwIolMu.png",
       "website": "https://www.focus-wtv.be/"
     },
     {
-      "name": "ATV",
+      "name": "A T V",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://atv.be/"
     },
     {
       "name": "Matele",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/db8eb4988bff7ede8876c1896e4a8f42.png",
       "website": "http://www.matele.be/"
     },
     {
       "name": "Notele",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/95a203b69062fff7351d53b9035b0da0.png",
       "website": "https://www.notele.be/"
     },
     {
@@ -853,29 +677,22 @@
   ],
   "Music Videos": [
     {
-      "name": "City Music TV",
-      "isFree": true
-    },
-    {
       "name": "Q-Music",
       "isFree": true
     },
     {
       "name": "Fun Vision",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umYcH5zxDndSio5QUXSQu44hHQ5.jpg",
       "website": "https://www.funradio.be/funvision/"
     },
     {
       "name": "Joe FM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg",
       "website": "https://joe.be/"
     },
     {
       "name": "Klara",
       "isFree": true,
-      "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
       "website": "https://klara.be/"
     },
     {
@@ -883,35 +700,35 @@
       "isFree": true
     },
     {
-      "name": "Radio Extremix TV",
+      "name": "Radio Extremix",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radioextremix.be/"
     },
     {
       "name": "StuBru",
       "isFree": true,
-      "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
       "website": "https://stubru.be/"
     },
     {
       "name": "Bel RTL",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/46d83d9cb5b47f8a7d1241e0b0534773.png",
       "website": "https://www.belrtl.be/"
+    },
+    {
+      "name": "City Music",
+      "isFree": true,
+      "keywords": "city music"
     }
   ],
   "Radios": [
     {
       "name": "BEL Radio PROS",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/33ad05053e5543347da0267411afaf10.png",
       "priority": 4
     },
     {
       "name": "Fun Radio",
       "isFree": true,
-      "logo": "https://i.imgur.com/wgxuYsQ.png",
       "priority": 4
     },
     {
@@ -922,7 +739,6 @@
     {
       "name": "Radio PROS",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     }
   ],
@@ -937,68 +753,57 @@
     {
       "name": "Be Cine",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "website": "http://www.betv.be/"
     },
     {
       "name": "Be Series",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg"
+      "isFree": true
     },
     {
-      "name": "CINAF TV",
+      "name": "CINAF",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://cinaf.tv/fr/"
     },
     {
       "name": "Cine+ Classic",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.canalplus.com/chaines/cineplus"
     },
     {
       "name": "Cine+ Frisson",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/CINEFRISSON.png",
       "website": "https://www.canalplus.com/chaines/cineplus"
     },
     {
       "name": "Cine+ Premier",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw8lM0lbLnTKI4R2zWF2Ify3si4.jpg",
       "website": "https://www.canalplus.com/chaines/cineplus"
     },
     {
       "name": "Play More Black",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www2.telenet.be/nl/producten/tv-en-entertainment/play-more/"
     },
     {
       "name": "Play More Cinema",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www2.telenet.be/nl/producten/tv-en-entertainment/play-more/"
     },
     {
       "name": "Play More Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www2.telenet.be/nl/producten/tv-en-entertainment/play-more/"
     },
     {
       "name": "Play More Kicks",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www2.telenet.be/nl/producten/tv-en-entertainment/play-more/"
     }
   ],
   "Kids": [
     {
-      "name": "Disney Channel",
+      "name": "Disney",
       "isFree": true,
-      "logo": "http://i.imgur.com/ETxffjm.png",
       "website": "https://tv.fr.disney.be/",
       "priority": 10
     },
@@ -1010,13 +815,11 @@
     {
       "name": "Nickelodeon Flanders",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://www.nickelodeon.be/"
     },
     {
       "name": "Nickelodeon Wallonia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png",
       "website": "http://fr.nickelodeon.be/"
     },
     {
@@ -1027,7 +830,7 @@
   ],
   "Sports": [
     {
-      "name": "Pickx+ Sports 1",
+      "name": "Pickx+ Sports",
       "isFree": true,
       "website": "https://www.proximus.be/"
     },
@@ -1077,9 +880,8 @@
       "website": "https://www.proximus.be/"
     },
     {
-      "name": "Play Sports 1",
+      "name": "Play Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
@@ -1090,37 +892,31 @@
     {
       "name": "Play Sports 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
       "name": "Play Sports 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
       "name": "Play Sports 5 Premier League",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
       "name": "Play Sports Golf",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
       "name": "Play Sports Open",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://www.playsports.be/"
     },
     {
       "name": "Sport 10",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "https://www.sport10.be/"
     },
     {
@@ -1129,28 +925,29 @@
       "website": "https://sporza.be/nl/"
     },
     {
-      "name": "VOOsport World 1",
+      "name": "VOOsport World",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.voo.be/en/tv/voosport-world"
     },
     {
       "name": "VOOsport World 2",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.voo.be/en/tv/voosport-world"
     },
     {
       "name": "VOOsport World 3",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.voo.be/en/tv/voosport-world"
     },
     {
       "name": "VOOsport World 4",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.voo.be/en/tv/voosport-world"
+    }
+  ],
+  "Added": [
+    {
+      "name": "RTBF"
     }
   ]
 }

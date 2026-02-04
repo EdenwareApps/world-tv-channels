@@ -3,29 +3,21 @@
     {
       "name": "AYV",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/AYV.png"
-    },
-    {
-      "name": "AMAZE TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
-      "website": "https://atvbase.live/"
-    },
-    {
-      "name": "AYV TV",
-      "isFree": true,
       "keywords": "ayv tv -entertainment",
-      "logo": "https://go4.pw/AFRICA/AYV.png",
       "website": "http://www.ayvnews.com/"
+    },
+    {
+      "name": "AMAZE",
+      "isFree": true,
+      "website": "https://atvbase.live/"
     },
     {
       "name": "AYV TV Entertainment",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/AYV.png",
       "website": "https://ayvnews.com/channel-34/"
     },
     {
-      "name": "Classic TV",
+      "name": "Classic",
       "isFree": true
     },
     {
@@ -33,62 +25,52 @@
       "isFree": true
     },
     {
-      "name": "Karima TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Karima",
+      "isFree": true
     },
     {
       "name": "KTV Sierra Leone",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
       "website": "https://ktvsl.com/"
     },
     {
-      "name": "Liberty Online TV",
+      "name": "Liberty Online",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
       "website": "https://libertyonlinetv.com"
     },
     {
-      "name": "Magic TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/n7bcrrp.png"
+      "name": "Magic",
+      "isFree": true
     },
     {
-      "name": "SLBC TV",
+      "name": "SLBC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.slbc.gov.sl/"
     },
     {
-      "name": "Slik TV",
+      "name": "Slik",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sliktv.com/"
     },
     {
-      "name": "STAR TV",
+      "name": "STAR",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174525906561_91.png",
       "website": "https://mediaonecentre.com/startv"
     },
     {
       "name": "Truth Television",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPowVPqB6397K0vPflDqslmHpkP.jpg",
       "website": "https://truthmedia.sl/"
     }
   ],
   "Religious": [
     {
       "name": "Living Stone Television",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg"
+      "isFree": true
     },
     {
-      "name": "Mercy TV",
+      "name": "Mercy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg",
       "website": "https://christfaithmedia.co/mercytv/"
     },
     {

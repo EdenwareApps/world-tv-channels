@@ -2,9 +2,7 @@
   "Entertainment": [
     {
       "name": "Korean Central Television",
-      "isFree": true,
-      "shortName": "KCT",
-      "logo": "https://img.redtraffic.xyz/22601.jpg"
+      "isFree": true
     },
     {
       "name": "Mansudae Television",

@@ -2,8 +2,7 @@
   "Sports": [
     {
       "name": "Türkmenistan Sport",
-      "isFree": false,
-      "shortName": "TS"
+      "isFree": false
     },
     {
       "name": "Turkmenistan Sport",
@@ -22,8 +21,7 @@
     },
     {
       "name": "Miras",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png"
+      "isFree": true
     },
     {
       "name": "Türkmen Owazy",
@@ -39,9 +37,8 @@
       "isFree": true
     },
     {
-      "name": "Arkadag TV",
+      "name": "Arkadag",
       "isFree": true,
-      "logo": "https://i.imgur.com/JdEb4Ug.png",
       "website": "http://turkmentv.gov.tm/"
     },
     {

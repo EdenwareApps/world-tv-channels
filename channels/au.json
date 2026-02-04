@@ -4,28 +4,24 @@
       "name": "ABC Kids",
       "isFree": true,
       "keywords": "abc kids -australia",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
       "website": "https://www.abc.net.au/abc-kids",
       "priority": 9
     },
     {
       "name": "ABC Entertains",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://iview.abc.net.au/channel/abc2",
       "priority": 9
     },
     {
       "name": "ABC Kids/ABC TV Plus",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://www.abc.net.au/tv/guide/abc2-7day-guide.htm",
       "priority": 9
     },
     {
       "name": "Boomerang",
       "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png",
       "website": "http://www.boomerangtv.com.au/"
     },
     {
@@ -36,7 +32,6 @@
     {
       "name": "CBeebies",
       "isFree": true,
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
       "website": "https://www.bbcstudios.com.au/channels"
     },
     {
@@ -45,9 +40,8 @@
       "priority": 9
     },
     {
-      "name": "DreamWorks Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/DREAMWORKS.png"
+      "name": "DreamWorks",
+      "isFree": true
     },
     {
       "name": "Foxtel Movies Kids",
@@ -66,8 +60,7 @@
     },
     {
       "name": "PBS Kids Australia",
-      "isFree": true,
-      "logo": "https://go4.pw/USA/PBS.png"
+      "isFree": true
     }
   ],
   "News": [
@@ -75,7 +68,6 @@
       "name": "ABC News",
       "isFree": true,
       "keywords": "abc news -australia",
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png",
       "website": "https://www.abc.net.au/news",
       "priority": 9
     },
@@ -83,39 +75,31 @@
       "name": "ABC News Australia",
       "isFree": true,
       "shortName": "ABC News",
-      "logo": "https://images.iptvmate.net/tvglogo/993f64b2a93e6d2922d4e554c990b32f.png",
       "website": "https://www.abc.net.au/news",
       "priority": 9
     },
     {
-      "name": "Australia Channel",
-      "isFree": true,
-      "shortName": "AC",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45X7LFsgYvdEgFCkXSZCQOZMuJX.jpg"
+      "name": "Australia",
+      "isFree": true
     },
     {
       "name": "Bloomberg Australia",
-      "isFree": true,
-      "shortName": "BA",
-      "logo": "https://images.iptvmate.net/tvglogo/5ab9c076b2c5f23a261c40a88e11e15b.png"
+      "isFree": true
     },
     {
       "name": "Bloomberg TV Australia",
-      "isFree": true,
-      "shortName": "BTA"
+      "isFree": true
     },
     {
       "name": "EURONEWS",
       "isFree": true,
       "shortName": "Euronews",
-      "logo": "https://i.postimg.cc/qRmRrWLW/euronews.png",
       "website": "https://www.euronews.com",
       "priority": 9
     },
     {
       "name": "Fox Sports News",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "priority": 9
     },
     {
@@ -123,53 +107,45 @@
       "isFree": false,
       "keywords": "sky news australia -extra 1 -extra 2 -extra 3",
       "shortName": "Sky News AU",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skynews.com.au",
       "priority": 9
     },
     {
-      "name": "Sky News Australia Extra 1",
+      "name": "Sky News Australia Extra",
       "isFree": true,
-      "shortName": "SNAE1",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "shortName": "SNAE",
       "priority": 9
     },
     {
       "name": "Sky News Australia Extra 2",
       "isFree": true,
-      "shortName": "SNAE2",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "shortName": "SNAE 2",
       "priority": 9
     },
     {
       "name": "Sky News Australia Extra 3",
       "isFree": true,
-      "shortName": "SNAE3",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
+      "shortName": "SNAE 3",
       "priority": 9
     },
     {
-      "name": "Sky News Extra 1",
+      "name": "Sky News Extra",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "priority": 9
     },
     {
       "name": "Sky News Extra 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "priority": 9
     },
     {
       "name": "Sky News Extra 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "priority": 9
     },
     {
-      "name": "ausbiz TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8vGGdB0.png"
+      "name": "ausbiz",
+      "isFree": true
     },
     {
       "name": "10HD",
@@ -179,7 +155,6 @@
     {
       "name": "2GB",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/radio-2gb.png",
       "website": "https://www.2gb.com/"
     },
     {
@@ -190,19 +165,16 @@
     {
       "name": "6PR",
       "isFree": true,
-      "logo": "https://i.imgur.com/Q9iCxg1.png",
       "website": "https://www.6pr.com.au/"
     },
     {
-      "name": "ADH TV",
+      "name": "ADH",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://adh.tv"
     },
     {
-      "name": "Business TV",
+      "name": "Business",
       "isFree": true,
-      "logo": "https://www.openthebooks.com/assets/1/6/Fox_Business1.png",
       "website": "https://www.firstnationsbroadcasting.org/television"
     },
     {
@@ -211,14 +183,12 @@
       "website": "https://www.cnbc.com/australia-and-new-zealand-television/"
     },
     {
-      "name": "Dedebit TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Dedebit",
+      "isFree": true
     },
     {
       "name": "SBS WorldWatch",
       "isFree": true,
-      "logo": "https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555",
       "website": "https://www.sbs.com.au/guide/channel/SBSWorldWatch",
       "priority": 9
     },
@@ -226,84 +196,65 @@
       "name": "Sky News Extra",
       "isFree": true,
       "keywords": "sky news extra -1 -2 -3",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skynews.com.au/page/extra",
       "priority": 9
     },
     {
       "name": "Sky News Regional",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skynews.com.au/sky-news-regional",
       "priority": 9
     },
     {
-      "name": "Sky News Weather Channel",
+      "name": "Sky News Weather",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.skyweather.com.au/",
       "priority": 9
     },
     {
       "name": "ticker News",
       "isFree": true,
-      "logo": "https://i.imgur.com/z7M0QxV.png",
       "website": "https://tickernews.co/where-to-watch/"
     },
     {
       "name": "WeatherSpy",
       "isFree": true,
-      "logo": "https://i.imgur.com/KIEKOt1.png",
       "website": "https://www.weatherspy.tv/"
     },
     {
-      "name": "10",
+      "name": "Ausbiz",
       "isFree": true,
-      "logo": "https://goo.gl/2b1DSg",
-      "website": "http://10play.com.au/",
-      "priority": 9
-    },
-    {
-      "name": "Ausbiz TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/8vGGdB0.png",
       "website": "https://company.ausbiz.com.au/"
     }
   ],
   "Shop": [
     {
-      "name": "Expo Channel",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/887f14c9faaa0d1f8cf58ba658c24fd5.png"
+      "name": "Expo",
+      "isFree": true
     },
     {
       "name": "Open Shop",
       "isFree": true,
-      "keywords": "open shop | openshop",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Lctmkc1yah215Luxmci4djaiW.jpg"
+      "keywords": "open shop | openshop"
     },
     {
       "name": "Gecko",
       "isFree": true,
-      "logo": "https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo",
       "website": "https://www.geckoproducts.com.au/"
     },
     {
       "name": "TVSN Beauty",
       "isFree": true,
-      "logo": "https://i.postimg.cc/sD1NFx9c/tvsn.png",
       "website": "https://www.itvsn.com.au/"
     },
     {
       "name": "TVSN Jewellery",
       "isFree": true,
-      "logo": "https://i.postimg.cc/sD1NFx9c/tvsn.png",
       "website": "https://www.itvsn.com.au/"
     },
     {
       "name": "TVSN Style",
       "isFree": true,
-      "logo": "https://i.postimg.cc/sD1NFx9c/tvsn.png",
       "website": "https://www.itvsn.com.au/"
     },
     {
@@ -312,7 +263,7 @@
       "website": "https://youtv.com.au/"
     },
     {
-      "name": "OpenShop",
+      "name": "Open Shop",
       "isFree": true,
       "website": "https://www.openshop.com.au/"
     }
@@ -321,7 +272,6 @@
     {
       "name": "SBS Food",
       "isFree": true,
-      "logo": "https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493",
       "website": "https://www.sbs.com.au/food",
       "priority": 9
     }
@@ -329,155 +279,130 @@
   "Sports": [
     {
       "name": "Snowy Mountains Television",
-      "isFree": false,
-      "shortName": "SMT",
-      "logo": "https://images.iptvmate.net/tvglogo/f65c34def8bf87eeed73c523e114af6a.png"
+      "isFree": false
     },
     {
       "name": "Cricket Gold",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JJaqFHA3WrVoaDmqXXATgb2LqC.jpg",
       "website": "https://www.cricket.com.au/cricket-gold"
     },
     {
       "name": "ESPN",
       "isFree": true,
-      "logo": "https://i.imgur.com/CkoAvYH.png",
       "website": "http://www.espn.com.au/",
       "priority": 10
     },
     {
-      "name": "ESPN2",
+      "name": "ESPN 2",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2020/11/14/large/20201114212508180517_30.png",
       "website": "http://www.espn.com.au/"
     },
     {
       "name": "Fox Cricket",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/"
     },
     {
       "name": "Fox Footy",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/Fox-Footy/FAF/"
     },
     {
       "name": "Fox Sports 503",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-503/FS3/",
       "priority": 9
     },
     {
       "name": "Fox Sports 505",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-505/FSP/",
       "priority": 9
     },
     {
       "name": "Fox Sports 506",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-506/SPS/",
       "priority": 9
     },
     {
       "name": "Fox Sports More+",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-MORE-HD/FSM/",
       "priority": 9
     },
     {
       "name": "Main Event",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddDg82DfCuzJZBidhiwKcKxTKrt.jpg",
       "website": "https://www.mainevent.com.au/"
     },
     {
-      "name": "Optus Sport 1",
+      "name": "Optus Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 10",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 11",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 12",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
       "name": "Optus Sport 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcU2e5MCgG4WlIeOiNuhLBIubdq.jpg",
       "website": "http://sport.optus.com.au/"
     },
     {
-      "name": "SKI TV",
+      "name": "SKI",
       "isFree": true,
-      "logo": "https://i.imgur.com/vDdaBmI.png",
       "website": "https://www.skitv.tv/"
     },
     {
-      "name": "WWE Channel",
+      "name": "WWE",
       "isFree": true
     }
   ],
@@ -502,59 +427,49 @@
     {
       "name": "3AW",
       "isFree": true,
-      "keywords": "3aw -melburne",
-      "logo": "https://i.imgur.com/Z4MdB0S.png"
+      "keywords": "3aw -melburne"
     },
     {
       "name": "3AW Melburne",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Z4MdB0S.png"
+      "isFree": true
     },
     {
       "name": "7flix",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png"
+      "isFree": true
     },
     {
       "name": "7mate",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-7mate-syd-360d60.png",
       "website": "https://7plus.com.au"
     },
     {
       "name": "7two",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-7two-syd-701123.png",
       "website": "https://7plus.com.au"
     },
     {
       "name": "9Gem",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
       "website": "https://www.9now.com.au",
       "priority": 9
     },
     {
       "name": "9Go!",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
       "website": "https://www.9now.com.au"
     },
     {
       "name": "9Life",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
       "website": "https://www.9now.com.au"
     },
     {
       "name": "9Rush",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
+      "isFree": true
     },
     {
       "name": "ABC Adelaide AU",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9d83df4ef0865fe8b6831199776062a4.png",
       "priority": 9
     },
     {
@@ -566,73 +481,62 @@
     {
       "name": "ABC Darwin AU",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9d83df4ef0865fe8b6831199776062a4.png",
       "priority": 9
     },
     {
       "name": "ABC Hobart AU",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9d83df4ef0865fe8b6831199776062a4.png",
       "priority": 9
     },
     {
       "name": "ABC Kids Australia",
       "isFree": true,
       "shortName": "ABC Kids",
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://www.abc.net.au/abc-kids",
       "priority": 9
     },
     {
       "name": "ABC ME",
       "isFree": true,
-      "logo": "https://i.imgur.com/gBh54wY.png",
       "website": "https://www.abc.net.au/abcme",
       "priority": 9
     },
     {
       "name": "ABC Melbourne AU",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9d83df4ef0865fe8b6831199776062a4.png",
       "priority": 9
     },
     {
       "name": "ABC Perth AU",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9d83df4ef0865fe8b6831199776062a4.png",
       "priority": 9
     },
     {
       "name": "ABC Sydney AU",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "priority": 9
     },
     {
-      "name": "ABC TV",
+      "name": "ABC",
       "isFree": true,
       "keywords": "abc tv -plus",
-      "logo": "https://i.imgur.com/nVmIeTD.png",
       "priority": 9
     },
     {
       "name": "ABC TV Plus",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "priority": 9
     },
     {
       "name": "ACCTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/f0861d07b46da49f35cb7da5bc60ddfa.png"
+      "isFree": true
     },
     {
       "name": "Aflam Mohtrama",
-      "isFree": true,
-      "logo": "https://go4.pw/ARABE/ART_AFLAM1.png"
+      "isFree": true
     },
     {
-      "name": "Aus Biz TV",
+      "name": "Aus Biz",
       "isFree": true,
       "keywords": "aus biz tv | ausbiz tv"
     },
@@ -642,247 +546,188 @@
     },
     {
       "name": "Bounty Plus",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/209f004b088a801ad01fd84b6683f859.png"
+      "isFree": true
     },
     {
       "name": "C31 Melbourne",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "isFree": true
     },
     {
       "name": "Channel 44",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/c44.png"
+      "isFree": true
     },
     {
       "name": "DUST",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/3b95a90cdb7522bf8bd13d58f49f8d57.png"
+      "isFree": true
     },
     {
       "name": "Dry Bar Comedy",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1cbde0196c7d815bade3209bf0871a33.png"
+      "isFree": true
     },
     {
       "name": "Filmstream",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/01486e7875b019c7677eb62b4f64df32.png"
+      "isFree": true
     },
     {
-      "name": "Fuel TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/I8mviBy.png"
+      "name": "Fuel",
+      "isFree": true
     },
     {
-      "name": "Gusto TV",
+      "name": "Gusto",
       "isFree": true
     },
     {
       "name": "Horse and Country",
-      "isFree": true,
-      "shortName": "HAC",
-      "logo": "https://media.unreel.me/prod/rewardedtv/logo/74ad2742-2080-4d69-b21f-bf4f2c7ec69c"
+      "isFree": true
     },
     {
-      "name": "Insight TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2024/08/16/large/20240816032119028184_96.png"
+      "name": "Insight",
+      "isFree": true
     },
     {
-      "name": "Introuble TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/95098a5396dd29569919862efdd8696a.png"
+      "name": "Introuble",
+      "isFree": true
     },
     {
-      "name": "Inwild TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6750d50c11a390083b245a00e5e5ac61.png"
+      "name": "Inwild",
+      "isFree": true
     },
     {
-      "name": "Inwonder TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/775475e0fd868199c50f369bb1b19eaf.png"
+      "name": "Inwonder",
+      "isFree": true
     },
     {
-      "name": "JonmoBhumi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "JonmoBhumi",
+      "isFree": true
     },
     {
-      "name": "Juice TV",
-      "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/assets.streams/6785887856421638085c6c49"
+      "name": "Juice",
+      "isFree": true
     },
     {
       "name": "M4TV Malayalam",
-      "isFree": true,
-      "logo": "https://i.imgur.com/HZohlNk.png"
+      "isFree": true
     },
     {
       "name": "MAVTV Motor Sports",
-      "isFree": true,
-      "shortName": "MMS",
-      "logo": "https://images.iptvmate.net/tvglogo/8a8fad57cb5949ec590fe3061088b868.png"
+      "isFree": true
     },
     {
       "name": "MIS Televizija",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/9fd068816a667264b674d3d7fe9612f3.png"
+      "isFree": true
     },
     {
       "name": "NITV",
-      "isFree": true,
-      "logo": "https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6"
+      "isFree": true
     },
     {
       "name": "Nine",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kl8J3WvzJq6QGX7qNmP0ps4ZTSO.jpg",
       "priority": 10
     },
     {
-      "name": "Outdoor Channel",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061422478101_60.jpg"
+      "name": "Outdoor",
+      "isFree": true
     },
     {
-      "name": "Pulse TV",
+      "name": "Pulse",
       "isFree": true
     },
     {
       "name": "QUEST TV Classical",
-      "isFree": true,
-      "shortName": "QTC",
-      "logo": "https://images.iptvmate.net/tvglogo/b42c1b4d1303d0cdf6262f812dbff8bd.png"
+      "isFree": true
     },
     {
       "name": "QUEST TV Jazz and Beyond",
-      "isFree": true,
-      "shortName": "QTJAB",
-      "logo": "https://images.iptvmate.net/tvglogo/f4b590d0bf47cd2ce15a83a249669b02.png"
+      "isFree": true
     },
     {
       "name": "QUEST TV MIX",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/b42c1b4d1303d0cdf6262f812dbff8bd.png"
+      "isFree": true
     },
     {
       "name": "Racing.com",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Q55HX1O.png"
+      "isFree": true
     },
     {
       "name": "Real Stories",
-      "isFree": true,
-      "logo": "https://thumbnails.simplestreamcdn.com/veely/channel_logos/1050.png?width=700&lang=en"
+      "isFree": true
     },
     {
       "name": "Rialto",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0883a03b70b82b9681b17f1ea36f2455.png"
+      "isFree": true
     },
     {
       "name": "Ryan and Friends",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318085807072182_84.png"
-    },
-    {
-      "name": "SBS TV",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png",
-      "priority": 9
+      "isFree": true
     },
     {
       "name": "SBS Viceland",
       "isFree": true,
-      "logo": "https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500",
       "priority": 9
     },
     {
       "name": "Seven",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-seven-syd-9608a4.png",
       "priority": 10
     },
     {
-      "name": "Sky Racing 1",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "name": "Sky Racing",
+      "isFree": true
     },
     {
       "name": "Sky Racing 2",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg"
+      "isFree": true
     },
     {
       "name": "Sky Thoroughbred Central",
-      "isFree": true,
-      "shortName": "STC"
+      "isFree": true
     },
     {
-      "name": "Smithsonian Channel",
-      "isFree": true,
-      "shortName": "SC",
-      "logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg"
+      "name": "Smithsonian",
+      "isFree": true
     },
     {
-      "name": "Snowy Mountains TV",
-      "isFree": true,
-      "shortName": "SMT",
-      "logo": "https://images.iptvmate.net/tvglogo/f65c34def8bf87eeed73c523e114af6a.png"
+      "name": "Snowy Mountains",
+      "isFree": true
     },
     {
       "name": "TVSN",
-      "isFree": true,
-      "logo": "https://i.imgur.com/p3QCBOo.png"
+      "isFree": true
     },
     {
       "name": "Time Line Australia",
-      "isFree": true,
-      "shortName": "TLA",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkjPoisqAavXUvtoirxTEcLLQyI.jpg"
+      "isFree": true
     },
     {
       "name": "Toon Goggles",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/4b471a1c791e71b1bc38dd586516caac.png"
+      "isFree": true
     },
     {
       "name": "Travel XP",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1a011e892562ccc3e961bfe131a35d41.png"
+      "isFree": true
     },
     {
       "name": "VENN",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/dbdd755920a1d7be3a77b7436f0bea2b.png"
+      "isFree": true
     },
     {
       "name": "Zoo Moo",
       "isFree": true
     },
     {
-      "name": "澳大利亚天和电视",
-      "isFree": true
-    },
-    {
       "name": "13th Street",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
       "website": "http://www.13thstreet.com.au/"
     },
     {
-      "name": "3 Tamil TV",
+      "name": "3 Tamil",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://threetamil.tv/"
     },
     {
       "name": "7bravo",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/auto-7bravo-fast-04647e.png",
       "website": "https://7plus.com.au/"
     },
     {
@@ -898,37 +743,32 @@
     {
       "name": "ABC Australia",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png",
       "website": "http://www.abcaustralia.net.au/",
       "priority": 9
     },
     {
       "name": "A&E",
       "isFree": true,
-      "logo": "https://imgur.com/EYAmbe4.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/AE/AES/"
     },
     {
       "name": "Arena",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "http://www.arenatv.com.au/"
     },
     {
-      "name": "Aurora TV",
+      "name": "Aurora",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5855wwOnhlfK2cBHwA46KCwVFva.jpg",
       "website": "https://www.aurora.tv/"
     },
     {
-      "name": "AUS Tamil TV",
+      "name": "AUS Tamil",
       "isFree": true,
       "website": "https://austamil.tv/"
     },
     {
       "name": "BBC UKTV",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.bbcstudios.co.nz/channels",
       "priority": 10
     },
@@ -940,20 +780,17 @@
     {
       "name": "Channel 7",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://7plus.com.au/"
     },
     {
       "name": "Channel 9",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
       "website": "https://www.nine.com.au/"
     },
     {
       "name": "Comedy",
       "isFree": true,
       "keywords": "comedy -central",
-      "logo": "https://images.iptvmate.net/tvglogo/04281b690ad07159ad6dc9325941bbea.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-Comedy/HIT/"
     },
     {
@@ -964,26 +801,22 @@
     {
       "name": "Crime + Investigation",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
       "website": "http://www.citv.com.au/"
     },
     {
       "name": "CTB Perth",
       "isFree": true,
       "keywords": "ctb perth -movies channel",
-      "logo": "https://i.imgur.com/G3g62Td.png",
       "website": "https://ctbperth.net.au/"
     },
     {
-      "name": "Darwin TV",
+      "name": "Darwin",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://www.firstnationsbroadcasting.org/television"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "http://www.yourdiscovery.com/au/",
       "priority": 10
     },
@@ -1001,24 +834,21 @@
     {
       "name": "ETVN",
       "isFree": true,
-      "logo": "https://i.imgur.com/lXMzsNM.png",
       "website": "https://entrepreneursnetwork.tv/"
     },
     {
-      "name": "Fox8",
+      "name": "Fox 8",
       "isFree": true,
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX8/FOX"
     },
     {
       "name": "Fox Funny",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-Funny/FFS/"
     },
     {
       "name": "Fox League",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-LEAGUE/SP2/"
     },
     {
@@ -1039,74 +869,63 @@
     {
       "name": "GTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png",
       "website": "https://goolarri.com/gtv/"
     },
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "http://www.hgtv.com/"
     },
     {
-      "name": "Imparja TV",
+      "name": "Imparja",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.imparja.com/"
     },
     {
-      "name": "Indo Oz TV",
+      "name": "Indo Oz",
       "isFree": true,
       "website": "https://indoozaustralia.com.au/web-channel/"
     },
     {
       "name": "LifeStyle",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/7444fdeb2d08796c7661b3b0648c1878.png",
       "website": "https://www.foxtel.com.au/watch/lifestyle.html"
     },
     {
       "name": "Lifestyle Food",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
       "website": "https://www.foxtel.com.au/watch/lifestyle/food.html"
     },
     {
       "name": "Lifestyle Home",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png",
       "website": "https://www.foxtel.com.au/watch/lifestyle/home.html"
     },
     {
       "name": "Love Destination",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://lovedestination.com/"
     },
     {
       "name": "M4TV English",
       "isFree": true,
-      "logo": "https://i.imgur.com/HZohlNk.png",
       "website": "https://m4tv.com.au/"
     },
     {
       "name": "MTV",
       "isFree": true,
       "keywords": "mtv -classic -hits",
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "https://www.mtv.com.au/tv-schedule/mtv-australia",
       "priority": 10
     },
     {
-      "name": "My Nepal TV",
+      "name": "My Nepal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
       "website": "https://www.mntvonline.com/"
     },
     {
-      "name": "PacificAus TV",
+      "name": "PacificAus",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.pacificaustv.com/"
     },
     {
@@ -1116,24 +935,20 @@
     },
     {
       "name": "Real Families",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cG0NlRW6kdL7czO5Hu5PWiAA3Ks.jpg"
+      "isFree": true
     },
     {
       "name": "Real Life",
-      "isFree": true,
-      "logo": "https://thumbnails.simplestreamcdn.com/veely/channel_logos/1051.png?width=700&lang=en"
+      "isFree": true
     },
     {
       "name": "RTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/c8wAvxC.png"
+      "isFree": true
     },
     {
       "name": "SBS",
       "isFree": true,
-      "keywords": "sbs -food -tv -viceland -world movies -worldwatch",
-      "logo": "https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c",
+      "keywords": "sbs -food -viceland -world movies -worldwatch",
       "website": "https://www.sbs.com.au/guide/channel/SBS",
       "priority": 9
     },
@@ -1150,13 +965,11 @@
     {
       "name": "Sleuth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-Sleuth/FSU/"
     },
     {
-      "name": "Spree TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKZZgiChTjgtMCLQvn0QIjPgphM.jpg"
+      "name": "Spree",
+      "isFree": true
     },
     {
       "name": "TLC",
@@ -1164,53 +977,45 @@
       "website": "http://www.tlcchannel.com.au/"
     },
     {
-      "name": "Tourism TV",
+      "name": "Tourism",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/tourism-tv.png",
       "website": "https://www.firstnationsbroadcasting.org/television"
     },
     {
-      "name": "Travel Channel",
+      "name": "Travel",
       "isFree": true,
       "website": "http://www.travelchanneltv.eu/"
     },
     {
-      "name": "Universal TV",
+      "name": "Universal",
       "isFree": true,
-      "logo": "https://i.ibb.co/r2rvwTsT/image.png",
       "website": "https://universaltv.com.au/"
     }
   ],
   "Movies & Series": [
     {
       "name": "Action Hollywood Movies",
-      "isFree": false,
-      "shortName": "AHM",
-      "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png"
+      "isFree": false
     },
     {
       "name": "SBS World Movies",
       "isFree": false,
-      "logo": "https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb",
       "priority": 9
     },
     {
       "name": "Classics",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.foxclassics.com.au/"
     },
     {
       "name": "Crime",
       "isFree": true,
       "keywords": "crime -+ investigation",
-      "logo": "https://images.iptvmate.net/tvglogo/b77158ae2bb93fcc78a1a25a747b2d2a.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-Crime/IOI/"
     },
     {
-      "name": "CTB Perth Movies Channel",
+      "name": "CTB Perth Movies",
       "isFree": true,
-      "logo": "https://i.imgur.com/G3g62Td.png",
       "website": "https://movies.ctbperth.net.au/"
     },
     {
@@ -1254,14 +1059,13 @@
       "website": "https://www.foxtel.com.au/tv-guide/channel/Foxtel-Movies-Thriller/SHH/"
     },
     {
-      "name": "Foxtel Movies Ultra HD",
+      "name": "Foxtel Movies Ultra",
       "isFree": true,
       "website": "https://www.foxtel.com.au/tv-guide/channel/Foxtel-Movies-Ultra-HD/K02/"
     },
     {
       "name": "LMN",
       "isFree": true,
-      "logo": "https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png",
       "website": "https://www.foxtel.com.au/tv-guide/channel/Lifetime-Movie-Network-HD/LMH/"
     }
   ],
@@ -1269,38 +1073,32 @@
     {
       "name": "ABC Arts",
       "isFree": true,
-      "logo": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png",
       "website": "https://iview.abc.net.au/channel/abcarts",
       "priority": 9
     },
     {
       "name": "Animal Planet",
       "isFree": true,
-      "logo": "http://epg.one/img2/365.png",
       "website": "https://www.animalplanet.com/"
     },
     {
       "name": "Famous",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
       "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-DOCOS/SAR/"
     },
     {
-      "name": "First Nations TV",
+      "name": "First Nations",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/first-nations-tv.png",
       "website": "https://www.firstnationsbroadcasting.org/television"
     },
     {
       "name": "Foxtel Arts",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gk38G7JcGJY6aR4cdrZ8sftSsv.jpg",
       "website": "http://www.foxtelarts.com.au/"
     },
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "http://www.historychannel.com.au/"
     },
     {
@@ -1311,7 +1109,6 @@
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "http://www.investigationdiscovery.com/"
     },
     {
@@ -1324,27 +1121,23 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://natgeotv.com.au/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://natgeotv.com.au/",
       "priority": 9
     },
     {
-      "name": "Ngaarda TV",
+      "name": "Ngaarda",
       "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/assets.streams/66baa071ee8021a782a2d293",
       "website": "https://ngaardatv.com.au/"
     },
     {
       "name": "ticker Docos",
       "isFree": true,
-      "logo": "https://i.imgur.com/z7M0QxV.png",
       "website": "https://tickernews.co/where-to-watch/"
     }
   ],
@@ -1352,7 +1145,6 @@
     {
       "name": "Club MTV",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
       "website": "https://www.mtv.com.au/tv-schedule/club-mtv-australia"
     },
     {
@@ -1361,20 +1153,17 @@
       "website": "https://www.mtv.com.au/tv-schedule/cmt"
     },
     {
-      "name": "Folk Klub TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Seq7Od7.png"
+      "name": "Folk Klub",
+      "isFree": true
     },
     {
       "name": "Foxtel Smooth",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg",
       "website": "https://www.smooth.com.au/smooth/tv"
     },
     {
       "name": "INTV Australia",
       "isFree": true,
-      "logo": "https://i.imgur.com/1nJl0Pv.png",
       "website": "https://intvaustralia.com/"
     },
     {
@@ -1397,45 +1186,43 @@
   ],
   "Religious": [
     {
-      "name": "GOD TV",
+      "name": "GOD",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg",
       "website": "https://www.god.tv/live-au/"
     },
     {
       "name": "GOOD.",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/good-dot.png",
       "website": "https://watchgood.com/"
     },
     {
       "name": "Guidance TV Australia",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://al-taqwa.vic.edu.au/media/guidance-tv-australia/"
     },
     {
       "name": "Hope Channel Australia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://www.hopechannel.com/"
     },
     {
       "name": "Mission Asia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X9rNpLLPklX8uGRUgbdYHPfter.jpg",
       "website": "https://missionasia.org/"
     },
     {
-      "name": "Muntazar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Muntazar",
+      "isFree": true
     },
     {
-      "name": "SBN TV",
+      "name": "SBN",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/_SBNSONLIFE.png",
       "website": "https://www.sonlifetv.com/"
+    }
+  ],
+  "Added": [
+    {
+      "name": "Ten"
     }
   ]
 }

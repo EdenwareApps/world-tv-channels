@@ -6,99 +6,82 @@
     },
     {
       "name": "Record Angola",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BRR5JcbB151b9y1hlgZiNaMyGV.jpg"
+      "isFree": true
     },
     {
-      "name": "TPA 1",
+      "name": "TPA",
       "isFree": true,
-      "keywords": "tpa 1 | tpa1",
-      "logo": "https://go4.pw/AFRICA/TPA.png"
+      "keywords": "tpa 1 | tpa1"
     },
     {
       "name": "TPA TV Angola",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TPA.png"
+      "isFree": true
     },
     {
       "name": "TVI Africa",
-      "isFree": true,
-      "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png"
+      "isFree": true
     },
     {
       "name": "TV Aguia Marinha",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Zimbo",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "Atlantico TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/UXsgEPX.png"
+      "name": "Atlantico",
+      "isFree": true
     },
     {
-      "name": "Banda TV",
+      "name": "Banda",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYqdIOF1EOoBQSQbkIU88NJy9n.jpg",
       "website": "https://coyotelandmedia.com/"
     },
     {
       "name": "Canal Multivisao",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://multivisao.ao/"
     },
     {
       "name": "Canal Programacao",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Kaluanda TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kaluanda",
+      "isFree": true
     },
     {
       "name": "Kwenda Magic",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
       "website": "https://www.dstv.com/kwendamagic/pt-ao/home"
     },
     {
       "name": "My Channel Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
       "website": "https://mychannelafrica.com/"
     },
     {
-      "name": "NXT TV",
-      "isFree": true,
-      "logo": "https://go4.pw/GOLDTV/gold tv.png"
+      "name": "NXT",
+      "isFree": true
     },
     {
-      "name": "Palanca TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Palanca",
+      "isFree": true
     },
     {
       "name": "RecordTV Africa",
       "isFree": true,
-      "logo": "https://i.imgur.com/R8qQGoZ.png",
       "website": "http://mychannelafrica.com/"
     },
     {
-      "name": "Sttop TV",
+      "name": "Sttop",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.sttopfm.com/"
     },
     {
-      "name": "TPA2",
+      "name": "TPA 2",
       "isFree": true,
       "website": "https://tpaonline.ao/"
     },
@@ -110,123 +93,103 @@
     {
       "name": "TV Belas",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvbelas.com/"
     },
     {
       "name": "TV Girassol",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://redegirassol.com/"
     },
     {
       "name": "TV Marcal",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvmarcal.wixsite.com/co-ao-pt"
     },
     {
       "name": "TV Parlamento",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://parlamento.ao/"
     },
     {
       "name": "TV Raiar",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Zimbo Internacional",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvzimbo.ao/"
     },
     {
-      "name": "VERA TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/djMvkvN.png"
+      "name": "VERA",
+      "isFree": true
     },
     {
       "name": "Zap Viva",
       "isFree": true,
       "keywords": "zap viva -internacional",
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png",
       "website": "https://www.zap.co.ao/"
     },
     {
       "name": "Zap Viva Internacional",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "TPA1",
+      "name": "TPA",
       "isFree": true,
       "website": "https://tpaonline.ao/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Afro Music Channel",
+      "name": "Afro Music",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png",
       "website": "https://coyotelandmedia.com/"
     },
     {
       "name": "Afro Music Concert",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png",
       "website": "https://coyotelandmedia.com/"
     },
     {
       "name": "Afro Music Pop",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png",
       "website": "https://coyotelandmedia.com/"
     },
     {
-      "name": "Ango TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ango",
+      "isFree": true
     },
     {
       "name": "Be Kuduro",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg"
+      "isFree": true
     },
     {
-      "name": "Bom Som Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/SPAIN/bomcine.png"
+      "name": "Bom Som",
+      "isFree": true
     },
     {
-      "name": "Muzangala TV",
+      "name": "Muzangala",
       "isFree": true,
-      "logo": "https://i.imgur.com/fBeaJoS.png",
       "website": "https://muzangala.tv/"
     },
     {
-      "name": "My Music Channel",
+      "name": "My Music",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
       "website": "https://coyotelandmedia.com/"
     },
     {
       "name": "+Hits Africa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6yYpJBuRd1j5kldYd9vjbv9xfq.jpg",
       "website": "https://coyotelandmedia.com/"
     },
     {
-      "name": "Yame Channel",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Yame",
+      "isFree": true
     },
     {
       "name": "Zap Musica",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     }
   ],
@@ -234,63 +197,53 @@
     {
       "name": "Arena X",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.arenaxtv.com/"
     },
     {
       "name": "LaLiga na Zap",
       "isFree": true,
-      "logo": "https://go4.pw/Mexico/SkySportLaLiga.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Zap Ligue 1",
+      "name": "Zap Ligue",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Z Sports 1 HD",
+      "name": "Z Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Z Sports 2 HD",
+      "name": "Z Sports 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgIthxRLUBTbaetVXvXwQEmbfn2.jpg",
       "website": "https://www.zap.co.ao/"
     }
   ],
   "Kids": [
     {
-      "name": "Cartoon TV",
+      "name": "Cartoon",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/cartoon_network.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Kanuca TV",
+      "name": "Kanuca",
       "isFree": true,
-      "logo": "https://go4.pw/germany/KANUCA.TV.png",
       "website": "https://kanuca.ao/"
     }
   ],
   "Religious": [
     {
-      "name": "Fe TV",
-      "isFree": true,
-      "logo": "https://go4.pw/AMERICA/USA/TELEMUNDO.png"
+      "name": "Fe",
+      "isFree": true
     },
     {
-      "name": "Gospel TV",
-      "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png"
+      "name": "Gospel",
+      "isFree": true
     },
     {
-      "name": "KK TV",
+      "name": "KK",
       "isFree": true,
-      "logo": "https://i.imgur.com/jWOB0oU.png",
       "website": "https://kktv.co.ao/"
     },
     {
@@ -308,42 +261,35 @@
     {
       "name": "Globo On",
       "isFree": true,
-      "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
       "website": "http://globointernacional.globo.com/GloboOn/"
     },
     {
       "name": "Luta Pela Fama",
-      "isFree": true,
-      "logo": "https://i.imgur.com/hD3WIzK.jpg"
+      "isFree": true
     },
     {
-      "name": "Zap Filmes 1",
+      "name": "Zap Filmes",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
       "name": "Zap Filmes 2",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
       "name": "Zap Filmes 3",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
-      "name": "Zap Filmes HD",
+      "name": "Zap Filmes",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     },
     {
       "name": "Zap Novelas",
       "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png",
       "website": "https://www.zap.co.ao/"
     }
   ],
@@ -351,7 +297,6 @@
     {
       "name": "TPA Noticias",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/TPA.png",
       "website": "https://tpaonline.ao/"
     }
   ]

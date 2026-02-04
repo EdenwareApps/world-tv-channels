@@ -1,32 +1,27 @@
 {
   "Religious": [
     {
-      "name": "Alerth Alnabawi Channel",
-      "isFree": true,
-      "logo": "https://i.imgur.com/iYibJxK.png"
+      "name": "Alerth Alnabawi",
+      "isFree": true
     },
     {
-      "name": "Al Hakika TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Hakika",
+      "isFree": true
     },
     {
-      "name": "Thakafah TV",
+      "name": "Thakafah",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://thakafah.tv/"
     }
   ],
   "Kids": [
     {
       "name": "Toyor Al-Jannah",
-      "isFree": true,
-      "logo": "https://i.imgur.com/5j8z6cc.png"
+      "isFree": true
     },
     {
       "name": "Karameesh",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ALKARAMA.png"
+      "isFree": true
     },
     {
       "name": "Roya Kids",
@@ -38,70 +33,62 @@
     {
       "name": "Roya Kids Originals",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     },
     {
       "name": "Roya Kids Songs",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     },
     {
       "name": "Roya Kids Stories",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     },
     {
       "name": "Tala Kids Club",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXKqVrP7gWPuNoo0vT5bWJcpTu.jpg",
       "website": "http://www.talakidsclub.com/"
     }
   ],
   "Entertainment": [
     {
-      "name": "Al Mamlaka TV",
+      "name": "Al Mamlaka",
       "isFree": true,
       "priority": 9
     },
     {
-      "name": "Amman TV",
+      "name": "Amman",
       "isFree": true
     },
     {
-      "name": "Jordan TV",
+      "name": "Jordan",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613183400860882_29.png",
       "priority": 10
     },
     {
-      "name": "Roya TV",
+      "name": "Roya",
       "isFree": true,
       "priority": 9
     },
     {
-      "name": "7 Stars TV",
+      "name": "7 Stars",
       "isFree": true
     },
     {
-      "name": "A One TV",
-      "isFree": true,
-      "logo": "https://logodix.com/logo/619307.png"
+      "name": "A One",
+      "isFree": true
     },
     {
       "name": "Awdeh",
-      "isFree": true,
-      "logo": "https://i.imgur.com/TJwSNXl.png"
+      "isFree": true
     },
     {
-      "name": "Azhari TV",
+      "name": "Azhari",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/EGYPT/AZHARITV.png",
       "website": "http://azharitv.net/"
     },
     {
@@ -117,57 +104,47 @@
     {
       "name": "Fact International",
       "isFree": true,
-      "logo": "http://images.pluto.tv/channels/611f85396abc84000738417b/colorLogoPNG.png",
       "website": "http://factjo.com/"
     },
     {
       "name": "Hala",
       "isFree": true,
       "keywords": "hala -control studio",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
       "website": "https://www.hala.jo/"
     },
     {
-      "name": "Ismaoona TV",
+      "name": "Ismaoona",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.ismaoona.com/"
     },
     {
       "name": "Jordan Archive",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
       "name": "Jordan Comedy",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
       "name": "Jordan Drama",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
       "name": "Jordan Kitchen",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
       "name": "Jordan Tourism",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
-      "name": "Josat TV",
+      "name": "Josat",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://josat.tv/"
     },
     {
-      "name": "Kaifa TV",
+      "name": "Kaifa",
       "isFree": true,
-      "logo": "https://go4.pw/ARABE/KAIFA.png",
       "website": "http://www.kaifatv.com/"
     },
     {
@@ -176,125 +153,101 @@
     },
     {
       "name": "Radio Fann Jordan City View",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Radio Fann Jordan Control Studio",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Radio Fann Jordan Studio",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Radio Yaqeen Jordan City View",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Radio Yaqeen Jordan Control Studio",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Radio Yaqeen Jordan Studio",
-      "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png"
+      "isFree": true
     },
     {
       "name": "Rotana Radio Jordan City View",
-      "isFree": true,
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Rotana Radio Jordan Control Studio",
-      "isFree": true,
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Rotana Radio Jordan Studio",
-      "isFree": true,
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Rotana Tarab Jordan City View",
-      "isFree": true,
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Rotana Tarab Jordan Control Studio",
-      "isFree": true,
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Roya Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     },
     {
       "name": "Roya Kitchen",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     },
     {
-      "name": "Yarmouk TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Yarmouk",
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
-      "name": "Nojoum TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bc6357a4aa9bae34ac3fddf06c43ecda.png"
+      "name": "Nojoum",
+      "isFree": true
     },
     {
       "name": "Rotana Tarab Jordan: City View",
-      "isFree": true,
-      "shortName": "RTJCV",
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
       "name": "Rotana Tarab Jordan: Control Studio",
-      "isFree": true,
-      "shortName": "RTJCS",
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png"
+      "isFree": true
     },
     {
-      "name": "Amen FM TV",
+      "name": "Amen FM",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1AJRRxgxLwXU1YurpKQW890KSx.jpg",
       "website": "http://amenfm.jo/"
     },
     {
       "name": "Jeish FM",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "https://www.jeishfm.jo/"
     },
     {
       "name": "Jordan Songs",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "isFree": true
     },
     {
       "name": "Melody FM",
       "isFree": true,
       "keywords": "melody fm -jordan",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "website": "https://melody-fm.com/"
     },
     {
       "name": "Roya Music",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     }
@@ -308,70 +261,51 @@
     {
       "name": "Melody FM Jordan",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLij9PB33f4PscrJqin03TlnZtv.jpg",
       "priority": 4
     },
     {
       "name": "Radio Fann Jordan: City View",
       "isFree": true,
-      "shortName": "RFJCV",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Fann Jordan: Control Studio",
       "isFree": true,
-      "shortName": "RFJCS",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Fann Jordan: Studio",
       "isFree": true,
-      "shortName": "RFJS",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Yaqeen Jordan: City View",
       "isFree": true,
-      "shortName": "RYJCV",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Yaqeen Jordan: Control Studio",
       "isFree": true,
-      "shortName": "RYJCS",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Radio Yaqeen Jordan: Studio",
       "isFree": true,
-      "shortName": "RYJS",
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "priority": 4
     },
     {
       "name": "Rotana Radio Jordan: City View",
       "isFree": true,
-      "shortName": "RRJCV",
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
       "priority": 4
     },
     {
       "name": "Rotana Radio Jordan: Control Studio",
       "isFree": true,
-      "shortName": "RRJCS",
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
       "priority": 4
     },
     {
       "name": "Rotana Radio Jordan: Studio",
       "isFree": true,
-      "shortName": "RRJS",
-      "logo": "https://go4.pw/ROTANA/ROTANADRAMA.png",
       "priority": 4
     }
   ],
@@ -379,51 +313,43 @@
     {
       "name": "Alhaqeqa Aldawlia",
       "isFree": true,
-      "logo": "https://i.postimg.cc/DyZr1gsv/alhaqeqaaldawlia.png",
       "website": "https://www.factjo.com/Pages.aspx?id=6"
     },
     {
-      "name": "Altaghier TV",
+      "name": "Altaghier",
       "isFree": true,
-      "logo": "https://i.postimg.cc/Nf6K92Cs/altaghiertv.png",
       "website": "https://altaghier.tv/"
     },
     {
       "name": "ANB",
-      "isFree": true,
-      "logo": "https://go4.pw/India/ANB NEWS.png"
+      "isFree": true
     },
     {
       "name": "Hala Control Studio",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
       "website": "https://www.hala.jo/"
     },
     {
-      "name": "Jordan Now TV",
+      "name": "Jordan Now",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg",
       "website": "https://jordannowtv.net/"
     },
     {
       "name": "Roya News",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://royanews.tv/",
       "priority": 9
     }
   ],
   "Education & Culture": [
     {
-      "name": "Darsak 1",
+      "name": "Darsak",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://darsak.gov.jo/"
     },
     {
       "name": "Darsak 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://darsak.gov.jo/"
     }
   ],
@@ -431,17 +357,15 @@
     {
       "name": "Jordan Sport",
       "isFree": true,
-      "keywords": "jordan sport -2",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg"
+      "keywords": "jordan sport -2"
     },
     {
       "name": "Jordan Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo9RRnXZJEHhIQKMNAN4BoTLurb.jpg",
       "website": "https://www.jrtv.gov.jo/"
     },
     {
-      "name": "Sport TV",
+      "name": "Sport",
       "isFree": true,
       "website": "https://www.jrtv.gov.jo/"
     }
@@ -450,7 +374,6 @@
     {
       "name": "Roya Drama",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/JORDAN/ROYAHD.png",
       "website": "https://www.roya.tv/",
       "priority": 9
     }

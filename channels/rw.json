@@ -1,13 +1,12 @@
 {
   "Entertainment": [
     {
-      "name": "KC2",
+      "name": "KC 2",
       "isFree": true
     },
     {
       "name": "RTV Rwanda",
-      "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png"
+      "isFree": true
     },
     {
       "name": "Ahupa Visual Radio",
@@ -15,142 +14,121 @@
       "website": "https://ahuparadio.com/"
     },
     {
-      "name": "B+ TV",
+      "name": "B+",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://btnrwanda.com/"
     },
     {
-      "name": "BTN TV",
+      "name": "BTN",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/12/24/large/20221224163818740665_45.jpeg",
       "website": "https://btnrwanda.com/"
     },
     {
       "name": "BTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/1c3099d673de338908b95d58a2a409a4.png"
+      "isFree": true
     },
     {
-      "name": "EAMG TV",
+      "name": "EAMG",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://new.eamgtv.com/"
     },
     {
       "name": "ETV Rwanda",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ETV_HD.png"
+      "isFree": true
     },
     {
-      "name": "Flash TV",
+      "name": "Flash",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
       "website": "https://flash.rw/"
     },
     {
-      "name": "Isibo TV",
+      "name": "Isibo",
       "isFree": true,
       "website": "https://www.isibo.tv/maintenance/"
     },
     {
-      "name": "Izuba TV",
+      "name": "Izuba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.izubaradiotv.rw/"
     },
     {
-      "name": "Rwanda TV",
+      "name": "Rwanda",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
       "website": "https://www.rba.co.rw/tv"
     },
     {
-      "name": "TV1",
+      "name": "TV",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",
       "website": "https://www.tv1.rw/"
     },
     {
-      "name": "TV10",
+      "name": "TV 10",
       "isFree": true,
-      "logo": "https://go4.pw/SCANDINAVIAN/TV10.png",
       "website": "http://www.radiotv10.rw/"
     },
     {
-      "name": "Yongwe TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Yongwe",
+      "isFree": true
     },
     {
-      "name": "ZACU TV",
+      "name": "ZACU",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.canalplus.com/rw/chaines/zacu-tv"
     }
   ],
   "Religious": [
     {
-      "name": "Authentic TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DOaNgtzzgFy3fpvtv5YD6OmWrG.jpg"
+      "name": "Authentic",
+      "isFree": true
     },
     {
-      "name": "BCN TV",
+      "name": "BCN",
       "isFree": true,
-      "logo": "https://i.imgur.com/ZKAnehs.png",
       "website": "https://bcntv.org/"
     },
     {
-      "name": "Contact TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg"
+      "name": "Contact",
+      "isFree": true
     },
     {
-      "name": "Genesis TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "name": "Genesis",
+      "isFree": true
     },
     {
-      "name": "Pacis TV",
+      "name": "Pacis",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/PACIS TV.png",
       "website": "https://pacistv.rw/"
     },
     {
       "name": "TV O Rwanda",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "News": [
     {
-      "name": "Goodrich TV",
+      "name": "Goodrich",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://goodrichbusinessgroup.com/goodrich-tv/"
     }
   ],
   "Music Videos": [
     {
-      "name": "Isango TV",
+      "name": "Isango",
       "isFree": true,
       "website": "http://www.isangostar.rw/"
     }
   ],
   "Education & Culture": [
     {
-      "name": "Ishusho TV",
+      "name": "Ishusho",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ishushotv.online/"
     }
   ],
   "Sports": [
     {
-      "name": "Magic Sports TV",
+      "name": "Magic Sports",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTKyjTlD8qJOiRkHZoSOx5D1KWg.jpg",
       "website": "https://rba.co.rw/"
     }
   ]

@@ -2,8 +2,7 @@
   "Kids": [
     {
       "name": "Enki Benki",
-      "isFree": true,
-      "logo": "http://epg.one/img2/4271.png"
+      "isFree": true
     },
     {
       "name": "Basti Bubu",
@@ -14,50 +13,42 @@
   "News": [
     {
       "name": "Palitra News",
-      "isFree": true,
-      "logo": "http://epg.one/img2/2568.png"
+      "isFree": true
     },
     {
-      "name": "Alt-Info TV",
+      "name": "Alt-Info",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://alt-info.ge/"
     },
     {
-      "name": "BMG TV",
+      "name": "BMG",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bm.ge/en/tv"
     },
     {
-      "name": "Dia TV",
+      "name": "Dia",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/siGmPNbxKdooHm7unHpiBSdfYpR.jpg",
       "website": "https://www.dia.ge/"
     },
     {
       "name": "ERI Media",
       "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ETHIOPIA/ERI_TV.png",
       "website": "https://erimedia.ge/"
     },
     {
       "name": "Euronews Georgia",
       "isFree": true,
-      "logo": "https://i.imgur.com/VNJ4soR.png",
       "website": "https://euronewsgeorgia.com/",
       "priority": 9
     },
     {
-      "name": "Georgian Times TV",
+      "name": "Georgian Times",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smggAeGHRjKy85h6BzF0eTeDrFW.jpg",
       "website": "https://gttv.ge/"
     },
     {
-      "name": "Marneuli TV",
+      "name": "Marneuli",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.marneulitv.ge/"
     },
     {
@@ -66,108 +57,91 @@
       "website": "https://www.meteo24.tv/"
     },
     {
-      "name": "NWBC TV",
+      "name": "NWBC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://nwbc.ge/"
     },
     {
-      "name": "Obieqtivi TV",
+      "name": "Obieqtivi",
       "isFree": true,
-      "logo": "https://i.imgur.com/Kqc8H8X.png",
       "website": "http://www.obieqtivi.net/"
     },
     {
-      "name": "Sfero TV",
+      "name": "Sfero",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sferonews.ge/"
     },
     {
-      "name": "TV24",
+      "name": "TV 24",
       "isFree": true,
-      "logo": "http://epg.one/img2/3375.png",
       "website": "https://tv24.ge/"
     },
     {
-      "name": "TV9",
+      "name": "TV 9",
       "isFree": true,
-      "logo": "https://i.imgur.com/hAHhu2y.png",
       "website": "https://tv9news.ge/"
     }
   ],
   "Entertainment": [
     {
-      "name": "1 TV",
+      "name": "1",
       "isFree": true,
-      "keywords": "1 tv | 1tv",
-      "logo": "https://images.iptvmate.net/tvglogo/c5f775df8f67357fcad20d56084d16b7.png"
+      "keywords": "1 tv | 1tv"
     },
     {
-      "name": "2 TV",
+      "name": "2",
       "isFree": true,
-      "keywords": "2 tv | 2tv",
-      "logo": "https://images.iptvmate.net/tvglogo/c0fdd2c018bb821c5514b09d806c466a.png"
+      "keywords": "2 tv | 2tv"
     },
     {
       "name": "Formula",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/bbaec0d73ccc2bcc1c70090e9d060376.png"
-    },
-    {
-      "name": "Mtavari Arkhi",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tLtGnJW.png"
-    },
-    {
-      "name": "Rioni TV",
       "isFree": true
     },
     {
-      "name": "Agrogaremo TV",
+      "name": "Mtavari Arkhi",
+      "isFree": true
+    },
+    {
+      "name": "Rioni",
+      "isFree": true
+    },
+    {
+      "name": "Agrogaremo",
       "isFree": true,
-      "logo": "http://epg.one/img2/7786.png",
       "website": "https://agrogaremo.ge/"
     },
     {
-      "name": "Agro TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png"
+      "name": "Agro",
+      "isFree": true
     },
     {
-      "name": "Ajara TV",
+      "name": "Ajara",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://ajaratv.ge/"
     },
     {
-      "name": "Apsua TV",
+      "name": "Apsua",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.apsua.tv/"
     },
     {
-      "name": "Argo TV",
+      "name": "Argo",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
       "website": "https://argotv.ge/"
     },
     {
-      "name": "Batumi TV",
+      "name": "Batumi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvbatumi.com/"
     },
     {
-      "name": "Borjomi TV",
+      "name": "Borjomi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://borjomi.tv/"
     },
     {
       "name": "Channel Five",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.tv5.ge/"
     },
     {
@@ -176,64 +150,53 @@
       "website": "https://www.magticom.ge/"
     },
     {
-      "name": "Comedy TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/i1TANKv.png"
+      "name": "Comedy",
+      "isFree": true
     },
     {
-      "name": "Egrisi TV",
+      "name": "Egrisi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://egrisitv.ge/"
     },
     {
       "name": "FM Abkhazia",
       "isFree": true,
-      "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
       "website": "http://www.fmabkhazia.com/"
     },
     {
-      "name": "Free Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+      "name": "Free",
+      "isFree": true
     },
     {
-      "name": "GDS TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/gv61tFf.png"
+      "name": "GDS",
+      "isFree": true
     },
     {
-      "name": "Girchi TV",
-      "isFree": true,
-      "logo": "http://epg.one/img2/6798.png"
+      "name": "Girchi",
+      "isFree": true
     },
     {
-      "name": "GMS TV",
+      "name": "GMS",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://gmstv.ge/"
     },
     {
-      "name": "Green TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
+      "name": "Green",
+      "isFree": true
     },
     {
-      "name": "Guria TV",
+      "name": "Guria",
       "isFree": true,
-      "logo": "http://epg.one/img2/6802.png",
       "website": "https://guria.tv/"
     },
     {
-      "name": "Gurjaani TV",
+      "name": "Gurjaani",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.gurjaanitv.com/"
     },
     {
-      "name": "Imedi TV",
+      "name": "Imedi",
       "isFree": true,
-      "logo": "http://epg.one/img2/2563.png",
       "website": "https://www.imedi.ge/"
     },
     {
@@ -241,15 +204,13 @@
       "isFree": true
     },
     {
-      "name": "Kavkasia TV",
+      "name": "Kavkasia",
       "isFree": true,
-      "logo": "https://i.imgur.com/Z5b7w7K.png",
       "website": "http://www.kavkasiatv.ge/"
     },
     {
       "name": "Kolkheti 89",
       "isFree": true,
-      "logo": "https://i.imgur.com/my71DaP.png",
       "website": "https://kolkheti89.ge/"
     },
     {
@@ -259,7 +220,6 @@
     {
       "name": "Maestro",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
       "website": "http://www.maestro.ge/"
     },
     {
@@ -268,96 +228,81 @@
       "website": "https://www.magticom.ge/"
     },
     {
-      "name": "Marao TV",
+      "name": "Marao",
       "isFree": true,
       "website": "http://www.rustavi2.ge/"
     },
     {
-      "name": "Mega TV",
+      "name": "Mega",
       "isFree": true,
-      "logo": "http://i.imgur.com/saCbNDR.png",
       "website": "https://megatv.ge/"
     },
     {
-      "name": "Mze TV",
+      "name": "Mze",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvmze.ge/"
     },
     {
-      "name": "Odishi TV",
+      "name": "Odishi",
       "isFree": true,
       "website": "https://radio.odishi.ge/"
     },
     {
       "name": "Parliament of Georgia",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UK/BBC-1.png",
       "website": "https://www.parliament.ge/en/media/live/14"
     },
     {
-      "name": "Parvana TV",
+      "name": "Parvana",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.parvana.ge/"
     },
     {
       "name": "PKTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/p8F0AaZ.png"
+      "isFree": true
     },
     {
-      "name": "Pos TV",
+      "name": "Pos",
       "isFree": true,
-      "logo": "https://i.imgur.com/UOiXFEW.png",
       "website": "https://postv.media/"
     },
     {
-      "name": "Prime TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
+      "name": "Prime",
+      "isFree": true
     },
     {
-      "name": "Pulsi TV",
-      "isFree": true,
-      "logo": "http://epg.one/img2/6800.png"
+      "name": "Pulsi",
+      "isFree": true
     },
     {
       "name": "Qartuli Arkhi",
-      "isFree": true,
-      "logo": "http://epg.one/img2/7789.png"
+      "isFree": true
     },
     {
-      "name": "Quality Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/MY-HD/MYHD-PREMIUM.png"
+      "name": "Quality",
+      "isFree": true
     },
     {
       "name": "Rioni TV 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/ogMqmth.png",
       "website": "https://www.rionitv.com/"
     },
     {
-      "name": "Rugby TV",
-      "isFree": true,
-      "logo": "https://go4.pw/UK/supersport.png"
+      "name": "Rugby",
+      "isFree": true
     },
     {
       "name": "Rustavi 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/rPqd1Cx.png",
       "website": "http://www.rustavi2.ge/"
     },
     {
-      "name": "Saperavi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Saperavi",
+      "isFree": true
     },
     {
-      "name": "Sezoni TV",
+      "name": "Sezoni",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sezonitv.ge/"
     },
     {
@@ -367,17 +312,15 @@
     {
       "name": "Silk Universal",
       "isFree": true,
-      "logo": "https://i.imgur.com/z0XHsPE.png",
       "website": "https://www.silknet.com/"
     },
     {
       "name": "Stereo Plus",
       "isFree": true,
-      "logo": "https://go4.pw/CARIBBIEAN/88 STEREO.png",
       "website": "http://stereoplus.ge/"
     },
     {
-      "name": "TOK TV",
+      "name": "TOK",
       "isFree": true,
       "website": "https://toktv.ge/"
     },
@@ -389,50 +332,42 @@
     {
       "name": "TV 4",
       "isFree": true,
-      "logo": "https://i.imgur.com/WSvUsxy.png",
       "website": "https://tv4.ge/"
     },
     {
       "name": "TVC",
       "isFree": true,
-      "logo": "https://i.imgur.com/bUVp1U1.png",
       "website": "https://tvc.ge/"
     },
     {
       "name": "TV Monitoringi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvmonitoringi.ge/"
     },
     {
       "name": "TV Pirveli",
       "isFree": true,
-      "logo": "https://i.imgur.com/cGHsM1x.png",
       "website": "http://www.tvpirveli.ge/"
     },
     {
       "name": "TV Plus",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Trialeti",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://trialeti.ge/"
     },
     {
       "name": "1TV",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/1tv.png",
       "website": "https://1tv.ge/"
     }
   ],
   "Music Videos": [
     {
       "name": "MusicBox Georgia",
-      "isFree": true,
-      "logo": "https://go4.pw/RUSSIA/MUSIC BOX.png"
+      "isFree": true
     },
     {
       "name": "Dardimandi",
@@ -440,9 +375,8 @@
       "website": "http://www.dardimandi.ge/"
     },
     {
-      "name": "Positive TV",
+      "name": "Positive",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t93SSysqUZZZj8p6gAvVD4Mf0al.jpg",
       "website": "https://www.positive.ge/"
     },
     {
@@ -453,62 +387,52 @@
   ],
   "Sports": [
     {
-      "name": "Adjarasport 1",
+      "name": "Adjarasport",
       "isFree": true,
-      "logo": "https://i.imgur.com/SVV5xHC.png",
       "website": "https://adjarasport.tv/"
     },
     {
       "name": "Adjarasport 2",
       "isFree": true,
-      "logo": "https://i.imgur.com/SVV5xHC.png",
       "website": "https://adjarasport.tv/"
     },
     {
-      "name": "Chess TV",
+      "name": "Chess",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.chesstv.ge/"
     },
     {
       "name": "Setanta Sports Georgia",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UKRAIN/SETANTA SPORTS 2 FHD.png"
+      "isFree": true
     },
     {
       "name": "Setanta Sports+ Georgia",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/UKRAIN/SETANTA SPORTS 2 FHD.png"
+      "isFree": true
     },
     {
-      "name": "TV O2",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "TV O 2",
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
-      "name": "Artarea TV",
+      "name": "Artarea",
       "isFree": true,
-      "logo": "http://epg.one/img2/7227.png",
       "website": "https://artarea.tv/"
     },
     {
-      "name": "Kartuli TV",
+      "name": "Kartuli",
       "isFree": true,
-      "logo": "https://i.imgur.com/k6kCnBZ.jpeg",
       "website": "https://civilizebuli.ge/"
     },
     {
-      "name": "SDASU TV",
+      "name": "SDASU",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://sdasu.edu.ge/en/sdasu-tv"
     },
     {
-      "name": "TAFU TV",
+      "name": "TAFU",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tafu.edu.ge/"
     }
   ],
@@ -516,13 +440,11 @@
     {
       "name": "Ertsulovneba",
       "isFree": true,
-      "logo": "https://i.imgur.com/KuuODMM.png",
       "website": "https://www.televizia.org/ertsulovneba/"
     },
     {
-      "name": "Royal Channel",
+      "name": "Royal",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znk6frNlEd90QATu40qsh997KvU.jpg",
       "website": "https://www.qch.ge/"
     }
   ],
@@ -530,15 +452,13 @@
     {
       "name": "Magti Kino",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://www.magticom.ge/"
     }
   ],
   "Shop": [
     {
-      "name": "Mall TV",
+      "name": "Mall",
       "isFree": true,
-      "logo": "https://i.imgur.com/ill1Ux6.png",
       "website": "http://www.malltv.ge/indexen.php"
     }
   ]

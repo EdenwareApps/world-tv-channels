@@ -1,32 +1,28 @@
 {
   "Entertainment": [
     {
-      "name": "Azon TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Azon",
+      "isFree": true
     },
     {
       "name": "8TV",
       "isFree": true,
-      "logo": "https://i.imgur.com/Jkx9W88.png",
       "website": "https://8tv.uz/"
     },
     {
-      "name": "AGRO TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003555527162_18.png"
+      "name": "AGRO",
+      "isFree": true
     },
     {
-      "name": "Amudaryo TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Amudaryo",
+      "isFree": true
     },
     {
       "name": "Andijon MTRK",
       "isFree": true
     },
     {
-      "name": "BIZ TV",
+      "name": "BIZ",
       "isFree": true,
       "website": "https://biztv.uz/"
     },
@@ -36,15 +32,13 @@
       "website": "https://buxorotv.uz/"
     },
     {
-      "name": "Cheksiz TV",
+      "name": "Cheksiz",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://cheksiztv.uz/"
     },
     {
-      "name": "Dasturxon TV",
-      "isFree": true,
-      "logo": "http://epg.one/img2/7917.png"
+      "name": "Dasturxon",
+      "isFree": true
     },
     {
       "name": "Dunyo bo'ylab",
@@ -61,24 +55,20 @@
       "website": "https://fazo.tv/"
     },
     {
-      "name": "Gold Uz TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg"
+      "name": "Gold Uz",
+      "isFree": true
     },
     {
-      "name": "Ischonch TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ischonch",
+      "isFree": true
     },
     {
-      "name": "Istiqlol TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Istiqlol",
+      "isFree": true
     },
     {
-      "name": "Jaslar TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Jaslar",
+      "isFree": true
     },
     {
       "name": "Jizzax MTRK",
@@ -91,7 +81,6 @@
     {
       "name": "Madaniyat va ma'rifat",
       "isFree": true,
-      "logo": "http://epg.one/img2/2648.png",
       "website": "https://www.mtrk.uz/uz/tv/madaniyat/"
     },
     {
@@ -100,9 +89,8 @@
       "website": "https://www.mtrk.uz/uz/tv/mahalla/"
     },
     {
-      "name": "Makon TV",
+      "name": "Makon",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://makon.tv/"
     },
     {
@@ -110,14 +98,12 @@
       "isFree": true
     },
     {
-      "name": "Muloqot TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Muloqot",
+      "isFree": true
     },
     {
-      "name": "MY5",
+      "name": "MY 5",
       "isFree": true,
-      "logo": "http://epg.one/img2/7928.png",
       "website": "https://my5.media/"
     },
     {
@@ -125,9 +111,8 @@
       "isFree": true
     },
     {
-      "name": "Nasaf TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Nasaf",
+      "isFree": true
     },
     {
       "name": "Navo",
@@ -139,7 +124,7 @@
       "isFree": true
     },
     {
-      "name": "Nurafshon TV",
+      "name": "Nurafshon",
       "isFree": true
     },
     {
@@ -158,17 +143,15 @@
       "isFree": true
     },
     {
-      "name": "Renessans TV",
-      "isFree": true,
-      "logo": "http://epg.one/img2/7933.png"
+      "name": "Renessans",
+      "isFree": true
     },
     {
-      "name": "RizaNova TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "RizaNova",
+      "isFree": true
     },
     {
-      "name": "Ruxsor TV",
+      "name": "Ruxsor",
       "isFree": true,
       "website": "https://www.ruxsortrk.uz/"
     },
@@ -177,14 +160,13 @@
       "isFree": true
     },
     {
-      "name": "Sevimli TV",
+      "name": "Sevimli",
       "isFree": true,
       "website": "https://www.sevimlitv.uz/"
     },
     {
-      "name": "Shifo TV",
+      "name": "Shifo",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://shifotv.uz/"
     },
     {
@@ -200,9 +182,8 @@
       "isFree": true
     },
     {
-      "name": "Taraqqiyot TV",
+      "name": "Taraqqiyot",
       "isFree": true,
-      "logo": "http://epg.one/img2/7936.png",
       "website": "https://taraqqiyot.tv/"
     },
     {
@@ -212,22 +193,19 @@
     },
     {
       "name": "TTV Telekanali",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+      "isFree": true
     },
     {
-      "name": "Vodiy TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Vodiy",
+      "isFree": true
     },
     {
       "name": "Xorazm MTRK",
       "isFree": true
     },
     {
-      "name": "YangiKulgu TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "YangiKulgu",
+      "isFree": true
     },
     {
       "name": "Yoshlar",
@@ -235,9 +213,8 @@
       "website": "https://www.mtrk.uz/uz/tv/yoshlar/"
     },
     {
-      "name": "Zo'r TV",
+      "name": "Zo'r",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://zortv.uz/"
     }
   ],
@@ -245,7 +222,6 @@
     {
       "name": "Aqlvoy",
       "isFree": true,
-      "logo": "http://epg.one/img2/7912.png",
       "website": "https://aqlvoy.uz/"
     },
     {
@@ -254,9 +230,8 @@
       "website": "https://www.mtrk.uz/uz/tv/bolajon/"
     },
     {
-      "name": "MiMi TV",
+      "name": "MiMi",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJg9YnuYzSCG9A5yKtJaTRNExNT.jpg",
       "website": "https://mimitv.uz/"
     }
   ],
@@ -264,13 +239,11 @@
     {
       "name": "BIZ Cinema",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3Jj7ok55Sm9zfNVwV78bT4s3I.jpg",
       "website": "https://biztv.uz/"
     },
     {
       "name": "iTV Cinema",
       "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png",
       "website": "https://itv.uz/en"
     },
     {
@@ -280,31 +253,26 @@
     },
     {
       "name": "TTV Kino",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "BIZ Music",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3Jj7ok55Sm9zfNVwV78bT4s3I.jpg"
+      "isFree": true
     },
     {
-      "name": "Ellikqala TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ellikqala",
+      "isFree": true
     },
     {
       "name": "FTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/YOr1Oac.png",
       "website": "https://www.uzreport.news/"
     },
     {
       "name": "iTV Music",
       "isFree": true,
-      "logo": "https://go4.pw/UK/itvquiz.png",
       "website": "https://itv.uz/en"
     },
     {
@@ -318,15 +286,13 @@
     },
     {
       "name": "TTV Musiqa",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/VIETNAM/LONG_AN.png"
+      "isFree": true
     }
   ],
   "Education & Culture": [
     {
-      "name": "Foreign Languages TV",
+      "name": "Foreign Languages",
       "isFree": true,
-      "logo": "https://img.redtraffic.xyz/20296.jpg",
       "website": "https://www.uztv.tv/channels/foreign-languages"
     },
     {
@@ -349,15 +315,13 @@
       "website": "http://uzbekistan24.uz/"
     },
     {
-      "name": "UzReport TV",
+      "name": "UzReport",
       "isFree": true,
-      "logo": "https://i.imgur.com/Bch2RHc.jpg",
       "website": "https://uzreport.news/"
     },
     {
       "name": "UzReport World",
       "isFree": true,
-      "logo": "https://i.imgur.com/Bch2RHc.jpg",
       "website": "https://uzreport.news/"
     }
   ],

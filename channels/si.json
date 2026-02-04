@@ -2,28 +2,24 @@
   "News": [
     {
       "name": "N1 SLOVENSKA",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/ALGERIA/El%20Djazair%20N1.png"
+      "isFree": true
     },
     {
-      "name": "ePosavje TV",
+      "name": "ePosavje",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.eposavje.com/oznake/eposavje-tv"
     },
     {
       "name": "Nova24TV",
       "isFree": true,
       "keywords": "nova24tv -2",
-      "logo": "https://go4.pw/EXYU/NOVA24TV.png",
       "website": "https://nova24tv.si/"
     }
   ],
   "Entertainment": [
     {
       "name": "GTV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/jjuKnYs.png"
+      "isFree": true
     },
     {
       "name": "MMC",
@@ -32,111 +28,90 @@
     {
       "name": "RTV MMC",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/75fed9fbd5184811a3aaf626e0bdd231.png",
       "priority": 10
     },
     {
-      "name": "RTV SLO1",
+      "name": "RTV SLO",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ed1a71a2a5956e8e9d7dafdaa57d2564.png",
       "priority": 10
     },
     {
-      "name": "RTV SLO2",
+      "name": "RTV SLO 2",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6f50efc8fdec88850af6ca3d3563758d.png",
       "priority": 10
     },
     {
-      "name": "RTV SLO3",
+      "name": "RTV SLO 3",
       "isFree": true,
-      "logo": "https://go4.pw/Africa/RTV.png",
       "priority": 10
     },
     {
       "name": "RTV TV Koper Capodistria",
       "isFree": true,
-      "shortName": "RTKC",
-      "logo": "https://images.iptvmate.net/tvglogo/9feb5f1bebd5c4710767fd4e9212ce63.png",
       "priority": 10
     },
     {
       "name": "RTV TV Maribor",
       "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/2da79b83d9e5b136230dec830f64169e.png",
       "priority": 10
     },
     {
       "name": "TV Koper-Capodistria",
-      "isFree": true,
-      "shortName": "TK",
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV MARIBOR",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tWf3dgf.png"
+      "isFree": true
     },
     {
-      "name": "TV SLOVENIJA 1",
+      "name": "TV SLOVENIJA",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 10
     },
     {
       "name": "TV SLOVENIJA 2",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 10
     },
     {
       "name": "TV SLOVENIJA 3",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "priority": 10
     },
     {
       "name": "TVDX",
-      "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png"
+      "isFree": true
     },
     {
-      "name": "Veseljak TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EXYU/tv-veseljak.png"
+      "name": "Veseljak",
+      "isFree": true
     },
     {
       "name": "Angels",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBY9tOiXhNejjlThosOtojnI1gn.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000829/day/2023/11/13"
     },
     {
-      "name": "ATM TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTfxloA4zUrL2jCII0IEGaivIwh.jpg"
+      "name": "ATM",
+      "isFree": true
     },
     {
       "name": "Balkan Erotic",
       "isFree": null,
-      "logo": "http://epg.one/img2/3239.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000645/"
     },
     {
-      "name": "BK TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/PUMJABI/PITAARATV.png"
+      "name": "BK",
+      "isFree": true
     },
     {
-      "name": "Bled TV",
+      "name": "Bled",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://bled.tv/"
     },
     {
       "name": "Bliss",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGdGINvf9oSysprbWnu85dIM7rc.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000669/"
     },
     {
@@ -145,20 +120,17 @@
       "website": "https://tv2go.t-2.net/tv/epg/1000830/day/2023/11/13"
     },
     {
-      "name": "Boom TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+      "name": "Boom",
+      "isFree": true
     },
     {
       "name": "BRIO",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l43VMuUg1DoItf9nMcMSj2ZSbn3.jpg",
       "website": "https://pro-plus.si/"
     },
     {
       "name": "Capable Hole",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DKqZrzgo1LPymHSI300KqSSI0w.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000831/day/2023/11/13"
     },
     {
@@ -169,37 +141,31 @@
     },
     {
       "name": "Crime + Investigation",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+      "isFree": true
     },
     {
       "name": "Devils Home",
       "isFree": null,
-      "logo": "https://go4.pw/USA/ES+.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000832/day/2023/11/13"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "priority": 10
     },
     {
-      "name": "DTX HD",
+      "name": "DTX",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/ROMANIA/DTX UHD.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000506"
     },
     {
       "name": "ETV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164603528342_17.png",
       "website": "http://www.etv-hd.si/"
     },
     {
       "name": "Extreme",
       "isFree": null,
-      "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000646/"
     },
     {
@@ -211,82 +177,69 @@
     {
       "name": "Foxy Dolls",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0K6SWsZi1VrZm6nALMY4Y1PxZq.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000833/day/2023/11/13"
     },
     {
-      "name": "Gea TV",
+      "name": "Gea",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://gea-tv.si/"
     },
     {
-      "name": "GLAM HD",
+      "name": "GLAM",
       "isFree": null,
       "website": "https://tv2go.t-2.net/tv/epg/1000827/day/2023/11/13"
     },
     {
-      "name": "GOLD TV",
+      "name": "GOLD",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg",
       "website": "https://www.goldtv.si/"
     },
     {
       "name": "Hot Pleasure",
       "isFree": null,
-      "logo": "http://epg.one/img2/3246.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000644/"
     },
     {
       "name": "Hot XXL",
       "isFree": null,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000643/"
     },
     {
       "name": "Kanal A",
       "isFree": true,
-      "logo": "https://i.imgur.com/JHNpcqF.png",
       "website": "https://pro-plus.si/",
       "priority": 8
     },
     {
       "name": "Kanal K3 Beltinci",
-      "isFree": true,
-      "logo": "https://go4.pw/TURKIYE/KANALD.png"
+      "isFree": true
     },
     {
-      "name": "Koroska TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Koroska",
+      "isFree": true
     },
     {
       "name": "KTV Ormoz",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/MALAYSIA/ktv.png",
       "website": "https://ktv-ormoz.si/"
     },
     {
       "name": "Legal",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZKGkQ9rpMyQ75sbdLnpmiM3m73.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000676/"
     },
     {
-      "name": "Ljubljana TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Ljubljana",
+      "isFree": true
     },
     {
-      "name": "Megafon TV",
+      "name": "Megafon",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://megafon.si/"
     },
     {
-      "name": "Milf TV",
+      "name": "Milf",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBU82NPKF1LOAD9D3jLUqypyEdL.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000491/"
     },
     {
@@ -295,32 +248,23 @@
       "website": "https://tv2go.t-2.net/tv/epg/1000834/day/2023/11/13"
     },
     {
-      "name": "MMC TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/yzETQJ4.png"
-    },
-    {
       "name": "Naughty",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGKKE30C4M4uibjpO5YElOZq810.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000674/"
     },
     {
-      "name": "Net TV",
+      "name": "Net",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png",
       "website": "https://net-tv.si/"
     },
     {
       "name": "Net XXL",
       "isFree": null,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000228/"
     },
     {
       "name": "Nova24TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/NOVA24TV.png",
       "website": "https://nova24tv.si/"
     },
     {
@@ -330,67 +274,57 @@
     },
     {
       "name": "Planet Eva",
-      "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png"
+      "isFree": true
     },
     {
-      "name": "Planet TV",
+      "name": "Planet",
       "isFree": true,
       "keywords": "planet tv -2",
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://siol.net/planet-tv",
       "priority": 9
     },
     {
       "name": "Planet TV 2",
       "isFree": true,
-      "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
       "website": "https://siol.net/planet-tv",
       "priority": 9
     },
     {
       "name": "Play House",
       "isFree": null,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000294/"
     },
     {
-      "name": "POP TV",
+      "name": "POP",
       "isFree": true,
-      "logo": "https://i.imgur.com/XySNnh0.png",
       "website": "https://pro-plus.si/",
       "priority": 9
     },
     {
       "name": "RED xxx",
       "isFree": null,
-      "logo": "http://epg.one/img2/3250.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000490/"
     },
     {
       "name": "R kanal +",
       "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
       "website": "https://www.rkanal.si/"
     },
     {
       "name": "RTS Maribor",
-      "isFree": true,
-      "logo": "https://go4.pw/SWITZERLAND/rts1.png"
+      "isFree": true
     },
     {
-      "name": "Savinjska TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Savinjska",
+      "isFree": true
     },
     {
-      "name": "Sexation TV",
+      "name": "Sexation",
       "isFree": null,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000408/"
     },
     {
-      "name": "SIP TV",
+      "name": "SIP",
       "isFree": true
     },
     {
@@ -400,13 +334,11 @@
     {
       "name": "T-2 Info",
       "isFree": true,
-      "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
       "website": "https://www.t-2.net/"
     },
     {
       "name": "Televizija Urslja",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/BDC.png",
       "website": "https://www.urslja.tv/"
     },
     {
@@ -415,15 +347,15 @@
       "website": "https://www.tlc.com/"
     },
     {
-      "name": "Top TV",
+      "name": "Top",
       "isFree": true
     },
     {
-      "name": "Trzic TV",
+      "name": "Trzic",
       "isFree": true
     },
     {
-      "name": "TV3",
+      "name": "TV 3",
       "isFree": true,
       "website": "https://tv3m.si/"
     },
@@ -434,56 +366,46 @@
     {
       "name": "TV Arena",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.tvarena.si/"
     },
     {
       "name": "TV AS",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Celje",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Galeja",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV IDEA",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvidea.si/"
     },
     {
       "name": "TV Kocevje",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvkocevje.si/"
     },
     {
       "name": "TV Komenda",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Medvode",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tv-m.si/"
     },
     {
       "name": "TV Miklavz",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
-      "name": "TV SLO 1",
+      "name": "TV SLO",
       "isFree": true,
-      "logo": "https://i.imgur.com/YIZOtcm.png",
       "website": "https://www.rtvslo.si/tv"
     },
     {
@@ -497,27 +419,23 @@
       "website": "https://www.rtvslo.si/tv"
     },
     {
-      "name": "TV SRK-11",
+      "name": "TV SRK- 11",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tvradgona.si/"
     },
     {
-      "name": "TV Veseljak Golica HD",
+      "name": "TV Veseljak Golica",
       "isFree": true,
-      "logo": "https://i.imgur.com/49VrbSW.png",
       "website": "https://veseljak.svet24.si/"
     },
     {
-      "name": "Vascom TV",
+      "name": "Vascom",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.vascom.si/"
     },
     {
       "name": "Vas kanal",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMJ2DrEg2EbGFwa0Fqx93Si1SiN.jpg"
+      "isFree": true
     },
     {
       "name": "Vitel",
@@ -525,8 +443,7 @@
     },
     {
       "name": "VTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/d592a63272d5ab0ab7b4320958c06351.png"
+      "isFree": true
     },
     {
       "name": "vZIVO.si",
@@ -538,14 +455,12 @@
       "website": "https://tv2go.t-2.net/tv/epg/1000828/day/2023/11/13"
     },
     {
-      "name": "Zdrava TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/Zdrava_TV.png"
+      "name": "Zdrava",
+      "isFree": true
     },
     {
       "name": "TV Maribor",
       "isFree": true,
-      "logo": "https://i.imgur.com/tWf3dgf.png",
       "website": "https://www.rtvslo.si/tv"
     }
   ],
@@ -561,52 +476,46 @@
       "website": "https://www.davinci.tv/"
     },
     {
-      "name": "H2 HD",
+      "name": "H 2",
       "isFree": true,
       "website": "https://tv2go.t-2.net/tv/epg/1000619"
     },
     {
       "name": "History",
       "isFree": true,
-      "logo": "https://i.imgur.com/0rNNqVy.png",
       "website": "https://tv2go.t-2.net/tv/epg/1000048"
     },
     {
-      "name": "ID HD",
+      "name": "ID",
       "isFree": true,
       "website": "https://tv2go.t-2.net/tv/epg/1000507"
     },
     {
-      "name": "KIC TV",
+      "name": "KIC",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.kictv.si/"
     },
     {
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "https://www.nationalgeographic.si/",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "https://www.natgeotv.com/si",
       "priority": 9
     },
     {
-      "name": "Oron TV",
+      "name": "Oron",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.oron.si/"
     },
     {
       "name": "Viasat Explore",
       "isFree": true,
-      "logo": "https://i.imgur.com/DyT5pKB.png",
       "website": "https://viasatexplore.si/"
     },
     {
@@ -624,7 +533,6 @@
     {
       "name": "Arena Esport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://tv2go.t-2.net/tv/epg/1000683"
     },
     {
@@ -633,96 +541,81 @@
       "website": "https://tv2go.t-2.net/tv/epg/1000777"
     },
     {
-      "name": "Arena Sport 1",
+      "name": "Arena Sport",
       "isFree": true,
       "keywords": "arena sport 1 -premium",
-      "logo": "https://i.imgur.com/2qf67zW.png",
       "website": "https://www.tvarenasport.si/"
     },
     {
       "name": "Arena Sport 1 Premium",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.tvarenasport.si/"
     },
     {
       "name": "Arena Sport 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.tvarenasport.si/"
     },
     {
       "name": "Arena Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.tvarenasport.si/"
     },
     {
       "name": "Arena Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52sJCtKWqX37NBWmo1F5vYyEwbX.jpg",
       "website": "https://www.tvarenasport.si/"
     },
     {
-      "name": "Sport TV 1",
+      "name": "Sport TV",
       "isFree": true,
-      "logo": "http://i.imgur.com/yPysPGV.png",
       "website": "https://www.sport-tv.si/"
     },
     {
       "name": "Sport TV 2",
       "isFree": true,
-      "logo": "http://i.imgur.com/yPysPGV.png",
       "website": "https://www.sport-tv.si/"
     },
     {
       "name": "Sport TV 3",
       "isFree": true,
-      "logo": "http://i.imgur.com/yPysPGV.png",
       "website": "https://www.sport-tv.si/"
     }
   ],
   "Movies & Series": [
     {
-      "name": "CineStar TV 1",
+      "name": "CineStar TV",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-1/"
     },
     {
       "name": "CineStar TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-2/"
     },
     {
       "name": "CineStar TV Action",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-action/"
     },
     {
       "name": "CineStar TV Comedy",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestar-tv-comedy-family/"
     },
     {
       "name": "CineStar TV Fantasy",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-fantasy/"
     },
     {
-      "name": "CineStar TV Premiere 1",
+      "name": "CineStar TV Premiere",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-premiere-1/"
     },
     {
       "name": "CineStar TV Premiere 2",
       "isFree": true,
-      "logo": "https://go4.pw/germany/PLEX_GERMANY.png",
       "website": "https://cinestartvchannels.si/kanal/cinestartv-premiere-2/"
     },
     {
@@ -738,18 +631,16 @@
     {
       "name": "KINO",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4QUFtqVAAeAeMkUOTfXOrjvhd.jpg",
       "website": "https://pro-plus.si/"
     },
     {
-      "name": "Star Channel",
+      "name": "Star",
       "isFree": true,
       "website": "https://www.starchannel-si.com/"
     },
     {
       "name": "Star Crime",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://www.starchannel-si.com/"
     },
     {
@@ -760,26 +651,18 @@
     {
       "name": "Star Movies",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
       "website": "https://www.starchannel-si.com/"
-    },
-    {
-      "name": "TV1000",
-      "isFree": true,
-      "website": "https://tv1000.si/"
     }
   ],
   "Religious": [
     {
-      "name": "Exodus HD",
+      "name": "Exodus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JXFJRztd43gCf4TAodNUwkfZoi.jpg",
       "website": "https://www.exodus.si/"
     },
     {
-      "name": "Exodus TV",
+      "name": "Exodus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JXFJRztd43gCf4TAodNUwkfZoi.jpg",
       "website": "https://www.exodus.si/"
     }
   ],
@@ -790,38 +673,33 @@
       "website": "https://folx.network/folx-slovenija-music-television/"
     },
     {
-      "name": "Golica TV",
+      "name": "Golica",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/EXYU/EXYO/GOLICA-1.png",
       "website": "https://www.golica.si/"
     },
     {
       "name": "Radio Aktual",
       "isFree": true,
-      "logo": "https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png",
       "website": "https://radioaktual.svet24.si/"
     },
     {
       "name": "TV Sehara",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "TV Zlati Zvoki",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     }
   ],
   "Shop": [
     {
-      "name": "Kristal TV",
+      "name": "Kristal",
       "isFree": true,
       "website": "http://tvkristal.com/"
     },
     {
       "name": "TV nakupi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://tvnakupi.si/"
     }
   ],
@@ -829,7 +707,6 @@
     {
       "name": "Minimax",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2021/06/24/large/20210624003738282051_91.png",
       "website": "https://www.minimaxtv.si/"
     },
     {
@@ -845,7 +722,6 @@
     {
       "name": "OTO",
       "isFree": true,
-      "logo": "https://go4.pw/EXYU/oto.png",
       "website": "https://pro-plus.si/"
     }
   ]

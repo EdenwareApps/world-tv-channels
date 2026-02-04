@@ -2,13 +2,11 @@
   "Shop": [
     {
       "name": "TVSN Shopping",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/tvsn-shopping.png"
+      "isFree": true
     },
     {
-      "name": "The Shopping Channel",
+      "name": "The Shopping",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://tvguide.sky.co.nz/channel/025"
     }
   ],
@@ -24,77 +22,61 @@
   ],
   "Music Videos": [
     {
-      "name": "Breeze TV",
-      "isFree": true,
-      "logo": "https://img.redtraffic.xyz/20212.jpg"
+      "name": "Breeze",
+      "isFree": true
     },
     {
       "name": "The Edge",
       "isFree": true,
-      "logo": "https://images.mediaworks.nz/rova/Content/apps/images/EDG_sq_600x600.png"
+      "website": "https://www.theedge.co.nz/home/shows/edge-tv.html"
     },
     {
       "name": "MTV Hits",
       "isFree": true,
       "website": "https://www.mtv.com.au/tv-schedule/mtv-hits-new-zealand",
       "priority": 8
-    },
-    {
-      "name": "The Edge TV",
-      "isFree": true,
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
-      "website": "https://www.theedge.co.nz/home/shows/edge-tv.html"
     }
   ],
   "Entertainment": [
     {
       "name": "Firstlight",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/firstlight.png"
+      "isFree": true
     },
     {
-      "name": "Juice TV",
-      "isFree": true,
-      "logo": "https://i.iheart.com/v3/re/assets.streams/6785887856421638085c6c49"
+      "name": "Juice",
+      "isFree": true
     },
     {
-      "name": "Kordia TV",
-      "isFree": true,
-      "logo": "https://i.imgur.com/BQ0qWzX.png"
+      "name": "Kordia",
+      "isFree": true
     },
     {
-      "name": "Maori TV",
+      "name": "Maori",
       "isFree": true
     },
     {
       "name": "Maori Television",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/990af5b2ee73bde23ef759c4a3be9b62.png"
+      "isFree": true
     },
     {
       "name": "Rialto",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/0883a03b70b82b9681b17f1ea36f2455.png"
+      "isFree": true
     },
     {
-      "name": "TVNZ 1",
-      "isFree": true,
-      "logo": "https://i.imgur.com/Nx76HUE.png"
+      "name": "TVNZ",
+      "isFree": true
     },
     {
       "name": "TVNZ 2",
-      "isFree": true,
-      "logo": "https://i.imgur.com/9sV4dbH.png"
+      "isFree": true
     },
     {
       "name": "TVNZ Duke",
-      "isFree": true,
-      "logo": "https://i.imgur.com/tJf9DEI.png"
+      "isFree": true
     },
     {
       "name": "TVSN NZ",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/aafe642c12606fecd149354c96e4e3f5.png"
+      "isFree": true
     },
     {
       "name": "Te Reo",
@@ -102,24 +84,20 @@
     },
     {
       "name": "Three",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/three.png"
+      "isFree": true
     },
     {
-      "name": "Wairarapa TV",
-      "isFree": true,
-      "logo": "https://i.mjh.nz/.images/wairarapa-tv.png"
+      "name": "Wairarapa",
+      "isFree": true
     },
     {
       "name": "Bravo",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/02/12/large/20230212225528892223_79.png",
       "website": "http://www.bravotv.co.nz/"
     },
     {
       "name": "Channel 200",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://ch200.co.nz/watch-live/"
     },
     {
@@ -128,15 +106,13 @@
       "website": "http://www.skygo.co.nz/"
     },
     {
-      "name": "Country TV",
+      "name": "Country",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
       "website": "https://countrytv.co.nz/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "http://www.discoverychannel.co.uk/au/",
       "priority": 10
     },
@@ -147,13 +123,11 @@
     {
       "name": "eden",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/eden.png",
       "website": "https://www.threenow.co.nz/search?genre=eden"
     },
     {
-      "name": "Face TV",
+      "name": "Face",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg",
       "website": "http://www.facetv.co.nz/"
     },
     {
@@ -164,7 +138,6 @@
     {
       "name": "HGTV",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png",
       "website": "https://www.hgtv.co.nz/"
     },
     {
@@ -176,128 +149,108 @@
     {
       "name": "JONES! too",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg",
       "website": "https://www.sky.co.nz/jones"
     },
     {
       "name": "Living",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg",
       "website": "https://www.sky.co.nz/living-channel"
     },
     {
       "name": "MTV",
       "isFree": true,
       "keywords": "mtv -hits",
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "https://www.mtv.com.au/tv-schedule/mtv-new-zealand",
       "priority": 10
     },
     {
-      "name": "Pasifika TV",
+      "name": "Pasifika",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.pasifikatv.co.nz/"
     },
     {
       "name": "RNZ",
       "isFree": true,
-      "logo": "https://images.mediaworks.nz/rova/Content/apps/images/RNZ_National_Generic_600x600_Sq.png",
       "website": "https://www.rnz.co.nz/"
     },
     {
       "name": "Rush",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/rush-nz.png",
       "website": "https://www.threenow.co.nz/search?genre=rush"
     },
     {
-      "name": "Shine TV",
+      "name": "Shine",
       "isFree": true,
-      "logo": "https://i.mjh.nz/.images/shine-tv.png",
       "website": "https://www.shinetv.co.nz/"
     },
     {
       "name": "Sky 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/discover/sky-starter"
     },
     {
       "name": "Sky Arena",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-arena"
     },
     {
       "name": "Sky Arts",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "http://www.sky.co.nz/sky-arts"
     },
     {
       "name": "Sky Box Office 040",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-box-office"
     },
     {
       "name": "Sky Box Office 041",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-box-office"
     },
     {
       "name": "Sky Box Office 042",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-box-office"
     },
     {
       "name": "Sky Box Office 043",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-box-office"
     },
     {
       "name": "Sky Box Sets",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/boxsets"
     },
     {
       "name": "Sky Movies Comedy",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Open",
       "isFree": true,
-      "logo": "https://cdn.fullscreen.nz/v1/images/channel/linear/ptso/logos/default.png",
       "website": "https://www.sky.co.nz/skyopen"
     },
     {
       "name": "SoHo",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
       "website": "https://www.sky.co.nz/soho"
     },
     {
-      "name": "SoHo2",
+      "name": "SoHo 2",
       "isFree": true,
       "website": "https://www.sky.co.nz/soho"
     },
     {
-      "name": "TAB Trackside 1",
+      "name": "TAB Trackside",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxW0ZWf3YBBPshn2XguUsD5ZonF.jpg",
       "website": "http://www.tab.co.nz/"
     },
     {
       "name": "TAB Trackside 2",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxW0ZWf3YBBPshn2XguUsD5ZonF.jpg",
       "website": "http://www.tab.co.nz/"
     },
     {
@@ -306,79 +259,68 @@
       "website": "https://www.sky.co.nz/tlc"
     },
     {
-      "name": "TV32",
+      "name": "TV 32",
       "isFree": true,
       "website": "https://www.bne.co.nz/"
     },
     {
-      "name": "Universal TV",
+      "name": "Universal",
       "isFree": true,
-      "logo": "https://i.ibb.co/r2rvwTsT/image.png",
       "website": "https://www.sky.co.nz/universal-tv"
     },
     {
       "name": "Vibe",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "http://www.skytv.co.nz/vibe/"
     },
     {
       "name": "Whakaata Maori",
       "isFree": true,
-      "logo": "https://i.imgur.com/oT3PrHZ.png",
       "website": "https://www.maoritelevision.com/live"
     },
     {
       "name": "TVNZ DUKE",
       "isFree": true,
-      "logo": "https://i.imgur.com/tJf9DEI.png",
       "website": "https://www.tvnz.co.nz/livetv/tvnz-duke"
     }
   ],
   "News": [
     {
-      "name": "Parliament TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174535846051_22.png"
+      "name": "Parliament",
+      "isFree": true
     },
     {
       "name": "Sky News New Zealand",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://tvguide.sky.co.nz/channel/085",
       "priority": 9
     }
   ],
   "Education & Culture": [
     {
-      "name": "Apna TV",
+      "name": "Apna",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/APNA.png",
       "website": "https://apnanetwork.co.nz/"
     },
     {
       "name": "Channel 33",
       "isFree": true,
-      "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
       "website": "https://www.nzcmg.co.nz/"
     },
     {
       "name": "Investigation Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/2507.png",
       "website": "https://www.sky.co.nz/id"
     }
   ],
   "Religious": [
     {
-      "name": "Global Kingdom TV Channel",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg"
+      "name": "Global Kingdom",
+      "isFree": true
     },
     {
       "name": "Hope Channel New Zealand",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://www.hopechannel.nz/"
     }
   ],
@@ -386,43 +328,36 @@
     {
       "name": "Sky Movies Action",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Movies Classics",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Movies Collection",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Movies Family",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/kids-family-movies"
     },
     {
       "name": "Sky Movies Greats",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Movies Premiere",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     },
     {
       "name": "Sky Movies Vintage",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-movies"
     }
   ],
@@ -431,11 +366,10 @@
       "name": "Sky Sport",
       "isFree": true,
       "keywords": "sky sport -1 -2 -3 -4 -5 -6 -7 -8 -9 -news -premier league -select",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
-      "name": "Sky Sport 1",
+      "name": "Sky Sport",
       "isFree": true,
       "website": "https://www.sky.co.nz/sky-sport"
     },
@@ -447,43 +381,36 @@
     {
       "name": "Sky Sport 3",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 4",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 5",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 6",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 7",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 8",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
       "name": "Sky Sport 9",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     },
     {
@@ -499,7 +426,6 @@
     {
       "name": "Sky Sport Select",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dJxgyryI2XmheaTd3hrCkOabNu.jpg",
       "website": "https://www.sky.co.nz/sky-sport"
     }
   ]

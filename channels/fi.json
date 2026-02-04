@@ -1,24 +1,20 @@
 {
   "Religious": [
     {
-      "name": "Himlen TV7",
-      "isFree": true,
-      "logo": "https://i.imgur.com/a4iNVXA.png"
+      "name": "Himlen TV 7",
+      "isFree": true
     },
     {
-      "name": "Taevas TV7",
-      "isFree": true,
-      "logo": "https://i.imgur.com/usXedIj.png"
+      "name": "Taevas TV 7",
+      "isFree": true
     },
     {
-      "name": "Taivas TV7",
-      "isFree": true,
-      "logo": "https://i.imgur.com/a4iNVXA.png"
+      "name": "Taivas TV 7",
+      "isFree": true
     },
     {
       "name": "Hope Channel Finland",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbUBS9jUsvEfGJNVnLa0bJsyFxv.jpg",
       "website": "https://hopechannel.fi/"
     },
     {
@@ -27,18 +23,17 @@
       "website": "https://irr-tv.fi/"
     },
     {
-      "name": "Nebesa TV7",
+      "name": "Nebesa TV 7",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/FRANCE/TV7_BORDEAUX.png",
       "website": "https://www.nebesatv7.com/"
     },
     {
-      "name": "One Way TV",
+      "name": "One Way",
       "isFree": true,
       "website": "https://oneway.tv/fi/"
     },
     {
-      "name": "Monk (TV series)",
+      "name": "Monk",
       "isFree": true
     },
     {
@@ -46,15 +41,11 @@
       "isFree": true
     },
     {
-      "name": "Eureka (2006 TV series)",
+      "name": "Eureka",
       "isFree": true
     },
     {
       "name": "Media of Finland",
-      "isFree": true
-    },
-    {
-      "name": "2}}",
       "isFree": true
     },
     {
@@ -292,24 +283,20 @@
       "isFree": true
     },
     {
-      "name": "YLE TV 1",
+      "name": "YLE TV",
       "isFree": true,
       "keywords": "yle tv 1 | yle tv1",
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "priority": 10
     },
     {
       "name": "YLE TV 2",
       "isFree": true,
       "keywords": "yle tv 2 | yle tv2",
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "priority": 9
     },
     {
       "name": "YLE TV Teema & Fem",
       "isFree": true,
-      "shortName": "YTTF",
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "priority": 9
     },
     {
@@ -318,16 +305,14 @@
       "website": "http://www.arvastv.fi/"
     },
     {
-      "name": "Discovery Channel",
+      "name": "Discovery",
       "isFree": true,
-      "logo": "http://epg.one/img2/325.png",
       "website": "http://www.discovery.fi/",
       "priority": 10
     },
     {
       "name": "Eveo",
       "isFree": true,
-      "logo": "https://i.imgur.com/fFIq7tY.png",
       "website": "https://www.eveo.fi/"
     },
     {
@@ -353,7 +338,6 @@
     {
       "name": "Jim",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png",
       "website": "http://www.jimtv.fi/"
     },
     {
@@ -369,7 +353,6 @@
     {
       "name": "Kutonen",
       "isFree": true,
-      "logo": "https://i.imgur.com/4giVyxb.png",
       "website": "https://www.discoveryplus.com/fi/channel/kutonen"
     },
     {
@@ -379,13 +362,11 @@
     },
     {
       "name": "Liv",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png"
+      "isFree": true
     },
     {
       "name": "Love Nature",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg"
+      "isFree": true
     },
     {
       "name": "Malax Lokal-TV",
@@ -396,14 +377,12 @@
       "name": "MTV",
       "isFree": true,
       "keywords": "mtv -aitio -ava -juniori -max -sub -urheilu 1 -urheilu 2 -uutiset -viihde",
-      "logo": "https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",
       "website": "http://www.musictelevision.fi/",
       "priority": 10
     },
     {
-      "name": "MTV3",
+      "name": "MTV 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/kNbmc8n.png",
       "website": "https://www.mtv.fi/",
       "priority": 9
     },
@@ -415,7 +394,6 @@
     {
       "name": "MTV Ava",
       "isFree": true,
-      "logo": "https://i.imgur.com/rtyJVgB.png",
       "website": "https://www.mtv.fi/",
       "priority": 8
     },
@@ -447,15 +425,13 @@
       "priority": 9
     },
     {
-      "name": "Oho Live TV",
+      "name": "Oho Live",
       "isFree": true,
-      "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
       "website": "https://ohotv.fi/"
     },
     {
-      "name": "Onni TV",
+      "name": "Onni",
       "isFree": true,
-      "logo": "https://i.imgur.com/Vba4jUk.png",
       "website": "https://www.onnitv.fi/"
     },
     {
@@ -473,24 +449,21 @@
       "isFree": true
     },
     {
-      "name": "SkyShowtime 1",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+      "name": "SkyShowtime",
+      "isFree": true
     },
     {
       "name": "SkyShowtime 2",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/SWEDEN/SkyShowtime_2.png"
+      "isFree": true
     },
     {
-      "name": "STAR Channel",
+      "name": "STAR",
       "isFree": true,
       "website": "http://starchannel.fi/"
     },
     {
-      "name": "Sundom TV",
+      "name": "Sundom",
       "isFree": true,
-      "logo": "https://i.imgur.com/WgwR7nJ.png",
       "website": "https://951.fi/"
     },
     {
@@ -499,20 +472,18 @@
       "website": "https://www.discoveryplus.com/fi/channel/tlc"
     },
     {
-      "name": "TV5",
+      "name": "TV 5",
       "isFree": true,
       "website": "https://www.dplay.fi/kanavat/tv5",
       "priority": 8
     },
     {
       "name": "TV Finland",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "isFree": true
     },
     {
       "name": "Viasat Explore",
       "isFree": true,
-      "logo": "https://i.imgur.com/DyT5pKB.png",
       "website": "https://viasatexplore.eu/"
     },
     {
@@ -532,34 +503,29 @@
     {
       "name": "Yle Fem",
       "isFree": true,
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "priority": 9
     },
     {
       "name": "Yle Teema",
       "isFree": true,
       "keywords": "yle teema -& fem",
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "priority": 9
     },
     {
       "name": "Yle Teema & Fem",
       "isFree": true,
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "website": "https://svenska.yle.fi/yle-fem",
       "priority": 9
     },
     {
-      "name": "Yle TV1",
+      "name": "Yle TV",
       "isFree": true,
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "website": "http://www.yle.fi/tv1/",
       "priority": 9
     },
     {
-      "name": "Yle TV2",
+      "name": "Yle TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/SCANDINAVIAN/YLETV2.png",
       "website": "http://tv2.yle.fi/",
       "priority": 9
     }
@@ -568,7 +534,6 @@
     {
       "name": "C More Juniori",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
       "website": "http://www.cmore.fi/juniori"
     },
     {
@@ -581,27 +546,23 @@
   "Movies & Series": [
     {
       "name": "Hero",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png"
+      "isFree": true
     }
   ],
   "Music Videos": [
     {
       "name": "JRTV Jarviradio",
       "isFree": true,
-      "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
       "website": "https://www.jarviradio.fi/"
     },
     {
-      "name": "Navahang TV",
+      "name": "Navahang",
       "isFree": true,
-      "logo": "https://i.imgur.com/YteKXJy.png",
       "website": "https://www.navahang.com/"
     },
     {
       "name": "YleX",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png",
       "website": "https://areena.yle.fi/podcastit/ohjelmat/ylex"
     }
   ],
@@ -615,21 +576,19 @@
       "name": "National Geographic",
       "isFree": true,
       "keywords": "national geographic -wild",
-      "logo": "http://epg.one/img2/102.png",
       "website": "http://www.natgeotv.com/fi",
       "priority": 10
     },
     {
       "name": "National Geographic Wild",
       "isFree": true,
-      "logo": "http://epg.one/img2/223.png",
       "website": "http://www.natgeotv.com/fi",
       "priority": 9
     }
   ],
   "Sports": [
     {
-      "name": "MTV Urheilu 1",
+      "name": "MTV Urheilu",
       "isFree": true,
       "website": "https://www.cmore.fi/sport",
       "priority": 8
@@ -641,9 +600,8 @@
       "priority": 8
     },
     {
-      "name": "Viaplay TV",
+      "name": "Viaplay",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png",
       "website": "https://viaplaytv.fi/"
     }
   ],
@@ -657,13 +615,11 @@
     {
       "name": "Nopola News",
       "isFree": true,
-      "logo": "https://i.imgur.com/vDoQaGl.png",
       "website": "https://www.nopolanews.fi/"
     },
     {
-      "name": "Posi TV",
+      "name": "Posi",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://positv.fi/"
     }
   ]

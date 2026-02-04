@@ -5,72 +5,57 @@
       "isFree": true
     },
     {
-      "name": "Al-Jawadain TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Al-Jawadain",
+      "isFree": true
     },
     {
       "name": "Alkafeel: Between the two holy shrines",
-      "isFree": true,
-      "shortName": "ABTTHS",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg"
+      "isFree": true
     },
     {
       "name": "Alkafeel: The Holy Tomb",
-      "isFree": true,
-      "shortName": "ATHT",
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "isFree": true
     },
     {
       "name": "Alkafeel: The entrance of the holy sanctuary",
       "isFree": true,
-      "shortName": "ATEOTHS",
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "shortName": "ATEOTHS"
     },
     {
       "name": "Alkafeel: The window of Al-Kafeel",
-      "isFree": true,
-      "shortName": "ATWOA",
-      "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png"
+      "isFree": true
     },
     {
-      "name": "Dua TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/IRAQ/DUATV.png"
+      "name": "Dua",
+      "isFree": true
     },
     {
       "name": "Imam Hussein TV 1 Farsi",
       "isFree": true,
-      "shortName": "IHT1F",
-      "logo": "https://go4.pw/IRAN/IMAM.png"
+      "shortName": "IHT1F"
     },
     {
       "name": "Imam Hussein TV 2 Arabic",
       "isFree": true,
-      "shortName": "IHT2A",
-      "logo": "https://go4.pw/IRAN/IMAM.png"
+      "shortName": "IHT2A"
     },
     {
       "name": "Imam Hussein TV 3 English",
       "isFree": true,
-      "shortName": "IHT3E",
-      "logo": "https://go4.pw/IRAN/IMAM.png"
+      "shortName": "IHT3E"
     },
     {
       "name": "Imam Hussein TV 4 Urdu",
       "isFree": true,
-      "shortName": "IHT4U",
-      "logo": "https://go4.pw/IRAN/IMAM.png"
+      "shortName": "IHT4U"
     },
     {
-      "name": "Karbala TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701112530242519_68.jpg"
+      "name": "Karbala",
+      "isFree": true
     },
     {
-      "name": "Al-Aimma TV",
+      "name": "Al-Aimma",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://alaimma.tv/"
     },
     {
@@ -79,23 +64,21 @@
       "website": "https://www.karbala-tv.iq/quran/"
     },
     {
-      "name": "Al Salam TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Salam",
+      "isFree": true
     },
     {
-      "name": "Amozhgary TV",
+      "name": "Amozhgary",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/Amozhgary-2.png",
       "website": "https://www.amozhgary.tv/"
     },
     {
-      "name": "Bayyinat TV",
+      "name": "Bayyinat",
       "isFree": true,
       "website": "http://www.bayyinat.tv/"
     },
     {
-      "name": "BeitolAbbas TV Channel",
+      "name": "BeitolAbbas",
       "isFree": true,
       "website": "http://beitolabbas.tv/"
     },
@@ -104,180 +87,151 @@
       "isFree": true
     },
     {
-      "name": "Hadi TV 1",
+      "name": "Hadi TV",
       "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174650301157_36.png",
       "website": "https://en.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://en.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 3",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://az.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 4",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://fa.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 5",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://ha.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 6",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://en.haditv.co.uk/"
     },
     {
       "name": "Hadi TV 7",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAKISTAN/HADI.png",
       "website": "https://ku.haditv.co.uk/live/HQ"
     },
     {
-      "name": "Imam Ali TV",
+      "name": "Imam Ali",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "https://www.imamali.net/"
     },
     {
-      "name": "Imam Asr TV",
+      "name": "Imam Asr",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "http://www.imamasrtv.com/"
     },
     {
-      "name": "Imam Hussein TV 1",
+      "name": "Imam Hussein TV",
       "isFree": true,
       "keywords": "imam hussein tv 1 -farsi",
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "https://imamhussein1.tv/"
     },
     {
       "name": "Imam Hussein TV 2",
       "isFree": true,
       "keywords": "imam hussein tv 2 -arabic",
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "https://imamhussein2.tv/"
     },
     {
       "name": "Imam Hussein TV 3",
       "isFree": true,
       "keywords": "imam hussein tv 3 -english",
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "https://imamhussein3.tv/"
     },
     {
       "name": "Imam Hussein TV 4",
       "isFree": true,
       "keywords": "imam hussein tv 4 -urdu",
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "https://imamhussein4.tv/"
     },
     {
       "name": "Imam Hussein TV 5",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "http://imamhussein.tv/"
     },
     {
       "name": "Imam Hussein TV 6",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/IMAM.png",
       "website": "http://imamhussein.tv/"
     },
     {
-      "name": "Kalimat TV Channel",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Kalimat",
+      "isFree": true
     },
     {
       "name": "Karbala Documentary",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/IRAQ/KARBALATV.png",
       "website": "https://www.karbala-tv.iq/"
     },
     {
-      "name": "Karbala Satellite Channel",
+      "name": "Karbala Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/IRAQ/KARBALATV.png",
       "website": "https://www.karbala-tv.iq/"
     },
     {
       "name": "Marjaeyat TV Arabic",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/MARJAEYATTV.png",
       "website": "https://marjaeyattv.com/"
     },
     {
       "name": "Marjaeyat TV English",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/MARJAEYATTV.png",
       "website": "https://marjaeyattv.com/"
     },
     {
       "name": "Marjaeyat TV Persian",
       "isFree": true,
-      "logo": "https://go4.pw/IRAN/MARJAEYATTV.png",
       "website": "https://marjaeyat.tv/"
     },
     {
       "name": "NRT 4",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/NRT.png",
       "website": "https://www.nrttv.com/nrt2/"
     },
     {
-      "name": "Quran TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095254463635_91.png"
+      "name": "Quran",
+      "isFree": true
     }
   ],
   "Kids": [
     {
-      "name": "Afarin TV",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/Afarin Baxcha TV.png"
+      "name": "Afarin",
+      "isFree": true
     },
     {
       "name": "Afarin Baxcha",
       "isFree": true,
-      "logo": "https://go4.pw/KURDISH/Afarin Baxcha TV.png",
       "website": "https://afarin.tv/"
     },
     {
       "name": "Iraq Kids",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7GYM75LEBCYbI6z88lfeFDgqkB.jpg"
+      "isFree": true
     },
     {
       "name": "NRT 3 Kids",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/NRT.png",
       "website": "https://www.nrttv.com/nrt2/"
     }
   ],
   "News": [
     {
       "name": "Al Hurra",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173758528361_28.png"
+      "isFree": true
     },
     {
       "name": "Al Iraqiya News",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "priority": 9
     },
     {
@@ -286,8 +240,7 @@
     },
     {
       "name": "Al Sharqiya News",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
       "name": "Al-Etejah",
@@ -302,53 +255,45 @@
       "name": "Dijlah",
       "isFree": true,
       "keywords": "dijlah -tarab",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174601163962_10.png"
+      "website": "http://www.dijlah.tv/"
     },
     {
       "name": "Iraq 24",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7GYM75LEBCYbI6z88lfeFDgqkB.jpg"
+      "isFree": true
     },
     {
       "name": "KurdSat News",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/KURDSAT.png"
+      "isFree": true
     },
     {
-      "name": "Rudaw TV",
+      "name": "Rudaw",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/RUDWA.png",
       "priority": 9
     },
     {
       "name": "I News",
       "isFree": true,
       "keywords": "i news | inews",
-      "shortName": "iNEWS",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg"
+      "shortName": "iNEWS"
     },
     {
-      "name": "Al-Baghdadia 1",
+      "name": "Al-Baghdadia",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://albaghdadiatv.com/"
     },
     {
-      "name": "Al Eshraq TV",
+      "name": "Al Eshraq",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://aleshraqtv.iq/"
     },
     {
-      "name": "Al-Etejah Satellite Channel",
+      "name": "Al-Etejah Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
       "website": "http://www.aletejahtv.iq/"
     },
     {
-      "name": "Alghadeer TV",
+      "name": "Alghadeer",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://alghadeertv.net/",
       "priority": 9
     },
@@ -358,81 +303,65 @@
       "website": "http://imn.iq/"
     },
     {
-      "name": "Al Janoub TV",
+      "name": "Al Janoub",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://aljanoub.tv/"
     },
     {
-      "name": "Al-Nujaba TV",
+      "name": "Al-Nujaba",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.alnujaba-news.com/"
     },
     {
-      "name": "Anwar TV2",
+      "name": "Anwar TV 2",
       "isFree": true,
-      "logo": "https://go4.pw/bein/AL ANWAR 2.png",
       "website": "https://anwartv2.com/"
     },
     {
-      "name": "Channel8",
+      "name": "Channel 8",
       "isFree": true,
       "website": "https://channel8.com/english/"
     },
     {
-      "name": "Dijlah TV",
+      "name": "GK",
       "isFree": true,
-      "website": "http://www.dijlah.tv/"
-    },
-    {
-      "name": "GK Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/GK%20TV.png",
       "website": "https://www.gksat.tv/"
     },
     {
-      "name": "KNN Channel",
+      "name": "KNN",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/KNN.png",
       "website": "https://www.knnc.net/live1.aspx"
     },
     {
       "name": "NRT",
       "isFree": true,
-      "keywords": "nrt -2 -3 kids -4 -tv",
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/NRT.png",
+      "keywords": "nrt -2 -3 kids -4",
       "website": "https://www.nrttv.com/"
     },
     {
-      "name": "Shams TV",
+      "name": "Shams",
       "isFree": true,
-      "logo": "https://i.imgur.com/Lsy31iZ.jpeg",
       "website": "https://shams.tv"
     },
     {
       "name": "Kurdsat News",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/KURDSAT.png",
       "website": "https://www.kurdsatnews.com/"
     }
   ],
   "Sports": [
     {
       "name": "Iraqia Sport",
-      "isFree": false,
-      "logo": "https://go4.pw/KURDISH/2.png"
+      "isFree": false
     },
     {
       "name": "Al Iraqia Sport",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "http://imn.iq/"
     },
     {
-      "name": "Shabab Sport 1",
+      "name": "Shabab Sport",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/YEMEN/YEMEN-EDU.png",
       "website": "http://shababsport.tv/"
     }
   ],
@@ -440,48 +369,42 @@
     {
       "name": "Al Iraqiya Al 3ama",
       "isFree": true,
-      "shortName": "AIA3",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "shortName": "AIA 3",
       "priority": 9
     },
     {
       "name": "Al Rasheed",
-      "isFree": true
+      "isFree": true,
+      "website": "https://www.alrasheedmedia.com/"
     },
     {
       "name": "Al Sharqiya",
       "isFree": true,
-      "keywords": "al sharqiya -news",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174746429595_47.png"
+      "keywords": "al sharqiya -news"
     },
     {
       "name": "Al Sumaria",
       "isFree": true,
-      "keywords": "al sumaria | alsumaria",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "keywords": "al sumaria | alsumaria"
     },
     {
       "name": "Ava Entertainment",
-      "isFree": true,
-      "shortName": "AE",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg"
+      "isFree": true
     },
     {
-      "name": "Cihan TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506175033520459_95.png"
+      "name": "Cihan",
+      "isFree": true
     },
     {
       "name": "Gali Kurdistan",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/GK%20TV.png"
+      "isFree": true
     },
     {
       "name": "Iraq Future",
       "isFree": true
     },
     {
-      "name": "Ishtar TV",
+      "name": "Ishtar",
       "isFree": true
     },
     {
@@ -495,116 +418,94 @@
     },
     {
       "name": "KurdMax Sorani",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/KURD%20MAX.png"
+      "isFree": true
     },
     {
       "name": "KurdSat",
       "isFree": true,
-      "keywords": "kurdsat -news",
-      "logo": "https://i.imgur.com/Anlb1SP.png"
+      "keywords": "kurdsat -news"
     },
     {
       "name": "Kurdistan 24",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/KURDISTANTVHD.png"
+      "isFree": true
     },
     {
-      "name": "Kurdistan TV",
-      "isFree": true,
-      "logo": "https://go4.pw/KURDISH/KURDISTANTVHD.png"
+      "name": "Kurdistan",
+      "isFree": true
     },
     {
       "name": "MBC Iraq",
       "isFree": true
     },
     {
-      "name": "NRT TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/NRT.png"
+      "name": "Net",
+      "isFree": true
     },
     {
-      "name": "Net TV",
-      "isFree": true,
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506173945800787_75.png"
+      "name": "Payam",
+      "isFree": true
     },
     {
-      "name": "Payam TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/PAYAM2.png"
-    },
-    {
-      "name": "Speda TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/SPERA%20TV.png"
+      "name": "Speda",
+      "isFree": true
     },
     {
       "name": "SterkTV",
       "isFree": true
     },
     {
-      "name": "WAAR TV",
-      "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/WAAR%20TV.png"
+      "name": "WAAR",
+      "isFree": true
     },
     {
       "name": "Zagros",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png"
+      "website": "https://www.zagrosnews.net/"
     },
     {
       "name": "7 Sky",
       "isFree": true
     },
     {
-      "name": "Afaq TV",
+      "name": "Afaq",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.afaq.tv/"
     },
     {
-      "name": "Alahad TV",
+      "name": "Alahad",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://alahad.iq/"
     },
     {
-      "name": "Alawla TV",
+      "name": "Alawla",
       "isFree": true,
-      "logo": "https://go4.pw/IRAQ/1tviraq.png",
       "website": "https://alawla.tv/live.html"
     },
     {
-      "name": "Al Ayyam TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Ayyam",
+      "isFree": true
     },
     {
       "name": "Al-Baghdadia 2",
       "isFree": true,
-      "logo": "https://lo1.in/uk/247.png",
       "website": "https://albaghdadiatv.com/"
     },
     {
       "name": "Al Diwaniyah",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "isFree": true
     },
     {
-      "name": "Alebaa TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Alebaa",
+      "isFree": true
     },
     {
-      "name": "Al Fallujah TV",
+      "name": "Al Fallujah",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "http://www.alfallujah.tv/"
     },
     {
-      "name": "Al Forat TV",
+      "name": "Al Forat",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://alforatnews.iq/"
     },
     {
@@ -614,118 +515,94 @@
       "website": "http://imn.iq/"
     },
     {
-      "name": "AlKomail Satellite Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png"
+      "name": "AlKomail Satellite",
+      "isFree": true
     },
     {
-      "name": "Al-Masar Al-Oula Satellite Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png"
+      "name": "Al-Masar Al-Oula Satellite",
+      "isFree": true
     },
     {
-      "name": "Al Mawsleya TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+      "name": "Al Mawsleya",
+      "isFree": true
     },
     {
-      "name": "Al-Naeem TV",
+      "name": "Al-Naeem",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.alnaeem-tv.iq/"
     },
     {
-      "name": "Al Rabiaa TV",
+      "name": "Al Rabiaa",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
       "website": "https://www.alrabiaa.tv/"
     },
     {
-      "name": "Al Rasheed TV",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
-      "website": "https://www.alrasheedmedia.com/"
+      "name": "Alshaaer",
+      "isFree": true
     },
     {
-      "name": "Alshaaer TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Altaleaa",
+      "isFree": true
     },
     {
-      "name": "Altaleaa TV",
-      "isFree": true,
-      "logo": "https://go4.pw/IRAQ/AL-TALEAA-TV.png"
+      "name": "Anbar",
+      "isFree": true
     },
     {
-      "name": "Anbar TV Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/IRAQ/ALANBAR.png"
-    },
-    {
-      "name": "Avar TV",
+      "name": "Avar",
       "isFree": true,
       "website": "https://avartv.net/"
     },
     {
-      "name": "Babylon TV",
+      "name": "Babylon",
       "isFree": true
     },
     {
-      "name": "Bangawaz TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Bangawaz",
+      "isFree": true
     },
     {
-      "name": "Beladi Satellite TV",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png"
+      "name": "Beladi Satellite",
+      "isFree": true
     },
     {
       "name": "Dijlah Zaman",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/IRAQ/DIJLAHTV.png",
       "website": "https://www.dijlah.tv/index.php?page=pages&id=tarab"
     },
     {
-      "name": "Diwan TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Diwan",
+      "isFree": true
     },
     {
       "name": "EmanTv",
       "isFree": true
     },
     {
-      "name": "Hona Baghdad TV",
+      "name": "Hona Baghdad",
       "isFree": true,
-      "logo": "https://go4.pw/bein/HONA BAGHDAD.png",
       "website": "http://honabaghdad.tv/"
     },
     {
       "name": "Iraq Now",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7GYM75LEBCYbI6z88lfeFDgqkB.jpg"
+      "isFree": true
     },
     {
-      "name": "Kirkuk TV",
+      "name": "Kirkuk",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/KIRKUK%20TV.png",
       "website": "https://kirkuktv.net/"
     },
     {
-      "name": "Korek TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Korek",
+      "isFree": true
     },
     {
-      "name": "Kurd Channel",
-      "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/KRD.png"
+      "name": "Kurd",
+      "isFree": true
     },
     {
       "name": "KurdMax Kurmanci",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/KURD%20MAX.png",
       "website": "https://www.kurdmax.tv/"
     },
     {
@@ -740,84 +617,66 @@
     {
       "name": "NUBAR Plus +",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/NUBAR-TV.png",
       "website": "http://www.nubar.tv/"
     },
     {
-      "name": "NUBAR tv",
+      "name": "NUBAR",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/KURDISTAN/NUBAR-TV.png",
       "website": "https://www.nubar.tv/"
     },
     {
-      "name": "Parwardayi TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Parwardayi",
+      "isFree": true
     },
     {
       "name": "QTV",
-      "isFree": true,
-      "logo": "https://go4.pw/AFRICA/QTV.png"
+      "isFree": true
     },
     {
-      "name": "Salahalddin TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Salahalddin",
+      "isFree": true
     },
     {
-      "name": "Samarra TV",
+      "name": "Samarra",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "http://www.samarra.tv/"
     },
     {
-      "name": "Shihab TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "Shihab",
+      "isFree": true
     },
     {
-      "name": "Speda Channel",
+      "name": "Speda",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/SPERA%20TV.png",
       "website": "http://www.speda.net/"
     },
     {
       "name": "Speda Drama",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/SPERA%20TV.png",
       "website": "https://www.speda.net/tv2/"
     },
     {
-      "name": "SPI TV",
-      "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png"
+      "name": "SPI",
+      "isFree": true
     },
     {
-      "name": "Tishk TV",
+      "name": "Tishk",
       "isFree": true,
-      "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
       "website": "https://www.tishktv.tv/"
     },
     {
-      "name": "Turkmeneli TV",
+      "name": "Turkmeneli",
       "isFree": true,
       "website": "http://www.turkmenelitv.com/"
     },
     {
       "name": "UTV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/ca4e7cbd4970ab066dd8b29ac1ec2491.png"
+      "isFree": true
     },
     {
       "name": "W.TV",
       "isFree": true,
       "website": "https://www.wtv-watan.com/"
-    },
-    {
-      "name": "Zagros TV",
-      "isFree": true,
-      "logo": "https://images.iptvmate.net/tvglogo/6a0323e39a7017604f15534119ce6b23.png",
-      "website": "https://www.zagrosnews.net/"
     },
     {
       "name": "Alsumaria",
@@ -828,14 +687,18 @@
     {
       "name": "Kurdsat",
       "isFree": true,
-      "logo": "https://i.imgur.com/Anlb1SP.png",
       "website": "https://www.kurdsat.tv/"
     },
     {
-      "name": "Waar TV",
+      "name": "Waar",
       "isFree": true,
-      "logo": "https://go4.pw/EUROPE/KURDISTAN/WAAR%20TV.png",
       "website": "https://waarmedia.com/tv/"
+    },
+    {
+      "name": "NRT",
+      "isFree": true,
+      "keywords": "nrt -2 -3 kids -4",
+      "website": "https://www.nrttv.com/"
     }
   ],
   "Music Videos": [
@@ -851,13 +714,11 @@
   "Education & Culture": [
     {
       "name": "Iraq Educational Sat",
-      "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7GYM75LEBCYbI6z88lfeFDgqkB.jpg"
+      "isFree": true
     },
     {
       "name": "NRT 2",
       "isFree": true,
-      "logo": "https://epg.pw/media/uploads/tmp_logo/2015/11/11/20151111084451048357_50.jpg",
       "website": "https://www.nrttv.com/nrt2/"
     }
   ]

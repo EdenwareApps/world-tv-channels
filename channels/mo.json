@@ -1,15 +1,13 @@
 {
   "Entertainment": [
     {
-      "name": "Boom TV",
+      "name": "Boom",
       "isFree": true,
-      "keywords": "boom",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+      "keywords": "boom"
     },
     {
       "name": "Canal Macau",
-      "isFree": true,
-      "logo": "https://i.imgur.com/QAyakkR.png"
+      "isFree": true
     },
     {
       "name": "RTP Africa",
@@ -18,8 +16,7 @@
     {
       "name": "STV",
       "isFree": true,
-      "keywords": "stv | soico",
-      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png"
+      "keywords": "stv | soico"
     },
     {
       "name": "TDM Info",
@@ -27,85 +24,71 @@
     },
     {
       "name": "TDM Entertainment",
-      "isFree": true,
-      "shortName": "TE",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png"
+      "isFree": true
     },
     {
       "name": "TVI Africa",
-      "isFree": true,
-      "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png"
+      "isFree": true
     },
     {
       "name": "TVM",
       "isFree": true,
-      "keywords": "tvm | tv mocambique | televisao mocambique",
-      "logo": "https://i.imgur.com/QAyakkR.png"
+      "keywords": "tvm | tv mocambique | televisao mocambique"
     },
     {
       "name": "Zap Novelas",
-      "isFree": true,
-      "logo": "https://go4.pw/PORTUGAL/ZAPVIVAHD.png"
+      "isFree": true
     },
     {
       "name": "Zap Viva",
-      "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png"
+      "isFree": true
     },
     {
-      "name": "Lotus TV",
+      "name": "Lotus",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3AeW200hqGLxoPyHMDHpzudylz.jpg",
       "website": "http://www.lotustv.cc/"
     },
     {
       "name": "MASTV",
       "isFree": true,
-      "logo": "https://i.imgur.com/30HzeQe.png",
       "website": "http://www.imastv.com/"
     },
     {
-      "name": "MCTV Channel 1",
+      "name": "MCTV Channel",
       "isFree": true,
-      "logo": "https://i.imgur.com/7VzlbLp.png",
       "website": "https://www.macaucabletv.com/"
     },
     {
-      "name": "MCTV Channel 3 HD",
+      "name": "MCTV Channel 3",
       "isFree": true,
-      "logo": "https://i.imgur.com/7VzlbLp.png",
       "website": "https://www.macaucabletv.com/"
     },
     {
-      "name": "TDM HD",
+      "name": "TDM",
       "isFree": true,
       "website": "http://www.tdm.com.mo/c_tv/?ch=hdctvp"
     },
     {
       "name": "TDM-Macau Satellite",
       "isFree": true,
-      "logo": "https://go4.pw/ASIA/CHINA/GRTGBA.png",
       "website": "http://new.tdm.com.mo/c_tv/?ch=sat"
     },
     {
       "name": "TDM Ou Mun",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",
       "website": "http://new.tdm.com.mo/c_tv/?ch=ctvp"
     }
   ],
   "Kids": [
     {
       "name": "Boomerang",
-      "isFree": true,
-      "logo": "https://i.imgur.com/xF8jZoR.png"
+      "isFree": true
     }
   ],
   "Movies & Series": [
     {
       "name": "Blast",
-      "isFree": false,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44RHvg7HdXK9zLzqdNjSPjls9lT.jpg"
+      "isFree": false
     }
   ],
   "Music Videos": [
@@ -117,23 +100,20 @@
   "Sports": [
     {
       "name": "TDM Sport",
-      "isFree": false,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png"
+      "isFree": false
     },
     {
-      "name": "Football Channel",
+      "name": "Football",
       "isFree": true,
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArMZkbKMc5upqbO1OEz2oi9LYrG.jpg",
       "website": "https://www.macaucabletv.com/"
     },
     {
-      "name": "MCTV Info-Sports Channel",
+      "name": "MCTV Info-Sports",
       "isFree": true,
-      "logo": "https://i.imgur.com/7VzlbLp.png",
       "website": "https://www.macaucabletv.com/"
     },
     {
-      "name": "Sports Channel",
+      "name": "Sports",
       "isFree": true,
       "website": "https://www.macaucabletv.com/"
     },
@@ -147,13 +127,11 @@
     {
       "name": "MCTV iNews",
       "isFree": true,
-      "logo": "https://i.imgur.com/7VzlbLp.png",
       "website": "https://www.macaucabletv.com/"
     },
     {
       "name": "TDM Information",
       "isFree": true,
-      "logo": "https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",
       "website": "http://new.tdm.com.mo/c_tv/?ch=info"
     }
   ]
