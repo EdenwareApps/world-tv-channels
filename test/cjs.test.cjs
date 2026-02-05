@@ -1,6 +1,6 @@
 const { describe, it } = require('node:test');
 const assert = require('node:assert');
-const { getChannels, listCountries } = require('../index.cjs');
+const { getChannels, listCountries } = require('../dist/index.cjs');
 
 describe('@edenware/tv-channels-by-country (CJS)', () => {
   it('getChannels works via require', async () => {

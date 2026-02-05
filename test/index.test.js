@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert';
-import { getChannels, listCountries } from '../index.mjs';
+import { getChannels, listCountries } from '../dist/index.mjs';
 
 describe('@edenware/tv-channels-by-country', () => {
   describe('getChannels', () => {
@@ -43,6 +43,38 @@ describe('@edenware/tv-channels-by-country', () => {
       const lower = await getChannels('br');
       const upper = await getChannels('BR');
       assert.deepStrictEqual(lower, upper);
+    });
+
+    it('applies category priority limits and retransmits rules', async () => {
+      const data = await getChannels('br');
+      assert.ok(data, 'should return data');
+      
+      // Check Religious category max priority (5) - only for channels without retransmits
+      if (data.Religious && data.Religious.length > 0) {
+        for (const ch of data.Religious) {
+          if (ch.retransmits == null || String(ch.retransmits).trim() === '') {
+            assert.ok(ch.priority <= 5, `Religious channel ${ch.name} without retransmits priority ${ch.priority} should be <= 5`);
+          }
+        }
+      }
+      
+      // Check Shop category max priority (4) - only for channels without retransmits
+      if (data.Shop && data.Shop.length > 0) {
+        for (const ch of data.Shop) {
+          if (ch.retransmits == null || String(ch.retransmits).trim() === '') {
+            assert.ok(ch.priority <= 4, `Shop channel ${ch.name} without retransmits priority ${ch.priority} should be <= 4`);
+          }
+        }
+      }
+      
+      // Check channels with retransmits have minimum priority 8
+      for (const [cat, channels] of Object.entries(data)) {
+        for (const ch of channels) {
+          if (ch.retransmits != null && String(ch.retransmits).trim() !== '') {
+            assert.ok(ch.priority >= 8, `Channel ${ch.name} with retransmits should have priority >= 8, got ${ch.priority}`);
+          }
+        }
+      }
     });
   });
 

@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert';
-import { search, generate } from '../index.mjs';
+import { search, generate } from '../dist/index.mjs';
 
 describe('search', () => {
   it('returns matching channels', async () => {
@@ -74,6 +74,16 @@ describe('generate', () => {
       minPerCategory: 5
     });
     assert.ok(results.every((r) => r.retransmits == null || r.retransmits === ''), 'all should be parents');
+  });
+
+  it('respects freeOnly filter', async () => {
+    const results = await generate({
+      countries: ['br', 'us'],
+      freeOnly: true,
+      limit: 50,
+      minPerCategory: 5
+    });
+    assert.ok(results.every((r) => r.isFree === true), 'all should be free-to-air');
   });
 
   it('mainCountryFull includes all from first country, supplements from others', async () => {

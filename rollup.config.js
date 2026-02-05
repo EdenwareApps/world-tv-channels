@@ -6,16 +6,18 @@ export default defineConfig([
   {
     input: 'src/index.js',
     output: {
-      file: 'index.mjs',
+      dir: 'dist',
       format: 'es',
+      entryFileNames: 'index.mjs',
     },
     external: nodeBuiltins,
   },
   {
-    input: 'src/index.cjs.js',
+    input: 'src/index.js',
     output: {
-      file: 'index.cjs',
+      dir: 'dist',
       format: 'cjs',
+      entryFileNames: 'index.cjs',
     },
     external: nodeBuiltins,
   },

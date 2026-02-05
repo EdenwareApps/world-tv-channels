@@ -1,13 +1,16 @@
-import { readFileSync } from 'fs';
-import { fileURLToPath } from 'url';
-import { join, dirname } from 'path';
+'use strict';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
+var fs = require('fs');
+var url = require('url');
+var path = require('path');
+
+var _documentCurrentScript = typeof document !== 'undefined' ? document.currentScript : null;
+const __dirname$1 = path.dirname(url.fileURLToPath((typeof document === 'undefined' ? require('u' + 'rl').pathToFileURL(__filename).href : (_documentCurrentScript && _documentCurrentScript.tagName.toUpperCase() === 'SCRIPT' && _documentCurrentScript.src || new URL('index.cjs', document.baseURI).href))));
 const cache = new Map();
 
 function loadJson(relativePath) {
-  const fullPath = join(__dirname, '..', relativePath);
-  return JSON.parse(readFileSync(fullPath, 'utf8'));
+  const fullPath = path.join(__dirname$1, '..', relativePath);
+  return JSON.parse(fs.readFileSync(fullPath, 'utf8'));
 }
 
 function normalizeKeyword(str) {
@@ -90,7 +93,7 @@ function normalizeChannels(data) {
  * @param {string} countryCode - ISO country code (e.g. 'br', 'us')
  * @returns {Promise<Record<string, object[]>|null>} Categories with channel objects, or null if not found
  */
-export async function getChannels(countryCode) {
+async function getChannels(countryCode) {
   if (!countryCode || typeof countryCode !== 'string') return null;
   const code = countryCode.toLowerCase().trim();
 
@@ -115,7 +118,7 @@ export async function getChannels(countryCode) {
  * List available country codes.
  * @returns {Promise<string[]>} Sorted list of country codes
  */
-export async function listCountries() {
+async function listCountries() {
   return loadJson('channels/countries.json');
 }
 
@@ -129,7 +132,7 @@ export async function listCountries() {
  * @param {number} [opts.limit=18] - Max results
  * @returns {Promise<Array<{country: string} & object>>} Matching channels with country
  */
-export async function search(keywords, opts = {}) {
+async function search(keywords, opts = {}) {
   const { countries: countriesOpt = null, categories: categoriesOpt = null, retransmits: retransmitsOpt = 'all', limit = 18 } = opts;
   const countries = countriesOpt ?? (await listCountries());
   const needle = normalizeKeyword(keywords);
@@ -168,7 +171,7 @@ export async function search(keywords, opts = {}) {
  * @param {number} [opts.minPerCategory=18] - Min channels per category (stop adding when reached)
  * @returns {Promise<Array<{country: string, category: string} & object>>} Channels with country and category
  */
-export async function generate(opts = {}) {
+async function generate(opts = {}) {
   const { countries = [], categories: categoriesOpt = null, retransmits: retransmitsOpt = 'all', mainCountryFull = false, limit = 256, minPerCategory = 18, freeOnly = false } = opts;
   const byCategory = {};
   let total = 0;
@@ -226,3 +229,8 @@ export async function generate(opts = {}) {
   }
   return out.slice(0, limit);
 }
+
+exports.generate = generate;
+exports.getChannels = getChannels;
+exports.listCountries = listCountries;
+exports.search = search;
