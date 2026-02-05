@@ -1,6 +1,6 @@
 {
   "name": "@edenware/tv-channels-by-country",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Community-maintained JSON list of TV station names and categories from around the world",
   "type": "module",
   "main": "index.cjs",

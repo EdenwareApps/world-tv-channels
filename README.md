@@ -89,6 +89,7 @@ Builds a list of channels from multiple countries, sorted by priority, with bala
 | `limit`            | number   | 256     | Max results                                         |
 | `minPerCategory`   | number   | 18      | Target channels per category                        |
 | `mainCountryFull`  | boolean  | false   | If true, include ALL channels from first country    |
+| `freeOnly`         | boolean  | false   | If true, includes only free-to-air channels (`isFree: true`) |
 
 ---
 

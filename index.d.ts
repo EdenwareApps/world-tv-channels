@@ -56,6 +56,8 @@ export interface GenerateOptions {
   mainCountryFull?: boolean;
   limit?: number;
   minPerCategory?: number;
+  /** Se true, retorna apenas canais gratuitos (isFree === true) */
+  freeOnly?: boolean;
 }
 
 export function generate(opts?: GenerateOptions): Promise<ChannelWithMeta[]>;

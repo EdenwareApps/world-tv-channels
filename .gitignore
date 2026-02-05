@@ -1,5 +1,7 @@
+
 # Not distributed (build/enrichment tooling)
 channels/enrichment/
+channels/data/
 
 # Scratch/example script (npm test uses test/*.test.js)
 test.js
