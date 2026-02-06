@@ -41,6 +41,12 @@ function sortByPriority(channels) {
   return [...channels].sort((a, b) => (b.priority ?? DEFAULT_PRIORITY) - (a.priority ?? DEFAULT_PRIORITY));
 }
 
+function weightedPriority(ch, countryIndex) {
+  const base = ch.priority ?? DEFAULT_PRIORITY;
+  const divisor = Math.max(1, countryIndex + 1);
+  return base / divisor;
+}
+
 /** Filter by retransmits: 'all' | 'parents' (no retransmits) | 'affiliates' (has retransmits) */
 function passesRetransmitsFilter(ch, mode) {
   if (!mode || mode === 'all') return true;
@@ -133,6 +139,7 @@ async function search(keywords, opts = {}) {
 
 /**
  * Generate a list of channels from countries by priority, merging categories until each hits minPerCategory.
+ * Then greedily fills remaining slots up to limit using weighted priority that favors earlier countries.
  * @param {object} opts
  * @param {string[]} opts.countries - Country codes in priority order
  * @param {string[]|null} [opts.categories=null] - Category names to include, null = all
@@ -145,11 +152,35 @@ async function search(keywords, opts = {}) {
 async function generate(opts = {}) {
   const { countries = [], categories: categoriesOpt = null, retransmits: retransmitsOpt = 'all', mainCountryFull = false, limit = 256, minPerCategory = 18 } = opts;
   const byCategory = {};
+  const remainingCandidates = [];
+  const seen = new Set();
   let total = 0;
 
   const countriesToProcess = [...countries];
+  const countryIndex = new Map(countriesToProcess.map((code, index) => [code, index]));
   const mainCountry = mainCountryFull && countriesToProcess.length > 0 ? countriesToProcess[0] : null;
   const others = mainCountryFull && countriesToProcess.length > 1 ? countriesToProcess.slice(1) : countriesToProcess;
+
+  function keyFor(ch, country, category) {
+    return `${country}::${category}::${ch.name}`;
+  }
+
+  function addChannel(ch, country, category) {
+    const key = keyFor(ch, country, category);
+    if (seen.has(key)) return false;
+    if (!byCategory[category]) byCategory[category] = [];
+    byCategory[category].push({ ...ch, country, category });
+    seen.add(key);
+    total += 1;
+    return true;
+  }
+
+  function addRemainingCandidate(ch, country, category) {
+    const key = keyFor(ch, country, category);
+    if (seen.has(key)) return;
+    const index = countryIndex.get(country) ?? countriesToProcess.length;
+    remainingCandidates.push({ ch, country, category, score: weightedPriority(ch, index) });
+  }
 
   // When mainCountryFull: add ALL channels from main country first
   if (mainCountry) {
@@ -158,14 +189,16 @@ async function generate(opts = {}) {
       for (const [cat, channels] of Object.entries(data)) {
         if (categoriesOpt != null && !categoriesOpt.includes(cat)) continue;
         const filtered = channels.filter((ch) => passesRetransmitsFilter(ch, retransmitsOpt));
-        const list = sortByPriority(filtered).map((ch) => ({ ...ch, country: mainCountry, category: cat }));
-        byCategory[cat] = list;
-        total += list.length;
+        const list = sortByPriority(filtered);
+        for (const ch of list) {
+          addChannel(ch, mainCountry, cat);
+        }
       }
     }
   }
 
   // Then supplement from others (or from all if not mainCountryFull)
+  let limitReached = false;
   for (const code of others) {
     if (total >= limit) break;
     const data = await getChannels(code);
@@ -175,20 +208,46 @@ async function generate(opts = {}) {
       if (categoriesOpt != null && !categoriesOpt.includes(cat)) continue;
       if (total >= limit) break;
       const current = byCategory[cat] ?? [];
-      if (current.length >= minPerCategory) continue;
 
       const filtered = channels.filter((ch) => passesRetransmitsFilter(ch, retransmitsOpt));
-      const needed = minPerCategory - current.length;
+      const needed = Math.max(0, minPerCategory - current.length);
       const remaining = limit - total;
       const take = Math.min(needed, remaining, filtered.length);
       const sorted = sortByPriority(filtered);
 
-      for (let i = 0; i < take; i++) {
+      for (let i = 0; i < sorted.length; i++) {
         const ch = sorted[i];
-        if (ch) current.push({ ...ch, country: code, category: cat });
+        if (!ch) continue;
+        if (i < take) {
+          addChannel(ch, code, cat);
+          if (total >= limit) {
+            limitReached = true;
+            break;
+          }
+        } else {
+          addRemainingCandidate(ch, code, cat);
+        }
       }
-      byCategory[cat] = current;
-      total += take;
+      byCategory[cat] = byCategory[cat] ?? current;
+      if (limitReached) break;
+    }
+    if (limitReached) break;
+  }
+
+  if (total < limit && remainingCandidates.length > 0) {
+    remainingCandidates.sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score;
+      const aPriority = a.ch.priority ?? DEFAULT_PRIORITY;
+      const bPriority = b.ch.priority ?? DEFAULT_PRIORITY;
+      if (bPriority !== aPriority) return bPriority - aPriority;
+      const aIndex = countryIndex.get(a.country) ?? countriesToProcess.length;
+      const bIndex = countryIndex.get(b.country) ?? countriesToProcess.length;
+      return aIndex - bIndex;
+    });
+
+    for (const item of remainingCandidates) {
+      if (total >= limit) break;
+      addChannel(item.ch, item.country, item.category);
     }
   }
 

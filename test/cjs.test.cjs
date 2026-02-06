@@ -1,6 +1,6 @@
 const { describe, it } = require('node:test');
 const assert = require('node:assert');
-const { getChannels, listCountries } = require('../dist/index.cjs');
+const { getChannels, listCountries, generate } = require('../dist/index.cjs');
 
 describe('@edenware/tv-channels-by-country (CJS)', () => {
   it('getChannels works via require', async () => {
@@ -13,5 +13,19 @@ describe('@edenware/tv-channels-by-country (CJS)', () => {
     const countries = await listCountries();
     assert.ok(Array.isArray(countries), 'should be array');
     assert.ok(countries.includes('br'), 'should include br');
+  });
+
+  it('generate works via require', async () => {
+    const results = await generate({
+      countries: ['br', 'us'],
+      limit: 10,
+      minPerCategory: 2
+    });
+    assert.ok(Array.isArray(results), 'should be array');
+    assert.ok(results.length <= 10, 'should respect limit');
+    if (results.length > 0) {
+      assert.ok(results[0].country, 'should have country');
+      assert.ok(results[0].category, 'should have category');
+    }
   });
 });
