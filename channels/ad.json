@@ -2,38 +2,44 @@
   "News": [
     {
       "name": "Bloomberg TV EMEA Live Event",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Bloomberg TV Europe",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "CNN International Europe",
       "isFree": true,
-      "priority": 10
+      "priority": 5
     }
   ],
   "Sports": [
     {
       "name": "MavTV Europe",
-      "isFree": false
+      "isFree": false,
+      "priority": 5
     }
   ],
   "Entertainment": [
     {
       "name": "NTV Europe",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Andorra",
       "isFree": true,
-      "website": "https://www.andorradifusio.ad/"
+      "website": "https://www.andorradifusio.ad/",
+      "priority": 5
     },
     {
       "name": "Loria",
       "isFree": true,
-      "website": "http://www.loriatv.com/"
+      "website": "http://www.loriatv.com/",
+      "priority": 5
     }
   ]
 }

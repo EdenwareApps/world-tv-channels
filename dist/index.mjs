@@ -1,13 +1,25 @@
-import { readFileSync } from 'fs';
+import { existsSync, statSync, readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 
-const __dirname$1 = dirname(fileURLToPath(import.meta.url));
+const __dirname$1 = dirname(dirname(fileURLToPath(import.meta.url)));
 const cache = new Map();
+let dataDir = __dirname$1;
 
 function loadJson(relativePath) {
-  const fullPath = join(__dirname$1, '..', relativePath);
+  const fullPath = join(dataDir, relativePath);
   return JSON.parse(readFileSync(fullPath, 'utf8'));
+}
+
+function setSourceDir(dir) {
+  const fullPath = require('path').resolve(dir);
+  if (existsSync(fullPath) && statSync(fullPath).isDirectory()) {
+    dataDir = fullPath;
+    cache.clear(); // Limpar cache para forçar recarregamento
+    console.log(`Fonte de dados alterada para: ${dataDir}`);
+  } else {
+    throw new Error(`Diretório inválido: ${fullPath}`);
+  }
 }
 
 function normalizeKeyword(str) {
@@ -25,22 +37,22 @@ function deriveKeywords(name) {
 const DEFAULT_PRIORITY = 5;
 
 const CATEGORY_MAX_PRIORITY = {
-  Religious: 5,
-  News: 4,
-  Sports: 4,
-  Entertainment: 3,
-  Kids: 3,
-  Music: 3,
-  Lifestyle: 3,
-  Documentary: 3,
-  Educational: 3,
+  Entertainment: 10,
+  Sports: 10,
+  News: 9,
+  Kids: 9,
+  Music: 8,
+  Lifestyle: 8,
+  General: 8,
+  Movies: 8,
+  Series: 8,
+  Documentary: 7,
+  Educational: 7,
   Shop: 4,
-  Business: 2,
-  General: 2,
-  Movies: 2,
-  Series: 2,
-  Radio: 1,
-  Other: 1
+  Business: 4,
+  Religious: 4,
+  Radio: 4,
+  Other: 4
 };
 
 function normalizeChannel(ch, cat) {
@@ -51,12 +63,17 @@ function normalizeChannel(ch, cat) {
   if (ch.retransmits != null && String(ch.retransmits).trim() !== '' && priority < 8) {
     priority = 8;
   }
+  // Paid channels cannot have priority > 8
+  const isFree = ch.isFree ?? true;
+  if (!isFree && priority > 8) {
+    priority = 8;
+  }
   return {
     name: ch.name,
     keywords: ch.keywords !== undefined ? ch.keywords : deriveKeywords(ch.name),
     retransmits: ch.retransmits ?? null,
     shortName: ch.shortName !== undefined ? ch.shortName : ch.name,
-    isFree: ch.isFree ?? true,
+    isFree,
     logo: ch.logo ?? null,
     website: ch.website ?? null,
     priority
@@ -92,13 +109,17 @@ function normalizeChannels(data) {
 
 /**
  * Get channels (full schema with categories).
+/**
  * Uses dynamic loading — loads only the requested country into memory (with cache).
  * @param {string} countryCode - ISO country code (e.g. 'br', 'us')
+ * @param {object} [options={}] - Options
+ * @param {boolean} [options.throwOnMissing=false] - If true, throw an error when the channel file is not found, instead of returning null
  * @returns {Promise<Record<string, object[]>|null>} Categories with channel objects, or null if not found
  */
-async function getChannels(countryCode) {
+async function getChannels(countryCode, options = {}) {
   if (!countryCode || typeof countryCode !== 'string') return null;
   const code = countryCode.toLowerCase().trim();
+  const { throwOnMissing = false } = options;
 
   if (cache.has(code)) {
     return cache.get(code);
@@ -111,6 +132,10 @@ async function getChannels(countryCode) {
     return data;
   } catch (e) {
     if (e?.code === 'ENOENT' || e?.code === 'MODULE_NOT_FOUND') {
+      if (throwOnMissing) {
+        const fullPath = join(__dirname$1, '..', `channels/${code}.json`);
+        throw new Error(`Channel file not found: ${fullPath}`);
+      }
       return null;
     }
     throw e;
@@ -173,10 +198,12 @@ async function search(keywords, opts = {}) {
  * @param {boolean} [opts.mainCountryFull=false] - When true, first country is the user's main: include ALL its channels, supplement only categories below minPerCategory from others
  * @param {number} [opts.limit=256] - Max total channels
  * @param {number} [opts.minPerCategory=18] - Min channels per category (stop adding when reached)
+ * @param {boolean} [opts.throwOnMissingChannels=false] - If true, throw an error when a channel file for a country is not found, instead of skipping it
  * @returns {Promise<Array<{country: string, category: string} & object>>} Channels with country and category
  */
 async function generate(opts = {}) {
-  const { countries = [], categories: categoriesOpt = null, retransmits: retransmitsOpt = 'all', mainCountryFull = false, limit = 256, minPerCategory = 18, freeOnly = false } = opts;
+  console.log('generate called', opts);
+  const { countries = [], categories: categoriesOpt = null, retransmits: retransmitsOpt = 'all', mainCountryFull = false, limit = 256, minPerCategory = 18, freeOnly = false, throwOnMissingChannels = false } = opts;
   const byCategory = {};
   const remainingCandidates = [];
   const seen = new Set();
@@ -210,9 +237,10 @@ async function generate(opts = {}) {
 
   // When mainCountryFull: add ALL channels from main country first
   if (mainCountry) {
-    const data = await getChannels(mainCountry);
+    const data = await getChannels(mainCountry, { throwOnMissing: throwOnMissingChannels });
     if (data) {
-      for (const [cat, channels] of Object.entries(data)) {
+      for (const cat of Object.keys(data).sort((a, b) => (CATEGORY_MAX_PRIORITY[b] ?? DEFAULT_PRIORITY) - (CATEGORY_MAX_PRIORITY[a] ?? DEFAULT_PRIORITY))) {
+        const channels = data[cat];
         if (categoriesOpt != null && !categoriesOpt.includes(cat)) continue;
         let filtered = channels.filter((ch) => passesRetransmitsFilter(ch, retransmitsOpt));
         if (freeOnly) filtered = filtered.filter((ch) => ch.isFree === true);
@@ -228,10 +256,11 @@ async function generate(opts = {}) {
   let limitReached = false;
   for (const code of others) {
     if (total >= limit) break;
-    const data = await getChannels(code);
+    const data = await getChannels(code, { throwOnMissing: throwOnMissingChannels });
     if (!data) continue;
 
-    for (const [cat, channels] of Object.entries(data)) {
+    for (const cat of Object.keys(data).sort((a, b) => (CATEGORY_MAX_PRIORITY[b] ?? DEFAULT_PRIORITY) - (CATEGORY_MAX_PRIORITY[a] ?? DEFAULT_PRIORITY))) {
+      const channels = data[cat];
       if (categoriesOpt != null && !categoriesOpt.includes(cat)) continue;
       if (total >= limit) break;
       const current = byCategory[cat] ?? [];
@@ -283,7 +312,7 @@ async function generate(opts = {}) {
   for (const channels of Object.values(byCategory)) {
     out.push(...channels);
   }
-  return out.slice(0, limit);
+  return sortByPriority(out).slice(0, limit);
 }
 
-export { generate, getChannels, listCountries, search };
+export { generate, getChannels, listCountries, search, setSourceDir };

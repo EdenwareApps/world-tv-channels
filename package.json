@@ -1,16 +1,16 @@
 {
   "name": "@edenware/tv-channels-by-country",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Community-maintained JSON list of TV station names and categories from around the world",
   "type": "module",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
-  "types": "index.d.ts",
+  "types": "src/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
       "require": "./dist/index.cjs",
-      "types": "./index.d.ts"
+      "types": "./src/index.d.ts"
     },
     "./channels/*.json": "./channels/*.json",
     "./*.json": "./*.json"
@@ -18,7 +18,7 @@
   "files": [
     "dist/index.mjs",
     "dist/index.cjs",
-    "index.d.ts",
+    "src/index.d.ts",
     "channels/*.json",
     "channels/README.md",
     "*.json"

@@ -2,23 +2,27 @@
   "Entertainment": [
     {
       "name": "Korean Central Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Mansudae Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
     {
       "name": "Ryongnamsan Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Sports": [
     {
       "name": "Sports Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 10
     }
   ]
 }

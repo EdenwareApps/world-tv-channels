@@ -24,15 +24,23 @@ export type ChannelWithMeta = Channel & { country: string; category: string };
  * Get channels (full schema with categories).
  * Uses dynamic import — loads only the requested country into memory.
  * @param countryCode - ISO country code (e.g. 'br', 'us')
+ * @param options - Options
+ * @param options.throwOnMissing - If true, throw an error when the channel file is not found, instead of returning null
  * @returns Categories with channel objects, or null if not found
  */
-export function getChannels(countryCode: string): Promise<ChannelsByCategory | null>;
+export function getChannels(countryCode: string, options?: { throwOnMissing?: boolean }): Promise<ChannelsByCategory | null>;
 
 /**
  * List available country codes.
  * @returns Sorted list of country codes
  */
 export function listCountries(): Promise<string[]>;
+
+/**
+ * Set a custom source directory for data files.
+ * @param dir - Absolute or relative path to the data directory
+ */
+export function setSourceDir(dir: string): void;
 
 export interface SearchOptions {
   countries?: string[] | null;
@@ -58,6 +66,8 @@ export interface GenerateOptions {
   minPerCategory?: number;
   /** Se true, retorna apenas canais gratuitos (isFree === true) */
   freeOnly?: boolean;
+  /** If true, throw an error when a channel file for a country is not found, instead of skipping it */
+  throwOnMissingChannels?: boolean;
 }
 
 export function generate(opts?: GenerateOptions): Promise<ChannelWithMeta[]>;

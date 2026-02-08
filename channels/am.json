@@ -2,326 +2,384 @@
   "Entertainment": [
     {
       "name": "21TV",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ARTN",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ATV",
       "isFree": true,
-      "keywords": "atv -թավա tv -խաղալիք -կինոման -հայ tv -ֆիլմզոն"
+      "keywords": "atv -թավա tv -խաղալիք -կինոման -հայ tv -ֆիլմզոն",
+      "priority": 5
     },
     {
       "name": "ATV Թավա",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Amga",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Horizon Armenian",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ALT",
       "isFree": true,
-      "website": "https://alttv.am/"
+      "website": "https://alttv.am/",
+      "priority": 5
     },
     {
       "name": "Ankyun+ 3",
       "isFree": true,
-      "website": "https://ankyun3news.com/"
+      "website": "https://ankyun3news.com/",
+      "priority": 5
     },
     {
       "name": "Arma",
       "isFree": true,
-      "website": "http://armatv.am/"
+      "website": "http://armatv.am/",
+      "priority": 5
     },
     {
       "name": "Armenia",
       "isFree": true,
-      "website": "https://www.1tv.am/"
+      "website": "https://www.1tv.am/",
+      "priority": 5
     },
     {
       "name": "Armenia 2",
       "isFree": true,
-      "website": "http://www.tv.am/"
+      "website": "http://www.tv.am/",
+      "priority": 5
     },
     {
       "name": "Armenia Komedi",
-      "isFree": true
-    },
-    {
-      "name": "Armenia",
       "isFree": true,
-      "keywords": "armenia tv -satellite",
-      "website": "https://www.armeniatv.am/"
+      "priority": 5
     },
     {
       "name": "Armenia TV Satellite",
       "isFree": true,
-      "website": "https://www.1tv.am/hy"
+      "website": "https://www.1tv.am/hy",
+      "priority": 5
     },
     {
       "name": "ATV Bazmoc",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     },
     {
       "name": "ATV Tava",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     },
     {
       "name": "Boon",
       "isFree": true,
-      "website": "https://boon.am/"
+      "website": "https://boon.am/",
+      "priority": 5
     },
     {
       "name": "Delta TV USA",
       "isFree": true,
-      "website": "http://www.deltatv.am/channel/Delta%20TV%20USA"
+      "website": "http://www.deltatv.am/channel/Delta%20TV%20USA",
+      "priority": 5
     },
     {
       "name": "Fortuna",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "GALA",
       "isFree": true,
-      "website": "https://galatv.am/"
+      "website": "https://galatv.am/",
+      "priority": 5
     },
     {
       "name": "Geghama",
       "isFree": true,
-      "website": "https://geghama.am/"
+      "website": "https://geghama.am/",
+      "priority": 5
     },
     {
       "name": "Kentron",
       "isFree": true,
       "keywords": "kentron tv -international",
-      "website": "https://www.kentron.tv/"
+      "website": "https://www.kentron.tv/",
+      "priority": 5
     },
     {
       "name": "Kentron TV International",
       "isFree": true,
-      "website": "https://www.kentron.tv/"
+      "website": "https://www.kentron.tv/",
+      "priority": 5
     },
     {
       "name": "Kotayk",
       "isFree": true,
-      "website": "http://kotayktv.am/"
+      "website": "http://kotayktv.am/",
+      "priority": 5
     },
     {
       "name": "Lori TVR",
       "isFree": true,
-      "website": "https://www.loritv.am/"
+      "website": "https://www.loritv.am/",
+      "priority": 5
     },
     {
       "name": "Nor Hayastan",
       "isFree": true,
-      "website": "http://norhayastan.com/page/live"
+      "website": "http://norhayastan.com/page/live",
+      "priority": 5
     },
     {
       "name": "Nur",
       "isFree": true,
-      "website": "http://nurtv.am/index.html"
+      "website": "http://nurtv.am/index.html",
+      "priority": 5
     },
     {
       "name": "Shant",
       "isFree": true,
-      "website": "https://www.shanttv.com/"
+      "website": "https://www.shanttv.com/",
+      "priority": 5
     },
     {
       "name": "Syunik",
       "isFree": true,
-      "website": "https://www.syunik.tv/"
+      "website": "https://www.syunik.tv/",
+      "priority": 5
     },
     {
       "name": "Tavush",
       "isFree": true,
-      "website": "https://tavushmedia.am/en/tv/"
+      "website": "https://tavushmedia.am/en/tv/",
+      "priority": 5
     },
     {
       "name": "Tsayg",
       "isFree": true,
-      "website": "https://tsayg.am/"
+      "website": "https://tsayg.am/",
+      "priority": 5
     },
     {
       "name": "We",
       "isFree": true,
-      "website": "http://www.deltatv.am/channel/%D5%84%D5%A5%D5%B6%D6%84"
+      "website": "http://www.deltatv.am/channel/%D5%84%D5%A5%D5%B6%D6%84",
+      "priority": 5
     },
     {
       "name": "Western Armenia",
       "isFree": true,
-      "website": "https://westernarmeniatv.com/"
+      "website": "https://westernarmeniatv.com/",
+      "priority": 5
     },
     {
       "name": "Yerkir Media",
       "isFree": true,
-      "website": "https://yerkirmedia.am/"
+      "website": "https://yerkirmedia.am/",
+      "priority": 5
     },
     {
       "name": "Zangezur",
       "isFree": true,
-      "website": "https://zangezur.tv/"
+      "website": "https://zangezur.tv/",
+      "priority": 5
     }
   ],
   "Comedy": [
     {
       "name": "Armenia Քոմեդի",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Kids": [
     {
       "name": "Armenia Town Townik",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ATV Khaghaliq",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     }
   ],
   "News": [
     {
       "name": "5TV",
       "isFree": true,
-      "website": "https://www.5tv.am/"
+      "website": "https://www.5tv.am/",
+      "priority": 5
     },
     {
       "name": "ABNews",
       "isFree": true,
-      "website": "https://abnews.am/"
+      "website": "https://abnews.am/",
+      "priority": 5
     },
     {
       "name": "ArmNews",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Azatutyun",
       "isFree": true,
-      "website": "https://www.azatutyun.am/"
+      "website": "https://www.azatutyun.am/",
+      "priority": 5
     },
     {
       "name": "Bac",
       "isFree": true,
-      "website": "https://bactv.am/"
+      "website": "https://bactv.am/",
+      "priority": 5
     },
     {
       "name": "CivilNet",
       "isFree": true,
-      "website": "https://www.civilnet.am/"
+      "website": "https://www.civilnet.am/",
+      "priority": 5
     },
     {
       "name": "Delta",
       "isFree": true,
       "keywords": "delta tv -usa",
-      "website": "http://www.deltatv.am/channel/%D4%B4%D5%A5%D5%AC%D5%BF%D5%A1-TV"
+      "website": "http://www.deltatv.am/channel/%D4%B4%D5%A5%D5%AC%D5%BF%D5%A1-TV",
+      "priority": 5
     },
     {
       "name": "Factor",
       "isFree": true,
-      "website": "https://factor.am/"
+      "website": "https://factor.am/",
+      "priority": 5
     },
     {
       "name": "First Channel News",
       "isFree": true,
-      "website": "https://www.1lurer.am/"
+      "website": "https://www.1lurer.am/",
+      "priority": 5
     },
     {
       "name": "Freenews",
       "isFree": true,
-      "website": "https://freenews.am/"
+      "website": "https://freenews.am/",
+      "priority": 5
     },
     {
       "name": "NEWS.am",
       "isFree": true,
-      "website": "https://news.am/eng/news-am-tv/"
+      "website": "https://news.am/eng/news-am-tv/",
+      "priority": 5
     }
   ],
   "Religious": [
     {
       "name": "Shoghakat",
       "isFree": true,
-      "website": "https://www.shoghakat.am/"
+      "website": "https://www.shoghakat.am/",
+      "priority": 4
     }
   ],
   "Movies & Series": [
     {
       "name": "Armenia Premium",
-      "isFree": false
+      "isFree": false,
+      "priority": 5
     },
     {
       "name": "Armenia Հայ Կինո",
-      "isFree": false
+      "isFree": false,
+      "priority": 5
     },
     {
       "name": "Armenia Hay Kino",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Armenia Sinemaks",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ATV Filmzone",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     },
     {
       "name": "ATV Kinoman",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     }
   ],
   "Music Videos": [
     {
       "name": "ATV Հայ",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Armenia Ջան",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Fresh",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Armenia Jan",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ATV Hay",
       "isFree": true,
-      "website": "https://atv.am/"
+      "website": "https://atv.am/",
+      "priority": 5
     },
     {
       "name": "DAR 21",
       "isFree": true,
-      "website": "https://21tv.am/"
+      "website": "https://21tv.am/",
+      "priority": 5
     },
     {
       "name": "SONGTV Armenia",
       "isFree": true,
-      "website": "https://songtv.am/"
+      "website": "https://songtv.am/",
+      "priority": 5
     }
   ],
   "Education & Culture": [
     {
       "name": "Ararat",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Cultural",
       "isFree": true,
-      "website": "https://www.armculturalchannel.com/"
+      "website": "https://www.armculturalchannel.com/",
+      "priority": 5
     }
   ],
   "Sports": [
@@ -329,17 +387,14 @@
       "name": "Fast Sports",
       "isFree": true,
       "keywords": "fast sports -1 -2",
-      "website": "https://www.fasttv.am/live/fastsports"
-    },
-    {
-      "name": "Fast Sports",
-      "isFree": true,
-      "website": "https://www.fasttv.am/live/fastsports1"
+      "website": "https://www.fasttv.am/live/fastsports",
+      "priority": 10
     },
     {
       "name": "Fast Sports 2",
       "isFree": true,
-      "website": "https://www.fasttv.am/live/fastsports2"
+      "website": "https://www.fasttv.am/live/fastsports2",
+      "priority": 10
     }
   ]
 }

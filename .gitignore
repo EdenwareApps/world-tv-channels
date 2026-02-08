@@ -35,3 +35,11 @@ Thumbs.db
 *.bak14
 /enrichment
 /data
+/ai-responses
+debug_path.cjs
+dist/debug_path.cjs
+fix_categories.js
+fix_retransmits.js
+review_priorities.js
+test_countries.js
+test_priorities.js

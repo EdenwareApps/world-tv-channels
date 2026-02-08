@@ -2,144 +2,176 @@
   "Entertainment": [
     {
       "name": "Air",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Brian",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Hmong Star",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "LS",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Lao Champa",
       "isFree": true,
-      "keywords": "lao champa tv -2 -3"
+      "keywords": "lao champa tv -2 -3",
+      "priority": 5
     },
     {
       "name": "Lao Champa TV 2",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Lao Champa TV 3",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Ning",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Oy Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Tea TV 2",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Uniquely Thai",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Champasack",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Dao Lane Xang",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "ISTV",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Lao Net",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Lao Public Security",
       "isFree": true,
-      "website": "https://laopstv.com/"
+      "website": "https://laopstv.com/",
+      "priority": 5
     },
     {
       "name": "LATV",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "LNTV",
       "isFree": true,
-      "website": "https://www.lntv.gov.la/"
+      "website": "https://www.lntv.gov.la/",
+      "priority": 5
     },
     {
       "name": "LNTV 3",
       "isFree": true,
-      "website": "https://www.lntv.gov.la/"
+      "website": "https://www.lntv.gov.la/",
+      "priority": 5
     },
     {
       "name": "Luang Prabang",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "MV Lao",
       "isFree": true,
-      "website": "https://www.mvtv.co.th/channel/mvlao-tv"
+      "website": "https://www.mvtv.co.th/channel/mvlao-tv",
+      "priority": 5
     },
     {
       "name": "Oh Muang Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sieng Khaen Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "TV Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Vati Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "VTE 9",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Shop": [
     {
       "name": "Lao Champa TV",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Laos Planet",
       "isFree": true,
-      "website": "http://www.planet.com.la/"
+      "website": "http://www.planet.com.la/",
+      "priority": 4
     },
     {
       "name": "Lone Sinh Lao",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     }
   ],
   "Education & Culture": [
     {
       "name": "Lao ESTV",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Lao Star",
       "isFree": true,
-      "website": "https://www.laostar.tv/"
+      "website": "https://www.laostar.tv/",
+      "priority": 5
     }
   ],
   "Music Videos": [
     {
       "name": "Look Thoong",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ]
 }

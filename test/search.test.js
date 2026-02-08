@@ -165,7 +165,7 @@ describe('generate', () => {
   });
 
   it('mainCountryFull includes all from first country, supplements from others', async () => {
-    const { getChannels } = await import('../index.mjs');
+    const { getChannels } = await import('../dist/index.mjs');
     const brData = await getChannels('br');
     const brShopTotal = (brData?.Shop ?? []).length;
     const results = await generate({

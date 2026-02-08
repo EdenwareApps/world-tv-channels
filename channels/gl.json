@@ -2,16 +2,19 @@
   "Entertainment": [
     {
       "name": "KNR",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "KNR 2",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Nanoq Media",
       "isFree": true,
-      "website": "https://nanoqmedia.gl/"
+      "website": "https://nanoqmedia.gl/",
+      "priority": 5
     }
   ]
 }

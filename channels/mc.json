@@ -2,57 +2,69 @@
   "Entertainment": [
     {
       "name": "Monaco Info",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Superyacht",
       "isFree": true,
-      "website": "https://superyacht.tv/"
+      "website": "https://superyacht.tv/",
+      "priority": 5
     },
     {
       "name": "Truman",
       "isFree": true,
-      "website": "https://www.radiotruman.tv/"
+      "website": "https://www.radiotruman.tv/",
+      "priority": 5
     },
     {
       "name": "TV Monaco",
       "isFree": true,
-      "website": "https://www.tvmonaco.com"
+      "website": "https://www.tvmonaco.com",
+      "priority": 5
     },
     {
       "name": "FIFA",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "UEFA",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Formula",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Rugby World Cup",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "International Handball Federation",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "European Handball Federation",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Davis Cup",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Education & Culture": [
     {
       "name": "GEM",
       "isFree": true,
-      "website": "https://gem-tv.com/tv"
+      "website": "https://gem-tv.com/tv",
+      "priority": 5
     }
   ]
 }

@@ -4,78 +4,94 @@
       "name": "AYV",
       "isFree": true,
       "keywords": "ayv tv -entertainment",
-      "website": "http://www.ayvnews.com/"
+      "website": "http://www.ayvnews.com/",
+      "priority": 5
     },
     {
       "name": "AMAZE",
       "isFree": true,
-      "website": "https://atvbase.live/"
+      "website": "https://atvbase.live/",
+      "priority": 5
     },
     {
       "name": "AYV TV Entertainment",
       "isFree": true,
-      "website": "https://ayvnews.com/channel-34/"
+      "website": "https://ayvnews.com/channel-34/",
+      "priority": 5
     },
     {
       "name": "Classic",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Freetown Television Network",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Karima",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "KTV Sierra Leone",
       "isFree": true,
-      "website": "https://ktvsl.com/"
+      "website": "https://ktvsl.com/",
+      "priority": 5
     },
     {
       "name": "Liberty Online",
       "isFree": true,
-      "website": "https://libertyonlinetv.com"
+      "website": "https://libertyonlinetv.com",
+      "priority": 5
     },
     {
       "name": "Magic",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "SLBC",
       "isFree": true,
-      "website": "https://www.slbc.gov.sl/"
+      "website": "https://www.slbc.gov.sl/",
+      "priority": 5
     },
     {
       "name": "Slik",
       "isFree": true,
-      "website": "https://sliktv.com/"
+      "website": "https://sliktv.com/",
+      "priority": 5
     },
     {
       "name": "STAR",
       "isFree": true,
-      "website": "https://mediaonecentre.com/startv"
+      "website": "https://mediaonecentre.com/startv",
+      "priority": 5
     },
     {
       "name": "Truth Television",
       "isFree": true,
-      "website": "https://truthmedia.sl/"
+      "website": "https://truthmedia.sl/",
+      "priority": 5
     }
   ],
   "Religious": [
     {
       "name": "Living Stone Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Mercy",
       "isFree": true,
-      "website": "https://christfaithmedia.co/mercytv/"
+      "website": "https://christfaithmedia.co/mercytv/",
+      "priority": 4
     },
     {
       "name": "Redeemer Television",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     }
   ]
 }

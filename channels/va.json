@@ -3,33 +3,40 @@
     {
       "name": "Vatican Media",
       "isFree": true,
-      "website": "https://www.comunicazione.va/it/vatican-media.html"
+      "website": "https://www.comunicazione.va/it/vatican-media.html",
+      "priority": 5
     }
   ],
   "Religious": [
     {
       "name": "Vatican News Deutsch",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Vatican News English",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Vatican News Espanol",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Vatican News Francais",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Vatican News Italiano",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Vatican News Portugues",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     }
   ]
 }

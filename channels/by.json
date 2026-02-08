@@ -2,320 +2,374 @@
   "Local": [
     {
       "name": "Belteleradio",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 2",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 3",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 4",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 5",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus- 24",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "NTV Belarus",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Minsk",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Rtr-belarus",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Mir",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Trio Media",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "TNT-International",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "TV- 3",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Cosmos Telecom",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
     {
-      "name": "Belarus- 24",
-      "isFree": true,
-      "website": "https://belarus24.by/"
-    },
-    {
       "name": "Perviy Informationniy",
       "isFree": true,
-      "website": "https://news.by/"
+      "website": "https://news.by/",
+      "priority": 5
     }
   ],
   "Music Videos": [
     {
       "name": "Sluhay.by",
       "isFree": true,
-      "keywords": "sluhay.by -aillion -among your god -christ -edm -lenadi -live -mova -pop -rap -rock -xtip"
+      "keywords": "sluhay.by -aillion -among your god -christ -edm -lenadi -live -mova -pop -rap -rock -xtip",
+      "priority": 5
     },
     {
       "name": "Sluhay.by Aillion",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Christ",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by EDM",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Lenadi",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Live",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Mova",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Pop",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Rap",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Rock",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Sluhay.by Xtip",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "BelMuzTV",
       "isFree": true,
-      "website": "http://belmuztv.by/"
+      "website": "http://belmuztv.by/",
+      "priority": 5
     },
     {
       "name": "First Music",
       "isFree": true,
       "keywords": "first music channel -russia",
-      "website": "http://1mus.com/"
+      "website": "http://1mus.com/",
+      "priority": 5
     },
     {
       "name": "First Music Channel Russia",
       "isFree": true,
-      "website": "http://1mus.com/"
+      "website": "http://1mus.com/",
+      "priority": 5
     }
   ],
   "Entertainment": [
     {
       "name": "1Mus",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "8 Kanal Vitebsk",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 24",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus 4 Vitebsk",
       "isFree": true,
-      "shortName": "B4V"
+      "shortName": "B4V",
+      "priority": 5
     },
     {
       "name": "Belros",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "CTV Belarus",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Hawe TV Vitebsk",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Nastoyashcheye vremya",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Pervyy Muzykal'nyy 2 BY",
       "isFree": true,
-      "shortName": "PM2B"
+      "shortName": "PM2B",
+      "priority": 5
     },
     {
       "name": "Pervyy Muzykal'nyy BY",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Pervyy Muzykal'nyy RU BY",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Planeta RTR",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Vitebsk Telekanal",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Belarus-",
       "isFree": true,
-      "website": "http://www.tvr.by/"
+      "website": "http://www.tvr.by/",
+      "priority": 5
     },
     {
       "name": "Belarus- 2",
       "isFree": true,
-      "website": "http://belarus2.by/"
+      "website": "http://belarus2.by/",
+      "priority": 5
     },
     {
       "name": "Belarus- 4",
       "isFree": true,
-      "website": "http://www.tvr.by/"
+      "website": "http://www.tvr.by/",
+      "priority": 5
     },
     {
       "name": "BelBiznesChenel",
       "isFree": true,
-      "website": "https://bbch.by/"
+      "website": "https://bbch.by/",
+      "priority": 5
     },
     {
       "name": "Bug-TV",
       "isFree": true,
-      "website": "https://bugtv.by/"
+      "website": "https://bugtv.by/",
+      "priority": 5
     },
     {
       "name": "Channel 8 Belarus",
       "isFree": true,
-      "website": "http://8channel.tv/"
+      "website": "http://8channel.tv/",
+      "priority": 5
     },
     {
       "name": "Laguna",
       "isFree": true,
-      "website": "https://www.lagunatv.by/"
+      "website": "https://www.lagunatv.by/",
+      "priority": 5
     },
     {
       "name": "Lida-TV",
       "isFree": true,
-      "website": "https://tv-lida.by/"
+      "website": "https://tv-lida.by/",
+      "priority": 5
     },
     {
       "name": "Nashe",
       "isFree": true,
-      "website": "https://nashetv.by/"
+      "website": "https://nashetv.by/",
+      "priority": 5
     },
     {
       "name": "NTV-Belarus",
       "isFree": true,
-      "website": "http://tvr.by/rus/ntv.asp"
+      "website": "http://tvr.by/rus/ntv.asp",
+      "priority": 5
     },
     {
       "name": "ONT",
       "isFree": true,
-      "website": "https://ont.by/"
-    },
-    {
-      "name": "RTR-Belarus",
-      "isFree": true,
-      "website": "http://belrtr.by/"
+      "website": "https://ont.by/",
+      "priority": 5
     },
     {
       "name": "STV",
       "isFree": true,
-      "website": "http://ctv.by/"
+      "website": "http://ctv.by/",
+      "priority": 5
     },
     {
       "name": "Svetloe",
       "isFree": true,
-      "website": "https://svet-tv.com/"
+      "website": "https://svet-tv.com/",
+      "priority": 5
     },
     {
       "name": "TV2 Mogilev",
       "isFree": true,
-      "website": "https://tv2.by/"
+      "website": "https://tv2.by/",
+      "priority": 5
     },
     {
       "name": "Varjag",
       "isFree": true,
-      "website": "http://varjag.net/"
+      "website": "http://varjag.net/",
+      "priority": 5
     },
     {
       "name": "Vitebsk",
       "isFree": true,
       "keywords": "vitebsk -telekanal",
-      "website": "https://vtv.by/"
+      "website": "https://vtv.by/",
+      "priority": 5
     },
     {
       "name": "VTV",
       "isFree": true,
-      "website": "http://www.v-tv.by/"
+      "website": "http://www.v-tv.by/",
+      "priority": 5
     }
   ],
   "Radios": [
     {
       "name": "Radio HIT Orsk",
       "isFree": true,
-      "priority": 4
+      "priority": 5
     }
   ],
   "Religious": [
     {
       "name": "Sluhay.by Among Your God",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     }
   ],
   "Education & Culture": [
     {
       "name": "Belarus- 3",
       "isFree": true,
-      "website": "http://www.3belarus.by/"
+      "website": "http://www.3belarus.by/",
+      "priority": 5
     },
     {
       "name": "Zvyazda",
       "isFree": true,
-      "website": "https://zvyazda.by/"
+      "website": "https://zvyazda.by/",
+      "priority": 5
     }
   ],
   "Sports": [
     {
       "name": "Belarus- 5",
       "isFree": true,
-      "website": "http://tvr.by/"
+      "website": "http://tvr.by/",
+      "priority": 5
     }
   ],
   "Movies & Series": [
     {
       "name": "YASNAe",
       "isFree": true,
-      "website": "http://tv.yasna.by/"
+      "website": "http://tv.yasna.by/",
+      "priority": 5
     }
   ]
 }

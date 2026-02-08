@@ -2,92 +2,112 @@
   "Entertainment": [
     {
       "name": "Télé Sahel",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Annour",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Canal 3 Monde",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Canal 3 Niger",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Dounia",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Esperance",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Tal",
       "isFree": true,
-      "website": "https://www.ortn.ne/"
+      "website": "https://www.ortn.ne/",
+      "priority": 5
     },
     {
       "name": "Tambara",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Tauraruwa",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Tele Sahel",
       "isFree": true,
-      "website": "http://www.ortn.ne/"
+      "website": "http://www.ortn.ne/",
+      "priority": 5
     },
     {
       "name": "Tenere",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Wangari",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "News": [
     {
       "name": "Anfani",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Bonferey",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Labari",
       "isFree": true,
-      "website": "https://www.labarinfo.com/"
+      "website": "https://www.labarinfo.com/",
+      "priority": 5
     },
     {
       "name": "Niger 24",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     },
     {
       "name": "Saraounia",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ],
   "Religious": [
     {
       "name": "Fidelite",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     },
     {
       "name": "Sunna TV Ayneha",
-      "isFree": true
+      "isFree": true,
+      "priority": 4
     }
   ],
   "Sports": [
     {
       "name": "Liptako",
-      "isFree": true
+      "isFree": true,
+      "priority": 5
     }
   ]
 }
